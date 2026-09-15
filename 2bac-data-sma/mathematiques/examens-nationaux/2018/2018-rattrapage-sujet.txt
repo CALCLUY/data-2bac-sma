@@ -1,0 +1,131 @@
+---
+Type: Examen National
+Année: 2018
+Session: Rattrapage
+Nature: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2018 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية : "أ" و "ب" (الترجمة الفرنسية)
+RS 25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte 4 exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+  - L'exercice 1 se rapporte aux structures algébriques ………………..(3.5 pts)
+  - L'exercice 2 se rapporte aux nombres complexes …………………….(3.5 pts)
+  - L'exercice 3 se rapporte au calcul des probabilités …………………..(3 pts)
+  - L'exercice 4 se rapporte à l'analyse …………………………………………..(10 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 (3,5 points) :
+
+On rappelle que $\left(M_{2}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire de zéro la matrice nulle $O = \begin{pmatrix} 0 & 0 \\ 0 & 0 \end{pmatrix}$
+
+et d'unité la matrice $I = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$ et que $\left(M_{2}(\mathbb{R}) , + , \cdot\right)$ est un espace vectoriel réel de dimension 4.
+
+Pour tout couple $(x , y) \in \mathbb{R}^{2}$, on pose $M(x , y) = \begin{pmatrix} x & y \\ 0 & x \end{pmatrix}$ et on considère l'ensemble $E = \left\{ M(x , y) \ / \ (x , y) \in \mathbb{R}^{2} \right\}$
+
+0,5 — 1- Montrer que $E$ est un sous-groupe du groupe $\left(M_{2}(\mathbb{R}) , +\right)$
+
+0,5 — 2- a) Montrer que $E$ est un sous-espace de l'espace vectoriel $\left(M_{2}(\mathbb{R}) , + , \cdot\right)$
+
+0,25 — b) Montrer que l'espace vectoriel réel $\left(E , + , \cdot\right)$ est de dimension $2$
+
+0,25 — 3- a) Montrer que $E$ est stable pour la loi « $\times$ »
+
+0,5 — b) Montrer que $\left(E , + , \times\right)$ est un anneau commutatif.
+
+4- On définit dans $M_{2}(\mathbb{R})$ la loi de composition interne $\top$ par : pour tout $M(x , y)$ et $M(x' , y')$ de $M_{2}(\mathbb{R})$,
+
+$$M(x , y) \top M(x' , y') = M(x , y) \times M(x' , y') - M(y , 0) \times M(y' , 0)$$
+
+Et soit $\varphi$ l'application de $\mathbb{C}^{*}$ vers $E$ qui à tout nombre complexe $x + iy$ (où $(x , y) \in \mathbb{R}^{2}$) fait correspondre la matrice $M(x , y)$ de $E$
+
+0,25 — a) Montrer que $E$ est stable pour la loi « $\top$ »
+
+0,25 — b) Montrer que $\varphi$ est un homomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ vers $\left(E , \top\right)$
+
+0,25 — c) On pose : $E^{*} = E - \left\{ O \right\}$. Montrer que $\left(E^{*} , \top\right)$ est un groupe commutatif.
+
+0,5 — 5- a) Montrer que la loi $\top$ est distributive par rapport à la loi « $+$ » dans $E$
+
+0,25 — b) Montrer que $\left(E , + , \top\right)$ est un corps commutatif.
+
+## EXERCICE 2 : (3,5 points)
+
+1- Pour tout nombre complexe $z \in \mathbb{C} - \{ i \}$ on pose : $h(z) = \dfrac{\left(z - i\right)^{2}}{z - i} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a) Vérifier que : $h(z) = z \Leftrightarrow z^{2} - 2iz - 2 = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Résoudre dans $\mathbb{C}$ l'équation $(E) : z^{2} - 2iz - 2 = 0$
+
+2- Le plan complexe est rapporté à un repère orthonormé $\left(O , \overrightarrow{e_{1}} , \overrightarrow{e_{2}}\right)$.
+
+On note $a$ et $b$ les deux solutions de l'équation $(E)$ tel que : $\operatorname{Re}(a) = 1$
+
+Et pour tout $z \in \mathbb{C} - \left\{ i , a , b \right\}$ on note $M(z)$, $M'\left(h(z)\right)$, $A(a)$ et $B(b)$ les points d'affixes respectivement $z$, $h(z)$, $a$ et $b$
+
+0,75 — a) Montrer que : $\dfrac{h(z) - a}{h(z) - b} = -\dfrac{z - a}{z - b}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b) En déduire que : $\left(\overrightarrow{M'B} , \overrightarrow{M'A}\right) \equiv \left(\overrightarrow{MB} , \overrightarrow{MA}\right) + \pi \ \left[2\pi\right]$
+
+0,5 — 3- a) Montrer que si $M$, $A$ et $B$ sont alignés alors $M$, $A$, $B$ et $M'$ sont alignés.
+
+0,5 — b) Montrer que si $M$, $A$ et $B$ ne sont pas alignés alors $M$, $A$, $B$ et $M'$ sont cocycliques.
+
+## EXERCICE 3 : (3 points)
+
+On lance 10 fois de suite une pièce de monnaie parfaitement équilibrée.
+
+On désigne par $X$ la variable aléatoire égale à la fréquence d'apparition de la face « pile ». (le nombre de fois d'apparition de la face « pile » divisé par 10)
+
+1 — 1- a) Déterminer les valeurs prises par $X$
+
+1 — b) Déterminer la probabilité de l'événement $\left(X = \dfrac{1}{2}\right)$
+
+1 — 2- Quelle est la probabilité de l'évènement : $X$ supérieur ou égal à $\dfrac{9}{10}$ ?
+
+## EXERCICE 4 : (10 points) :
+
+Soit $f$ la fonction numérique définie sur l'intervalle $\left[0 , +\infty\right[$ par : $f(x) = x \ln^{2} x$ [FORMULA_IMAGE_UNREADABLE] pour $x > 0$ et $f(0) = 0$
+
+On note $(C)$ sa courbe représentative dans un repère orthonormé $\left(O , \overrightarrow{i} , \overrightarrow{j}\right)$
+
+0,5 — 1- a) Montrer que $f$ est continue à droite en $0$
+
+(On pourra remarquer que : $f(x) = 4\left(x^{\frac{1}{4}} \ln\left(x^{\frac{1}{4}}\right)\right)^{2} \ldots$ [FORMULA_IMAGE_UNREADABLE])
+
+0,75 — b) Calculer $\lim\limits_{x \to +\infty} f(x)$ et $\lim\limits_{x \to +\infty} \dfrac{f(x)}{x}$, puis interpréter graphiquement le résultat obtenu
+
+0,75 — 2- a) Étudier la dérivabilité de $f$ à droite en $0$, puis interpréter graphiquement le résultat obtenu.
+
+0,75 — b) Montrer que $f$ est dérivable sur $\left]0 , +\infty\right[$ puis calculer $f'(x)$ pour $x > 0$.
+
+1 — c) Étudier les variations de $f$ sur $\left]0 , +\infty\right[$, en déduire que : $\left(\forall x \in \left]0 , 1\right]\right) \quad 0 \leq x \ln^{2} x \leq 4 e^{-2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — d) Tracer la courbe $(C)$ dans un repère orthonormé. (On prendra pour unité 2 cm)
+
+3- Pour tout réel $x > 0$, on pose $F(x) = \displaystyle\int_{1}^{x} f(t)\,dt$
+
+0,5 — a) Montrer que la fonction $F$ est dérivable sur l'intervalle $\left]0 , +\infty\right[$
+
+1 — b) Calculer $F'(x)$ pour $x > 0$, en déduire le sens de variation de $F$ sur $\left]0 , +\infty\right[$
+
+0,75 — 4- a) En utilisant la méthode d'intégration par parties, calculer $\displaystyle\int_{1}^{x} t \ln t\,dt$ pour tout $x > 0$
+
+0,75 — b) Montrer que pour $x > 0$, $F(x) = \dfrac{2}{3} x \ln^{2} x - \dfrac{8}{9} x \ln x + \dfrac{16}{27} x - \dfrac{16}{27} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — c) En déduire l'aire du domaine plan limité par la courbe $(C)$ et les droites d'équations respectives : $x = 0$, $x = 1$ et $y = 0$
+
+5- Pour tout entier naturel $n$ non nul, on pose : $u_{n} = \displaystyle\int_{1}^{1 + \frac{1}{n}} f(x)\,dx$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — a) Montrer que la suite $\left(u_{n}\right)_{n \geq 1}$ est bornée et strictement monotone.
+
+0,75 — b) Montrer que la suite $\left(u_{n}\right)_{n \geq 1}$ est convergente puis calculer $\lim\limits_{n \to +\infty} u_{n}$
+
+FIN

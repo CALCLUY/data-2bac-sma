@@ -1,0 +1,122 @@
+---
+Type: Examen National
+Année: 2023
+Session: Rattrapage
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية — الدورة الاستدراكية 2023
+شعبة العلوم الرياضية (أ) و (ب) (خيار فرنسية) — المادة : الرياضيات
+عناصر الإجابة — RR 24F — المعامل : 9 — مدة الإنجاز : 4h
+
+## EXERCICE 1 — Éléments de réponses — Barème
+
+I 1- a) Vérification ……………………………………………… — 0.25
+Déduction ……………………………………………….. — 0.25
+
+b) Calcul de $\lim\limits_{x \to +\infty} f_{n}(x)$ — 0.25
+
+c) Vérification ……………………………………………… — 0.25
+Déduction ……………………………………………….. — 0.25
+Interprétation graphique ………………………………… — 0.25
+
+d) Calcul de $\lim\limits_{x \to 0^{+}}\dfrac{f_{n}(x)}{x}$ ……………………………………. — 0.25
+Interprétation graphique …………………………………. — 0.25
+
+2- a) Dérivabilité de $f_{n}$ sur $\left]0 ; +\infty\right[$ ………………………….. — 0.25
+Calcul de $f_{n}'(x)$ ………………………………………… — 0.5
+
+b) Vérification — 0.25
+
+c) Etude de variations de $f_{n}$ suivant la parité de $n$. — 2×0.5
+
+d) Si $n$ est impair et $n \geq 3$ alors le point d'abscisse $1$ est un point d'inflexion de $\left(C_{n}\right)$ — 0.25
+
+II 1- a) Démonstration de : $\left(\forall n \geq 1\right)$ ; $0 \leq u_{n} \leq \sqrt{e}$ — 0.25
+
+b) Décroissance de la suite $\left(u_{n}\right)_{n \geq 1}$ — 0.25
+
+c) Détermination de $\lim\limits_{n \to +\infty} u_{n}$ — 0.25
+
+2- a) Existence et unicité. — 0.5
+
+b) Croissance de la suite $\left(x_{n}\right)_{n}$ …………………………… — 0.5
+Déduction de la convergence de $\left(x_{n}\right)_{n}$ ……………….. — 0.25
+
+3- a) Démonstration de : $1 \leq \ell \leq e$ ……………………………... — 0.25
+Démonstration de : $\ell \neq 1$ ………………………………... — 0.25
+
+b) Démonstration de : $\lim\limits_{n \to +\infty}\left(\ln x_{n}\right)^{n} = 1$ — 0.25
+
+c) Démonstration de : $\ell \neq e \Rightarrow \lim\limits_{n \to +\infty} n\ln\left(\ln x_{n}\right) = -\infty$ — 0.25
+
+d) Déduction de la valeur de $\ell$ — 0.25
+
+III 1- a) Continuité de la fonction $F$ sur l'intervalle $I$ — 0.25
+
+b) Double intégration par parties. — 2×0.5
+
+2- a) Calcul de $\lim\limits_{x \to 0^{+}} F(x)$ — 0.5
+
+b) Déduction de $F(0)$ — 0.25
+
+c) Volume du solide de révolution. — 0.5
+
+## EXERCICE 2 — Éléments de réponses — Barème
+
+I 1- a) Démonstration de : $z + \dfrac{1}{z} = \dfrac{12}{5} + \dfrac{4}{5}i$ — 0.25
+
+b) Démonstration de l'égalité : $z^{2} - \left(\dfrac{12}{5} + \dfrac{4}{5}i\right)z + 1 = 0$ …… — 0.25
+Déduction des valeurs possibles de $z$ …………………… — 0.5
+
+c) Déduction des valeurs du couple $(x , y)$ — 0.25
+
+2- Résolution dans $\mathbb{R}_{+}^{2}$ du système $(S)$ — 0.5
+
+II 1- Démonstration de l'équivalence — 0.25
+
+2- a) Démonstration de : $p = \dfrac{bc}{a}$ — 0.5
+
+b) Démonstration de : $q = -p$ — 0.5
+
+c) Démonstration de : $(PR) \perp (OB)$ — 0.5
+
+## EXERCICE 3 — Éléments de réponses — Barème
+
+1- $E$ sous-groupe de $\left(M_{3}(\mathbb{R}) , +\right)$ — 0.25
+
+2- a) $\varphi$ homomorphisme de $\left(E , +\right)$ vers $\left(\mathbb{R} \times \mathbb{C} , *\right)$ ……….. — 0.25
+$\varphi(E) = \mathbb{R} \times \mathbb{C}$ ………………………………………… — 0.25
+
+b) $\left(\mathbb{R} \times \mathbb{C} , *\right)$ groupe commutatif. — 0.25
+
+3- a) $T$ est commutative — 0.25
+
+b) Vérification. — 0.25
+
+c) $\forall x \in \mathbb{R}$, $\left(1 , i\right)\,T\,\left(x , -i\right) = \left(0 , 1\right)$ ……………………. — 0.25
+$T$ est non associative …………………………………. — 0.25
+
+4- a) $G$ sous-groupe de $\left(\mathbb{R} \times \mathbb{C} , *\right)$ — 0.25
+
+b) $\phi$ est un homomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ vers $\left(\mathbb{R} \times \mathbb{C} , T\right)$ — 0.25
+
+c) $\left(G - \left\{(0,0)\right\} , T\right)$ groupe commutatif. — 0.5
+
+5- $\left(G , * , T\right)$ est un corps commutatif. — 0.5
+
+## EXERCICE 4 — Éléments de réponses — Barème
+
+1- a) $p$ et $q$ sont premiers entre eux. — 0.5
+
+b) Déduction de : $p^{q-1} \equiv 1 \ [q]$ — 0.25
+
+c) Vérification ………………………………………………. — 0.25
+Déduction ………………………………………………… — 0.25
+
+2- a) Démonstration de : $p \equiv 1 \ [q]$ — 0.75
+
+b) Déduction de : $S \equiv 1 \ [q]$ — 0.25
+
+3- Démonstration de : $q \equiv 1 \ [p]$ — 0.75

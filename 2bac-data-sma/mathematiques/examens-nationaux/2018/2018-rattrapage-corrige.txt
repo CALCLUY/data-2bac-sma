@@ -1,0 +1,97 @@
+---
+Type: Examen National
+Année: 2018
+Session: Rattrapage
+Nature: Corrigé
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - المسالك الدولية – خيار فرنسية
+الدورة الاستدراكية 2018 – عناصر الإجابة - مادة : الرياضيات
+شعبة العلوم الرياضية : "أ" و "ب" – خيار فرنسية
+RR 24F — المعامل : 9 — مدة الإنجاز : 4
+
+## exercice 1 — Indication de solution / Barème
+
+1- sous-groupe — 0,5
+
+2- a) sous-espace vectoriel — 0,5
+
+b) $\dim E = 2$ — 0,25
+
+3- a) la stabilité pour $\times$ — 0,25
+
+b) $\left(E , + , \times\right)$ anneau commutatif — 0,5
+
+4- a) la stabilité pour $\top$ — 0,25
+
+b) homomorphisme — 0,25
+
+c) $\left(E^{*} , \top\right)$ groupe commutatif — 0,25
+
+5- a) La distributivité — 0,5
+
+b) $\left(E , + , \top\right)$ est un corps commutatif — 0,25
+
+## exercice 2 — indication de solution / Barème
+
+1- a) vérification — 0,5
+
+b) les deux solutions de l'équation sont : $1 + i$ et $-1 + i$ — 2 × 0,25
+
+2- a) l'égalité — 0,75
+
+b) l'égalité — 0,75
+
+3- a) l'implication — 0,5
+
+b) l'implication — 0,5
+
+## exercice 3
+
+1- a) les valeurs prises par $X$ sont : $0 , \dfrac{1}{10} , \dfrac{2}{10} , \ldots\ldots , \dfrac{9}{10} , 1$ — 1
+
+b) Calcul de $p\left(X = \dfrac{1}{2}\right) = p\left(X = 5\right) = \dfrac{10!}{5!\,5!} \left(\dfrac{1}{2}\right)^{5} \left(\dfrac{1}{2}\right)^{5}$ — 1
+
+2- Calcul de $p\left(X \geq \dfrac{9}{10}\right)$ — 1
+
+## exercice 4 — indication de solution / Barème
+
+1- a) continuité à droite en $0$ — 0,5
+
+b) calcul de $\lim\limits_{x \to +\infty} f(x)$ ……………………………………………0,25
+calcul de $\lim\limits_{x \to +\infty} \dfrac{f(x)}{x}$ ……………………………………………0,25
+B.P. de direction l'axe des abscisses………………………0,25 — 0,75
+
+2- a) Dérivabilité à droite en $0$……………………………………..0,5
+Interprétation graphique……………………………………..0,25 — 0,75
+
+b) Dérivabilité sur $\left]0 , +\infty\right[$ ………………………………………0,25
+calcul de $f'(x)$ …………………………………………………..0,5 — 0,75
+
+c) variations de $f$ sur $\left[0 , +\infty\right[$ …………………………………………..0,5
+déduction de l'inégalité…………………………………………………..0,5 — 1
+
+d) représentation graphique avec respect de l'unité de mesure — 0,5
+
+3- a) $f$ est continue sur $\left[0 , +\infty\right[$ et la fonction $x \mapsto \displaystyle\int_{1}^{x} f(t)\,dt$ est sa primitive qui s'annule en $1$ — 0,5
+
+b) $F'(x) = f(x)$ [FORMULA_IMAGE_UNREADABLE] ……………………………………………….0,5
+variations de $F$ …………………………………………………….0,5 — 1
+
+4- a) calcul de $\displaystyle\int_{1}^{x} t \ln t\,dt$ pour $x > 0$ — 0,75
+
+b) l'égalité — 0,75
+
+c) l'aire $= \displaystyle\int_{0}^{1} f(x)\,dx \times 4\,cm^{2} = \left|F(0)\right| \times 4\,cm^{2} = \left|\lim\limits_{x \to 0^{+}} F(x)\right| \times 4\,cm^{2} = \dfrac{64}{27}\,cm^{2}$
+
+car la fonction $F$ est continue à droite en $0$
+
+0,75 pour le calcul de l'intégrale et 0,25 pour l'unité de mesure — 1
+
+5- a) la suite est bornée…………………………………………………0,5
+la suite est strictement monotone ………………………..0,5 — 1
+
+b) la suite est convergente…………………………………………0,25
+$\lim\limits_{n \to +\infty} u_{n} = 0$ [FORMULA_IMAGE_UNREADABLE] ……………………………………………………………0,5 — 0,75

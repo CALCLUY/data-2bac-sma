@@ -1,0 +1,144 @@
+---
+Type: Examen National
+Année: 2020
+Session: Rattrapage
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — الدورة الاستدراكية 2020 – عناصر الإجابة –
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة بالفرنسية — مادة : الرياضيات
+RR 25 — المعامل : 9 — مدة الإنجاز : 4
+
+N.B : Si un candidat traite les deux exercices qui sont au choix (totalement ou partiellement) on lui attribue la meilleure note obtenue parmi les deux notes (et non pas la somme des deux notes).
+
+## EXERCICE 1 — Indications de solutions — Barème
+
+1- a) On utilise le théorème de BEZOUT ou directement — 0.5
+
+b) On applique le théorème de FERMAT ……………………………… 0.5
+On remplace dans $9^{p-1} + 1 \equiv 0 \ [q]$ [FORMULA_IMAGE_UNREADABLE] ……………………… 0.5 — (1)
+
+2- a) On a $p - 1 < p < q$ et $q$ premier — 0.5
+
+b) il existe $(u , v) \in \mathbb{N}^{2}$ tel que : $uq + v(p - 1) = 1$ et $9^{uq} \equiv 1 \ [p]$ et $9^{v(p-1)} \equiv 1 \ [p]$ [FORMULA_IMAGE_UNREADABLE]
+donc $9 \equiv 1 \ [p]$ donc $p$ divise $8 = 2^{3}$ ……… 0.5
+
+3- a) $9 \wedge q = 1$ et on utilise le théorème de FERMAT — 0.5
+
+b) Si on remplace $p$ par 2 on obtient $9^{q+1} \equiv 1 \ [q]$ [FORMULA_IMAGE_UNREADABLE]
+Et puisque $9^{q-1} \equiv 1 \ [q]$ donc $9^{2} \equiv 1 \ [q]$ donc $q$ divise $80 = 2^{4} \times 5$
+et $q > 2$ donc $q = 5$ — 0.5
+
+## EXERCICE 2 — Indications de solutions — Barème
+
+### Première partie
+
+1- a) Propriété caractéristique d'un s.e.v — 0.25
+
+b) Une famille génératrice ……………………………………… 0.25
+On montre qu'elle est libre ………………………………… 0.25
+— 0.5
+
+2- a) Vérification — 0.25
+
+b) $\left(E , +\right)$ groupe commutatif ; $E$ stable pour la multiplication dans $M_{3}(\mathbb{R})$
+La loi multiplicative est associative et distributive par rapport à l'addition d'après la stabilité
+La loi multiplicative est commutative dans $E$ d'après 2-a)
+— 0.5
+
+### Deuxième partie
+
+1- Propriété caractéristique d'un sous-groupe — 0.25
+
+2- a) morphisme de $\left(\mathbb{C}^{*} , \times\right)$ vers $\left(E , \times\right)$ — 0.25
+
+b) $F^{*} \subset \mathbb{C}^{*}$ [FORMULA_IMAGE_UNREADABLE] et $\left(F^{*} , \times\right)$ groupe commutatif — 0.5
+
+c) $\left(F , + , \times\right)$ corps commutatif d'unité $M(1 , 0 , 0) = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE] — 0.5
+
+3- a) Vérification — 0.25
+
+b) Aucun élément de $F$ n'est régulier pour la multiplication dans $M_{3}(\mathbb{R})$ — 0.25
+
+## EXERCICE 3 — Indications de solutions — Barème
+
+I- 1- Les deux solutions de $(E)$ sont : $z_{1} = -1 + im$ et $z_{2} = \overline{z_{1}}$ — 0.5
+
+2- a) $2i$ est la solution imaginaire pure. — 0.25
+
+b) Les deux autres solutions de $(F)$ sont celles de $(E)$ : $z_{1}$ et $z_{2}$ — 0.5
+
+II- 1- Les valeurs de $p$, $q$ et $r$ en fonction de $m$ — 0.5×3
+
+2- a) Vérification — 0.25
+
+b) $|p| = |q - r|$ et $\arg\left(\dfrac{q - r}{p}\right) \equiv \dfrac{\pi}{2} \ [2\pi]$ [FORMULA_IMAGE_UNREADABLE] — 0.25×2
+
+## EXERCICE 4 — Indications de solutions — Barème
+
+### Première partie :
+
+1- a) $f$ dérivable sur $I$ …………………………………………………. 0.25
+Calcul de la fonction dérivée …………………………………….. 0.5
+— 0.75
+
+b) La fonction dérivée est strictement décroissante sur $I$ — 0.5
+
+c) Existence et unicité de $a$ ……………………………………… 0.5
+$f(a) = \dfrac{a^{2}}{2 - a}$ …………………………………………………….. 0.25
+— 0.75
+
+2- a) Variations de $f$ ………………………………………………………… 0.5
+T.V de $f$ …………………………………………………………………… 0.25
+— 0.75
+
+b) La dérivée seconde est négative (ou la dérivée première est strictement décroissante) — 0.5
+
+c) La courbe est toujours au dessous de ses tangentes — 0.5
+
+d) Cas particulier des tangentes aux points d'abscisse 0 et 1 — 0.5
+
+3- Représentation graphique — 0.5
+
+4- Calcul de surface : $4 \displaystyle\int_{0}^{1} f(x)\,dx = \left(2\ln 2 - \dfrac{5}{4}\right)\,cm^{2}$ [FORMULA_IMAGE_UNREADABLE] — 0.75
+
+### Deuxième partie :
+
+1- a) Vérification que $f_{n}$ est positive ……………………. 0.25
+Vérification que $f_{n}(0) = f_{n}(1) = 0$ ……………….. 0.25
+— 0.5
+
+b) Application du théorème de ROLLE à la fonction $f_{n}$ sur $[0 ; 1]$ — 0.5
+
+2- a) $f_{n}$ dérivable ……………………………………………………. 0.25
+Calcul de $f_{n}'$ …………………………………………………. 0.5
+— 0.75
+
+b) La fonction $g_{n}$ est strictement décroissante sur $I$ — 0.5
+
+c) $g_{n}$ est strictement décroissante (injective) d'où l'unicité de $\alpha_{n}$ — 0.5
+
+3- a) Expression de $f_{n}\left(\alpha_{n}\right)$ ……………………………………………….. 0.5
+Calcul de limite $0 < \alpha_{n} < 1$ donc $0 < \dfrac{\alpha_{n}^{n+1}}{n\left(2 - \alpha_{n}\right)} < \dfrac{1}{n}$ …………… 0.5
+— 1
+
+b) Expression de $g_{n+1}\left(\alpha_{n}\right)$ ………………………………………… 0.5
+Monotonie de la suite $\left(\alpha_{n}\right)$ ………………………………………. 0.5
+— 1
+
+c) Suite croissante et majorée — 0.25
+
+d) Calcul de limite — 0.5
+
+### Troisième partie :
+
+1- La suite $\left(I_{n}\right)$ est décroissante ……………………………………… 0.5
+La suite est minorée donc convergente ………………………… 0.25
+— 0.75
+
+2- Intégration par parties — 0.5
+
+3- Encadrement de $I_{n}$ …………………………………………………… 0.5
+Calcul de limite …………………………………………………………….. 0.25
+— 0.75

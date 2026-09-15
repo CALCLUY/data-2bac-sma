@@ -1,0 +1,179 @@
+---
+Type: Examen National
+Année: 2023
+Session: Rattrapage
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية — الدورة الاستدراكية 2023
+شعبة العلوم الرياضية (أ) و (ب) (خيار فرنسية) — المادة : الرياضيات
+الموضوع — RS 24F — المعامل : 9 — مدة الإنجاز : 4h
+
+CONSIGNES :
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte quatre exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- L'exercice1 se rapporte à l'analyse ………..………..… (10 pts)
+- L'exercice2 se rapporte aux nombres complexes......…. (3.5 pts)
+- L'exercice3 se rapporte aux structures algébriques…... (3.5 pts)
+- L'exercice4 se rapporte à l'arithmétique ………...…..... (3 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 : (10 points)
+
+### Partie I
+
+Pour tout entier naturel non nul $n$, on considère la fonction $f_{n}$ définie sur $I = \left[0 , +\infty\right[$
+par : $f_{n}(0) = 0$ et $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f_{n}(x) = \sqrt{x}\left(\ln x\right)^{n}$ [FORMULA_IMAGE_UNREADABLE]
+
+et soit $\left(C_{n}\right)$ sa courbe représentative dans un repère orthonormé $\left(O ; \overrightarrow{i} , \overrightarrow{j}\right)$
+
+0.5 — 1-a) Vérifier que : $\left(\forall x \in \left]0 , +\infty\right[\right)$ ; $\sqrt{x}\left(\ln x\right)^{n} = \left(2n\right)^{n}\left(x^{\frac{1}{2n}}\ln x^{\frac{1}{2n}}\right)^{n}$ [FORMULA_IMAGE_UNREADABLE], en déduire que $f_{n}$ est continue à droite en $0$
+
+0.25 — b) Calculer $\lim\limits_{x \to +\infty} f_{n}(x)$
+
+0.75 — c) Vérifier que : $\left(\forall x \in \left]0 , +\infty\right[\right)$ ; $\dfrac{f_{n}(x)}{x} = \left(2n\right)^{n}\left(\dfrac{\ln x^{\frac{1}{2n}}}{x^{\frac{1}{2n}}}\right)^{n}$ [FORMULA_IMAGE_UNREADABLE], en déduire $\lim\limits_{x \to +\infty}\dfrac{f_{n}(x)}{x}$ puis interpréter graphiquement le résultat obtenu.
+
+0.5 — d) Calculer, suivant la parité de $n$, $\lim\limits_{x \to 0^{+}}\dfrac{f_{n}(x)}{x}$ puis interpréter graphiquement le résultat obtenu.
+
+0.75 — 2-a) Montrer que $f_{n}$ est dérivable sur $\left]0 ; +\infty\right[$ et que : $\left(\forall x \in \left]0 , +\infty\right[\right)$ ; $f_{n}'(x) = \dfrac{1}{2\sqrt{x}}\left(\ln x\right)^{n-1}\left(\ln x + 2n\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) Vérifier que : $\forall n \geq 2$, $f_{n}'(x) = 0$ si et seulement si ($x = 1$ ou $x = e^{-2n}$)
+
+1 — c) Étudier, suivant la parité de $n$, le sens de variation de $f_{n}$ et donner son tableau de variations.
+
+0.25 — d) Montrer que si $n$ est impair et $n \geq 3$ alors le point d'abscisse $1$ est un point d'inflexion de $\left(C_{n}\right)$
+
+### Partie II :
+
+1- Soit $\alpha \in \left]1 , e\right[$ un réel fixé. On considère la suite numérique $\left(u_{n}\right)_{n \geq 1}$ définie par : $\left(\forall n \geq 1\right)$ ; $u_{n} = f_{n}(\alpha)$
+
+0.25 — a) Montrer que : $\left(\forall n \geq 1\right)$ ; $0 \leq u_{n} \leq \sqrt{e}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) Montrer que la suite $\left(u_{n}\right)_{n \geq 1}$ est décroissante.
+
+0.25 — c) Déterminer $\lim\limits_{n \to +\infty} u_{n}$
+
+0.5 — 2-a) Montrer que pour tout entier $n$ non nul, il existe un unique réel $x_{n} \in \left]1 ; e\right[$ tel que : $f_{n}\left(x_{n}\right) = 1$
+
+0.75 — b) Montrer que la suite $\left(x_{n}\right)_{n}$ ainsi définie est croissante, en déduire qu'elle est convergente.
+
+3- On pose : $\ell = \lim\limits_{n \to +\infty} x_{n}$
+
+0.5 — a) Montrer que : $1 \leq \ell \leq e$
+
+0.25 — b) Montrer que : $\lim\limits_{n \to +\infty}\left(\ln x_{n}\right)^{n} = 1$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — c) Montrer que si $\ell \neq e$ alors $\lim\limits_{n \to +\infty} n\ln\left(\ln x_{n}\right) = -\infty$
+
+0.25 — d) En déduire la valeur de $\ell$
+
+### Partie III :
+
+On pose pour tout $x \in I$, $F(x) = \displaystyle\int_{x}^{1} \left(f_{2}(t)\right)\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — 1-a) Montrer que la fonction $F$ est continue sur $I$
+
+1 — b) En utilisant une double intégration par parties, montrer que :
+$\left(\forall x \in \left]0 , +\infty\right[\right)$ ; $F(x) = -\dfrac{2}{3}x^{\frac{3}{2}}\left(\ln x\right)^{2} + \dfrac{8}{9}x^{\frac{3}{2}}\ln x - \dfrac{16}{27}\left(x^{\frac{3}{2}} - 1\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 2-a) Calculer $\lim\limits_{x \to 0^{+}} F(x)$
+
+0.25 — b) En déduire la valeur de $F(0)$
+
+0.5 — c) Calculer, en $cm^{3}$, le volume du solide engendré par la rotation d'un tour complet autour de l'axe des abscisses de la portion de la courbe $\left(C_{1}\right)$ relative à l'intervalle $\left[0 , 1\right]$. (On prendra $\|\overrightarrow{i}\| = 1\,cm$)
+
+## EXERCICE 2 : (3.5 points)
+
+Les parties I et II peuvent être traitées indépendamment.
+
+### PARTIE I :
+
+On considère dans $\mathbb{R}_{+}^{2}$ le système suivant : $(S) : \begin{cases} x + \dfrac{x}{\sqrt{x^{2} + y^{2}}} = \dfrac{12}{5} \\ y - \dfrac{y}{\sqrt{x^{2} + y^{2}}} = \dfrac{4}{5} \end{cases}$ [FORMULA_IMAGE_UNREADABLE]
+
+1- Soit $(x , y) \in \mathbb{R}_{+}^{2}$ une solution du système $(S)$. On pose : $z = x + iy$
+
+0.25 — a) Montrer que : $z + \dfrac{1}{z} = \dfrac{12}{5} + \dfrac{4}{5}i$ [FORMULA_IMAGE_UNREADABLE]
+
+0.75 / 0.25 / 0.5 — b) Montrer que : $z^{2} - \left(\dfrac{12}{5} + \dfrac{4}{5}i\right)z + 1 = 0$, en déduire les valeurs possibles de $z$
+(On remarque que : $\dfrac{28}{25} + \dfrac{96}{25}i = \left(\dfrac{2}{5}\left(4 + 3i\right)\right)^{2}$ [FORMULA_IMAGE_UNREADABLE])
+
+c) En déduire les valeurs du couple $(x , y)$
+
+2- Résoudre dans $\mathbb{R}_{+}^{2}$ le système $(S)$
+
+### PARTIE II :
+
+Le plan complexe est rapporté à un repère orthonormé direct $\left(O ; \overrightarrow{u} , \overrightarrow{v}\right)$
+
+Soit $(U)$ le cercle de centre $O$ et de rayon $1$ et $A(a)$, $B(b)$ et $C(c)$ trois points du cercle $(U)$ deux à deux distincts.
+
+0.25 — 1- Montrer que : $\left(\forall z \in \mathbb{C}^{*}\right)$ ; $|z| = 1 \Leftrightarrow \overline{z} = \dfrac{1}{z}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 2-a) La droite passant par $A$ et parallèle à $(BC)$ coupe le cercle $(U)$ au point $P(p)$. Montrer que : $p = \dfrac{bc}{a}$
+
+0.5 — b) La droite passant par $A$ et perpendiculaire à $(BC)$ coupe le cercle $(U)$ au point $Q(q)$. Montrer que : $q = -p$
+
+0.5 — c) La droite passant par $C$ et parallèle à $(AB)$ coupe le cercle $(U)$ au point $R(r)$. Montrer que les deux droites $(PR)$ et $(OB)$ sont perpendiculaires.
+
+## EXERCICE 3 : (3.5 points)
+
+On rappelle que $\left(M_{3}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire et non commutatif d'unité $I = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$.
+
+Soit $E = \left\{ M(a , b , c) = \begin{pmatrix} a & 0 & 0 \\ b & c & 0 \\ 0 & -c & b \end{pmatrix} \ / \ (a , b , c) \in \mathbb{R}^{3} \right\}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — 1- Montrer que $E$ est un sous-groupe de $\left(M_{3}(\mathbb{R}) , +\right)$
+
+0.5 — 2- On munit l'ensemble $\mathbb{R} \times \mathbb{C}$ de la loi de composition interne $*$ définie par :
+$\left(\forall\left((x , z) , (x' , z')\right) \in \left(\mathbb{R} \times \mathbb{C}\right)^{2}\right)$ ; $(x , z) * (x' , z') = \left(x + x' , z + z'\right)$ et on considère l'application $\varphi$ définie de $E$ vers $\mathbb{R} \times \mathbb{C}$ par : $\left(\forall (a , b , c) \in \mathbb{R}^{3}\right)$, $\varphi\left(M(a , b , c)\right) = \left(a , b + ci\right)$
+
+a) Montrer que $\varphi$ est un homomorphisme de $\left(E , +\right)$ vers $\left(\mathbb{R} \times \mathbb{C} , *\right)$ et que $\varphi(E) = \mathbb{R} \times \mathbb{C}$
+
+0.25 — b) En déduire que $\left(\mathbb{R} \times \mathbb{C} , *\right)$ est un groupe commutatif.
+
+0.25 — 3- On munit $\mathbb{R} \times \mathbb{C}$ de la loi de composition interne $T$ définie par :
+$\left(\forall\left((x , z) , (x' , z')\right) \in \left(\mathbb{R} \times \mathbb{C}\right)^{2}\right)$ ; $(x , z)\,T\,(x' , z') = \left(x\,\mathrm{Re}(z') + x'\,\mathrm{Re}(z) , zz'\right)$ [FORMULA_IMAGE_UNREADABLE]
+($\mathrm{Re}(z)$ désigne la partie réelle du nombre complexe $z$)
+
+a) Montrer que $T$ est commutative.
+
+0.25 — b) Vérifier que $(0 , 1)$ est l'élément neutre de $T$ dans $\mathbb{R} \times \mathbb{C}$
+
+0.5 — c) Vérifier que $\forall x \in \mathbb{R}$, $\left(1 , i\right)\,T\,\left(x , -i\right) = \left(0 , 1\right)$ [FORMULA_IMAGE_UNREADABLE] ; en déduire que $T$ est non associative dans $\mathbb{R} \times \mathbb{C}$
+
+4- Soit $G = \left\{ \left(\mathrm{Im}(z) , z\right) \ / \ z \in \mathbb{C} \right\}$
+($\mathrm{Im}(z)$ désigne la partie imaginaire du nombre complexe $z$)
+
+0.25 — a) Montrer que $G$ est un sous-groupe de $\left(\mathbb{R} \times \mathbb{C} , *\right)$
+(On remarque que $\left(-\mathrm{Im}(z) , -z\right)$ est le symétrique de $\left(\mathrm{Im}(z) , z\right)$ pour la loi $*$)
+
+0.25 — b) Soit $\phi$ l'application définie de $\mathbb{C}^{*}$ vers $\mathbb{R} \times \mathbb{C}$ par : $\forall z \in \mathbb{C}^{*}$ ; $\phi(z) = \left(\mathrm{Im}(z) , z\right)$
+Montrer que $\phi$ est un homomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ vers $\left(\mathbb{R} \times \mathbb{C} , T\right)$
+
+0.5 — c) En déduire que $\left(G - \left\{(0,0)\right\} , T\right)$ est un groupe commutatif.
+
+0.5 — 5- Montrer que $\left(G , * , T\right)$ est un corps commutatif.
+
+## EXERCICE 4 : (3 points)
+
+Soit $p$ un nombre premier impair. On pose : $S = 1 + p + p^{2} + p^{3} + \cdots + p^{p-1}$
+
+Soit $q$ un nombre premier qui divise $S$.
+
+0.5 — 1- a) Montrer que $p$ et $q$ sont premiers entre eux.
+
+0.25 — b) En déduire que : $p^{q-1} \equiv 1 \ [q]$
+
+0.5 — c) Vérifier que : $p^{p} - 1 = \left(p - 1\right)S$, en déduire que : $p^{p} \equiv 1 \ [q]$
+
+0.75 — 2- On suppose que $p$ et $q - 1$ sont premiers entre eux.
+a) En utilisant le théorème de Bézout, montrer que : $p \equiv 1 \ [q]$
+
+0.25 — b) En déduire que $S \equiv 1 \ [q]$
+
+0.75 — 3- Montrer que : $q \equiv 1 \ [p]$
+
+FIN

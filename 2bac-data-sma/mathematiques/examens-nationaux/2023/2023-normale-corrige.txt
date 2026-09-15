@@ -1,0 +1,125 @@
+---
+Type: Examen National
+Année: 2023
+Session: Normale
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية — الدورة العادية 2023
+شعبة العلوم الرياضية (أ) و (ب) (خيار فرنسية) — المادة : الرياضيات
+عناصر الإجابة — NR 24F — المعامل : 9 — مدة الإنجاز : 4h
+
+## EXERCICE 1 — Éléments de réponses — Barème
+
+I 1- a) Double inégalité. — 0.25×2
+
+b) Double inégalité. — 0.25×2
+
+2- $\lim\limits_{x \to 0^{+}} \dfrac{g(x) - 1}{x} = -\dfrac{1}{2}$ — 0.5
+
+II 1) Calcul de $\lim\limits_{x \to +\infty} f(x)$ …………………………………….. — 0.25
+Interprétation graphique …………………………………. — 0.25
+
+2) a) Continuité de $f$ à droite en $0$ — 0.25
+
+b) Vérification de l'égalité. — 0.25
+
+c) Déduction et calcul de $f_{d}'(0)$ — 0.25×2
+
+3) Dérivabilité de $f$ sur $\left]0 , +\infty\right[$ ………………………….. — 0.25
+$\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f'(x) = e^{-x}\dfrac{x - \left(1 + x\right)\ln\left(1 + x\right)}{x^{2}\left(1 + x\right)}$ ………….. — 0.5
+
+4) a) Démonstration de la double inégalité. — 0.25×2
+
+b) Déduction de l'encadrement de $f'(x)$ sur $\left]0 , +\infty\right[$ — 0.25
+
+5) a) Tableau de variation de $f$. — 0.25
+
+b) Construction de la courbe $(C)$ …………………………. — 0.5
+La demi-tangente à droite au point d'abscisse $0$ ………… — 0.25
+
+III 1) L'existence et l'unicité de $\alpha$ — 0.5
+
+2) a) Démonstration de : $u_{n} \geq 0$ ; $\forall n \in \mathbb{N}$ — 0.5
+
+b) Application du TAF ou de l'inégalité des accroissements finis. — 0.5
+
+c) Démonstration par récurrence. — 0.5
+
+d) Convergence de $\left(u_{n}\right)_{n \in \mathbb{N}}$ vers $\alpha$ — 0.25
+
+## EXERCICE 2 — Éléments de réponses — Barème
+
+1) a) Application du théorème des accroissements finis. — 0.5
+
+b) Calcul de la distance $M_{k}M_{k+1}$ — 0.25
+
+c) Double inégalité. — 0.25×2
+
+2) a) Double inégalité. — 0.25×2
+
+b) Déduction de $\lim\limits_{n \to +\infty} S_{n}$. — 0.5
+
+## EXERCICE 3 — Éléments de réponses — Barème
+
+1- a) La forme exponentielle de $1 - i$ ……………… — 0.25
+La forme exponentielle de $1 + i\sqrt{3}$ …………... — 0.25
+
+b) Démonstration de l'égalité : $\left(1 - i\right)\left(1 + i\sqrt{3}\right) = 2\sqrt{2}\,e^{i\frac{\pi}{12}}$ — 0.25
+
+c) Déduction de l'égalité : $\tan\dfrac{\pi}{12} = 2 - \sqrt{3}$ — 0.25
+
+d) Démonstration de l'égalité : $u = \left(\sqrt{6} - \sqrt{2}\right)e^{i\frac{\pi}{12}}$ — 0.5
+
+2- a) Démonstration par récurrence que : $\forall n \in \mathbb{N}$, $x_{n} + iy_{n} = u^{n}$ — 0.5
+
+b) Déduction des expressions de $x_{n}$ et $y_{n}$ — 0.25×2
+
+3- a) Détermination des entiers $n$ pour lesquels les points $O$, $A_{0}$ et $A_{n}$ sont alignés. — 0.5
+
+b) Démonstration que pour tout entier $n$, le triangle $OA_{n}A_{n+1}$ est rectangle en $A_{n}$ — 0.5
+
+## EXERCICE 4 — Éléments de réponses — Barème
+
+1- a) Démonstration de $2^{p-1} \equiv 1 \ [p]$ — 0.25
+
+b) Déduction de : $2^{\frac{p-1}{2}} \equiv 1 \ [p]$ ou $2^{\frac{p-1}{2}} \equiv -1 \ [p]$. — 0.25
+
+2- a) Démonstration que $p$ et $x$ sont premiers entre eux. — 0.5
+
+b) Déduction de : $2^{\frac{p-1}{2}} \equiv 1 \ [p]$ — 0.5
+
+3- Démonstration de $p$ divise $C_{p}^{k}$ pour tout $k \in \left\{1 , 2 , ... , p-1\right\}$ — 0.25
+
+4- a) Démonstration de l'égalité en utilisant la formule de Moivre. — 0.25
+
+b) Démonstration de : $2^{\frac{p}{2}}\cos\left(\dfrac{p\pi}{4}\right) \in \mathbb{Z}$ et $2^{\frac{p}{2}}\cos\left(\dfrac{p\pi}{4}\right) \equiv 1 \ [p]$ — 0.25×2
+
+5- Déduction — 0.5
+
+## EXERCICE 5 — Éléments de réponses — Barème
+
+I 1- Démonstration que $E$ est un sous-groupe de $\left(M_{2}(\mathbb{R}) , +\right)$ — 0.5
+
+2- Démonstration que $E$ est un sous-espace vectoriel de $\left(M_{2}(\mathbb{R}) , + , .\right)$ — 0.25
+
+3- a) Vérification de l'égalité. — 0.25
+
+b) Déduction que $\left(E , + , \times\right)$ est un anneau commutatif et unitaire. — 0.5
+
+4- a) Vérification de l'égalité. — 0.25
+
+b) Déduction que $\left(E , + , \times\right)$ n'est pas un corps. — 0.25
+
+II 1- Démonstration de l'équivalence. — 0.25
+
+2- Démonstration que $F - \left\{0\right\}$ est un sous-groupe de $\left(\mathbb{R}^{*} , \times\right)$ — 0.25
+
+3- a) Vérification de l'égalité. — 0.25
+
+b) Démonstration que $\psi$ est un homomorphisme de $\left(F - \left\{0\right\} , \times\right)$ vers $\left(E , \times\right)$ — 0.25
+
+c) Déduction que $\left(G - \left\{O\right\} , \times\right)$ est un groupe commutatif. — 0.25
+
+4- Démonstration que $\left(G , + , \times\right)$ est un corps commutatif. — 0.25

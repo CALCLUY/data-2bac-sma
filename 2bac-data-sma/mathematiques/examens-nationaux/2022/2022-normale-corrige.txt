@@ -1,0 +1,139 @@
+---
+Type: Examen National
+Année: 2022
+Session: Normale
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية — الدورة العادية 2022 – عناصر الإجابة –
+مسلك العلوم الرياضية – أ و ب - خيار فرنسية — المادة : الرياضيات
+NR 24F — المعامل : 9 — مدة الإنجاز : 4
+
+## EXERCICE 1 — Eléments de réponses — Barème
+
+A- 1- Vérification — 0.25
+
+2- Déduction — 0.25
+
+B-
+
+1- a) $f$ est continue à droite en $0$ — 0.5
+
+b) $f$ est dérivable à droite en $0$. — 0.5
+
+c) * Calcul de limite ………………….. — 0.25
+* La droite d'équation $y = 0$ asymptote à la courbe en $+\infty$ — 0.25
+
+2- a) Calcul de $f'(x)$ — 0.5
+
+b) * Calcul de $g'(x)$ ……………………………………… — 0.25
+* Encadrement de $g'(x)$ ……………………………… — 0.25
+
+c) Encadrement de $g(x)$ — 0.25
+
+d) $f$ est strictement décroissante sur $I$ ……………… — 0.25
+
+3- a) Tableau de variation — 0.25
+
+b) Représentation graphique de $(C)$ — 0.5
+
+C-
+
+1- Existence et unicité de $\alpha \in \left]0 , 1\right[$ — 0.25×2
+
+2- a) Tous les termes de la suite sont dans $\left[0 , 1\right]$ — 0.5
+
+b) Application du TAF ou de l'inégalité des accroissements finis — 0.5
+
+c) La démonstration de l'inégalité par récurrence — 0.5
+
+d) $\lim\limits_{n \to +\infty} \left|u_{n} - \alpha\right| = 0$ et donc $\left(u_{n}\right)$ converge vers $\alpha$ — 0.25
+
+D-
+
+1- * $F$ est dérivable sur $I$ ……………………………….. — 0.25
+* $\left(\forall x \in I\right) \ ; \ F'(x) = -f(x)$ — 0.25
+
+2- a) Intégration par parties — 0.5
+
+b) * $\lim\limits_{x \to 0^{+}} F(x) = 2\ln 2 - 1$ ………………………… — 0.25
+* $\displaystyle\int_{0}^{1} f(t)\,dt = F(0) = 2\ln 2 - 1$ ………………… — 0.25
+
+c) L'aire en $cm^{2}$ est : $4 \times \displaystyle\int_{0}^{1} f(t)\,dt \ \ cm^{2}$ — 0.5
+
+E-
+
+1- a) Vérification de la double inégalité — 0.25
+
+b) Encadrement de $S_{n}$ — 0.5
+
+2- a) La suite est croissante — 0.25
+
+b) Convergence de la suite — 0.25
+
+c) $S_{1} \leq l \leq \dfrac{1}{2}$ avec $S_{1} = \dfrac{3}{2} - 2\ln 2$ — 0.25
+
+## EXERCICE 2 — Eléments de réponses — Barème
+
+I-
+
+1- Vérification $j^{3} = 1$ …………………….. — 0.25
+Vérification $1 + j + j^{2} = 0$ ……………………… — 0.25
+
+2- a) $\Delta = \left[m\left(j - 1\right)\right]^{2}$ — 0.25
+
+b) Détermination de $z_{1}$ et de $z_{2}$ — 0.25×2
+
+3- $\left(z_{1} + z_{2}\right)^{2022}$ est un imaginaire pur — 0.5
+
+II-
+
+1- $\varphi$ est la rotation de centre $O$ et d'angle $\dfrac{\pi}{3}$ [FORMULA_IMAGE_UNREADABLE] — 0.25
+
+2- a) Calcul de $a'$, $b'$ et $c'$ ……………………………. — 0.25×3
+
+b) $p + qj + rj^{2} = 0$ — 0.25
+
+c) Déduction — 0.5
+
+## EXERCICE 3 — Eléments de réponses — Barème
+
+1- a) $p$ est un diviseur de $n$ — 0.25
+
+b) Si $p$ divise l'un alors il divise l'autre — 0.25
+
+c) On applique le théorème de FERMAT — 0.25
+
+2- $p = 2$ — 0.5
+
+3- a) $n$ et $p - 1$ sont premiers entre eux, puis on applique le théorème de BEZOUT — 0.5
+
+b) Vérification — 0.25
+
+c) $v' \geq 0$ — 0.5
+
+d) $\left(x + 1\right)^{nr} \equiv \left(x + 1\right)^{pv'} \equiv 1 \ [p]$ et $x^{nr} \equiv x^{pv'} \ [p]$ [FORMULA_IMAGE_UNREADABLE] — 0.5
+
+## EXERCICE 4 — Eléments de réponses — Barème
+
+1- a) $E$ sous-groupe de $\left(M_{2}(\mathbb{R}) , +\right)$ — 0.25
+
+b) Vérification de l'égalité — 0.25
+
+c) $\left(E , + , \times\right)$ est un anneau ………………………………. — 0.25
+commutatif et unitaire ………………………………… — 0.25
+
+2- $\varphi$ homomorphisme de $\left(E , \times\right)$ vers $\left(\mathbb{Z} , \times\right)$ — 0.5
+
+3- a) Egalité — 0.25
+
+b) L'implication — 0.5
+
+c) $M(a , b)$ est inversible et détermination de l'inverse — 0.25×2
+
+4- a) L'équivalence — 0.25
+
+b) L'anneau $\left(E , + , \times\right)$ est intègre — 0.25
+
+c) La justification que l'anneau intègre $\left(E , + , \times\right)$ n'est pas un corps — 0.25
