@@ -1,0 +1,75 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvements plans : Projectile dans le champ de pesanteur
+Type: Cours
+Source: 
+---
+
+Séance 19A - Mouvements plans : Projectile dans le champ de pesanteur
+
+## Sommaire
+
+### I- Mouvement d'un projectile dans un champ de pesanteur uniforme
+
+#### 1-1/ Équations horaires du mouvement
+
+#### 1-2/ Équation de la trajectoire
+
+#### 1-3/ Les caractéristiques du mouvement
+
+### II- Exercices
+
+#### 2-1/ Exercice 1
+
+#### 2-2/ Exercice 2
+
+#### 2-3/ Exercice 3
+
+* * *
+
+## I- Mouvement d'un projectile dans un champ de pesanteur uniforme
+
+### 1-1/ Équations horaires du mouvement
+
+On lance un projectile de masse $m$ d'un point $O$ à l'instant $t = 0$ avec une vitesse initiale $\overset{\rightarrow}{v_{0}}$ qui fait une angle $\alpha$ avec l'horizontale.
+
+On considère le repère $\left(\right. O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j} \left.\right)$ confondu avec le plan où le projectile est en mouvement, il est supposé galiléen.
+
+Les conditions initiales : à $t = 0$ on a : $x_{0} = 0$ et $y_{0} = 0$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img1.PNG)
+
+Le système étudié est {Le projectile}.
+
+Le bilan des forces : Le projectile est soumis à son poids uniquement P⃗.
+
+D'après la deuxième loi de Newton on a :
+
+$\sum_{}^{} \overset{\rightarrow}{F} = m \overset{\rightarrow}{a} \\ m \overset{\rightarrow}{g} = m \overset{\rightarrow}{a} \\ \overset{\rightarrow}{g} = \overset{\rightarrow}{a}$
+
+Projetons cette relation sur les axes :
+
+$\left{\begin{matrix} a_{x} = 0 \\ a_{y} = - g \end{matrix}\right \\ \left{\begin{matrix} v_{x} = v_{0} cos \theta \\ v_{y} = - g t + v_{0} sin \theta \end{matrix}\right \\ \left{\begin{matrix} x = v_{0} t cos \theta \\ y = - \frac{1}{2} g t^{2} + v_{0} t sin \theta \end{matrix}\right$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img2.bmp)
+
+### 1-2/ Équation de la trajectoire
+
+$\left{\begin{matrix} x = v_{0} t cos \theta \\ y = - \frac{1}{2} g t^{2} + v_{0} t sin \theta \end{matrix}\right \\ \\ \Rightarrow t = \frac{x}{v_{0} cos \theta} \\ \\ \Rightarrow \overline{\left.\right) y = - \frac{g}{2 \left(v_{0}\right)^{2} cos^{2} \theta} x^{2} + x tan \theta }$
+
+### 1-3/ Les caractéristiques du mouvement
+
+#### La flèche
+
+C'est l'altitude maximale $h_{m a x}$ atteinte par le projectile.
+
+Au sommet de la trajectoire on a :
+
+$v_{y} = 0 \\ \\ \Rightarrow t = \frac{v_{0} sin \theta}{g} \\ \\ \Rightarrow \left{\begin{matrix} x_{S} = \frac{\left(v_{0}\right)^{2} sin 2 \theta}{2 g} \\ y_{S} = \frac{\left(v_{0}\right)^{2} sin^{2} \theta}{2 g} = h_{m a x} \end{matrix}\right$
+
+#### La portée
+
+C'est la distance $O P$ qui sépare le point de lancement du projectile et le point de sa tombée sur Ox.
+
+$y_{P} = 0 \\ \\ \Rightarrow - \frac{g}{2 \left(v_{0}\right)^{2} cos^{2} \theta} \left(x_{P}\right)^{2} + x_{P} tan \theta = 0 \\ \\ \Rightarrow \overline{\left.\right) O P = \frac{\left(v_{0}\right)^{2} sin 2 \theta}{g} }$
