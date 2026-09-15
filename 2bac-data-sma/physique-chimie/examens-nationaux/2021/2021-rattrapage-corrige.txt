@@ -1,0 +1,295 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2021 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+[Note : correction détaillée de tierce partie (12 pages, www.svt-assilah.com) ; le texte a été reconstitué à partir de l'extraction du PDF, les formules étant restituées en notation linéaire.]
+
+# Correction de l'examen national 2021 session de rattrapage — Sciences mathématiques
+
+## Exercice 1 : Chimie (7 points)
+
+### Partie I : Quelques réactions avec l'ion ammonium
+
+1- Etude d'une solution aqueuse de chlorure d'ammonium
+
+1-1- L'équation de la réaction de NH4+ avec l'eau :
+NH4+(aq) + H2O(l) ⇄ NH3(aq) + H3O+(aq)
+
+1-2- L'expression de τ :
+On a τ = xéq/xmax
+Le réactif limitant est NH4+ car l'eau est en excès : C.V − xmax = 0 ⟺ xmax = C.V
+D'après le tableau d'avancement :
+[NH4+]éq = (C.V − xéq)/V = C − xéq/V ; [H3O+]éq = xéq/V ; [Cℓ-]éq = C
+La conductivité s'écrit :
+σ = [NH4+]éq.λ(NH4+) + [H3O+]éq.λ(H3O+) + [Cℓ-]éq.λ(Cℓ-)
+σ = (C − xéq/V).λ2 + (xéq/V).λ1 + C.λ3 ⟺ σ = (xéq/V)(λ1 − λ2) + C.λ2 + C.λ3
+(xéq/V)(λ1 − λ2) = σ − C.(λ2 + λ3) ⟺ xéq = V.[σ − C.(λ2 + λ3)]/(λ1 − λ2)
+τ = xéq/xmax = V.[σ − C.(λ2 + λ3)]/((λ1 − λ2).C.V)
+τ = [σ − C.(λ2 + λ3)] / (C(λ1 − λ2))
+τ = (74,898.10-3 − 5,0.10-3 × 103 × (7,34.10-3 + 7,63.10-3)) / (5,0.10-3 × 103 × (34,9.10-3 − 7,34.10-3)) = 3,48.10-4
+τ ≈ 0,035 %
+
+1-3- L'expression de KA en fonction de C et τ :
+KA = Qr,éq = [NH3]éq.[H3O+]éq / [NH4+]éq
+τ = xéq/xmax ⟹ xéq = τ.C.V
+[H3O+]éq = [NH3]éq = xéq/V = τ.C.V/V = C.τ
+[NH4+]éq = C − xéq/V = C − C.τ = C(1 − τ)
+KA = [H3O+]éq² / [NH4+]éq = (C.τ)²/(C(1 − τ)) ⟺ KA = C.τ²/(1 − τ)
+Vérification de pKA : pKA = −log KA
+pKA = −log(C.τ²/(1 − τ)) = −log[5.10-3 × (3,48.10-4)² / (1 − 3,48.10-4)] ⟹ pKA ≃ 9,2
+
+1-4- Le diagramme de prédominance du couple NH4+(aq)/NH3(aq) :
+Espèce prédominante : pH = −log[H3O+] = −log(C.τ) = −log(5,0.10-3 × 3,48.10-4) = 5,72
+pH < pKA ⟺ pKA + log([NH3]/[NH4+]) < pKA ⟺ [NH3] < [NH4+]
+L'espèce prédominante du couple NH4+/NH3 est l'espèce acide NH4+.
+
+1-5- Nombre d'affirmations exactes : 2
+a- Le taux d'avancement final de la réaction augmente. Faux
+b- Le quotient de réaction à l'équilibre reste constant. Exacte
+c- L'avancement à l'équilibre ne varie pas. Faux
+d- Le pKA(NH4+/NH3) diminue. Faux
+
+2- Dosage des ions ammonium dans un médicament
+
+2-1- L'équation de la réaction du dosage :
+NH4+(aq) + HO-(aq) ⇄ NH3(aq) + H2O(l)
+
+2-2- La constante d'équilibre de la réaction du dosage :
+K = Qr,éq = [NH3]éq / ([NH4+]éq.[HO-]éq) × [H3O+]éq/[H3O+]éq
+= ([NH3]éq.[H3O+]éq/[NH4+]éq) × 1/([H3O+]éq.[HO-]éq)
+K = KA/Ke ⟺ K = 10-pKA/Ke
+A.N : K = 10-9,2/10-14 ⟺ K = 6,31.104
+
+2-3- L'indication est-elle vérifiée ?
+Détermination de la concentration massique Cm de la solution S1 :
+Cm = CA.M(NH4Cℓ) ⟹ Cm = 2,83.10-2 mol.L-1 × 53,5 g.mol-1 = 1,51 g.L-1
+Oui, l'indication portée sur le flacon est vérifiée car Cm = C0 = 1,51 g.L-1.
+
+### Partie II : Pile nickel-argent
+
+1- L'équation de la réaction de fonctionnement de la pile :
+A la cathode se produit la réduction de Ag+ : Ag+(aq) + e- ⇄ Ag(s)   [couple Ag+(aq)/Ag(s)]
+A l'anode se produit l'oxydation de Ni : Ni(s) ⇄ Ni2+(aq) + 2e-   [couple Ni2+(aq)/Ni(s)]
+L'équation bilan : 2Ag+(aq) + Ni(s) ⟶ Ni2+(aq) + 2Ag(s)
+
+2- La capacité de la pile :
+D'après le tableau d'avancement, l'avancement maximal :
+Si le réactif limitant est Ag+ : [Ag+]i.V − 2xmax1 = 0 ⟺ xmax1 = [Ag+]i.V/2 = 0,10 × 0,1/2 = 5.10-3 mol
+Si le réactif limitant est Ni : m1/M(Ni) − xmax2 = 0 ⟺ xmax2 = m1/M(Ni) = 0,15/58,7 = 2,55.10-2 mol
+L'avancement maximal est xmax = 5.10-3 mol
+La capacité de la pile : Qmax = n(e-)max.F ⟹ Qmax = 2xmax.F
+Qmax = 2 × 5.10-3 × 9,65.104 ⟹ Qmax = 965 C
+
+3- La concentration des ions Ni2+ :
+D'après le tableau d'avancement : [Ni2+] = ([Ni2+]i.V + x)/V = [Ni2+]i + x/V
+n(e-) = 2x et n(e-) = Q/F = I.Δt/F ⟺ 2x = I.Δt/F ⟺ x = I.Δt/(2F)
+[Ni2+] = [Ni2+]i + I.Δt/(2FV)
+A.N : [Ni2+] = 0,10 + (0,2 × 30 × 60)/(2 × 9,65.104 × 0,1) ⟹ [Ni2+] ≈ 0,12 mol.L-1
+
+## Exercice 2 : Ondes (2 points)
+
+1- Une onde lumineuse est-elle une onde mécanique ?
+Non, une onde lumineuse est une onde électromagnétique (car une onde mécanique nécessite un milieu matériel pour se propager).
+
+2- L'ordre de grandeur de a :
+Condition pour observer le phénomène de diffraction : 10λ < a < 100λ
+Pour avoir le phénomène de diffraction, l'ordre de grandeur de a doit être de l'ordre de λ.
+
+3- Le nombre d'affirmations exactes : 2
+a- La lumière est une onde transversale, dont la célérité est la même dans tout milieu transparent. Faux
+b- La lumière monochromatique d'un laser est constituée de radiations d'une seule longueur d'onde mais de fréquences différentes. Faux
+c- La dispersion de la lumière blanche dans le prisme montre que l'indice de réfraction du milieu varie avec la fréquence. Exacte
+d- Le vide est parfaitement non dispersif. Exacte
+
+4-1- La longueur d'onde λ :
+La courbe θ = f(1/a) est une fonction linéaire, son équation s'écrit θ = K.(1/a)   (1)
+K = (θ2 − θ1)/((1/a)2 − (1/a)1) = (15 − 6).10-3 rad / ((25 − 10).103 m-1) = 6.10-7 m
+On a θ = λ/a = λ.(1/a)   (2)
+Des relations (1) et (2) : λ = K = 6.10-7 m ⟺ λ = 0,6 μm
+
+4-2- Détermination de a1 :
+D'après la figure 1 : tanθ = (L/2)/D = L/(2D) ; l'angle est petit : tanθ ≃ θ ⟹ θ = L/(2D)
+θ = λ/a1 et θ = L1/(2D) ⟹ L1/(2D) = λ/a1 ⟺ a1 = 2λD/L1
+a1 = 2 × 6.10-7 × 2,0 / 4.10-2 = 6.10-5 m
+a1 = 60 μm
+
+## Exercice 3 : Transformations nucléaires (1,5 points)
+
+1- L'équation de la réaction nucléaire :
+235/92 U + 1/0 n ⟶ 146/58 Ce + 85/34 Se + x.(1/0 n)
+Loi de conservation du nombre de nucléons : 235 + 1 = 146 + 85 + x ⟹ x = 236 − 231 = 5
+L'équation s'écrit : 235/92 U + 1/0 n ⟶ 146/58 Ce + 85/34 Se + 5.(1/0 n)
+
+2- L'énergie |ΔE| produite par la fission d'un noyau d'uranium 235 :
+|ΔE| = |[m(146/58 Ce) + m(85/34 Se) + 5m(1/0 n) − m(235/92 U) − m(1/0 n)].c²|
+|ΔE| = [m(235/92 U) − m(146/58 Ce) − m(85/34 Se) − 4m(1/0 n)].c²
+|ΔE| = [234,9935 − 145,8782 − 84,9033 − 4 × 1,0087] u.c² = 0,1772 × 931,5 MeV.c-2.c² = 165,0618 MeV
+|ΔE| = 165,0618 × 1,6022.10-13 J ⟹ |ΔE| = 2,645.10-11 J
+
+3- L'énergie E produite par 1 kg d'uranium enrichi à 5 % :
+Soit m' la masse d'uranium activée dans 1 kg : m' = (5/100) × 1 kg = 0,05 kg
+Soit N le nombre de noyaux dans m' : N = m'/m(235/92 U) ⟹ N = 0,05/(234,9935 × 1,6605.10-27) = 1,28137.1023
+E = N.|ΔE| ⟹ E = 1,28137.1023 × 2,645.10-11 ⟹ E = 3,389.1012 J
+
+4- La masse d'uranium 235 activée en un an :
+Expression de la puissance : p = Ee/Δt ⟹ Ee = p.Δt
+Le rendement est le rapport de Ee (énergie électrique) et ET (énergie nucléaire) :
+r = Ee/ET ⟹ ET = Ee/r = p.Δt/r
+D'après la question 3, la fission de m' d'uranium activé produit l'énergie E = 3,389.1012 J.
+m = p.Δt/(E.r) ⟹ m = 1450.106 × 365,25 × 24 × 3600 / (0,34 × 3,388.1015) ⟺ m = 3,97.104 kg
+
+## Exercice 4 : Electricité (5 points)
+
+1- Eveil lumière
+
+1-1- L'équation différentielle :
+Loi d'additivité des tensions : ub + u = E ⟺ L.di/dt + r.i + u = E
+u = R.i ⟹ i = u/R ⟹ di/dt = (1/R).du/dt
+(L/R).du/dt + (r/R).u + u = E ⟺ (L/R).du/dt + u.(R + r)/R = E
+du/dt + u.(R + r)/L = R.E/L
+
+1-2- Vérification de r et L :
+En régime permanent : u = umax = cte ⟹ du/dt = 0
+L'équation différentielle s'écrit : umax.(R + r)/L = R.E/L
+umax.R + r.umax = R.E ⟹ r.umax = R(E − umax) ⟹ r = R(E − umax)/umax
+D'après la figure 2, en régime permanent : umax = 3,6 V
+A.N : r = 4 × (9 − 3,6)/3,6 ⟺ r = 6 Ω
+On a τ = L/(R + r) ⟺ L = τ(R + r)
+A.N : L = 0,1 × (4 + 6) ⟺ L = 1 H
+
+1-3-1- Montrons la relation u(t) = 0,99.umax :
+L'expression de la puissance électrique : p = 98,01 % pmax = 0,9801.pmax
+pmax = umax²/R et p = u²/R
+u²/R = 0,9801.umax²/R ⟺ u = √0,9801.umax ⟺ u(t) = 0,99.umax
+
+1-3-2- La durée tR :
+La solution de l'équation différentielle s'écrit : u(t) = umax(1 − e-t/τ)
+0,99.umax = umax(1 − e-tR/τ) ⟺ 0,99 = 1 − e-tR/τ ⟺ e-tR/τ = 0,01
+−tR/τ = ln(0,01) ⟺ tR = −τ.ln(0,01)
+tR = −0,1 × ln(0,01) ⟺ tR = 0,46 s
+
+1-3-3- Proposition de modification du circuit :
+D'après l'expression tR = −τ.ln(0,01), pour prolonger tR il faut augmenter τ.
+D'après τ = L/(R + r), il faut diminuer R, c'est-à-dire remplacer la lampe par une autre de résistance inférieure à R.
+
+2- Etude du circuit LC
+
+2-1- La valeur de k :
+D'après la loi d'additivité des tensions : ub + uC = ug ⟹ L.di/dt + r.i + uC = k.i
+L.di/dt + (r − k).i + uC = 0
+i = dq/dt = C.duC/dt et di/dt = C.d²uC/dt²
+L.C.d²uC/dt² + (r − k).C.duC/dt + uC = 0 ⟺ d²uC/dt² + ((r − k)/L).duC/dt + uC/(L.C) = 0
+Pour avoir un circuit LC (oscillations sinusoïdales) il faut (r − k)/L = 0 ⟹ r = k = 6 Ω
+
+Détermination de Im :
+D'après la figure 4, l'énergie magnétique maximale : Emmax = 2 μJ
+ET = Em + Ee = Emmax ⟹ Emmax = (1/2).L.Im² ⟹ Im = √(2.Emmax/L)
+Im = √(2 × 2.10-6/1) = 2.10-3 A ⟺ Im = 2 mA
+
+Détermination de C :
+La période T de l'énergie magnétique (figure 4) : T = 2π.10-4 s
+On a T0 = 2T avec T0 = 2π√(L.C)
+T0² = 4π².L.C ⟹ C = T0²/(4π².L) = (2T)²/(4π².L) = T²/(π².L)
+C = (2π.10-4)²/(π² × 1) = 4.10-8 F ⟹ C = 40 nF
+
+Détermination de Q0 :
+ET = Em + Ee = Emmax = Eemax = Q0²/(2C)
+Q0² = 2C.Eemax ⟹ Q0 = √(2C.Eemax) = √(2 × 4.10-8 × 2.10-6) = 4.10-7 C
+Q0 = 0,4 μC
+
+3- Oscillateur RLC en régime forcé
+
+3-1- La résistance correspondant à la courbe (b) :
+Plus la résistance R du circuit est petite, plus la résonance est aiguë.
+On a R1 < R2, donc la résistance R1 correspond à la courbe (b).
+
+3-2- La fréquence à la résonance : N0 = 800 Hz
+
+3-3- La largeur de la bande passante :
+C'est l'intervalle de fréquences [N1, N2] tel que I ≥ I0/√2, I0 étant l'intensité efficace maximale à la résonance, I0 = 6,2 mA.
+I0/√2 = 6,2/√2 = 4,38 mA ≈ 4,4 mA
+Graphiquement : N1 = 720 Hz et N2 = 880 Hz
+ΔN = N2 − N1 = 880 − 720 ⟺ ΔN = 160 Hz
+Déduction du facteur de qualité : Q = N0/ΔN = 800/(880 − 720) ⟹ Q = 5
+
+3-4- La valeur de R1 :
+ΔN = R/(2πL) ⟹ R = 2πL.ΔN
+R = R1 + r ⟹ R1 = R − r = 2πL.ΔN − r = 2π × 1 × 160 − 6 = 999,3 Ω ≈ 1000 Ω
+2ème méthode : Q = L.ω0/R ⟹ R1 + r = 2π.L.N0/Q ⟺ R1 = 2π.L.N0/Q − r
+R1 = 2π × 1 × 800/5 − 6 = 999,3 Ω
+
+## Exercice 5 : Mécanique (4,5 points)
+
+### Partie I : Expérience de Millikan
+
+1- Calcul du rayon de la gouttelette d'huile
+
+1-1- L'équation différentielle :
+Système étudié : {la gouttelette (S)}
+Bilan des forces :
+P⃗ : son poids, P⃗ = m.g⃗
+f⃗ : la force de frottement fluide, f⃗ = −6πηr.v⃗
+F⃗A : la poussée d'Archimède, F⃗A = −ρA.VS.g⃗ = −(4/3)πr³ρA.g⃗
+Application de la deuxième loi de Newton dans le repère (O, k⃗) lié à un référentiel terrestre supposé galiléen :
+Σ F⃗ext = m.a⃗G ⟺ P⃗ + f⃗ + F⃗A = m.a⃗ ⟺ m.g⃗ − 6πηr.v⃗ − (4/3)πr³ρA.g⃗ = m.a⃗
+Projection sur l'axe Oz :
+m.g − 6πηr.v − (4/3)πr³ρA.g = m.a ⟺ dv/dt + (6πηr/m).v = g(1 − 4πr³ρA/(3m))
+dv/dt + 6πηr/((4/3)πr³.ρH).v = g(1 − ρA/ρH) ⟺ dv/dt + (9η/(2ρH.r²)).v = g(1 − ρA/ρH)
+
+1-2- L'expression de la vitesse limite :
+Quand la gouttelette atteint la vitesse limite : v = vℓ = cte ⟹ dv/dt = 0
+(9η/(2ρH.r²)).vℓ = g(1 − ρA/ρH) ⟺ vℓ = (2ρH.g.r²/(9η)).(1 − ρA/ρH) ⟺ vℓ = (2g.r²/(9η)).(ρH − ρA)
+
+1-3- Vérification du rayon r :
+vℓ = (2g.r²/(9η)).(ρH − ρA) ⟺ r² = 9η.vℓ/(2g(ρH − ρA)) ⟺ r = √(9η.vℓ/(2g(ρH − ρA)))
+r = √(9 × 1,8.10-5 × 2,0.10-4 / (2 × 9,81 × (1,3.10² − 1,3))) = 3,58.10-6 m ⟺ r ≃ 3,6 μm
+
+2- Calcul de la charge de la gouttelette
+
+2-1- L'expression de la charge q :
+Système étudié : {la gouttelette (S)}
+Bilan des forces : P⃗ = m.g⃗ ; F⃗A = −(4/3)πr³ρA.g⃗ ; F⃗e = q.E⃗
+Application de la première loi de Newton dans le repère (O, k⃗) :
+Σ F⃗ext = 0⃗ ⟺ P⃗ + F⃗A + F⃗e = 0⃗ ⟺ m.g⃗ − (4/3)πr³ρA.g⃗ + q.E⃗ = 0⃗
+Projection sur l'axe Oz :
+(4/3)πr³ρH.g − (4/3)πr³ρA.g + q.U0/d = 0 ⟺ q = (4πr³.d.g/(3U0)).(ρA − ρH)
+
+2-2- Nombre de charges élémentaires portées par la gouttelette :
+q = −N.e ⟺ N = −q/e = −(4πr³.d.g/(3e.U0)).(ρA − ρH)
+A.N : N = −4π(3,6.10-6)³ × 2,0.10-2 × 9,81 / (3 × 1,6.10-19 × 3,1.10³) × (1,3 − 1,3.10²) = 9,95 ⟺ N ≃ 10
+La gouttelette porte la charge q = −10e.
+
+### Partie II : Spectrographe de masse
+
+1-1- Nature du mouvement de l'ion 6Li+ :
+L'ion 6Li+ entre les plaques A et C est soumis à la force électrostatique F⃗ = q.E⃗ = e.E⃗
+On applique la deuxième loi de Newton dans le repère (O, i⃗) considéré comme galiléen :
+F⃗ = m1.a⃗1 ⟺ m1.a⃗1 = e.E⃗ ⟺ a⃗1 = (e/m1).E⃗
+Projection sur l'axe Ox : a1 = (e/m1).E = (e/m1).U0/d = e.U0/(m1.d)
+L'accélération est constante a1 = cte : le mouvement de l'ion 6Li+ est rectiligne uniformément varié (accéléré).
+
+1-2- L'équation horaire du mouvement :
+x(t) = (1/2).a1.t² + v0.t + x0
+A t = 0 : v0 = 0 et x0 = 0
+x(t) = (1/2).a1.t² ⟺ x(t) = (e.U0/(2m1.d)).t²   (1)
+Déduction de l'équation de v1 :
+v1(t) = dx/dt = (e.U0/(m1.d)).t   (2)
+
+1-3- L'expression de v1 :
+On élimine le temps entre (1) et (2) : v1 = (e.U0/(m1.d)).t ⟺ t = v1.m1.d/(e.U0)
+x = (e.U0/(2m1.d)).(v1.m1.d/(e.U0))² = (m1.d/(2e.U0)).v1²
+v1² = (2eU0/(m1.d)).x ⟺ v1 = √((2eU0/(m1.d)).x)
+Avec x = d : v1 = √(2eU0/m1)
+
+2- Expression de MN en fonction de B, m1, m2, e, U0 :
+Le mouvement des ions dans le compartiment (3) est circulaire uniforme de rayon :
+R = m.v/(e.B) avec v = √(2eU0/m)
+R = (m/(e.B)).√(2eU0/m) = √(2e.m².U0/(e².B².m)) = (1/B).√(2m.U0/e)
+On a m1 < m2 donc R1 < R2 avec R1 = (1/B).√(2m1.U0/e) et R2 = (1/B).√(2m2.U0/e)
+MN = D2 − D1 = 2R2 − 2R1 = (2/B).√(2m2.U0/e) − (2/B).√(2m1.U0/e) = (2/B).√(2U0/e).(√m2 − √m1)
+MN = (2/0,1) × √(2 × 2.10³/1,6.10-19) × (√(7 × 1,67.10-27) − √(6 × 1,67.10-27)) = 2,54.10-2 m
+MN = 2,54 cm
