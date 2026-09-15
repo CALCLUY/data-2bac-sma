@@ -1,0 +1,192 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Noyaux, masse et énergie
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 7 (Noyaux, masse et énergie)
+Professeur : Mr El GOUFIFA Jihad
+
+## VII- Exercices
+
+### 7-1/ Exercice 1
+
+On considère la réaction suivante, qui est l'une des nombreuses réactions de fission de l'uranium 235 se produisant dans le cœur des centrales nucléaires : la masse molaire de l'uranum 235 est : 235g/mol
+
+$\overline{\left.\right) \_{0}^{1}n + \_{92}^{235}U \rightarrow \_{55}^{140}C s + \_{x}^{93}R b + y . \_{0}^{1}n }$
+
+1. Déterminer x et y de manière à équilibrer cette réaction.
+2. Quelle est l'énergie produite par cette réaction ?
+3. Quelle est l'énergie produite par la fission d'un gramme d'uranium 235 ?
+4. Pendant combien de temps la fission d'un gramme d'uranium 235 permet-elle de délivrer une puissance d'un mégawatt (On suppose que le rendement est 100%) ?
+
+Données :
+
+$N_{A} = 6 , 02 \times 10^{23} m o l^{- 1}$
+
+| Noyau radioactif | $\_{}^{235}U$ | $\_{}^{140}C s$ | $\_{}^{93}R b$ |
+|---|---|---|---|
+| Énergie de liaison par nucléon | 7,6 MeV | 8,4 MeV | 8,7 MeV |
+
+### 7-2/ Exercice 2
+
+Les « combustibles » utilisés dans le réacteur de fusion ne nécessitent pas de transport de matière radioactive.
+
+En effet, le deutérium n'est pas radioactif. Le tritium est fabriqué sur site, à partir d'un élément Y non radioactif suivant la réaction :
+
+$Y + \_{0}^{1}n \rightarrow \_{2}^{4}H e + \_{1}^{3}H$
+
+#### 1) Le tritium
+
+1. Donner la composition et le symbole du noyau Y en précisant les règles de conservation.
+
+On donne un extrait de la classification périodique : $H \left(\right. Z = 1 \left.\right) ; H e \left(\right. Z = 2 \left.\right) ; L i \left(\right. Z = 3 \left.\right) ; B e \left(\right. Z = 4 \left.\right) ; B \left(\right. Z = 5 \left.\right)$.
+
+#### 2) Le noyau de deutérium
+
+1. 1- Donner la composition du noyau de deutérium $\_{1}^{2}H$.
+
+1. 2- Le deutérium et le tritium sont des isotopes. Justifier cette affirmation.
+
+1. 3- Donner l'expression littérale puis la valeur du défaut de masse $\Delta m \left(\right. \_{1}^{2}H \left.\right)$ du noyau de deutérium.
+
+1. 4- En déduire l'énergie $E \left(\right. \_{1}^{2}H \left.\right)$ correspondant à ce défaut de masse en J puis en MeV et donner sa signification physique.
+
+#### 3) Étude de la réaction de fusion $\_{1}^{2}H + \_{1}^{3}H \rightarrow \_{2}^{4}H e + \_{0}^{1}n$
+
+1. Donner l'expression littérale de l'énergie libérée par cette réaction en fonction des données de l'énoncé et calculer cette énergie en MeV.
+
+#### 4) Ressources en deutérium
+
+On trouve le deutérium en abondance dans l'eau de mer. La ressource dans les océans est estimée à $4 , 6 \times 10^{13}$ tonnes.
+
+La réaction (1) libère une énergie de $17 , 6 M e V$.
+
+On assimile la masse d'un atome de deutérium à la masse de son noyau.
+
+1. 1-1- Déterminer le nombre N de noyaux présents dans la masse $m = 1 , 0 K g$ de deutérium.
+
+1. 1-2- En déduire l'énergie E libérée par une masse $m = 1 , 0 K g$ de deutérium.
+
+La consommation annuelle énergétique mondiale actuelle est d'environ $4 \times 10^{20} J$.
+
+On fait l'hypothèse simplificatrice selon laquelle le rendement d'une centrale à fusion est équivalent à celui d'une centrale nucléaire.
+
+Ceci revient à considérer que seule 33% de l'énergie libérée par la réaction de fusion est réellement convertie en électricité.
+
+1. 2- Estimer en années, la durée $\Delta t$ nécessaire pour épuiser la réserve de deutérium disponible dans les océans répondant à la consommation annuelle actuelle.
+
+Données :
+
+- Masse du neutron : $m \left(\right. n \left.\right) = 1 , 674927 . 10^{- 27} K g$
+- Masse du proton : $m \left(\right. p \left.\right) = 1 , 672622 . 10^{- 27} K g$
+- $m \left(\right. \_{1}^{2}H \left.\right) = 3 , 344497 . 10^{- 27 } K g \\ m \left(\right. \_{1}^{3}H \left.\right) = 5 , 008271 . 10^{- 27 } K g \\ m \left(\right. \_{2}^{4}H \left.\right) = 6 , 646483 . 10^{- 27} K g \\ 1 u = 931 , 5 M e V / c^{2} \\ 1 e V = 1 , 60 . 10^{- 19} J \\ C = 3 . 10^{8} m / s$
+
+### 7-3/ Exercice 3
+
+L'énergie dégagée au cours de la combustion complète d'une mole de butane est $Q = 2878 \times 10^{3} J$, ça veut dire que la combustion complète de $56 g$ de butane dégage une énergie de $Q = 2878 \times 10^{3} J$.
+
+#### Fission nucléaire
+
+Une centrale nucléaire est une usine de production d'électricité.
+
+Actuellement ces centrales utilisent la chaleur libérée par des réactions de fission de l'uranium 235 qui constitue le "combustible nucléaire". Cette chaleur transforme de l'eau en vapeur. La pression de la vapeur permet de faire tourner à grande vitesse une turbine qui entraîne un alternateur produisant l'électricité.
+
+Certains produits de fission sont des noyaux radioactifs à forte activité et dont la demi-vie peut être très longue.
+
+1. Définir le terme demi-vie.
+
+Le bombardement d'un noyau d'uranium 235 par un neutron peut produire un noyau de strontium et un noyau de xénon selon l'équation suivante :
+
+$\overline{\left.\right) \_{92}^{235}U + \_{0}^{1}n \rightarrow \_{Z}^{94}S r + \_{54}^{A}X e + 3 \_{0}^{1}n }$
+
+1. Déterminer les valeurs des nombres A et Z.
+
+1. Calculer en MeV puis en joule l'énergie libérée par la fission d'un noyau d'uranium 235.
+
+1. Déduire L'énergie libérée en joule par la fission d'une mole d'uranium 235.
+
+1. Quelle est la masse de butane qu'on doit utiliser au cours d'une combustion complète pour produire la même quantité d'énergie libérée lors de la fission de $235 g$ d'uranium $\_{}^{235}U$ ?
+
+#### Fusion nucléaire
+
+La fusion est la source d'énergie du soleil et des autres étoiles.
+
+Pour obtenir une réaction de fusion, il faut rapprocher suffisamment deux noyaux qui se repoussent, puisqu'ils sont tous deux chargés positivement. Une certaine énergie est donc indispensable pour franchir cette barrière et arriver dans la zone, très proche du noyau, où se manifestent les forces nucléaires capables de l'emporter sur la répulsion électrostatique.
+
+La réaction de fusion la plus accessible est la réaction impliquant le deutérium et le tritium : C'est sur cette réaction que se concentrent les recherches concernant la fusion contrôlée.
+
+La demi-vie du tritium consommé au cours de cette réaction n'est que de quelques années. De plus il y a très peu de déchets radioactifs générés par la fusion et l'essentiel est retenu dans les structures de l'installation.
+
+Le deutérium de symbole $\_{1}^{2}H$ et le tritium de symbole $\_{1}^{3}H$ sont deux isotopes de l'hydrogène.
+
+1. 1- Définir le terme de noyaux isotopes.
+
+1. 2- Donner la composition de ces deux noyaux.
+
+1. Qu'appelle-t-on réaction de fusion ?
+
+1. Écrire l'équation de la réaction nucléaire entre un noyau de Deutérium et un noyau de Tritium sachant que cette réaction libère un neutron et un noyau noté $\_{Z}^{A}X$. Préciser la nature du noyau $\_{Z}^{A}X$.
+
+1. Montrer que l'énergie libérée au cours de cette réaction de fusion est de $17 , 6 M e V$.
+
+1. Quelle est l'énergie libérée par la fusion d'une mole de tritium ?
+
+1. Quelle est la masse de butane qu'on doit utiliser au cours d'une combustion complète pour produire la même quantité d'énergie libérée lors de la fusion d'une mole de tritium ?
+
+Donneés :
+
+- Unité de masse atomique : $µ = 1 , 66 \times 10^{- 27} k g$
+- Énergie de masse de l'unité de masse atomique : $1 µ = 931 , 5 M e V . C^{- 2}$
+- Électronvolt : $1 e V = 1 , 60 \times 10^{- 19} J$
+- Vitesse de la lumière dans le vide : $c = 3 , 00 \times 108 m . s^{- 1}$
+- Nombre d'Avogadro : $N_{A} = 6 , 02 . 10^{23}$
+
+| Noyau | Neutron | Proton | Deutérium | Tritium | Hélium 3 | Hélium 4 | Uranium 235 | Xénon | Strontium |
+|---|---|---|---|---|---|---|---|---|---|
+| Symbole | $\_{0}^{1}n$ | $\_{1}^{1}H$ | $\_{1}^{2}H$ | $\_{1}^{3}H$ | $\_{2}^{3}H e$ | $\_{2}^{4}H e$ | $\_{92}^{235}U$ | $\_{54}^{A}X e$ | $\_{Z}^{94}S r$ |
+| Masse en $\mu$ | 1,00866 | 1,00728 | 2,01355 | 3,01550 | 3,01493 | 4,00150 | 234,9942 | 138,8892 | 93,8945 |
+
+### 7-4/ Exercice 4
+
+Dans une centrale nucléaire, les noyaux d'uranium $\_{92}^{235}U$ subissent la fission sous le choc d'un neutron lent.
+
+Un des nombreux processus possibles conduit à la formation d'un noyau de lanthane $\_{57}^{144}L a$, d'un noyau de brome $\_{35}^{88}B r$ et de plusieurs neutrons.
+
+1. Définissez l'énergie de liaison d'un noyau.
+
+1. Donnez l'expression littérale qui permettra son calcul.
+
+1. Calculez, en MeV, l'énergie de liaison d'un noyau $\_{92}^{235}U$.
+
+1. Calculez l'énergie de liaison par nucléon de ce noyau.
+
+1. Écrivez l'équation de la réaction de fission étudiée.
+
+1. Exprimez l'énergie libérée par la fission d'un noyau $\_{92}^{235}U$ en fonction des énergies de liaison par nucléon du noyau père et des noyaux fils et calculez la valeur de cette énergie en MeV.
+
+Dans le cœur de la centrale, de nombreuses autres réactions de fission du noyau $\_{92}^{235}U$ se produisent, la perte de masse est, en moyenne, de 0,200 u par noyau.
+
+1. 1- Calculez, en MeV, l'énergie moyenne libérée par la fission d'un noyau. Ce résultat est-il en concordance avec celui de la question 6 ?
+
+1. 2- Calculez, en joule, l'énergie moyenne libérée par une mole de noyaux $\_{92}^{235}U$.
+
+Dans une centrale nucléaire, l'énergie nucléaire est transformée en énergie électrique. Une centrale fournit une puissance électrique moyenne $P_{e} = 1000 M W$ avec un rendement r = 25%.
+
+1. 1- Quelle est sa puissance nucléaire $P_{n}$ consommée ?
+
+1. 2- Quelle est, en joule, l'énergie nucléaire consommée chaque année ? 8-3/ Quelle est, en tonne, la masse d'uranium 235 consommée annuellement ?
+
+Données :
+
+- Constante d'Avogadro : $N_{A} = 6 , 02 . 10^{23} m o l^{- 1}$
+- $1 µ = 1 , 66055 . 10^{- 27} k g$ et $1 M e V = 1 , 602 . 10^{- 13} J$
+- Masse d'un proton : $m \left(\right. p \left.\right) = 1 , 0073 µ$
+- Masse d'un neutron : $m \left(\right. n \left.\right) = 1 , 0087 µ$
+- Célérité de la lumière dans le vide : $c = 2 , 998 \times 108 m . s^{- 1}$
+- Masse du noyau d'uranium 235 : $m \left(\_{92}^{235}U\right) = 235 , 0134 µ$
+- Énergie de liaison par nucléon : $E_{l} / A \left(\right. \_{57}^{144}L a \left.\right) = 8 , 28 M e V / n u c l \acute{e} o n$
+- Énergie de liaison par nucléon : $E_{l} / A \left(\right. \_{35}^{88}B r \left.\right) = 8 , 56 M e V / n u c l \acute{e} o n$
