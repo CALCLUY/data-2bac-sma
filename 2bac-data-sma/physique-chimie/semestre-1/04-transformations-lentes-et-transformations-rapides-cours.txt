@@ -1,0 +1,178 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Transformations lentes et transformations rapides
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 4 (Transformations lentes et transformations rapides)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Réactions d'oxydoréduction
+
+### 1-1/ Expérience
+
+On immerge partiellement une plaque de cuivre dans une solution de nitrate d'argent $\left(\right. A g^{+} + N \left(O_{3}\right)^{-} \left.\right)$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img1.jpg)
+
+On constate la formation d'un dépôt d'agent sur la partie immergée de la plaque et on constate que la solution prend une coloration bleue caractéristique des ions $C u^{2 +}$.
+
+### 1-2/ Interprétation
+
+Au cours de cette transformation chimique le cuivre s'est oxydé en Cu2+ selon la demi-équation suivante :
+
+$Cu \rightleftarrows Cu^{2 +} + 2 e^{-}$
+
+Les ions Ag+ sont réduits en argent métallique selon la demi-équation suivante :
+
+$Ag^{+} + e^{-} \rightleftarrows Ag$
+
+Les deux couples d'oxydo-réduction participants à cette transformation sont : $C u^{2 +} / C u$ et $A g^{+} / A g$.
+
+L'équation bilan d'oxydo-réduction est obtenue en ajoutant membre à membre les deux demi-équations précédentes :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img2.bmp)
+
+### 1-3/ Généralisation
+
+Chaque couple Ox/Red est caractérisé par sa demi-équation d'oxydoréduction :
+
+$\overline{\left.\right)o x + n . e^{-} \rightleftarrows r \acute{e} d}$
+
+Une réaction d'oxydoréduction est caractérisée par un transfert d'électrons entre l'oxydant d'un couple $o x_{1} / r e d_{1}$ et le réducteur d'un autre couple $o x_{2} / r e d_{2}$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img3.png)
+
+### 1-4/ Exemples
+
+- Écrire les demi-équations d'oxydo-réduction pour chacun des couples suivants :
+
+$A l^{3 +} / A l , C l_{2} / C l^{-} , M n \left(O_{4}\right)^{-} / M n^{2 +}$
+
+- Écrire l'équation d'oxydo-réduction entre les ions ferreux $F e^{2 +}$ et les ions permanganates $M n \left(O_{4}\right)^{-}$ en milieu acide sachant que les deux couples d'oxydo-réduction participants à cette transformation sont $M n \left(O_{4}\right)^{-} / M n^{2 +}$ et $F e^{3 +} / F e^{2 +}$
+
+### 1-5/ Conclusion
+
+Un oxydant est une espèce chimique capable de capter un ou plusieurs électrons au cours d'une transformation chimique.
+
+Un réducteur est une espèce chimique capable de céder un ou plusieurs électrons au cours d'une transformation chimique.
+
+- L'oxydation est une perte d'un ou plusieurs électrons.
+- La réduction est un gain d'un ou plusieurs électrons.
+
+## II- Transformations lentes et transformations rapides
+
+### 2-1/ Transformations rapides
+
+#### Définition
+
+Une transformation rapide est une transformation qui se fait en une courte durée de telle façon qu'on ne peut pas suivre son évolution en fonction du temps avec l'œil ou avec les appareils de mesure.
+
+#### Exemples
+
+- Précipitation du chlorure d'argent
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img6.png)
+
+$\overline{\left.\right)A \left(g^{+}\right)_{\left(\right. a q \left.\right)} + C l \left(^{-}\right)_{\left(\right. a q \left.\right)} \rightarrowtail A g C l_{\left(\right. s \left.\right)}}$
+
+- Précipitation de l'hydroxyde de fer III
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img7.png)
+
+$\overline{\left.\right)F \left(e^{3 +}\right)_{\left(\right. a q \left.\right)} + 3 H O \left(^{-}\right)_{\left(\right. a q \left.\right)} \rightarrowtail F e \left(\right. O H \left.\right)_{3_{\left(\right. s \left.\right)}}}$
+
+### 2-2/ Transformations lentes
+
+#### Définition
+
+Une transformation lente est une transformation qui se fait dans une certaine durée de telle façon qu'on suivre son évolution en fonction du temps avec l'œil ou avec les appareils de mesure.
+
+#### Exemples
+
+- Réaction entre les ions iodures et l'eau oxygénée (peroxyde d'hydrogéne)
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img8.png)
+
+Il y'a formation progressive du diiode $I_{2}$ caractérisé par sa coloration brune
+
+On constate que la couleur du mélange réactionnel évolue progressivement du jaune au jaune foncé puis prend une coloration brune qui devient de plus en plus foncée en fonction du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img9.png)
+
+L'équation bilan d'oxydo-réduction :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img10.bmp)
+
+## III- Les facteurs cinétiques
+
+### 3-1/ Définition
+
+On appelle facteur cinétique tout paramètre capable d'influer sur la vitesse d'une transformation chimique.
+
+### 3-2/ Influence de la températures sur la vitesse de la réaction
+
+#### Expérience
+
+Pour mettre en évidence l'influence de la température sur la vitesse de la réaction on réalise l'expérience suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img11.jpg)
+
+#### Observation
+
+L'apparition de la couleur brune est plus rapide dans le mélange A+C que dans le mélange B+D
+
+#### Conclusion
+
+D'une manière générale, plus la température du milieu réactionnel est élevée, plus la transformation est rapide et vice versa.
+
+On dit que la température est un facteur cinétique.
+
+### 3-3/ Influence de la concentration initiale des réactifs
+
+#### Expérience
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s4/img12.jpg)
+
+#### Observation
+
+L'apparition de la couleur brune est plus rapide dans le mélange A+C que dans le mélange B+D
+
+#### Conclusion
+
+La formation du diiode augmente avec la concentration initiale des réactifs.
+
+De façon générale l'avancement d'une réaction augmente avec la concentration initiale des réactifs.
+
+On dit que la concentration des réactifs est un facteur cinétique.
+
+Comme applications au laboratoire la dilution : en diminuant la concentration des réactifs on peut ralentir ou stopper une réaction.
+
+## IV- Application des facteurs cinétiques
+
+### 4-1/ Accélération ou déclenchement d'une transformation chimique.
+
+De nombreuses synthèses industrielles sont des transformations lentes à température ordinaire; les contraintes économiques obligent à les réaliser à températures élevées.
+
+#### Exemples
+
+Synthèse de l'ammoniac, du trioxyde de soufre, Synthèse organiques...
+
+Pour accélérer la cuisson des aliments, on utilise un autocuiseur où la température est voisine de 110°C
+
+### 4-2/ Ralentissement ou blocage d'une transformation chimique.
+
+#### Exemple 1
+
+Les aliments subissent, sous l'action de micro-organismes, des réactions de dégradation altérant leur goût et pouvant conduire à des toxines graves pour la santé.
+
+Ils sont donc conservés au réfrigérateur (4°C environ) et au congélateur (18°C environ).
+
+#### Exemple 2
+
+Les cellules et les tissus biologiques (spermatozoïdes, ovules, embryons) sont maintenues dans l'azote liquide à -195°C pour stopper les réactions biologiques et la division cellulaire.

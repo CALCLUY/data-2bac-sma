@@ -1,0 +1,81 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Ondes mécaniques progressives
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 1 (Les ondes mécaniques progressives)
+Professeur : Mr El GOUFIFA Jihad
+
+## VIII- Exercices
+
+### 8-1/ Exercice 1
+
+La figure ci-dessous représente la propagation d'une onde le long d'une corde élastique $(AB)$, sa longueur $AB = 10\,m$ à deux instants $t_{1} = 0,1$ et $t_{2} = 0 , 2 s$
+
+1. Est ce que la perturbation conserve sa forme lors de la propagation ?
+2. Cette onde est-elle longitudinale ou transversale ? Justifier.
+3. Calculer $\nu$ la célérité de la propagation de l'onde le long de la corde.
+4. Déterminer la durée $\Delta t$ de la perturbation d'un point de la corde.
+5. Dessiner l'aspect de la corde à l'instant $t_{3} = 0 , 6 s$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img11.bmp)
+
+### 8-2/ Exercice 2
+
+La figure ci-dessous représente la propagation d'une onde le long d'une corde :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img12.bmp)
+
+Elle représente l'aspect de la corde à l'instant $t = 40 m s$.
+
+Sachant que la déformation commence à partir d'une source à l'instant $t_{0} = 0$ :
+
+1. Définir une onde mécanique progressive.
+2. Quelle est la nature de de l'onde ? quelle est sa dimension ?
+3. Déterminer à l'instant $t$ les points qui se dirigeront vers le bas ainsi que ceux se dirigeront vers le haut.
+4. Calculer $\nu$ la célérité de la propagation de l'onde le long de la corde.
+5. À quel instant s'arrête le point M (position du début de la propagation) ?
+6. Représenter graphiquement l'aspect de la corde à l'instant $t ' = 10 m s$.
+7. Déterminer parmi les propositions suivantes la / les relation (s) entre l'élongation du point M et celle de la source S :
+
+$\overline{\left.\right)y_{S} \left(\right. t \left.\right) = y_{M} \left(\right. t + 0 , 04 \left.\right) : \_ \_ \_ \_ \_ \_ \_ \_ \\ y_{S} \left(\right. t \left.\right) = y_{M} \left(\right. t - 0 , 04 \left.\right) : \_ \_ \_ \_ \_ \_ \_ \_ \\ y_{M} \left(\right. t \left.\right) = y_{S} \left(\right. t + 0 , 04 \left.\right) : \_ \_ \_ \_ \_ \_ \_ \_ \\ y_{M} \left(\right. t \left.\right) = y_{S} \left(\right. t - 0 , 04 \left.\right) : \_ \_ \_ \_ \_ \_ \_ \_ }$
+
+### 8-3/ Exercice 3
+
+Pour mesurer la propagation des ondes sonores dans l'air on réalise le montage expérimental ci-dessous :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img13.bmp)
+
+La distance entre les deux microphones $R_{1}$ et $R_{2}$ est $d = 1,70\,m$. La courbe ci-dessous représente la variation de la tension aux bornes de chaque microphone.
+
+Donnée :
+
+- La sensibilité horizontale : $1 \left(m s\right)/\left(d i v\right)$
+- Température d'air : $25 \circ$
+- Célérité de la propagation du son dans l'eau $\nu_{e a u} = 1500 m . s^{- 1}$
+
+1. Est que le son est une onde longitudinale ou transversale ?
+2. Déterminer la valeur du retard temporel entre les microphones $R_{1}$ et $R_{2}$.
+3. Déduire la valeur de $\nu_{a i r}$ la célérité de la propagation des ondes sonores dans l'air.
+4. Déterminer la valeur du retard temporel $\tau '$ quand on déplace le microphone vers la droite à partir de sa position initiale de $L = 51 c m$
+5. Comparer $\nu_{a i r}$ et $\nu_{e a u}$. Que peut-t-on déduire ?
+
+### 8-4/ Exercice 4
+
+La relation $\nu = \sqrt{\frac{T}{\mu}}$ donne la vitesse de propagation d'un signal transversal le long d'une corde tendue, dont $T$ est la tension de la corde et $\mu$ sa masse linéaire.
+
+1. Calculer la vitesse de propagation d'un signal le long d'une corde de longueur $L = 10 m$ et de masse $m = 1 k g$ si sa tension est $T = 2 , 5 N$.
+2. Quelle est la durée que met le signal pour parcourir la corde toute entière ?
+3. Comment cette vitesse change si nous utilisons la même corde attachée avec une force de 4 fois la force précédente.
+4. Nous tendons la corde par une masse marquée :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img14.jpg)
+
+- Calculer $\nu$ la célérité de la propagation de l'onde le long de la corde.
+- on donne : $M = 10 K g$
+
+Nous considérons que les dimensions de la poulie sont négligées et $g = 10 N/\left(K g\right)$

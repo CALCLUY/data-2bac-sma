@@ -1,0 +1,134 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Propagation des ondes lumineuses
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 3 (Propagation d'une onde lumineuse)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+Pour déterminer la longueur d'onde d'une onde lumineuse on a éclairé une fente de largeur $a = 5 . 10^{- 5} m$ par un faisceau de lumière monochromatique.
+
+On observe sur un écran qui se trouve à la distance $D = 3 m$ de la fente la formation de franges lumineuses
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img4.bmp)
+
+La mesure de la largeur de la frange centrale a donnée la valeur suivante : $L = 7 , 6 . 10^{- 2} m$
+
+1. Comment s'appelle le phénomène étudié dans cette expérience ?
+2. Donner l'expression de l'écart angulaire $\theta$ en fonction de $D$ et $L$ (On prend : $t a n \left(\right. \theta \left.\right) \approx \theta \left(\right. r a d \left.\right)$
+3. Calculerla la valeur de $\lambda$.
+
+### 5-2/ Exercice 2
+
+#### Partie 1 (Propagation d'une onde lumineuse)
+
+Les fils de pêche de poissons se fabriquent actuellement en nylon pour qu'ils supportent la résistance du poisson chassé et ils sont de faible diamètre pour qu'ils ne soient pas être vus par les poissons.
+
+Pour déterminer la valeur du diamètre a d'un fil, on l'a éclairé à l'aide d'un faisceau de lumière monchromatique de longueur d'onde $\lambda$ dans l'air émis par une source laser.
+
+On observe sur un écran qui se trouve à la distance $D$ du fil la formation de franges, la largeur de la frange centrale est $L$.
+
+Données : $\lambda = 623 , 8 n m ; D = 3 m ; L = 7 , 5 c m$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img15.bmp)
+
+1. Comment s'appelle le phénomène mis en évidence dans cette expérience ?
+
+L'expression de l'écart angulaire $\theta$ entre le milieu de la frange centrale et l'une de ses extrémités est $\theta = \frac{\lambda}{a}$.
+
+1. Déterminer l'expression de $a$ en fonction de $D$ et $L$ et $\lambda$. Calculer la valeur de $a$.
+
+On remplace la source laser par une autre source laser de longueur d'onde $\lambda '$ et on obtient une frange centrale de de largeur $L ' = 8 c m$.
+
+1. Donner l'expression de $\lambda '$ en fonction de $\lambda$, $L$ et $L '$. Calculer la valeur de $\lambda '$
+
+#### Partie 2 (Détermination de la longueur d'onde d'une onde lumineuse dans le verre)
+
+On envoie un faisceau lumineux monochromatique émis par une source laser sur la face d'un prisme en verre d'indice de réfraction $n = 1 , 58$.
+
+1. Calculer la valeur de $V$ vitesse de propagation du faisceau lumineux dans le prisme.
+
+1. Déterminer la valeur de la longueur de l'onde lumineuse $\lambda_{I}$ durant sa propagation dans le prisme
+
+Données:
+
+- La longueur d'onde de l'onde lumineuse dans l'air est : $\lambda_{0} = 665 , 4 n m$
+- La vitesse de propagation de la lumière dans le vide et dans l'air est $c = 3 . 10^{8} m / s$.
+
+### 5-3/ Exercice 3
+
+On veut retrouver expérimentalement la longueur d'onde $\lambda_{D}$ de la radiation monochromatique du LASER d'un lecteur DVD. On utilise pour cela le montage de la figure ci-dessous, $a$ étant le diamètre du fil et $\theta$ l'écart angulaire.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img1.bmp)
+
+1. Quel phénomène subit la lumière émise par le laser dans cette expérience ? Que peut-on en conclure par analogie avec les ondes mécaniques ?
+
+1. On supposera $\theta$ suffisamment petit pour considérer $t a n \left(\right. \theta \left.\right) \approx \theta \left(\right. r a d \left.\right)$. Établir la relation $L = \frac{2 . \lambda_{D} . D}{a}$ ($L$ largeur de la tache centrale de diffraction et $D$ distance entre le fil et l'écran).
+
+On cherche maintenant à déterminer expérimentalement la longueur d'onde $\lambda_{D}$ de la lumière monochromatique émise par la source laser utilisée. Pour cela, on place devant le faisceau laser des fils calibrés verticaux.
+
+La figure de diffraction obtenue est observée sur un écran blanc situé à une distance $D = 2 , 50 m$ des fils.
+
+Pour chacun des fils, on mesure la largeur L de la tâche centrale de diffraction.
+
+On trace la courbe L = f(1/a) représenté ci-dessous :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img10.bmp)
+
+1. Donner l'équation de la courbe $L = f \left(\right. 1 / a \left.\right)$ et en déduire la longueur d'onde $\lambda_{D}$ de la lumière monochromatique constitutive du faisceau laser utilisé.
+
+1. Calculer la fréquence $\nu_{0}$ de la lumière monochromatique émise par la source laser.
+
+On remplace le fil par un cheveu d'épaisseur inconnu $e$ et on mesure la longueur $L '$ de la tâche de diffraction obtenue.
+
+La valeur de la tâche centrale mesurée sur l'écran est $L ' = 20 m m$.
+
+1. Calculer $e$ l'épaisseur du cheveu.
+
+1. Quelle aurait été approximativement la largeur de la tâche centrale si un laser vert avait été utilisé à la place du laser précédente ? Justifier.
+
+Donnée : Célérité de la lumière dans le vide ou dans l'air : $c = 3 , 00 . 10^{8} m . s^{- 1}$.
+
+### 5-4/ Exercice 4
+
+L'objectif de cet exercice est d'étudier le phénomène de dispersion et celui de la diffraction.
+
+Données : La vitesse de propagation d'une onde lumineuse dans l'air est approximativement égale à sa vitesse de propagation dans le vide : $c = 3 , 00 . 10^{8} m . s^{- 1}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img16.jpg)
+
+#### Dispersion de la lumière
+
+Un faisceau parallèle de lumière blanche arrive au point $I$ de la surface d'un demi-disque en verre.
+
+On observe sur l'écran (fig 1) les sept couleurs du spectre allant du rouge (R) au viole (V) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img17.jpg)
+
+1. Exprimer la longueur d'onde $\lambda_{R}$ de la radiation rouge dans le verre en fonction de l'indice de réfraction $n_{R}$ du verre et de $\lambda_{0 R}$ (longueur d'onde dans l'air de ce rayonnement).
+
+L'indice de réfraction $n$ d'un milieu transparent pour une radiation monochromatique de longueur d'onde $\lambda_{0}$ dans l'air est modélisé par la relation $\overline{\left.\right)n = A + \frac{B}{\left(\lambda_{0}\right)^{2}}}$, dont A et B sont des constantes qui dépendent du milieu.
+
+1. Calculer la valeur de A et celle de B pour le verre utilisé
+
+#### Diffraction de la lumière
+
+On réalise l'expérience de la diffraction d'une lumière monochromatique de longueur d'onde $\lambda$ dans l'air émise par un dispositif laser, en utilisant une fente de largeur $a$ comme l'indique la figure 2 :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img18.jpg)
+
+On mesure la largeur $d$ de la tache centrale pour différentes valeurs de la largeur $a$ de la fente et on représente graphiquement $d = f \left(\right. 1/a \left.\right)$, on obtient alors la courbe indiquée dans la figure 3 :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img19.jpg)
+
+1. Trouver l'expression de $d$ en fonction de $\lambda$ et $a$ et $D$, sachant que $\theta = \frac{\lambda}{a}$ ($\theta$ petit exprimé en rad)
+
+1. À l'aide de la figure 3, déterminer la valeur de $\lambda$.
