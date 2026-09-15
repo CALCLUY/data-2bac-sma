@@ -1,0 +1,137 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvements plans : Particule chargée dans un champ magnétique
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Bac SM-SPC
+
+Séance 19-B (Mouvements plans : Particule chargée dans un champ magnétique)
+
+Professeur : Mr EL GOUFIFA Jihad
+
+## I- Mouvement d'une particule chargée dans un champs magnétique uniforme
+
+### 1-1/ Le champ magnétique uniforme
+
+Un champ magnétique est dit uniforme s'il est constant en direction, en sens et en valeur.
+
+- Exemple : Le champ magnétique est uniforme entre les bobines d'Helmholtz parcourues par un courant électrique :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img3.jpg)
+
+L'unité de l'intensité du champ magnétique est le tesla (T).
+
+#### Remarque
+
+Si le vecteur →B est perpendiculaire au plan de la feuille et dirigée vers l'avant on le représente par : ⊙→B
+
+Si le vecteur →B est perpendiculaire au plan de la feuille et dirigée vers l'arrière on le représente par : ⊗→B
+
+### 1-2/ Déviation d'une particule chargée dans un champ magnétique uniforme
+
+#### Expérience
+
+On utilise un tube de crookes (qui contient un canon d'électrons permettant d'obtenir un faisceau d'électrons ayant la même vitesse), à l'intérieur duquel il y'a un champ magnétique uniforme entre deux bobines d'Helmholtz parcourues par un courant électrique :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img4.jpg)
+
+On constate expérimentalement que :
+
+Si la vitesse des électrons →v 0 est parallèle à →B, le faisceau d'électrons ne subit pas de déviation.
+
+Si la vitesse des électrons →v 0 est perpendiculaire à →B, le faisceau d'électrons dévie et sa trajectoire devient circulaire.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img5.png)
+
+#### Interprétation
+
+La déviation du faisceau d'électron est due à l'existence d'une force magnétique qui s'exerce sur toute particule chargée et en mouvement dans un champ magnétique uniforme qu'on appelle : force magnétique ou force de Lorentz.
+
+### 1-3/ La force magnétique (force de Lorentz)
+
+#### Définition
+
+Toute particule chargée de vitesse est soumise dans un champ magnétique uniforme à une force magnétique appelée force de Lorentz donnée par la relation suivante :
+
+→F=q.→v∧→B
+
+Le symbole ∧ signifie produit vectoriel.
+
+#### Caractéristiques de la force magnétique
+
+L'intensité : F=|q|.v.B.sin(^→B,→v)
+
+La direction : la force magnétique.
+
+Le sens : il est donné par la règle de la main droite suivante :
+
+En plaçant la main droite tendue de sorte que les doigts soient dirigés dans le sens du produit q.→v et la paume de la main soit dirigée dans le sens de →B, le pouce tendu indique le sens de la force magnétique :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img6.png)
+
+#### Exemples
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img7.png)
+
+### 1-4/ Étude du mouvement d'une particule chargée dans un champ magnétique uniforme
+
+#### Mouvement uniforme
+
+L'électron dans le champ magnétique est soumis à l'action de la force magnétique →F=q.→v∧→B, cette force de Lorentz est toujours perpendiculaire au vecteur vitesse →v.
+
+Donc le produit scalaire →F.→v=0
+
+Par conséquence la puissance de la force magnétique est nulle P=→F.→v=0, donc son travail est nul W→F=0.
+
+En appliquant le théorème de l'énergie cinétique : Δ E c=W→F=0⇒E c i=E c f
+
+Donc sa vitesse est constante v=C t e.
+
+Donc l'action du champ magnétique ne modifie pas l'énergie cinétique de la particule.
+
+#### Mouvement plan
+
+La vitesse de l'électron est constante v=C t e.
+
+Donc son accélération tangentielle a t=d v d t=0 est nulle.
+
+Alors l'accélération de l'électron est normale.
+
+Et on a →F=q.→v∧→B
+
+Donc la force magnétique →F est perpendiculaire au plan (→B,→v), est elle aussi normale.
+
+En conclusion, le mouvement de l'électron est plan, il se fait dans un plan perpendiculaire au vecteur champ magnétique.
+
+#### Mouvement circulaire
+
+Dans le repère de Frenet, le vecteur accélération : →a=a n→n+a t→u
+
+or : v=C t e⇒a t=d v d t=0
+
+Donc l'accélération est normale.
+
+En appliquant la deuxième loi de Newton : →F=q.→v∧→B=m→a G
+
+En projetant sur la normale : →F=|q|v.B=m v 2 R⇒R=m v|q|.B
+
+Le rayon est constant donc le mouvement est circulaire.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img8.png)
+
+### 1-5/ La déviation magnétique
+
+On fait pénétrer un faisceau d'électron dans une région de l'espace de largeur l dans laquelle règne un champ magnétique →B uniforme avec une vitesse →v 0, le faisceau d'électrons est soumis à l'action de la force magnétique et son mouvement devient circulaire de rayon R=m v 0|q|.B dans le champ magnétique.
+
+Les électron du faisceau quittent le champ magnétique au point S et prennent un mouvement rectiligne uniforme jusqu'à ce qu'ils rencontrent l'écran au point P.
+
+On appelle déviation magnétique la distance D m=O'P
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img9.png)
+
+$\left{\begin{matrix} sin \alpha = \frac{\mathcal{l}}{R} \left(H M ' I\right) \\ tan \alpha = \frac{D_{m}}{D} \left(J P O '\right) \end{matrix}\right \\ \\ tan \alpha \approx sin \alpha \\ \Rightarrow \frac{D_{m}}{D} = \frac{\mathcal{l}}{R} \\ \Rightarrow \overline{\left.\right)D_{m} = \frac{D \mathcal{l}}{R} = \frac{D \mathcal{l} \left|q\right| B}{m v_{0}}}$
+
+[Note : les sections I-1 à I-4 de cette page ne comportent pas de LaTeX dans la source ; les formules y sont restituées telles quelles.]

@@ -1,0 +1,69 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvements plans : Particule chargée dans un champ magnétique
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Bac SM-SPC
+Séance 19-B (Mouvements plans : Particule chargée dans un champ magnétique)
+Professeur : Mr EL GOUFIFA Jihad
+
+## II- Exercices
+
+### 2-1/ Exercice 1
+
+Les ions $M g^{2 +}$ pénètrent dans une région de l'espace où règne un champ magnétique uniforme $\overset{\rightarrow}{B}$ (perpendiculaire au plan de la figure). Avec une vitesse $V_{0} = 1 , 6 . 10^{4} m . s^{- 1}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img17.bmp)
+
+1. Donner les caractéristique de la force magnétique $\overset{\rightarrow}{F_{m}}$
+
+2. Déterminer le sens du champs magnétique $\overset{\rightarrow}{B}$
+
+3. En appliquant la deuxième loi de newton dans un référentiel galiléen, montrer que le mouvement des ions $M g^{2 +}$ est circulaire uniforme
+
+4. Calcule la masse d'ion $M g^{2 +}$ (On donne $O M = 4 c m$)
+
+Données :
+
+- L'intensité du champs magnétique $B = 0 , 1 T$
+- La charge élémentaire $e = 1 , 6 . 10^{- 19} C$
+
+### 2-2/ Exercice 2
+
+On considère les ions de deux isotopes $\_{80}^{200}H g^{2 +}$ et $\_{80}^{202}H g^{2 +}$ du mercure.
+
+Ils pénètrent en $A$, avec une vitesse $V$ non nulle, dans une capsule où règne un champ magnétique uniforme (perpendiculaire au plan de la feuille) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img18.bmp)
+
+1. Indiquer le sens du champ magnétique pour que les ions soient déviés vers le détecteur $D$.
+
+2. Montrer que dans cette capsule les ions ont un mouvement uniforme, et exprimer les rayons $R$ de la trajectoire de deux isotopes en fonction de $m$, $e$, $v$ et $B$.
+
+3. Déterminer lequel de ces deux ions va être le plus dévié. Justifier.
+
+### 2-3/ Exercice 3
+
+Deux particules chargées $H e^{2 +}$ et $O^{2 -}$ sont introduites en un point $A$, avec la même vitesse initiale $\overset{\rightarrow}{V}$, dans un espace où règne un champ magnétique uniforme $\overset{\rightarrow}{B}$ perpendiculaire au vecteur $\overset{\rightarrow}{V}$.
+
+On considère que les deux particules $H e^{2 +}$ et $O^{2 -}$ ne sont soumises qu'à la force de Lorentz.
+
+Données :
+
+L'expression de la force de Lorentz : $\overset{\rightarrow}{F} = q \overset{\rightarrow}{V} \land \overset{\rightarrow}{B}$
+La masse de la particule $H e^{2 +}$ : $m \left(H e^{2 +}\right) = 6 , 68 . 10^{- 27} K g$
+
+La figure suivante représente l'enregistrement des deux trajectoires des particules $H e^{2 +}$ et $O^{2 -}$ dans le champ magnétique uniforme $\overset{\rightarrow}{B}$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img19.bmp)
+
+1. Identifier la trajectoire correspondante à chaque particule.
+
+2. En appliquant la deuxième loi de Newton dans un référentiel galiléen, montrer que le mouvement de l'ion $H e^{2 +}$ est uniforme et de trajectoire circulaire de rayon $R_{H e^{2 +}} = \frac{m_{H e^{2 +}} . V}{2 . e . B}$
+
+3. En exploitant la figure, déterminer le rapport $\frac{R_{O^{2 -}}}{R_{H e^{2 +}}}$
+
+4. Montrer que la masse de la particule $O^{2 -}$ est $m \left(O^{2 -}\right) = 2 , 67 . 10^{- 26} K g$
