@@ -1,0 +1,106 @@
+---
+Type: Examen National
+Année: 2017
+Session: Rattrapage
+Nature: Corrigé
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - المسالك الدولية - خيار فرنسية
+الدورة الاستدراكية 2017 – عناصر الإجابة - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) – خيار فرنسية
+RR 24F — المعامل : 9 — مدة الإنجاز : 4
+
+[NOTE D'EXTRACTION : le tableau du barème est en mise en page RTL (colonnes note / éléments
+de réponses / question) ; il est restitué ici en lecture question → élément → note.]
+
+## EXERCICE 1
+
+1- $\left(E , + , \cdot\right)$ espace vectoriel — 0,5
+sa dimension est $2$ — 0,25
+
+2- a) $M(x , y) \times M(x' , y') = M\left(xx' - 3yy' , xy' + yx'\right)$ — 0,5
+
+2- b) $\left(E , +\right)$ groupe commutatif — 0,25
+Partie stable et distributivité — 0,25
+Commutativité et $I \in E$ — 0,25
+
+3- a) $\varphi$ bijection — 0,25
+$\varphi$ homomorphisme — 0,5
+
+3- b) $\varphi\left(\mathbb{C}^{*}\right) = E^{*}$ et $\left(\mathbb{C}^{*} , \times\right)$ — 0,5
+
+3- c) $J = \varphi\left(i\sqrt{3}\right)$ — 0,25
+$J^{2017}$ — 0,25
+L'inverse — 0,25
+
+4- $\left(E , + , \times\right)$ corps commutatif — 0,5
+
+## EXERCICE 2
+
+1- Probabilité de gagner 20 points — 0,25
+Probabilité de perdre 20 points — 0,25
+Probabilité d'avoir un gain nul — 0,25
+
+2- a) Probabilité de gagner 100 points — 0,5
+
+2- b) Probabilité de gagner 40 points — 1
+
+3- a) Loi de probabilité de $X$ — 0,5
+
+3- b) Espérance de $X$ — 0,25
+
+## EXERCICE 3
+
+1- — 0,5
+
+2- — 0,5
+
+3- — 0,75
+
+4- — 0,75
+
+## EXERCICE 4
+
+### Partie 1
+
+1- Continuité à droite en $0$ — 0,25
+continuité sur $\left]0 , +\infty\right[$ — 0,25
+
+2- a) Double inégalité — 0,5
+
+2- b) Double inégalité — 0,5
+
+2- c) dérivabilité à droite en $0$ — 0,75
+
+3- a) calcul de $f'(x)$ — 0,5
+
+3- b) $f$ décroissante sur $I$ — 0,25
+
+### Partie 2
+
+1- a) Double inégalité — 0,5
+
+1- b) dérivabilité à droite en $0$ — 0,75
+
+2- dérivabilité — 0,25
+calcul de $g'(x)$ — 0,5
+
+3- $g$ décroissante — 0,25
+
+4- a) calcul de limite — 0,75
+
+4- b) calcul de limite — 0,5
+
+### Partie 3
+
+1- existence et unicité — 0,75
+
+2- a) vérification — 0,5
+
+2- b) inégalité — 0,75
+
+3- a) inégalité — 0,75
+
+3- b) convergence — 0,75

@@ -1,0 +1,149 @@
+---
+Type: Examen National
+Année: 2015
+Session: Rattrapage
+Nature: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2015 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة الفرنسية
+RS 25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte 5 exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+  - Le premier exercice se rapporte aux structures algébriques……….(4 pts)
+  - Le deuxième exercice se rapporte à l'arithmétique et au calcul des probabilités…(3 pts)
+  - Le troisième exercice se rapporte aux nombres complexes……….(3 pts)
+  - Le quatrième exercice se rapporte à l'analyse………………...........(6 pts)
+  - Le cinquième exercice se rapporte à l'analyse……………...………(4 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 : (4 points)
+
+### Première partie :
+
+On munit $\mathbb{R}$ de la loi de composition interne $\ast$ définie par : $\left(\forall (x , y) \in \mathbb{R}^{2}\right) \quad x \ast y = x + y - xy + 1 \ldots e$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 1- a) Montrer que la loi $\ast$ est commutative dans $\mathbb{R}$
+
+0,5 — b) Montrer que la loi $\ast$ admet un élément neutre que l'on déterminera.
+
+0,5 — 2- Sachant que l'équation : $x^{2} + 3x - e = 0$ [FORMULA_IMAGE_UNREADABLE] admet dans $\mathbb{R}$ deux solutions distinctes $a$ et $b$.
+
+Montrer que la loi $\ast$ n'est pas associative dans $\mathbb{R}$
+
+### Deuxième partie :
+
+On rappelle que $\left(M_{2}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire non commutatif d'unité $I = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$
+
+et que $\left(M_{2}(\mathbb{R}) , + , \cdot\right)$ est un espace vectoriel réel et que $\left(\mathbb{C}^{*} , \times\right)$ est un groupe commutatif.
+
+Pour tout $x$ et $y$ réels, on pose : $M(x , y) = \begin{pmatrix} x & -2y \\ y & x \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE] et soit $F = \left\{ M(x , y) \ / \ (x , y) \in \mathbb{R}^{2} \right\}$
+
+0,5 — 1- Montrer que $F$ est un sous-espace vectoriel de l'espace vectoriel réel $\left(M_{2}(\mathbb{R}) , + , \cdot\right)$
+
+0,5 — 2- Montrer que $F$ est stable dans $\left(M_{2}(\mathbb{R}) , \times\right)$
+
+3- On considère l'application $\varphi$ de $\mathbb{C}^{*}$ dans $F$ qui associe à tout nombre complexe $x + iy$ (où $x$ et $y$ sont deux réels) la matrice $M(x , y)$.
+
+0,5 — a) Montrer que $\varphi$ est un homomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ vers $\left(F , \times\right)$
+
+0,25 — b) On pose : $F^{*} = F - \left\{ M(0 , 0) \right\}$. Montrer que $\varphi\left(\mathbb{C}^{*}\right) = F^{*}$
+
+0,25 — c) Montrer que $\left(F^{*} , \times\right)$ est un groupe commutatif.
+
+0,75 — 4- Montrer que $\left(F , + , \times\right)$ est un corps commutatif.
+
+## EXERCICE 2 : (3 points)
+
+**I-** 0,5 — 1- $a$ étant un entier, montrer que si $a$ et $13$ sont premiers entre eux alors $a^{2016} \equiv 1 \ [13]$ [FORMULA_IMAGE_UNREADABLE]
+
+2- On considère dans $\mathbb{Z}$ l'équation $(E) : x^{2015} \equiv 2 \ [13]$ et soit $x$ une solution de l'équation $(E)$.
+
+0,5 — a) Montrer que $x$ et $13$ sont premiers entre eux.
+
+0,5 — b) Montrer que : $x \equiv 7 \ [13]$
+
+0,5 — 3- Montrer que l'ensemble des solutions de l'équation $(E)$ est $S = \left\{ 7 + 13k \ / \ k \in \mathbb{Z} \right\}$
+
+**II-** Une urne contient 50 boules portant les numéros de 1 à 50 (les boules sont indiscernables au toucher)
+
+0,5 — 1- On tire au hasard une boule de l'urne.
+Quelle est la probabilité d'obtenir une boule portant un numéro qui est solution de l'équation $(E)$ ?
+
+0,5 — 2- On tire au hasard une boule de l'urne, on note son numéro, puis on la remet dans l'urne. On répète l'expérience précédente 3 fois. Quelle est la probabilité d'obtenir exactement deux fois une boule portant un numéro qui est solution de l'équation $(E)$ ?
+
+## EXERCICE 3 : (3 points)
+
+On considère dans l'ensemble $\mathbb{C}$ l'équation suivante : $(E) : z^{2} - \left(1 + i\sqrt{2}\right) z + \ldots 2i = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 1- a) Vérifier que $\left(1 - i\sqrt{3}\right)^{2}$ [FORMULA_IMAGE_UNREADABLE] est le discriminant de l'équation $(E)$
+
+0,5 — b) Déterminer $z_{1}$ et $z_{2}$ les deux solutions de l'équation $(E)$ dans l'ensemble $\mathbb{C}$ (on prendra $z_{1}$ imaginaire pur)
+
+0,5 — c) Montrer que : $\dfrac{z_{1}}{z_{2}} = \dfrac{\sqrt{2}}{2} e^{i\frac{3\pi}{4}}$ [FORMULA_IMAGE_UNREADABLE]
+
+2- Le plan complexe rapporté à un repère orthonormé direct.
+
+On considère le point $A$ d'affixe $z_{1}$ et le point $B$ d'affixe $z_{2}$
+
+0,25 — a) Déterminer le nombre complexe $e$ affixe du point $E$ milieu du segment $[AB]$
+
+0,5 — b) Soit $r$ la rotation de centre $A$ et d'angle $\left(-\frac{\pi}{2}\right)$ et soit $c$ l'affixe du point $C$ image du point $E$ par la rotation $r$. Montrer que : $c = -\dfrac{3}{2} + \dfrac{3}{2} i$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — c) On considère $D$ le point d'affixe $d = 1 + \dfrac{3}{2} i$ [FORMULA_IMAGE_UNREADABLE]. Montrer que le nombre $\left(\dfrac{z_{2} - d}{c - d}\right) \times \left(\dfrac{c - z_{1}}{z_{2} - z_{1}}\right)$ [FORMULA_IMAGE_UNREADABLE] est réel puis interpréter géométriquement le résultat obtenu.
+
+## EXERCICE 4 : (6 points)
+
+Soit $n$ un entier naturel non nul.
+
+On considère la fonction $f_{n}$ à variable réelle $x$ définie sur $\mathbb{R}$ par : $f_{n}(x) = \dfrac{1}{1 + e^{\frac{n - x}{2}}} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+Soit $\left(C_{n}\right)$ la courbe représentative de la fonction $f_{n}$ dans un repère orthonormé $\left(O , \overrightarrow{i} , \overrightarrow{j}\right)$.
+
+0,75 — 1- a) Calculer $\lim\limits_{x \to +\infty} f_{n}(x)$ et $\lim\limits_{x \to -\infty} f_{n}(x)$, puis interpréter graphiquement les résultats obtenus.
+
+0,75 — b) Montrer que la fonction $f_{n}$ est dérivable sur $\mathbb{R}$ puis calculer $f_{n}'(x)$ pour tout $x$ de $\mathbb{R}$
+
+0,25 — c) Montrer que la fonction $f_{n}$ est strictement croissante sur $\mathbb{R}$
+
+0,5 — 2- a) Montrer que le point $I\left(n , \dfrac{1}{2}\right)$ est le centre de symétrie de la courbe $\left(C_{n}\right)$
+
+0,5 — b) Construire la courbe $\left(C_{1}\right)$.
+
+0,75 — c) Calculer l'aire de la surface plane limitée par la courbe et les droites d'équations : $x = 0$, $x = 1$ et $y = 0$
+
+0,75 — 3- a) Pour tout $n$ de $\mathbb{N}^{*}$, montrer que l'équation $f_{n}(x) = x$ admet une solution unique $u_{n}$ dans l'intervalle $\left]0 , n\right[$.
+
+0,5 — b) Montrer que : $\left(\forall n \in \mathbb{N}^{*}\right)\left(\forall x \in \mathbb{R}\right) \quad f_{n+1}(x) < f_{n}(x)$
+
+0,75 — c) Montrer que la suite $\left(u_{n}\right)_{n \geq 1}$ est strictement décroissante et en déduire qu'elle est convergente.
+
+0,5 — d) Calculer $\lim\limits_{n \to +\infty} u_{n}$
+
+## EXERCICE 5 : (4 points)
+
+On considère la fonction $g$ définie sur $\mathbb{R}^{*}$ par : $g(x) = \displaystyle\int_{x}^{3x} \frac{\cos t}{t}\,dt$
+
+0,5 — 1- Montrer que la fonction $g$ est paire.
+
+0,75 — 2- Montrer que la fonction $g$ est dérivable sur $\left]0 , +\infty\right[$ puis calculer $g'(x)$ pour $x > 0$
+
+0,5 — 3- a) En utilisant une intégration par parties, vérifier que : $\displaystyle\int_{x}^{3x} \frac{\cos t}{t}\,dt = \frac{\sin 3x}{3x} - \frac{\sin x}{x} + \int_{x}^{3x} \frac{\sin t}{t^{2}}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b) Montrer que : $\left(\forall x > 0\right) \quad \left|g(x)\right| \leq \dfrac{2}{x}$ [FORMULA_IMAGE_UNREADABLE], puis en déduire $\lim\limits_{x \to +\infty} g(x)$
+
+0,5 — 4- a) Montrer que : $\left(\forall x > 0\right) \quad 0 \leq \displaystyle\int_{x}^{3x} \frac{1 - \cos t}{t}\,dt \leq \ldots x$ [FORMULA_IMAGE_UNREADABLE]
+
+(Remarquer que : $\left(\forall t > 0\right) \quad 1 - \cos t \leq t$)
+
+0,5 — b) Vérifier que : $\left(\forall x > 0\right) \quad g(x) - \ln 3 = -\displaystyle\int_{x}^{3x} \frac{1 - \cos t}{t}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — c) En déduire $\lim\limits_{x \to 0^{+}} g(x)$
+
+FIN

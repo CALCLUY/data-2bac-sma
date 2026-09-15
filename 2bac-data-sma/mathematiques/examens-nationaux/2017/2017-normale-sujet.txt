@@ -1,0 +1,171 @@
+---
+Type: Examen National
+Année: 2017
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2017 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة الفرنسية
+NS 25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte 4 exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+  - L'exercice 1 se rapporte aux structures algébriques.....(3,5 pts)
+  - L'exercice 2 se rapporte aux nombres complexes……….(3,5 pts)
+  - L'exercice 3 se rapporte à l'arithmétique…………………….(3 pts)
+  - L'exercice 4 se rapporte à l'analyse……………………………..(10 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 : (3,5 points)
+
+On rappelle que $\left(M_{3}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire de zéro la matrice nulle $O = \begin{pmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{pmatrix}$
+
+et d'unité la matrice $I = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$ et que $\left(\mathbb{C} , + , \times\right)$ est un corps commutatif.
+
+On pose $A = \begin{pmatrix} 1 & 0 & 0 \\ 1 & 1 & 0 \\ 1 & 1 & 1 \end{pmatrix}$ et pour tout $(a , b)$ de $\mathbb{R}^{2}$, $M(a , b) = \begin{pmatrix} a & -b & b \\ b & a & a \\ 0 & 0 & 0 \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE]
+
+On considère l'ensemble $E = \left\{ M(a , b) \ / \ (a , b) \in \mathbb{R}^{2} \right\}$
+
+0,5 — 1- Montrer que $E$ est un sous-groupe du groupe $\left(M_{3}(\mathbb{R}) , +\right)$
+
+0,5 — 2- On définit dans $M_{3}(\mathbb{R})$ la loi de composition interne $\top$ par : $\left(\forall (a , b , c , d) \in \mathbb{R}^{4}\right) \quad M(a , b) \top M(c , d) = M(a , b) \times A \times M(c , d)$
+
+Vérifier que $E$ est stable dans $\left(M_{3}(\mathbb{R}) , \top\right)$
+
+3- Soit $\varphi$ l'application de $\mathbb{C}^{*}$ dans $E$ qui à tout nombre complexe non nul $a + ib$ (où $(a , b) \in \mathbb{R}^{2}$) fait correspondre la matrice $M(a , b)$ de $E$
+
+0,75 — a) Vérifier que $\varphi$ est un homomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ vers $\left(E , \top\right)$ et que $\varphi\left(\mathbb{C}^{*}\right) = E^{*}$ où $E^{*} = E \setminus \left\{ M(0 , 0) \right\}$
+
+0,75 — b) En déduire que $\left(E^{*} , \top\right)$ est un groupe commutatif dont on déterminera l'élément neutre $J$
+
+0,5 — 4- a) Montrer que la loi de composition interne « $\top$ » est distributive par rapport à la loi de composition interne « $+$ » dans $E$
+
+0,5 — b) En déduire que $\left(E , + , \top\right)$ est un corps commutatif.
+
+## EXERCICE 2 : (3,5 points)
+
+Soit $m$ un nombre complexe non nul.
+
+### Partie 1 :
+
+On considère dans $\mathbb{C}$ l'équation : $(E) : z^{2} - \left(2m + 1 + i\right) z + \left(m^{2} + \left(1 + i\right) m + i\right) = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- Vérifier que le discriminant de l'équation $(E)$ est : $\Delta = \left(2im\right)^{2} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 2- Résoudre dans $\mathbb{C}$ l'équation $(E)$
+
+### Partie 2 :
+
+Le plan complexe est rapporté à un repère orthonormé direct $\left(O , \overrightarrow{e_{1}} , \overrightarrow{e_{2}}\right)$
+
+On suppose que : $m \in \mathbb{C} \setminus \left\{ 0 , 1 , i \right\}$ et on pose : $z_{1} = m + \dfrac{1 + i}{2} \ldots$ [FORMULA_IMAGE_UNREADABLE] et $z_{2} = m + i + \dfrac{1 - i}{2} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+On considère les points $A$, $B$, $M$, $M_{1}$ et $M_{2}$ d'affixes respectifs $1$, $i$, $m$, $z_{1}$ et $z_{2}$
+
+0,25 — 1- a) Vérifier que : $z_{1} = i z_{2} + 1 \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que $M_{1}$ est l'image de $M_{2}$ par la rotation de centre le point $\Omega$ d'affixe $\omega = \dfrac{1 + i}{2}$ et d'angle de mesure $\dfrac{\pi}{2}$
+
+0,5 — 2- a) Vérifier que : $\dfrac{z_{2} - m}{z_{1} - m} = \dfrac{m - \ldots}{m - i}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que si les points $M$, $M_{1}$ et $M_{2}$ sont alignés alors $M$ appartient au cercle $(\Gamma)$ de diamètre $[AB]$
+
+0,75 — c) Déterminer l'ensemble des points $M$ pour que les points $\Omega$, $M$, $M_{1}$ et $M_{2}$ soient cocycliques (remarquer que : $z_{1} - \omega = i\left(z_{2} - \omega\right)$)
+
+## EXERCICE 3 : (3 points)
+
+On admet que $2017$ est un nombre premier, et que $2016 = 2^{5} \times 3^{2} \times 7$
+
+Soit $p$ un nombre premier supérieur ou égal à $5$
+
+1- Soit le couple $(x , y)$ de $\mathbb{N}^{*} \times \mathbb{N}^{*}$ tel que : $px + y^{p-1} = 2017$
+
+0,25 — a) Vérifier que : $p < 2017$
+
+0,5 — b) Montrer que : $p$ ne divise pas $y$
+
+0,75 — c) Montrer que : $y^{p-1} \equiv 1 \ [p]$ et en déduire que $p$ divise $2016$
+
+0,5 — d) Montrer que : $p = 7$
+
+1 — 2- Déterminer, suivant les valeurs de $p$, les couples $(x , y)$ de $\mathbb{N}^{*} \times \mathbb{N}^{*}$ vérifiant : $px + y^{p-1} = 2017$
+
+## EXERCICE 4 : (10 points)
+
+### Partie 1 :
+
+On considère la fonction numérique $f$ définie sur $\left[0 , +\infty\right[$ par : $f(0) = 0$
+
+et $\left(\forall x \in \left]0 , +\infty\right[\right) \quad f(x) = \left(1 + \dfrac{1}{x}\right) e^{-\frac{1}{x}}$ [FORMULA_IMAGE_UNREADABLE]
+
+Soit $(C)$ la courbe représentative de $f$ dans un repère orthonormé $\left(O , \overrightarrow{i} , \overrightarrow{j}\right)$
+
+(on prend : $\|\overrightarrow{i}\| = \|\overrightarrow{j}\| = 2\,cm$)
+
+0,25 — 1- a) Montrer que la fonction $f$ est continue à droite en $0$
+
+0,5 — b) Montrer que la fonction $f$ est dérivable à droite en $0$
+
+0,5 — c) Montrer que la fonction $f$ est dérivable sur $\left]0 , +\infty\right[$ puis calculer $f'(x)$ pour tout $x$ dans l'intervalle $\left]0 , +\infty\right[$
+
+0,5 — 2- a) Calculer $\lim\limits_{x \to +\infty} f(x)$ puis interpréter graphiquement le résultat obtenu.
+
+0,25 — b) Donner le tableau de variation de la fonction $f$
+
+0,75 — 3- a) Montrer que la courbe $(C)$ admet un point d'inflexion $I$ dont on déterminera les coordonnées.
+
+0,5 — b) Tracer la courbe $(C)$ (On prend : $f(1) \simeq 0,7$ et $e^{-\frac{3}{4}} \simeq 0,2$)
+
+### Partie 2 :
+
+On considère la fonction numérique $F$ définie sur $\left[0 , +\infty\right[$ par : $F(x) = \displaystyle\int_{1}^{x} f(t)\,dt$
+
+0,25 — 1- Montrer que la fonction $F$ est continue sur l'intervalle $\left[0 , +\infty\right[$
+
+0,5 — 2- a) En utilisant la méthode d'intégration par parties, montrer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \quad \displaystyle\int_{1}^{x} e^{-\frac{1}{t}}\,dt = x e^{-\frac{1}{x}} - e^{-1} - \int_{1}^{x} \frac{e^{-\frac{1}{t}}}{t}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — b) Déterminer $\displaystyle\int_{1}^{x} \frac{e^{-\frac{1}{t}}}{t^{2}}\,dt$ [FORMULA_IMAGE_UNREADABLE] pour tout $x$ de $\left]0 , +\infty\right[$
+
+0,5 — c) Montrer que : $\displaystyle\int_{0}^{1} f(t)\,dt = \dfrac{1}{e}$
+
+0,5 — 3- Calculer en $cm^{2}$, l'aire du domaine plan limité par la courbe $(C)$ et les droites d'équations : $x = 0$, $x = 2$ et $y = 0$
+
+4- On considère la suite numérique $\left(u_{n}\right)_{n \geq 0}$ définie par : $u_{n} = F\left(n + 2\right) - F(n)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a) En utilisant le théorème des accroissements finis, montrer que pour tout entier naturel $n$, il existe un réel $v_{n}$ de l'intervalle $\left]n , n + 2\right[$ tel que : $u_{n} = 2\left(1 + \dfrac{1}{v_{n}}\right) e^{-\frac{1}{v_{n}}}$
+
+0,25 — b) Montrer que : $\left(\forall n \in \mathbb{N}^{*}\right) \quad 2\left(1 + \dfrac{1}{n + 2}\right) e^{-\frac{1}{n}} \leq u_{n} \leq 2\left(1 + \dfrac{1}{n}\right) e^{-\frac{1}{n+2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — c) En déduire $\lim\limits_{n \to +\infty} u_{n}$
+
+### Partie 3 :
+
+0,5 — 1- a) Montrer que pour tout entier naturel non nul $n$, il existe un nombre réel strictement positif unique $a_{n}$ tel que : $f\left(a_{n}\right) = \dfrac{1}{e^{n}} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — b) Montrer que la suite numérique $\left(a_{n}\right)_{n \geq 1}$ est croissante.
+
+0,25 — c) Vérifier que : $\left(\forall n \in \mathbb{N}^{*}\right) \quad \ln\left(1 + \dfrac{1}{a_{n}}\right) - \dfrac{1}{a_{n}} = -\dfrac{1}{n}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 2- a) Montrer que : $\left(\forall t \in \left[0 , +\infty\right[\right) \quad t - t^{2} \leq \dfrac{t}{1 + t} \leq t - t^{2} + t^{3}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que : $\left(\forall x \in \left[0 , +\infty\right[\right) \quad -\dfrac{x^{2}}{2} \leq \ln\left(1 + x\right) - x \leq -\dfrac{x^{2}}{2} + \dfrac{x^{3}}{3}$
+
+3- Soit $n$ un entier naturel supérieur ou égal à $4$
+
+0,5 — a) Vérifier que : $a_{4} \geq 1$, en déduire que $a_{n} \geq 1$ (On admettra que : $e^{3} \geq 4 \ldots$) [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que : $\dfrac{1}{a_{n}^{2}} - \dfrac{2}{3 a_{n}^{3}} \leq \dfrac{2}{n} \leq \dfrac{1}{a_{n}^{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+(On pourra utiliser les questions 1-c) et 2-b) de la partie 3)
+
+0,5 — c) Montrer que : $a_{n} \leq \sqrt{\dfrac{n}{6}} \ldots$ [FORMULA_IMAGE_UNREADABLE] (On pourra utiliser les questions 3-a) et 3-b)), en déduire $\lim\limits_{n \to +\infty} a_{n}$
+
+0,5 — d) Déterminer $\lim\limits_{n \to +\infty} \dfrac{a_{n}^{2}}{n}$
+
+FIN

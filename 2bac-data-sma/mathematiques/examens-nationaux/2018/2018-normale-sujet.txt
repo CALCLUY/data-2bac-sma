@@ -1,0 +1,156 @@
+---
+Type: Examen National
+Année: 2018
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+2ème Année Sciences Maths — Examen National 2018
+Bac Sciences Mathématiques National 2018
+
+## EXERCICE 1 : (3,5 points)
+
+On rappelle que $\left(\mathbb{C} , + , \times\right)$ est un corps commutatif et que $\left(M_{2}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire, de zéro la matrice nulle $O = \begin{pmatrix} 0 & 0 \\ 0 & 0 \end{pmatrix}$ et d'unité la matrice $I = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$ et que $\left(M_{2}(\mathbb{R}) , + , \bullet\right)$ est un espace vectoriel réel.
+
+Pour tout couple $(x , y) \in \mathbb{R}^{2}$, on pose $M(x , y) = \begin{pmatrix} x - y & -2y \\ y & x + 2y \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE]
+
+et on considère l'ensemble $E = \left\{ M(x , y) \ / \ (x , y) \in \mathbb{R}^{2} \right\}$
+
+0,25 — 1- Montrer que $E$ est un sous-groupe du groupe $\left(M_{2}(\mathbb{R}) , +\right)$
+
+0,25 — 2- a) Montrer que $E$ est un sous-espace vectoriel de l'espace vectoriel $\left(M_{2}(\mathbb{R}) , + , \bullet\right)$
+
+0,5 — b) On pose $J = M(0 , 1)$. Montrer que $(I , J)$ est une base de l'espace vectoriel réel $\left(E , + , \bullet\right)$
+
+0,5 — 3- a) Montrer que $E$ est une partie stable de $\left(M_{2}(\mathbb{R}) , \times\right)$
+
+0,5 — b) Montrer que $\left(E , + , \times\right)$ est un anneau commutatif.
+
+4- Soit $\varphi$ l'application de $\mathbb{C}^{*}$ vers $M_{2}(\mathbb{R})$ définie par :
+
+$$\left(\forall (x , y) \in \mathbb{R}^{2} - \left\{(0 , 0)\right\}\right) \ ; \ \varphi\left(x + iy\right) = M\left(x + y , -y\right) = \begin{pmatrix} x + 2y & y \\ -y & x - y \end{pmatrix}$$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a) Montrer que $\varphi$ est un homomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ vers $\left(M_{2}(\mathbb{R}) , \times\right)$
+
+0,5 — b) On pose $E^{*} = E - \left\{ O_{E} \right\}$. Montrer que $\varphi\left(\mathbb{C}^{*}\right) = E^{*}$
+
+0,25 — c) En déduire que $\left(E^{*} , \times\right)$ est un groupe commutatif.
+
+0,25 — 5- Montrer que $\left(E , + , \times\right)$ est un corps commutatif.
+
+## EXERCICE 2 : (3 points)
+
+Soit $p$ un nombre premier tel que : $p = 4k + 3$ ($k \in \mathbb{N}^{*}$)
+
+0,5 — 1- Montrer que pour tout entier relatif $x$, si $x^{2} \equiv 1 \ [p]$ alors $x^{p-5} \equiv 1 \ [p]$
+
+2- Soit $x$ un entier relatif vérifiant : $x^{p-5} \equiv 1 \ [p]$
+
+0,5 — a) Montrer que $x$ et $p$ sont premiers entre eux.
+
+0,5 — b) Montrer que : $x^{p-1} \equiv 1 \ [p]$.
+
+0,5 — c) Vérifier que : $2\left(p - 1\right) - \left(k + 1\right)\left(p - 5\right) = \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — d) En déduire que : $x^{2} \equiv 1 \ [p]$
+
+0,5 — 3- Résoudre dans $\mathbb{Z}$ l'équation : $x^{62} \equiv 1 \ [67]$
+
+## EXERCICE 3 : (3,5 points)
+
+Soit $m$ un nombre complexe.
+
+**I-** On considère dans l'ensemble des complexes $\mathbb{C}$ l'équation $\left(E_{m}\right)$ d'inconnue $z$ :
+
+$$z^{2} + \left(2 + im\right) z + im + m^{2} - 2 = 0$$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 1- a) Vérifier que $\Delta = \left(im - 2i\right)^{2}$ [FORMULA_IMAGE_UNREADABLE] est le discriminant de l'équation $\left(E_{m}\right)$
+
+0,5 — b) Donner, suivant les valeurs de $m$, l'ensemble des solutions de l'équation $\left(E_{m}\right)$
+
+0,5 — 2- Pour $m = 2i$, écrire les deux racines de l'équation $\left(E_{m}\right)$ sous la forme exponentielle.
+
+**II-** Le plan complexe est rapporté à un repère orthonormé direct $\left(O , \overrightarrow{u} , \overrightarrow{v}\right)$
+
+On considère les points $A$, $\Omega$, $M$ et $M'$ d'affixes respectifs $a = -1 - i$, $\omega = i$, $m$ et $m' = -im - 1 + i$ [FORMULA_IMAGE_UNREADABLE]
+
+1- Soit $R$ la rotation d'angle $\left(-\dfrac{\pi}{2}\right)$ qui transforme $M$ en $M'$
+
+0,25 — a) Vérifier que $\Omega$ est le centre de $R$
+
+0,5 — b) Déterminer l'affixe $b$ de $B$, où $B$ est le point tel que : $A = R(B)$
+
+0,5 — 2- a) Vérifier que : $\dfrac{m' - a}{m - a} = \dfrac{\ldots - \omega}{b - \omega} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) En déduire que les points $A$, $M$ et $M'$ sont alignés si et seulement si les points $A$, $B$, $\Omega$ et $M$ sont cocycliques.
+
+0,5 — c) Montrer que l'ensemble des points $M$ tel que les points $A$, $M$ et $M'$ soient alignés est un cercle dont on déterminera le centre et le rayon.
+
+## EXERCICE 4 : (7,5 points)
+
+### Partie I :
+
+0,5 — 1- a) Montrer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ \displaystyle\int_{0}^{x} \frac{t}{1 + t}\,dt = x - \ln\left(1 + x\right)$
+
+0,5 — b) En utilisant le changement de variable $u = t^{2}$, montrer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ \displaystyle\int_{0}^{x} \frac{t}{1 + t^{2}}\,dt = \frac{1}{2} \int_{0}^{x^{2}} \frac{1}{1 + u}\,du$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — c) En déduire que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ \dfrac{1}{2\left(1 + x\right)} \leq \dfrac{x - \ln\left(1 + x\right)}{x^{2}} \leq \dfrac{1}{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 2- Déterminer $\lim\limits_{x \to 0^{+}} \dfrac{x - \ln\left(1 + x\right)}{x^{2}}$
+
+### Partie II :
+
+On considère la fonction $f$ définie sur $\left[0 , +\infty\right[$ : $f(x) = \dfrac{1 + x}{x} \ln\left(1 + x\right)$ [FORMULA_IMAGE_UNREADABLE] ; $x \neq 0$ et $f(0) = 1$
+
+et soit $(C)$ sa courbe représentative dans un repère orthonormé $\left(O , \overrightarrow{i} , \overrightarrow{j}\right)$
+
+0,25 — 1- a) Montrer que $f$ est continue à droite en $0$
+
+0,5 — b) Montrer que $f$ est dérivable à droite en $0$
+(On pourra utiliser le résultat de la question I.2)
+
+0,75 — c) Calculer : $\lim\limits_{x \to +\infty} f(x)$, $\lim\limits_{x \to +\infty} \dfrac{f(x)}{x}$ puis interpréter graphiquement le résultat obtenu.
+
+0,5 — 2- a) Montrer que $f$ est dérivable sur $\left]0 , +\infty\right[$, puis vérifier que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f'(x) = \dfrac{x - \ln\left(1 + x\right)}{x^{2}}$
+
+0,25 — b) En déduire que $f$ est strictement croissante sur $\left[0 , +\infty\right[$
+
+0,25 — c) Vérifier que : $f\left(\left[0 , +\infty\right[\right) = \left[1 , +\infty\right[$
+
+0,5 — 3- Représenter graphiquement la courbe $(C)$
+(On construira la demi-tangente à droite au point d'abscisse $0$)
+
+### Partie III :
+
+1- On considère la fonction $g$ définie sur $\left]0 , +\infty\right[$ par : $g(x) = f(x) - x$
+
+0,5 — a) Montrer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ 0 < f'(x) \leq \dfrac{1}{2}$
+
+0,5 — b) En déduire que $g$ est strictement décroissante sur $\left]0 , +\infty\right[$ puis montrer que $g\left(\left]0 , +\infty\right[\right) = \left]-\infty , 1\right[$
+
+0,25 — c) Montrer que l'équation $f(x) = x$ admet une solution unique $\alpha$ sur $\left]0 , +\infty\right[$
+
+2- Soit $a$ un réel de l'intervalle $\left]0 , +\infty\right[$. On considère la suite $\left(u_{n}\right)_{n \in \mathbb{N}}$ définie par : $u_{0} = a$ et $\left(\forall n \in \mathbb{N}\right) \ ; \ u_{n+1} = f\left(u_{n}\right)$
+
+0,25 — a) Montrer que : $\left(\forall n \in \mathbb{N}\right) \ ; \ u_{n} > 0$
+
+0,5 — b) Montrer que : $\left(\forall n \in \mathbb{N}\right) \ ; \ \left|u_{n+1} - \alpha\right| \leq \dfrac{1}{2} \left|u_{n} - \alpha\right|$
+
+0,5 — c) Montrer par récurrence que : $\left(\forall n \in \mathbb{N}\right) \ ; \ \left|u_{n} - \alpha\right| \leq \left(\dfrac{1}{2}\right)^{n} \left|a - \alpha\right|$
+
+0,25 — d) En déduire que la suite $\left(u_{n}\right)_{n \in \mathbb{N}}$ converge vers $\alpha$
+
+## EXERCICE 5 : (2,5 points)
+
+On considère la fonction $F$ définie sur $\mathbb{R}$ par : $F(x) = \displaystyle\int_{0}^{x} e^{t^{2}}\,dt$
+
+0,5 — 1- Montrer que $F$ est continue et strictement croissante sur $\mathbb{R}$
+
+0,5 — 2- a) Montrer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ F(x) \geq x$. En déduire $\lim\limits_{x \to +\infty} F(x)$
+
+0,5 — b) Montrer que $F$ est impaire, en déduire $\lim\limits_{x \to -\infty} F(x)$
+
+0,5 — c) Montrer que $F$ est une bijection de $\mathbb{R}$ dans $\mathbb{R}$
+
+0,5 — d) Montrer que la bijection réciproque $G$ de la fonction $F$ est dérivable en $0$, puis calculer $G'(0)$

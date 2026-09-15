@@ -1,0 +1,153 @@
+---
+Type: Examen National
+Année: 2016
+Session: Rattrapage
+Nature: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2016 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة الفرنسية
+RS 25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte 5 exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+  - Le premier exercice se rapporte au calcul des probabilités …...(3 pts)
+  - Le deuxième exercice se rapporte aux structures algébriques.. (3.5 pts)
+  - Le troisième exercice se rapporte aux nombres complexes…..(3.5 pts)
+  - Le quatrième exercice se rapporte à l'analyse..………............(6.5 pts)
+  - Le cinquième exercice se rapporte à l'analyse………………..(3.5 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 : (3 pts)
+
+On a deux boites $U$ et $V$. La boite $U$ contient 4 boules rouges et 4 boules bleues.
+
+La boite $V$ contient deux boules rouges 4 boules bleues.
+
+On considère l'épreuve suivante : On tire au hasard une boule de la boite $U$ : Si elle est rouge, on la remet dans la boite $V$ puis on tire au hasard une boule de la boite $V$ ; si elle est bleue on la pose de côté puis on tire une boule de la boite $V$.
+
+Soient les événements suivants :
+
+$R_{U}$ « La boule tirée de la boite $U$ est rouge »
+$B_{U}$ « La boule tirée de la boite $U$ est bleue »
+$R_{V}$ « La boule tirée de la boite $V$ est rouge »
+$B_{V}$ « La boule tirée de la boite $V$ est bleue »
+
+0,5 — 1- Calculer la probabilité de chacun des deux événements $R_{U}$ et $B_{U}$.
+
+0,5 — 2- a) Calculer la probabilité de l'événement $B_{V}$ sachant que l'événement $R_{U}$ est réalisé.
+
+0,5 — b) Calculer la probabilité de l'événement $B_{V}$ sachant que l'événement $B_{U}$ est réalisé.
+
+1 — 3- Montrer que la probabilité de l'événement $B_{V}$ est : $\dfrac{13}{21}$
+
+0,5 — 4- En déduire la probabilité de l'événement $R_{V}$.
+
+## EXERCICE 2 : (3,5 pts)
+
+On rappelle que $\left(M_{3}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire d'unité $I = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$ et que $\left(\mathbb{C} , + , \times\right)$ est un corps commutatif.
+
+Pour chaque nombre complexe $z = x + iy$ où $(x , y) \in \mathbb{R}^{2}$, on pose : $M(z) = \begin{pmatrix} x + 2y & 0 & 5y \\ 0 & 1 & 0 \\ -y & 0 & x - 2y \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE]
+
+et on considère l'ensemble $E = \left\{ M(z) \ / \ z \in \mathbb{C} \right\}$
+
+1- On munit $E$ de la loi de composition interne $\ast$ définie par : $\left(\forall z \in \mathbb{C}\right)\left(\forall z' \in \mathbb{C}\right) : M(z) \ast M(z') = M(z) + M(z') - M(0)$
+
+1 — Montrer que $\left(E , \ast\right)$ est un groupe commutatif.
+
+2- On considère l'application $\varphi : \mathbb{C}^{*} \to E$ qui associe au nombre complexe $z$ de $\mathbb{C}^{*}$ la matrice $M(z)$ de $E$
+
+1 — a) Montrer que $\varphi$ est un homomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ dans $\left(E , \times\right)$
+
+0,5 — b) En déduire que $\left(E - \left\{ M(0) \right\} , \times\right)$ est un groupe commutatif.
+
+1 — 3- Montrer que $\left(E , \ast , \times\right)$ est un corps commutatif.
+
+## EXERCICE 3 : (3,5 pts)
+
+On considère dans l'ensemble $\mathbb{C}$ l'équation : $(E) : z^{2} - \left(1 + i\sqrt{3}\right)\left(1 + \ldots\right) z + 4i = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- a) Vérifier que le discriminant de l'équation $(E)$ est : $\Delta = \left[\left(\sqrt{3} - 1\right)\left(1 - i\right)\right]^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — b) Écrire sous forme trigonométrique les deux solutions de $(E)$
+
+2- Le plan complexe est rapporté à un repère orthonormé direct $\left(O , \overrightarrow{u} , \overrightarrow{v}\right)$.
+
+On considère les deux points $A$ et $B$ d'affixes respectives $a = 1 + i\sqrt{3}$ et $b = \sqrt{3} + i$
+
+0,75 — a) Montrer que l'ensemble $(D)$ des points du plan complexe dont l'affixe $z$ vérifie $\dfrac{1}{2} a \overline{z} = z$ [FORMULA_IMAGE_UNREADABLE] est une droite qui passe par le point $B$
+
+0,5 — b) Soient $M$ et $M'$ deux points d'affixes respectives $z$ et $z'$ tels que : $z' = a \overline{z} - b$ [FORMULA_IMAGE_UNREADABLE] et $z \neq b$
+
+Montrer que : $\dfrac{z' - b}{z - b} = \dfrac{\ldots b^{2}}{\left(z - b\right)\left(\overline{z} - \overline{b}\right)}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — c) En déduire que la droite $(D)$ est une bissectrice de l'angle $\widehat{\left(\overrightarrow{BM} , \overrightarrow{BM'}\right)}$
+
+## EXERCICE 4 : (6,5 pts)
+
+$n$ est un entier naturel non nul.
+
+Soit $f_{n}$ la fonction numérique définie sur l'intervalle $\left]0 , +\infty\right[$ par : $f_{n}(x) = x^{n} - \ln x \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+et soit $\left(C_{n}\right)$ la courbe représentative de la fonction $f_{n}$ dans un repère orthonormé $\left(O , \overrightarrow{i} , \overrightarrow{j}\right)$.
+
+0,75 — 1- a) Étudier les deux branches infinies de la courbe $\left(C_{n}\right)$.
+
+0,75 — b) Étudier les variations de la fonction $f_{n}$ sur $\left]0 , +\infty\right[$ puis donner son tableau de variation.
+
+0,5 — c) Construire $\left(C_{2}\right)$
+
+0,5 — 2- Montrer que la fonction $f_{n}$ est une bijection de $\left]0 , +\infty\right[$ dans $\mathbb{R}$
+
+0,5 — 3- a) Montrer que pour tout entier naturel $n$ supérieur ou égal à $1$, il existe un unique nombre réel $\alpha_{n}$ de l'intervalle $\left]0 , +\infty\right[$ tel que : $f_{n}\left(\alpha_{n}\right) = 0$
+
+0,5 — b) Comparer $f_{n}(x)$ et $f_{n+1}(x)$ pour tout $x$ de $\left]0 , +\infty\right[$
+
+0,5 — c) Montrer que la suite $\left(\alpha_{n}\right)_{n \geq 1}$ est strictement croissante.
+
+0,5 — 4- a) Montrer que : $\left(\forall x > 0\right) \ ; \ \ln x < x$
+
+0,5 — b) Montrer que : $\lim\limits_{n \to +\infty} \alpha_{n} = \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+5- Pour tout entier naturel $n$ supérieur ou égal à $1$ on pose : $I_{n} = n \displaystyle\int_{\alpha_{n}}^{\alpha_{n} + \frac{1}{n}} f_{n}(x)\,dx$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a) Montrer que : $\left(\forall n \in \mathbb{N}^{*}\right) \left(\exists c_{n} \in \left]\alpha_{n} , \alpha_{n} + \frac{1}{n}\right[\right) : I_{n} = f_{n}\left(c_{n}\right)$
+
+0,5 — b) Montrer que : $\left(\forall n \geq 1\right) \ ; \ 0 \leq I_{n} \leq \dfrac{1}{n} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — c) Déterminer $\lim\limits_{n \to +\infty} I_{n}$
+
+## EXERCICE 5 : (3,5 pts)
+
+$n$ est un entier naturel supérieur ou égal à $2$.
+
+On considère la fonction numérique $g_{n}$ à variable réelle $x$ définie sur l'intervalle $\left[n , +\infty\right[$ par : $g_{n}(x) = \displaystyle\int_{n}^{x} \frac{1}{\ln t}\,dt$
+
+0,5 — 1- a) Montrer que la fonction $g_{n}$ est dérivable sur l'intervalle $\left[n , +\infty\right[$ puis déterminer sa fonction dérivée première $g_{n}'$
+
+0,25 — b) Montrer que la fonction $g_{n}$ est strictement croissante sur l'intervalle $\left[n , +\infty\right[$
+
+0,5 — 2- a) Montrer que : $\left(\forall x \geq n\right) \ ; \ g_{n}(x) \geq \dfrac{x - n}{\ln x} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+(On pourra utiliser l'inégalité : $\left(\forall t > 0\right) \ ; \ \ln t \leq t - 1$)
+
+0,25 — b) En déduire que : $\lim\limits_{x \to +\infty} g_{n}(x) = +\infty$
+
+0,25 — 3- a) Montrer que $g_{n}$ est une bijection de l'intervalle $\left[n , +\infty\right[$ dans l'intervalle $\left[0 , +\infty\right[$.
+
+0,5 — b) En déduire que : $\left(\forall n \geq 2\right) \left(\exists ! u_{n}\right) : u_{n} > n$ et $\displaystyle\int_{n}^{u_{n}} \frac{1}{\ln t}\,dt = 1$ [FORMULA_IMAGE_UNREADABLE]
+
+4- On considère la suite numérique $\left(u_{n}\right)_{n \geq 2}$ définie dans la question 3-b).
+
+0,5 — a) Montrer que : $\left(\forall n \geq 2\right) \ ; \ \displaystyle\int_{n}^{u_{n}} \frac{1}{\ln t}\,dt = \int_{n+1}^{u_{n+1}} \frac{1}{\ln t}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) En déduire que la suite $\left(u_{n}\right)_{n \geq 2}$ est strictement croissante.
+
+0,25 — c) Déterminer $\lim\limits_{n \to +\infty} u_{n}$
+
+FIN

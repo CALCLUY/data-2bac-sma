@@ -1,0 +1,137 @@
+---
+Type: Examen National
+Année: 2015
+Session: Normale
+Nature: Corrigé
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2015 – عناصر الإجابة - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة الفرنسية
+NR 25 — المعامل : 9 — مدة الإنجاز : 4
+
+## EXERCICE 1 — ÉLÉMENTS de RÉPONSES / Barèmes des notes
+
+1- a) — 0,25
+
+b) $a = 1 + i\sqrt{3}$ et $b = 4$ — 0,5
+
+c) — 0,25
+
+2- a) $b_{1} - a = i\left(1 - a\right) = \ldots \left(1 + i\sqrt{3}\right)$ [FORMULA_IMAGE_UNREADABLE] — 0,5
+
+b) On vérifie que : $b - a = \sqrt{3}\left(b_{1} - a\right)$ — 0,5
+
+c) On obtient : $\dfrac{b}{b - a} = \dfrac{2}{\sqrt{3}} e^{i\frac{\pi}{6}}$ [FORMULA_IMAGE_UNREADABLE] et donc $\arg\left(\dfrac{b}{b - a}\right) \equiv \dfrac{\pi}{6} \ [2\pi]$ — 0,5
+
+d) Les points $O$, $A$, $B$, $C$ sont cocycliques donc $\dfrac{c}{c - a} \div \dfrac{b}{b - a} \in \mathbb{R}$ et on obtient $\arg\left(\dfrac{c}{c - a}\right) \equiv \dfrac{\pi}{6} \ [\pi]$
+
+On attribuera 0,25 pour le résultat $\arg\left(\dfrac{c}{c - a}\right) \equiv \dfrac{\pi}{6} \ [2\pi]$ — 0,5
+
+## EXERCICE 2 — ÉLÉMENTS de RÉPONSES / Barèmes des notes
+
+1- théorème de BEZOUT à partir de la remarque, ou toute autre méthode juste — 0,25
+
+2- a) — 0,5
+
+b) — 0,5
+
+3- a) théorème de FERMAT trois fois (0,25 pour chacune des trois applications) — 0,75
+
+b) $5$ et $13$ sont premiers entre eux ………………….. 0,25
+$65$ et $31$ sont premiers entre eux ………………….. 0,25 — 0,5
+
+c) Application des deux résultats : $1439 x \equiv 1436 \ [2015]$ et $1436 \times 1051 - 2015 \times 749 = 1$ — 0,5
+
+## EXERCICE 3 — ÉLÉMENTS de RÉPONSES / Barèmes des notes
+
+1- a) homomorphisme — 0,5
+
+b) $\varphi(\mathbb{R}) = E$ ………………………………….. 0,25
+L'image homomorphe d'un groupe ……………………. 0,25 — 0,5
+
+2- a) L'égalité — 0,5
+
+b) Déduction …………………………………………. 0,25
+Commutativité ………………………………….. 0,25 — 0,5
+
+c) Distributivité — 0,5
+
+d) $M(-1)$ est l'élément neutre ……………………………………………… 0,25
+$I$ est l'élément neutre ………………………………………………………… 0,25 — 0,5
+
+3- a) L'égalité — 0,25
+
+b) déduire de la question 3-a) que tout élément de $E$ différent de $M(-1)$ est inversible ………………………………………… 0,25
+Pour le reste des axiomes d'un corps commutatif ………………………… 0,5 — 0,75
+
+## EXERCICE 4 — ÉLÉMENTS de RÉPONSES / Barèmes des notes
+
+### Première partie
+
+1- Calcul de limites …………………………………………….. 0,25
+Interprétation …………………………………………………. 0,25 — 0,5
+
+2- a) — 0,25
+
+b) Calcul de limites …………………………………………….. 0,25
+Interprétation …………………………………………………. 0,25 — 0,5
+
+c) Calcul de dérivée ………………………………………………………………………. 0,25
+Monotonie ……………………………………………………………………… 0,25 — 0,5
+
+3- a) — 0,25
+
+b) — 0,25
+
+c) On tiendra compte du point d'inflexion, branche infinie et demi-tangente — 0,5
+
+### Deuxième partie
+
+1- — 0,5
+
+2- Monotonie …………………………………………………… 0,25
+Convergence ………………………………………………. 0,25 — 0,5
+
+3- a) — 0,25
+
+b) $\ell = 1$ — 0,5
+
+### Troisième partie
+
+1- a) — 0,25
+
+b) — 0,5
+
+c) — 0,5
+
+2- a) — 0,25
+
+b) $\lim\limits_{x \to 0^{+}} F(x) = \dfrac{3}{4}$ ………………………………………. 0,25
+
+$\displaystyle\int_{0}^{1} f(x)\,dx = F(0) = \lim\limits_{x \to 0^{+}} F(x) = \dfrac{3}{4}$ …………………… 0,25
+
+Puisque la fonction $F$ est continue à droite en $0$. — 0,5
+
+## EXERCICE 5 — ÉLÉMENTS de RÉPONSES / Barèmes des notes
+
+1- a) — 0,5
+
+b) — 0,5
+
+c) — 0,25
+
+2- Dérivabilité …………………………………………….. 0,25
+
+$g'(x) = \dfrac{e^{-2x} - e^{-x}}{x}$ [FORMULA_IMAGE_UNREADABLE] …………………………………… 0,5 — 0,75
+
+3- a) — 0,5
+
+b) Application du TAF : $\left(\forall t > 0\right)\left(\exists s \in \left]0 , t\right[\right) \ : \ \dfrac{e^{-t} - 1}{t} = -e^{-s}$
+
+Puis encadrement de $e^{-s}$ ou toute autre méthode juste — 0,5
+
+c) $\lim\limits_{x \to 0^{+}} \dfrac{e^{-2x} - e^{-x}}{x} = -1$ …………………….. 0,25
+
+$\lim\limits_{x \to 0^{+}} \dfrac{g(x) - g(0)}{x} = -1$ et l'interprétation du résultat …… 0,25 — 0,5

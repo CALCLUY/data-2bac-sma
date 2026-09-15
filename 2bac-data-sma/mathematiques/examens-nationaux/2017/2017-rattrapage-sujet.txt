@@ -1,0 +1,150 @@
+---
+Type: Examen National
+Année: 2017
+Session: Rattrapage
+Nature: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - المسالك الدولية - خيار فرنسية
+الدورة الاستدراكية 2017 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) – خيار فرنسية
+RS 24F — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte 4 exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+  - L'exercice 1 se rapporte aux structures algébriques.......(4.5 pts)
+  - L'exercice 2 se rapporte au calcul des probabilités……….(3 pts)
+  - L'exercice 3 se rapporte aux nombres complexes ……….(2.5 pts)
+  - L'exercice 4 se rapporte à l'analyse……………………………..(10 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## Exercice 1 : (4,5 pts)
+
+On rappelle que $\left(\mathbb{C} , + , \times\right)$ est un corps commutatif, que $\left(M_{2}(\mathbb{R}) , + , \cdot\right)$ est un espace vectoriel réel et que $\left(M_{2}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire, non commutatif et non intègre.
+
+On pose : $I = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$, $J = \begin{pmatrix} 0 & -3 \\ 1 & 0 \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE] et $M(x , y) = \begin{pmatrix} x & -3y \\ y & x \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE] pour tout $(x , y) \in \mathbb{R}^{2}$ et $E = \left\{ M(x , y) \ / \ (x , y) \in \mathbb{R}^{2} \right\}$
+
+0,75 — 1- Montrer que $E$ est un sous-espace vectoriel de $\left(M_{2}(\mathbb{R}) , + , \cdot\right)$, de dimension $2$
+
+0,5 — 2- a) Montrer que $E$ est stable dans $\left(M_{2}(\mathbb{R}) , \times\right)$
+
+0,75 — b) Montrer que $\left(E , + , \times\right)$ est un anneau unitaire et commutatif.
+
+3- On pose $E^{*} = E \setminus \left\{ M(0 , 0) \right\}$ et on considère l'application $\varphi$ de $\mathbb{C}^{*}$ vers $E^{*}$ définie par : $\left(\forall (x , y) \in \mathbb{R}^{2}\right) \quad \varphi\left(x + iy\right) = M\left(x , \dfrac{y}{\sqrt{3}}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — a) Montrer que $\varphi$ est un isomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ sur $\left(E^{*} , \times\right)$
+
+0,5 — b) En déduire que $\left(E^{*} , \times\right)$ est un groupe commutatif.
+
+0,75 — c) Montrer que : $J^{2017} = \varphi\left(3^{1008} i \sqrt{3}\right)$ [FORMULA_IMAGE_UNREADABLE], puis déterminer l'inverse de la matrice $J^{2017}$ dans $\left(E^{*} , \times\right)$
+
+0,5 — 4- Montrer que $\left(E , + , \times\right)$ est un corps commutatif.
+
+## Exercice 2 : (3 pts)
+
+Un sac contient $2n$ boules ($n$ dans $\mathbb{N}^{*}$), dont $n$ sont blanches et $n$ sont noires. Toutes les boules sont indiscernables au toucher.
+
+Un jeu consiste à tirer une boule du sac à noter sa couleur et à la remettre dans le sac, puis à tirer du même sac une nouvelle boule et à noter aussi sa couleur.
+
+La règle du jeu indique que :
+
+- Si les deux boules tirées sont blanches, on gagne 20 points.
+- Si les deux boules tirées sont noires, on perd 20 points.
+- Si les deux boules tirées sont de couleurs différentes, le gain est nul.
+
+0,75 — 1- Calculer la probabilité de gagner 20 points, la probabilité de perdre 20 points et la probabilité de réaliser un gain nul.
+
+2- On répète 5 fois le jeu précédent.
+
+0,5 — a) Calculer la probabilité de gagner 100 points.
+
+1 — b) Calculer la probabilité de gagner 40 points.
+
+3- Au cours d'un seul jeu, on considère la variable aléatoire $X$ qui prend uniquement les valeurs $-20$ si on perd, $0$ si le gain est nul et $+20$ si on gagne.
+
+0,5 — a) Déterminer la loi de probabilité de la variable aléatoire $X$
+
+0,25 — b) Calculer l'espérance mathématique de la variable aléatoire $X$
+
+## Exercice 3 : (2,5 pts)
+
+Le plan complexe est rapporté à un repère orthonormé direct $\left(O , \overrightarrow{e_{1}} , \overrightarrow{e_{2}}\right)$
+
+Soient $M$ le point d'affixe le nombre complexe non nul $z$ et $M'$ le point d'affixe $z' = \dfrac{1}{2}\left(z + \dfrac{1}{z}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- Déterminer le nombre complexe $z$ pour que les deux points $M$ et $M'$ soient confondus.
+
+2- On suppose que $M$ est distinct des points $A$ et $B$ d'affixes respectifs $1$ et $-1$
+
+0,5 — Montrer que : $\dfrac{z' - 1}{z' + 1} = \left(\dfrac{z - 1}{z + 1}\right)^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — 3- Soit $(\Delta)$ la médiatrice du segment $[AB]$
+
+Montrer que : si $M$ appartient à $(\Delta)$ alors $M'$ appartient à $(\Delta)$
+
+4- Soit $(\Gamma)$ le cercle dont un diamètre est $[AB]$
+
+0,75 — Montrer que : si $M$ appartient à $(\Gamma)$ alors $M'$ appartient à la droite $(AB)$
+
+## EXERCICE 4 : (10 pts)
+
+### Partie 1 :
+
+Soit $f$ la fonction numérique définie sur $I = \left[0 , +\infty\right[$ par : $f(0) = 1$
+
+et $\left(\forall x \in \left]0 , +\infty\right[\right) \quad f(x) = \dfrac{\arctan x}{x}$
+
+0,5 — 1- Montrer que $f$ est continue sur l'intervalle $I$
+
+0,5 — 2- a) Soit $x$ dans $I$. Montrer que : $\left(\forall t \in \left[0 , x\right]\right) \quad \dfrac{1}{1 + x^{2}} \leq \dfrac{1}{1 + t^{2}} \leq 1$
+
+0,5 — b) Montrer que : $\left(\forall x \in \left[0 , +\infty\right[\right) \quad \dfrac{x}{1 + x^{2}} \leq \arctan x \leq x$
+
+0,75 — c) Montrer que $f$ est dérivable à droite en $0$
+
+0,5 — 3- a) Sachant que $f$ est dérivable sur l'intervalle $\left]0 , +\infty\right[$, calculer $f'(x)$ pour tout $x$ de $\left]0 , +\infty\right[$
+
+0,25 — b) Étudier les variations de $f$ sur l'intervalle $I$
+
+### Partie 2 :
+
+Soit $g$ la fonction numérique définie sur $I = \left[0 , +\infty\right[$ par : $g(0) = 1$
+
+et $\left(\forall x \in \left]0 , +\infty\right[\right) \quad g(x) = \dfrac{1}{x} \displaystyle\int_{0}^{x} f(t)\,dt$
+
+0,5 — 1- a) Montrer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \quad f(x) \leq g(x) \leq 1$
+
+0,75 — b) Montrer que $g$ est dérivable à droite en $0$
+
+0,75 — 2- Montrer que la fonction $g$ est dérivable sur l'intervalle $\left]0 , +\infty\right[$ et que : $\left(\forall x \in \left]0 , +\infty\right[\right) \quad g'(x) = \dfrac{1}{x}\left(f(x) - g(x)\right)$
+
+0,25 — 3- Montrer que $g$ est décroissante sur l'intervalle $I$
+
+0,75 — 4- a) Montrer que : $\lim\limits_{x \to +\infty} \dfrac{1}{x} \displaystyle\int_{1}^{x} f(t)\,dt = 0$
+
+(remarquer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \quad 0 < \arctan x < \dfrac{\pi}{2}$)
+
+0,5 — b) Calculer : $\lim\limits_{x \to +\infty} g(x)$
+
+### Partie 3 :
+
+0,75 — 1- Montrer que l'équation $g(x) = x$ admet une solution unique $\alpha$ dans $\left]0 , 1\right[$
+
+0,5 — 2- a) Vérifier que : $\left(\forall x \in \left[0 , +\infty\right[\right) \quad 0 \leq 1 - f(x) \leq \dfrac{x^{2}}{1 + x^{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+(on pourra utiliser la question 2-b) Partie 1)
+
+0,75 — b) Montrer que : $\left(\forall x \in \left[0 , +\infty\right[\right) \quad \left|g'(x)\right| \leq \dfrac{1}{2}$
+
+3- Soit $\left(u_{n}\right)_{n \geq 0}$ la suite numérique définie par : $u_{0} > \alpha$, $u_{n+1} = g\left(u_{n}\right)$ pour tout $n$ dans $\mathbb{N}$
+
+0,75 — a) Montrer que : $\left(\forall n \in \mathbb{N}\right) \quad \left|u_{n+1} - \alpha\right| \leq \dfrac{1}{2} \left|u_{n} - \alpha\right|$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b) Montrer que la suite $\left(u_{n}\right)_{n \geq 0}$ est convergente.
+
+FIN

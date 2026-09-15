@@ -1,0 +1,126 @@
+---
+Type: Examen National
+Année: 2017
+Session: Normale
+Nature: Corrigé
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2017 – عناصر الإجابة - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة الفرنسية
+NR 25 — المعامل : 9 — مدة الإنجاز : 4
+
+## EXERCICE 1 — Indications de solutions / Barème
+
+1- $E$ sous-groupe de $\left(M_{3}(\mathbb{R}) , +\right)$ — 0,5
+
+2- stabilité — 0,5
+
+3- a) homomorphisme …………………………………………………………. 0,5
+$\varphi\left(\mathbb{C}^{*}\right) = E^{*}$ ………………………………………………………….. 0,25 — 0,75
+
+b) $\left(E^{*} , \top\right)$ groupe commutatif ………………………………………… 0,5
+détermination de $J$ ……………………………………………….. …. 0,25 — 0,75
+
+4- a) distributivité — 0,5
+
+b) $\left(E , + , \top\right)$ corps commutatif — 0,5
+
+## EXERCICE 2 — Indications de solutions / Barème
+
+**Partie 1**
+
+1- vérification de $\Delta$ — 0,5
+
+2- Les deux solutions de l'équation — 0,5
+
+**Partie 2**
+
+1- a) vérification de la relation : $z_{1} = i z_{2} + 1$ — 0,25
+
+b) $M_{1}$ est l'image de $M_{2}$ — 0,5
+
+2- a) vérification de l'égalité — 0,5
+
+b) appartenance à $(\Gamma)$ — 0,5
+
+c) la droite $(AB)$ privée des deux points $A$ et $B$
+On attribuera la note globale même si l'élève ne traite pas les cas des points $A$ et $B$ — 0,75
+
+## EXERCICE 3 — Indications de solutions / Barème
+
+1- a) vérification — 0,25
+
+b) $p$ ne divise pas $y$ — 0,5
+
+c) application du théorème de FERMAT ……………………………………….. 0,25
+déduction …………………………………………………………………………… 0,5 — 0,75
+
+d) $p = 7$ — 0,5
+
+2- Si $p \neq 7$ pas de couples …………………………….. 0,25
+Si $p = 7$ les couples sont : $(288 , 1)$ et $(279 , 2)$ et $(184 , 3)$ ……. 0,75 — 1
+
+## EXERCICE 4 — Indications de solutions / Barème
+
+**Partie 1**
+
+1- a) la continuité à droite en $0$ — 0,25
+
+b) la dérivabilité à droite en $0$ — 0,5
+
+c) - dérivabilité sur $\left]0 , +\infty\right[$ …………….. 0,25
+- calcul de $f'(x)$ ……………………….. 0,25 — 0,5
+
+2- a) $\lim\limits_{x \to +\infty} f(x) = 1$ ……………… 0,25
+- interprétation graphique ………. 0,25 — 0,5
+
+b) tableau de variation — 0,25
+
+3- a) - calcul de $f''(x)$ ………… 0,25
+- signe de $f''(x)$ ………… 0,25
+- point d'inflexion $I\left(\dfrac{1}{3} , 4 e^{-3}\right)$ [FORMULA_IMAGE_UNREADABLE] ………………0,25 — 0,75
+
+b) tracé de $(C)$ — 0,5
+
+**Partie 2**
+
+1- la continuité de $F$ sur $\left[0 , +\infty\right[$ — 0,25
+
+2- a) l'intégration par parties — 0,5
+
+b) détermination de l'intégrale en fonction de $x$ : $\displaystyle\int_{1}^{x} \left(1 + \frac{1}{t}\right) e^{-\frac{1}{t}}\,dt = x e^{-\frac{1}{x}} - e^{-1}$ [FORMULA_IMAGE_UNREADABLE] — 0,25
+
+c) détermination de la valeur de l'intégrale : la fonction $F$ est continue à droite de $0$ donc :
+$\displaystyle\int_{0}^{1} f(t)\,dt = -F(0) = -\lim\limits_{x \to 0^{+}} F(x) = \lim\limits_{x \to 0^{+}} \int_{x}^{1} f(t)\,dt = \frac{1}{e}$ [FORMULA_IMAGE_UNREADABLE] — 0,5
+
+3- calcul de la surface en centimètre carré : $\mathcal{A} = \left(\displaystyle\int_{0}^{1} f(t)\,dt + \int_{1}^{2} f(t)\,dt\right) \times 4 \ cm^{2}$ — 0,5
+
+4- a) l'égalité — 0,5
+
+b) la double inégalité — 0,25
+
+c) $\lim\limits_{n \to +\infty} u_{n} = 2$ — 0,25
+
+**Partie 3**
+
+1- a) existence, unicité de $a_{n}$ et $a_{n} > 0$ — 0,5
+
+b) la suite $\left(a_{n}\right)_{n \geq 1}$ est croissante — 0,25
+
+c) vérification de l'égalité — 0,25
+
+2- a) la double inégalité — 0,25
+
+b) la double inégalité — 0,25
+
+3- a) vérification ……………………………………………….. 0,25
+déduction ………………………………………………… 0,25 — 0,5
+
+b) la double inégalité — 0,5
+
+c) inégalité …………………………………………………….. 0,25
+déduction …………………………………………………….. 0,25 — 0,5
+
+d) détermination de la limite — 0,5
