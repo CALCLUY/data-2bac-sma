@@ -1,0 +1,206 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Oscillations libres d'un circuit RLC série
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 12 (Les oscillations libres dans un circuit RLC série)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Le circuit RLC
+
+On appelle (RLC) l'association série d'un conducteur ohmique pur de résistance R, une bobine pure d'inductance L et d'un condensateur de capacité C.
+
+Même si la bobine a une résistance interne r la nomination (RLC) reste valable.
+
+## II- Décharge d'un condensateur dans une bobine
+
+### 2-1/ Montage expérimentale
+
+On réalise le montage suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img1.jpg)
+
+On place l'interrupteur K à la position (1) une durée suffisante pour que le condensateur soit chargé, puis on le bascule à la position 2 tout en visualisant à la voie $Y_{1}$ sur l'écran d'un oscilloscope la tension aux bornes du condensateur.
+
+On obtient ainsi un circuit RLC en série dans lequel la charge emmagasinée dans le condensateur oscille entre ses armatures car le condensateur se décharge et se charge régulièrement.
+
+Mais grâce à l'existence de la résistance dans le circuit, la charge du condensateur diminue de même que la tension entre ses bornes : on dit que les oscillations sont amorties.
+
+Et comme le circuit RLC ne comporte pas de générateur : les oscillations sont dites libres et amorties.
+
+L'amortissement est due au fait qu'une partie de l'énergie électrique se perd sous forme de chaleur au niveau de la résistance du circuit par effet Joule.
+
+### 2-2/ Régimes d'amortissement
+
+#### Le régime périodique
+
+Si la résistance totale du circuit est nulle les oscillations sont libres et non amorties :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img3.jpg)
+
+#### Le régime pseudopériodique
+
+Si la résistance totale du circuit est faible les oscillations sont libres et amorties et leur amplitude diminue jusqu'à ce qu'il s'annule.
+
+C'est l'état de l'amortissement faible.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img2.jpg)
+
+#### Le régime apériodique
+
+Si la résistance totale du circuit est grande, les oscillations disparaissent car l'amortissement est fort, le condensateur perd sa charge sans oscillations et on distingue dans ce cas trois régimes :
+
+- Le régime sous critique : la tension aux bornes du condensateur effectue une seule oscillation avant de s'annuler.
+- Le régime critique : la tension aux bornes du condensateur s'annule sans oscillations.
+- Le régime surcritique : la tension aux bornes du condensateur dure un temps très long pour s'annule sans oscillations.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img4.jpg)
+
+### 2-3/ Équation différentielle
+
+D'après la loi d'additivité des tensions, on a :
+
+$u_{L} + u_{R} + u_{C} = 0 \\ \\ \Rightarrow L \frac{d i}{d t} + R i + \frac{q}{C} = 0 \\ \\ \Rightarrow L \frac{d^{2} q}{d t^{2}} + R \frac{d q}{d t} + \frac{q}{C} = 0 \\ \\ \Rightarrow L C \frac{d^{2} u_{C}}{d t^{2}} + R C \frac{d u_{C}}{d t} + u_{C} = 0 \left(q = C u_{C}\right) \\ \\ \Rightarrow \overline{\left.\right)\frac{d^{2} u_{C}}{d t^{2}} + \frac{R}{L} \frac{d u_{C}}{d t} + \frac{1}{L C} u_{C} = 0}$
+
+C'est l'équation différentielle vérifiée par la tension uc entre les bornes du condensateur dans un circuit RLC en série.
+
+Le terme $\frac{R}{L} \frac{d u_{C}}{d t}$ résulte de l'amortissement (par son annulation l'amortissement disparaît).
+
+#### La pseudo-période
+
+La pseudo-période est l'intervalle de temps qui sépare deux maximas consécutifs des oscillations pseudopériodiques amorties.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img5.jpg)
+
+#### Facteur de qualité d'un dipôle (RLC)
+
+Un paramètre sans dimension soit noté Q, est appelé facteur de qualité du dipôle, il permet de séparer quantitativement les régimes d'amortissement.
+
+Celui-ci peut s'exprimer en fonction des constantes de temps $\tau_{L} = \frac{L}{R}$ et $\tau_{C} = R C$ des dipôles RL et RC déjà étudiés :
+
+$Q = \frac{\tau_{L}}{\tau_{C}} \\ Q = \sqrt{\frac{\frac{L}{R}}{R C}} \\ \overline{\left.\right)Q = \frac{1}{R} \sqrt{\frac{L}{C}}} \\$
+
+La résistance critique $R_{c} = 2 \sqrt{\frac{L}{C}}$ correspond à $Q = 0 , 5$
+
+La valeur de Q détermine les régimes libres d'un dipôle (RLC) :
+
+- Q>0,5 : le régime est périodique amorti.
+- Q=0,5 : le régime est critique.
+- Q<0,5 : le régime est apériodique.
+
+## III- Les oscillations non amorties dans un circuit idéal LC
+
+### 3-1/ Le dipôle LC
+
+Le dipôle LC correspond au cas limite du dipôle RLC où la résistance est nulle : Les oscillations libres ne sont plus amorties.
+
+On s'approche au mieux du régime oscillant non amorti en associant en série une bobine d'inductance L grande, de résistance r très petite et un condensateur de capacité C faible, afin d'avoir un grand facteur de qualité.
+
+### 3-2/ Montage expérimental
+
+On considère le montage expérimental suivant constitué d'un condensateur de capacité C initialement chargé et d'une bobine idéale d'inductance L et de résistance nulle r=0 (ce qui est difficile de réaliser pratiquement car quelque soit la bobine, sa résistance est non nulle, donc c'est un circuit idéal) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img6.jpg)
+
+### 3-3/ Équation différentielle
+
+D'après la loi d'additivité des tensions, on a :
+
+$u_{L} + u_{C} = 0 \\ \\ \Rightarrow L \frac{d i}{d t} + \frac{q}{C} = 0 \\ \\ \Rightarrow L \frac{d^{2} q}{d t^{2}} + \frac{q}{C} = 0 \\ \\ \Rightarrow L C \frac{d^{2} u_{C}}{d t^{2}} + u_{C} = 0 \left(q = C u_{C}\right) \\ \\ \Rightarrow \overline{\left.\right)\frac{d^{2} u_{C}}{d t^{2}} + \frac{1}{L C} u_{C} = 0}$
+
+C'est l'équation différentielle vérifiée par la tension uc entre les bornes du condensateur dans un circuit idéal LC.
+
+### 3-4/ Solution de l'équation différentielle
+
+C'est une fonction sinusoïdale de la forme :
+
+$\overline{\left.\right) \\ u_{C} \left(t\right) = U_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) \\ }$
+
+- $u_{C} \left(t\right)$ : tension aux bornes du condensateur en (V)
+- $U_{m}$ : amplitude des oscillations (élongation maximale) en (V)
+- $\varphi$ : phase du mouvement à l'instant t=0 en (rad).
+- $T_{0}$ : période propre des oscillations en (s).
+
+### 3-5/ Expression de la période propre
+
+La solution de l'équation différentielle est :
+
+$u_{C} \left(t\right) = U_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right)$
+
+Sa dérivée donne :
+
+$\frac{d u_{C} \left(t\right)}{d t} = - U_{m} \frac{2 \pi}{T_{0}} sin \left(\frac{2 \pi}{T_{0}} t + \varphi\right)$
+
+Sa dérivée seconde donne :
+
+$\frac{d^{2} u_{C}}{d t^{2}} = - U_{m} \frac{4 \pi^{2}}{\left(T_{0}\right)^{2}} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) = - \frac{4 \pi^{2}}{\left(T_{0}\right)^{2}} u_{C}$
+
+En remplaçant dans l'équation différentielle on obtient :
+
+$- \frac{4 \pi^{2}}{\left(T_{0}\right)^{2}} u_{C} + \frac{1}{L C} u_{C} = 0 \\ \Rightarrow \overline{\left.\right) T_{0} = 2 \pi \sqrt{LC} }$
+
+### 3-6/ Expression de l'intensité du courant et de la change dans le circuit idéal LC
+
+L'expression de la charge du condensateur en fonction du temps est :
+
+$q \left(t\right) = C u_{C} \left(t\right) = C . U_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) \\ q \left(t\right) = q_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) \left(q_{m} = C . U_{m}\right)$
+
+L'expression de l'intensité du courant :
+
+$i \left(t\right) = \frac{d q \left(t\right)}{d t} \\ i \left(t\right) = - q_{m} \frac{2 \pi}{T_{0}} sin \left(\frac{2 \pi}{T_{0}} t + \varphi\right) \\ i \left(t\right) = q_{m} \frac{2 \pi}{T_{0}} cos \left(\frac{2 \pi}{T_{0}} t + \varphi + \frac{\pi}{2}\right) \\ \overline{\left.\right)i \left(t\right) = I_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi + \frac{\pi}{2}\right)} \left(I_{m} = q_{m} \frac{2 \pi}{T_{0}}\right)$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img7.png)
+
+## IV- Transfert d'énergie entre la bobine et le condensateur
+
+### 4-1/ Expression de l'énergie totale d'un circuit LC
+
+L'énergie totale d'un dipôle LC est la somme de l'énergie électrique emmagasinée dans le condensateur et de l'énergie magnétique emmagasinée dans la bobine.
+
+$E_{T} = \frac{1}{2} \frac{q^{2}}{C} + \frac{1}{2} L i^{2} \\ \\ E_{T} = \frac{1}{2 C} \left(q_{m}\right)^{2} cos^{2} \left(\frac{2 \pi}{T_{0}} t + \varphi\right) + \frac{1}{2} L \left(q_{m}\right)^{2} \frac{4 \pi^{2}}{\left(T_{0}\right)^{2}} sin^{2} \left(\frac{2 \pi}{T_{0}} t + \varphi\right) \\ E_{T} = \frac{\left(q_{m}\right)^{2}}{2 C} \left[cos^{2} \left(\frac{2 \pi}{T_{0}} t + \varphi\right) + sin^{2} \left(\frac{2 \pi}{T_{0}} t + \varphi\right)\right] \left(\left(T_{0}\right)^{2} = 4 \pi^{2} LC\right) \\ \overline{\left.\right)E_{T} = \frac{\left(q_{m}\right)^{2}}{2 C} = \frac{1}{2} C . E^{2} = c t e} \left(q_{m} = C . E\right)$
+
+Donc l'énergie totale du circuit LC est constante.
+
+### 4-2/ Courbes de variation des énergies d'un circuit idéal LC
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img8.png)
+
+La période T de l'échange énergétique entre la bobine et le condensateur est égale à la moitié de la période propre $T_{0}$.
+
+Au cours des oscillations non amorties, l'énergie électrique emmagasinée dans le condensateur se transforme en énergie magnétique emmagasinée dans la bobine et inversement.
+
+### 4-3/ Énergie du circuit RLC en série
+
+L'énergie totale d'un dipôle RLC est :
+
+$E_{T} = \frac{1}{2} L i^{2} + \frac{1}{2} \frac{q^{2}}{C}$
+
+En appliquant la loi d'additivité des tensions on a :
+
+$U_{R} + U_{L} + U_{C} = 0 \\ \Rightarrow R_{T} i + L \frac{d i}{d t} + U_{C} = 0 \\ \Rightarrow \overline{\left.\right)L \frac{d i}{d t} + \frac{q}{C} = - R_{T} i}$
+
+D'autre part on a :
+
+$\frac{d E_{T}}{d t} = L i \frac{d i}{d t} + \frac{q}{C} \frac{d q}{d t} \\ \frac{d E_{T}}{d t} = i \left(L \frac{d i}{d t} + \frac{q}{C}\right) \\ \overline{\left.\right)\frac{d E_{T}}{d t} = - R_{T} i^{2} < 0}$
+
+Donc l'énergie totale du circuit RLC est décroissante.
+
+L'énergie totale du circuit RLC décroît en fonction du temps et les oscillations sont amorties à cause de la perte de l'énergie électrique par effet joule au niveau de la résistance.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img9.png)
+
+## V- Entretien des oscillations
+
+Pour entretenir les oscillations on doit utiliser un générateur d'entretien pour récompenser l'énergie perdue par effet Joule à chaque oscillation.
+
+$U_{A M} = U_{A B} + U_{B D} + U_{D M} \\ U_{A M} = R i + \frac{q}{C} + r i + L \frac{d i}{d t} \\ U_{A M} = \left(R + r\right) \frac{d q}{d t} + \frac{q}{C} + L \frac{d^{2} q}{d t^{2}}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img10.bmp)
+
+Si $U_{A M} = \left(\right. R + r \left.\right) . i$, cad la tension au borne du générateur est proportionnelle à l'intensité de courant et que le coefficient de proportionnalité est (R+r), alors $q ' ' + \frac{1}{L C} q = 0$
