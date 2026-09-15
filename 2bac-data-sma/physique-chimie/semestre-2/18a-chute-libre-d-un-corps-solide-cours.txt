@@ -1,0 +1,63 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: A- Chute libre d'un corps solide
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Bac SM-SPC
+
+Séance 18-A (Chute libre d'un corps solide)
+
+Professeur : Mr EL GOUFIFA Jihad
+
+## I- Chute libre d'un corps solide
+
+### 1-1/ Le champ de pesanteur
+
+Tous les corps subissent dans le champ de pesanteur, au voisinage de la terre, une force de pesanteur exercée par la terre qui s'appelle : poids du corps.
+
+La relation entre le poids et la masse d'un corps est : $\overset{\rightarrow}{P} = m \overset{\rightarrow}{g}$
+
+- $g$ : Intensité du champs de pesanteur (en $N / k g$)
+
+### 1-2/ Expérience du tube de Newton
+
+L'expérience du tube de Newton montre le mouvement de trois objets : une boule d'acier, un papier et une plume d'oiseau pendant leur chute dans un tube vide d'air.
+
+1) Dans le vide les corps sont soumis uniquement a l'action de leur poids :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img10.bmp)
+
+2) Dans l'air les corps sont soumis en plus de l'action de leur poids à la réaction de l'air et à la poussée d'Archimède :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img11.bmp)
+
+#### Conclusion
+
+On en déduit que les corps tombent dans le vide, et dans le même lieu selon le même mouvement : C'est ce qu'on appelle mouvement de chute libre.
+
+### 1-3/ Définition
+
+Un corps est en chute libre s'il n'est soumis qu'à l'action de son poids.
+
+Lorsque la trajectoire du corps en chute libre est rectiligne on dit que le corps est en chute libre verticale.
+
+#### Remarque
+
+Pratiquement on peut négliger l'action de l'air sur les corps solides denses et ayant une forme aérodynamique.
+
+### 1-4/ Équations horaires du mouvement
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img12.bmp)
+
+On applique la deuxième loi de Newton, et on effectue une projection sur l'axe (Oz).
+
+On obtient :
+
+$a = g$
+
+Par intégration on obtient :
+
+$v = g t + v_{0} \\ \\ z = \frac{1}{2} g t^{2} + v_{0} t + z_{0}$

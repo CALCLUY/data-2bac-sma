@@ -1,0 +1,73 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: A- Chute libre d'un corps solide
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Bac SM-SPC
+Séance 18-A (Chute libre d'un corps solide)
+Professeur : Mr EL GOUFIFA Jihad
+
+## II- Exercices
+
+### 2-1/ Exercice 1
+
+À l'instant $t = 0$, on abandonne, avec une vitesse initiale $V_{0} = 4 m / s$, une bille de masse $m$, à partir d'une position $A$ située a une hauteur $z_{A} = h = 10 m$ du sol horizontal :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img13.PNG)
+
+On considère que la bille est soumise à la seule action de son poids au cours de la chute et on donne $g = 10 m / s^{2}$.
+
+1. En appliquant la deuxième loi de Newton, trouver l'équation différentielle vérifiée par $V_{z}$
+
+2. Trouver l'équation horaire de $V_{z} \left(\right. t \left.\right)$ et $z \left(\right. t \left.\right)$.
+
+3. Déterminer la vitesse de la bille au moment où elle touche le sol
+
+### 2-2/ Exercice 2
+
+Un élève de 2Bac veut étudier le mouvement de la fléchette d'un pistolet.
+
+D'une altitude de $1 , 75 m$, il lance la fléchette verticalement vers le haut avec une vitesse initiale de $5 , 0 m . s^{- 1}$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img15.bmp)
+
+On considère que l'action de l'air négligeable.
+
+1. Déterminer les caractéristiques de l'accélération $\overset{\rightarrow}{a_{G}}$ du centre d'inertie $G$ de la fléchette.
+
+On choisit un axe $\left(\right. O z \left.\right)$ vertical orienté vers le haut dont l'origine $O$ est située au niveau du sol.
+
+2. Établir les expressions de la vitesse $v \left(t\right)$ et de l'abscisse $z \left(\right. t \left.\right)$ du centre de gravité de la fléchette.
+
+3. Quelle est la valeur de la vitesse au sommet de la trajectoire ?
+
+4. En déduire la date $t_{S}$ à laquelle la fléchette atteint le sommet de sa trajectoire.
+
+5. Quelle est la hauteur $h_{S}$ atteinte par la fléchette ?
+
+6. À quelle date la fléchette touchera-t-elle le sol ?
+
+### 2-3/ Exercice 3
+
+En exploitant un film réalisé lors d'une mission Appolo, on a enregistré le mouvement vertical du centre d'inertie $G$ d'un solide en chute libre sur la lune.
+
+On repère l'évolution de la vitesse $v$ de $G$ au cours du temps suivant un axe vertical orienté vers le bas.
+
+L'exploitation de cet enregistrement conduit au graphique suivant (la date $t = 0$ correspond au début de l'enregistrement) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img16.PNG)
+
+1. Quelle est la valeur de l'accélération de $G$ lors du mouvement ?
+
+2. Quelle est la valeur de la vitesse initiale ?
+
+3. Dans quel sens le mobile a-t-il été lancé ?
+
+Le solide est lancé d'un point dont dont l'abscisse a pour valeur $z_{0} = 0 . 5 m$.
+
+4. Établir l'expression de la vitesse de $G$ en fonction du temps avec les valeurs numériques précédemment déterminées.
+
+5. Établir ensuite l'expression de l'abscisse $z$ en fonction du temps $t$.
