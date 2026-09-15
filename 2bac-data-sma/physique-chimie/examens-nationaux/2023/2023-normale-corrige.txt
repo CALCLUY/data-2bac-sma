@@ -1,0 +1,267 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2023 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+[Note : correction détaillée de tierce partie (11 pages) ; le texte a été reconstitué à partir de l'extraction du PDF, les formules étant restituées en notation linéaire.]
+
+## Exercice 1 : Chimie
+
+### Partie 1
+
+1- L'équation de la réaction du dosage :
+C2H5COOH(aq) + HO-(aq) ⟶ C2H5COO-(aq) + H2O(l)
+
+2- Explication :
+L'ajout du volume Ve d'eau a pour but de diluer la solution (SA) ; la quantité de matière de l'acide propanoïque reste constante, donc à l'équivalence : ni(acide) = najouté(HO-) = CB.VBE.
+Il n'y a donc pas d'influence sur le volume VBE versé à l'équivalence.
+
+3- L'expression de τ en fonction de pH, Ke, CB, VA, Ve et VB :
+Expression du taux d'avancement : τ = xf/xmax
+Avant l'équivalence, le réactif limitant est HO- car CB.VB1 < CA(VA + Ve)
+CB.VB1 − xmax = 0 ⟹ xmax = CB.VB1
+[HO-].[H3O+] = Ke ⟹ [HO-] = Ke/10-pH = Ke.10pH
+D'après le tableau d'avancement :
+[HO-] = (CB.VB1 − xf)/(VA + Ve + VB1)
+⟹ xf = CB.VB1 − Ke.10pH.(VA + Ve + VB1)
+τ = [CB.VB1 − Ke.10pH.(VA + Ve + VB1)]/(CB.VB1) = 1 − (Ke.10pH/CB).(1 + (VA + Ve)/VB1)
+A.N : τ = 1 − (10-14 × 104,86/2.10-2) × (1 + (10 + 50)/3,9) = 0,99999 ≈ 1
+τ ≃ 1 : la réaction est totale.
+
+4- Calcul des concentrations [C2H5COOH] et [C2H5COO-] :
+A l'équivalence : CA.(VA + Ve) = CB.VBE ⟹ CA = CB.VBE/(VA + Ve)
+CA = 2.10-2 × 7,8.10-3 / ((10 + 50).10-3) = 2,6.10-3 mol.L-1
+[C2H5COOH] = (CA(VA + Ve) − CB.VB1)/(VA + Ve + VB1)
+[C2H5COOH] = (2,6.10-3 × (10 + 50).10-3 − 2.10-2 × 3,9.10-3)/((10 + 50 + 3,9).10-3)
+⟹ [C2H5COOH] = 1,22.10-3 mol.L-1
+[C2H5COO-] = CB.VB1/(VA + Ve + VB1) = 2.10-2 × 3,9.10-3/((10 + 50 + 3,9).10-3)
+⟹ [C2H5COO-] = 1,22.10-3 mol.L-1
+Déduction de pKA :
+pH1 = pKA + log([C2H5COO-]/[C2H5COOH]) ; comme [C2H5COO-] = [C2H5COOH], pH1 = pKA = 4,86
+pKA(C2H5COOH/C2H5COO-) = 4,86
+
+5- Justification de la nature basique du milieu à l'équivalence :
+A l'équivalence il y a disparition totale des deux réactifs C2H5COOH et HO- ; le mélange réactionnel contient C2H5COO-, Na+ et l'eau. La base C2H5COO- rend le milieu basique : pH > 7.
+
+6- Calcul du pH :
+Concentration C de l'acide propanoïque dans (S), d'après la relation de dilution :
+C.VA = CA.(VA + Ve) ⟹ C = CA.(1 + Ve/VA)
+C = 2,6.10-3 × (1 + 50/10) ⟹ C = 1,56.10-2 mol.L-1
+Tableau d'avancement de la réaction de l'acide propanoïque avec l'eau :
+[C2H5COO-]éq = [H3O+]éq = xéq/VA et [C2H5COOH]éq = C − [H3O+]éq
+Qr,éq = KA = [H3O+]éq²/(C − [H3O+]éq)
+KA.(C − [H3O+]éq) = [H3O+]éq² ⟹ [H3O+]éq² + KA.[H3O+]éq − C.KA = 0
+Δ = KA² + 4KA.C
+[H3O+]éq = (−KA + √(KA² + 4KA.C))/2
+[H3O+]éq = (−10-4,86 + √(10-2×4,86 + 4 × 10-4,86 × 1,56.10-2))/2 = 3,57.10-4 mol.L-1
+pH = −log[H3O+]éq = 3,339 ⟹ pH = 3,34
+
+7- Vérification de la masse de l'acide propanoïque :
+C = n/V = m/(M(C2H5COOH).V) ⟹ m = C.M(C2H5COOH).V
+m = 1,56.10-2 × 74 × 40.10-3 = 46,176.10-3 g ⟹ m ≃ 46,2 mg
+La masse de l'acide propanoïque est bien celle indiquée sur l'étiquette.
+
+### Partie 2
+
+1- Le sens d'évolution du système chimique :
+D'après la courbe [Sn2+] = f(t), au cours du fonctionnement de la pile [Sn2+] augmente : Sn2+ est un produit.
+Le système chimique évolue spontanément dans le sens (2), sens de formation des ions Sn2+ :
+Sn(s) + Pb2+(aq) ⟶ Sn2+(aq) + Pb(s)
+
+2- L'équation de la réaction au niveau de l'anode :
+Sn(s) ⇄ Sn2+(aq) + 2e-
+
+3- Le schéma conventionnel de la pile :
+(−) Sn(s) | Sn2+(aq) || Pb2+(aq) | Pb(s) (+)
+
+4- Le sens de migration des ions Cℓ- :
+Dans le compartiment anodique, il y a oxydation de Sn en Sn2+ ; l'augmentation du nombre des ions Sn2+ provoque la migration des ions chlorure Cℓ- du pont salin vers le compartiment anodique pour assurer la neutralité électrique.
+
+5-1- L'expression de [Sn2+] en fonction de C2, V2, F, I et t :
+Pendant la durée t : [Sn2+]t = (C2.V2 + x)/V2 = C2 + x/V2
+Q = I.Δt = n(e-).F avec n(e-) = 2x et Δt = t
+2x.F = I.t ⟹ x = I.t/(2F)
+[Sn2+]t = C2 + I.t/(2F.V2)
+
+5-2- Montrons la relation K = (2FC2V2 − IΔt)/(2FC2V2 + IΔt) :
+L'expression de la constante d'équilibre est K' = [Sn2+]éq/[Pb2+]éq avec K' = 1/K
+K = [Pb2+]éq/[Sn2+]éq = ((C1.V1 − x)/V1)/((C2.V2 + x)/V2)
+avec V1 = V2 et C1 = C2 :
+K = (C2.V2 − x)/(C2.V2 + x) = (C2.V2 − I.Δt/(2F))/(C2.V2 + I.Δt/(2F)) = (2F.C2.V2 − I.Δt)/(2F.C2.V2 + I.Δt)
+Graphiquement : C2 = 20.10-3 mol.L-1 et Δt = 2,5.10³ s
+K = (2 × 9,65.104 × 2.10-2 × 30.10-3 − 17,13.10-3 × 2,5.10³)/(2 × 9,65.104 × 2.10-2 × 30.10-3 + 17,13.10-3 × 2,5.10³)
+⟹ K = 0,46
+
+## Exercice 2
+
+1- Le retard temporel τM/S :
+τM/S = tM − tO = 7,5 − 0 ⟹ τM/S = 7,5 s
+Déduction de H1 :
+v1 = L1/τM/S avec v1 = √(g.H1)
+√(g.H1) = L1/τM/S ⟹ H1 = (1/g).(L1/τM/S)²
+H1 = (1/10) × (30/7,5)² ⟹ H1 = 1,6 m
+
+2- Calcul de H2 :
+Le retard de N par rapport à M : τN/M = tN − tM = 16,25 − 7,5 = 8,75 s
+v2 = L2/τN/M = (L − L1)/τN/M avec v2 = √(g.H2)
+H2 = (1/g).((L − L1)/τN/M)²
+H2 = (1/10) × ((47,5 − 30)/8,75)² = 0,4 m ⟹ H2 = 40 cm
+
+3- Calcul de λ1 et λ2 :
+v1 = √(g.H1) = λ1/T ⟹ λ1 = T.√(g.H1)
+D'après la figure 2 : T = 5 s
+λ1 = 5 × √(10 × 1,6) ⟹ λ1 = 20 m
+λ2 = T.√(g.H2) = 5 × √(10 × 0,4) ⟹ λ2 = 10 m
+
+4-1- Nom du phénomène avec justification :
+Phénomène de diffraction, car la condition d'obtention de la diffraction d'une onde mécanique est vérifiée (a ≈ λ1).
+
+4-2- Représentation des crêtes : voir figure.
+
+## Exercice 3
+
+### Partie 1
+
+1- Charge d'un condensateur réel
+
+1-1- Vérification de l'expression de i :
+Loi des nœuds : i = i1 + i2
+Loi d'Ohm : uRd = Rd.i1 ⟹ i1 = uRd/Rd et uRd = uC donc i1 = uC/Rd
+i2 = dq/dt = C.duC/dt
+i = uC/Rd + C.duC/dt
+
+1-2- L'équation différentielle :
+Loi d'additivité des tensions : E = uR + uC
+uR = R.i = R(uC/Rd + C.duC/dt)
+E = R.uC/Rd + R.C.duC/dt + uC = uC(R/Rd + 1) + R.C.duC/dt
+E = uC.(R + Rd)/Rd + R.C.duC/dt ⟹ E/(R.C) = duC/dt + ((R + Rd)/(R.Rd.C)).uC
+On pose A = E/(R.C) et 1/τ = (R + Rd)/(R.Rd.C) ⟹ τ = R.Rd.C/(R + Rd)
+L'équation différentielle s'écrit : duC/dt + uC/τ = A
+
+1-3- L'expression de uC(max) :
+En régime permanent uC = uC max = Cte donc duC/dt = 0
+E/(R.C) = ((R + Rd)/(R.Rd.C)).uC max ⟹ E = ((R + Rd)/Rd).uC max
+uC max = E.Rd/(Rd + R)
+Comparaison : Rd + R > Rd ⟹ Rd/(Rd + R) < 1 ⟹ uC max < E
+
+1-4- La valeur de E et de R :
+On a Rd >> R ⟹ Rd + R ≈ Rd
+uC max = E.Rd/Rd ⟹ uC max = E
+D'après le graphe de la figure 3 : uC max = E = 12 V et τ = 2,5 ms
+τ = R.C ⟹ R = τ/C
+A.N : R = 2,5.10-3/5.10-6 ⟹ R = 500 Ω
+
+2- Décharge du condensateur réel
+
+2-1- Etablissement de l'équation différentielle :
+Loi d'additivité des tensions : uRd + uC = 0 ⟹ Rd.i + uC = 0 ⟹ Rd.dq/dt + q/C = 0
+Rd.C.dq/dt + q = 0
+
+2-2-1- La valeur de Rd :
+La solution : q(t) = β.e-λt
+q(0) = β ⟹ β = qmax
+dq/dt = −λ.β.e-λt ; on remplace dans l'équation différentielle :
+−λ.β.Rd.C.e-λt + β.e-λt = 0 ⟹ β.e-λt(1 − λ.Rd.C) = 0 ⟹ λ = 1/(Rd.C) = 1/τ'
+t1 = −(1/λ).ln(q(t1)/β) = Rd.C.ln(C.uC max/(C.u1)) = Rd.C.ln(E/u1)
+A t1 = 12 min : uC = u1 = 10 V ; quand t → ∞ : uC max = E = 12 V
+Rd = t1/(C.ln(E/u1))
+A.N : Rd = 12 × 60 / (5.10-6 × ln(12/10)) ⟹ Rd ≃ 789,8.106 Ω
+
+2-2-2- Calcul de p à t1 :
+p = ξJ/ξ0 = (ξ0 − ξe1)/ξ0 = 1 − ξe1/ξ0 = 1 − ((1/2).C.u1²)/((1/2).C.uC max²) = 1 − (u1/E)²
+A.N : p = 1 − (10/12)² = 0,3055 ⟹ p = 30,55 %
+
+### Partie 2
+
+1- Classement des parties : Z, W, Y, X.
+
+2- La proposition juste : d.
+
+3- La valeur de C1 :
+FP = F0 = 1/(2π√(L.Ce)) ⟹ Ce = 1/(4π².L.FP²)
+A.N : Ce = 1/(4 × 10 × 10-3 × (460.10³)²) ⟹ Ce = 118,15 pF
+Les deux condensateurs sont en série :
+1/Ce = 1/C + 1/C1 ⟹ 1/C1 = 1/Ce − 1/C = (C − Ce)/(C.Ce) ⟹ C1 = C.Ce/(C − Ce)
+C1 = 118,15 × 150/(150 − 118,15) ⟹ C1 = 556,44 pF
+
+4- Le conducteur ohmique qui convient :
+TP << τ < TS ⟹ 1/FP << R.C' < 1/FS ⟹ 1/(C'.FP) << R < 1/(C'.FS)
+1/(20.10-9 × 460.10³) << R < 1/(20.10-9 × 10³)
+108,7 Ω << R < 50000 Ω, soit 108,7 Ω << R < 50 kΩ ⟹ R = 47 kΩ
+
+## Exercice 4
+
+### Partie 1
+
+1- Les expressions de vx(t) et vz(t) :
+Système étudié : {le projectile}
+Bilan des forces : P⃗ le poids du projectile
+Deuxième loi de Newton : Σ F⃗ext = m.a⃗G ⟹ m.g⃗ = m.a⃗G ⟹ a⃗G = g⃗
+Projection dans le repère (O, x, z) : ax = 0 ; az = −g
+Conditions initiales à t0 = 0 : V⃗0 (V0x = V0.cosα ; V0z = V0.sinα) et OG⃗0 (x0 = 0 ; z0 = h)
+Intégration : vx = V0.cosα ; vz = −g.t + V0.sinα
+
+2- L'expression de la norme v :
+v = √(vx² + vz²) = √((V0.cosα)² + (−g.t + V0.sinα)²)
+v = √(g².t² − 2g.t.V0.sinα + V0²)
+
+3-1- La valeur V0 : graphiquement V0 = 23 m.s-1
+
+3-2- Les composantes V0x et V0z :
+Au sommet de la trajectoire la vitesse est horizontale : vSz = 0
+vS = vSx = V0x = V0.cosα ; la vitesse y est minimale : vS = V0x = 20 m.s-1
+V0z = √(V0² − V0x²) = √(23² − 20²) ⟹ V0z = 11,358 m.s-1
+
+4- Vérification de α = 30° :
+V0x = V0.cosα ⟹ α = cos-1(V0x/V0) = cos-1(20/23) = 26,59° ⟹ α ≃ 30°
+
+5-1- Vérification de l'expression de Δt1 :
+x(t) = V0.cosα.t ; z(t) = −(1/2).g.t² + V0.sinα.t + h
+Pour z = z1 : −(1/2).g.t² + V0.sinα.t + h − z1 = 0
+Δ = (V0.sinα)² + 2g(h − z1)
+tM1 = (V0.sinα − √((V0.sinα)² + 2g(h − z1)))/g ; tN1 = (V0.sinα + √((V0.sinα)² + 2g(h − z1)))/g
+Δt1 = 2.√((V0.sinα)² + 2g(h − z1))/g
+De la même façon : Δt2 = 2.√((V0.sinα)² + 2g(h − z2))/g
+
+5-2- L'expression de H et déduction de g :
+(Δt1)² − (Δt2)² = [4(V0.sinα)² + 8g(h − z1)]/g² − [4(V0.sinα)² + 8g(h − z2)]/g²
+(Δt1)² − (Δt2)² = (8/g).(z2 − z1) = (8/g).H
+H = (g/8).[(Δt1)² − (Δt2)²]
+g = 8H/((Δt1)² − (Δt2)²) = 8 × 0,49/((0,7)² − (0,3)²) ⟹ g = 9,8 m.s-2
+
+### Partie 2
+
+1- L'expression de l'énergie potentielle :
+Ep = Epp + Epe
+Epp = m.g.z + Cte ; état de référence Epp = 0 pour z0 = 0 donc Cte = 0 et Epp = m.g.z
+Avec z = a/2 : Epp = m.g.a/2
+Epe = (1/2).K.Δℓ² + Cte avec Δℓ = x ; état de référence Epe = 0 à l'équilibre x0 = 0 donc Cte = 0
+Epe = (1/2).K.x²
+Ep = m.g.a/2 + (1/2).K.x² ⟹ Ep = (1/2).(m.g.a + K.x²)
+
+2- L'expression de Ep(t) :
+x(t) = xm.cos((2π/T0).t + φ)
+Ep = (1/2).m.g.a + (K.xm²/2).cos²((2π/T0).t + φ)
+Graphiquement T = 0,25 s avec T0 = 2T = 0,5 s
+Ep min = 2 mJ = 2.10-3 J et Ep max = 8 mJ = 8.10-3 J
+Quand cos²(...) = 0 : Ep = Ep min = (1/2).m.g.a = 2.10-3 J
+Quand cos²(...) = 1 : Ep = Ep max = (1/2).m.g.a + K.xm²/2 = 8.10-3 J
+donc K.xm²/2 = 6.10-3 J
+Ep = 6.10-3.cos²((2π/0,5).t + φ) + 2.10-3 ⟹ Ep = 6.10-3.cos²(4πt + φ) + 2.10-3
+
+3- La valeur de m, K et φ :
+Valeur de m : (1/2).m.g.a = 2.10-3 J ⟹ m = 4.10-3/(g.a) = 4.10-3/(10 × 2.10-2) = 2.10-2 kg ⟹ m = 20 g
+Valeur de K : T0 = 2π√(m/K) ⟹ K = 4π².m/T0² = 4 × 10 × 2.10-2/(0,5)² ⟹ K = 3,2 N.m-1
+Valeur de φ : graphiquement à t0 = 0, Ep(0) = 5.10-3 J
+Ep(0) = 6.10-3.cos²φ + 2.10-3 ⟹ cos²φ = (5.10-3 − 2.10-3)/6.10-3 = 0,5
+cosφ = ±√0,5 = ±√2/2 ⟹ φ = ±π/4
+A t0 = 0 : x(0) = xm.cosφ > 0 ⟹ cosφ > 0 ⟹ φ = π/4
+
+4- La norme de la vitesse à t = 0,25 s :
+Em = Ep + EC avec Em = Ep max et EC = (1/2).m.v²
+Ep max = Ep(t) + (1/2).m.v² ⟹ v = √(2(Ep max − Ep(t))/m)
+Graphiquement (figure 2) : Ep max = 8.10-3 J et Ep(t = 0,25 s) = 5.10-3 J
+v = √(2(8.10-3 − 5.10-3)/2.10-2) = 0,5477 m.s-1 ⟹ v ≃ 0,55 m.s-1
