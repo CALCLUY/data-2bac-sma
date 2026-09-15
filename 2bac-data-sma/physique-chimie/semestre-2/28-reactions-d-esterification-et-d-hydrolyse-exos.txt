@@ -1,0 +1,145 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Réactions d'estérification et d'hydrolyse
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 28 (Réactions d'estérification et d'hydrolyse)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+On étudie la réaction d'estérification de l'acide méthanoïque avec le pentan-1-ol.
+
+Pour cela on mélange $19 , 2 m L$ d'acide avec $55 m L$ d'alcool et on maintient la température du mélange obtenu à une valeur $\theta$ constante.
+
+1. Montrer que le mélange est équimolaire et que le nombre de mole de chacun des deux réactifs est de $0 , 5 m o l e$.
+
+2. Écrire l'équation de la réaction d'estérification et donner ses caractères.
+
+On prélève un volume $V = 2 m L$ du mélange toutes les 5 minutes, et après refroidissement on dose l'acide restant avec une solution de soude de concentration $C_{B} = 1 m o l . L^{- 1}$.
+
+3. Établir l'expression de la quantité de matière d'acide restant dans le volume $V$ à un instant $t$ en fonction de la concentration $C_{B}$ et du volume $V_{B}$ de soude versé à l'équivalence.
+
+4. Calculer la quantité de matière d'acide $n_{0}$ contenu initialement dans le volume $V$.
+
+5. Déduire l'expression de la quantité de matière d'ester formé dans le volume $V$ à un instant $t$ en fonction de $n_{0}$, $C_{B}$ et $V_{B}$.
+
+Les différents dosages ont permis de tracer la courbe suivante traduisant la variation du nombre de moles d'ester formé au cours du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img29.bmp)
+
+6. Déterminer la composition du mélange à un instant $t > 20 m i n$.
+
+7. Définir et calculer la constante d'équilibre $K$ de la réaction d'estérification étudiée.
+
+Données :
+
+- $\rho_{p e n tan - 1 - o l} = 0 , 8 g . c m^{- 3} ; \rho_{a c i d e m \acute{e} t h a n o \ddot{i} q u e} = 1 , 2 g . c m^{- 3}$.
+- $M \left(C\right) = 12 g . m o l^{- 1} ; M \left(H\right) = 1 g . m o l^{- 1} ; M \left(O\right) = 16 g . m o l^{- 1}$.
+
+### 5-2/ Exercice 2
+
+On réalise dans des tubes scellés l'estérification de l'acide méthanoïque $H C O O H$ avec l'éthanol $C_{2} H_{5} - O H$.
+
+Chacun des tubes contient à l'instant initial de date $t = 0$, une quantité de $0 , 5 m o l$ d'acide méthanoïque et une autre de $0 , 5 m o l$ d'éthanol.
+
+1. Écrire l'équation de l'estérification qui se produit.
+
+À chaque heure, on dose avec une solution d'hydroxyde de sodium l'acide restant dans un tube, à l'exception d'un tube noté $\left(\right. T \left.\right)$, ceci permet de tracer la courbe de la figure suivante, traduisant l'évolution temporelle de la quantité de matière na d'acide restant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img30.bmp)
+
+2. Dresser le tableau d'avancement de l'estérification qui se produit.
+
+3. Calculer le taux d'avancement final $\tau_{f}$ de cette estérification.
+
+4. En déduire si elle est totale ou limitée.
+
+Le système chimique, siège de cette réaction, est formé d'une seule phase liquide de volume $V$.
+
+5. Montrer que la constante d'équilibre $K$ de cette estérification est sensiblement égale à $4$.
+
+Le tube $\left(\right. T \left.\right)$ dont l'acide restant n'a pas été dosé, contient à un instant $t_{1}$, $0 , 25 m o l$ d'acide, $0 , 25 m o l$ d'alcool, $0 , 25 m o l$ d'ester et $0 , 25 m o l$ d'eau.
+
+6. Pour que les quantités d'acide, d'alcool et d'ester restent inchangées et égales respectivement à $0 , 25 m o l$, à partir de l'instant $t_{1}$ préciser, en le justifiant, si à cet instant l'on doit ajouter de l'eau ou extraire une partie de l'eau formée au cours de l'estérification.
+
+7. Déterminer la quantité de matière ne d'eau qu'il faudrait ajouter ou extraire du tube $\left(\right. T \left.\right)$ à l'instant $t_{1}$.
+
+### 5-3/ Exercice 3
+
+Le taux d'avancement final d'une réaction est le rapport $\tau_{f} = \left(x_{f}\right)/\left(x_{m a x}\right)$.
+
+On donne ce taux d'avancement final dans le cas d'un mélange équimolaire d'alcool et d'acide :
+
+- Pour les alcools primaires : $\tau_{f} = 67 \%$
+- Pour les alcools secondaires : $\tau_{f} = 60 \%$
+
+1. Dans le cas d'un mélange équimolaire, montrer que la constante d'équilibre s'écrit sous la forme $K = \frac{\left(\tau_{f}\right)^{2}}{\left(1 - \tau_{f}\right)^{2}}$.
+
+2. Calculer pour chaque classe d'alcool la constante d'équilibre $K$ relative à la réaction d'estérification.
+
+On réalise une réaction d'estérification en mélangeant à $t = 0$ un volume $V_{1} = 14 , 3 m L$ d'acide éthanoïque $C_{2} H_{4} O_{2}$ de densité $d_{1} = 1 , 05 g . c m^{- 3}$ et un volume $V_{2} = 19 , 2 m L$ d'alcool, de densité $d_{2} = 0 , 785$ et de formule brute $C_{3} H_{8} O$.
+
+On donne : $M \left(C\right) = 12 g . m o l^{- 1} ; M \left(O\right) = 16 g . m o l^{- 1} ; M \left(H\right) = 1 g . m o l^{- 1}$
+
+3. Quelle est la composition initiale du mélange ?
+
+4. Déterminer le sens d'évolution spontanée de la réaction.
+
+5. Dresser le tableau d'avancement de la réaction.
+
+On prépare 10 tubes à essai propres et secs et à l'aide d'une pipette graduée on verse $3 , 35 m l$ du mélange obtenu dans chacun d'eux puis on les place dans un bain marie.
+
+Pour déterminer la composition du mélange à $t = t_{1}$, on retire un tube, on le refroidit avec l'eau glacée et on dose l'acide restant par une solution d'hydroxyde de sodium de concentration $C_{b} = 1 m o l / L$, on obtient l'équivalence pour un volume de soude versé $v_{b} = 10 c m^{3}$.
+
+6. Déterminer le nombre de mole d'acide à l'instant $t_{1}$, en déduire le nombre de mole d'ester formé à cet instant.
+
+7. Calculer à $t = t_{1}$ le taux d'avancement de la réaction.
+
+8. Le système a t-il atteint l'équilibre ? Discuter selon la classe de l'alcool.
+
+On se place dans le cas où le système n'a pas atteint l'équilibre.
+
+9. Écrire l'équation de la réaction d'estérification
+
+On considère une deuxième expérience dont le mélange initial est formé de $3 g$ d'acide éthanoïque, $3 g$ d'alcool, $5 , 1 g$ d'ester et $0 , 9 g$ d'eau.
+
+10. Dans quel sens évolue la réaction ?
+
+11. Dresser le tableau descriptif d'évolution du système chimique.
+
+12. Déterminer la composition du mélange à l'équilibre dynamique.
+
+### 5-4/ Exercice 4
+
+On réalise la réaction d'hydrolyse de méthanoate d'éthyle $H - C O O C_{2} H_{5}$ à une température constante de $50 \circ C$ en mélangeant dans un ballon, à la date $t = 0$, une mole de l'ester et une mole d'eau.
+
+On réalise, au cours du temps, des prélèvements de volume $V = 20 m L$ grâce auxquels on déduit par titrage avec une solution de soude la quantité de matière n d'acide formé dans le mélange.
+
+Les résultats ont permis de tracer le graphe, de l'évolution de la quantité de matière d'acide formé au cours du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img31.bmp)
+
+1. Écrire l'équation de la réaction d'hydrolyse notée (1).
+
+2. Faire le schéma du montage permettant de réaliser le titrage de l'acide formé et nommer le matériel utilisé.
+
+3. Dresser le tableau d'évolution de la réaction (1).
+
+4. Quel volume de la solution de soude de concentration $C_{b} = 2 m o l . L^{- 1}$ doit-on verser dans le prélèvement à l'équivalence à la date $t = 20 m i n$.
+
+5. Déterminer le taux d'avancement final $\tau_{1}$ de la transformation et déduire le caractère total ou limité de la réaction (1).
+
+6. Déterminer la valeur de la constante d'équilibre relative à cette réaction.
+
+On réalise de nouveau la réaction d'hydrolyse du l'acide méthanoate d'éthyle à la même température de $50 \circ C$ en mélangeant, à la date $t = 0$, une mole de l'ester et deux moles d'eau.
+
+7. Déterminer le taux d'avancement final $\tau_{2}$ de cette réaction dans ces conditions.
+
+8. Quelle conclusion peut-on tirer pour augmenter le taux d'avancement final d'une réaction d'hydrolyse ?

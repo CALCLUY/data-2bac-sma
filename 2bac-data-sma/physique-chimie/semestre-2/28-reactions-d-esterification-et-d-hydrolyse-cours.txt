@@ -1,0 +1,311 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Réactions d'estérification et d'hydrolyse
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 28 (Réactions d'estérification et d'hydrolyse)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## Sommaire
+
+### I- Rappel
+
+#### 1-1/ La chimie organique
+
+#### 1-2/ Les alcanes et les radicaux alkyles
+
+#### 1-3/ Nomenclature des alcanes ramifiés
+
+### II- Les composés organiques oxygénés
+
+#### 2-1/ Les alcools
+
+#### 2-2/ Les acides carboxyliques
+
+#### 2-3/ Anhydride de l'acide carboxylique
+
+### III- Les réactions d'estérification et hydrolyse d'un ester
+
+#### 3-1/ Les esters
+
+#### 3-2/ La réaction d'estérification
+
+#### 3-3/ La réaction d'hydrolyse
+
+#### 3-4/ L'expérience de Berthelot
+
+### IV- Équilibre chimique : estérification hydrolyse
+
+#### 4-1/ Notion d'équilibre : estérification hydrolyse
+
+#### 4-2/ Les facteurs influençant l'équilibre
+
+### V- Exercices
+
+#### 5-1/ Exercice 1
+
+#### 5-2/ Exercice 2
+
+#### 5-3/ Exercice 3
+
+#### 5-4/ Exercice 4
+
+* * *
+
+## I- Rappel
+
+### 1-1/ La chimie organique
+
+La chimie organique est la chimie des composés carboniques, c'est-à-dire les molécules contenant les élément C et H.
+
+La configuration électronique du carbone est (K)2(L)4.
+
+Afin de vérifier la condition d'octet, l'atome de carbone a quatre électrons dans la couche externe, donc quatre électrons de valence, on dit qu'il est tétravalent.
+
+Représentation de Lewis :
+
+On peut représenter la molécule organique en utilisant plusieurs façons :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img4.jpg)
+
+### 1-2/ Les alcanes et les radicaux alkyles
+
+#### Les alcanes
+
+Les alcanes sont des hydrocarbures saturés de formule brute générale C n H 2 n+2, où n∈ℕ*.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img5.jpg)
+
+#### Les radicaux alkyles
+
+Les radicaux alkyles ont pour formule brute C n H 2 n+1.
+
+Le radical alkyl dérive d'un alcane par perte d'un atome d'hydrogène.
+
+Le nom du radical alkyl s'obtient à partir du nom de l'alcane correspondant en remplaçant la terminaison "ane" par "yle" :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img7.png)
+
+### 1-3/ Nomenclature des alcanes ramifiés
+
+La chaîne carbonée la plus longue est appelée chaîne principale, elle donnera son nom à l'alcane. Par exemple :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img6.jpg)
+
+Si R=C H 3 on parle d'méthyl, si R=C 2 H 5 on parle d'éthyl.
+
+Pour cette molécule on a 6 carbones, donc il s'agit du préfixe hex, R se trouve dans l'emplacement 3, alors le nom de cette espèce est : 3-méthyl-hexane.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img8.bmp)
+
+## II- Les composés organiques oxygénés
+
+### 2-1/ Les alcools
+
+Les alcools sont caractérisés par le groupe OH d'hydroxyde. Leur formules brute est C n H 2 n−1.
+
+Selon que l'atome de carbone portant le groupe caractéristique -OH est lié à 1, 2 ou 3 atomes de carbone, l'alcool est qualifié de primaire, secondaire, tertiaire :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img9.jpg)
+
+La nomenclature des alcools est très semblable à la nomenclature des alcane et s'appuie sur la même méthode.
+
+Le suffixe -ane est remplacée par le suffixe -ol, précédé de sa position sur la chaîne carbonée. Celle-ci doit être numérotée de façon à ce que cet indice soit le plus faible possible.
+
+Exemples :
+
+- méthane C H 4→ méthanol C H 3-O H
+- éthane C 2 H 6→ éthanol C 2 H 5-O H
+- propane C 3 H 8→ propanol C 3 H 7-O H
+- butane C 4 H 10→ butanol C 4 H 9-O H
+
+Pour les alcools ramifiés, la chaîne carbonée principale est la plus longue chaîne qui comporte le carbone fonctionnel, et pour préciser la position du groupe -OH sur la chaîne carbonée on utilise le suffixe (ol) précédé du plus petit nombre qui indique la position du carbone fonctionnel sur la chaîne carbonée principale.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img10.jpg)
+
+### 2-2/ Les acides carboxyliques
+
+Les acides carboxyliques sont des molécules comprenant un groupement carboxyle (–C(O)OH) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img11.jpg)
+
+Les acides carboxyliques sont liquides dans les conditions normales tant que leur chaîne carbonée présente moins de 8 atomes de carbone. Ils sont solides au-delà.
+
+Le nom d'un acide carboxylique dérive de celui de l'alcane de même squelette carboné en remplaçant le -e final par la terminaison -oïque, l'ensemble étant précédé du mot acide :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img12.jpg)
+
+Pour les acides ramifiés, on commence la numérotation à partir le carbone fonctionnel du groupe COOH.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img13.jpg)
+
+### 2-3/ Anhydride de l'acide carboxylique
+
+Un anhydride d'acide carboxylique est un composé organique qui résulte de la déshydratation (perte d'une molécule H2O) d'un acide carboxylique.
+
+Leur formule générale est R-C O-O-C O-R :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img14.png)
+
+La préparation de l'anhydride de l'acide carboxylique se fait à partir de l'acide carboxylique par chauffage à 700°C et en utilisant un déshydratant (comme l'oxyde de phosphore P 4 O 10).
+
+Pendant cette réaction, il y'a élimination d'une molécule d'eau entre deux molécules d'acide :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img15.bmp)
+
+## III- Les réactions d'estérification et hydrolyse d'un ester
+
+### 3-1/ Les esters
+
+Les esters sont des composés odorants, que l'on trouve en abondance dans les fruits mûrs, ainsi ils entrent dans la composition, des huiles, des parfums.
+
+Les esters possèdent un groupe caractéristique appelé ester : -C O 2 R′, noté aussi -C O O R′.
+
+Leur formule générale est :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img16.jpg)
+
+Le nom d'un ester comporte deux termes :
+
+- Le premier, qui se termine en -oate, désigne la chaîne dite principale provenant de l'acide carboxylique ; cette chaîne est, si nécessaire, numérotée à partir de l'atome de carbone fonctionnel.
+- Le second, qui se termine en -yle, est le nom du groupe alkyle provenant de l'alcool ; cette chaîne est, si nécessaire, numérotée à partir de l'atome de carbone lié à l'atome d'oxygène.
+
+Exemples :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img17.jpg)
+
+### 3-2/ La réaction d'estérification
+
+L'estérification est une réaction au cours de laquelle un groupe fonctionnel ester R 1-C O O-R 2 est obtenu par condensation d'un groupe acide carboxylique R 1-C O O H et d'un groupe alcool R 2-O H ainsi que formation d'eau H 2 O :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img18.jpg)
+
+Dans une réaction d'estérification la molécule d'acide perd le groupement -OH et celle d'alcool perd le groupement -H pour conduire à un ester et une molécule d'eau :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img19.jpg)
+
+### 3-3/ La réaction d'hydrolyse
+
+Une réaction d'hydrolyse d'un ester modélise la transformation spontanée qui conduit à un alcool et à un acide carboxylique à partir d'un ester et d'eau.
+
+C'est l'inverse de l'estérification.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img21.jpg)
+
+### 3-4/ L'expérience de Berthelot
+
+#### Protocole expérimental
+
+Cette étude a été réalisé par le chimiste français Berthelot en 1862 dont le protocole expérimental est le suivant :
+
+Un mélange équimolaire constitué d'une mole d'éthanol $C_{2} H_{5} O H$ (46g) et une mole d'acide éthanoique $C H_{3} C O O H$ (60g) est repartie après homogénéisation dans plusieurs tubes à essaies identiques scellées et placés à température constante $100 \circ C$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img22.bmp)
+
+Dans chaque tube démarre l'estérification et les divers échantillons évoluent en parallèle, de façon identique.
+
+Pour déterminer la nombre de moles d'ester formé à un instant t donné, on prélève un tube et on lui fait subir une trempe dans glacée pour arrêter la réaction puis on dose l'acide présent (restant) dans le tube à cet instant t à l'aide d'une solution de soude de concentration connue.
+
+#### Résultats (estérification)
+
+Soit $n$ est le nombre de moles de $C H_{3} C O O H$ restant à l'instant t.
+
+$n ' = 1 - n$ représente le nombre de moles de $C H_{3} C O O H$ qui a réagit, c'est à dire le nombre de moles d'ester formé à l'instant t.
+
+On obtient les résultats suivants :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img23.jpg)
+
+Pour obtenir un mélange de composition constante à $100 \circ C$, on a besoin de 150heures, donc la réaction d'estérification est une réaction lente.
+
+À l'état final la composition du mélange devient constante mais aucun des réactifs n'a disparu, donc la réaction d'estérification est limitée, en plus c'est une réaction endothermique.
+
+#### Résultats (hydrolyse)
+
+En utilisant la même méthode utilisée dans l'étude de l'estérification, on peut suivre l'évolution de la réaction d'hydrolyse.
+
+en dosant l'acide formé par une base de concentration connue ce qui permet de tracer la courbe de la variation de la quantité de matière d'ester restant en fonction du temps.
+
+La courbe suivante représente la quantité de matière d'ester restant en fonction de temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img24.bmp)
+
+La réaction d'hydrolyse est une réaction lente, limitée et endothermique.
+
+## IV- Équilibre chimique : estérification hydrolyse
+
+### 4-1/ Notion d'équilibre : estérification hydrolyse
+
+La réaction d'estérification et la réaction d'hydrolyse sont deux réactions inverses l'une de l'autre, elles se produisent en même temps et elles conduisent à un équilibre chimique.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img25.jpg)
+
+Cette transformation est caractérisée par sa constante d'équilibre :
+
+$K = \frac{\left[R C O O R '\right]_{\acute{e} q} \times \left[H_{2} O\right]_{\acute{e} q}}{\left[R C O O H\right]_{\acute{e} q} \times \left[R ' O H\right]_{\acute{e} q}}$
+
+Le quotient de la réaction :
+
+$Q_{r} = \frac{\left[e s t e r\right] . \left[e a u\right]}{\left[a l c o o l\right] . \left[a c i d e\right]} = \frac{n \left(e s t e r\right) . n \left(e a u\right)}{n \left(a l c o o l\right) . n \left(a c i d e\right)}$
+
+L'utilisation de l'un des réactifs en excès (l'alcool ou bien l'acide) entraîne la diminution du quotient de la réaction $Q_{r}$, il devient $Q_{r} < K$ ce qui conduit à l'évolution du système dans le sens direct (sens de l'estérification).
+
+L'élimination de l'un des produits (eau ou bien l'ester) entraîne aussi la diminution du quotient de la réaction $Q_{r}$, il devient $Q_{r} < K$ ce qui conduit à l'évolution du système dans le sens direct (sens de l'estérification).
+
+### 4-2/ Les facteurs influençant l'équilibre
+
+#### Influence de la température
+
+Une élévation de température permet d'atteindre plus rapidement la limite de l'équilibre d'estérification-hydrolyse mais ne modifie pas cette limite.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img26.jpg)
+
+#### Influence du catalyseur
+
+Un catalyseur ne modifie pas un état d'équilibre, car il catalyse de la même façon les deux réactions inverses l'une de l'autre.
+
+Il permet d'atteindre plus rapidement cet état.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img27.jpg)
+
+#### Influence de la nature des réactifs
+
+Le taux d'avancement final d'une estérification dépend très peu de la nature de l'acide carboxylique mis en jeu.
+
+En revanche, il dépend nettement de la classe de l'alcool utilisé.
+
+Ainsi, pour des mélanges stœchiométriques d'acide carboxylique et d'alcool, le taux d'avancement final de la synthèse de l'ester est de :
+
+- 67% si l'alcool est primaire.
+- 60% si l'alcool est secondaire.
+- 5% si l'alcool est tertiaire.
+
+#### Influence des proportions initiales des réactifs
+
+Le taux d'avancement final T, et donc le rendement, de l'estérification sont d'autant plus importants que l'un des réactifs est en fort excès.
+
+Le taux d'avancement final T, et donc le rendement, de l'hydrolyse d'un ester, sont d'autant plus importants que l'un des réactifs, généralement l'eau, est en fort excès.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s28/img28.jpg)
+
+#### Récapitulatif
+
+Influence sur la vitesse de la réaction d'estérification :
+
+Le système chimique atteint son état d'équilibre plus rapidement sans influer sur sa composition finale soit :
+
+- Par élévation de la température.
+- En utilisant le catalyseur $\left(\right. H_{3} O^{+} \left.\right)$.
+
+Influence sur l'état final :
+
+Pour déplacer l'équilibre dans le sens de la formation de l'ester et augmenter le rendement de l'estérification on doit soit :
+
+- Éliminer l'un des produits : l'eau ou l'ester.
+- Utiliser de l'un des réactifs (l'alcool ou l'acide) en excès.
