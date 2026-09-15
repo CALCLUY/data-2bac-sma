@@ -1,0 +1,165 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Devoirs SM
+Sujet: PC 2Bac SM-SPC - Semestre 1 Devoir 2 Modèle 1
+Type: Sujet
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac SM-SPC
+Semestre 1 Devoir 2 Modèle 1
+Professeur : Mr El GOUFIFA Jihad
+
+## Exercice 1 (4 pts)
+
+Le Thorium 230 se trouve dans les roches marines, résulte de la désintégration spontanée d'Uranium 234 au cour du temps. C'est pourquoi le Thorium et l'Uranium se trouvent dans toutes les roches marines en proportions différentes, selon leurs dates de formation.
+
+1. Donner la composition du noyau d'uranium $\_{92}^{234}U$.
+
+Le noyau $\_{92}^{234}U$ est radioactif, dont le noyau fils est le Thorium $\_{90}^{230}T h$.
+
+2. Écrire l'équation de désintégration de l'Uranium $\_{92}^{234}U$, en précisant la particule émise.
+
+L'étude d'un échantillon d'une roche marine à un instant t montre qu'il contient une masse $m_{U} = 3 , 27 m g$ d'Uranium 234, et une masse $m_{T h} = 0 , 13 m g$ de Thorium.
+
+On suppose que la couche ne contient pas de Thorium à l'origine des dates $t_{0} = 0 s$ (La date à laquelle le rocher a été formé)
+
+3. Calculer l'activité nucléaire d'Uranium 234 à la date $t$.
+
+4. Montrer que l'âge de la roche marine est $t = \frac{t_{1/2}}{ln 2} ln \left(1 + \frac{m_{T h} \times M \left(\_{92}^{234}U\right)}{m_{U} \times M \left(\_{90}^{230}T h\right)}\right)$. Calculer sa valeur.
+
+5. Calculer l'énergie de liaison du noyau d'hélium $\_{2}^{4}H e$.
+
+La figure suivante représente le diagramme énergétique associé à la désintégration d'Uranium 234 :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s1d2m1/img1.jpg)
+
+6. En se basant sur le diagramme énergétique, calculer l'énergie de liaison d'Uranium 234 et celle de Thorium 230
+
+7. Parmi les deux noyaux $\_{92}^{234}U$ et $\_{90}^{230}T h$, quel est le plus stable ?
+
+8. En utilisant le diagramme énergétique, déterminer l'énergie libérée lors de cette désintégration.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s1d2m1/img2.jpg)
+
+$M \left(\_{92}^{234}U\right) = 234 g / m o l ; M \left(\_{90}^{230}T h\right) = 230 g / m o l ; N_{A} = 6 , 02 . 10^{23} m o l^{- 1}$
+
+## Exercice 2 (5 pts)
+
+L'énergie d'une centrale nucléaire provient de la fission d'uranium 235. Celle-ci dégage de la chaleur, qui sert dans un premier temps à vaporiser de l'eau, comme dans toute centrale thermique conventionnelle, puis la vapeur d'eau produite entraîne en rotation une turbine accouplée à un alternateur qui produit à son tour de l'électricité :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s1d2m1/img3.jpg)
+
+C'est la principale application de l'énergie nucléaire dans le domaine civil.
+
+Parmi les réactions de fission d'uranium 235 on a :
+
+$\overline{\left.\right) \_{0}^{1}n + \_{92}^{235}U \rightarrow \_{z}^{94}S r + \_{54}^{140}X e + a \_{0}^{1}n }$
+
+1. Définir la fission nucléaire.
+
+2. En utilisant la loi de conservation de Soddy, déterminer les valeurs des nombres a et z.
+
+3. Calculer en $M e v \left|\Delta E\right|$ l'énergie libérée par la fission d'un noyau d'uranium 235.
+
+4. Déduire en Mev puis en joule (J), l'énergie $E_{T}$ libérée par la fission d'une masse $m = 1 K g$.
+
+Dans une centrale nucléaire, l'énergie nucléaire est transformée en énergie électrique. Une centrale fournit une puissance électrique moyenne $P_{e} = 1 , 5 G W$ avec un rendement $r = 26 \%$.
+
+5. Calculer la puissance nucléaire $P_{n}$ consommée dans cette centrale.
+
+6. Calculer l'énergie nucléaire (thermique) produite par cette centrale pendant une année.
+
+7. Calculer en tonne la masse d'uranium consommée par cette centrale pendant une année.
+
+L'énergie thermique produite par la combustion d'une tonne de charbon est en moyenne $E_{C} = 21 \times 10^{3} M J$.
+
+8. Calculer en tonne la masse du charbon qu'il faut consommer pour produire une énergie égale à celle produite par la centrale nucléaire pendant une année.
+
+9. Conclure.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s1d2m1/img4.jpg)
+
+## Exercice 3 (5 pts)
+
+L'objectif de cet exercice est la vérification expérimentale de la capacité C d'un condensateur de flash d'un appareil photographique.
+
+Sur l'étiquette d'un condensateur de flash d'un appareil photographique on trouve les valeurs suivantes : $\left[100 V ; 150 \mu F ; 105 \circ C \left(M a x\right)\right]$.
+
+Pour vérifier la valeur de la capacité C, le condensateur est déchargé initialement, puis on réalise le circuit donné en figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s1d2m1/img5.bmp)
+
+E = 12 V la force électromotrice d'un générateur idéal de tension et R la résistance d'un conducteur ohmique et K un interrupteur de courant.
+
+A t = 0, on ferme l'interrupteur K et on suit l'évolution de l'intensité de courant i(t) en fonction de temps dans le circuit.
+
+On obtient la courbe de la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s1d2m1/img6.bmp)
+
+1. Représenter en convention récepteur la tension $u_{C}$ aux bornes du condensateur et la tension $u_{R}$ aux bornes de conducteur ohmique.
+
+2. Montrer sur le schéma comment brancher l'oscilloscope pour visualiser la tension $u_{C}$ aux bornes du condensateur.
+
+3. Établir que l'équation différentielle vérifiée par la tension s'écrit sous la forme : $R C \frac{d u_{C}}{d t} + u_{C} = E$
+
+La solution de l'équation différentielle s'écrit sous la forme : $u_{C} \left(t\right) = A \left(1 - e^{- t/\left(\tau\right)}\right)$
+
+4. Déterminer les constantes $A$ et $\tau$ en fonction des paramètres du circuit.
+
+5. Déduire que l'expression de l'intensité du courant dans le circuit d'écrit sous la forme : $i \left(t\right) = \frac{E}{R} e^{- t/\left(\tau\right)}$
+
+6. Montrer par l'analyse dimensionnelle que $\tau$ est homogène à un temps.
+
+En utilisant la courbe de la figure ci-dessus :
+
+7. Vérifier que $R = 20 K \Omega$.
+
+8. Déterminer la valeur de la constante de temps $\tau$, et déduire la valeur de la capacité C.
+
+On peut obtenir un condensateur de capacité C si on associée deux condensateurs en parallèle de capacité $C_{1}$ et $C_{2}$ tel que $C_{1} = 2 C_{2}$.
+
+9. Déterminer la valeur de $C_{1}$ et $C_{2}$.
+
+On rappelle que la puissance instantanée est égale à $P = \frac{d E_{e}}{d t}$.
+
+10. Monter que l'expression de l'énergie électrique emmagasinée dans le condensateur est $E_{e} = \frac{1}{2} C . \left(u_{C}\right)^{2}$.
+
+11. Calculer $E_{e , m a x}$ l'énergie électrique emmagasinée dans le condensateur en régime permanent.
+
+## Exercice 4 (6 pts)
+
+L'acide méthanoïque (appelé aussi acide formique) est le plus simple des acides carboxyliques. Sa formule chimique est $H C O O H$. Sa base conjuguée est l'ion méthanoate (formiate) de formule $H C O O^{-}$. Il s'agit d'un acide faible qui se présente sous forme de liquide incolore à odeur pénétrante.
+
+On prépare, à une solution aqueuse (S) d'acide méthanoïque de concentration $C = 5 \times 10^{- 3} m o l / L$ et de volume $V = 1 L$.
+
+La mesure de la conductivité de la solution (S) donne : $\sigma = 4 , 0 \times 10^{- 2} S / m$
+
+1. Écrire l'équation de la réaction entre l'acide méthanoïque et l'eau.
+
+2. Dresser le tableau d'avancement de cette réaction en fonction de $C , V , x$ et $x_{\acute{e} q}$.
+
+3. Exprimer la conductivité $\sigma$ de la solution en fonction de $\lambda_{1}$ et $\lambda_{2}$ et la concentration $\left[H_{3} O^{+}\right]_{\acute{e} q}$.
+
+4. Monter que le taux l'avancement final $\tau$ de la réaction est $\tau = \frac{\sigma}{\left(\lambda_{1} + \lambda_{2}\right) \times C}$. Calculer sa valeur. Et conclure.
+
+5. Trouver l'expression de la constante d'équilibre $K$ associée à la réaction d'acide méthanoïque et l'eau en fonction de $C$ et $\tau$. Calculer sa valeur.
+
+On réalise la même étude en utilisant une solution d'acide méthanoïque (S') de concentration $C '$ tel que : $C ' < C$
+
+6. Donner la nouvelle valeur de la constante d'équilibre $K '$ (une justification est demandée)
+
+7. Choisir la valeur du $\tau '$ de la solution (S') parmi les valeurs suivantes : 31,5% , 19,78% , 5,8%.
+
+On réalise une autre étude en utilisant une solution (S'') d'acide benzénique de concentration $C ' '$ tel que $C ' ' = C = 5 \times 10^{- 3} m o l / L$.
+
+Soit $\tau ' '$ le taux d'avancement final de la réaction d'acide benzénique avec l'eau.
+
+8. Comparer $\tau ' '$ avec $\tau$ (la valeur trouvée en question 4), justifier votre réponse.
+
+La constante d'équilibre associée à la réaction d'acide benzénique avec l'eau est : $K ' ' = 6 , 4 \times 10^{- 5}$
+
+Données à 25°C :
+
+$\lambda_{2} = \lambda_{H_{3} O^{+}} = 35 \times 10^{- 3} S . m^{2} . m o l^{- 1} \\ \lambda_{1} = \lambda_{H C O O^{-}} = 5 , 46 \times 10^{- 3} S . m^{2} . m o l^{- 1}$

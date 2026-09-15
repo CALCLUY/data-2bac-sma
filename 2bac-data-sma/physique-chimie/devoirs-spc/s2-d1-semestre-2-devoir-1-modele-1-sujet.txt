@@ -1,0 +1,206 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Devoirs SPC
+Sujet: PC 2Bac SM-SPC - Semestre 2 Devoir 1 Modèle 1
+Type: Sujet
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac SM-SPC
+Semestre 2 Devoir 1 Modèle 1
+Professeur : Mr El GOUFIFA Jihad
+
+## Exercice 1 (6pts)
+
+Les deux parties sont indépendantes
+
+### Partie 1 : Étude des oscillations libres dans un circuit $R L C$ en série
+
+Une bobine d'inductance $L = 0 , 2 H$ et de résistance $r = 100 \Omega$ est montée avec un condensateur de capacité $C$ et un générateur $G$ qui délivre une tension $u_{G} = k . i \left(k = 10 S I\right)$ qui permet d'entretenir les oscillations :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s2d1m1/img1.bmp)
+
+À l'aide d'un système d'acquisition, on obtient le graphe de la figure suivante qui représente la tension $u_{C}$ aux bornes du condensateur :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s2d1m1/img2.bmp)
+
+1. Quel est le rôle du générateur $G$ ?
+
+2. Quel est le régime des oscillations représenté sur la figure ci-dessus ?
+
+3. Quelle est la forme d'énergie stocké dans le circuit à $t = 15 m s$ ? Justifier.
+
+4. Établir l'équation différentielle vérifiée par la tension $u_{C}$.
+
+La solution de l'équation différentielle s'écrit sou la forme $u_{C} \left(t\right) = E . cos \left(\frac{2 \pi}{T_{0}} t\right)$.
+
+5. Trouver l'expression de la période propre $T_{0}$ en fonction de $L$ et $C$.
+
+6. Déterminer graphiquement la période propre $T_{0}$.
+
+7. Calculer la valeur de la capacité $C$.
+
+8. Montrer qu'à l'instant $t = \frac{T_{0}}{4}$, l'énergie totale est $E_{T} = \frac{1}{2} C E^{2}$ puis calculer sa valeur.
+
+### Partie 2 : L'étude énergétique du circuit $R L C$
+
+Pour connaître l'effet de la résistance $r$ d'une bobine $\left(\right. b \left.\right)$ sur l'énergie totale du circuit $R L C$, un élève a monté à $t = 0$ un condensateur de capacité $C = 2 , 5 µ F$ initialement chargé avec la bobine.
+
+Par un dispositif adéquat on visualise les variations des énergies $E_{e}$ et $E_{m}$ en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s2d1m1/img3.bmp)
+
+1. Indiquer le régime des oscillations.
+
+On suppose $T = T_{0}$.
+
+2. Déterminer la valeur de $L$.
+
+3. Déterminer l'équation différentielle vérifiée par la charge $q$.
+
+L'énergie totale est $E_{T} = E_{e} + E_{m}$.
+
+4. Exprimer l'énergie $E_{T}$ en fonction de $C$, $L$, $q$ et $d q / d t$.
+
+5. Montrer que l'énergie totale diminue au cours du temps selon la relation $d E = - r i^{2} d t$. Expliquer cette diminution.
+
+6. Calculer l'énergie dissipée entre les instants $t = 2 m s$ et $t = 3 m s$.
+
+## Exercice 2 (4 pts)
+
+Les ondes sonores audibles ont une faible fréquence, leur transmission à de longues distances nécessite qu'elles soient modulées à une onde électromagnétique de haute fréquence.
+
+### Partie 1 : Modulation
+
+On considère le montage suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s2d1m1/img4.bmp)
+
+Un générateur $G B F_{1}$ applique à l'entrée $E_{1}$ de la composante électronique $X$ une tension sinusoïdale $u_{1} \left(\right. t \left.\right) = P_{m} . cos \left(\right. 2 \pi F_{P} . t \left.\right)$, et un générateur $G B F_{2}$ applique à l'entrée $E_{2}$ de la composante électronique $X$ une tension sinusoïdale $u_{2} \left(\right. t \left.\right) = U_{0} + s \left(\right. t \left.\right)$, avec $U_{0}$ la composante continue de la tension et $s \left(\right. t \left.\right) = S_{m} . cos \left(\right. 2 \pi f_{S} . t \left.\right)$ la tension correspondante à l'onde qu'on désire transmettre.
+
+On visualise sur l'écran d'un oscilloscope la tension de sortie $u_{S} \left(\right. t \left.\right) = k . u_{1} \left(\right. t \left.\right) . u_{2} \left(\right. t \left.\right)$, avec $k$ une constante positive caractérisant la composante $X$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s2d1m1/img5.bmp)
+
+1. Nommer les composantes $X$ et $Y$.
+
+2. Montrer que l'expression de la tension $u_{S} \left(\right. t \left.\right)$ s'écrit sous la forme $u_{S} \left(\right. t \left.\right) = A \left[1 + m . cos \left(2 πf_{S} t\right) . cos \left(2 \pi F_{P} t\right)\right]$, et préciser l'expression de $A$ et celle de $m$.
+
+3. Relever les valeurs de $T_{P}$, $F_{P}$, $T_{S}$, $F_{S}$, $U_{S_{m a x}}$ et $U_{S_{m i n}}$.
+
+4. Calculer le taux de modulation. Que peut-on dire de la qualité de la modulation ? Justifier.
+
+### Partie 2 : Démodulation
+
+La figure suivante représente le montage utilisé dans un dispositif de réception constitué de trois étages (On donne $L = 1 , 5 m H$) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s2d1m1/img6.bmp)
+
+1. Préciser le rôle de l'étage $1$ et $3$ dans ce montage.
+
+2. Déterminer la valeur du condensateur $C$ pour sélectionner l'onde $u_{S} \left(\right. t \left.\right)$.
+
+3. Montrer que l'intervalle auquel doit appartenir la valeur de la résistance $R$ pour une bonne détection de l'enveloppe de la tension modulante dans ce montage est
+$4 \pi^{2} . \frac{L}{T_{P}} < < R < 4 \pi^{2} . \frac{L . T_{S}}{\left(\left(\right. T_{P} \left.\right)\right)^{2}}$.
+
+4. Calculer les bornes de cet intervalle.
+
+## Exercice 3 (4 pts)
+
+On étudie le mouvement d'une bille en acier dans un fluide visqueux contenu dans une éprouvette graduée.
+
+On libère la bille sans vitesse initiale à un instant $t = 0$, et au même instant commence la saisie des images par une webcam reliée à un ordinateur.
+
+La position instantanée du centre d'inertie $G$ est repérée sur un axe vertical $O x$ orienté vers le bas et de vecteur unitaire $\overset{\rightarrow}{i}$.
+
+À $t = 0$, le centre d'inertie $G$ est au point $G_{0}$ d'abscisse $x = 0$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s2d1m1/img8.jpg)
+
+On représente à chaque instant le vecteur vitesse du centre d'inertie de la bille par $\overset{\rightarrow}{v} = v \overset{\rightarrow}{i}$.
+
+La courbe de la figure suivante représente l'évolution de $v$ au cours du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s2d1m1/img9.jpg)
+
+On représente par $V$ et $m$ respectivement le volume et la masse de la bille, et par $\rho_{a}$ et $\rho_{s}$ respectivement la masse volumique de la bille et celle du liquide visqueux, et par $g$ l'intensité de pesanteur.
+
+Au cours de sa chute, la bille est soumise à :
+
+La force de frottement fluide : $\overset{\rightarrow}{f} = - h . v . \overset{\rightarrow}{i}$ ($h$ est le coefficient de frottement visqueux).
+
+La poussée d'Archimède : $\overset{\rightarrow}{F} = - \rho_{s} . V . \overset{\rightarrow}{g}$
+
+Son poids : $m . \overset{\rightarrow}{g} = \rho_{a} . V . \overset{\rightarrow}{g}$
+
+1. À l'aide de la courbe, montrer l'existence d'une vitesse limite et déterminer sa valeur expérimentale.
+
+2. Représenter, sur un schéma sans échelle, les vecteurs forces appliqués sur la bille en mouvement dans le fluide.
+
+3. Établir l'équation différentielle vérifiée par la vitesse $v \left(\right. t \left.\right)$, et montrer qu'elle s'écrit sous la forme $\frac{d v}{d t} = - \frac{h}{m} . v + \alpha . g$, en précisant l'expression de $\alpha$.
+
+4. Vérifier que la fonction $v \left(t\right) = \alpha . g . \frac{m}{h} \left(1 - e^{- \frac{h}{m} t}\right)$ est solution de cette équation différentielle.
+
+5. Montrer, à partir de l'équation différentielle ou à partir de sa solution, l'existence d'une vitesse limite et calculer sa valeur, et la comparer avec la valeur trouvée expérimentalement.
+
+On donne :
+
+$m = 5 , 0 g \\ g = 9 , 8 m . s^{- 2} \\ h = 7 , 60 . 10^{- 2} k g . s^{- 1} \\ \alpha = 0 , 92$
+
+6. Déterminer à l'aide de l'analyse dimensionnelle l'unité de $\frac{m}{h}$ et déterminer sa valeur à partir de l'enregistrement.
+
+## Exercice 4 (6 pts)
+
+### Partie 1
+
+On réalise une pile Nickel-Zinc à partir des couples $\left(N i_{\left(a q\right)}^{2 +}\right)/\left(N i_{\left(s\right)}\right)$ et $\left(Z n_{\left(a q\right)}^{2 +}\right)/\left(Z n_{\left(s\right)}\right)$ en plongeant une électrode du Nickel dans un volume $V = 150 m L$ du Sulfate de Nickel $\left(N i_{\left(a q\right)}^{2 +} + S O_{4 \left(a q\right)}^{2 -}\right)$ de concentration initiale $\left[N i_{\left(a q\right)}^{2 +}\right]_{i} = 10^{- 2} m o l . L^{- 1}$ et une électrode de Zinc dans un volume $V = 150 m L$ d'une solution de Sulfate de Zinc de concentration initiale $\left[Z n_{\left(a q\right)}^{2 +}\right]_{i} = 10^{- 2} m o l . L^{- 1}$.
+
+On relie les solutions des deux demi-piles par un pont ionique.
+
+$N i_{\left(a q\right)}^{2 +}$ est le réactif limitant.
+
+Données :
+
+- Les masses molaires : $M \left(N i\right) = 58 , 69 g / m o l ; M \left(Z n\right) = 65 , 38 g / m o l$
+- La constante d'équilibre associée à l'équation de la réaction $\left(N i_{\left(a q\right)}^{2 +}\right)/\left(N i_{\left(s\right)}\right) \\ \\ N i_{\left(a q\right)}^{2 +} + Z n_{\left(s\right)} \rightleftarrows Z n_{\left(a q\right)}^{2 +} + N i_{\left(s\right)}$ est $K_{e} = 10^{18}$.
+- Constante de Faraday : $1 F = 9 , 65 . 10^{4} C . m o l^{- 1}$
+
+1. Déterminer, en calculant la valeur du quotient réactionnel initial $Q_{r , i}$, le sens d'évolution spontanée du système.
+
+2. Indiquer la polarité de cette pile et son schéma conventionnel.
+
+Pour une durée de fonctionnement $\Delta t$, la variation de masse de l'électrode du Nickel est $\Delta m \left(\right. N i \left.\right) = 100 m g$.
+
+3. Déterminer la variation de masse de l'électrode de Zinc.
+
+Un courant électrique passe dans le circuit d'intensité $I = 0 , 1 A$ lors du fonctionnement de la pile.
+
+4) Trouver l'expression $\Delta t_{m a x}$ la durée maximale du fonctionnement de la pile en fonction de $\left[Z n_{\left(a q\right)}^{2 +}\right]_{i}$, $V$, $F$ et $I$. Calculer $\Delta t_{m a x}$.
+
+### Partie 2
+
+La pile à combustible est formée de deux parties séparées par un électrolyte qui joue le rôle du pont salin et deux électrodes $A$ et $B$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-spc-s2d1m1/img7.bmp)
+
+La pile au cours de son fonctionnement consomme le dioxygène et du méthanol liquide.
+
+Données :
+
+- Constante de Faraday : $1 F = 9 , 65 . 10^{4} C . m o l^{- 1}$
+- Masse volumique du méthanol liquide : $\rho = 0 , 79 g . c m^{- 3}$
+- Msse molaire du méthanol : $M \left(\right. C H_{3} O H \left.\right) = 32 g . m o l^{- 1}$
+
+Les deux couples (ox/red) qui interviennent dans cette transformation sont : $O_{2 \left(\right. g \left.\right)} / H_{2} O_{\left(\right. ℓ \left.\right)}$ et $C O_{2 \left(\right. g \left.\right)} / C H_{3} O H_{\left(\right. ℓ \left.\right)}$.
+
+Pendant le fonctionnement de la pile, il se produit près de l'une des électrodes une transformation modélisée par l'équation chimique suivante : $C H_{3} O H + H_{2} O \rightarrow C O_{2} + a . H^{+} + b . e^{-}$.
+
+1. Déterminer les coefficients $a$ et $b$.
+
+2. Indiquer parmi les électrode $A$ et $B$ l'électrode près de laquelle se produit cette réaction.
+
+3. Écrire l'équation modélisant la transformation qui se produit près de l'autre électrode, et donner les noms des électrodes $A$ et $B$.
+
+La pile fournit au circuit extérieur un courant électrique d'intensité $I = 45 m A$ pendant une durée $\Delta t = 1 h 45 m i n$ de fonctionnement.
+
+4. Trouver le volume $V$ de méthanol consommé pendant $\Delta t$.

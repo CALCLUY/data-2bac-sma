@@ -1,0 +1,147 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Devoirs SM
+Sujet: PC 2Bac SM - Semestre 1 Devoir 3 Modèle 1
+Type: Sujet
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac SM
+Semestre 1 Devoir 3 Modèle 1
+Professeur : Mr El GOUFIFA Jihad
+
+## Exercice 1 (4 pts)
+
+On charge complètement un condensateur de capacité $C = 5 µ F$ avec une tension $E$, puis on le branche à une bobine d'inductance $L$ et de résistance interne négligeable.
+
+La courbe de la figure suivante représente les variations du courant $i \left(\right. t \left.\right)$ en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d3m1/img1.jpg)
+
+1. Établir l'équation différentielle vérifiée par le courant $i \left(\right. t \left.\right)$.
+
+La solution de cette équation différentielle s'écrit sous la forme : $i \left(\right. t \left.\right) = I_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right)$
+
+2. Déterminer les valeurs de $I_{m}$ et $T_{0}$.
+
+3. En déduire la valeur de $L$.
+
+4. En se basant sur les conditions initiales, déterminer la valeur de $\varphi$, puis trouver l'expression de $E$ en fonction de $I_{m}$, $C$ et $L$. Calculer sa valeur.
+
+5. En déduire l'expression de la tension $u_{C} \left(\right. t \left.\right)$ aux bornes du condensateur.
+
+6. Montrer que l'énergie totale emmagasinée dans le circuit s'écrit sous la forme : $\mathcal{E}_{T} \left(t\right) = \frac{1}{2} L \left(I_{m}\right)^{2} = \frac{1}{2} C E^{2}$
+
+7. Montrer que l'énergie du condensateur et celle de la bobine sont égales, aux instants $t$, tel que $t = \frac{T_{0}}{8} \left(2 k + 1\right)$
+
+## Exercice 2 (4 pts)
+
+On considère une bobine de résistance $r = 10 \Omega$ et d'inductance $L$ alimentée par un générateur GBF.
+
+Dans ce cas la bobine se comporte comme un interrupteur ouvert avant l'établissement du courant et comme une résistance en régime permanent de l'établissement du courant.
+
+1. Expliquer une démarche permettant de retrouver la valeur de la résistance de la bobine à l'aide d'un montage précis.
+
+La bobine, associée à une résistance $R = 30 \Omega$, est alimentée par un générateur délivrant une tension constante de $4 V$.
+
+A $t = 0$, on ferme l'interrupteur $K_{1}$. Un oscilloscope numérique permet de mémoriser la tension $u_{A M}$ à partir de $t = 0$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d3m1/img5.bmp)
+
+2. Déterminer, en s'aidant de la courbe de $u_{A M} \left(t\right)$, la valeur de l'intensité à $t = 200 m s$.
+
+3. Quelle est alors la tension aux bornes de la bobine ?
+
+4. Quel élément du circuit est à l'origine du retard à l'établissement du courant ?
+
+5. À partir de l'enregistrement, déterminer la constante de temps $\tau$ du circuit.
+
+6. En déduire la valeur de l'inductance $L$ de la bobine.
+
+À $t = 250 m s$, on ferme l'interrupteur $K_{2}$ (Le générateur est construit pour supporter sans dommage une mise en court-circuit).
+
+7. Compléter alors, le plus précisément possible l'enregistrement, pour $250 m s < t < 500 m s$.
+
+## Exercice 3 (7 pts)
+
+On étudie la résonance d'intensité d'un dipôle comprenant un résistor de résistance $R$ variable, une bobine d'inductance $L$ et de résistance $r$, un condensateur de capacité $C = 1 \mu F$ et un ampèremètre de résistance négligeable.
+
+Ce circuit est alimenté par un générateur qui délivre une tension sinusoïdale de fréquence $N$ variable et de valeur efficace constante $U = 4 , 5 V$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d3m1/img2.bmp)
+
+La valeur de la résistance $R$ est ajustée de façon qu'elle prenne successivement les valeurs $R_{1} = 20 \Omega$ et $R_{2} = 110 \Omega$.
+
+On fait varier la fréquence de la tension délivrée par le générateur, et pour chaque valeur de $N$ on relève l'intensité efficace $I$ du courant circulant dans le circuit, puis on trace la courbe $I = f \left(\right. N \left.\right)$ pour les deux valeurs de $R$ choisies.
+
+On obtient le graphique suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d3m1/img3.bmp)
+
+1. À quelle résistance, $R_{1}$ ou $R_{2}$ correspond la courbe 1 ? Justifier la réponse.
+
+2. Déduire de la courbe 1 la fréquence de résonance du circuit.
+
+3. Que peut-on dire de l'influence de la valeur de la résistance du circuit sur la fréquence de résonance ?
+
+4. Déterminer l'inductance $L$ et la résistance $r$ de la bobine.
+
+On admet que $Q = \frac{L . \omega_{0}}{R_{T}}$ où $\omega_{0}$ est la pulsation propre et $R_{T}$ est la résistance du circuit.
+
+5. En déduire que $Q = \frac{1}{R_{T}} \sqrt{\frac{L}{C}}$.
+
+6. Calculer la valeur de $Q$.
+
+On s'intéresse maintenant au phénomène de résonance d'intensité étudié : l'oscilloscope pour un circuit $R L C$ analogue à celui représenté par le figure 1, tels que : $C_{1} = 10 \mu F$, $R_{1} = 200 \Omega$, et $L_{1}$ et $r_{1}$ sont inconnues.
+
+On modifie la fréquence $N$ de la tension délivrée par le générateur de manière à chercher la résonance d'intensité.
+
+Au cours de cette recherche, on observe pour une fréquence $N_{1}$ du générateur les courbes suivantes :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d3m1/img4.bmp)
+
+7. Déterminer la valeur numérique de la fréquence $N_{1}$.
+
+8. Déterminer le déphasage $\varphi$ de $u \left(\right. t \left.\right)$ par rapport à $u_{R_{1}} \left(\right. t \left.\right)$.
+
+9. Déterminer les valeurs maximales $U_{m}$ de $u \left(\right. t \left.\right)$ et $u_{R_{m}}$ de $u_{R} \left(\right. t \left.\right)$.
+
+10. En déduire la valeur de l'impédance $Z$ du circuit.
+
+11. Lorsque la résonance est atteinte, quelle particularité présente les deux courbes ?
+
+12. Pourquoi appelle-t-on parfois également $Q$ facteur de surtension ?
+
+## Exercice 4 (5 pts)
+
+Les amines sont des composés organiques qui se caractérisent par des solutions aqueuses basiques.
+
+On s'intéresse à l'étude d'une solution aqueuse d'une amine $A$ de formule $C_{2} H_{5} N H_{2}$.
+
+On prépare une solution $S_{0}$ de cette amine de concentration $C_{0} = 2 . 10^{- 2} m o l . L^{- 1}$ et de $p H_{0} = 11 , 55$ à $25 \circ C$.
+
+1. Écrire l'équation de réaction de l'amine $A$ avec l'eau, et dresser le tableau d'avancement pour un volume $V$.
+
+2. Calculer le taux d'avancement final de la réaction. Conclure.
+
+3. Calculer la valeur de $p K_{A}$ du couple acide/base de l'amine $A$.
+
+On dilue la solution $S_{0}$, pour obtenir une solution $S_{1}$ de concentration $C_{1} = 10^{- 2} m o l . L^{- 1}$.
+
+4. En négligeant la dissolution de la base avec l'eau, montrer que le $p H$ de la solution $S_{1}$ peut s'écrire sous la forme $p H_{1} = 7 + \frac{1}{2} \left(p K_{A} + log \left(C_{1}\right)\right)$. Calculer $p H_{1}$.
+
+On prend $V_{1} = 10 m L$ de la solution $S_{1}$, et on procède au dosage avec une solution aqueuse d'acide chlorhydrique $\left(H_{3} O_{\left(a q\right)}^{+} + C l_{\left(a q\right)}^{-}\right)$ de concentration $C_{2} = 10^{- 2} m o l . L^{- 1}$.
+
+L'évolution de la valeur de $p H$ du mélange au cours du dosage est représentée par la courbe suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d3m1/img6.jpg)
+
+5. Écrire l'équation de réaction du dosage, et calculer sa constante d'équilibre.
+
+6. Que peut-on dire de la nature de cette réaction ?
+
+7. Déterminer les coordonnées du point d'équivalence, puis vérifier la valeur de la concentration $C_{1}$.
+
+8. Calculer les concentrations de l'amine $A$ et de son acide conjugué lorsqu'on a versé un volume $V_{2} = 16 m l$ de la solution titrante. En déduire le pourcentage de chacun.
+
+Toutes les solutions sont prises à $25 \circ C$, et $K_{e} = 10^{- 14}$.

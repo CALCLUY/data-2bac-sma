@@ -1,0 +1,119 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Devoirs SM
+Sujet: PC 2Bac SM - Semestre 1 Devoir 1 Modèle 1
+Type: Sujet
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac SM
+Semestre 1 Devoir 1 Modèle 1
+Professeur : Mr El GOUFIFA Jihad
+
+## Exercice 1 (6 pts)
+
+Un vibreur provoque à l'extrémité S d'une corde élastique un mouvement vibratoire sinusoïdal d'équation : $y_{s} \left(t\right) = a . cos \left(2 πNt + \varphi\right)$ où $a$, $N$ et $\varphi$ désignent respectivement l'amplitude, la fréquence et la phase à l'origine de S.
+
+La source S débute son mouvement à l'instant de date $t_{0} = 0 s$.
+
+On néglige toute atténuation de l'amplitude et toute réflexion de l'onde issue de S.
+
+1. L'expression soulignée dans l'énoncé peut être remplacée par un seul mot. Lequel ?
+
+2. L'onde se propageant le long de la corde est-elle transversale ou longitudinale ? Justifier.
+
+A l'instant $t_{1} = 2 . 10^{- 2} s$, le point $M_{1}$ de la corde d'abscisse $x_{1} = 10 c m$ entre en vibration.
+
+3. Déterminer la célérité de l'onde se propageant le long de la corde.
+
+La courbe représentant l'aspect de la corde à un instant $t_{2}$ est donnée comme suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d1m1/img1.jpg)
+
+4. En exploitant cette courbe, déterminer en unités internationales les valeurs de l'amplitude a, la longueur d'onde $\lambda$ et l'instant $t_{2}$.
+
+5. Déterminer la valeur de la fréquence $N$.
+
+6. Montrer que la phase initiale $\varphi$ de S est égale à $\frac{\pi}{2} r a d$.
+
+7. Représenter, sur la figure 3 le diagramme du mouvement du point $M_{1}$ à la date $t_{2}$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d1m1/img2.jpg)
+
+On éclaire la corde par un stroboscope de fréquence $N_{s}$ variable.
+
+8. Qu'observe-t-on lorsque cette fréquence prend successivement les valeurs suivantes : $40 H z$, $50 H z$, $95 H z$ et $125 H z$ ?
+
+## Exercice 2 (3 pts)
+
+On réalise une expérience de diffraction en utilisant une lumière monochromatique de longueur d'onde $\lambda_{0}$ dans l'air.
+
+On place à quelques centimètres de la source lumineuse une plaque opaque dans laquelle se trouve une fente horizontale de largeur $a = 0 , 6 m m$ (figure 1) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d1m1/img3.bmp)
+
+On observe sur un écran vertical placé à la distance $D$ de la fente des taches lumineuses.
+
+La largeur de la tache centrale est $L$.
+
+Une étude expérimentale nous a permis de tracer la courbe représentant la variation de la largeur $L$ de la tache centrale en fonction de la distance $D$ (figure 2) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d1m1/img4.jpg)
+
+1. La figure de diffraction observée sur l'écran est suivant quel axe ?
+
+2. Trouver l'expression de $\lambda_{0}$ en fonction de L, D et a. on donne $tan \left(\theta\right) \approx \theta = \frac{\lambda_{0}}{a}$.
+
+3. Déterminer à partir de la courbe de la figure 2 la longueur d'onde $\lambda_{0}$.
+
+## Exercice 3 (4 pts)
+
+Un rayon de lumière blanche arrive orthogonalement sur une face du prisme en verre, comme l'indique le schéma (figure 3) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d1m1/img5.bmp)
+
+Tous les rayons lumineux arrivent sur la deuxième face du prisme avec le même angle d'incidence 30°.
+
+On donne : $n_{r o u g e} = 1 , 62 ; \nu_{b l e u} = 6 , 7 . 10^{14} H z ; c = 3 . 10^{8} m . s^{- 1}$
+
+1. Déterminer $i '_{R}$ l'angle de réfraction du rayon rouge sur la deuxième face du prisme.
+
+On place à la distance $x = I ' B = 10 c m$ un écran perpendiculaire sur le rayon bleu émergé du prisme :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : sm-s1d1m1/img6.bmp)
+
+2. Déterminer $i '_{B}$ l'angle de réfraction du rayon bleu sur la deuxième face du prisme, sachant que la distance entre les deux taches bleu et rouge sur l'écran est y=0,26cm.
+
+3. En déduire $n_{b l e u}$ l'indice de réfraction du prisme pour le rayon bleu.
+
+4. Déterminer la longueur d'onde $\lambda_{B}$ du rayon bleu dans le prisme.
+
+## Exercice 4 (7 pts)
+
+À l'instant $t = 0$, on introduit une masse $m = 0 , 40 g$ d'aluminium en grenaille dans un ballon de volume $V_{b}$, contenant un volume $V_{s} = 60 , 0 m L$ d'une solution d'acide chlorhydrique de concentration $C = 0 , 09 m o l / L$.
+
+L'équation chimique modélisant la transformation ayant lieu est :
+
+$\overline{\left.\right) 2 A l_{\left(\right. s \left.\right)} + 6 H_{3} \left(O^{+}\right)_{\left(\right. a q \left.\right)} \rightarrow 2 A \left(l^{3 +}\right)_{\left(\right. a q \left.\right)} + 3 H_{2_{\left(\right. g \left.\right)}} + 6 H_{2} O_{\left(\right. l \left.\right)} }$
+
+On néglige la variation de la température et on considère que les gaz sont parfaits.
+
+On donne : $P_{0} = 1012 h P a ; P_{f} = 1084 h P a ; M \left(A l\right) = 27 g . m o l^{- 1}$
+
+1. Cette réaction est-elle acido-basique ou d'oxydoréduction ? Justifier en précisant les couples intervenant.
+
+2. Proposer une technique convenable, autre que la pressiométrie, qui permettrait le suivi temporel de l'évolution du système chimique étudié.
+
+3. Dresser le tableau d'avancement de la réaction puis calculer l'avancement maximal.
+
+4. Déterminer l'expression de $x \left(\right. t \left.\right)$ l'avancement à la date $t$, en fonction de $P_{0}$ la pression initiale, la pression à la date $t$ $P \left(t\right)$, la pression finale $P_{f}$ et l'avancement maximal $x_{m a x}$.
+
+5. Calculer sa valeur à la date $t = 3 m i n$.
+
+6. Que représente cette date ? Justifier par une définition.
+
+7. Exprimer la vitesse volumique de la réaction en fonction de la dérivée $\frac{d P}{d t}$ et d'autres grandeurs.
+
+8. Calculer sa valeur à la date $t = 8 m i n$.
+
+9. Est-il possible de suivre l'évolution de ce système chimique par titrage des ions oxonium avec une solution d'hydroxyde de sodium ? On rappelle que la réaction acido-basique qui aurait lieu est totale et rapide.
