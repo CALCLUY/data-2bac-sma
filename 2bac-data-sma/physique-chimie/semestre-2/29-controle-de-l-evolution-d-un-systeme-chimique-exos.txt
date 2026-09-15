@@ -1,0 +1,98 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Contrôle de l'évolution d'un système chimique
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 29 (Contrôle de l'évolution d'un système chimique)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+1. Écrire l'équation de la réaction de synthèse du butanoate de méthyle avec un acide carboxylique puis avec un anhydride d'acide.
+
+2. Quelles sont les différences entre les deux transformations ?
+
+On mélange $20 , 0 m L$ de méthanol avec $30 , 0 g$ d'acide butanoïque et on obtient $20 , 4 g$ d'ester.
+
+3. Calculer le rendement de la transformation.
+
+4. Par quelle masse d'anhydride butanoïque faut-il remplacer l'acide butanoïque pour avoir la même quantité de matière ?
+
+On obtient $33 g$ d'ester par la transformation avec l'anhydride butanoïque.
+
+5. Calculer le rendement et conclure.
+
+Donnée :
+
+- Masse volumique du méthanol, $\rho_{a l c o o l } = 0 , 80 g . c m^{- 3}$
+
+### 5-2/ Exercice 2
+
+On utilise de l'huile de palme pour fabriquer certains savons.
+
+Cette huile contient principalement de la palmitine de formule :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img13.bmp)
+
+1. Écrire l'équation de saponification de la palmitine et donner les caractéristiques intéressantes de cette réaction.
+
+2. Comment le savon solide est-il obtenu ?
+
+On introduit $80 , 6 g$ de palmitine et de la soude en excès.
+
+Après divers traitement dont la purification, on obtient une masse sèche de savon de $69 , 5 g$.
+
+3. Calculer le rendement de la transformation. Commenter.
+
+### 5-3/ Exercice 3
+
+La butyrine est un corps gras présent dans le beurre, c'est un triglycéride provenant de la réaction entre le glycérol et l'acide butanoïque (ou butyrique).
+
+1. Donner la formule semi-développée de la butyrine.
+
+2. Calculer sa masse molaire.
+
+On réalise un montage à reflux en plaçant dans un ballon une masse $m = 10 g$ de butyrine en présence d'un excès d'hydroxyde de sodium.
+
+3. Écrire l'équation de la réaction, comment se nomme(nt) le(s) produit(s) obtenu(s) ?
+
+Après refroidissement, on verse le mélange réactionnel dans une solution saturée de chlorure de sodium.
+
+On recueille après séchage un solide pâteux de masse $m = 8 , 3 g$.
+
+4. Quel est l'intérêt d'utiliser une solution saturée de chlorure de sodium ?
+
+5. Comment se nomme cette opération ?
+
+6. Déterminer le rendement de la réaction.
+
+Données :
+
+- Les masses molaires atomiques en g/mol : $M \left(\right. H \left.\right) = 1 ; M \left(\right. C \left.\right) = 12 ; M \left(\right. O \left.\right) = 16 ; M \left(\right. N a \left.\right) = 23$
+- Glycérol : propan-1,2,3-triol.
+
+### 5-4/ Exercice 4
+
+On a préparé à partir d'un alcool et d'un acide à chaîne carbonée saturée, un ester $E$ de masse molaire $88 g / m o l$.
+
+1. Quelle est sa formule brute ? En déduire toutes les formules semi-développées possibles.
+
+Pour identifier cet ester, on en saponifie $4 , 40 g$. On obtient après acidification de la solution deux composés A et B.
+
+Par distillation du mélange ainsi obtenu, on récupère une masse $m \left(\right. B \left.\right) = 2 , 98 g$.
+
+B peut facilement être oxydé en cétone par une solution acide de permanganate de potassium.
+
+2. Quelle est la nature chimique de B ?
+
+3. En admettant que toutes les étapes de la synthèse ont un rendement de 100%, quelle quantité de B obtient-on ?
+
+4. En déduire sa masse molaire, sa formule brute et sa formule semi-développée.
+
+5. Identifier alors l'ester E et écrire l'équation de sa saponification.

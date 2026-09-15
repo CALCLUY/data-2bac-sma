@@ -1,0 +1,133 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Contrôle de l'évolution d'un système chimique
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 29 (Contrôle de l'évolution d'un système chimique)
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Introduction
+
+L'estérification et l'hydrolyse sont limitées et lentes même si on peut les accélérer par un excès de réactif, par un catalyseur et en augmentant la température.
+
+Pour améliorer le rendement, on a cherché à rendre la réaction inverse impossible en remplaçant un réactif.
+
+Pour l'estérification, on remplace l'acide carboxylique par un anhydride d'acide de façon à ne pas obtenir d'eau, ainsi l'hydrolyse de cet ester ne peut pas avoir lieu.
+
+De même, pour l'hydrolyse d'un ester, on remplace l'eau par l'ion hydroxyde $O H^{-}$ pour ne pas obtenir un acide carboxylique mais sa base conjuguée (l'ion carboxylate) qui ne réagit pas avec l'alcool formé.
+
+## II- Synthèse d'un ester à partir d'un anhydride d'acide
+
+### 2-1/ Anhydride d'acide
+
+Les anhydrides d'acide constituent une famille organique, de formule générale :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img1.jpg)
+
+$R$ et $R '$ sont des chaînes carbonées.
+
+Ils sont obtenus par élimination d'une molécule d'eau des acides carboxyliques correspondants $R - C O O H$ et $R ' - C O O H$.
+
+On appelle cette réaction déshydratation :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img2.jpg)
+
+### 2-2/ La synthèse d'ester (Estérification rapide)
+
+La synthèse des esters à partir des acides carboxyliques est une réaction lente et limitée, elle devient plus rapide et totale lorsque l'acide carboxylique est remplacé par son anhydride :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img3.jpg)
+
+Cette réaction est rapide et totale (On l'appelle estérification rapide avec l'anhydride de l'acide carboxylique).
+
+Elle peut être accélérée par un chauffage ou par l'utilisation d'un catalyseur.
+
+La transformation se déroule même en absence d'eau, on n'a pas d'estérification des esters, et par suite le rendement est plus élevé.
+
+#### Exemple (Synthèse de l'aspirine)
+
+L'aspirine (ou acide acétylsalicylique) est un ester synthétisé à partir de l'acide salicylique et de l'anhydride éthanoïque :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img4.jpg)
+
+### 2-3/ Estérification basique d'un ester
+
+L'estérification basique d'un ester est une transformation lente et totale (mais rapide par rapport à celle d'eau) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img5.jpg)
+
+## III- Réaction de saponification
+
+### 3-1/ Définition
+
+La saponification est une réaction chimique transformant un ester en ion carboxylate en alcool :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img6.jpg)
+
+Il s'agit en fait de l'hydrolyse d'un ester en milieu basique (présence de $O H^{-}$).
+
+Cette réaction permet la synthèse du savon.
+
+### 3-2/ Application : Saponification des acides gras
+
+La saponification des corps gras (huiles, graisses...), a une grande importance dans le secteur industriel car il nous permet d'obtenir des esters naturels, les alcools correspondants à la fabrication du savon.
+
+Les acides gras sont des acides carboxyliques $R C O O H$ ayant des chaînes carbonées longues (Exemple : $C_{17} H_{35} C O O H$).
+
+#### Préparation d'un savon à partir d'huile alimentaire et de soude
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img9.jpg)
+
+### 3-3/ Propriétés du savon
+
+Le savon est un mélange d'ions carboxylates $R C O O^{-}$ et d'ions sodium $N a^{+}$ (ou de potassium $K^{+}$) dont les radicaux $- R$ sont dérivés d'acides gras à longues chaînes carbonées (plus de 10 atomes de carbone).
+
+L'ion carboxylate $R C O O^{-}$ constituant le savon est une base qui appartient au couple acide/base RCOOH/RCOO- , il est constitué de deux parties :
+
+- Une tête soluble dans l'eau $- C O O^{-}$ appelée la partie hydrophile.
+- Une longue chaîne carbonée (la queue), insoluble dans l'eau appelée la partie hydrophobe.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img10.jpg)
+
+Les parties hydrophobes sont solubles dans les huiles et les graisses constituant la saleté du linge.
+
+Ainsi les particules savonneuses peuvent s'enfoncer dans les tâches organiques et les retirer du tissu.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img11.jpg)
+
+## IV- Influence d'un catalyseur sur l'évolution d'un système chimique
+
+### 4-1/ Définition
+
+Un catalyseur est une substance qui accélère une réaction chimique sans la modifier.
+
+En général, il est régénéré à la fin de la réaction et il n'apparaît pas dans l'équation chimique.
+
+On indique parfois le catalyseur au dessus de la flèche dans l'équation.
+
+Un catalyseur a un rôle purement cinétique : il ne peut modifier ni le sens d'évolution d'un système, ni son état d'équilibre.
+
+Tout catalyseur d'une réaction dans le sens direct est un catalyseur de cette réaction dans le sens inverse.
+
+Ainsi, les ions hydrogène $H^{+}$ catalysent :
+
+- la réaction d'estérification, mais aussi celle d'hydrolyse des esters.
+- l'hydratation des alcènes comme la déshydratation des alcools :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s29/img12.jpg)
+
+### 4-2/ Catalyses homogène, hétérogène et enzymatique
+
+Lorsque le catalyseur appartient à la même phase que les réactifs, la catalyse est dite homogène.
+
+Lorsque le catalyseur n'appartient pas à la même phase que les réactifs, la catalyse est dite hétérogène.
+
+Lorsque le catalyseur est une enzyme, la catalyse est enzymatique.
+
+#### Exemple
+
+La catalyse de l'estérification et l'hydrolyse avec l'acide sulfurique est homogène, on le mélange aux réactifs.
