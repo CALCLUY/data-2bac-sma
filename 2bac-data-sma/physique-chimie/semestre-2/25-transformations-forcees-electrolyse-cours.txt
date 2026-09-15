@@ -1,0 +1,173 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Transformations forcées (Électrolyse)
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 25 (Transformations forcées (Électrolyse))
+
+Professeur : Mr El GOUFIFA Jihad
+
+## Sommaire
+
+### I- Transformations spontanées
+
+#### 1-1/ Rappel
+
+#### 1-2/ Exemple (Transformation spontanée entre le cuivre métal et le dibrome en solution aqueuse)
+
+### II- Transformations forcées
+
+#### 2-1/ Définition
+
+#### 2-2/ Exemple (Électrolyse d'une solution de bromure de cuivre $\left(\right. C u^{2 +} + 2 B r^{-} \left.\right)$)
+
+### III- Autres exemples d'électrolyses
+
+#### 3-1/ Électrolyse d'une solution de chlorure de sodium
+
+#### 3-2/ Électrolyse à anode soluble
+
+### IV- Applications de l'électrolyse
+
+### V- Exercices
+
+#### 5-1/ Exercice 1
+
+#### 5-2/ Exercice 2
+
+#### 5-3/ Exercice 3
+
+* * *
+
+## I- Transformations spontanées
+
+### 1-1/ Rappel
+
+Une transformation spontanée est une transformation qui se produit sans aucune intervention extérieure.
+
+Le sens du courant débité correspond à l'évolution spontanée du système.
+
+### 1-2/ Exemple (Transformation spontanée entre le cuivre métal et le dibrome en solution aqueuse)
+
+On mélange dans un tube à essaie la tornure de cuivre $\left(\right. C u \left.\right)$ et une solution de dibrome $B r_{2}$ de concentration $10^{- 2} m o l / L$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s25/img1.png)
+
+La solution initiale est rouge-orange (couleur du dibrome en solution).
+
+On constate :
+
+- la disparition de la coloration du dibrome $B r_{2}$.
+- la dispatition du métal cuivre.
+- la solution se colore progressivement en bleu (cette coloration est due à l'apparition des ions $C u^{2 +}$).
+
+Une réaction d'oxydo-réduction s'est produite spontanément entre $C u_{\left(\right. s \left.\right)}$ et $B r_{2 \left(\right. a q \left.\right)}$ avec formation des ions $C u_{\left(\right. a q \left.\right)}^{2 +}$ et $B r_{\left(\right. a q \left.\right)}^{-}$ selon l'équation suivante :
+
+$C u_{\left(s\right)} + B r_{2 \left(a q\right)} \rightleftarrows C u_{\left(\right. a q \left.\right)}^{2 +} + 2 B r_{\left(\right. a q \left.\right)}^{-}$
+
+À $25 \circ C$, la constante d'équilibre qui lui est associée vaut $K = 1 , 2 . 10^{25}$.
+
+Le quotient de réaction dans l'état initial de ce système vaut : $Q_{r , i} = = \frac{\left[C u^{2 +}\right]_{i} . \left[B r^{-}\right]_{i}^{2}}{\left[B r_{2}\right]_{i}} = 0 < K$
+
+D'après le critère d'évolution spontanée, le système va évoluer dans le sens direct de l'équation.
+
+$K > > 10^{4} \Rightarrow$ la réaction est presque totale dans le sens direct de l'équation.
+
+## II- Transformations forcées
+
+### 2-1/ Définition
+
+Une transformation est dite forcée, si elle se déroule dans le sens opposée de la transformation spontanée.
+
+L'électrolyse est un exemple de cette transformation.
+
+### 2-2/ Exemple (Électrolyse d'une solution de bromure de cuivre $\left(\right. C u^{2 +} + 2 B r^{-} \left.\right)$)
+
+On remplit un tube en U avec une solution de bromure de cuivre $\left(\right. C u^{2 +} + 2 B r^{-} \left.\right)$ et on réalise le montage suivant en utilisant deux électrodes de graphite :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s25/img2.jpg)
+
+Pour une tension supérieure à 1,2V on constate la formation d'un dépôt de cuivre sur la cathode et formation du dibrome $B r_{2}$ au voisinage de l'anode.
+
+L'électrode liée au pôle positif du générateur s'appelle l'anode et celle liée au pôle négatif s'appelle la cathode.
+
+| | L'anode | La cathode |
+| --- | --- | --- |
+| Cas de la pile | Pôle négatif | Pôle positif |
+| Cas de l'électrolyse | Pôle positif | Pôle négatif |
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s25/img2.jpg)
+
+Pendant l'électrolyse, le courant électrique passe de l'anode (pôle positif) vers la cathode (pôle négatif) et les électrons circulent dans le sens contraire.
+
+Au voisinage de l'anode se produit l'oxydation des ions $B r^{-}$ selon la demi-équation suivante : $2 B r_{\left(a q\right)}^{-} \rightarrow B r_{2 \left(a q\right)} + 2 e^{-}$
+
+Au voisinage de la cathode se produit la réduction des ions $C u^{2 +}$ selon la demi-équation suivante : $C u_{\left(a q\right)}^{2 +} + 2 e^{-} \rightarrow C u_{\left(s\right)}$
+
+Bilan de l'électrolyse : $2 B r_{\left(a q\right)}^{-} + C u_{\left(a q\right)}^{2 +} \rightarrow B r_{2 \left(a q\right)} + C u_{\left(s\right)}$ qui est l'inverse de la réaction précédente.
+
+#### Conclusion
+
+L'expérience montre que si le générateur fournit l'énergie nécessaire, le système peut évoluer dans le sens contraire de celui de la transformation spontanée : cette transformation forcée s'appelle l'électrolyse.
+
+## III- Autres exemples d'électrolyses
+
+### 3-1/ Électrolyse d'une solution de chlorure de sodium
+
+On introduit dans un tube en U une solution aqueuse de chlorure de sodium $\left(N a_{\left(a q\right)}^{+} + C l_{\left(a q\right)}^{-}\right)$.
+
+Deux électrodes en graphite plongées dans la solutions et reliées chacune à l'une des bornes (positive ou négative) d'un générateur de tension continue $G$.
+
+Après plusieurs minutes de fonctionnement, on constate :
+
+- À l'anode, il s'est formé un dégagement gazeux de dichlore $C l_{2}$ (Décoloration de l'indigo initialement bleu).
+- À la cathode, il s'est formé un dégagement de dihydrogène $H_{2}$ (détonation en présence d'une flamme) et il est apparu des ions hydroxyde $O H^{-}$ (Phénolphtaléine prends une coloration rose).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s25/img3.jpg)
+
+Les réactions qui se produisent au niveau des électrodes :
+
+- À l'anode : $2 C l_{\left(a q\right)}^{-} \rightarrow C l_{2 \left(g\right)} + 2 e^{-}$
+- À la cathode : $2 H_{2} O_{\left(l\right)} + 2 e^{-} \rightarrow H_{2 \left(g\right)} + 2 H O_{\left(a q\right)}^{-}$
+
+Équation bilan de l'électrolyse d'une solution aqueuse de $N a C l$ :
+
+$\overline{\left.\right) 2 H_{2} O_{\left(l\right)} + 2 C l_{\left(a q\right)}^{-} \rightarrow H_{2 \left(g\right)} + 2 H O_{\left(a q\right)}^{-} + C l_{2 \left(g\right)} }$
+
+### 3-2/ Électrolyse à anode soluble
+
+#### Intérêt de l'électrolyse à anode soluble
+
+On rencontre ce type d'électrolyse si l'anode est constituée d'un métal $M$ et la solution électrolytique contient les ions $M^{m +}$ de ce même métal (qui constitue l'anode).
+
+Le métal de l'anode s'oxyde selon la demi-équation : $M_{\left(s\right)} \rightarrow M_{\left(a q\right)}^{m +} + m . e^{-}$
+
+Le métal $M$ se dépose sur la cathode par réduction des ions $M^{m +}$ selon la demi-équation : $M_{\left(a q\right)}^{m +} + m . e^{-} \rightarrow M_{\left(s\right)}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s25/img4.bmp)
+
+Le bilan de la réaction est nul et cette électrolyse commence à partir de 0V.
+
+L'intérêt de cette électrolyse est le transfert du métal de l'anode vers la cathode (On l'utilise pour la réalisation de dépôt de métal sur un support métallique ou pour la purification des métaux).
+
+#### Exemple
+
+On réalise l'électrolyse d'une solution de sulfate de cuivre $\left(\right. C u^{2 +} + S O_{4}^{2 -} \left.\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s25/img5.jpg)
+
+Bilan de l'électrolyse : Transfert du cuivre de l'anode vers la cathode.
+
+## IV- Applications de l'électrolyse
+
+Malgré le coût élevé de l'énergie électrique consommée, l'électrolyse a de nombreuses applications industrielles comme :
+
+- La préparation et la purification de nombreux métaux comme l'aluminium, le zinc, le cuivre, l'argent et d'autres métaux.
+- La préparation d'eau oxygénée ou du dichlore ou du dihydrogène,...
+- La protection avec une couche d'or ou d'argent ou par d'autres métaux qui se dépose à la surface de divers objets pour améliorer leurs aspects.
+- La recharge des accumulateurs des voitures ou de téléphone sont des applications courantes de l'électrolyse.
