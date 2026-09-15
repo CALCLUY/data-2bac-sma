@@ -1,0 +1,293 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2014 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2014 - الموضوع - مادة : الفيزياء والكيمياء - شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+NS 31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+La calculatrice programmable et l'ordinateur ne sont pas autorisés.
+
+Le sujet est composé d'un exercice de chimie et de trois exercices de physique.
+
+| CHIMIE (7 points) | Le thème | barème |
+| --- | --- | --- |
+| Première partie | étude d'une solution d'ammoniac et d'hydroxylamine | 5 |
+| deuxième partie | préparation d'un métal par électrolyse | 2 |
+
+| PHYSIQUE (13 points) | | |
+| --- | --- | --- |
+| EXERCICE 1 | la physique nucléaire dans le domaine médical | 2,25 |
+| EXERCICE 2 | étude de la charge et de la décharge d'un condensateur | 5,25 |
+| EXERCICE 3 Première partie | étude du mouvement d'un skieur | 3 |
+| EXERCICE 3 Deuxième partie | Etude énergétique d'un pendule pesant | 2,5 |
+
+## Chimie (7 points)
+
+### Première partie (5 points) : étude d'une solution d'ammoniac et d'hydroxylamine
+
+L'ammoniac NH3 est un gaz soluble dans l'eau et donne une solution basique. les solutions commerciales d'ammoniac sont concentrées et sont souvent utilisées dans les produits sanitaires après dilution.
+
+L'objectif de cet exercice est l'étude de quelques propriétés de l'ammoniac et de l'hydroxylamine NH2OH dissouts dans l'eau et de déterminer la concentration de l'ammoniac dans un produit commercial à l'aide d'une solution d'acide chlorhydrique de concentration connue.
+
+Données : toutes les mesures sont effectuées à 25°C.
+
+La masse volumique de l'eau : ρ = 1,0 g.cm-3
+
+La masse molaire du chlorure d'hydrogène M(HCl) = 36,5 g.mol-1 ; Le produit ionique de l'eau : Ke = 10-14.
+
+la constante d'acidité du couple NH4+/NH3 est KA1
+
+la constante d'acidité du couple NH3OH+/NH2OH est KA2
+
+#### 1- Préparation de la solution d'acide chlorhydrique
+
+On prépare une solution SA d'acide chlorhydrique de concentration CA = 0,015 mol.L-1 en diluant une solution commerciale de concentration C0 en cet acide et dont la densité par rapport à l'eau est d = 1,15.
+
+Le pourcentage massique de l'acide dans cette solution commerciale est P = 37%.
+
+1.1. Trouver l'expression de la quantité de matière d'acide n(HCl) contenue dans un volume V de la solution commerciale en fonction de P, d, ρ, V et M(HCl). vérifier que C0 = 11,6 mol.L-1. (0,75)
+
+1.2. Calculer le volume qu'il faut prélever de la solution commerciale pour préparer 1 L de la solution SA. (0,5)
+
+#### 2- Etude de quelques propriétés d'une base dissoute dans l'eau
+
+2.1. On considère une solution aqueuse d'une base B de concentration C. On note KA la constante d'acidité du couple BH+/B et τ l'avancement final de sa réaction avec l'eau.
+
+Montrer que : KA = Ke.(1−τ)/(C.τ²) (0,75)
+
+2.2. On mesure le pH1 d'une solution S1 d'ammoniac NH3 de concentration C = 1,0.10-2 mol.L-1 et le pH2 d'une solution S2 d'hydroxylamine NH2OH ayant la même concentration C ; On trouve alors pH1 = 10,6 et pH2 = 9,0.
+
+Calculer les taux d'avancement finaux τ1 et τ2 respectifs des réactions de NH3 et de NH2OH avec l'eau. (0,5)
+
+2.3. Calculer la valeur de chacune des constantes pKA1 et pKA2. (0,5)
+
+#### 3- Dosage acide-base d'une solution diluée d'ammoniac
+
+Pour déterminer la concentration CB d'une solution commerciale concentrée d'ammoniac, on procède par dosage acido-basique.
+
+On prépare par dilution une solution S de concentration C' = CB/1000.
+
+On réalise le dosage pH-métrique d'un volume V = 20 mL de la solution S à l'aide d'une solution SA d'acide chlorhydrique SA (H3O+(aq) + Cl-(aq)) de concentration CA = 0,015 mol.L-1.
+
+On mesure le pH du mélange après chaque addition d'un volume d'acide ; Les résultats obtenus permettent de tracer la courbe de dosage pH = f(VA) (fig 1). On atteint l'équivalence lorsqu'on ajoute le volume VAE de la solution SA.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig 1 : pH en fonction de VA(mL) ; abscisses 0 à 20 mL ; ordonnées 1 à 12)
+
+3-1 Ecrire l'équation de la réaction du dosage. (0,25)
+
+3-2 En utilisant la valeur du pH correspondant à l'addition de 5 mL d'acide chlorhydrique, calculer le taux d'avancement final de la réaction du dosage. Conclure. (0,75)
+
+3-3 Déterminer le volume VAE. En déduire C' et CB. (0,75)
+
+3-4 Parmi les indicateurs colorés indiqués dans le tableau ci-dessous, choisir celui qui conviendra le mieux à ce dosage. (0,25)
+
+| L'indicateur coloré | Zone de virage |
+| --- | --- |
+| phénolphtaléine | 8,2 - 10 |
+| Rouge de chlorophénol | 5,2 - 6,8 |
+| Hélianthine | 3,1 - 4,4 |
+
+### DEUXIEME PARTIE (2 points) : préparation d'un métal par électrolyse
+
+Certains métaux sont préparés par électrolyse d'une solution aqueuse contenant leurs cations. plus de 50% de la production mondiale de zinc est obtenue par électrolyse d'une solution de sulfate de zinc acidifié par l'acide sulfurique. On observe un dépôt métallique sur l'une des électrodes et le dégagement d'un gaz sur l'autre électrode.
+
+données : 1F = 96500 C.mol-1 ; M(Zn) = 65,4 g.mol-1 ; le volume molaire des gaz parfaits dans les conditions de l'expérience est : VM = 24 L.mol-1 ;
+
+les couples oxydant/réducteur Zn2+/Zn(s) ; H+/H2(g) ; O2(g)/H2O(l)
+
+les ions sulfates ne participent pas aux réactions chimiques.
+
+#### 1. Etude de la transformation chimique
+
+1-1 Ecrire les équations des réactions susceptibles de se produire sur l'anode et sur la cathode. (0,75)
+
+1-2 L'équation de la réaction d'électrolyse s'écrit sous la forme :
+
+Zn2+(aq) + H2O(l) → Zn(s) + (1/2) O2(g) + 2 H+(aq)
+
+Trouver la relation entre la quantité d'électricité Q circulant dans le circuit et l'avancement x de la réaction d'électrolyse à un instant t. (0,25)
+
+#### 2. Exploitation de la transformation chimique
+
+L'électrolyse a lieu sous une tension de 3,5 V ; avec un courant d'intensité constante I = 80 kA. Après 48 h de fonctionnement, on obtient dans la cellule un dépôt de zinc de masse m.
+
+2-1 Calculer la masse m. (0,5)
+
+2-2 A l'autre électrode, on récupère un volume V de dioxygène ; sachant que le rendement de la réaction qui produit le dioxygène est r = 80%. Calculer le volume V. (0,5)
+
+## PHYSIQUE (13 points)
+
+### Exercice 1 (2,25 points) : la physique nucléaire dans le domaine médical
+
+L'injection intraveineuse d'une solution contenant le phosphore 32 radioactif permet dans certains cas le traitement de la multiplication anormale des globules rouges au niveau des cellules de la moelle osseuse.
+
+Données : Les masses en unité atomique u : m(32/15 P) = 31,9840 u ; m(e) = 5,485.10-4 u ; 1 MeV = 1,6.10-13 J ; m(A/Z Y) = 31,9822 u ; 1 u = 931,5 MeV/c²
+
+La demi-vie du nucléide phosphore 32/15 P : t1/2 = 14,3 jours. 1 jour = 86400 s
+
+#### 1. L'activité radioactive du nucléide radioactif 32/15 P
+
+Le nucléide 32/15 P est radioactif β-, sa désintégration donne naissance au nucléide A/Z Y.
+
+1-1 écrire l'équation de la désintégration du nucléide de phosphore 32/15 P en précisant A et Z. (0,5)
+
+1-2 calculer en MeV la valeur absolue de l'énergie libérée lors de la désintégration du nucléide 32/15 P. (0,5)
+
+#### 2. L'injection intraveineuse au phosphore 32/15 P
+
+à l'instant t = 0, on prépare un échantillon du phosphore 32/15 P dont l'activité radioactive est a0
+
+2-1 définir l'activité radioactive 1 Bq. (0,25)
+
+2-2 à l'instant t1, on injecte à un patient une quantité d'une solution de phosphore 32/15 P dont l'activité radioactive est a1 = 2,5.10^9 Bq.
+
+a- Calculer en jour, la durée Δt nécessaire pour que l'activité nucléaire a2 du phosphore 32/15 P soit égale à 20% de a1. (0,5)
+
+b- On note N1 le nombre de nucléides du phosphore 32/15 P restant à l'instant t1 et on note N2 le nombre de nucléides restant à l'instant t2 dont l'activité radioactive de l'échantillon est a2.
+
+Trouver l'expression du nombre de nucléides désintégrés pendant la durée Δt en fonction de a1 et t1/2. (0,5)
+
+c- En déduire, en joule, la valeur absolue de l'énergie libérée pendant la durée Δt. (0,25)
+
+### Exercice 2 (5,25 points)
+
+L'objectif de cet exercice est de suivre l'évolution de l'intensité du courant électrique au cours de la charge d'un condensateur et au cours de sa décharge à travers une bobine. Pour l'étude de la charge et la décharge d'un condensateur de capacité C, on réalise le montage représenté dans la figure 1.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig1 : générateur E, interrupteur K positions 1 et 2, résistance R, condensateur C (uc), bobine (L, r), courant i)
+
+#### 1- Etude de la charge du condensateur
+
+Initialement le condensateur est non chargé.
+
+A un instant considéré comme origine du temps t = 0, on bascule l'interrupteur K à la position 1, le condensateur se charge alors à travers un conducteur ohmique de résistance R = 100 Ω à l'aide d'un générateur électrique parfait de force électromotrice E = 6 V.
+
+1.1- Etablir l'équation différentielle que vérifie l'intensité du courant i en respectant l'orientation indiquée dans la figure 1. (0,5)
+
+1.2- La solution de l'équation différentielle s'écrit sous la forme suivante : i = A.e^(−t/τ).
+
+Trouver l'expression de A et celle de τ en fonction des paramètres du circuit. (0,5)
+
+1.3- En déduire l'expression de la tension uc en fonction du temps t. (0,25)
+
+1.4- Un système informatique permet de tracer la courbe qui représente les variations i/I0 en fonction du temps t, (fig 2). I0 est l'intensité du courant à l'instant t = 0.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig 2 : i/I0 en fonction de t(ms) ; abscisses 0 ; 0,1 ; 0,2 ; 0,3 ; 0,4 ; 0,5 ms ; ordonnées 0,25 ; 0,5 ; 0,75 ; 1,0)
+
+Déterminer la constante de temps τ et en déduire la valeur de la capacité C du condensateur. (0,5)
+
+1.5- Soient Ee l'énergie électrique emmagasinée dans le condensateur lorsqu'il est complètement chargé et Ee(τ) l'énergie électrique emmagasinée dans le condensateur à l'instant t = τ.
+
+Montrer que le rapport Ee(τ)/Ee s'écrit sous la forme : Ee(τ)/Ee = ((e−1)/e)² ; Calculer sa valeur, (e est la base du logarithme népérien). (0,5)
+
+#### 2. Etude de la décharge du condensateur dans une bobine
+
+A un instant que l'on considère comme nouvelle origine des temps, on bascule l'interrupteur à la position 2 pour décharger le condensateur dans une bobine de coefficient d'inductance L = 0,2 H et de résistance r.
+
+2.1- On considère la résistance de la bobine négligeable et on conserve la même orientation précédente du circuit.
+
+a- Etablir l'équation différentielle que vérifie l'intensité du courant i(t). (0,5)
+
+b- La solution de l'équation différentielle s'écrit sous la forme suivante : i(t) = Im.cos(2πN0t + φ) ; Déterminer la valeur de Im et celle de φ. (0,5)
+
+2.2- A l'aide du système informatique précédent, on visualise l'évolution de l'intensité i(t) dans le circuit en fonction du temps t, on obtient l'oscillogramme représenté dans la figure 3.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig3 : i(t) (mA) en fonction de t(ms) ; abscisses 1 à 13 ms ; ordonnées −15 à 10 mA)
+
+On désigne par E0 l'énergie de l'oscillateur à l'instant t = 0 et par T la pseudo période des oscillations.
+
+Calculer l'énergie E' de l'oscillateur à l'instant t' = 7T/4, en déduire la variation ΔE = E' − E0. Donner une explication à cette variation. (0,75)
+
+2.3- On admet que l'énergie totale de l'oscillateur diminue au cours de chaque pseudo-période de p = 27,5%
+
+a- Montrer que l'expression de l'énergie totale de l'oscillateur peut s'écrire à l'instant t = nT sous la forme En = E0.(1−p)^n, avec n entier naturel. (0,5)
+
+b- Calculer n lorsque l'énergie totale de l'oscillateur diminue de 96% de sa valeur initiale E0. (0,75)
+
+### EXERCICE 3 (5,5 points) : les deux parties sont indépendantes
+
+#### PREMIERE PARTIE (3 points) : étude du mouvement d'un skieur
+
+Un skieur veut s'exercer sur une piste modélisée par la figure 1.
+
+Avant de faire un premier essai, le skieur étudie les forces qui s'exercent sur lui lors du glissage sur la piste ABC.
+
+Données
+
+- Intensité de pesanteur g = 9,8 m/s².
+- AB est un plan incliné d'un angle α = 20° par rapport au plan horizontal passant par le point B.
+- La largeur du lac C'D' = L = 15 m.
+
+On modélise le skieur et ses accessoires par un solide (S) de masse m = 80 kg et de centre d'inertie G.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig1 : piste ABC, plan incliné AB d'angle α, repères (O, i⃗', j⃗') et (D, i⃗, j⃗), lac entre C' et D', vitesse v⃗C au point C)
+
+On considère sur la partie AB que les frottements ne sont pas négligeables et on les modélise par une force constante.
+
+1. Etude des forces appliquées sur le skieur entre A et B
+
+Le skieur part du point A d'abscisse x'A = 0 dans le repère (O, i⃗', j⃗') sans vitesse initiale à un instant que l'on considère comme origine des temps t = 0 s (Fig1). Le skieur glisse sur le plan incliné AB suivant la ligne de la plus grande pente avec une accélération constante a et passe par le point B avec une vitesse VB = 20 m/s.
+
+1-1 En appliquant la deuxième loi de Newton, trouver en fonction de α, a et g l'expression du coefficient de frottement tan φ. Avec φ l'angle de frottement, défini par la normale à la trajectoire et la direction de la force appliquée par le plan incliné sur le skieur. (0,5)
+
+1-2 A l'instant tB = 10 s le skieur passe par le point B ; Calculer la valeur de l'accélération a. En déduire la valeur du coefficient de frottement tan φ. (0,5)
+
+1-3 Montrer que l'intensité de la force R exercée par le plan AB sur le skieur s'écrit sous la forme : R = m.g.cos α.√(1 + tan²φ) ; Calculer R. (0,5)
+
+2. L'étape du saut
+
+A l'instant t = 0 que l'on considère comme une nouvelle origine des temps, le skieur quitte la partie BC au point C avec une vitesse vC dont le vecteur v⃗C forme l'angle α = 20° avec le plan horizontal.
+
+Lors du saut, les équations horaires du mouvement de (S) dans le repère (D, i⃗, j⃗) sont :
+
+x(t) = vC.cos α.t − 15
+y(t) = −(1/2).g.t² + vC.sin α.t
+
+2-1 Déterminer dans le cas où vC = 16,27 m.s-1 les coordonnées du sommet de la trajectoire de (S). (0,75)
+
+2-2 Déterminer en fonction de g et α la condition que doit vérifier la vitesse vC pour que le skieur ne tombe pas dans le lac. En déduire la valeur minimale de cette vitesse. (0,75)
+
+#### DEUXIEME PARTIE (2,5 points) : Etude énergétique d'un pendule pesant
+
+L'objectif de cette partie est la détermination de la position du centre d'inertie G d'un système oscillant et son moment d'inertie J à l'aide d'une étude énergétique et dynamique.
+
+Un pendule pesant de centre d'inertie G, est constitué d'une barre AB de masse m1 = 100 g et d'un corps C de masse m2 = 300 g fixé à l'extrémité B de la barre.
+
+Le pendule pesant peut tourner autour d'un axe fixe horizontal (Δ) passant par l'extrémité A (fig 2). Le moment d'inertie du pendule par rapport à l'axe (Δ) est J.
+
+AG = d est la distance entre le centre d'inertie et l'axe de rotation.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig2 : axe (Δ) en A, barre AB, corps C, centre d'inertie G, position d'équilibre G0)
+
+On écarte le pendule de sa position d'équilibre stable d'un angle θm petit et on le libère sans vitesse initiale à un instant considéré comme origine des temps t = 0 s, le pendule effectue alors un mouvement oscillatoire autour de sa position d'équilibre.
+
+On considère que tous les frottements sont négligeables et on choisit le plan horizontal passant par le point G0, position de G à l'équilibre stable, comme état de référence de l'énergie potentielle de pesanteur Epp = 0. On repère à chaque instant la position du pendule pesant par son abscisse angulaire θ formé par la barre et la ligne verticale passant par le point A, on note θ̇ = dθ/dt la vitesse angulaire du pendule pesant à un instant t.
+
+La figure 3 représente la courbe de l'évolution de l'énergie cinétique Ec du pendule pesant en fonction du carré de l'abscisse angulaire θ². on prend cos(θ) ≈ 1 − θ²/2 et sin(θ) ≈ θ avec θ en radian.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig3 : Ec(mJ) en fonction de θ²(10-3 rad²) ; graduations 2 et 3)
+
+L'intensité de la pesanteur est g = 9,8 m.s-2.
+
+1. Détermination de la position du centre d'inertie G du système
+
+1-1 Soit Em l'énergie mécanique du pendule pesant dans le cas de petites oscillations ;
+
+Montrer que Em = (m1 + m2).g.d.θm²/2. (0,5)
+
+1-2 A l'aide du graphe de la figure 3, déduire la valeur de d. (0,75)
+
+2. Détermination du moment d'inertie J
+
+2-1 Trouver en appliquant la relation fondamentale de la dynamique, l'équation différentielle du mouvement du pendule pesant. (0,5)
+
+2-2 Trouver l'expression de la fréquence propre N0 de ce pendule en fonction de J, m1, g, m2 et d pour que la solution de l'équation différentielle s'écrive sous la forme θ(t) = θm.cos(2πN0t + φ). (0,5)
+
+2-3 Sachant que la valeur de la fréquence propre est N0 = 1 Hz. Calculer J. (0,25)
