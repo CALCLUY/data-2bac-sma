@@ -1,0 +1,151 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: B- Oscillateurs mécaniques (Pendule pesant, simple et de torsion)
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac SM-SPC
+
+Séance 24B (Oscillateurs mécaniques – Pendule pesant, simple et de torsion)
+
+Professeur : Mr EL GOUFIFA Jihad
+
+## I- Pendule de torsion
+
+### 1-1/ Moment du couple de torsion
+
+Le pendule de torsion est constitué d'un fil de torsion, et d'une tige homogène horizontale fixée en son milieu à l'extrémité de ce fil.
+
+Lorsqu'on écarte la tige de sa position d'équilibre et on la libère, elle se met à osciller autour de sa position d'équilibre.
+
+L'action du fil tordu sur la tige est dû à un ensemble de forces auxquelles on associe un couple de forces appelé couple de torsion : $\mathcal{M}_{t} = - C . \theta$
+
+- $\mathcal{M}_{t}$ : moment du couple de torsion (N.m)
+- $C$ : Constante de torsion (N.m/rad)
+- $\theta$ : angle de torsion (rad)
+
+### 1-2/ Équation différentielle du mouvement
+
+On écarte la tige de sa position d'équilibre d'un angle $\theta_{m}$ et on la libère sans vitesse initiale :
+
+Le bilan des forces :
+
+$\overset{\rightarrow}{P}$ : Le poids de la barre
+$\overset{\rightarrow}{T}$ : La tension du fil
+$C$ : Le couple de torsion
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-2/img2.jpg)
+
+D'après la relation fondamentale de la dynamique on a :
+
+$\sum_{}^{} \mathcal{M}_{\left(\Delta\right)} \left(\overset{\rightarrow}{F}\right) = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ \mathcal{M}_{\left(\Delta\right)} \left(\overset{\rightarrow}{P}\right) + \mathcal{M}_{\left(\Delta\right)} \left(\overset{\rightarrow}{T}\right) + \mathcal{M}_{t} = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ \mathcal{M}_{t} = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ - C . \theta = = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ \overline{\left.\right)\overset{\cdot\cdot}{\theta} + \frac{C}{J_{\Delta}} \theta = 0}$
+
+### 1-3/ Équation horaire du mouvement
+
+L'équation du mouvement est : $\overset{\cdot\cdot}{\theta} + \frac{C}{J_{\Delta}} \theta = 0$
+
+C'est une équation différentielle linéaire du seconde ordre, sa solution est :
+
+$\theta = \theta_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) = \theta_{m} cos \left(\omega_{0} t + \varphi\right)$
+
+#### Calcul de $T_{0}$
+
+$\theta = \theta_{m} cos \left(\omega_{0} t + \varphi\right) \\ \Rightarrow \overset{\cdot}{\theta} = - \theta_{m} \omega_{0} sin \left(\omega_{0} t + \varphi\right) \\ \Rightarrow \overset{\cdot\cdot}{\theta} = - \theta_{m} \left(\omega_{0}\right)^{2} cos \left(\omega_{0} t + \varphi\right) = - \left(\omega_{0}\right)^{2} . \theta \\ \Rightarrow \left(\omega_{0}\right)^{2} = \frac{C}{J_{\Delta}} \\ \Rightarrow \omega_{0} = \sqrt{\frac{C}{J_{\Delta}}} = \frac{2 \pi}{T_{0}} \\ \\ \Rightarrow \overline{\left.\right)T_{0} = 2 \pi \sqrt{\frac{J_{\Delta}}{C}}}$
+
+## II- Pendule pesant
+
+### 2-1/ Équation différentielle du mouvement
+
+Le pendule pesant, est tout solide mobile autour un axe $\left(\right. \Delta \left.\right)$, horizontal et fixe ne passant pas par son centre d'inertie.
+
+On écarte le pendule pesant de sa position d'équilibre et on le libère sans vitesse initiale.
+
+Appelons $\theta$ l'angle que forme OG avec la ligne verticale passant par O.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-2/img3.bmp)
+
+Le bilan des forces :
+
+- $\overset{\rightarrow}{P}$ : Le poids de la barre
+- $\overset{\rightarrow}{R}$ : La réaction de l'axe
+
+On applique le principe fondamental de la dynamique :
+
+$\sum_{}^{} \mathcal{M}_{\left(\Delta\right)} \left(\overset{\rightarrow}{F}\right) = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ \mathcal{M}_{\left(\Delta\right)} \left(\overset{\rightarrow}{P}\right) + \mathcal{M}_{\left(\Delta\right)} \left(\overset{\rightarrow}{R}\right) = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ - P . O M = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ - m . g . d . sin \theta = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ - m . g . d . \theta = J_{\Delta} . \overset{\cdot\cdot}{\theta} \left(sin \theta \approx \theta\right) \\ \\ \overline{\left.\right)\overset{\cdot\cdot}{\theta} + \frac{m g d}{J_{\Delta}} \theta = 0}$
+
+### 2-2/ Équation horaire du mouvement
+
+L'équation du mouvement est : $\overset{\cdot\cdot}{\theta} + \frac{m g d}{J_{\Delta}} \theta = 0$
+
+C'est une équation différentielle linéaire du seconde ordre, sa solution est :
+
+$\theta = \theta_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) = \theta_{m} cos \left(\omega_{0} t + \varphi\right)$
+
+#### Calcul de $T_{0}$
+
+$\theta = \theta_{m} cos \left(\omega_{0} t + \varphi\right) \\ \Rightarrow \overset{\cdot}{\theta} = - \theta_{m} \omega_{0} sin \left(\omega_{0} t + \varphi\right) \\ \Rightarrow \overset{\cdot\cdot}{\theta} = - \theta_{m} \left(\omega_{0}\right)^{2} cos \left(\omega_{0} t + \varphi\right) = - \left(\omega_{0}\right)^{2} . \theta \\ \Rightarrow \left(\omega_{0}\right)^{2} = \frac{m g d}{J_{\Delta}} \\ \Rightarrow \omega_{0} = \sqrt{\frac{m g d}{J_{\Delta}}} = \frac{2 \pi}{T_{0}} \\ \\ \Rightarrow \overline{\left.\right)T_{0} = 2 \pi \sqrt{\frac{J_{\Delta}}{mgd}}}$
+
+## III- Pendule simple
+
+### 3-1/ Équation différentielle du mouvement
+
+Le pendule simple est une masse ponctuelle fixée à l'extrémité d'un fil sans masse et inextensible, et oscillant sous l'effet de la pesanteur.
+
+Il s'agit du modèle de pendule pesant le plus simple.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-2/img4.jpg)
+
+Le bilan des forces :
+
+- $\overset{\rightarrow}{P}$ : Le poids de la masse
+- $\overset{\rightarrow}{T}$ : La tension du fil
+
+On applique le principe fondamental de la dynamique :
+
+$\sum_{}^{} \mathcal{M}_{\left(\Delta\right)} \left(\overset{\rightarrow}{F}\right) = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ \mathcal{M}_{\left(\Delta\right)} \left(\overset{\rightarrow}{P}\right) + \mathcal{M}_{\left(\Delta\right)} \left(\overset{\rightarrow}{T}\right) = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ - P . l . sin \theta = J_{\Delta} . \overset{\cdot\cdot}{\theta} \\ \\ - m . g . l . \theta = m . l^{2} . \overset{\cdot\cdot}{\theta} \left(sin \theta \approx \theta\right) \\ \\ \overline{\left.\right)\overset{\cdot\cdot}{\theta} + \frac{g}{l} \theta = 0}$
+
+### 3-2/ Équation horaire du mouvement
+
+L'équation du mouvement est : $\overset{\cdot\cdot}{\theta} + \frac{g}{l} \theta = 0$
+
+C'est une équation différentielle linéaire du seconde ordre, sa solution est :
+
+$\theta = \theta_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) = \theta_{m} cos \left(\omega_{0} t + \varphi\right)$
+
+#### Calcul de $T_{0}$
+
+$\theta = \theta_{m} cos \left(\omega_{0} t + \varphi\right) \\ \Rightarrow \overset{\cdot}{\theta} = - \theta_{m} \omega_{0} sin \left(\omega_{0} t + \varphi\right) \\ \Rightarrow \overset{\cdot\cdot}{\theta} = - \theta_{m} \left(\omega_{0}\right)^{2} cos \left(\omega_{0} t + \varphi\right) = - \left(\omega_{0}\right)^{2} . \theta \\ \Rightarrow \left(\omega_{0}\right)^{2} = \frac{g}{l} \\ \Rightarrow \omega_{0} = \sqrt{\frac{g}{l}} = \frac{2 \pi}{T_{0}} \\ \\ \Rightarrow \overline{\left.\right)T_{0} = 2 \pi \sqrt{\frac{l}{g}}}$
+
+## IV- Oscillations forcées et résonance
+
+### 4-1/ Définition
+
+Les frottements agissent sur les oscillations mécaniques et leur mouvement devient amortie, et on peut entretenir leur mouvement en récompensant l'énergie dissipée par une méthode convenable à l'oscillateur.
+
+On lie l'oscillateur avec un appareil qui lui fournit l'énergie nécessaire pour que son mouvement soit entretenu.
+
+Cet appareil s'appelle l'excitateur, c'est un système ayant un mouvement oscillatoire qui impose sa période $T_{e}$ à l'oscillateur qui s'appelle (résonateur) et le mouvement de ce dernier devient forcé.
+
+### 4-2/ Exemple d'oscillations forcées
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-2/img5.jpg)
+
+Dans cet exemple le pendule joue le rôle du résonateur, sa fréquence propre est $N_{0}$ alors que le moteur joue le rôle de l'excitateur de fréquence $N_{e}$.
+
+En liant l'oscillateur mécanique avec le moteur, il s'oblige d'osciller avec une fréquence égale à celle du moteur.
+
+### 4-3/ Phénomène de résonance
+
+En faisant varier la fréquence du moteur, on obtient la plus grande amplitude du résonateur lorsque la fréquence du moteur (excitateur) est égale à la fréquence propre du pendule élastique (résonateur), on dit qu'il y'a résonance.
+
+À la résonance on a $N_{e} = N_{0}$, avec $N_{0} = \frac{1}{T_{0}} = \frac{1}{2 \pi} \sqrt{\frac{K}{m}}$
+
+Si l'amortissement est faible, le phénomène de résonance est plus clair (aigu).
+
+Si l'amortissement est fort, le phénomène de résonance est flou.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-2/img6.bmp)
+
+[Note : la page source répète par erreur le titre « II- Pendule pesant / 2-2 Équation horaire » juste avant l'équation horaire du pendule simple.]
