@@ -1,0 +1,293 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Dipôle RL
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 11 (Dipôle RL)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## Sommaire
+
+### I- Introduction
+### II- La bobine
+#### 2-1/ Déﬁnition
+#### 2-2/ Symbole
+#### 2-3/ L'inductance d'une bobine
+#### 2-4/ Tension aux bornes de la bobine
+### III- Détermination expérimentale de l'inductance d'une bobine
+#### 3-1/ Expérience
+#### 3-2/ Observation
+#### 3-3/ Interprétation
+### IV- Influence de la bobine sur le passage du courant dans un circuit
+#### 4-1/ Expérience
+#### 4-2/ Observation
+#### 4-3/ Interprétation
+### V- Réponse d'un dipôle RL à un échelon montant de tension (création de courant)
+#### 5-1/ Expérience
+#### 5-2/ Étude théorique (intensité i du courant)
+#### 5-3/ Constante de temps $\tau$
+#### 5-4/ Étude théorique (tension aux bornes de la bobine)
+### VI- Réponse d'un dipôle RL à un échelon descendant de tension (annulation du courant)
+#### 6-1/ Expérience
+#### 6-2/ Étude théorique (intensité i du courant)
+### VII- Énergie magnétique de la bobine
+#### 7-1/ Expérience
+#### 7-2/ Observation
+#### 7-3/ Conclusion
+### IIX- Exercices
+#### 8-1/ Exercice 1
+#### 8-2/ Exercice 2
+#### 8-3/ Exercice 3
+#### 8-4/ Exercice 4
+
+* * *
+
+## I- Introduction
+
+Dans un moteur à explosion, un système d'allumage est nécessaire pour produire l'étincelle qui enflammera le mélange air-essence.
+
+Ce système comportant une bobine.
+
+- Qu'est ce que une bobine ?
+- Quelle est son influence dans un circuit électrique ?
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img1.bmp)
+
+## II- La bobine
+
+### 2-1/ Déﬁnition
+
+Une bobine est un dipôle constitué par un enroulement cylindrique d'un fil conducteur recouvert d'une couche isolante (gaine ou vernie) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img2.bmp)
+
+### 2-2/ Symbole
+
+Le symbole d'une bobine est représenté ci-dessus :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img3.jpg)
+
+r est la résistance interne de la bobine et L est un coefficient qui la caractérise appelé inductance exprimé en henry (H).
+
+On mesure l'inductance L d'une bobine par un appareil de mesure de l'inductance.
+
+Lorsque la résistance interne $r \simeq 0$ on considère que la bobine est pure.
+
+### 2-3/ L'inductance d'une bobine
+
+#### Expérience
+
+On réalise le montage suivant en utilisant une bobine de très faible résistance et un générateur de signaux sinusoïdaux :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img4.jpg)
+
+#### Observation
+
+Le graphique représentant $u_{A B}$ en fonction de $\frac{d i}{d t}$ est une demi-droite passant par l'origine :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img5.jpg)
+
+#### Conclusion
+
+La tension $u_{A B}$ aux homes de la bobine de faible résistance est proportionnelle à la dérivée $\frac{d i}{d t}$ de l'intensité i du courant qui la traverse.
+
+Le coefficient de proportionnalité, positif, est appelé inductance de la bobine ; il est note L.
+
+Nous avons donc : $\overline{\left.\right) U_{L} = L . \frac{d i}{d t} }$
+
+### 2-4/ Tension aux bornes de la bobine
+
+La tension aux bornes d'une bobine d'inductance L et de résistance r parcourue par un courant électrique d'intensité i est donnée par la relation suivante :
+
+$\overline{\left.\right) U_{L} = r . i + L \frac{d i}{d t} }$
+
+Si le courant électrique est continue l'intensité du courant est constante, donc : $\frac{di}{dt} = 0$ et $U_{L} = r . i$
+
+La bobine se comporte comme un conducteur ohmique dans le courant continue.
+
+## III- Détermination expérimentale de l'inductance d'une bobine
+
+### 3-1/ Expérience
+
+On réalise le montage suivant en utilisant un générateur GBF de signal triangulaire :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img6.bmp)
+
+Le conducteur ohmique est de résistance $R = 20 k \Omega$
+
+La résistance de la bobine est négligeable devant R.
+
+### 3-2/ Observation
+
+En visualisant sur l'écran de l'oscilloscope la tension $u_{1}$ sur la voie $Y_{1}$ et la tension $u_{2}$ sur la voie $Y_{2}$ on obtient les oscillogrammes suivants :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img7.bmp)
+
+La sensibilité horizontale utilisée est : $0 , 5 m s / d i v$, la sensibilité verticale pour $Y_{1} : 0 , 05 V / d i v$ et pour $Y_{2} : 1 V / d i v$
+
+### 3-3/ Interprétation
+
+À partir du circuit on a : $u_{1} = u_{L} = L \frac{d i}{d t}$ et $u_{2} = - u_{R} = - R . i$
+
+donc $u_{1} = - \frac{L}{R} . \frac{d u_{2}}{d t} \Rightarrow \overline{\left.\right)L = \frac{- u_{1} . R}{\frac{d u_{2}}{d t}}}$
+
+Les deux tensions sont périodiques. Il suffit donc de considérer l'intervalle $\left[0 , \frac{T}{2}\right]$ pour déterminer la valeur de L :
+
+$\overline{\left.\right) L = \frac{- u_{1} . R}{\frac{d u_{2}}{d t}} = \frac{- \left(- 0 , 05\right) . 20 . 10^{3}}{4 . 10^{3}} = 0 , 25 H }$
+
+## IV- Influence de la bobine sur le passage du courant dans un circuit
+
+### 4-1/ Expérience
+
+On réalise le montage expérimental suivant dans lequel les deux lampes sont identiques et la résistance de la bobine et celle du conducteur ohmique ont la même valeur r=R :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img8.bmp)
+
+### 4-2/ Observation
+
+On constate que :
+
+- La lampe $L_{2}$ brille après la lampe $L_{1}$ avec un retard de quelques secondes à la fermeture et à l'ouverture de l'interrupteur.
+- En régime permanent les deux lampes brillent de façon identique.
+
+### 4-3/ Interprétation
+
+On sait que la tension aux bornes de la bobine est : $U_{L} = r . i + L \frac{di}{dt}$
+
+Lorsqu'on ferme l'interrupteur : pendant l'établissement du courant de 0 à I, $\frac{di}{dt} > 0$, donc la bobine retarde l'établissement du courant.
+
+Lorsqu'on ouvre l'interrupteur : pendant l'annulation du courant (de I à 0), $\frac{di}{dt} < 0$, donc la bobine retarde la rupture du courant.
+
+En régime permanent (i = constante), on a alors : $\frac{di}{dt} = 0$, la bobine se comporte comme un conducteur ohmique de résistance r.
+
+### 4-4/ Conclusion
+
+La bobine s'oppose à l'établissement et à l'annulation du courant électrique, cet effet se manifeste lorsque l'intensité du courant varié (c'est à dire pendant l'ouverture et la fermeture de l'interrupteur).
+
+## V- Réponse d'un dipôle RL à un échelon montant de tension (création de courant)
+
+### 5-1/ Expérience
+
+On monte en série un conducteur ohmique de résistance R et une bobine d'inductance L et de résistance r auquel on applique un échelon montant de tension à l'aide un générateur de tension en fermant l'interrupteur à t=0 :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img9.jpg)
+
+### 5-2/ Étude théorique (intensité i du courant)
+
+D'après la loi d'additivité des tension, on peut écrire :
+
+$u = u_{r '} + u_{B} \Rightarrow E = r ' i + r i + L \frac{d i}{d t} = R_{T} i + L \frac{d i}{d t}$
+
+On pose $\tau = \frac{L}{R}$ et on obtient l'équation différentielle suivante :
+
+$\overline{\left.\right) \tau \frac{d i}{d t} + i = \frac{E}{R_{T}} }$
+
+La solution de l'équation différentielle s'écrit sous la forme suivante :
+
+$i \left(t\right) = A e^{- \alpha t} + B$
+
+tel que A, B et $\alpha$ sont des constantes qu'on peut déterminer.
+
+On obtient après calcul :
+
+$\overline{\left.\right) i \left(\right. t \left.\right) = \frac{E}{R_{T}} \left(\right. 1 - e^{- t/\left(\tau\right)} \left.\right) }$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img11.jpg)
+
+### 5-3/ Constante de temps $\tau$
+
+#### Unité de la constante de temps
+
+$\overline{\left.\right) \left[\tau\right] = \frac{\left[L\right]}{\left[R\right]} = \frac{\frac{\left[U\right]}{\left[I\right] \times \left[t\right]^{- 1}}}{\frac{\left[U\right]}{\left[I\right]}} = \left[t\right] }$
+
+#### Détermination graphique de la valeur de $\tau$
+
+Méthode 1 :
+
+En remplaçant dans l'expression de l'intensité t par $\tau$ on obtient : $i \left(\tau\right) = \frac{E}{R_{T}} \left(1 - e^{- 1}\right) = 0 , 63 \frac{E}{R_{T}}$
+
+Puis par lecture graphique, le temps correspondent à cette valeur est $t = \tau$
+
+Méthode 2 :
+
+La tangente à la courbe à t=0 se coupe avec l'asymptote $i = \frac{E}{R_{T}}$ à l'instant $t = \tau$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img11.jpg)
+
+### 5-4/ Étude théorique (tension aux bornes de la bobine)
+
+D'après la loi d'additivité des tensions on a :
+
+$E = u_{L} + R . i \left(t\right)$
+
+C'est à dire :
+
+$u_{L} \left(t\right) = E \left(1 - \frac{r '}{R_{T}} \left(1 - e^{- t/\left(\tau\right)}\right)\right)$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img12.jpg)
+
+Si on néglige la résistance de la bobine r devant la résistance r′, on obtient R = r et on a :
+
+$\overline{\left.\right) u_{L} \left(\right. t \left.\right) = E e^{- t/\left(\tau\right)} }$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img13.jpg)
+
+## VI- Réponse d'un dipôle RL à un échelon descendant de tension (annulation du courant)
+
+### 6-1/ Expérience
+
+On ajoute au circuit précédent une diode normale montée en sens inverse entre les bornes de la bobine pour éviter le phénomène de surtension :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img14.jpg)
+
+### 6-2/ Étude théorique (intensité i du courant)
+
+En appliquant la loi d'additivité des tensions on a :
+
+$u_{L} + u_{R} = 0 \\ \Rightarrow L \frac{d i}{d t} + R_{T} i = 0 \\ \Rightarrow \overline{\left.\right)\tau \frac{d i}{d t} + i = 0}$
+
+C'est l'équation différentielle que vérifie l'intensité du courant dans le circuit.
+
+La solution de cette équation différentielle est de la forme :
+
+$i \left(t\right) = A . e^{- \alpha t} + B$
+
+Après calcul on obtient :
+
+$\overline{\left.\right) i \left(t\right) = \frac{E}{R_{T}} e^{- t/\left(\tau\right)} }$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img15.bmp)
+
+## VII- Énergie magnétique de la bobine
+
+### 7-1/ Expérience
+
+On réalise le montage suivant, il comporte un moteur et une bobine d'inductance importante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img16.jpg)
+
+On ferme l'interrupteur K, puis on l'ouvre.
+
+On observe le moteur.
+
+### 7-2/ Observation
+
+Lorsque nous ouvrons l'interrupteur, le moteur tourne et fournit donc du travail. Cette énergie lui est fournie par la bobine.
+
+### 7-3/ Conclusion
+
+L'énergie magnétique emmagasinée dans une bobine d'inductance L parcourue par un courant électrique d'intensité i est donnée par la relation suivante :
+
+$\overline{\left.\right) E_{m} = \frac{1}{2} . L . i^{2} }$
+
+- $E_{m}$ : énergie magnétique en (J)
+- L : inductance de la bobine en (H)
+- I : intensité du courant électrique en (A)
+
+#### Démonstration

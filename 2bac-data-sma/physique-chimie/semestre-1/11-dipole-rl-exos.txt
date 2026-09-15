@@ -1,0 +1,149 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Dipôle RL
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 11 (Dipôle RL)
+Professeur : Mr El GOUFIFA Jihad
+
+## IIX- Exercices
+
+### 8-1/ Exercice 1
+
+L'étude électrique ou énergétique de quelques dipôles permet de déterminer certains paramètres qui les caractérisent, et de se rendre compte de leurs effets sur les phénomènes dont ces dipôles sont siège.
+
+Le but de cet exercice est de déterminer l'inductance d'une bobine.
+
+Pour déterminer l'inductance L d'une bobine de résistance négligeable, on utilise le montage représenté dans la figure ci-dessous, comprenant cette bobine, un conducteur ohmique de résistance $R = 1 , 5 . 10^{3} \Omega$, un GBF qui délivre une tension triangulaire de période T et un interrupteur K :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img24.bmp)
+
+On ferme l'interrupteur K à l'instant $t_{0} = 0$ et on visualise à l'aide d'un oscilloscope la tension $u_{b} \left(t\right)$ aux bornes de la bobine, et la tension $u_{R} \left(t\right)$ aux bornes du conducteur ohmique.
+
+On obtient l'oscillogramme de la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img25.bmp)
+
+- sensibilité verticale des deux voies de l'oscilloscope : 2 V/div
+- balayage horizontale 0,2 ms/div
+
+1. Quel est le rôle de la bobine lors de la fermeture du circuit ?
+
+1. Montrer que les tensions $u_{b}$ et $u_{R}$ sont liées par la relation : $u_{b} = - \frac{L}{R} \frac{d u_{R}}{d t}$
+
+1. Déterminer à partir de l'oscillogramme, les valeurs de $u_{b}$ et $\frac{d u_{R}}{d t}$ au cours de la première demi période indiquée sur l'oscillogramme.
+
+1. Déduire que $L = 0 , 1 H$
+
+### 8-2/ Exercice 2
+
+À l'aide d'un générateur de tension idéale de fem : $E = 6 V$, une bobine d'inductance $L$ et de résistance interne $r$, un conducteur ohmique de résistance $R$ un ampèremètre de résistance négligeable et un interrupteur K on réalise le montage de la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img20.bmp)
+
+Pour étudier le comportement électrique du dipôle $R L$ à la fermeture du circuit, on connecte le circuit à un oscilloscope numérique à mémoire à fin de visualiser la tension $u_{R}$ sur la voie (II) et $E$ sur la voie (I)
+
+1. Reproduire le schéma du circuit et réaliser les connexions avec l'oscilloscope.
+
+On réalise les réglages de l'oscilloscope comme suit :
+
+- sensibilité verticale : $1 v / d i v$ pour les deux voies
+- sensibilité horizontale $1 m s / d i v$
+
+À $t = 0$ on ferme le circuit sur l'écran de l'oscilloscope apparaissent les deux chronogrammes de la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img21.bmp)
+
+1. Vérifier que le chronogramme (2) correspond à la tension aux bornes du résistor $u_{R} \left(t\right)$.
+
+1. En se basant sur le chronogramme (2) justifier la proportion suivante : ''le courant électrique s'établit dans le dipôle $R L$ progressivement et non instantanément''.
+
+1. Évaluer graphiquement la durée du régime transitoire d'établissement du courant électrique dans le dipôle $R L$.
+
+1. Préciser le phénomène physique qui retarde l'établissement du courant électrique dans le dipôle $R L$.
+
+1. Établir l'équation différentielle qui traduit l'évolution du courant électrique dans le temps $i \left(\right. t \left.\right)$.
+
+Une étude mathématique montre que l'équation établit précédemment a pour solution : $i \left(\right. t \left.\right) = I_{P} . \left(1 - e^{- \frac{t}{\tau}}\right)$ où $I_{P}$ et $\tau$ sont deux constantes non nulles.
+
+1. Montrer que $\tau = \frac{L}{R + r}$ et $I_{P} = \frac{E}{R + r}$ et écrire l'expression de $u_{R} \left(t\right)$ en fonction du temps.
+
+1. Définir et déterminer graphiquement la constante du temps $\zeta$ du dipôle RL.
+
+1. Si on veut augmenter la durée du régime transitoire d'établissement du courant on augmente ou on diminue la résistance du conducteur ohmique ? Justifier la réponse.
+
+En régime permanent l'ampèremètre indique la valeur $I_{P} = 60 m A$
+
+1. Déterminer la valeur de $L$, $R$ et $r$
+
+### 8-3/ Exercice 3
+
+Le circuit étudié, représenté ci-dessous, est constitué d'un générateur idéal de tension continue de force électromotrice E, d'un interrupteur K, d'une bobine de résistance r et d'inductance L et d'un conducteur ohmique de résistance R' :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img22.bmp)
+
+Données :
+
+- E = 4,0V
+- L = 11mH
+- R'= 10
+
+À partir de la fermeture de l'interrupteur K, on observe la tension $u_{R '}$ à l'aide d'une interface d'acquisition reliée à un ordinateur.
+
+1. Quel est l'intérêt de faire le relevé de cette tension $u_{R '}$ ?
+
+Le tableur du logiciel d'acquisition nous permet de calculer les valeurs de i et de tracer la courbe $i = f \left(\right. t \left.\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img23.bmp)
+
+1. Quel est le phénomène physique mis en évidence dans ce cas ?
+
+1. Quel élément du circuit est la cause de ce phénomène ?
+
+1. En appliquant la loi d'additivité des tensions, déterminer l'équation différentielle vérifiée par l'intensité $i$ du courant dans le circuit en fonction du temps.
+
+Lorsqu'on est en régime permanent, i vaut alors $I_{P}$.
+
+1. Que devient l'équation différentielle ?
+
+1. En déduire l'expression littérale de la résistance r de la bobine puis déterminer sa valeur en utilisant le graphe ci-dessus.
+
+### 8-4/ Exercice 4
+
+Un circuit électrique comporte, placés en série : un générateur idéal de tension continue de f.é.m. E = 6,00 V, un interrupteur K, une bobine d'inductance L et de résistance $r = 10 \Omega$ et un conducteur ohmique de résistance $R = 200 \Omega$.
+
+Un ordinateur relié au montage par une interface appropriée permet de visualiser au cours du temps les valeurs des tensions $u_{A B}$ et $u_{B C}$.
+
+Le schéma du circuit ci-dessous précise l'orientation du circuit et les tensions étudiées :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s11/img17.bmp)
+
+A t = 0, on ferme l'interrupteur K et on procède à l'acquisition. On obtient les deux courbes suivantes :
+
+#### Étude du montage
+
+1. À défaut d'ordinateur et d'interface d'acquisition, quel type d'appareil peut-on utiliser pour visualiser le phénomène étudié ?
+
+1. Donner l'expression de $u_{A B}$ en fonction de $i$ et de $\frac{d i}{d t}$
+
+1. Donner l'expression de $u_{B C}$ en fonction de $i$.
+
+1. Associer les courbes 1 et 2 aux tensions $u_{A B}$ et $u_{B C}$. Justifier.
+
+#### Détermination de l'intensité du courant en régime permanent
+
+1. Appliquer la loi d'additivité des tensions pour déterminer l'expression de l'intensité du courant qui traverse le circuit lorsque le régime permanent est établi. Calculer la valeur de $I_{P}$.
+
+1. Exploiter l'une des courbes pour retrouver cette valeur de $I_{P}$.
+
+#### Calcul de l'inductance L de la bobine
+
+1. Exploiter l'une des deux courbes pour déterminer la constante de temps $\tau$ du montage. Expliciter votre méthode.
+
+1. Rappeler l'expression de la constante de temps $\tau$ en fonction des grandeurs caractéristiques du circuit. Montrer que cette expression est homogène à un temps.
+
+1. À partir de la valeur de $\tau$ mesurée, calculer l'inductance L de la bobine.
