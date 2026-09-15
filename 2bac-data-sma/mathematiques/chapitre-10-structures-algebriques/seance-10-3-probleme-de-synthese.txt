@@ -1,0 +1,47 @@
+---
+Chapitre: Chapitre 10 : Structures algébriques
+Séance: Séance 10-3 : Structures algébriques - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 10-3 : Structures algébriques - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+#### 9-1/ Partie 1
+
+Soit $E = \mathbb{R} - \left{\frac{1}{\sqrt{2}}\right}$
+
+Pour tout $\left(a ; b\right) \in E^{2}$, on pose : $a \bot b = a + b - a b \sqrt{2}$
+
+1) Vérifier que pour tout $\left(a ; b\right) \in E^{2}$ :
+
+$$a \bot b = \frac{1}{\sqrt{2}} - \frac{1}{\sqrt{2}} \left(a \sqrt{2} - 1\right) \left(b \sqrt{2} - 1\right)$$
+
+2. En déduire que $\bot$ est une loi de composition interne dans $E$.
+
+3. Montrer que $\left(E ; \bot\right)$ est un groupe commutatif.
+
+#### 9-2/ Partie 2
+
+On rappelle que $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \times\right)$ est un anneau d'unité $I = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$.
+
+Soit $\mathcal{F}$ l'ensemble des matrices de $\mathbb{M}_{2} \left(\mathbb{R}\right)$ qui s'écrivent sous la forme :
+
+$$M \left(a\right) = \frac{1}{\sqrt{2}} \begin{bmatrix} \sqrt{2} - a & a \\ a & \sqrt{2} - a \end{bmatrix} \left(a \in \mathbb{R}\right)$$
+
+On pose : $A = \begin{bmatrix} - 1 & 1 \\ 1 & - 1 \end{bmatrix}$
+
+1. Vérifier que $A^{2} = - 2 A$ et $M \left(a\right) = I + \frac{a}{\sqrt{2}} A$.
+
+2. Montrer que $\mathcal{F}$ est stable dans $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \times\right)$.
+
+On considère l'application :
+
+$$\varphi : \left(E ; \bot\right) \rightarrow \left(\mathcal{F} ; \times\right) \\ a \rightarrowtail \varphi \left(a\right) = M \left(a\right)$$
+
+3. Montrer que $\varphi$ est un isomorphisme.
+
+4. En déduire la structure de $\left(\mathcal{F} ; \times\right)$.

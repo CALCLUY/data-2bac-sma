@@ -1,0 +1,291 @@
+---
+Chapitre: Chapitre 10 : Structures algébriques
+Séance: Séance 10-2-1 : Structures algébriques - Partie 2 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 10-2-1 : Structures algébriques - Partie 2 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+### V- Groupe
+
+#### 5-1/ Définition d'un groupe
+
+##### Définition 1
+
+Soit $G$ un ensemble muni d'une loi de composition interne (notée $\star$).
+
+On dit que $\left(G ; \star\right)$ est un groupe lorsque :
+
+1. La loi $\star$ est associative,
+2. $\left(G ; \star\right)$ possède un élément neutre,
+3. Tout élément de $G$ possède un symétrique dans $G$ pour la loi $\star$.
+
+Si de plus la loi $\star$ est commutative, on dit que $\left(G ; \star\right)$ est un groupe commutatif (ou groupe abélien).
+
+##### Remarques
+
+Lorsqu'on travaille de manière abstraite dans un groupe non connu, il est fréquent d'emprunter les notations d'un groupe usuel, par exemple $\left(\mathbb{R} ; +\right)$ ou $\left(\mathbb{R} \star ; \times\right)$.
+
+Deux types de notations seront ainsi fréquemment utilisées : La notation additive et la notation multiplicative.
+
+| Loi | Composé de deux éléments | Neutre | Symétrique d'un élément $x$ | Composé de $x$ et d'un symétrique |
+| $+$ | $x + y$ | $0$ | $- x$ | $x - y$ |
+| $\times$ ou $\cdot$ | $x y$ | $1$ | $x^{- 1}$ | $x y^{- 1}$ |
+
+De la même façon, si $x \in G$ et si $n \in \mathbb{N} \star$, on notera :
+
+* $n x = \underset{n f o i s}{\underbrace{x + x + x + . . . . + x}}$ si la notation est additive.
+* $x^{n} = \underset{n f o i s}{\underbrace{x x x . . . . x}}$ si la notation est multiplicative.
+
+Par abus de langage et lorsqu'il n'y a aucune ambiguïté, on dit souvent « soit $G$ un groupe ...» sans préciser la loi.
+
+##### Applications
+
+On considère l'ensemble : $\mathbb{U} = \left{z \in \mathbb{C} / \left|z\right| = 1\right}$
+
+Montrer que $\left(\mathbb{U} ; \times\right)$ est un groupe commutatif.
+
+#### 5-2/ Principales propriétés d'un groupe
+
+##### Proposition 1
+
+Soit $\left(G ; \star\right)$ un groupe. Alors :
+
+1- $G$ est non vide : il contient au moins son élément neutre.
+
+2- L'élément neutre $e$ de $G$ est unique.
+
+3- Le symétrique de tout élément de G est unique.
+
+4- Pour tout $\left(x ; y\right) \in G^{2}$ : $\left(x '\right)^{'} = x$ et $\left(x \star y\right) ' = y ' \star x '$. ($x '$ étant le symétrique de $x$ dans $\left(G ; \star\right)$).
+
+5- Tout élément $x \in G$ est régulier. Autrement dit, pour tout $\left(a ; x ; y\right) \in G^{3}$ :
+
+$\left(a \star x = a \star y \Rightarrow x = y\right)$ et $\left(x \star a = y \star a \Rightarrow x = y\right)$
+
+##### Proposition 2
+
+Soit $\left(G ; \star\right)$ un groupe d'élément neutre $e$.
+
+Pour tout $\left(a ; b\right) \in G^{2}$, l'équation $a \star x = b$ (resp. $x \star a = b$) admet une solution unique dans $G$ qui est $x = a ' \star b$ (resp. $x = b \star a '$), où $a '$ désigne le symétrique de $a$ dans $\left(G ; \star\right)$.
+
+En d'autres termes, pour tout $\left(a ; b ; x\right) \in G^{3}$ :
+
+$\left(a \star x = b \Leftrightarrow x = a ' \star b\right)$ et $\left(x \star a = b \Leftrightarrow x = b \star a '\right)$
+
+##### Applications
+
+Soit $\left(G ; \star\right)$ un groupe et $a$ un élément de $G$.
+
+On considère les applications $f$ et $g$ définies de $G$ dans $G$ par $f \left(x\right) = a \star x$ et $g \left(x\right) = x \star a$.
+
+1. Montrer que les applications $f$ et $g$ sont bijectives de $G$ dans $G$.
+
+Soit $\left(G ; \star\right)$ un groupe tel que : $\left(\forall \left(x ; y ; z\right) \in G^{3}\right) x \star y \star z = y \star z \star x$
+
+2. Montrer que le groupe $\left(G ; \star\right)$ est commutatif.
+
+#### 5-3/ Sous-groupes
+
+##### Définition 2
+
+Soit $\left(G ; \star\right)$ un groupe et $H$ une partie non vide de $G$
+
+On dit que $H$ est un sous-groupe de $\left(G ; \star\right)$ lorsque :
+
+* $H$ est stable par la loi $\star$, c'est-à-dire : $\left(\forall \left(x ; y\right) \in H^{2}\right) x \star y \in H$
+* $\left(H ; \star\right)$ est un groupe.
+
+#### 5-4/ Propriété caractéristique d'un sous-groupe
+
+##### Proposition 3
+
+Soit $\left(G ; \star\right)$ un groupe d'élément neutre $e$, et $H$ une partie de $G$.
+
+$H$ est un sous-groupe de $\left(G ; \star\right) \Leftrightarrow \left{\begin{matrix} H \neq \emptyset \\ \left(\forall \left(x ; y\right) \in H^{2}\right) x \star y ' \in H \end{matrix}\right$
+
+où $y '$ est le symétrique de $y$ dans $\left(G ; \star\right)$.
+
+##### Remarques
+
+En notation additive, la propriété caractéristique précédente s'écrit :
+
+$$\left{\begin{matrix} H \neq \emptyset \\ \left(\forall \left(x ; y\right) \in H^{2}\right) x - y \in H \end{matrix}\right$$
+
+En notation multiplicative, la propriété caractéristique précédente s'écrit :
+
+$$\left{\begin{matrix} H \neq \emptyset \\ \left(\forall \left(x ; y\right) \in H^{2}\right) x . y^{- 1} \in H \end{matrix}\right$$
+
+Muni de la loi induite, un sous-groupe est un groupe. C'est la méthode habituelle, car la plus efficace, pour montrer que l'on a affaire à un groupe : on démontre en général que c'est un sous-groupe d'un groupe connu. Cela permet, en particulier, de ne pas à avoir à montrer l'associativité.
+
+#### 5-5/ Morphismes de groupes
+
+##### Proposition 4
+
+Soit $f$ un morphisme d'un groupe $\left(G ; \star\right)$ dans un groupe $\left(\right. F ; T \left.\right)$.
+
+Alors : L'image de groupe $\left(G ; \star\right)$ est le groupe $\left(\right. f \left(G\right) ; T \left.\right)$.
+
+##### Remarques
+
+Soit $f$ un morphisme d'un groupe $\left(G ; \star\right)$ dans un groupe $\left(\right. F ; T \left.\right)$. On dit aussi :
+
+* $f$ est un isomorphisme de groupes si $f$ est bijectif.
+* $f$ est un endomorphisme de groupe $\left(G ; \star\right)$ si $f$ est défini de $\left(G ; \star\right)$ dans $\left(G ; \star\right)$.
+* $f$ est un automorphisme de groupe $\left(G ; \star\right)$ si $f$ est un endomorphisme bijectif.
+
+Si le morphisme $f$ est surjectif ou un isomorphisme de groupes alors $f \left(G\right) = F$, et dans ce cas, l'image du groupe $\left(G ; \star\right)$ par $f$ est le groupe $\left(\right. F ; T \left.\right)$. On dit alors que le morphisme $f$ transfère « la structure du groupe $\left(G ; \star\right)$ » en celle du groupe $\left(\right. F ; T \left.\right)$.
+
+Si $f$ est un isomorphisme de $\left(G ; \star\right)$ dans $\left(\right. F ; T \left.\right)$, alors $\left(G ; \star\right)$ et $\left(\right. F ; T \left.\right)$ ont la même structure. En particulier :
+
+* Si $\left(G ; \star\right)$ est un groupe, alors $\left(\right. F ; T \left.\right)$ est un groupe.
+* Si $\left(G ; \star\right)$ est un groupe commutatif, alors $\left(\right. F ; T \left.\right)$ est un groupe commutatif.
+
+Ce résultat est très utile en pratique.
+
+### VI- Anneau
+
+#### 6-1/ Distributivité
+
+##### Définition 3
+
+Soit $E$ un ensemble muni de deux lois de composition interne $\oplus$ et $\bigotimes$.
+
+On dit que la loi $\bigotimes$ est distributive par rapport à la loi $\oplus$ si pour tous $x$, $y$ et $z$ de $E$, on a :
+
+$x \bigotimes \left(y \oplus z\right) = \left(x \bigotimes y\right) \oplus \left(x \bigotimes z\right)$ et $\left(y \oplus z\right) \bigotimes x = \left(y \bigotimes x\right) \oplus \left(z \bigotimes x\right)$
+
+#### 6-2/ Structure d'anneau
+
+##### Définition 4
+
+Soit $A$ un ensemble muni de deux lois de composition interne $\oplus$ et $\bigotimes$.
+
+On dit que $\left(A ; \oplus ; \bigotimes\right)$ est un anneau lorsque :
+
+1. $\left(A ; \oplus\right)$ est un groupe commutatif.
+2. La loi $\bigotimes$ est associative et distributive par rapport à la loi $\oplus$
+
+On dit que l'anneau $\left(A ; \oplus ; \bigotimes\right)$ est commutatif si la loi $\bigotimes$ est commutative.
+
+On dit que l'anneau $\left(A ; \oplus ; \bigotimes\right)$ est unitaire si la loi $\bigotimes$ possède un élément neutre pour la loi $\bigotimes$.
+
+#### 6-3/ Règles de calcul dans un anneau
+
+##### Proposition 5
+
+Soit $\left(A ; + ; \cdot\right)$ un anneau unitaire. On a les propriétés suivantes :
+
+1- Pour tout $x \in A$ : $0_{A} \cdot x = x \cdot 0_{A} = 0_{A}$
+
+2- Pour tout $x \in A$ : $\left(- 1_{A}\right) \cdot x = x \cdot \left(- 1_{A}\right) = - x$
+
+3- Pour tout $\left(x ; y\right) \in A^{2}$ : $\left(- x\right) \cdot y = x \cdot \left(- y\right) = - \left(x \cdot y\right)$
+
+4- Pour tout $\left(x ; y\right) \in A^{2}$ : $\left(- x\right) \cdot \left(- y\right) = x \cdot y$
+
+##### Remarques
+
+1- En appliquant les règles de calcul citées dans la proposition 5 dans l'anneau $\left(\mathbb{R} ; + ; \times\right)$, on obtient :
+
+$$0 \times x = x \times 0 = x \\ \left(- 1\right) \times x = x \times \left(- 1\right) = - x \\ x \times \left(- y\right) = \left(- x\right) \times y = - \left(x \times y\right) \\ \left(- x\right) \times \left(- y\right) = x \times y$$
+
+2- Attention, il ne faut pas déduire trop hâtivement de la première propriété qu'un produit n'est nul que lorsqu'un des deux éléments multipliés est nul.
+
+Par exemple, dans l'anneau $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \times\right)$ : $\begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix} \times \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix} = \begin{bmatrix} 0 & 0 \\ 0 & 0 \end{bmatrix}$ malgré que les deux matrices $\begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}$ et $\begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}$ ne sont pas nulles
+
+3- Il peut arriver que l'on rencontre, dans la littérature, une autre définition de la notion d'anneau dans laquelle on suppose la seconde loi admit un élément neutre. D'ailleurs, tous les anneaux envisagés dans ce cours seront unitaires. Les anneaux non unitaires n'ont pas en général d'intérêt pratique car on peut toujours injecter un anneau non unitaire dans un anneau unitaire.
+
+#### 6-4/ Diviseurs de zéro dans un anneau - Anneau intègre
+
+##### Définition 5
+
+Soit $\left(A ; + ; \cdot\right)$ un anneau et $a \in A - \left{0_{A}\right}$.
+
+On dit que $a$ est un diviseur de zéro dans l'anneau $A$ s'il existe $b \in A - \left{0_{A}\right}$ tel que :
+
+$a \cdot b = 0_{A}$ ou $b \cdot a = 0_{A}$
+
+##### Définition 6
+
+On dit qu'un anneau $\left(A ; + ; \cdot\right)$ est intègre s'il n'est pas réduit à zéro et n'admet aucun diviseur de zéro.
+
+Autrement dit : [$\left(A ; + ; \cdot\right)$ est intègre] $\Leftrightarrow \left[\left(\forall \left(a ; b\right) \in A^{2}\right) a b = 0_{A} \Rightarrow \left(a = 0_{A} o u b = 0_{A}\right)\right]$
+
+##### Proposition 6
+
+Soit $\left(A ; + ; \cdot\right)$ un anneau unitaire et $a \in A$.
+
+Si $a$ est inversible dans $\left(A ; \cdot\right)$, alors $a$ n'est pas un diviseur de zéro dans l'anneau $\left(A ; + ; \cdot\right)$.
+
+##### Remarques
+
+Soit $M = \begin{bmatrix} a & c \\ b & d \end{bmatrix}$ une matrice de $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \times\right)$.
+
+On rappelle que : $d e t M = \begin{vmatrix} a & c \\ b & d \end{vmatrix} = a d - b c$
+
+La matrice $M$ est inversible dans $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \times\right)$ si, et seulement si, son déterminant est non nul.
+
+Si $d e t M \neq 0$, alors la matrice inverse de $M$ est donnée par la formule :
+
+$$M^{- 1} = \frac{1}{d e t M} \begin{bmatrix} d & - c \\ - b & a \end{bmatrix}$$
+
+### VII- Corps
+
+##### Définition 7
+
+On appelle corps tout anneau unitaire $\left(K ; + ; \cdot\right)$ non réduit à $\left{0_{K}\right}$ tel que tout élément autre que $0_{K}$ est inversible pour la loi $\cdot$.
+
+Un corps est dit commutatif si sa multiplication $\cdot$ est commutative.
+
+##### Remarques
+
+1- Il peut arriver que l'on rencontre, dans la littérature, une autre définition de la notion de corps dans laquelle on suppose la commutativité de la multiplication $\cdot$.
+
+D'ailleurs, tous les corps envisagés dans ce cours seront commutatifs. Les corps non commutatifs n'ont pas en général d'intérêt pratique.
+
+2- D'après la proposition 6, l'intégrité est une condition nécessaire, mais insuffisant, pour qu'un anneau soit un corps. Ainsi, $\left(\mathbb{Z} / 6 \mathbb{Z} ; + ; \times\right)$ n'est pas un corps car il n'est pas un anneau intègre.
+
+##### Proposition 7
+
+Soit $\left(K ; + ; \cdot\right)$ un ensemble muni de deux lois de composition interne $+$ et $\cdot$.
+
+Pour que $\left(K ; + ; \cdot\right)$ soit un corps, il faut et il suffit que les trois axiomes suivants soient vérifiés :
+
+1. $\left(K ; +\right)$ est un groupe commutatif.
+2. $\left(K - \left{0_{K}\right} ; \cdot\right)$ est un groupe.
+3. La loi $\cdot$ est distributive par rapport à la loi $+$.
+
+##### Proposition 8
+
+Soit $\left(K ; + ; \cdot\right)$ un corps. On a alors les propriétés suivantes :
+
+1- Tout élément $a$ de $K - \left{0_{K}\right}$ est régulier pour l'opération $\cdot$ :
+
+Pour tout $\left(x ; y\right) \in K^{2}$ : $a \cdot x = a \cdot y \Rightarrow x = y$ et $x \cdot a = y \cdot a \Rightarrow x = y$
+
+2- $\left(K ; + ; \cdot\right)$ est un anneau intègre :
+
+$$\left(\forall \left(x ; y\right) \in K^{2}\right) \left[x \cdot y = 0_{K} \Rightarrow \left(x = 0_{K} o u y = 0_{K}\right)\right]$$
+
+3- Pour tous $a \in K - \left{0_{K}\right}$ et $b \in K$, on a :
+
+$a \cdot x = b \Leftrightarrow x = a^{- 1} \cdot b$ et $x \cdot a = b \Leftrightarrow x = b \cdot a^{- 1}$
+
+##### Remarque
+
+Soit $\left(A ; \oplus ; \bigotimes\right)$ un anneau unitaire d'élément unité $1_{A}$, et soit $K$ une partie de $A$ stable pour les lois $\oplus$ et $\bigotimes$ dans $A$.
+
+On peut avoir $\left(K ; \oplus ; \bigotimes\right)$ un corps commutatif d'élément unité $1_{K}$ différent de $1_{A}$.
+
+À titre d'exemple, considérons : $A = \mathbb{M}_{2} \left(\mathbb{R}\right)$ et $K = \begin{Bmatrix} \begin{bmatrix} x & x \\ x & x \end{bmatrix} / x \in \mathbb{R} \end{Bmatrix}$
+
+$\left(K ; + ; \times\right)$ est un corps commutatif. Son zéro est $O_{2} = \begin{bmatrix} 0 & 0 \\ 0 & 0 \end{bmatrix}$ et son élément unité est $J = \begin{bmatrix} \frac{1}{2} & \frac{1}{2} \\ \frac{1}{2} & \frac{1}{2} \end{bmatrix}$.
+
+Par contre, l'élément unité de $\left(A ; + ; \times\right)$ est la matrice identité $I_{2} = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$.
+
+L'inverse de $M = \begin{bmatrix} x & x \\ x & x \end{bmatrix} / x \neq 0$ est la matrice $M^{- 1} = \begin{bmatrix} \frac{1}{4 x} & \frac{1}{4 x} \\ \frac{1}{4 x} & \frac{1}{4 x} \end{bmatrix} = \frac{1}{4 x} \begin{bmatrix} 1 & 1 \\ 1 & 1 \end{bmatrix}$.

@@ -1,0 +1,103 @@
+---
+Chapitre: Devoirs Corrigés
+Séance: Semestre 2 - Devoir 2 - Modèle 1
+Type: Devoir corrigé
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Semestre 2 Devoir 2 Modèle 1
+Professeur : Mr CHEDDADI Haitam
+
+### I- Exercice 1
+
+On rappelle que $\left(\mathbb{C} ; + ; \times\right)$ est un corps commutatif, que $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; .\right)$ est un espace vectoriel réel et que $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \times\right)$ est un anneau unitaire, non commutatif et non intègre.
+
+On pose :
+
+$$I = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} ; J = \begin{bmatrix} 0 & - 3 \\ 1 & 0 \end{bmatrix} ; M \left(x ; y\right) = \begin{bmatrix} x & - 3 y \\ y & x \end{bmatrix} \left(\left(x ; y\right) \in \mathbb{R}^{2}\right)$$
+
+$$E = \left\{M \left(x ; y\right) / \left(x ; y\right) \in \mathbb{R}^{2}\right\}$$
+
+1. Montrer que $E$ est un sous espace vectoriel de $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; .\right)$, de dimension 2
+
+2. Montrer que $E$ est stable dans $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; \times\right)$.
+
+3. Montrer que $\left(E , + , \times\right)$ est un anneau unitaire et commutatif.
+
+On pose $E \star = E - \left\{M \left(0 , 0\right)\right\}$, et on considère l'application $\varphi$ de $\mathbb{C} \star$ vers $E \star$ définie par :
+
+$$\forall \left(x ; y\right) \in \mathbb{R}^{2} ; \varphi \left(x + i y\right) = M \left(x , \frac{y}{\sqrt{3}}\right)$$
+
+4. Montrer que $\varphi$ est un isomorphisme de $\left(\mathbb{C} \star , \times\right)$ sur $\left(E \star , \times\right)$.
+
+5. En déduire que $\left(E \star , \times\right)$ est un groupe commutatif.
+
+6. Montrer que $J^{2017} = \varphi \left(3^{1008} \sqrt{3} i\right)$, puis déterminer l'inverse de la matrice $J^{2017}$ dans $\left(E \star , \times\right)$.
+
+7. Montrer que $\left(E , + , \times\right)$ est un corps commutatif.
+
+### II- Exercice 2
+
+On considère dans $\mathbb{Z} \times \mathbb{Z}$ l'équation $\left(D\right) : 7 x^{3} - 13 y = 5$
+
+Soit $\left(x , y\right) \in \mathbb{Z} \times \mathbb{Z}$ une solution de l'équation $\left(D\right)$
+
+1. Montrer que $x$ et $13$ sont premiers entre eux.
+
+2. En déduire que $x^{12} \equiv 1 \left[13\right]$.
+
+3. Montrer que $x^{3} \equiv 10 \left[13\right]$.
+
+4. En déduire que $x^{12} \equiv 3 \left[13\right]$.
+
+5. Déduire des questions précédentes, que l'équation $\left(D\right)$ n'admet pas de solution dans $\mathbb{Z} \times \mathbb{Z}$.
+
+### III- Exercice 3
+
+Les parties A, B et C sont indépendantes.
+
+##### Partie A
+
+Soit $E$ l'ensemble des fonctions $f$ définie sur $\mathbb{R}$ par :
+
+$$\left(\forall \left(x ; y\right) \in \mathbb{R}^{2}\right) f \left(x\right) + f \left(y\right) = 2 f \left(\frac{x + y}{2}\right)$$
+
+1. Montrer que $\left(E , + , \cdot\right)$ est un espace vectoriel réel.
+
+Soit $\mathcal{A}$ l'ensemble des fonctions affines définies de $\mathbb{R}$ dans $\mathbb{R}$.
+
+2. Montrer que $\mathcal{A} \subset E$ et que $\left(\mathcal{A} , + , \cdot\right)$ est un espace vectoriel réel.
+
+##### Partie B
+
+Pour tout $\left(a ; b\right) \in \mathbb{R}^{2}$, on pose :
+
+$$\left(\forall \left(\alpha ; \beta\right) \in \mathbb{R}^{2}\right) f_{\left(\alpha ; \beta\right)} \left(x\right) = \alpha e^{x} \cos \left(a x\right) + \beta e^{x} \sin \left(b x\right)$$
+
+On considère l'ensemble suivant :
+
+$$E_{\left(a ; b\right)} = \left\{ f_{\left(\alpha ; \beta\right)} / \left(\alpha ; \beta\right) \in \mathbb{R}^{2}\right\}$$
+
+1. Montrer que $\left(E_{\left(a ; b\right)} , + , \cdot\right)$ est un espace vectoriel réel.
+
+2. Déterminer selon les valeurs des réels $a$ et $b$, la dimension de l'espace vectoriel $E_{\left(a ; b\right)}$.
+
+##### Partie C
+
+Dans cette partie, $\left(\mathcal{F} \left(\mathbb{R}_{+}^{\star}\right) , + , \cdot\right)$ désigne l'espace vectoriel des fonctions numériques définies sur $\mathbb{R}_{+}^{\star}$.
+
+Pour tout $\left(a ; b\right) \in \mathbb{R}^{2}$, et pour tout $x \in \mathbb{R}_{+}^{\star}$, on pose :
+
+$$f_{\left(a ; b\right)} \left(x\right) = x^{a} e^{b x} e t \varphi_{\left(a ; b\right)} \left(x\right) = \ln \left(f_{\left(a ; b\right)} \left(x\right)\right)$$
+
+On considère l'ensemble : $\mathcal{L} = \left\{\varphi_{\left(a ; b\right)} / \left(a ; b\right) \in \mathbb{R}^{2}\right\}$
+
+1. Montrer que $\left(\mathcal{L} ; +\right)$ est un sous-groupe du groupe $\left(\mathcal{F} \left(\mathbb{R}_{+}^{\star}\right) , +\right)$
+
+2. Vérifier que pour tout $\varphi_{\left(a ; b\right)} \in \mathcal{L}$ et pour tout $\lambda \in \mathbb{R}$ : $\lambda \cdot \varphi_{\left(a ; b\right)} \in \mathcal{L}$
+
+3. En déduire que $\left(\mathcal{L} , + , \cdot\right)$ est un espace vectoriel réel.
+
+4. Montrer que $\left(\varphi_{\left(1 ; 0\right)} ; \varphi_{\left(0 ; 1\right)}\right)$ est une base de l'espace vectoriel $\mathcal{L}$, puis déterminer sa dimension.

@@ -1,0 +1,53 @@
+---
+Chapitre: Devoirs Corrigés
+Séance: Semestre 1 - Devoir 3 - Modèle 1
+Type: Devoir corrigé
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Semestre 1 Devoir 3 Modèle 1
+Professeur : Mr CHEDDADI Haitam
+
+### I- Exercice 1 (9 pts)
+
+Soit $a \in \mathbb{C} \star$, on considère l'équation :
+
+$$\left(E\right) : z^{2} + \left[\left(1 - a\right) i - a\right] z + a + a^{2} i = 0$$
+
+1. Montrer que : $\Delta = \left[\left(1 + a\right) i - a\right]^{2}$
+
+2. Résoudre dans $\mathbb{C}$ l'équation $\left(E\right)$.
+
+3. Montrer que l'équation $\left(E\right)$ admet une seule solution $\Leftrightarrow a = \frac{1}{\sqrt{2}} e^{i \frac{3 \pi}{4}}$
+
+Supposons que $a \neq - 1$, $a \neq - 1$ $a \neq - i$ et $a \neq \frac{1}{\sqrt{2}} e^{i \frac{3 \pi}{4}}$.
+
+Soient $A \left(a\right)$, $B \left(a i\right)$, $C \left(a - i\right)$ et $D \left(- i\right)$.
+
+4. Montrer que $A$, $B$ et $C$ sont alignés $\Leftrightarrow a r g a \equiv \frac{3 \pi}{4} \left[\pi\right]$
+
+On pose $a = i$.
+
+Soit $R$ la rotation de centre $B$ telle que $R \left(A\right) = D$.
+
+5. Déterminer l'angle de la rotation $R$.
+
+### II- Exercice 2 (6 pts)
+
+On considère l'application :
+
+$$F : P \rightarrow P \\ M \left(z\right) \rightarrow M \left(z '\right) / z ' = \left(1 + i\right) z - i$$
+
+1. Montrer que $F$ admet un seul point invariant $A$.
+
+2. Montrer que $A M ' = \sqrt{2} A M$ et $\left(\overset{\rightarrow}{A M} , \overset{\rightarrow}{A M '}\right) \equiv \frac{\pi}{4} \left[2 \pi\right]$.
+
+3. Montrer que $A M M '$ est un triangle rectangle.
+
+### III- Exercice 3 (5 pts)
+
+1. Résoudre dans $\mathbb{C}$ : $\left(z - i\right)^{5} = i \left(z + i\right)^{5}$
+
+2. Montrer que si l'équation $z^{2} - a z + \frac{1}{2} + i \frac{\sqrt{3}}{2} = 0 ; a \in \mathbb{C}$ admet deux solutions $z_{1}$ et $z_{2}$, alors : $a r g \left(z_{1}\right) + a r g \left(z_{2}\right) \equiv \frac{\pi}{3} \left[2 \pi\right]$ et $\left|z_{1}\right| \times \left|z_{2}\right| = 1$.

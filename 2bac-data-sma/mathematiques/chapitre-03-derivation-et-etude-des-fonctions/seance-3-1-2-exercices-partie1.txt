@@ -1,0 +1,58 @@
+---
+Chapitre: Chapitre 3 : Dérivation et étude des fonctions
+Séance: Séance 3-1-2 : Dérivation et étude des fonctions - Partie 1 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 3-1-2 : Dérivation et étude des fonctions - Partie 1 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 3-2/ Exercice 1-1
+
+Pour chacun des cas suivants, étudier la dérivabilité de la fonction $f$ en $x_{0}$ puis interpréter géométriquement les résultats obtenus :
+
+$$\overline{\left.\right)1} \left\{\begin{matrix} f \left(x\right) = \left(1 + x\right) \sqrt{1 - x^{2}} s i 0 \leq x \leq 1 \\ f \left(x\right) = \sqrt[3]{x^{3} - x} s i x > 1 \end{matrix}\right ; x_{0} = 1 \\ \\ \overline{\left.\right)2} \left\{\begin{matrix} f \left(x\right) = \frac{tan x}{\sqrt{x}} s i 0 < x < \frac{\pi}{2} \\ f \left(0\right) = 0 \end{matrix}\right ; x_{0} = 0 \\ \\ \overline{\left.\right)3} \left\{\begin{matrix} f \left(x\right) = 1 + \sqrt[3]{x^{3} - 2 x^{2}} s i x \geq 2 \\ f \left(x\right) = \frac{2}{\pi} A r c tan \frac{1}{\sqrt{2 - x}} s i x < 2 \end{matrix}\right ; x_{0} = 2$$
+
+#### 3-4/ Exercice 1-2
+
+Soit $f$ la fonction définie sur l'intervalle $\left]\right. 0 ; + \infty \left[\right.$ par : $f \left(\right. x \left.\right) = x - \frac{1}{A r c tan \left(\right. x \left.\right)}$
+
+1. Dresser le tableau de variation de la fontion $f$
+2. Montrer que l'équation $f \left(\right. x \left.\right) = 0$ admet une unique solution $\alpha$ dans l'intervalle $\left]\right. 0 ; + \infty \left[\right.$ et que $1 < \alpha < \sqrt{3}$
+3. a) Montrer que $f$ admet un réciproque $f^{- 1}$ définie sur $\mathbb{R}$
+
+b) Montrer que la fonction $f^{- 1}$ est dérivable sur $\mathbb{R}$
+
+c) Montrer que : $\left(\right. f^{- 1} \left.\right) ' \left(\right. 0 \left.\right) = \frac{1 + \alpha^{2}}{1 + 2 \alpha^{2}}$
+
+#### 3-6/ Exercice 1-3
+
+On considère la fonction $g$ définie sur $\left[\right. 1 ; + \infty \left[\right.$ par : $g \left(x\right) = x - 3 + \sqrt{x^{2} - x}$
+
+1. Étudier la dérivabilité de la fonction $g$ à droite en $1$ puis interpréter le résultat géométriquement.
+
+2. Étudier les variations de la fonction $g$.
+
+3. Montrer que $g$ admet une fonction réciproque dont on déterminera le domaine de définition,
+
+4. Montrer que $g^{- 1}$ est dérivable en $\left(\sqrt{2} - 1\right)$ puis calculer $\left(g^{- 1}\right)^{'} \left(\sqrt{2} - 1\right)$.
+
+#### 3-5/ Exercice 1-4
+
+On considère la fonction $f$ définie sur l'intervalle $I = \left]\right. - \infty ; 0 \left[\right.$ par : $f \left(\right. x \left.\right) = A r c tan \left(\right. \frac{\sqrt{1 + x^{2}} - 1}{x} \left.\right)$
+
+1. Calculuer les limites : $\underset{x \rightarrow - \infty}{lim} f \left(\right. x \left.\right) e t \underset{0^{-}}{lim} f \left(\right. x \left.\right)$
+2. a) Montrer que $f$ est continue sur I
+
+b) Montrer que f est monotone sur I
+
+3. a) Montrer que $f$ admet un fonction réciproque définie sur un intervalle J à déterminer.
+
+b) Montrer que $f^{- 1}$ est dérivable sur J.
+
+4. a) Vérifier que $tan \left(\right. \frac{\pi}{8} \left.\right) = \sqrt{2} - 1$ puis calculer $f \left(\right. - 1 \left.\right) e t \left(\left(\right. f^{- 1} \left.\right)\right)^{'} \left(\right. - \frac{\pi}{8} \left.\right)$
+
+b) Montrer que $\forall x \in I : f \left(\right. x \left.\right) = \frac{1}{2} A r c tan x e t c a l c u l e r f^{- 1} \left(\right. x \left.\right) p o u r t o u t x d e J$

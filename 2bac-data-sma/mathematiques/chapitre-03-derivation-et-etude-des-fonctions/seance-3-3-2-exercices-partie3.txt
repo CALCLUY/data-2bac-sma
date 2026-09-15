@@ -1,0 +1,120 @@
+---
+Chapitre: Chapitre 3 : Dérivation et étude des fonctions
+Séance: Séance 3-3-2 : Dérivation et étude des fonctions - Partie 3 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 3-3-2 : Dérivation et étude des fonctions - Partie 3 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 8-1/ Exercice 3-1
+
+On considère la fonction $f$ tel que $f \left(x\right) = 2 x - \left(x + 1\right)^{\frac{2}{3}}$.
+
+1. Déterminer $D_{f}$, le domaine de définition de $f$, et calculer $\underset{x \rightarrow + \infty}{lim} f \left(x\right)$.
+
+2. Étudier l'asymptote de la courbe $\mathcal{C}_{f}$ au voisinage de $+ \infty$.
+
+Soit $g$ le prolongement de $f$ à droite de $- 1$.
+
+3. Étudier la dérivabilité de la fonction $g$ à droite de $- 1$.
+
+4. Calculer $f ' \left(x\right)$, et donner le tableau de variations de $f$.
+
+5. Montrer que $\mathcal{C}_{f}$ coupe l'axe des abscisses en à point d'abscisse $\alpha \in \left]\right. 4 ; 5 \left[\right.$ (On prend $2^{\frac{2}{3}} < 2$).
+
+6. Tracer $\mathcal{C}_{f}$.
+
+#### 8-2/ Exercice 3-2
+
+##### Partie I
+
+On considère la fonction $f$ définie sur $I = \left[0 ; \frac{\pi}{2}\right]$ par :
+
+$\left(\forall x \in \left[\right. 0 ; \frac{\pi}{2} \left[\right.\right) ; f \left(x\right) = A r c tan \left(\sqrt{tan x}\right)$ et $f \left(\frac{\pi}{2}\right) = \frac{\pi}{2}$
+
+1. Montrer que $f$ est continue sur $I$.
+
+2. Étudier la dérivabilité de $f$ à droite de $0$.
+
+3. Montrer que $f$ est strictement croissante sur $I$, et donner le tableau de variations de $f$.
+
+4. Montrer que $\mathcal{C}_{f}$ a un point de symétrie $\Omega \left(\frac{\pi}{4} , \frac{\pi}{4}\right)$.
+
+5. Résoudre dans $I$ l'équation $\left(E\right) : f \left(x\right) = x$, et étudier le signe de $f \left(x\right) - x$.
+
+6. Tracer $\mathcal{C}_{f}$ dans un un repère orthonormé $\left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$ (Unité : $2 c m$).
+
+##### Partie II
+
+On considère la suite $\left(u_{n}\right)_{n \in \mathbb{N}}$ définie par :
+
+$$\left\{\begin{matrix} u_{0} \in I \\ \left(\forall n \in \mathbb{N}\right) ; u_{n + 1} = f \left(u_{n}\right) \end{matrix}\right$$
+
+1. Donner une condition nécessaire et suffisante pour que la suite $\left(u_{n}\right)_{n \in \mathbb{N}}$ soit constante.
+
+On suppose que $u_{0} \notin \left\{0 ; \frac{\pi}{4} ; \frac{\pi}{2}\right\}$.
+
+2. Montrer que la suite $\left(u_{n}\right)_{n \in \mathbb{N}}$ est convergente et calculer sa limite.
+
+#### 8-3/ Exercice 3-3
+
+On considère la fonction $f$ définie sur $\left[\right. - 1 ; + \infty \left[\right.$ par :
+
+$$\left\{\begin{matrix} f \left(x\right) = \frac{A r c tan \sqrt{x + 1}}{\sqrt{x + 1}} ; x > - 1 \\ f \left(- 1\right) = 1 \end{matrix}\right$$
+
+1. Montrer que la fonctio $f$ est continue à droite du point $x_{0} = - 1$.
+
+2. Calculer $\underset{x \rightarrow + \infty}{lim} f \left(x\right)$ et interpréter géométriquement le résultat.
+
+Soit $X \in \left]\right. 0 ; + \infty \left[\right.$, on pose $\varphi \left(t\right) = t^{3} \left(A r c tan X - X\right) - X^{3} \left(A r c tan t - t\right)$.
+
+3. Montrer que $\varphi$ est dérivable sur l'intervalle $\left]\right. 0 ; X \left[\right.$ et calculer la dérivée $\varphi ' \left(t\right)$.
+
+4. Montrer que $\left(\exists c \in \left]\right. 0 , X \left[\right.\right) \frac{A r c tan X - X}{X^{3}} = \frac{- 1}{3 \left(1 + c^{2}\right)}$.
+
+5. Étudier la dérivabilité de la fonction $f$ à droite du point $x_{0} = - 1$.
+
+6. Montrer en utilisant le théorème des accroissements finis que :
+
+$$\left(\forall X \in \mathbb{R}^{+}\right) \frac{X}{1 + X^{2}} \leq A r c tan X \leq X$$
+
+7. Montrer que :
+
+$$\left(\forall x \in \left]\right. 1 ; + \infty \left[\right.\right) f ' \left(x\right) = \frac{1}{2 \sqrt{\left(x + 1\right)^{3}}} \left(\frac{\sqrt{x + 1}}{x + 2} - A r c tan \sqrt{x + 1}\right)$$
+
+8. Conclure que la fonction $f$ est décroissante sur l'intervalle $\left[\right. 1 ; + \infty \left[\right.$.
+
+9. Montrer que l'équation $f \left(x\right) = x$ admet une solution unique $\alpha$, et que $\alpha \in \left]\right. 0 ; 1 \left[\right.$.
+
+10. Tracer $\mathcal{C}_{f}$. (On prend $\alpha \simeq 0 , 7$)
+
+On considère la fonction $g$ définie sur $\mathbb{R}^{+}$ par :
+
+$$g \left(x\right) = \frac{x}{1 + x^{2}} - A r c tan x$$
+
+11. Calculer $g ' \left(x\right)$ et donner le tableau de variations de $g$.
+
+12. Conclure que $\left(\forall X \in \mathbb{R}^{+}\right) \left|g \left(x\right)\right| \leq \frac{\pi}{2}$.
+
+13. Montrer que $\left(\forall X \in \left]\right. 0 ; 1 \left[\right.\right) \left|f ' \left(x\right)\right| \leq \frac{\pi}{4}$.
+
+On considère la suite numérique $\left(\left(\right. u_{n} \left.\right)\right)_{n}$ définie par :
+
+$$\left\{\begin{matrix} u_{0} = \frac{1}{2} \\ u_{n + 1} = f \left(u_{n}\right) \end{matrix}\right$$
+
+14. Montrer que $\left(\forall n \in \mathbb{N}\right) 0 < u_{n} < 1$.
+
+15. Montrer que $\left(\forall n \in \mathbb{N}\right) \left|u_{n + 1} - \alpha\right| \leq \frac{\pi}{4} \left|u_{n} - \alpha\right|$.
+
+16. Montrer que $\left(\left(\right. u_{n} \left.\right)\right)_{n}$ est convergente et calculer sa limite.
+
+#### 8-4/ Exercice 3-4
+
+Dans chacun des cas suivants, déterminer une primitive de la fonction $f$ ainsi que les intervalles où elle est définie :
+
+$$\overline{\left.\right)1} f \left(x\right) = x^{2} + \sqrt{x} + \sqrt[3]{x} \\ \\ \overline{\left.\right)2} f \left(x\right) = \frac{1}{x^{2}} + \frac{3}{x^{3}} \\ \\ \overline{\left.\right)3} f \left(x\right) = \frac{x}{\sqrt{x^{2} + 1}} \\ \\ \overline{\left.\right)4} f \left(x\right) = \frac{1}{x^{2}} \left(\frac{1}{x} - 1\right)^{3} \\ \\$$
+$$\overline{\left.\right)5} f \left(x\right) = x \sqrt[3]{x^{2} - 1} \\ \\ \overline{\left.\right)6} f \left(x\right) = s i n x . cos^{3} x \\ \\ \overline{\left.\right)7} f \left(x\right) = \frac{x^{2}}{1 + x^{6}} \\ \\ \overline{\left.\right)8} f \left(x\right) = sin x . cos 2 x$$

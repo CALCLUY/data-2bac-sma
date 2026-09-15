@@ -1,0 +1,173 @@
+---
+Chapitre: Chapitre 9 : Arithmétique dans Z
+Séance: Séance 9-2-1 : Arithmétique dans Z - Partie 2 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 9-2-1 : Arithmétique dans $\mathbb{Z}$ - Partie 2 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+### IV- L'ensemble $\mathbb{Z} / n \mathbb{Z}$
+
+#### 4-1/ Classes d'équivalence
+#### 4-2/ Opérations dans l'ensemble $\mathbb{Z} / n \mathbb{Z}$
+
+### V- Systèmes de numération
+
+#### 5-1/ Représentation d'un entier naturel dans un système de numération
+#### 5-2- Comparaison de deux nombres présentés dans le même système de numération
+#### 5-3/ Addition et multiplication de deux nombres présentés dans le même système de numération
+#### 5-4/ Critères de divisibilité sur les nombres 3;4;5;9;11;25 dans le système décimal
+
+* * *
+
+### IV- L'ensemble $\mathbb{Z} / n \mathbb{Z}$
+
+#### 4-1/ Classes d'équivalence
+
+##### Définition 7
+
+Soit $n$ un élément de $\mathbb{N} \star$.
+
+L'ensemble des entiers relatifs qui ont le même reste $r$ de la division euclidienne par $n$ est appelé la classe d'équivalence de $r$, et on la note $\bar{r}$.
+
+C'est la classe d'équivalence de $r$ modulo $n$ dans $\mathbb{Z}$.
+
+Généralisation : Soit $a \in \mathbb{Z}$ et $n \in \mathbb{N} \star$.
+
+La classe d'équivalence de $a$ modulo $n$ est l'ensemble défini par :
+
+$$\bar{a} = \left{x \in \mathbb{Z} / x \equiv a \left[n\right]\right} = \left{a + k n / k \in \mathbb{Z}\right}$$
+
+##### Applications
+
+Déterminer la classe d'équivalence modulo $12$ de chacun des nombres :
+
+$$116 ; 1979 ; 2018$$
+
+##### Proposition 8
+
+Soit $n$ un élément de $\mathbb{N} \star$.
+
+Pour tout $x \in \mathbb{Z}$, on désigne par $\bar{x}$ la classe d'équivalence de $x$ modulo $n$. Alors:
+
+1) $\left(\forall a \in \mathbb{Z}\right) \left(\exists ! r \in \left{0 ; 1 ; . . . ; n - 1\right}\right) \bar{a} = \bar{r}$
+
+2) Si $0 \leq r < n$ et $0 \leq r ' < n$ alors : $\bar{r} = \bar{r '} \Leftrightarrow r = r '$ et $r \neq r ' \Leftrightarrow \bar{r} \cap \bar{r '} = \emptyset$
+
+3) $\left(\forall x \in \mathbb{Z}\right) \left(\exists ! r \in \left{0 ; 1 ; . . . ; n - 1\right}\right) x \in \bar{r}$ ($r$ étant le reste de la division euclidienne de $x$ par $n$)
+
+4) $\mathbb{Z} = \bar{0} \cup \bar{1} \cup \bar{2} \cup . . . \cup \bar{n - 1}$
+
+5) $\mathbb{Z} / n \mathbb{Z} = \left{\bar{0} ; \bar{1} ; \bar{2} ; . . . ; \bar{n - 1}\right}$
+
+#### 4-2/ Opérations dans l'ensemble $\mathbb{Z} / n \mathbb{Z}$
+
+##### Définition 8
+
+Soit $n$ un élément de $\mathbb{N} \star$.
+
+On définit l'addition dans $\mathbb{Z} / n \mathbb{Z}$ comme suit : Pour tous $\bar{x}$ et $\bar{y}$ de $\mathbb{Z} / n \mathbb{Z}$, $\bar{x} + \bar{y} = \bar{x + y}$
+
+On définit la multiplication dans $\mathbb{Z} / n \mathbb{Z}$ comme suit : Pour tous $\bar{x}$ et $\bar{y}$ de $\mathbb{Z} / n \mathbb{Z}$, $\bar{x} \times \bar{y} = \bar{x \times y}$
+
+##### Applications
+
+Résoudre dans $\mathbb{Z} / 6 \mathbb{Z}$ les équations suivantes :
+
+$$\overline{\left.\right)1} \bar{4} x = \bar{2} \\ \\ \overline{\left.\right)2} \bar{3} x^{2} + x + \bar{1} = \bar{0} \\$$
+
+##### Théorème 17
+
+Soit $p$ un nombre premier positif. Alors :
+
+1) $\left(\forall \bar{x} \in \mathbb{Z} / p \mathbb{Z} - \left{\bar{0}\right}\right) \left(\exists \bar{y} \in \mathbb{Z} / p \mathbb{Z} - \left{\bar{0}\right}\right) \bar{x} \times \bar{y} = \bar{1}$
+
+2) $\left(\forall \left(\bar{x} ; \bar{y}\right) \in \left(\mathbb{Z} / p \mathbb{Z}\right)^{2}\right) \left[\bar{x} \times \bar{y} = \bar{0} \Leftrightarrow \left(\bar{x} = \bar{0} o u \bar{y} = \bar{0}\right)\right]$
+
+### V- Systèmes de numération
+
+#### 5-1/ Représentation d'un entier naturel dans un système de numération
+
+##### Définition 9
+
+La base $b$ d'un système de numération représente le nombre d'unités d'un certain rang, nécessaire pour former une unité de rang immédiatement supérieur.
+
+L'ensemble $B_{b} = \left{0 ; 1 ; . . . ; b - 1\right}$, soit $b$ caractères (chiffres en base 10) quantifie le nombre d'unités d'un rang quelconque.
+
+##### Théorème 18
+
+Soit $b$ un entier supérieur ou égal à $2$.
+
+Tout entier naturel non nul $n$ peut s'écrire de manière unique sous la forme :
+
+$$n = a_{m} b^{m} + a_{m - 1} b^{m - 1} + . . . + a_{2} b^{2} + a_{1} b + a_{0}$$
+
+où $a_{0} , a_{1} , . . . , a_{m}$ sont des entiers tels que $a_{m} \neq 0$ et $0 \leq a_{i} \leq b - 1$ pour tout $i \in \left{0 ; 1 ; 2 ; . . . ; m\right}$
+
+On écrit : $n = \left(\bar{a_{m} a_{m - 1} . . . . a_{1} a_{0}}\right)_{\left(b\right)}$, et on dit qu'on a représenté le nombre $n$ dans le système de numération de base $b$.
+
+##### Applications
+
+1. Convertir en binaire les nombres suivants :
+
+$$97 ; 397 ; 133$$
+
+2. Convertir en numération décimale les nombres dont l'écriture en binaire est :
+
+$$\left(\bar{101}\right)_{\left(2\right)} ; \left(\bar{1101110}\right)_{\left(2\right)}$$
+
+#### 5-2- Comparaison de deux nombres présentés dans le même système de numération
+
+##### Théorème 19
+
+Soit $x$ et $y$ deux entiers naturels représentés dans le même système de numération par :
+
+$x = \left(\bar{a_{n} a_{n - 1} . . . . a_{1} a_{0}}\right)_{\left(b\right)}$ et $y = \left(\bar{c_{m} c_{m - 1} . . . . c_{1} c_{0}}\right)_{\left(b\right)}$
+
+1) Si $m > n$ alors $y > x$
+
+2) Si $m = n$ et $c_{n} = a_{n}$ et $c_{n - 1} = a_{n - 1}$ et ... et $c_{i + 1} = a_{i + 1}$ et $c_{i} \neq a_{i}$, alors, l'ordre de $x$ et $y$ est celui de $c_{i}$ et $a_{i}$. En particulier, si $c_{i} > a_{i}$ alors $y > x$
+
+#### 5-3/ Addition et multiplication de deux nombres présentés dans le même système de numération
+
+1) On considère les deux nombres suivants : $x = \left(\bar{5312}\right)_{\left(6\right)}$ et $x = \left(\bar{214}\right)_{\left(6\right)}$
+
+On veut représenter le nombre $x + y$ en base $6$.
+
+On a : $x = 5 \times 6^{3} + 3 \times 6^{2} + 6 + 2$ et $y = 2 \times 6^{2} + 6 + 4$
+
+Par conséquent: $x + y = 5 \times 6^{3} + 5 \times 6^{2} + 3 \times 6 + 2 = \left(\bar{5530}\right)_{\left(6\right)}$
+
+On peut représenter le nombre $x + y$ directement en base $6$ en utilisant la méthode vue au primaire « l'addition par retenue » comme suit :
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s9/img3.jpg)
+
+2) On considère les deux nombres suivants : $a = \left(\bar{432}\right)_{\left(5\right)}$ et $b = \left(\bar{134}\right)_{\left(5\right)}$
+
+On veut représenter le nombre $a \times b$ en base $5$.
+
+On a : $a = 4 \times 5^{2} + 3 \times 5 + 2$ et $b = 5^{2} + 3 \times 5 + 4$
+
+Par conséquent :
+
+$$a \times b = \left(4 \times 5^{2} + 3 \times 5 + 2\right) \left(5^{2} + 3 \times 5 + 4\right) \\ a \times b = 5^{5} + 3 \times 5^{4} + 5^{3} + 4 \times 5 + 3 \\ a \times b = \left(\bar{131043}\right)_{\left(5\right)}$$
+
+Tout comme l'addition, on peut représenter le nombre $a \times b$ directement dans en base $5$ en utilisant la méthode de « la multiplication par retenue » comme suit :
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s9/img4.jpg)
+
+#### 5-4/ Critères de divisibilité sur les nombres 3;4;5;9;11;25 dans le système décimal
+
+##### Proposition 9
+
+Soit $x \in \mathbb{N}$ tel que $x = \left(\bar{a_{n} a_{n - 1} . . . . a_{1} a_{0}}\right)_{\left(10\right)} = a_{n} \times 10^{n} + a_{n - 1} \times 10^{n - 1} + . . . + a_{1} . 10 + a_{0}$ avec : $a_{n} \neq 0$ et $0 \leq a_{i} \leq 10$ pour tout $i \in \left{0 ; 1 ; 2 ; . . . ; n\right}$.
+
+On a alors les équivalences suivantes :
+
+$$\overline{\left.\right)1} x \equiv 0 \left[5\right] \Leftrightarrow \left(a_{0} = 0 o u a_{0} = 5\right) \\ \\ \overline{\left.\right)2} x \equiv 0 \left[25\right] \Leftrightarrow \left(\bar{a_{1} a_{0}}\right)_{\left(10\right)} \equiv 0 \left[25\right] \\ \\ \overline{\left.\right)3} x \equiv 0 \left[4\right] \Leftrightarrow \left(\bar{a_{1} a_{0}}\right)_{\left(10\right)} \equiv 0 \left[4\right] \\ \\ \overline{\left.\right)4} x \equiv 0 \left[3\right] \Leftrightarrow \sum_{i = 0}^{n} a_{i} \equiv 0 \left[3\right] \\ \\ \overline{\left.\right)5} x \equiv 0 \left[9\right] \Leftrightarrow \sum_{i = 0}^{n} a_{i} \equiv 0 \left[9\right] \\ \\ \overline{\left.\right)6} x \equiv 0 \left[11\right] \Leftrightarrow \sum_{i = 0}^{n} \left(- 1\right)^{i} a_{i} \equiv 0 \left[11\right]$$

@@ -1,0 +1,55 @@
+---
+Chapitre: Chapitre 7 : Calcul intégral
+Séance: Séance 7-2-2 : Calcul intégral - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 7-2-2 : Calcul intégral - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 6-1/ Exercice 2-1
+
+On considère la fonction $F$ définie sur $\mathbb{R}$ par : $F \left(x\right) = \int_{x}^{2 x} \frac{d t}{\sqrt{1 + t^{2} + t^{4}}}$
+
+1. Montrer que la fonction $F$ est impaire.
+
+2. Montrer que pour tout $x \in \mathbb{R}_{+}^{\star}$, il existe $c \in \left[x ; 2 x\right]$ tel que $F \left(x\right) = \frac{x}{\sqrt{1 + c^{2} + c^{4}}}$.
+
+3. En déduire que $\left(\forall x \in \mathbb{R}_{+}^{\star}\right) 0 \leq F \left(x\right) \leq \frac{1}{x}$, puis en déduire $\underset{x \rightarrow + \infty}{lim} F \left(x\right)$.
+
+4. Calculer $F ' \left(x\right)$ pour tout $x \in \mathbb{R}$.
+
+#### 6-2/ Exercice 2-2
+
+Le plan est rapporté à un repère orthogonal $\left(O ; \overset{\rightarrow}{i} ; \overset{\rightarrow}{j}\right)$ avec $\left||\overset{\rightarrow}{i}\right|| = 2 c m$ et $\left||\overset{\rightarrow}{j}\right|| = 4 c m$.
+
+1. Calculer l'aire du domaine délimité par les courbes des fonctions $f$ et $g$ définies sur $\left[e ; e^{2}\right]$ par :
+
+$f \left(x\right) = \frac{x + 1}{x ln x}$ et $g \left(x\right) = \frac{1}{ln x}$
+
+#### 6-3/ Exercice 2-3
+
+* Calculer $\underset{n \rightarrow + \infty}{lim} u_{n}$ dans chacun des cas suivants :
+
+$$\overline{\left.\right)1} u_{n} = \sum_{k = 1}^{n} \frac{k^{2}}{n^{2} . \sqrt[3]{n^{3} + k^{3}}} \\ \\ \overline{\left.\right)2} u_{n} = \sum_{k = 0}^{n - 1} \frac{n + k}{n^{2} + k^{2}} \\ \\ \overline{\left.\right)3} u_{n} = \frac{1}{n} \sum_{k = 1}^{n} \frac{k^{3}}{\sqrt{\left(n^{2} + k^{2}\right)^{3}}} \\ \\ \overline{\left.\right)4} u_{n} = \frac{1}{n \sqrt{n}} \sum_{k = 0}^{n - 1} \frac{k}{\sqrt{n + k}} \\ \\$$
+
+#### 6-4/ Exercice 2-4
+
+Soit $f$ la fonction numérique définie sur $\left[\right. 1 ; + \infty \left[\right.$ par : $f \left(x\right) = e^{- \sqrt{x - 1}}$
+
+Soit $\mathcal{C}_{f}$ sa courbe représentative dans un repère orthonormé $\left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$ avec : $\left||\overset{\rightarrow}{i}\right|| = \left||\overset{\rightarrow}{j}\right|| = 2 c m$
+
+On pose : $\left(\forall x \in \left]\right. 0 ; 1 \left]\right.\right) F \left(x\right) = \int_{1}^{1 + \left(ln x\right)^{2}} f \left(t\right) d t$
+
+1. Montrer que $\left(\forall x \in \left]\right. 0 ; 1 \left]\right.\right) F ' \left(x\right) = 2 ln x$
+
+2. Calculer $F \left(\right. x \left.\right)$ pour tout $x \in \left]\right. 0 ; 1 \left]\right.$.
+
+Pour tout $\alpha \geq 1$, on note $S \left(\alpha\right)$ l'aire du domaine délimité par la courbe $\mathcal{C}_{f}$, l'axe des abscisses et les droites d'équations $x = 1$ et $x = \alpha$.
+
+3. Montrer que $S \left(\alpha\right) = F \left(f \left(\alpha\right)\right)$ (en unité d'aire)
+
+4. Calculer $S \left(\alpha\right)$ et $\underset{\alpha \rightarrow + \infty}{lim} S \left(\alpha\right)$

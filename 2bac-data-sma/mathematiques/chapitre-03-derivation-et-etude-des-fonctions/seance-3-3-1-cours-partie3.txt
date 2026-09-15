@@ -1,0 +1,135 @@
+---
+Chapitre: Chapitre 3 : Dérivation et étude des fonctions
+Séance: Séance 3-3-1 : Dérivation et étude des fonctions - Partie 3 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 3-3-1 : Dérivation et étude des fonctions - Partie 3 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+### VI- Étude des fonctions numériques (Rappels)
+
+#### 6-1/ Monotonie d'une fonction numérique
+
+Proposition 10
+
+Soit $f$ une fonction dérivable sur un intervalle $I$ de $\mathbb{R}$.
+
+* La fonction $f$ est constante sur $I$ si, et seulement, si : $\left(\forall x \in I\right) , f ' \left(x\right) = 0$
+* La fonction $f$ est croissante sur $I$ si, et seulement, si : $\left(\forall x \in I\right) , f ' \left(x\right) \geq 0$
+* La fonction $f$ est décroissante sur $I$ si, et seulement, si : $\left(\forall x \in I\right) , f ' \left(x\right) \leq 0$
+
+Remarques
+
+Les résultats de la proposition 10 ne sont valables que sur un intervalle.
+
+Si $f '$ est positive sur $I$ et ne s'y annule qu'en un nombre fini de points, alors la fonction $f$ est strictement croissante sur $I$.
+
+Si $f '$ est négative sur $I$ et ne s'y annule qu'en un nombre fini de points, alors la fonction $f$ est strictement décroissante sur $I$.
+
+#### 6-2/ Axe de symétrie - Centre de symétrie
+
+Proposition 11
+
+Soit $f$ une fonction numérique et $\mathcal{C}_{f}$ sa courbe représentative dans un repère orthogonal.
+
+Pour que la droite $\Delta$ d'équation $x = a$ soit un axe de symétrie de la courbe $\mathcal{C}_{f}$, il faut et il suffit que pour tout $x \in D_{f}$ : $\left(2 a - x\right) \in D_{f}$ et $f \left(2 a - x\right) = f \left(x\right)$.
+
+Proposition 12
+
+Soit $f$ une fonction numérique et $\mathcal{C}_{f}$ sa courbe représentative dans un repère donné.
+
+Pour que le point $\Omega \left(a , b\right)$ soit un centre de symétrie de la courbe $\mathcal{C}_{f}$, il faut et il suffit que pour tout $x \in D_{f}$ : $\left(2 a - x\right) \in D_{f}$ et $f \left(2 a - x\right) + f \left(x\right) = 2 b$
+
+Remarques
+
+Si $f$ est une fonction paire, alors sa courbe $\mathcal{C}_{f}$ admet l'axe des ordonnées comme axe de symétrie.
+
+Si $f$ est une fonction impaire, alors $\mathcal{C}_{f}$ admet l'origine du repère comme centre de symétrie.
+
+Si la courbe $\mathcal{C}_{f}$ de la fonction $f$ admet la droite d'équation $x = a$ comme axe de symétrie ou admet le point de coordonnées $\left(a , b\right)$ comme centre de symétrie alors on peut restreindre l'étude de la fonction $f$ sur l'ensemble $D_{\acute{e} t u d e} = D_{f} \cap \left[\right. a , + \infty \left[\right.$.
+
+#### 6-3/ Les fonctions périodiques
+
+Définition 5
+
+Soit $f$ une fonction numérique de domaine de définition $D_{f}$.
+
+On dit que $f$ est périodique s'il existe un réel non nul $T$ tel que pour tout $x \in D_{f}$ :
+
+$\left(x + T\right) \in D_{f}$ et $\left(x - T\right) \in D_{f}$ et $f \left(x + T\right) = f \left(x\right)$
+
+Le nombre réel $T$ est appelé alors une période de $f$.
+
+La plus petite période strictement positive de la fonction $f$ est appelée la période de la fonction $f$.
+
+Proposition 13
+
+Soit $f$ une fonction périodique de période $T$ et $\mathcal{C}_{f}$ sa courbe représentative dans un repère $\left(\right. O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j} \left.\right)$.
+
+Pour tout $n \in \mathbb{Z}$, le nombre $n T$ est aussi une période de la fonction $f$.
+
+La courbe de $\mathcal{C}_{f}$ est invariante par toute translation de vecteur $n T . \overset{\rightarrow}{i}$ avec $n \in \mathbb{Z}$.
+
+Si $x_{0} \in \mathbb{R}$ est un réel donné, la courbe représentative $\mathcal{C}_{f}$ est la réunion des images de l'ensemble $\left\{M \left(x , f \left(x\right)\right) / x \in D_{f} \cap \left[\right. x_{0} , x_{0} + T \left[\right.\right\}$ par toutes les translations de vecteur $n T . \overset{\rightarrow}{i}$ avec $n \in \mathbb{Z}$.
+
+Ainsi, pour étudier une fonction périodique de période $T$, il suffit de l'étudier sur un intervalle de $\mathbb{R}$ de longueur $T$. (Très souvent, on choisit un des deux intervalles $\left[\right. 0 , T \left[\right.$ ou $\left[\right. - \frac{T}{2} , \frac{T}{2} \left[\right.$).
+
+#### 6-4/ Étude de la concavité d'une courbe
+
+Proposition 14
+
+Soit $f$ une fonction deux fois dérivable sur un intervalle $I$.
+
+Pour que la courbe $\mathcal{C}_{f}$ de $f$ soit convexe sur $I$, il faut et il suffit que : $\left(\forall x \in I\right) , f " \left(x\right) \geq 0$
+
+Pour que la courbe $\mathcal{C}_{f}$ de $f$ soit concave sur $I$, il faut et il suffit que : $\left(\forall x \in I\right) , f " \left(x\right) \leq 0$
+
+Pour que le point $M_{0} \left(\right. x_{0} , f \left(\right. x_{0} \left.\right) \left.\right)$ soit un point d'inflexion de la courbe $\mathcal{C}_{f}$, il faut et il suffit que la dérivée seconde s'annule en $x_{0}$ et change de signe de part et d'autre de $x_{0}$.
+
+#### 6-5/ Étude des branches infinies (Rappel)
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : https://www.alloschool.com/files/premium/maths/2bac-sm/s331-img1.jpg)
+
+### VII- Les fonctions primitives
+
+#### 7-1/ Primitive d'une fonction sur un intervalle
+
+Définition 7
+
+Soit $f$ et $F$ deux fonctions définies sur un intervalle $I$ de $\mathbb{R}$.
+
+On dit que la fonction $F$ est une primitive de la fonction $f$ sur $I$ si :
+
+$F$ est dérivable sur $I$ et pour tout $x \in I$ : $F ' \left(\right. x \left.\right) = f \left(\right. x \left.\right)$
+
+Proposition 15
+
+Toute fonction continue sur un intervalle $I$ admet une primitive définie sur cet intervalle.
+
+#### 7-2/ Primitives d'une fonction continue
+
+Proposition 16
+
+Soit $f$ une fonction continue sur un intervalle $I$ de $\mathbb{R}$.
+
+Si $F$ est une primitive de la fonction $f$ sur $I$, alors les primitives de $f$ sur $I$ sont les fonctions $x \rightarrowtail F \left(x\right) + c$ où $c$ est une constante réelle.
+
+Pour tout $x_{0} \in I$ et $y_{0} \in \mathbb{R}$, il existe une unique primitive $G$ de $f$ sur $I$ vérifiant : $G \left(\right. x_{0} \left.\right) = y_{0}$.
+
+#### 7-3/ Opérations sur les primitives
+
+Proposition 17
+
+Si $F$ et $G$ sont respectivement des primitives des fonctions $f$ et $g$ sur un intervalle $I$, alors :
+
+$F + G$ est une primitive de la fonction $f + g$ sur $I$.
+
+Pour tout $\left(\alpha , \beta\right) \in \mathbb{R}^{2}$ , $\alpha F + \beta G$ est une primitive de $\alpha f + \beta g$ sur $I$.
+
+#### 7-4/ Tableau des primitives usuelles
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : https://www.alloschool.com/files/premium/maths/2bac-sm/s331-img2.jpg)

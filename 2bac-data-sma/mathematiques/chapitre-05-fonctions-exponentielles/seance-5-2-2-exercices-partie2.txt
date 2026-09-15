@@ -1,0 +1,53 @@
+---
+Chapitre: Chapitre 5 : Fonctions exponentielles
+Séance: Séance 5-2-2 : Fonctions exponentielles - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 5-2-2 : Fonctions exponentielles - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 4-1/ Exercice 2-1
+
+1. Résoudre dans $\mathbb{R}$ les équations suivantes :
+
+$$\overline{\left.\right)1} - 5 \times 4^{x + 1} + 2 \times 4^{- x} = 3 \\ \\ \overline{\left.\right)2} 3^{x} - 5 \sqrt{3^{x}} + 4 = 0 \\$$
+
+2. Résoudre dans $\mathbb{R}$ l'inéquation suivante :
+
+$$log 2 + log \left(4^{x - 2} + 9\right) \leq 1 + log \left(2^{x - 2} + 1\right)$$
+
+#### 4-2/ Exercice 2-2
+
+1. Montrer que pour tout $\left(a , b , c\right) \in \left(\mathbb{R}_{+}^{\star}\right)^{3}$ :
+
+$$a^{ln \frac{b}{c}} . b^{ln \frac{c}{a}} . c^{ln \frac{a}{b}} = 1$$
+
+2. Déterminer la dérivée de chacune des fonctions définies par :
+
+$$\overline{\left.\right)1} f \left(x\right) = \left(\frac{2}{3}\right)^{x} \\ \\ \overline{\left.\right)2} g \left(x\right) = \left(3^{x} + 2^{x} - 5^{x}\right)^{4} \\$$
+
+#### 4-3/ Exercice 2-3
+
+On considère la fonction $f$ définie sur $\left]\right. 0 ; + \infty \left[\right.$ par : $f \left(\right. x \left.\right) = 2^{x} + 2^{\frac{6}{x}}$
+
+1. Calculer $f ' \left(\right. x \left.\right)$ puis montrer que $f$ est strictement décroissante sur $\left]\right. 0 ; \sqrt{6} \left]\right.$ et strictement croissante sur $\left[\right. \sqrt{6} ; + \infty \left[\right.$.
+
+2. En déduire que l'équation $f \left(\right. x \left.\right) = 12$ admet une solution unique sur $\left]\right. \sqrt{6} ; + \infty \left[\right.$ que l'on déterminera.
+
+#### 4-4/ Exercice 2-4
+
+On considère la fonction numérique définie par : $f \left(\right. x \left.\right) = 4^{x} - 2^{x + 1}$
+
+1. Déterminer $D_{f}$ le domaine de définition de la fonction $f$.
+
+2. Calculer les limites de la fonction $f$ aux bornes du domaine de définition.
+
+3. Étudier les variations de la fonction $f$.
+
+4. Écrire l'équation de la tangente à la courbe $\mathcal{C}_{f}$ de $f$ au point d'abscisse $0$.
+
+5. Construire la courbe $\mathcal{C}_{f}$ dans un repère orthonormé.

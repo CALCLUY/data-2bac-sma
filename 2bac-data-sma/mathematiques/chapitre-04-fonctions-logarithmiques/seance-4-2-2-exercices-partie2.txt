@@ -1,0 +1,43 @@
+---
+Chapitre: Chapitre 4 : Fonctions logarithmiques
+Séance: Séance 4-2-2 : Fonctions logarithmiques - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 4-2-2 : Fonctions logarithmiques - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 4-1/ Exercice 2-1
+
+1. Simplifier les expressions suivantes :
+
+$$\overline{\left.\right)1} log_{4} \left(2\right) + log_{2} \left(16\right) + log_{8} \left(4\right) = \\ \\ \overline{\left.\right)2} log_{2} \left(8\right) - log_{2} \left(\sqrt[3]{32}\right) + log_{2} \left(9\right) - log_{2} \left(3\right) = \\ \\ \overline{\left.\right)3} log_{2} \left(\frac{15}{4}\right) + log_{2} \left(\frac{1}{27}\right) + log_{2} \left(\frac{4}{5}\right) = \\ \\ \overline{\left.\right)4} log 100 - log \left(10^{2017}\right) + log \left(\frac{1}{10^{100}}\right) = \\$$
+
+#### 4-2/ Exercice 2-2
+
+1. Résoudre dans $\mathbb{R}$ les équations suivantes :
+
+$$\overline{\left.\right)1} 5 \left(log_{2} x\right)^{2} - log_{2} x - 4 = 0 \\ \\ \overline{\left.\right)2} \left(log x\right)^{2} - 2 log x = 0 \\$$
+
+2. Résoudre le système suivant :
+
+$$\left\{\begin{matrix} log_{3} \left(\frac{1}{x^{2}}\right) - log_{3} y^{4} = - 4 \\ log_{3} \left(x^{3} y^{5}\right) = 3 \end{matrix}\right$$
+
+#### 4-3/ Exercice 2-3
+
+1. Résoudre dans $\mathbb{R}$ les équations suivantes :
+
+$$\overline{\left.\right)1} \left(log x\right)^{3} + 3 \left(log x\right)^{2} - 25 lo g x + 21 = 0 \\ \\ \overline{\left.\right)2} \left(log_{\sqrt{2}} x\right) . \left(log_{2} x\right) . \left(log_{2 \sqrt{2}} x\right) . \left(log_{4} x\right) = 54 \\ \\ \overline{\left.\right)3} log_{2} x = \frac{1}{2} + log_{4} \left(4 x + 10\right)$$
+
+#### 4-4/ Exercice 2-4
+
+1. Résoudre les inéquations suivantes :
+
+$$\overline{\left.\right)1} log_{2} x \leq log_{8} \left(5 x - 4\right) \\ \\ \overline{\left.\right)2} log_{x} \left(x^{2} - \frac{1}{4}\right) > 4$$
+
+2. Résoudre le système suivant :
+
+$$\left\{\begin{matrix} x y = 2 \\ 2 \left(log_{x} \left(y\right) + log_{y} \left(x\right)\right) = 3 \end{matrix}\right$$

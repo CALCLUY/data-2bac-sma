@@ -1,0 +1,65 @@
+---
+Chapitre: Devoirs Corrigés
+Séance: Semestre 1 - Devoir 1 - Modèle 2
+Type: Devoir corrigé
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Semestre 1 Devoir 1 Modèle 2
+Professeur : Mr CHEDDADI Haitam
+
+### I- Exercice 1 (12 pts)
+
+##### Partie 1
+
+On considère dans $\mathbb{R}$ l'équation suivante :
+
+$$\left(E\right) : x^{3} + 3 x - 4 = 0$$
+
+1. Montrer que l'équation $\left(E\right)$ admet une solution unique dans $\mathbb{R}$.
+
+On pose : $\alpha = \sqrt[3]{\sqrt{5} + 2} - \sqrt[3]{\sqrt{5} - 2}$
+
+2. Établir que $\alpha$ est une solution de $\left(E\right)$, puis en déduire que $\alpha = 1$.
+
+##### Partie 2
+
+On considère la fonction numérique définie par :
+
+$$g \left(x\right) = \frac{2}{3} . \frac{A r c \tan \left(\sqrt[4]{x} - 1\right)}{\sqrt[3]{x} - \sqrt{x}}$$
+
+1. Déterminer $D_{g}$, le domaine de définition de $g$.
+
+2. Calculer les limites $\underset{x \rightarrow 0^{+}}{lim} g \left(x\right)$ et $\underset{x \rightarrow + \infty}{lim} g \left(x\right)$.
+
+3. Montrer que $g$ admet un prolongement par continuité en $1$ qu'on déterminera.
+
+##### Partie 3
+
+On considère la fonction $f$ définie sur $\mathbb{R}$ par :
+
+$$\left\{\begin{matrix} f \left(x\right) = \left(x - 1\right) E \left(\frac{1}{x - 1}\right) s i x \neq 0 \\ f \left(1\right) = 1 \end{matrix}\right.$$
+
+1. Étudier la continuité de $f$ en $1$.
+
+2. Calculer les limites $\underset{x \rightarrow - \infty}{lim} f \left(x\right)$ et $\underset{x \rightarrow + \infty}{lim} f \left(x\right)$.
+
+### II- Exercice 2 (8 pts)
+
+Soit $\alpha$ un réel de l'intervalle $\left] 0 ; 1 \right[$.
+
+On considère les suites numériques $\left(a_{n}\right)$ et $\left(S_{n}\right)$ définies par : $a_{n} = \left(1 - \alpha\right)^{n}$ et $S_{n} = \sum_{k = 0}^{n} a_{k}$.
+
+1. Montrer que les suites $\left(a_{n}\right)$ et $\left(S_{n}\right)$ convergent puis calculer les limites $\underset{n \rightarrow + \infty}{lim} a_{n}$ et $\underset{n \rightarrow + \infty}{lim} S_{n}$.
+
+On considère la suite numérique $\left(u_{n}\right)$ définie par : $u_{0} > 0$ et $u_{n + 1} = u_{n} + \frac{a_{n}}{u_{n}}$ pour tout $n \in \mathbb{N}$.
+
+2. Montrer que $\left(\forall n \in \mathbb{N}\right) u_{n} > 0$.
+
+3. Montrer que $\left(u_{n}\right)$ est strictement croissante.
+
+4. Montrer que $\left(\forall n \in \mathbb{N}\right) u_{n} \leq u_{0} + \frac{1}{\alpha u_{0}}$.
+
+5. En déduire que la suite $\left(u_{n}\right)$ est convergente.

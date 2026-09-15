@@ -1,0 +1,65 @@
+---
+Chapitre: Devoirs Corrigés
+Séance: Semestre 1 - Devoir 2 - Modèle 2
+Type: Devoir corrigé
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Semestre 1 Devoir 2 Modèle 2
+Professeur : Mr CHEDDADI Haitam
+
+### I- Exercice 1 (7 pts)
+
+Pour $n \geq 1$, on considère le polynôme : $P_{n} \left(X\right) = X^{n} + X^{n - 1} + . . . + X - 1$
+
+1. Démontrer que $P_{n}$ possède une seule racine dans $\mathbb{R}^{+}$, que l'on note $u_{n}$.
+
+2. Démontrer que la suite $\left(u_{n}\right)$ est décroissante, et en déduire qu'elle converge.
+
+3. Démontrer que, pour tout $n \geq 1$, $u_{n} \geq \frac{1}{2}$.
+
+Soit $\rho \in \left] \frac{1}{2} ; 1 \right[$.
+
+4. Démontrer que $\underset{n \rightarrow + \infty}{lim} P_{n} \left(\rho\right) > 0$.
+
+5. Démontrer que $\left(u_{n}\right)$ converge vers $\frac{1}{2}$.
+
+### II- Exercice 2 (13 pts)
+
+##### Partie 1
+
+soit $g$ la fonction définie sur $\left] 0 ; + \infty \right[$ par : $g \left(x\right) = - \frac{1}{x + 1} + \ln \left(1 + \frac{1}{x}\right)$
+
+1. Calculer les limites $\underset{x \rightarrow + \infty}{lim} g \left(x\right)$ et $\underset{x \rightarrow 0^{+}}{lim} g \left(x\right)$.
+
+2. Montrer que $g ' \left(x\right) = - \frac{- 1}{x \left(x + 1\right)^{2}}$, et donner le tableau de variation de $g$.
+
+3. Déduire que $\left(\forall x > 0\right) g \left(x\right) > 0$.
+
+##### Partie 2
+
+Soit $f$ la fonction définie sur $\left[ 0 ; + \infty \right[$ par $f \left(x\right) = x \ln \left(1 + \frac{1}{x}\right)$ si $x \neq 0$ et $f \left(0\right) = 0$.
+
+1. Montrer que $f$ est continue à droite de $0$.
+
+2. Montrer que $\underset{x \rightarrow 0^{+}}{lim} \frac{f \left(x\right)}{x} = + \infty$, et donner une interprétation géométrique du résultat.
+
+3. Étudier la branche infinie de $\left(\mathcal{C}_{f}\right)$ au voisinage de $+ \infty$.
+
+4. Calculer $f ' \left(x\right)$ et étudier le sens de variation de $f$, puis donner le tableau de variation.
+
+5. Construire la courbe $\left(\mathcal{C}_{f}\right)$.
+
+##### Partie 3
+
+Soit $\left(u_{n}\right)_{n > 0}$ une suite telle que $u_{n} = \left(1 + \frac{1}{n}\right)^{n}$, et on pose $v_{n} = \ln u_{n}$.
+
+1. Vérifier que $v_{n} = f \left(n\right)$, et déduire que $\left(u_{n}\right)_{n > 0}$ est croissante.
+
+2. Montrer que $\left(\forall x > 0\right) \ln \left(1 + x\right) < x$, et déduire que $\left(\forall n \in \mathbb{N} \star\right) u_{n} < e$, puis calculer $\underset{n \rightarrow + \infty}{lim} u_{n}$.
+
+On pose $S_{n} = \sum_{k = 1}^{n} \frac{v_{k}}{k}$.
+
+3. Exprimer $S_{n}$ en fonction de $n$ et déterminer $\underset{n \rightarrow + \infty}{lim} S_{n}$ et $\underset{n \rightarrow + \infty}{lim} \frac{S_{n}}{n}$.

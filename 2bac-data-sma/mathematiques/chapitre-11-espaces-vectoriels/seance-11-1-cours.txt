@@ -1,0 +1,281 @@
+---
+Chapitre: Chapitre 11 : Espaces vectoriels
+Séance: Séance 11-1 : Espaces vectoriels (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 11-1 : Espaces vectoriels (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+Sommaire
+I- Espace vectoriel réel
+1-1/ Loi de composition externe
+1-2/ Structure d'espace vectoriel réel
+1-3/ Règles de calcul dans un espace vectoriel réel
+II- Sous-espace vectoriel
+2-1/ Définition et exemples
+2-2/ Caractérisation d'un sous-espace vectoriel
+III- Familles libres ou génératrices - bases
+3-1/ Combinaisons linéaires
+3-2/ Familles libres - familles liées
+3-3/ Familles génératrices
+3-4/ Bases d'un espace vectoriel réel
+3-5/ Dimension d'un espace vectoriel
+
+### I- Espace vectoriel réel
+
+#### 1-1/ Loi de composition externe
+
+##### Définition 1
+
+Soit $K$ un corps et $E$ un ensemble.
+
+On appelle loi de composition externe de $K$ sur $E$, toute application de $K \times E$ dans $E$.
+
+Si $\alpha \in K$ et $x \in E$, on note en général $\alpha . x$ ou $\alpha x$ l'image de $(\alpha ; x)$ par cette application.
+
+##### Remarques
+
+Dans la définition précédente, on peut avoir $E = K$ ; et dans ce cas, on parle d'une loi de composition interne. Ainsi, toute loi de composition interne sur E peut être considérée comme une loi de composition externe sur $E$ à coefficients dans $E$.
+
+Au cours de ce chapitre, on prendra $K = \mathbb{R}$ comme corps de référence.
+
+#### 1-2/ Structure d'espace vectoriel réel
+
+##### Définition 2
+
+Un espace vectoriel réel (ou $\mathbb{R}$-espace vectoriel) est un triplet $(E ; + ; .)$ dans lequel $E$ est un ensemble non vide muni :
+
+(1) d'une loi de composition interne, notée $+$, telle que $(E ; +)$ est un groupe commutatif, cette loi est l'addition de $E$ et son élément neutre est noté $0_{E}$.
+
+(2) d'une loi de composition externe, application de R x E dans E , appelée produit externe ou produit par un scalaire, notée $(\alpha ; x) \mapsto \alpha . x$, et possédant les propriétés suivantes :
+
+$$\left(\forall (\alpha ; \beta) \in \mathbb{R}^{2}\right) \ \left(\forall x \in E\right) \ (\alpha + \beta) x = \alpha . x + \beta . x$$
+$$\left(\forall \alpha \in \mathbb{R}\right) \ \left(\forall (x ; y) \in E^{2}\right) \ \alpha . (x + y) = \alpha . x + \alpha . y$$
+$$\left(\forall (\alpha ; \beta) \in \mathbb{R}^{2}\right) \ \left(\forall x \in E\right) \ (\alpha \beta) . x = \alpha . (\beta . x)$$
+$$\left(\forall x \in E\right) \ 1 . x = x$$
+
+On appelle alors vecteurs les éléments de $E$ et scalaires les éléments de $\mathbb{R}$.
+
+##### Définition 3
+
+$(E ; + ; .)$ est un espace vectoriel réel (ou $\mathbb{R}$-espace vectoriel) lorsque :
+
+(1) $(E ; +)$ est un groupe commutatif.
+
+(2)
+$$\left(\forall (\alpha ; \beta) \in \mathbb{R}^{2}\right) \ \left(\forall \overrightarrow{x} \in E\right) \ (\alpha + \beta) \overrightarrow{x} = \alpha . \overrightarrow{x} + \beta . \overrightarrow{x}$$
+$$\left(\forall \alpha \in \mathbb{R}\right) \ \left(\forall (\overrightarrow{x} ; \overrightarrow{y}) \in E^{2}\right) \ \alpha . (\overrightarrow{x} + \overrightarrow{y}) = \alpha . \overrightarrow{x} + \alpha . \overrightarrow{y}$$
+$$\left(\forall (\alpha ; \beta) \in \mathbb{R}^{2}\right) \ \left(\forall x \in E\right) \ (\alpha \beta) . \overrightarrow{x} = \alpha . (\beta . \overrightarrow{x})$$
+$$\left(\forall x \in E\right) \ 1 . \overrightarrow{x} = \overrightarrow{x}$$
+
+#### 1-3/ Règles de calcul dans un espace vectoriel réel
+
+##### Proposition 1
+
+$(E ; + ; .)$ est un espace vectoriel réel. Alors :
+
+1) Tout vecteur de $E$ est un élément régulier dans $(E ; +)$.
+
+2) Pour tout $\overrightarrow{x} \in E$ : $0 . \overrightarrow{x} = \overrightarrow{0}$
+
+3) Pour tout $\alpha \in \mathbb{R}$ : $\alpha . \overrightarrow{0} = \overrightarrow{0}$
+
+4) Pour tout $\alpha \in \mathbb{R}$ et pour tout $\overrightarrow{x} \in E$ : $\alpha . \overrightarrow{x} = \overrightarrow{0} \Leftrightarrow (\alpha = 0 \ ou \ \overrightarrow{x} = \overrightarrow{0})$
+
+##### Proposition 2
+
+$(E ; + ; .)$ est un espace vectoriel réel. Alors :
+
+1) Pour tout $\alpha \in \mathbb{R}$ et pour tout $\overrightarrow{x} \in E$ : $(- \alpha) . \overrightarrow{x} = \alpha . (- \overrightarrow{x}) = - (\alpha . \overrightarrow{x})$
+
+2) Pour tout $(\overrightarrow{u} ; \overrightarrow{v}) \in E^{2}$, l'équation $\overrightarrow{x} + \overrightarrow{u} = \overrightarrow{v}$ admet une solution unique dans $E$. Cette solution est $\overrightarrow{x} = \overrightarrow{v} + (- \overrightarrow{u}) = \overrightarrow{v} - \overrightarrow{u}$. ($\overrightarrow{v} - \overrightarrow{u}$ étant la différence des vecteurs $\overrightarrow{u}$ et $\overrightarrow{v}$ dans cet ordre).
+
+3) Pour tous $(\alpha ; \beta) \in \mathbb{R}^{2}$ et pour tous $(\overrightarrow{x} ; \overrightarrow{y}) \in E^{2}$
+
+$\alpha . (\overrightarrow{x} - \overrightarrow{y}) = \alpha . \overrightarrow{x} - \alpha . \overrightarrow{y}$ et $(\alpha - \beta) \overrightarrow{x} = \alpha . \overrightarrow{x} - \beta . \overrightarrow{x}$
+
+### II- Sous-espace vectoriel
+
+#### 2-1/ Définition et exemples
+
+##### Définition 4
+
+Étant donné un espace vectoriel réel $(E ; + ; .)$, une partie $F$ de $E$ est un sous-espace vectoriel de $E$ lorsque :
+
+(1) $F \neq \emptyset$
+
+(2) $F$ est stable pour l'addition : $\left(\forall (\overrightarrow{x} ; \overrightarrow{y}) \in F^{2}\right) \ \overrightarrow{x} + \overrightarrow{y} \in F$
+
+(3) F est stable pour le produit externe : $\left(\forall (\alpha ; \overrightarrow{x}) \in \mathbb{R} \times F\right) \ \alpha . \overrightarrow{x} \in F$
+
+(4) $(F ; + ; .)$ est un espace vectoriel réel.
+
+##### Remarques
+
+Attention ! pour prouver que $F$ est un sous-espace vectoriel de $E$, ne pas oublier de vérifier que $F \neq \emptyset$ et $F \subset E$. Le plus fréquent pour montrer que $F \neq \emptyset$ est de justifier que $\overrightarrow{0} \in F$.
+
+$E$ et $\{\overrightarrow{0}\}$ sont des sous-espaces vectoriels de $E$, $\{\overrightarrow{0}\}$ est appelé le sous-espace nul.
+
+Avec $\overrightarrow{u} = E - \{\overrightarrow{0}\}$, le sous-ensemble $\mathbb{R} \overrightarrow{u} = \{\alpha \overrightarrow{u} / \alpha \in \mathbb{R}\}$ est un sous-espace vectoriel de $E$, appelé la droite vectorielle dirigée parle vecteur $\overrightarrow{u}$.
+
+#### 2-2/ Caractérisation d'un sous-espace vectoriel
+
+##### Proposition 3
+
+Soit $(E ; + ; .)$ un espace vectoriel réel et $F$ une partie de $E$.
+
+On a l'équivalence :
+
+$$(F \text{ est un sous-espace vectoriel de } E) \Leftrightarrow \begin{cases} F \neq \emptyset \\ \left(\forall (\alpha ; \beta) \in \mathbb{R}^{2}\right) \left(\forall (\overrightarrow{x} ; \overrightarrow{y}) \in F^{2}\right) \ \alpha . \overrightarrow{x} + \beta . \overrightarrow{y} \in F \end{cases}$$
+
+##### Remarques
+
+Dans un contexte de sous-espaces vectoriels, on étudie l'appartenance de $\overrightarrow{0}$ à $F$ :
+
+$\overrightarrow{0} \in F$ donne $F \neq \emptyset$
+
+$\overrightarrow{0} \notin F$, alors $F$ n'est pas un sous-espace vectoriel de $E$.
+
+Lorsqu'on souhaite montrer qu'un ensemble $F$ est un sous-vectoriel d'un espace vectoriel $E$, on aura le choix, ou bien d'utiliser la définition ou bien de se ramener à la proposition 3.
+
+Dans la pratique, pour montrer qu'un ensemble $F$ est un espace vectoriel réel, il peut être beaucoup plus facile de démontrer que c'est un sous-espace vectoriel d'un espace vectoriel réel connu. C'est pour cette raison qu'il faut connaître quelques espaces vectoriels réels les plus familiers, à savoir :
+
+$$(\mathbb{R} ; + ; \times) \ - \ (\mathbb{C} ; + ; .) \ - \ (\mathbb{R}^{n} ; + ; .) \ - \ (M_{2} (\mathbb{R}) ; + ; .) \ - \ (M_{3} (\mathbb{R}) ; + ; .) \ - \ (F (\mathbb{R} ; \mathbb{R}) ; + ; .)$$
+
+### III- Familles libres ou génératrices - bases
+
+#### 3-1/ Combinaisons linéaires
+
+##### Définition 5
+
+Soit $n \in \mathbb{N}^{*}$, ainsi que $\overrightarrow{x_{1}} , \overrightarrow{x_{2}} , . . . , \overrightarrow{x_{n}}$ des vecteurs d'un espace vectoriel réel $(E ; + ; .)$.
+
+On appelle combinaison linéaire des vecteurs $\overrightarrow{x_{1}} , \overrightarrow{x_{2}} , . . . , \overrightarrow{x_{n}}$, ou encore combinaison linéaire de la famille $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ tout vecteur de la forme :
+
+$$\alpha_{1} \overrightarrow{x_{1}} + \alpha_{2} \overrightarrow{x_{2}} + . . . + \alpha_{n} \overrightarrow{x_{n}} = \sum_{i = 1}^{n} \alpha_{i} \overrightarrow{x_{i}}$$
+
+avec $\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n} \in \mathbb{R}$
+
+Les réels $\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}$ sont appelés les coefficients de la combinaison linéaire $\sum_{i = 1}^{n} \alpha_{i} \overrightarrow{x_{i}}$.
+
+##### Remarques
+
+Il s'agit évidemment d'une généralisation de la définition d'une combinaison linéaire de deux vecteurs vue dans la proposition 3. De plus, un vecteur $\overrightarrow{x}$ est combinaison linéaire des vecteurs $\overrightarrow{x_{1}} , \overrightarrow{x_{2}} , . . . , \overrightarrow{x_{n}}$ si, et seulement si, il existe des réels $\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}$ tels que : $\overrightarrow{x} = \sum_{i = 1}^{n} \alpha_{i} \overrightarrow{x_{i}}$
+
+Si $F$ est un sous-espace vectoriel de $(E ; + ; .)$ contenant les vecteurs $\overrightarrow{x_{1}} , \overrightarrow{x_{2}} , . . . , \overrightarrow{x_{n}}$, alors toute combinaison linéaire de ces vecteurs appartient encore à $F$.
+
+#### 3-2/ Familles libres - familles liées
+
+##### Définition 6
+
+Soit $E$ un espace vectoriel réel, $n \in \mathbb{N}^{*}$ et $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ une famille de vecteurs de $E$.
+
+On dit que la famille $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ est une famille libre de $E$, si :
+
+$$\left(\forall (\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}) \in \mathbb{R}^{n}\right) \ \sum_{i = 1}^{n} \alpha_{i} \overrightarrow{x_{i}} = \overrightarrow{0} \Rightarrow \alpha_{1} = \alpha_{2} = . . . = \alpha_{n} = 0$$
+
+On dit encore dans ce cas-là que les vecteurs $\overrightarrow{x_{1}} , \overrightarrow{x_{2}} , . . . , \overrightarrow{x_{n}}$ sont linéairement indépendants.
+
+On dit que la famille $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ est une famille liée de $E$, si elle n'est pas libre. Cela signifie donc qu'il existe une famille $(\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n})$ de réels non tous nuls vérifiant $\sum_{i = 1}^{n} \alpha_{i} \overrightarrow{x_{i}} = \overrightarrow{0}$. On dit encore dans ce cas-là que les vecteurs $\overrightarrow{x_{1}} , \overrightarrow{x_{2}} , . . . , \overrightarrow{x_{n}}$ sont linéairement dépendants.
+
+##### Remarque
+
+Dans la pratique, lorsque qu'on s'intéresse à la liberté éventuelle d'une famille $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$, on considère $(\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}) \in \mathbb{R}^{n}$ tel que $\alpha_{1} \overrightarrow{x_{1}} + \alpha_{2} \overrightarrow{x_{2}} + . . . + \alpha_{n} \overrightarrow{x_{n}} = \overrightarrow{0}$.
+
+Si cette égalité nous conduit forcément vers $\alpha_{1} = \alpha_{2} = . . . = \alpha_{n} = 0$, alors, la famille $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ est libre. Dans le cas contraire, elle est liée.
+
+##### Proposition 4
+
+Soit $E$ un espace vectoriel réel.
+
+1) Une famille $(\overrightarrow{x})$ constituée d'un seul vecteur est libre si, et seulement si, $\overrightarrow{x} \neq \overrightarrow{0}$.
+
+2) Les éléments d'une famille libre sont deux à deux distincts.
+
+3) Si une famille $B = (\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ est libre, alors toute famille contenue dans $B$ est aussi libre.
+
+4) Si une famille $B = (\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ est liée, alors toute famille contenant $B$ est aussi liée.
+
+5) Une famille $B = (\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ est liée si, et seulement si, l'un des vecteurs de $B$ est une combinaison linéaire des $n - 1$ autres.
+
+#### 3-3/ Familles génératrices
+
+##### Définition 7
+
+Soit $E$ un espace vectoriel réel, $n \in \mathbb{N}^{*}$ et $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ une famille de vecteurs de $E$.
+
+On dit qu'un vecteur $\overrightarrow{x}$ est engendré par la famille $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ s'il peut s'écrire comme combinaison linéaire des vecteurs de cette famille. Autrement dit :
+
+$$\left(\exists (\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}) \in \mathbb{R}^{n}\right) \ \overrightarrow{x} = \sum_{i = 1}^{n} \alpha_{i} \overrightarrow{x_{i}}$$
+
+On dit que la famille $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ est une famille génératrice de $E$, si :
+
+$$\left(\forall \overrightarrow{x} \in E\right) \left(\exists (\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}) \in \mathbb{R}^{n}\right) \ \overrightarrow{x} = \sum_{i = 1}^{n} \alpha_{i} \overrightarrow{x_{i}}$$
+
+On dit encore dans ce cas-là que la famille $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ engendre l'espace vectoriel $E$.
+
+#### 3-4/ Bases d'un espace vectoriel réel
+
+##### Définition 8
+
+Soit $E$ un espace vectoriel réel, $n \in \mathbb{N}^{*}$ et $(\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ une famille de vecteurs de $E$.
+
+On dit que la famille $B$ est une base de $E$ si c'est une famille libre et génératrice de $E$, ce qui revient à écrire :
+
+$$\left(\forall \overrightarrow{x} \in E\right) \left(\exists ! (\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}) \in \mathbb{R}^{n}\right) \ \overrightarrow{x} = \sum_{i = 1}^{n} \alpha_{i} \overrightarrow{x_{i}}$$
+
+Dans ces conditions, les nombres $\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}$ an s'appellent les composantes (ou coordonnées) du vecteur $\overrightarrow{x}$ dans la base $B$, et on écrit $\overrightarrow{x} (\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n})_{(B)}$, ou tout simplement $\overrightarrow{x} (\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n})$.
+
+Le réel $a_{k}$ s'appelle la kème composante (ou coordonnée) de $\overrightarrow{x}$ dans la base $B$.
+
+##### Remarques
+
+- Plaçons-nous dans l'espace vectoriel réel $(\mathbb{R}^{n} ; + ; .)$.
+
+On a déjà vu que la famille de vecteurs $B = (\overrightarrow{e_{1}} ; \overrightarrow{e_{2}} ; . . . ; \overrightarrow{e_{n}})$ définie par $\overrightarrow{e_{1}} (1 ; 0 ; . . . . ; 0) \ ; \ \overrightarrow{e_{2}} (0 ; 1 ; . . . ; 0) \ ; \ . . . \ ; \ \overrightarrow{e_{n}} (0 ; 0 ; . . . . ; 1)$ est une famille génératrice de l'espace vectoriel réel.
+
+Par ailleurs, si $\sum_{i = 1}^{n} \alpha_{i} \overrightarrow{e_{i}} = \overrightarrow{0}$, alors $(\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}) = (0 , 0 , . . . , 0)$, d'où $\alpha_{1} = \alpha_{2} = . . . . = \alpha_{n} = 0$, ce qui montre que la famille $B$ est libre. C'est donc une base, appelée base canonique de l'espace vectoriel réel $B$. C'est la base la plus naturelle et la plus simple de $\mathbb{R}^{n}$.
+
+- Une fois choisie une base $B = (\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ de $E$, il arrive souvent que l'on identifie chaque vecteur $\overrightarrow{x} \in E$ avec le n-uplet de ses composantes. C'est pourquoi, une base doit être une famille (ordonnée) et non un ensemble. Par exemple, si $B = (\overrightarrow{e_{1}} ; \overrightarrow{e_{2}} ; \overrightarrow{e_{3}})$ est une base de $E$, alors le vecteur de composantes $(1 ; 2 ; 3)$ dans la base $B$ est $\overrightarrow{e_{1}} + 2 \overrightarrow{e_{2}} + 3 \overrightarrow{e_{3}}$ et non pas $\overrightarrow{e_{2}} + 2 \overrightarrow{e_{1}} + 3 \overrightarrow{e_{3}}$.
+
+##### Proposition 5
+
+Soit $E$ un espace vectoriel réel, $n \in \mathbb{N}^{*}$ et $B = (\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ une base de $E$.
+
+Soit $x$ et $y$ deux vecteurs de $E$ tels que $\overrightarrow{x} (\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n})_{(B)}$ et $\overrightarrow{y} (\beta_{1} , \beta_{2} , . . . . , \beta_{n})_{(B)}$
+
+Alors :
+
+$\overrightarrow{x} + \overrightarrow{y} (\alpha_{1} + \beta_{1} , \alpha_{2} + \beta_{2} , . . . . , \alpha_{n} + \beta_{n})_{(B)}$ et $\lambda \overrightarrow{x} (\lambda \alpha_{1} , \lambda \alpha_{2} , . . . . , \lambda \alpha_{n})_{(B)} \ (\lambda \in \mathbb{R})$
+
+#### 3-5/ Dimension d'un espace vectoriel
+
+##### Proposition 6
+
+Soit $E$ un espace vectoriel réel, $n \in \mathbb{N}^{*}$ et $B = (\overrightarrow{x_{1}} ; \overrightarrow{x_{2}} ; . . . ; \overrightarrow{x_{n}})$ une base de $E$.
+
+Alors, toutes les bases de $E$ ont le même cardinal. Ce cardinal est appelé la dimension de $E$ et noté $dim E$, et on écrit $dim E = n$.
+
+##### Proposition 7
+
+1- Soit $E$ un espace vectoriel réel de dimension $2$ et $B = (\overrightarrow{i} , \overrightarrow{j})$ une base de $E$.
+
+Soit $B' = (\overrightarrow{u} ; \overrightarrow{v})$ une famille de vecteurs de $E$ tels que $\overrightarrow{u} (a ; b)$ et $\overrightarrow{v} (a' ; b')$ dans la base $B$. Alors :
+
+$$(B' \text{ est une base de } E) \Leftrightarrow (B' \text{ est génératrice de } E) \Leftrightarrow (B' \text{ est libre dans } E) \Leftrightarrow \begin{vmatrix} a & a' \\ b & b' \end{vmatrix} \neq 0$$
+
+2- Soit $E$ un espace vectoriel réel de dimension $3$ et $B = (\overrightarrow{i} , \overrightarrow{j} , \overrightarrow{k})$ un base de $E$.
+
+Soit $B' = (\overrightarrow{u} ; \overrightarrow{v} ; \overrightarrow{w})$ une famille de vecteurs de $E$ tels que $\overrightarrow{u} (a ; b ; c)$ et $\overrightarrow{v} (a' ; b' ; c')$ et $\overrightarrow{w} (a" ; b" ; c")$ dans la base $B$. Alors :
+
+$$(B' \text{ est une base de } E) \Leftrightarrow (B' \text{ est génératrice de } E) \Leftrightarrow (B' \text{ est libre dans } E) \Leftrightarrow \begin{vmatrix} a & a' & a" \\ b & b' & b" \\ c & c' & c" \end{vmatrix} \neq 0$$
+
+##### Remarque
+
+La proposition 7 est d'une importance pratique capitale. Elle affirme qu'une famille de cardinal égal à la dimension de l'espace vectoriel devient une base dès qu'elle est libre ou génératrice.
+
+En pratique, il est plus facile de vérifier qu'elle est libre soit en calculant le déterminant soit par un calcul direct.

@@ -1,0 +1,69 @@
+---
+Chapitre: Chapitre 1 : Limites et continuité
+Séance: Séance 1-1-1 : Limites et continuité - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 1-1-1 : Limites et continuité - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+I- Limites d'une fonction en un point
+1-1/ Rappels et compléments
+1-2/ Unicité de la limite
+1-3/ Limites des fonctions usuelles
+1-4/ Opérations sur les limites
+
+## I- Limites d'une fonction en un point
+
+### 1-1/ Rappels et compléments
+
+Définition 1
+
+Soit $f$ une fonction numérique telle que $\left(\exists r > 0\right) ; \left]\right. x_{0} - r , x_{0} + r \left[\right. - \left\{x_{0}\right\} \subset D_{f}$ et $\mathcal{l} \in \mathbb{R}$.
+
+On dit que la limite de $f$ en $x_{0}$ est $\mathcal{l}$, ou encore, $f \left(\right. x \left.\right)$ tend vers $\mathcal{l}$ lorsque $x$ tend vers $x_{0}$ , si :
+
+$$\left(\forall \epsilon > 0\right) \left(\exists \alpha > 0\right) \left(\forall x \in D_{f}\right) \left(0 < \left|x - x_{0}\right| < \alpha \Rightarrow \left|f \left(x\right) - \mathcal{l}\right| < \epsilon\right)$$
+
+On écrit : $\underset{x \rightarrow x_{0}}{lim} f \left(x\right) = \mathcal{l}$
+
+Application
+
+Soit $f$ la fonction numérique de la variable réelle $x$ définie par : $f \left(x\right) = \frac{2 x + 1}{x + 1}$
+
+1. Montrer que pour tout $x \in \left]\right. 0 ; 2 \left[\right.$ : $\left|f \left(x\right) - \frac{3}{2}\right| \leq \frac{1}{2} \left|x - 1\right|$
+
+2. En utilisant la définition, montrer que $\underset{x \rightarrow 1}{lim} f \left(x\right) = \frac{3}{2}$
+
+### 1-2/ Unicité de la limite
+
+Proposition 1
+
+Si la limite d'une fonction numérique $f$ existe en un point, alors elle est unique.
+
+Preuve
+
+### 1-3/ Limites des fonctions usuelles
+
+Proposition 2
+
+Soit $P$ et $Q$ deux fonctions polynomiales et $x_{0} \in \mathbb{R}$.
+
+Alors :
+
+$$\overline{\left.\right)1} \underset{x \rightarrow x_{0}}{lim} P \left(x\right) = P \left(x_{0}\right) \\ \\ \overline{\left.\right)2} Q \left(x_{0}\right) \neq 0 \Rightarrow \underset{x \rightarrow x_{0}}{lim} \frac{P \left(x\right)}{Q \left(x\right)} = \frac{P \left(x_{0}\right)}{Q \left(x_{0}\right)} \\ \\ \overline{\left.\right)3} \underset{x \rightarrow x_{0}}{lim} sin x = sin x_{0} \\ \\ \overline{\left.\right)4} \underset{x \rightarrow x_{0}}{lim} cos x = cos x_{0} \\ \\ \overline{\left.\right)5} x_{0} \neq \frac{\pi}{2} + k \pi \Rightarrow \underset{x \rightarrow x_{0}}{lim} tan x = tan x_{0} \\ \\ \overline{\left.\right)6} x_{0} \geq 0 \Rightarrow \underset{x \rightarrow x_{0}}{lim} \sqrt{x} = \sqrt{x_{0}} \\ \\ \overline{\left.\right)7} \underset{x \rightarrow 0}{lim} \frac{sin x}{x} = 1 ; \underset{x \rightarrow 0}{lim} \frac{tan x}{x} = 1 ; \underset{x \rightarrow 0}{lim} \frac{1 - cos x}{x^{2}} = \frac{1}{2}$$
+
+### 1-4/ Opérations sur les limites
+
+Proposition 3
+
+Soit $f$ et $g$ deux fonctions numériques et $x_{0} \in \mathbb{R}$.
+
+Si $\underset{x \rightarrow x_{0}}{lim} f \left(x\right) = \mathcal{l}$ et $\underset{x \rightarrow x_{0}}{lim} g \left(x\right) = \mathcal{l} '$, alors :
+
+$$\overline{\left.\right)1} \underset{x \rightarrow x_{0}}{lim} \left(f + g\right) \left(x\right) = \mathcal{l} + \mathcal{l} ' \\ \\ \overline{\left.\right)2} \underset{x \rightarrow x_{0}}{lim} \left(f . g\right) \left(x\right) = \mathcal{l} . \mathcal{l} ' \\ \\ \overline{\left.\right)3} \mathcal{l} ' \neq 0 \Rightarrow \underset{x \rightarrow x_{0}}{lim} \left(\frac{1}{g}\right) \left(x\right) = \frac{1}{\mathcal{l} '} e t \underset{x \rightarrow x_{0}}{lim} \left(\frac{f}{g}\right) \left(x\right) = \frac{\mathcal{l}}{\mathcal{l} '}$$

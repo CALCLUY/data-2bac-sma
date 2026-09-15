@@ -1,0 +1,76 @@
+---
+Chapitre: Chapitre 2 : Suites numériques
+Séance: Séance 2-3-1 : Suites numériques - Partie 3 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 2-3-1 : Suites numériques - Partie 3 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+VI- suites de la forme $u_{n + 1} = f \left(u_{n}\right)$ et $v_{n} = f \left(u_{n}\right)$
+6-1/ Suite de la forme $u_{n + 1} = f \left(u_{n}\right)$
+6-2/ Limite d'une suite de la forme $v_{n} = f \left(u_{n}\right)$
+VII- Suites adjacentes
+
+### VI- suites de la forme $u_{n + 1} = f \left(u_{n}\right)$ et $v_{n} = f \left(u_{n}\right)$
+
+#### 6-1/ Suite de la forme $u_{n + 1} = f \left(u_{n}\right)$
+
+Proposition 12
+
+Soit $f$ une fonction continue sur un intervalle $I$ telle que $f \left(I\right) \subset I$.
+
+Soit $\left(u_{n}\right)_{n \geq n_{0}}$ une suite réelle définie par $u_{n_{0}} \in I$ et $\left(\forall n \geq n_{0}\right) u_{n + 1} = f \left(u_{n}\right)$.
+
+Si $\left(u_{n}\right)_{n \geq n_{0}}$ est convergente de limite $\mathcal{l}$ alors $\mathcal{l}$ est solution de l'équation $f \left(x\right) = x$.
+
+#### 6-2/ Limite d'une suite de la forme $v_{n} = f \left(u_{n}\right)$
+
+Proposition 13
+
+Si une suite $\left(u_{n}\right)$ est convergente vers $\mathcal{l}$ et $f$ est une fonction continue en $\mathcal{l}$, alors la suite $\left(v_{n}\right)$ définie par $v_{n} = f \left(u_{n}\right)$ est convergente et sa limite est $f \left(\mathcal{l}\right)$.
+
+Applications
+
+Déterminer les limites des suites définies par :
+
+$$\overline{\left.\right)1} u_{n} = \sqrt[3]{\frac{24 n^{4} - n + 1}{3 n^{4} - n^{2} + 7}} \\ \\ \overline{\left.\right)2} v_{n} = \sqrt[4]{\frac{16 n^{3} - 3 n + 1}{2 n^{2} + 1}}$$
+
+### VII- Suites adjacentes
+
+Définition 8
+
+On dit que deux suites numériques $\left(u_{n}\right)$ et $\left(v_{n}\right)$ sont adjacentes si une est croissante, l'autre est décroissante et $\underset{n \rightarrow + \infty}{lim} \left(v_{n} - u_{n}\right) = 0$.
+
+Applications
+
+On considère les suites numériques $\left(u_{n}\right)$ et $\left(v_{n}\right)$ définies par $u_{n} = \sum_{k = 0}^{n} \frac{1}{k !}$ et $v_{n} = u_{n} + \frac{1}{n !}$.
+
+* Montrer que les suites $\left(u_{n}\right)$ et $\left(v_{n}\right)$ sont adjacentes.
+
+Proposition 14
+
+Si $\left(u_{n}\right)$ et $\left(v_{n}\right)$ sont deux suites adjacentes, alors elles sont convergentes et ont la même limite.
+
+Applications
+
+Soit $a$ et $b$ deux réels strictement positifs tels que $a < b$.
+
+On considère les suites $\left(u_{n}\right)$ et $\left(v_{n}\right)$ définies par :
+
+$$\left\{\begin{matrix} u_{0} = a \\ u_{n + 1} = \frac{2 u_{n} v_{n}}{u_{n} + v_{n}} , \forall n \in \mathbb{N} \end{matrix}\right \\ \\ \left\{\begin{matrix} v_{0} = b \\ v_{n + 1} = \frac{u_{n} + v_{n}}{2} , \forall n \in \mathbb{N} \end{matrix}\right$$
+
+1. Montrer par récurrence que pour tout $n \in \mathbb{N}$ : $u_{n} \leq v_{n}$
+
+2. Montrer que la suite $\left(u_{n}\right)$ est croissante et que $\left(v_{n}\right)$ est décroissante.
+
+3. Montrer que pour tout $n \in \mathbb{N}$ : $v_{n + 1} - u_{n + 1} \leq \frac{1}{2} \left(v_{n} - u_{n}\right)$
+
+4. En déduire que les suites $\left(u_{n}\right)$ et $\left(v_{n}\right)$ sont adjacentes.
+
+5. Montrer que la suite $\left(u_{n} v_{n}\right)$ est constante, et en déduire la limite commune des suites $\left(u_{n}\right)$ et $\left(v_{n}\right)$.

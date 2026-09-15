@@ -1,0 +1,55 @@
+---
+Chapitre: Chapitre 5 : Fonctions exponentielles
+Séance: Séance 5-3 : Fonctions exponentielles - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 5-3 : Fonctions exponentielles - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+##### 5-1/ Partie 1
+
+Pour tout $n \in \mathbb{N} \star$ on considère la fonction $g_{n}$ définie par : $g_{n} \left(x\right) = x + e^{- n x}$.
+
+Et soit $\mathcal{C}_{n}$ sa courbe représentative dans un repère orthonormé $\left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$.
+
+1. Étudier les variations de la fonction $g_{n}$.
+
+2. Montrer que $g_{n}$ admet un minimum absolu en un réel un qu'on exprimera en fonction de $n$.
+
+3. Calculer les limites $\underset{x \rightarrow - \infty}{lim} g_{n} \left(x\right)$ et $\underset{x \rightarrow + \infty}{lim} g_{n} \left(x\right)$.
+
+4. Déterminer les branches infinies de $\mathcal{C}_{n}$.
+
+5. Étudier la position relative des courbes $\mathcal{C}_{1}$ et $\mathcal{C}_{2}$.
+
+6. Tracer dans le repère $\left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$ les courbes $\mathcal{C}_{1}$ et $\mathcal{C}_{2}$. (On prend : $\left||\overset{\rightarrow}{i}\right|| = 2 c m$ et $ln \left(\right. 2 \left.\right) \simeq 0 . 7$)
+
+On considère la fonction $f_{n}$ définie sur M par : $f_{n} \left(x\right) = x + e^{n x}$
+
+Et soit $\Gamma_{n}$ sa courbe représentative dans un repère orthonormé $\left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$.
+
+7. Étudier les variations de la fonction $f_{n}$.
+
+8. En déduire que l'équation $f_{n} \left(x\right) = 0$ admet une solution unique $\alpha_{n}$.
+
+9. Montrer que $\alpha_{1} \in \left]\right. - ln 2 ; - \frac{1}{2} \left[\right.$.
+
+10. Montrer que les quantités $\left(x - \alpha_{1}\right)$ et $\left(e^{x} + \alpha_{1}\right)$ ont le même signe.
+
+On considère la fonction $\varphi$ définie sur $\left]\right. - \infty ; - \frac{1}{2} \left]\right.$ par : $\varphi \left(x\right) = e^{x} - \frac{1}{\sqrt{e}} x$
+
+11. Montrer que la fonction $\varphi$ est décroissante sur l'intervalle $\left]\right. - \infty ; - \frac{1}{2} \left]\right.$.
+
+12. En déduire que pour tout $x \in \left]\right. - \infty ; - \frac{1}{2} \left]\right.$ : $\left|e^{x} + \alpha_{1}\right| \leq \frac{1}{\sqrt{e}} \left|x - \alpha_{1}\right|$
+
+On considère la suite $\left(\beta_{n}\right)$ définie par $\beta_{0} = - \frac{1}{2}$, et pour tout $n \in \mathbb{N}$ : $\beta_{n + 1} = - e^{\beta_{n}}$
+
+13. Montrer qu'il existe un réel $\alpha$ tel que :
+
+$$\left(\forall n \in \mathbb{N}\right) : \left|\beta_{n + 1} - \alpha_{1}\right| \leq \alpha \left|\beta_{n} - \alpha_{1}\right|$$
+
+14. Montrer que la suite $\left(\beta_{n}\right)$ est convergente et déterminer sa limite.

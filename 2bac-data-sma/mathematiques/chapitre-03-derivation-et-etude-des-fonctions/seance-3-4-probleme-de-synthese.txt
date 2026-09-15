@@ -1,0 +1,51 @@
+---
+Chapitre: Chapitre 3 : Dérivation et étude des fonctions
+Séance: Séance 3-4 : Dérivation et étude des fonctions - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 3-4 : Dérivation et étude des fonctions - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+#### 9-1/ Partie 1
+
+Soit $f$ la fonction numérique définie sur $\mathbb{R}$ par :
+
+$$\left\{\begin{matrix} f \left(x\right) = - x + \sqrt{x^{2} + 1} s i x \geq 0 \\ f \left(x\right) = \frac{4}{\pi} A r c tan \left(- x + \sqrt{x^{2} + 1}\right) s i x < 0 \end{matrix}\right$$
+
+1. Étudier la continuité de $f$ en $0$.
+
+2. Étudier la dérivabilité de $f$ en $0$.
+
+3. Montrer que pour tout $x \in \mathbb{R} \star$ : $f ' \left(x\right) < 0$.
+
+4. Dresser le tableau de variation de $f$. On déterminera les limites en $- \infty$ et en $+ \infty$.
+
+5. Tracer la courbe $\mathcal{C}_{f}$ de la fonction $f$ dans un repère orthonormé (Unité : $2 c m$).
+
+On pose $I = \left[\frac{1}{4} ; 1\right]$.
+
+6. Montrer que $f \left(I\right) \subset I$.
+
+#### 9-2/ Partie 2
+
+On considère la suite numérique $\left(u_{n}\right)$ définie par $u_{0} = 1$ et $u_{n + 1} = f \left(u_{n}\right)$ pour tout $n \in \mathbb{N}$.
+
+1. Montrer que pour tout $x \in I$ : $\left|f ' \left(x\right)\right| \leq \frac{4}{5}$
+
+2. En utilisant l'inégalité des accroissements finis, montrer que pour tout $n \in \mathbb{N}$ :
+
+$$\left|u_{n + 1} - \frac{\sqrt{3}}{3}\right| \leq \frac{4}{5} \left|u_{n} - \frac{\sqrt{3}}{3}\right|$$
+
+3. En déduire que la suite $\left(u_{n}\right)$ est convergente, et donner sa limite.
+
+4. Montrer que : $\left(\forall x \in \left]\right. 0 ; \frac{\pi}{2} \left[\right.\right) ; f \left(\frac{1}{tan x}\right) = tan \left(\frac{x}{2}\right)$
+
+On pose pour tout $n \in \mathbb{N}$ : $a_{n} = \frac{2^{n + 1} + \left(- 1\right)^{n}}{3}$
+
+5. Vérifier que $a_{0} = 1$, et que pour tout $n \in \mathbb{N}$ : $a_{n + 1} = 2^{n + 1} - a_{n}$
+
+6. Montrer que : $\left(\forall n \in \mathbb{N}\right) u_{n} = tan \left(\frac{πa_{n}}{2^{n + 2}}\right)$

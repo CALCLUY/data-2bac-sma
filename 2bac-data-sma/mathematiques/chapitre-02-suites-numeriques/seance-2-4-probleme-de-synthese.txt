@@ -1,0 +1,35 @@
+---
+Chapitre: Chapitre 2 : Suites numériques
+Séance: Séance 2-4 : Suites numériques - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 2-4 : Suites numériques - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+Soit $\left(u_{n}\right)_{n \geq 1}$ une suite réelle.
+
+On pose pour tout $n \in \mathbb{N} \star$ : $S_{n} = \frac{u_{1} + u_{2} + . . . . + u_{n}}{n}$
+
+On suppose que $\underset{n \rightarrow + \infty}{lim} u_{n} = 0$.
+
+Soient $\epsilon > 0$ et $n_{0} \in \mathbb{N}$ tel que pour tout $n \geq n_{0}$, on a $\left|u_{n}\right| < \epsilon$.
+
+1. Montrer qu'il existe une constante $M$ telle que pour tout $n \geq n_{0}$, on a $\left|S_{n}\right| < \frac{M \left(n_{0} - 1\right)}{n} + \epsilon$.
+
+2. En déduire que $\underset{n \rightarrow + \infty}{lim} S_{n} = 0$.
+
+On suppose que pour tout $n \in \mathbb{N} \star$, on a $u_{n} = \left(- 1\right)^{n}$.
+
+3. Que dire de $S_{n}$ ? Qu'en déduisez-vous ?
+
+On suppose que $\underset{n \rightarrow + \infty}{lim} u_{n} = \mathcal{l}$.
+
+4. Montrer que $\underset{n \rightarrow + \infty}{lim} S_{n} = \mathcal{l}$.
+
+On suppose que $\underset{n \rightarrow + \infty}{lim} u_{n} = + \infty$.
+
+5. Montrer que $\underset{n \rightarrow + \infty}{lim} S_{n} = + \infty$.

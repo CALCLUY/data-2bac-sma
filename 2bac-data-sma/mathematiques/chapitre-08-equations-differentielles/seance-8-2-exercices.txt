@@ -1,0 +1,41 @@
+---
+Chapitre: Chapitre 8 : Équations différentielles
+Séance: Séance 8-2 : Équations différentielles (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 8-2 : Équations différentielles (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 3-1/ Exercice 1
+
+1. Résoudre les équations différentielles suivantes :
+
+$$\overline{\left.\right)1} y ' = 3 y \\ \\ \overline{\left.\right)2} y ' = - 2 y \\ \\ \overline{\left.\right)3} 2 y ' + 3 y = 0 \\$$
+
+#### 3-2/ Exercice 2
+
+1. Déterminer la solution de l'équation différentielle $\left(E\right)$ qui vérifie la condition initiale $y \left(\right. x_{0} \left.\right) = y_{0}$ dans chacun des cas suivants :
+
+$$\overline{\left.\right)1} \left(E\right) : y ' - 4 y = 0 e t x_{0} = 0 e t y_{0} = 2 \\ \\ \overline{\left.\right)2} \left(E\right) : y ' + 3 y = 0 e t x_{0} = - 1 e t y_{0} = 1 \\ \\ \overline{\left.\right)3} \left(E\right) : 2 y ' - \sqrt{2} y = 0 e t x_{0} = - 2 e t y_{0} = - 3$$
+
+#### 3-3/ Exercice 3
+
+1. Déterminer la solution de l'équation différentielle $\left(E\right)$ qui vérifie la condition initiale $y \left(\right. x_{0} \left.\right) = y_{0}$ dans chacun des cas suivants :
+
+$$\overline{\left.\right)1} \left(E\right) : 2 y ' + 5 y = \frac{1}{2} e t x_{0} = - 1 e t y_{0} = 2 \\ \\ \overline{\left.\right)2} \left(E\right) : 3 y ' - 4 y = \sqrt{2} e t x_{0} = - 2 e t y_{0} = - 3 \\ \\ \overline{\left.\right)3} \left(E\right) : y ' ln 2 + y = ln 8 e t x_{0} = ln 2 e t y_{0} = \frac{1}{e}$$
+
+#### 3-4/ Exercice 4
+
+1. Résoudre l'équation différentielle :
+
+$$\left(E\right) : 4 y ' ' + 4 y ' + y = 0$$
+
+2. Déterminer la solution $g$ de l'équation $\left(E\right)$ vérifiant les conditions initiales $g \left(0\right) = - 1$ et $g ' \left(0\right) = \frac{3}{2}$
+
+3. Calculer $\underset{x \rightarrow + \infty}{lim} g \left(x\right)$ et $\underset{x \rightarrow - \infty}{lim} g \left(x\right)$
+
+4. Étudier les variations de la fonction $g$

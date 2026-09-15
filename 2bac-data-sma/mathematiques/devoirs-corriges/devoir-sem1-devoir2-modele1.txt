@@ -1,0 +1,59 @@
+---
+Chapitre: Devoirs Corrigés
+Séance: Semestre 1 - Devoir 2 - Modèle 1
+Type: Devoir corrigé
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Semestre 1 Devoir 2 Modèle 1
+Professeur : Mr CHEDDADI Haitam
+
+### I- Exercice 1 (7 pts)
+
+On considère ta fonction numérique $f_{n}$ définie sur $\mathbb{R}_{+}^{\star}$ par :
+
+$$f_{n} \left(x\right) = x - n + \frac{n}{2} \ln x \left(n \in \mathbb{N} \star\right)$$
+
+1. Étudier les variations de la fonction $f_{n}$.
+
+2. Montrer qu'il existe un unique réel strictement positif $\alpha_{n}$ tel que $f_{n} \left(\alpha_{n}\right) = 0$.
+
+3. Montrer que : $\left(\forall n \in \mathbb{N} \star\right) : 1 \leq \alpha_{n} \leq e^{2}$
+
+4. Montrer que la suite $\left(\alpha_{n}\right)_{n \geq 1}$ est décroissante puis qu'elle est convergente.
+
+5. Montrer que $\underset{n \rightarrow + \infty}{lim} \left(\alpha_{n}\right) = e^{2}$.
+
+### II- Exercice 2 (10 pts)
+
+On considère la fonction $f$ définie sur $\mathbb{R}^{+}$ par :
+
+$$\left\{\begin{matrix} f \left(x\right) = \frac{\ln x}{\ln^{2} x + \ln x + 1} s i x > 0 \\ f \left(0\right) = 0 \end{matrix}\right.$$
+
+Et soit $\mathcal{C}$ sa courbe représentative dans un repère orthonormé $\left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$.
+
+1. Calculer $\underset{x \rightarrow + \infty}{lim} \left(x\right)$.
+
+2. Montrer que $f$ est continue à droite en $0$.
+
+3. Étudier la dérivabilité de la fonction $f$ à droite en $0$, puis interpréter graphiquement le résultat obtenu.
+
+4. Étudier les variations de la fonction $f$.
+
+5. Écrire l'équation de la tangente $\left(T\right)$ à la courbe $\mathcal{C}$ au point d'abscisse $1$.
+
+6. Tracer la courbe $\mathcal{C}$.
+
+Soit $g$ la restriction de $f$ à l'intervalle $I = \left[\frac{1}{e} ; e\right]$.
+
+7. Montrer que $g$ réalise une bijection de $I$ sur un intervalle $J$ à déterminer.
+
+8. Montrer que $g^{- 1}$ est dérivable en $0$, puis déterminer $\left(g^{- 1}\right)^{'} \left(0\right)$.
+
+### III- Exercice 3 (3 pts)
+
+1. Déterminer les fonctions primitives des fonctions suivantes :
+
+$$1) f \left(x\right) = \frac{1}{x^{2} - 4 x + 6} \\ 2) g \left(x\right) = \frac{x^{3} - 4 x^{2} + x + 1}{x^{2} - 4 x + 6}$$

@@ -1,0 +1,75 @@
+---
+Chapitre: Chapitre 11 : Espaces vectoriels
+Séance: Séance 11-3 : Espaces vectoriels - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 11-3 : Espaces vectoriels - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+#### 5-1/ Partie 1
+
+Soit $\mathcal{E}$ l'ensemble suivant :
+
+$$\mathcal{E} = \left\{f : x \rightarrowtail \left(a x + b\right) e^{2 x} / \left(a ; b\right) \in \mathbb{R}^{2}\right\}$$
+
+1. Montrer que $\left(\mathcal{E} ; + ; \cdot\right)$ est un espace vectoriel réel.
+
+Soit $f_{1}$ et $f_{2}$ les deux fonctions numériques définies sur $\mathbb{R}$ par $f_{1} \left(x\right) = e^{2 x}$ et $f_{2} \left(x\right) = x e^{2 x}$.
+
+2. Montrer que la famille $B = \left(f_{1} ; f_{2}\right)$ est une base de l'espace vectoriel $\mathcal{E}$.
+
+3. Montrer que la fonction $g : x \rightarrowtail \int_{0}^{x} \left(t + \frac{1}{2}\right) e^{2 t} d t$ appartient à l'ensemble $\mathcal{E}$ en déterminant ses coordonnées dans la base $B$.
+
+#### 5-2/ Partie 2
+
+On définit sur l'ensemble $H = \mathbb{R}_{+}^{\star} \times \mathbb{R}$ une loi de composition interne $\ll + \gg$ comme suit :
+
+Pour tous $\left(x ; y\right)$ et $\left(x ' ; y '\right)$ de $H$ : $\left(x ; y\right) + \left(x ' ; y '\right) = \left(x + x ' ; y + y '\right)$
+
+et une loi de composition externe à coefficients réels $\ll \cdot \gg$ comme suit :
+
+$$\left(\forall \alpha \in \mathbb{R}\right) \left(\forall \left(x ; y\right) \in H\right) \alpha \cdot \left(x ; y\right) = \left(\alpha x ; \alpha y\right)$$
+
+On considère l'application $\varphi$ définie de $\mathbb{R}^{2}$ dans $H$ par $\varphi \left(\left(x ; y\right)\right) = \left(e^{x} ; y\right)$ (En considérant $\left(\mathbb{R}^{2} ; + ; \cdot\right)$ l'espace vectoriel usuel.
+
+1. Montrer que $\varphi$ est un morphisme de $\left(\mathbb{R}^{2} ; +\right)$ dans $\left(H ; +\right)$.
+
+2. En déduire que $\left(H ; +\right)$ est un groupe commutatif.
+
+3. Déterminer l'élément neutre dans $\left(H ; +\right)$.
+
+4. Quelle est le symétrique de $\left(x ; y\right)$ dans $\left(H ; +\right)$.
+
+5. Montrer que $\left(H ; + ; \cdot\right)$ est un espace vectoriel réel.
+
+#### 5-3/ Partie 3
+
+On considère dans $\mathbb{M}_{3} \left(\mathbb{R}\right)$ la matrice suivante :
+
+$$A = \begin{bmatrix} 0 & 1 & 1 \\ 1 & 0 & 1 \\ 1 & 1 & 0 \end{bmatrix}$$
+
+On considère l'ensemble défini par :
+
+$$E = \left\{M \in \mathbb{M}_{3} \left(\mathbb{R}\right) / M = x I + y A ; \left(x ; y\right) \in \mathbb{R}^{2}\right\}$$
+
+1. Montrer que $\left(E ; + ; \cdot\right)$ est un espace vectoriel réel
+
+2. Montrer que $\left(\forall \alpha \in \mathbb{R}\right) A \neq \alpha I$, puis en déduire que la famille $\left(I ; A\right)$ est une base de l'espace vectoriel $E$.
+
+3. Vérifier que $A^{2} = A + 2 I$ puis en déduire que $A$ admet un inverse $A^{- 1}$ appartenant à $E$.
+
+4. Montrer que $E$ est stable dans $\left(\mathbb{M}_{3} \left(\mathbb{R}\right) ; \times\right)$.
+
+5. Montrer que $\left(E ; + ; \times\right)$ est un anneau commutatif.
+
+6. Montrer que l'équation $\left(X \in E\right) ; X^{2} = X$ admet quatre solutions : La matrice nulle, la matrice identité et deux matrices que nous les noterons $P$ et $Q$.
+
+7. Calculer le produit $P \times Q$. Les matrices $P$ et $Q$ admettent-elles un inverse dans $\left(E ; \times\right)$ ? Justifier
+
+8. Déterminer les coordonnées de $P$ et $Q$ dans la base $\left(I ; A\right)$.
+
+9. En déduire que la famille $\left(P ; Q\right)$ est une base de l'espace vectoriel $E$.

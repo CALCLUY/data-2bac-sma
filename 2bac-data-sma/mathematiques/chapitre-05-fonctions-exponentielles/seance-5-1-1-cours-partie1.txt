@@ -1,0 +1,121 @@
+---
+Chapitre: Chapitre 5 : Fonctions exponentielles
+Séance: Séance 5-1-1 : Fonctions exponentielles - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 5-1-1 : Fonctions exponentielles - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+#### 1-1/ Définition et propriétés élémentaires
+
+Définition 1
+
+La fonction réciproque de la fonction logarithme népérienne est appelée la fonction exponentielle népérienne (ou la fonction exponentielle), et on la note $e x p$.
+
+Remarques
+
+La fonction $ln$ est une bijection de $\mathbb{R}_{+}^{\star}$ vers $\mathbb{R}$ : $\left(\forall \beta \in \mathbb{R}\right) \left(\exists ! \alpha \in \mathbb{R}_{+}^{\star}\right) \beta = ln \left(\alpha\right)$
+
+Par définition de la fonction exp : $\left(\forall x \in \mathbb{R}\right) \left(\forall y \in \mathbb{R}_{+}^{\star}\right) \left(y = e x p \left(x\right) \Leftrightarrow x = ln \left(y\right)\right)$
+
+$e x p \left(0\right) = 1$ et $e x p \left(1\right) = e$ car $ln \left(1\right) = 0$ et $ln \left(e\right) = 1$.
+
+Proposition 1
+
+La fonction exp est une bijection de $\mathbb{R}$ dans $\mathbb{R}_{+}^{\star}$.
+
+La fonction exp est continue et strictement croissante sur $\mathbb{R}$.
+
+On a pour tout $x \in \mathbb{R}$ : $e x p \left(x\right) > 0$ et $ln \left(e x p \left(x\right)\right) = x$.
+
+On a pour tout $x \in \mathbb{R}_{+}^{\star}$ : $e x p \left(ln x\right) = x$.
+
+Corollaire
+
+Pour tout $\left(x , y\right) \in \mathbb{R}^{2}$ : $e x p \left(x\right) = e x p \left(y\right) \Leftrightarrow x = y$ et $e x p \left(x\right) < e x p \left(y\right) \Leftrightarrow x < y$.
+
+Pour tout $x \in \mathbb{R}$ : $\left(e x p \left(x\right) = 1 \Leftrightarrow x = 0\right)$ et $\left(e x p \left(x\right) < 1 \Leftrightarrow x < 0\right)$ et $\left(e x p \left(x\right) > 1 \Leftrightarrow x > 0\right)$.
+
+#### 1-2/ Propriétés algébriques
+
+Proposition 2
+
+Pour tous réels $x$ et $y$, on a : $e x p \left(x + y\right) = e x p \left(x\right) \times e x p \left(y\right)$
+
+Proposition 3
+
+Pour tout $n \in \mathbb{N} \star$ et pour tous réels $x_{1} , x_{2} , . . . . , x_{n}$, on a :
+
+$$e x p \left(x_{1} + x_{2} + . . . . + x_{n}\right) = e x p \left(x_{1}\right) \times e x p \left(x_{2}\right) \times . . . . \times e x p \left(x_{n}\right)$$
+
+c'est-à-dire :
+
+$$e x p \left(\sum_{k = 1}^{n} x_{k}\right) = \prod_{k = 1}^{n} e x p \left(x_{k}\right)$$
+
+Proposition 4
+
+Soit $x$ et $y$ deux nombres réels, et $r$ un nombre rationnel.
+
+Alors :
+
+$$e x p \left(- x\right) = \frac{1}{e x p \left(x\right)} ; e x p \left(x - y\right) = \frac{e x p \left(x\right)}{e x p \left(y\right)} ; e x p \left(r x\right) = \left(e x p \left(x\right)\right)^{r}$$
+
+#### 1-3/ Une autre écriture de la fonction exp
+
+On a $e x p \left(\right. 1 \left.\right) = e$.
+
+On a déjà vu que pour tout $x \in \mathbb{R}$ et pour tout $r \in \mathbb{Q}$ : $e x p \left(r x\right) = \left(e x p \left(x\right)\right)^{r}$
+
+En particulier pour $x = 1$ : $e x p \left(\right. r \left.\right) = \left(\right. e x p \left(\left(\right. 1 \left.\right) \left.\right)\right)^{r} = e^{r}$
+
+On prolongera cette écriture en notant pour tout $x \in \mathbb{R}$ : $e x p \left(\right. x \left.\right) = e^{x}$
+
+Remarquons enfin que cette nouvelle notation est compatible avec les notations des puissances connues.
+
+Avec cette nouvelle notation, on résumera les résultats vus précédemment comme suit :
+
+$$\left(\forall x \in \mathbb{R}\right) \left(\forall y \in \mathbb{R}_{+}^{\star}\right) : y = e^{x} \Leftrightarrow x = ln y \\ \\ \left(\forall x \in \mathbb{R}\right) : e^{x} > 0 \\ \\ \left(\forall x \in \mathbb{R}\right) : ln \left(e^{x}\right) = x \\ \\ \left(\forall x \in \mathbb{R}_{+}^{\star}\right) : e^{ln x} = x \\ \\ \left(\forall x , y \in \mathbb{R}\right) : \left(e^{x} = e^{y} \Leftrightarrow x = y\right) e t \left(e^{x} < e^{y} \Leftrightarrow x < y\right) \\ \\ \left(\forall x , y \in \mathbb{R}\right) : \left(e^{x + y} = e^{x} \times e^{y}\right) e t \left(e^{x - y} = \frac{e^{x}}{e^{y}}\right) \\ \\ \left(\forall x , y \in \mathbb{R}\right) \left(\forall r \in \mathbb{Q}\right) : e^{r x} = \left(e^{x}\right)^{r}$$
+
+#### 1-4/ Dérivée de la fonction exponentielle népérienne
+
+Proposition 5
+
+La fonction $e x p$ est dérivable sur $\mathbb{R}$, et on a : $\left(\forall x \in \mathbb{R}\right) e x p ' \left(x\right) = e x p \left(x\right)$
+
+Ce qui s'écrit aussi : $\left(\forall x \in \mathbb{R}\right) \left(e^{x}\right) ' = e^{x}$
+
+Proposition 6
+
+Si $u$ est une fonction dérivable sur un intervalle $I$ alors la fonction $x \rightarrowtail e^{u \left(x\right)}$ est dérivable sur $I$ et on a :
+
+$$\left(\forall x \in I\right) \left(e^{u \left(x\right)}\right) ' = u ' \left(x\right) . e^{u \left(x\right)}$$
+
+Corollaire
+
+Soit $u$ une fonction dérivable sur un intervalle $I$.
+
+Les primitives de la fonction $x \rightarrowtail u ' \left(x\right) . e^{u \left(x\right)}$ sur $I$ sont les fonctions de la forme $x \rightarrowtail e^{u \left(x\right)} + \lambda$ où $\lambda$ est une constante réelle.
+
+#### 1-5/ Limites fondamentales
+
+Proposition 7
+
+On a les limites fondamentales suivantes :
+
+$$\underset{x \rightarrow + \infty}{lim} e^{x} = + \infty ; \underset{x \rightarrow - \infty}{lim} e^{x} = 0 ; \underset{x \rightarrow + \infty}{lim} \frac{e^{x}}{x} = + \infty$$
+
+$$\underset{x \rightarrow - \infty}{lim} x e^{x} = 0 ; \underset{x \rightarrow 0}{lim} \frac{e^{x} - 1}{x} = 1$$
+
+Si $\alpha$ est un réel non nul alors :
+
+$$\underset{x \rightarrow 0}{lim} \frac{e^{\alpha x} - 1}{x} = \alpha ; \underset{x \rightarrow \alpha}{lim} \frac{e^{x} - e^{\alpha}}{x - \alpha} = e^{\alpha}$$
+
+Proposition 8
+
+Pour tout entier naturel $n$, on a :
+
+$$\underset{x \rightarrow + \infty}{lim} \frac{e^{x}}{x^{n}} = + \infty \\ \\ \underset{x \rightarrow - \infty}{lim} x^{n} e^{x} = 0 \\ \\ \underset{x \rightarrow + \infty}{lim} x^{n} e^{- x} = 0$$

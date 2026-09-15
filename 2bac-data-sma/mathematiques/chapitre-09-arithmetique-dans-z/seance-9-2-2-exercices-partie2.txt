@@ -1,0 +1,69 @@
+---
+Chapitre: Chapitre 9 : Arithmétique dans Z
+Séance: Séance 9-2-2 : Arithmétique dans Z - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 9-2-2 : Arithmétique dans $\mathbb{Z}$ - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 6-1/ Exercice 2-1
+
+Soit $p$ un nombre premier .
+
+1. Résoudre dans $\mathbb{Z} / p^{2} \mathbb{Z}$ l'équation : $x^{2} = \bar{0}$
+
+2. Résoudre dans $\mathbb{Z} / 49 \mathbb{Z}$ l'équation : $x^{2} + \bar{8} x + \bar{16} = \bar{0}$
+
+3. Résoudre dans $\mathbb{Z}$ l'équation : $4 x^{2} - 2 x - 2 \equiv 0 \left[3\right]$
+
+#### 6-2/ Exercice 2-2
+
+On considère dans $\mathbb{Z}^{2}$ l'équation $\left(E\right)$ suivante :
+
+$$\left(E\right) : 324 x - 245 y = 7$$
+
+1. Montrer que si $\left(x ; y\right)$ est une solution de $\left(E\right)$, alors le nombre $x$ est divisible par $7$.
+
+2. Résoudre l'équation $\left(E\right)$.
+
+Soit $\left(x ; y\right)$ une solution de $\left(E\right)$.
+
+On pose : $d = x \land y$
+
+3. Déterminer les valeurs possibles de $d$.
+
+4. Déterminer les couples $\left(x ; y\right)$ solutions de l'équation $\left(E\right)$ tels que : $x \land y = 1$
+
+#### 6-3/ Exercice 2-3
+
+Soit $n \in \mathbb{Z}$
+
+1. Montrer que : $n^{7} + 6 n \equiv 0 \left[7\right]$ et $n^{7} \equiv n \left[42\right]$
+
+2. a- Montrer que : $n^{5} - n \equiv 0 \left[5\right]$
+
+2. b- En déduire que : $n \left(n^{2} - 1\right) \left(n^{2} - 4\right) \equiv 0 \left[5\right]$
+
+3. Montrer que : $n^{2} \left(n^{2} - 1\right) \left(n^{2} + 1\right) \equiv 0 \left[60\right]$
+
+#### 6-4/ Exercice 2-4
+
+Les questions suivantes sont indépendantes.
+
+Soit $N \in \mathbb{N}$ tel que : $N = \left(\bar{52}\right)_{p}$ et $N = \left(\bar{42}\right)_{q}$.
+
+1. Déterminer les valeurs de $p$ et $q$.
+2. Déterminer les entiers naturels $\alpha$, $\beta$ et $b$ tels que : $\left(\bar{\beta \beta \beta}\right)_{\left(b\right)} = \left(\bar{\alpha \alpha}\right)_{\left(2\right)}$
+
+On considère les nombres suivants : $x = \left(\bar{236}\right)_{\left(8\right)}$ et $y = \left(\bar{347}\right)_{\left(8\right)}$
+
+3. Calculer : $x + y$ et $x \times y$
+
+Soit $b$ un entier naturel supérieur ou égal à $2$ tel que : $\left(\bar{45}\right)_{\left(b\right)} + \left(\bar{36}\right)_{\left(b\right)} = \left(\bar{103}\right)_{\left(b\right)}$
+
+4. Calculer : $\left(\bar{45}\right)_{\left(b\right)} \times \left(\bar{36}\right)_{\left(b\right)}$
+5. Représenter le nombre $\left(\bar{4523}\right)_{\left(8\right)}$ dans le système de numération binaire.

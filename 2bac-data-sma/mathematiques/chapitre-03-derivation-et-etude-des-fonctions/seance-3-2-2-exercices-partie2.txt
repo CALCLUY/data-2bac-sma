@@ -1,0 +1,35 @@
+---
+Chapitre: Chapitre 3 : Dérivation et étude des fonctions
+Séance: Séance 3-2-2 : Dérivation et étude des fonctions - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 3-2-2 : Dérivation et étude des fonctions - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 5-1/ Exercice 2-1
+
+Dans chacun des cas suivants, montrer que la fonction $f$ vérifie les conditions du théorème de Rolle sur $I$ puis déterminer un nombre réel $c$ de $I$ vérifiant $f ' \left(\right. c \left.\right) = 0$ :
+
+$$\overline{\left.\right)1} f \left(x\right) = x^{3} - 6 x^{2} + 11 x - 6 ; I = \left[1 ; 3\right] \\ \\ \overline{\left.\right)2} f \left(x\right) = x - \sqrt[3]{4 x} + 2017 ; I = \left[0 ; 2\right] \\ \\ \overline{\left.\right)3} f \left(x\right) = πx - 3 \sqrt{3} Arctanx + 1 ; I = \left[0 ; \sqrt{3}\right]$$
+
+#### 5-3/ Exercice 2-2
+
+On considère la fonction $f$ définie sur $\mathbb{R}$ par : $f \left(x\right) = \left(x^{2} - 1\right) \left(x - 2\right)^{4} \left(x + 3\right)^{2} \left(x + 4\right)^{7}$
+
+1. Montrer que l'équation $f ' \left(\right. x \left.\right) = 0$ admet au moins quatre solutions dans $\mathbb{R}$.
+
+#### 5-4/ Exercice 2-3
+
+Soit $f$ une fonction continue sur $\left[a , b\right]$ et deux fois dérivable sur $\left]\right. a , b \left[\right.$ tel que $f \left(a\right) = f \left(b\right) = 0$ et $f ' ' \left(x\right) \neq 0$ pour tout $x \in \left]\right. a , b \left[\right.$.
+
+1. Montrer par l'absurde que $\left(\forall x \in \left]\right. a , b \left[\right.\right) f \left(x\right) \neq 0$.
+
+#### 5-5/ Exercice 2-4
+
+Soit $f$ une fonction continue sur $\left[0 ; 1\right]$ et deux fois dérivable sur $\left]\right. 0 ; 1 \left[\right.$ tel que $f \left(0\right) = 0$ et $f \left(1\right) = 1$
+
+1. Montrer qu'il existe au moins un réel $c \in \left]\right. 0 ; 1 \left[\right.$ tel que $f ' \left(c\right) = \frac{1}{2 \sqrt{c}}$.

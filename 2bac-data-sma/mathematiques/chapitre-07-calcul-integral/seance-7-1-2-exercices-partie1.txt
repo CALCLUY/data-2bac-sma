@@ -1,0 +1,44 @@
+---
+Chapitre: Chapitre 7 : Calcul intégral
+Séance: Séance 7-1-2 : Calcul intégral - Partie 1 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 7-1-2 : Calcul intégral - Partie 1 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 3-1/ Exercice 1-1
+
+* Calculer les intégrales suivantes :
+
+$$I_{1} = \int_{0}^{ln 3} \frac{e^{x} - e^{- x}}{e^{x} + e^{- x}} d x \\ \\ I_{2} = \int_{2}^{3} \left(2 - x\right) e^{x^{2} - 4 x} d x \\ \\ I_{3} = \int_{1}^{e} \frac{d x}{x \left(1 + ln x\right)} \\ \\ I_{4} = \int_{0}^{\frac{\pi}{3}} \frac{d x}{\left(3 tan x + 2\right) cos^{2} x} \\ \\ I_{5} = \int_{\frac{\pi}{6}}^{\frac{\pi}{3}} \frac{tan x}{ln \left(cos x\right)} d x$$
+$$I_{6} = \int_{\frac{\pi}{6}}^{\frac{\pi}{3}} \frac{tan x}{ln^{3} \left(cos x\right)} d x \\ \\ I_{7} = \int_{1}^{3} \left(e^{x} ln x + \frac{e^{x}}{x}\right) d x \\ \\ I_{8} = \int_{0}^{1} \frac{\left(A r c tan x\right)^{2}}{x^{2} + 1} d x \\ \\ I_{9} = \int_{0}^{\pi} e^{x} \left(sin x + cos x\right) d x \\ \\ I_{10} = \int_{0}^{\frac{\pi}{4}} \frac{e^{tan x}}{cos^{2} x} d x$$
+
+#### 3-2/ Exercice 1-2
+
+Soit $f$ la fonction définie par : $f \left(x\right) = \frac{1}{\left(x^{2} + 3 x + 2\right)^{3}}$
+
+1. Déterminer les réels $a$, $b$, $c$, $d$, $\alpha$ et $\beta$ tels que pour tout $x \in \left[2 ; 3\right]$ :
+
+$$f \left(x\right) = \frac{a}{\left(x + 1\right)^{3}} + \frac{b}{\left(x + 2\right)^{3}} + \frac{c}{\left(x + 1\right)^{2}} + \frac{d}{\left(x + 2\right)^{2}} + \frac{\alpha}{x + 1} + \frac{\beta}{x + 2}$$
+
+On considère la suite numérique $\left(u_{n}\right)$ définie par : $u_{n} = \int_{0}^{n} f \left(x\right) d x$
+
+2. Calculer $u_{n}$ en fonction de $n$ puis montrer que :
+
+$$\underset{n \rightarrow \infty}{lim} u_{n} = ln \left(64\right) - \frac{33}{8}$$
+
+#### 3-3/ Exercice 1-3
+
+* En utilisant la formule d'intégration par parties, calculer les intégrales suivantes :
+
+$$I = \int_{0}^{ln a} \left(1 + e^{x}\right) ln \left(x + e^{x}\right) d x ; \left(a \in \left]\right. 1 ; + \infty \left[\right.\right) \\ \\ J = \int_{ln \frac{\pi}{4}}^{ln \frac{\pi}{2}} e^{2 x} sin \left(e^{x}\right) d x \\ \\ K = \int_{0}^{\sqrt{3}} \frac{x^{3}}{\sqrt{1 + x^{2}}} d x \\ \\ L = \int_{0}^{\frac{\pi}{2}} cos x . ln \left(1 + cos x\right) d x \\ \\ M = \int_{1}^{2} \frac{1}{x^{3}} e^{\frac{1}{x}} d x \\ \\ N = \int_{0}^{2 \pi} \frac{ln \left(1 + x\right)}{\sqrt{1 + x}} d x \\ \\$$
+
+#### 3-4/ Exercice 1-4
+
+* En utilisant la technique de changement de variable, calculer les intégrales suivantes :
+
+$$I = \int_{1}^{3} \frac{\sqrt{x}}{1 + x} d x ; \left(t = \sqrt{x}\right) \\ \\ J = \int_{\frac{\pi}{3}}^{\frac{\pi}{2}} \frac{1 + cos x}{1 - cos x} d x ; \left(t = tan \frac{x}{2}\right) \\ \\ K = \int_{0}^{1} \sqrt{1 + x^{2}} d x ; \left(x = \frac{e^{t} - e^{- t}}{2}\right) \\ \\ L = \int_{5}^{10} \frac{1 + \sqrt{x - 1}}{x - 2} d x ; \left(t = \sqrt{x - 1}\right) \\ \\ M = \int_{1}^{2} \sqrt{x^{2} - 1} d x ; \left(x = \frac{e^{t} + e^{- t}}{2}\right) \\ \\ N = \int_{0}^{\frac{\pi^{2}}{9}} \frac{2 x}{cos^{2} \left(x^{2}\right)} d x ; \left(x = t^{2}\right) \\ \\ P = \int_{0}^{1} \frac{d x}{\sqrt{1 + x^{2}}} ; \left(x = \frac{t^{2} - 1}{2 t} e t t > 0\right) \\ \\ R = \int_{4}^{9} \frac{d t}{\sqrt{t} \left(t - 4 \sqrt{t} + 5\right)} ; \left(x = \sqrt{t} - 2\right)$$

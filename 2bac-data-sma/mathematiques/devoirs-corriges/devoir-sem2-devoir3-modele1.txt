@@ -1,0 +1,95 @@
+---
+Chapitre: Devoirs Corrigés
+Séance: Semestre 2 - Devoir 3 - Modèle 1
+Type: Devoir corrigé
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Semestre 2 Devoir 3 Modèle 1
+Professeur : Mr CHEDDADI Haitam
+
+### I- Exercice 1
+
+Un sac contient $2 n$ boules $\left(n \in \mathbb{N} \star\right)$, dont $n$ sont blanches et $n$ sont noires.
+
+Toutes les boules sont indiscernables au toucher.
+
+Un jeu consiste à tirer une boule du sac à noter sa couleur et à la remettre dans le sac, puis à tirer du même sac une nouvelle boule et à noter aussi sa couleur.
+
+La règle du jeu indique que :
+
+- Si les deux boules tirées sont blanches, on gagne $20$ points.
+- Si les deux boules tirées sont noires, on perd $20$ points.
+- Si les deux boules tirées sont de couleurs différentes, le gain est nul.
+
+1. Calculer la probabilité de gagner $20$ points, la probabilité de perdre $20$ points et la probabilité de réaliser un gain nul.
+
+On répète $5$ fois le jeu précédent.
+
+2. Calculer la probabilité de gagner $100$ points.
+
+3. Calculer la probabilité de gagner $40$ points.
+
+Au cours d'un seul jeu, on considère la variable aléatoire $X$ qui prend uniquement les valeurs $- 20$ si on perd, $0$ si le gain est nul et $+ 20$ si on gagne.
+
+4. Déterminer la loi de probabilité de la variable aléatoire $X$.
+
+5. Calculer l'espérance mathématique de la variable aléatoire $X$.
+
+### II- Exercice 2
+
+##### Partie A
+
+Soit $a \in \mathbb{Z}$.
+
+1. Montrer que si $a$ et $13$ sont premiers entre eux, alors : $a^{2016} \equiv 1 \left[13\right]$
+
+On considère dans $\mathbb{Z}$ l'équation $\left(E\right) : x^{2015} \equiv 2 \left[13\right]$, et soit $x$ une solution de l'équation $\left(E\right)$.
+
+2. Montrer que $x$ et $13$ sont premiers entre eux.
+
+3. Montrer que $\left(E\right) : x \equiv 7 \left[13\right]$.
+
+##### Partie B
+
+On considère une urne U contenant cinquante boules numérotées de 1 à 50. (Les boules sont indiscernables au toucher).
+
+On tire au hasard une boule de l'urne.
+
+1. Quelle est la probabilité d'obtenir une boule portant un numéro solution de l'équation $\left(E\right)$ ?
+
+On tire au hasard une boule de l'urne, on note son numéro puis on la remet dans l'urne. On répète cette expérience trois fois de suite.
+
+2. Quelle est la probabilité d'obtenir exactement deux fois portant un numéro solution de l'équation $\left(E\right)$ ?
+
+### III- Exercice 3
+
+On rappelle que $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \cdot\right)$ est un espace vectoriel réel.
+
+Pour tout $\left(a ; b\right) \in \mathbb{R}^{2}$ , on pose :
+
+$$M \left(a ; b\right) = \begin{bmatrix} a + b & - b \\ 5 b & a - 3 b \end{bmatrix}$$
+
+On considère l'ensemble : $\mathcal{F} = \left\{M \left(a ; b\right) / \left(a ; b\right) \in \mathbb{R}^{2}\right\}$
+
+On note $O = M \left(0 ; 0\right)$ et $I = M \left(1 ; 0\right)$ et $J = M \left(0 ; 1\right)$.
+
+1. Montrer que $\left(\mathcal{F} ; + ; \cdot\right)$ est un espace vectoriel réel.
+
+2. Montrer que $\left(I ; J\right)$ est une base de l'espace vectoriel $\left(\mathcal{F} ; + ; \cdot\right)$ et donner sa dimension.
+
+Soit $\alpha$ un nombre complexe n'appartenant pas à $\mathbb{R}$.
+
+3. Montrer que la famille $\left(1 ; \alpha\right)$ est une base de l'espace vectoriel réel $\left(\mathbb{C} ; + ; \cdot\right)$.
+
+On considère l'application $\psi$ de $\mathbb{C}$ dans $\mathcal{F}$ définie par $\psi \left(z\right) = M \left(a ; b\right)$ avec $z = a + b \alpha$ et $\left(a ; b\right) \in \mathbb{R}^{2}$
+
+4. Vérifier que $J^{2} = - 2 \left(I + J\right)$ et $\psi \left(\alpha\right) = J$.
+
+5. Déterminer les deux valeurs de $\alpha$ pour lesquelles l'application $\psi$ est un isomorphisme de $\left(\mathbb{C} ; \times\right)$ dans $\left(\mathcal{F} ; \times\right)$.
+
+On prend dans cette question : $\alpha = - 1 + i$
+
+6. Écrire dans la base $\left(I ; J\right)$ la matrice $J^{2007}$.

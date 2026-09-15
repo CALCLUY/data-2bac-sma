@@ -1,0 +1,261 @@
+---
+Chapitre: Chapitre 12 : Calcul de probabilités
+Séance: Séance 12-1-1 : Calcul de probabilités - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 12-1-1 : Calcul de probabilités - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+### I- Le jargon des probabilités
+
+#### 1-1/ Expérience aléatoire - notion d'événement
+
+##### Définition 1
+
+Une expérience aléatoire (ou épreuve aléatoire) est une mise en œuvre, dans des conditions bien définies, d'un processus évolutif pour un système (matériel ou modèle) dont l'état final est observable (expérience concrète) ou imaginable (expérience abstraite) mais imprévisible. Un tel état final est appelé résultat de l'expérience aléatoire.
+
+L'ensemble des résultats possibles d'une expérience aléatoire est appelé univers (ou univers des possibilités, ou ensemble fondamental), noté en général $\Omega$.
+
+Un élément de cet ensemble $\Omega$ est appelé une issue ou une éventualité. Il est dit réalisé s'il est effectivement constaté lors d'un déroulement particulier de l'expérience aléatoire.
+
+##### Définition 2
+
+On appelle événement lié à une expérience aléatoire, tout résultat de cette expérience pouvant se produire.
+
+Chaque événement lié à cette expérience aléatoire est une partie de l'univers $\Omega$ de ses résultats observables.
+
+##### Remarques
+
+La définition 2 montre qu'un événement est une propriété attachée à l'expérience aléatoire qui peut être vérifiée ou non.
+
+Il est bon de remarquer qu'un événement se réalise lorsque le résultat constaté de l'épreuve est l'un des éléments qui constituent l'événement.
+
+L'ensemble de tous les événements est égal à l'ensemble de toutes les parties de $\Omega$, qu'on note $\mathcal{P} \left(\Omega\right)$.
+
+##### Définition 3
+
+Soit $\Omega$ l'univers lié à une expérience aléatoire.
+
+* L'événement $\Omega$ se réalise toujours, et est appelé l'événement certain.
+* L'événement $\emptyset$ ne se réalise jamais, et appelé l'événement impossible.
+* L'événement $\left\{\omega\right\}$, où $\omega \in \Omega$ est appelé événement élémentaire.
+
+#### 1-2/ Opérations sur les événements
+
+##### Définition 4
+
+Soit $\Omega$ l'univers lié à une expérience aléatoire. $A$ et $B$ étant deux événements de $\Omega$.
+
+1- L'événement « $A$ et $B$ » est réalisé si, et seulement si, $A$ et $B$ sont réalisés au cours de la même expérience. Cet événement est appelé l'intersection des événements $A$ et $B$, et on le note $A \cap B$.
+
+2- L'événement « $A$ ou B » est réalisé si, et seulement si, l'un au moins des deux événements $A$ ou $B$ est réalisé au cours de la même expérience. Cet événement est appelé la réunion des événements $A$ et $B$, et on le note $A \cup B$.
+
+3- L'événement « non $A$ » est réalisé si, et seulement si, $A$ n'est pas réalisé. Cet événement est appelé l'événement contraire de $A$, et on le note $\overline{A}$.
+
+4- On dit que les événements $A$ et $B$ sont incompatibles ou disjoints s'ils ne peuvent pas être réalisés simultanément. Donc, $A$ et $B$ sont incompatibles si, et seulement si, $A \cap B = \emptyset$.
+
+##### Diagramme de Venn
+
+Pour bien comprendre les opérations sur les événements et ses propriétés, on utilise une création mathématique intéressant qui s'appelle diagramme de Venn.
+
+Ce diagramme permet de représenter sur une figure, un ensemble et certaines de ses parties.
+
+A titre d'exemple :
+
+[FORMULA_IMAGE_UNREADABLE]
+
+##### Tableau récapitulatif
+
+[FORMULA_IMAGE_UNREADABLE]
+
+##### Proposition 1
+
+Soit $\Omega$ l'univers lié à une expérience aléatoire.
+
+$A$, $B$ et $C$ des événements de $\Omega$.
+
+On a alors les propriétés suivantes :
+
+$$A \cup B = B \cup A ; A \cap B = B \cap A \\ A \cup \emptyset = A ; A \cap \emptyset = \emptyset \\ A \cup \Omega = \Omega ; A \cap \Omega = A \\ \overline{\overline{A}} = A ; A \cup \overline{A} = \Omega ; A \cap \overline{A} = \emptyset \\ A \cup \left(B \cap C\right) = \left(A \cup B\right) \cap \left(A \cup C\right) \\ A \cup \left(B \cup C\right) = \left(A \cup B\right) \cup C = A \cup B \cup C \\ A \cap \left(B \cup C\right) = \left(A \cap B\right) \cup \left(A \cap C\right) \\ A \cap \left(B \cap C\right) = \left(A \cap B\right) \cap C = A \cap B \cap C \\ \overline{A \cup B} = \overline{A} \cap \overline{B} ; \overline{A \cap B} = \overline{A} \cup \overline{B} \\ A = \left(A \cap B\right) \cup \left(A \cap \overline{B}\right)$$
+
+##### Remarques
+
+Comme dans le langage ensembliste, les égalités $\overline{A \cup B} = \overline{A} \cap \overline{B}$ et $\overline{A \cap B} = \overline{A} \cup \overline{B}$ portent le nom de « les lois de Morgan ».
+
+L'égalité $A = \left(A \cap B\right) \cup \left(A \cap \overline{B}\right)$ joue un rôle important en calcul des probabilités.
+
+#### 1-3/ Systèmes complets d'événements
+
+##### Définition 5
+
+Soit $\Omega$ l'univers lié à une expérience aléatoire et $A_{1} , A_{2} , . . . , A_{n}$ des événements de $\Omega$.
+
+On dit que $A_{1} , A_{2} , . . . , A_{n}$ forment un système complet d'événements lorsque les deux conditions suivantes sont vérifiées :
+
+- Les événements $A_{1} , A_{2} , . . . , A_{n}$ sont deux à deux incompatibles :
+
+$$\forall \left(i , j\right) \in \left\{1 , 2 , . . . , n\right\}^{2} i \neq j \Rightarrow A_{i} \cap A_{j} = \emptyset$$
+
+- Les événements $A_{1} , A_{2} , . . . , A_{n}$ sont complémentaires :
+
+$$A_{1} \cup A_{2} \cup . . . \cup A_{n} = \Omega$$
+
+##### Exemple
+
+$\left\{A_{1} , A_{2} , A_{3} , A_{4} , A_{5}\right\}$ forme un système complet d'événements de $\Omega$ :
+
+[FORMULA_IMAGE_UNREADABLE]
+
+##### Remarques
+
+1- Pour tout événement non vide $A$ de $\Omega$, les événements $A$ et $\overline{A}$ forment un système complet d'événements car $A \cap \overline{A} = \emptyset$ et $A \cap \overline{A} = \emptyset$.
+
+2- Pour tout univers fini $\Omega = \left\{\omega_{1} , \omega_{2} , . . . , \omega_{n}\right\}$, les événements élémentaires $\left\{\omega_{1}\right\} , \left\{\omega_{2}\right\} , . . . . , \left\{\omega_{n}\right\}$ forment un système complet d'événements.
+
+### II- Probabilité d'un événement
+
+#### 2-1/ Loi de probabilité sur un ensemble fini
+
+##### Définition 6
+
+Soit $\Omega = \left\{\omega_{1} , \omega_{2} , . . . , \omega_{n}\right\}$ un ensemble fini.
+
+- Définir une loi de probabilité sur $\Omega$, c'est attribuer à chaque éventualité $\omega_{i}$ un réel $p_{i} \in \left[0 ; 1\right]$ de telle sorte que $\sum_{i = 1}^{n} p_{i} = 1$.
+
+On dit alors que la probabilité de l'événement élémentaire $\left\{\omega_{i}\right\}$ est $p_{i}$, et on écrit : $P \left(\left\{\omega_{i}\right\}\right) = p_{i}$
+
+- Étant donné un événements $A \subset \Omega$, on définit alors la probabilité de $A$, et on note $P \left(A\right)$ comme la somme des probabilités des événements élémentaires qui constituent $A$.
+
+Le couple $\left(\Omega ; P\right)$ est appelé un espace probabilisé fini.
+
+##### Proposition 2
+
+Soit $\Omega$ l'univers lié à une expérience aléatoire, et $P$ une probabilité définie sur $\Omega$.
+
+Soit $A$ et $B$ deux événements de $\Omega$.
+
+On a alors les propriétés suivantes :
+
+1- $P \left(\Omega\right) = 1 ; P \left(\emptyset\right) = 0 ; 0 \leq P \left(A\right) \leq 1$
+
+2- Si $A$ et $B$ sont incompatibles alors : $P \left(A \cup B\right) = P \left(A\right) + P \left(B\right)$
+
+3- $P \left(\overline{A}\right) = 1 - P \left(A\right)$ et $P \left(B \cap \overline{A}\right) = P \left(B\right) - P \left(B \cap A\right)$
+
+En particulier, si $A \subset B$ alors : $P \left(B \cap \overline{A}\right) = P \left(B\right) - P \left(A\right)$ et $P \left(A\right) \leq P \left(B\right)$
+
+4- $P \left(A \cup B\right) = P \left(A\right) + P \left(B\right) - P \left(A \cap B\right)$
+
+#### 2-2/ Hypothèse d'équiprobabilité
+
+##### Définition 7
+
+Soit $\Omega = \left\{\omega_{1} , \omega_{2} , . . . , \omega_{n}\right\}$ l'univers lié à une expérience aléatoire, et $P$ une probabilité définie sur $\Omega$.
+
+On dit qu'il y a équiprobabilité, lorsque les probabilités de tous les événements élémentaires sont égales.
+
+On dit aussi que $P$ est la probabilité uniforme sur $\Omega$.
+
+##### Proposition 3
+
+Dans le cas d'équiprobabilité, on a les formules suivantes :
+
+1) Pour tout $i \in \left\{1 , 2 , . . . , n\right\}$ : $P \left(\left\{\omega_{i}\right\}\right) = \frac{1}{n} = \frac{1}{C a r d \Omega}$
+
+2) Pour tout événement $A$ de $\Omega$ : $P \left(A\right) = \frac{C a r d A}{n} = \frac{C a r d A}{C a r d \Omega}$
+
+##### Remarques
+
+1- Si l'énoncé du problème contient des phrases comme : « dé non pipé », « pièce non truquée », « manière équiprobable », « tirage au hasard », « boules indiscernables au toucher », ...etc., cela signifie qu'il s'agit bien d'une équiprobabilité. Bien entendu, dans la limite des programmes, on s'intéresse de façon générale à l'équiprobabilité dans la résolution des problèmes.
+
+Mais si l'énoncé indique qu'il n'y a pas d'équiprobabilité, on aura besoin d'autres informations pour résoudre le problème.
+
+2- Jusqu'à présent, pour calculer la probabilité d'un événement $A$, on peut envisager les stratégies suivantes :
+
+* Exprimer $A$ en fonction d'événements de probabilités connues dans le langage des événements ;
+* Modéliser $A$ par une expression ensembliste. Cette traduction se fait en remplaçant les « et » par des « n », les « ou » par des « u » et les négations par des complémentaires ;
+* Simplifier ou transformer l'expression obtenue grâce au calcul ensembliste de façon à pouvoir appliquer les formules des calculs des probabilités ; on pourra utiliser dans les simplifications les diagrammes ensemblistes.
+
+### III- Probabilité conditionnelle
+
+#### 3-1/ Introduction
+
+##### Définition 8
+
+Soit $P$ une probabilité définie sur un univers $\Omega$, et soit $A$ un événement tel que $P \left(A\right) \neq 0$.
+
+Pour tout événement $B$, on pose : $P_{A} \left(B\right) = \frac{P \left(A \cap B\right)}{P \left(A\right)}$
+
+$P_{A}$ est une probabilité définie sur $\Omega$, appelée probabilité conditionnelle relative à $A$ ou probabilité conditionnel sachant $A$.
+
+$P_{A} \left(B\right)$ s'appelle « la probabilité de $B$ sachant que $A$ est réalisé » ou « la probabilité de $B$ sachant $A$ » ou encore « la probabilité de $B$ conditionnellement à $A$ ».
+
+##### Remarques
+
+- La probabilité $P_{A} \left(B\right)$ de $B$ sachant $A$ est à bien distinguer de la probabilité de l'intersection de $B$ et de $A$ égale à $P \left(A \cap B\right)$. En effet dans le calcul de la probabilité $P_{A} \left(B\right)$, nous supposons implicitement que l'événement $A$ est réalisé tandis que dans le calcul de la probabilité $P \left(A \cap B\right)$, nous cherchons la probabilité de l'événement ($A$ et $B$) où l'événement $A$ n'est pas a priori réalisé.
+
+- Au lieu de $P_{A} \left(B\right)$, on note aussi $P \left(B / A\right)$. Cette notation prête à confession. La raison en est qu'elle donne à penser qu'il existe un événement conditionnel « $B / A$ » dont on calculerait la probabilité. Il n'existe pas d'événements conditionnels, mais seulement des probabilités conditionnelles, c'est-à-dire d'autres probabilités sur l'espace probabilisable.
+
+- Il est parfois utile de connaître $P_{B} \left(A\right)$ pour calculer $P_{A} \left(B\right)$. En effet, on a la relation suivante :
+
+$$P_{A} \left(B\right) = P_{B} \left(A\right) \times \frac{P \left(B\right)}{P \left(A\right)}$$
+
+Cette formule est connue sous le nom « Formule de Bayes ».
+
+##### Corollaire
+
+Soit $P$ une probabilité définie sur un univers $\Omega$, et soit $A$ un événement tel que $P \left(A\right) \neq 0$.
+
+Puisque $P_{A}$ est une probabilité sur $\Omega$, elle possède toutes les propriétés d'une probabilité.
+
+En particulier, on a :
+
+1) $P_{A} \left(\emptyset\right) = 0 ; P_{A} \left(A\right) = P_{A} \left(\Omega\right) = 1$
+
+2) Pour tout événement $B$ vérifiant $B \subset A$ , on a : $P_{A} \left(B\right) = 1$
+
+3) Pour tout événement $B$ : $P_{A} \left(\overline{B}\right) = 1 - P_{A} \left(B\right)$
+
+4) Pour tous événements $B$ et $C$ : $P_{A} \left(B \cup C\right) = P_{A} \left(B\right) + P_{A} \left(C\right) - P_{A} \left(B \cap C\right)$
+
+5) Pour tous événements $B$ et $C$ : $P_{A} \left(B \cap \overline{C}\right) = P_{A} \left(B\right) - P_{A} \left(B \cap C\right)$
+
+#### 3-2/ Formule des probabilités composées
+
+##### Proposition 4
+
+Soit $P$ une probabilité définie sur un univers $\Omega$.
+
+Pour tous événements $A$ et $B$ de $\Omega$, on a la formule suivante dite « Formule des probabilités composées » :
+
+$$P \left(A \cap B\right) = P \left(A\right) \times P_{A} \left(B\right) s i P \left(A\right) \neq 0 \\ P \left(A \cap B\right) = P \left(B\right) \times P_{B} \left(A\right) s i P \left(B\right) \neq 0$$
+
+#### 3-3/ Formule des probabilités totales
+
+##### Proposition 5
+
+Soit $P$ une probabilité définie sur un univers $\Omega$, et soit $\left(A_{1} , A_{2} , . . . . , A_{n}\right)$ un système complet d'événements de $\Omega$.
+
+Pour tout événement $B \subset \Omega$, on a la formule suivante dite « Formule des probabilités totales » :
+
+$$P \left(B\right) = \sum_{i = 1}^{n} P \left(B \cap A_{i}\right)$$
+
+Si, pour tout $i \in \left\{1 ; 2 ; . . . ; n\right\}$, on a $P \left(A_{i}\right) \neq 0$, on obtient :
+
+$$P \left(B\right) = \sum_{i = 1}^{n} P_{A_{i}} \left(B\right) P \left(A_{i}\right)$$
+
+##### Corollaire
+
+Soit $P$ une probabilité définie sur un univers $\Omega$.
+
+Pour tous événements $A$ et $B$ de $\Omega$, on a :
+
+$$P \left(B\right) = P \left(B \cap A\right) + P \left(B \cap \overline{A}\right)$$
+
+Si $0 < P \left(A\right) < 1$, on obtient :
+
+$$P \left(B\right) = P_{A} \left(B\right) \times P \left(A\right) + P_{\overline{A}} \left(B\right) \times P \left(\overline{A}\right)$$

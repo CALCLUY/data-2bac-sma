@@ -1,0 +1,684 @@
+---
+Chapitre: Chapitre 6 : Nombres complexes
+Séance: Séance 6-1-1 : Nombres complexes - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 6-1-1 : Nombres complexes - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+I- L'ensemble des nombres complexes
+1-1/ Notion de nombre complexe
+1-2/ Forme algébrique d'un nombre complexe
+1-3/ Égalité de deux nombres complexes
+
+II- Opérations sur les nombres complexes
+2-1/ Addition et multiplication dans $\mathbb{C}$
+2-2/ Opposé d'un complexe - différence de deux complexes
+2-3/ Inverse d'un nombre complexe non nul - quotient de deux nombres complexes
+
+III- Représentation géométrique d'un nombre complexe
+3-1/ Affixe d'un point - affixe d'un vecteur
+3-2/ Interprétation géométrique de la somme, la différence et la multiplication par un réel
+3-3/ Interprétation complexe de la linéarité, du parallélisme et du barycentre
+
+IV- Conjugué d'un nombre complexe
+4-1/ Définition et interprétation géométrique
+4-2/ Propriétés du conjugué
+
+V- Module d'un nombre complexe
+5-1/ Définition et interprétation géométrique
+5-2/ Propriétés du module
+
+VI- Forme trigonométrique d'un complexe
+6-1/ Argument d'un nombre complexe non nul
+6-2/ Forme trigonométrique d'un nombre complexe
+6-3/ Angle de deux vecteurs et argument d'un complexe
+6-4/ Notation exponentielle d'un nombre complexe non nul
+
+### I- L'ensemble des nombres complexes
+
+#### 1-1/ Notion de nombre complexe
+
+Théorème 1
+
+Il existe un ensemble noté $\mathbb{C}$ contenant $\mathbb{R}$ :
+
+1- muni d'une addition notée $+$ et d'une multiplication notée $\times$, ou le plus souvent implicitement (c'est-à-dire sans symbole, comme dans $\mathbb{R}$) possédant les mêmes propriétés comme dans $\mathbb{R}$.
+
+2- possédant un élément noté $i$ dont le carré vaut $-1$ : $i^{2} = - 1$.
+
+3- où tout élément $z$, appelé nombre complexe ou complexe, s'écrit de manière unique sous la forme $z = x + i y$, avec $x$ et $y$ réels.
+
+Remarques
+
+- On a : $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C}$
+
+- L'addition et la multiplication des nombres réels se prolongent aux nombres complexes et les règles de calcul restent les mêmes.
+
+- Contrairement à $\mathbb{R}$, l'ensemble $\mathbb{C}$ n'est usuellement muni d'aucune relation d'ordre, et nous ne pourrons donc pas dire qu'un nombre complexe est inférieur à un autre ou non plus qu'il est positif.
+
+- Les nombres complexes $x + i y$ et $x + y i$ où $\left(x ; y\right) \in \mathbb{R}^{2}$ représentent le même nombre complexe.
+
+- On a : $\mathbb{C} = \left\{x + i y / \left(x ; y\right) \in \mathbb{R}^{2}\right\}$
+
+#### 1-2/ Forme algébrique d'un nombre complexe
+
+Définition 1
+
+Étant donné $z \in \mathbb{C}$, il existe un unique couple $\left(x ; y\right) \in \mathbb{R}^{2}$ tel que $z = x + i y$.
+
+L'écriture $x + i y$ s'appelle la forme algébrique du nombre complexe $z$.
+
+Le nombre $x$ est la partie réelle de $z$ notée $R e \left(z\right)$ .
+
+Le nombre $y$ est la partie imaginaire de $z$ notée $I m \left(z\right)$ .
+
+Un nombre complexe est réel lorsque sa partie imaginaire est nulle : $z \in \mathbb{R} \Leftrightarrow I m \left(z\right) = 0$.
+
+Un nombre complexe est dit imaginaire pur si sa partie réelle est nulle : $z \in i \mathbb{R} \Leftrightarrow R e \left(z\right) = 0$.
+
+#### 1-3/ Égalité de deux nombres complexes
+
+Proposition 1
+
+Deux nombres complexes sont égaux si et seulement si ils ont mêmes parties réelles et mêmes parties imaginaires.
+
+En d'autres termes :
+
+$$\left(\forall \left(z ; z '\right) \in \mathbb{C}^{2}\right) z = z ' \Leftrightarrow \left(R e \left(\right. z \left.\right) = R e \left(\right. z ' \left.\right)\right) e t \left(I m \left(\right. z \left.\right) = I m \left(\right. z ' \left.\right)\right)$$
+
+Remarques
+
+Le résultat de la proposition 1 est une conséquence immédiate de l'unicité de la forme algébrique d'un nombre complexe.
+
+Pour tout nombre complexe $z$ :
+
+$$\left(\forall \left(z ; z '\right) \in \mathbb{C}^{2}\right) z = z ' \Leftrightarrow \left(R e \left(\right. z \left.\right) = R e \left(\right. z ' \left.\right)\right) e t \left(I m \left(\right. z \left.\right) = I m \left(\right. z ' \left.\right)\right)$$
+
+### II- Opérations sur les nombres complexes
+
+#### 2-1/ Addition et multiplication dans $\mathbb{C}$
+
+Proposition 2
+
+Soit $z$ et $z '$ deux nombres complexes tels que : $z = x + i y$ et $z ' = x ' + i y '$ avec $\left(x ; x ' ; y ; y '\right) \in \mathbb{R}^{4}$.
+
+On a :
+
+1- $z + z ' = \left(x + x '\right) + i \left(y + y '\right)$ et $z \times z ' = x x ' - y y ' + i \left(x y ' + y x '\right)$
+
+2- Pour tout $\lambda \in \mathbb{R} : \lambda z = \lambda x + i \left(\lambda y\right)$
+
+Remarques
+
+Pour tout $\left(z ; z '\right) \in \mathbb{C}^{2}$ et pour tout $\lambda \in \mathbb{R}$, on a :
+
+$$\left\{\begin{matrix} R e \left(z + z '\right) = R e \left(z\right) + R e \left(z '\right) \\ I m \left(z + z '\right) = I m \left(z\right) + I m \left(z '\right) \end{matrix}\right \\ \\ \left\{\begin{matrix} R e \left(\lambda z\right) = \lambda R e \left(z\right) \\ I m \left(\lambda z\right) = \lambda I m \left(z\right) \end{matrix}\right$$
+
+Si $k \in \mathbb{N}$, alors $i^{2 k} = \left(i^{2}\right)^{k} = \left(- 1\right)^{k}$. Il en résulte donc :
+
+$$i^{4 k} = 1 ; i^{4 k + 1} = i ; i^{4 k + 2} = - 1 ; i^{4 k + 3} = - i$$
+
+#### 2-2/ Opposé d'un complexe - différence de deux complexes
+
+Proposition 3
+
+Tout nombre complexe $z = x + i y$, où $x$ et $y$ sont des réels, possède un opposé dans $\mathbb{C}$ noté $- z$, qui est le nombre complexe $- x - i y$, et on écrit $- z = - x - i y$.
+
+Donc :
+
+$$R e \left(- z\right) = - R e \left(z\right) e t I m \left(- z\right) = - I m \left(z\right)$$
+
+Définition 2
+
+La différence de deux nombres complexes $z$ et $z '$ est le nombre $z - z ' = z + \left(- z '\right)$.
+
+Remarques
+
+Si $x$, $x '$, $y$ et $y '$ sont des nombres réels, alors : $\left(\right. x + i y \left.\right) - \left(\right. x ' + i y ' \left.\right) = \left(x - x '\right) + i \left(\right. y - y ' \left.\right)$
+
+Les identités remarquables vues dans $\mathbb{R}$ restent aussi valables dans $\mathbb{C}$.
+
+Ainsi, pour tous nombres complexes $z_{1}$ et $z_{2}$ on a :
+
+$$\left(\left(\right. z_{1} + z_{2} \left.\right)\right)^{2} = \left(z_{1}\right)^{2} + 2 z_{1} z_{2} + \left(z_{2}\right)^{2} \\ \\ \left(\left(\right. z_{1} - z_{2} \left.\right)\right)^{2} = \left(z_{1}\right)^{2} - 2 z_{1} z_{2} + \left(z_{2}\right)^{2} \\ \\ \left(\right. z_{1} + z_{2} \left.\right) \left(\right. z_{1} - z_{2} \left.\right) = \left(z_{1}\right)^{2} - \left(z_{2}\right)^{2}$$
+
+En particulier, on a les égalités suivantes, valables pour tout $\left(\right. a ; b \left.\right) \in \mathbb{R}^{2}$ :
+
+$$\left(\left(\right. a + i b \left.\right)\right)^{2} = a^{2} - b^{2} + 2 a b i \\ \\ \left(\left(\right. a - i b \left.\right)\right)^{2} = a^{2} - b^{2} - 2 a b i \\ \\ \left(\right. a + i b \left.\right) \left(\right. a - i b \left.\right) = a^{2} - b^{2}$$
+
+On a aussi :
+
+$$\left(\left(\right. z_{1} + z_{2} \left.\right)\right)^{3} = \left(z_{1}\right)^{3} + 3 \left(z_{1}\right)^{2} z_{2} + 3 z_{1} \left(z_{2}\right)^{2} + \left(z_{2}\right)^{3} \\ \\ \left(\left(\right. z_{1} + z_{2} \left.\right)\right)^{3} = \left(z_{1}\right)^{3} - 3 \left(z_{1}\right)^{2} z_{2} + 3 z_{1} \left(z_{2}\right)^{2} - \left(z_{2}\right)^{3} \\ \\ \left(z_{1}\right)^{3} - \left(z_{2}\right)^{3} = \left(\right. z_{1} - z_{2} \left.\right) \left(\left(z_{1}\right)^{2} + z_{1} z_{2} + \left(z_{2}\right)^{2}\right) \\ \\ \left(z_{1}\right)^{3} + \left(z_{2}\right)^{3} = \left(\right. z_{1} + z_{2} \left.\right) \left(\left(z_{1}\right)^{2} - z_{1} z_{2} + \left(z_{2}\right)^{2}\right)$$
+
+Et de façon générale, on a pour tout $\left(\right. z_{1} ; z_{2} \left.\right) \in \mathbb{C}^{2}$ et pour tout $n \in \mathbb{N} \star$ :
+
+$$\left(\left(\right. z_{1} + z_{2} \left.\right)\right)^{n} = \sum_{p = 0}^{n} C_{n}^{p} . \left(z_{1}\right)^{p} . \left(z_{2}\right)^{n - p} = \sum_{q = 0}^{n} C_{n}^{q} . \left(z_{2}\right)^{q} . \left(z_{1}\right)^{n - q}$$ (Formule du binôme de Newton)
+
+$$\left(z_{1}\right)^{n} - \left(z_{2}\right)^{n} = \left(z_{1} - z_{2}\right) \left(\left(z_{1}\right)^{n - 1} - \left(z_{1}\right)^{n - 2} z_{2} + . . . + z_{1} \left(z_{2}\right)^{n - 2} + \left(z_{2}\right)^{n - 1}\right) \\ \\ \left(z_{1}\right)^{n} - \left(z_{2}\right)^{n} = \left(z_{1} - z_{2}\right) \left(\sum_{k = 0}^{n - 1} \left(z_{1}\right)^{n - k - 1} \left(z_{2}\right)^{k}\right)$$
+
+Un produit de nombres complexes est nul si, et seulement si, au moins un de ses facteurs est nul.
+
+En particulier :
+
+$$\forall \left(\right. z ; z ' \left.\right) \in \mathbb{C}^{2} \left[z \times z ' = 0 \Leftrightarrow \left(z = 0 o u z ' = 0\right)\right]$$
+
+#### 2-3/ Inverse d'un nombre complexe non nul - quotient de deux nombres complexes
+
+Proposition 4
+
+Soit $z = x + i y$ un nombre complexe non nul tels que $\left(\right. x ; y \left.\right) \in \mathbb{R}^{2} - \left\{\left(0 , 0\right)\right\}$.
+
+L'inverse du nombre $z$ est le nombre complexe noté $\frac{1}{z}$ ou $z^{- 1}$ tel que :
+
+$$\frac{1}{z} = \frac{1}{x + i y} = \frac{1}{x^{2} + y^{2}} \left(x - i y\right) = \frac{x}{x^{2} + y^{2}} - i \frac{y}{x^{2} + y^{2}}$$
+
+Proposition 5
+
+Soit $z = x + i y$ et $z ' = x ' + i y '$ deux complexes où $x$, $x '$, $y$ et $y '$ des réels tels que $\left(\right. x ; y \left.\right) \neq \left(\right. 0 ; 0 \left.\right)$.
+
+Le quotient de $z '$ par $z$ est le nombre complexe noté $\frac{z '}{z}$ tel que $\frac{z '}{z} = z ' \times \frac{1}{z}$, et on a :
+
+$$\frac{z '}{z} = \frac{x ' + i y '}{x + i y} = \frac{x x ' + y y '}{x^{2} + y^{2}} + i \frac{x y ' - y x '}{x^{2} + y^{2}}$$
+
+### III- Représentation géométrique d'un nombre complexe
+
+#### 3-1/ Affixe d'un point - affixe d'un vecteur
+
+Définition 3
+
+Le plan $\mathcal{P}$ est muni d'un repère orthonormé direct $\left(\right. O ; \overset{\rightarrow}{I} , \overset{\rightarrow}{J} \left.\right)$.
+
+Soit $z = x + i y$ où $\left(\right. x ; y \left.\right) \in \mathbb{R}^{2}$ un nombre complexe.
+
+L'unique point $M$, de coordonnées $\left(\right. x ; y \left.\right)$ dans $\left(\right. O ; \overset{\rightarrow}{I} , \overset{\rightarrow}{J} \left.\right)$, est appelé l'image du complexe $z$, et on écrit $M \left(\right. z \left.\right)$.
+
+Soit $M$ un point, de coordonnées $\left(\right. x ; y \left.\right)$ dans $\left(\right. O ; \overset{\rightarrow}{I} , \overset{\rightarrow}{J} \left.\right)$.
+
+Le nombre complexe $z = x + i y$ est appelé l'affixe du point $M$. On le note $A f f \left(\right. M \left.\right)$ ou $z_{M}$.
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img1.bmp)
+
+Remarques
+
+Le plan $\mathcal{P}$ est muni d'un repère orthonormé direct $\left(\right. O ; \overset{\rightarrow}{I} , \overset{\rightarrow}{J} \left.\right)$.
+
+À partir de la définition 3, on peut identifier l'ensemble au plan de la façon suivante :
+
+- À tout nombre complexe $z = x + i y$ on associe le point $M \left(\right. x ; y \left.\right)$.
+
+- À tout point $M \left(\right. x ; y \left.\right)$ du plan $\mathcal{P}$ on associe le nombre complexe $z = x + i y$.
+
+Ainsi, l'application $f : \mathbb{C} \rightarrow \mathcal{P} \\ z \rightarrow M \left(z\right)$ est une bijection. Sa bijection réciproque est : $f^{- 1} : \mathcal{P} \rightarrow \mathbb{C} \\ M \rightarrow A f f \left(M\right)$
+
+Le plan $\mathcal{P}$ est appelé alors le plan complexe, et on a :
+
+$$\left(\forall \left(M ; N\right) \in \mathcal{P}^{2}\right) \left(A f f \left(M\right) = A f f \left(N\right) \Leftrightarrow M = N\right)$$
+
+Tout point de l'axe des abscisses est l'image d'un nombre réel, c'est pourquoi l'axe des abscisses s'appelle l'axe réel. On a alors : $M \left(z\right) \in \left(O ; \overset{\rightarrow}{I}\right) \Leftrightarrow z \in \mathbb{R}$
+
+Tout point $B \left(0 ; b\right)$ de l'axe des ordonnées est l'image d'un nombre imaginaire pur $\left(A f f \left(B\right) = b i\right)$, c'est pourquoi l'axe des ordonnées s'appelle l'axe imaginaire. On a alors : $M \left(z\right) \in \left(O ; \overset{\rightarrow}{J}\right) \Leftrightarrow z \in i \mathbb{R}$
+
+Définition 4
+
+Le plan $\mathcal{P}$ est muni d'un repère orthonormé direct $\left(\right. O ; \overset{\rightarrow}{I} , \overset{\rightarrow}{J} \left.\right)$.
+
+Soit $z = x + i y$ un nombre complexe où .
+
+Le vecteur $\overset{\rightarrow}{u} = x . \overset{\rightarrow}{I} + y . \overset{\rightarrow}{J}$ est appelé image du complexe $z$, et on écrit $\overset{\rightarrow}{u} \left(z\right)$.
+
+De même, le nombre $z$ est appelé affixe du vecteur $\overset{\rightarrow}{u}$, et on écrit $A f f \left(\overset{\rightarrow}{u}\right) = z$ ou parfois $z_{\overset{\rightarrow}{u}} = z$.
+
+Remarques
+
+Soit $z$ un nombre complexe.
+
+On a : $z = A f f \left(M\right) \Leftrightarrow z = A f f \left(\overset{\rightarrow}{O M}\right)$
+
+Soit $\mathcal{V}_{2}$ l'ensemble des vecteurs du plan.
+
+L'application $g : \mathbb{C} \rightarrow \mathcal{V}_{2} \\ z \rightarrowtail \overset{\rightarrow}{w} \left(z\right)$ est une bijection de $\mathbb{C}$ vers $\mathcal{V}_{2}$, et on a :
+
+$$\left(\forall \left(\overset{\rightarrow}{u} ; \overset{\rightarrow}{v}\right) \in \left(\mathcal{V}_{2}\right)^{2}\right) \left(\overset{\rightarrow}{u} = \overset{\rightarrow}{v} \Leftrightarrow A f f \left(\overset{\rightarrow}{u}\right) = A f f \left(\overset{\rightarrow}{v}\right)\right)$$
+
+#### 3-2/ Interprétation géométrique de la somme, la différence et la multiplication par un réel
+
+Proposition 6
+
+Si $\overset{\rightarrow}{v_{1}}$ et $\overset{\rightarrow}{v_{2}}$ sont deux vecteurs du plan d'affixes respectives $z_{1}$ et $z_{2}$, alors l'affïxe du vecteur $\overset{\rightarrow}{v_{1}} + \overset{\rightarrow}{v_{2}}$ est $z_{1} + z_{2}$.
+
+En d'autres termes : $A f f \left(\overset{\rightarrow}{v_{1}} + \overset{\rightarrow}{v_{2}}\right) = A f f \left(\overset{\rightarrow}{v_{1}}\right) + A f f \left(\overset{\rightarrow}{v_{2}}\right)$.
+
+Si $M_{1}$ et $M_{2}$ sont les images respectives des affixes $z_{1}$ et $z_{2}$, alors l'image du nombre $z_{1} + z_{2}$ est le point $S$ tel que : $\overset{\rightarrow}{O S} = \overset{\rightarrow}{O M_{1}} + \overset{\rightarrow}{O M_{2}}$ (C'est-à-dire $O M_{1} S M_{2}$ est un parallélogramme).
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img2.bmp)
+
+Remarques
+
+Soit $z$ un nombre complexe et $\overset{\rightarrow}{u} \left(\right. z \left.\right)$ et $\overset{\rightarrow}{v} \left(\right. - z \left.\right)$ deux vecteurs du plan.
+
+On sait que $A f f \left(\right. \overset{\rightarrow}{0} \left.\right) = 0$ et $z + \left(\right. - z \left.\right) = 0$, donc d'après la proposition 6, on en déduit que $\overset{\rightarrow}{u} + \overset{\rightarrow}{v} = \overset{\rightarrow}{0}$.
+
+Ainsi $\overset{\rightarrow}{v} = - \overset{\rightarrow}{u}$ et alors : $A f f \left(\right. - \overset{\rightarrow}{u} \left.\right) = - A f f \left(\right. \overset{\rightarrow}{u} \left.\right)$.
+
+Soit $M \left(\right. z \left.\right)$ et $M ' \left(\right. - z \left.\right)$. Comme $O \left(\right. 0 \left.\right)$ et $z + \left(\right. - z \left.\right) = 0$, alors $\overset{\rightarrow}{O M} + \overset{\rightarrow}{O M '} = \overset{\rightarrow}{O O} = \overset{\rightarrow}{0}$, et par suite $\overset{\rightarrow}{O M '} = - \overset{\rightarrow}{O M}$.
+
+Ainsi, le point $M ' \left(\right. - z \left.\right)$ est le symétrique de point $M \left(\right. z \left.\right)$ par rapport à $O$.
+
+On peut aussi interpréter géométriquement l'addition de la manière suivante :
+
+Étant donné un vecteur $\overset{\rightarrow}{u}$ d'affïxe $a$, la translation de vecteur $\overset{\rightarrow}{u}$ transforme le point $M$ d'affixe $z$, en le point $M '$ d'affixe $z ' = z + a$.
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img3.bmp)
+
+Proposition 7
+
+Soit $M_{1} \left(\right. z_{1} \left.\right)$ et $M_{2} \left(\right. z_{2} \left.\right)$ deux points du plan complexe.
+
+Alors l'affixe du vecteur $\overset{\rightarrow}{M_{1} M_{2}}$ est $z_{2} - z_{1}$.
+
+En d'autres termes : $A f f \left(\overset{\rightarrow}{M_{1} M_{2}}\right) = A f f \left(M_{2}\right) - A f f \left(M_{1}\right)$
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img4.bmp)
+
+Proposition 8
+
+Si $\overset{\rightarrow}{u}$ est un vecteur d'affixe $z$ et $\lambda$ un nombre réel, alors l'affixe du vecteur $\lambda \overset{\rightarrow}{u}$ est $\lambda z$.
+
+En d'autres termes : $A f f \left(\lambda \overset{\rightarrow}{u}\right) = \lambda . A f f \left(\overset{\rightarrow}{u}\right)$
+
+Si $M \left(\right. z \left.\right)$ est un point du plan, alors l'image du nombre complexe $\lambda z$ est le point $P$ défini par : $\overset{\rightarrow}{O P} = \lambda \overset{\rightarrow}{O M}$.
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img5.bmp)
+
+Remarque
+
+A l'aide des propositions 6 et 8, on peut établir le résultat suivant :
+
+Si $\overset{\rightarrow}{v_{1}}$ et $\overset{\rightarrow}{v_{2}}$ sont deux vecteurs du plan, alors pour tout $\left(\lambda_{1} ; \lambda_{2}\right) \in \mathbb{R}^{2}$, on a :
+
+$$A f f \left(\lambda_{1} \overset{\rightarrow}{v_{1}} + \lambda_{2} \overset{\rightarrow}{v_{2}}\right) = \lambda_{1} A f f \left(\overset{\rightarrow}{v_{1}}\right) + \lambda_{2} A f f \left(\overset{\rightarrow}{v_{2}}\right)$$
+
+#### 3-3/ Interprétation complexe de la linéarité, du parallélisme et du barycentre
+
+Proposition 9
+
+Soient $A$, $B$ et $C$ des points deux à deux distincts d'affixes respectives $z_{A}$, $z_{B}$ et $z_{C}$.
+
+Les points $A$, $B$ et $C$ sont alignés si et seulement si : $\frac{z_{C} - z_{A}}{z_{B} - z_{A}} \in \mathbb{R}$
+
+Proposition 10
+
+Soient $A$, $B$, $C$ et $D$ quatre points du plan d'affixes respectives $z_{A}$, $z_{B}$, $z_{C}$ et $z_{D}$ tels que $A \neq B$ et $C \neq D$.
+
+Les droites $\left(A B\right)$ et $\left(\right. C D \left.\right)$ sont parallèles si et seulement si : $\frac{z_{D} - z_{C}}{z_{B} - z_{A}} \in \mathbb{R}$
+
+Proposition 11
+
+Soit $A$ et $B$ deux points du plan d'affixes respectives $z_{A}$ et $z_{B}$, et soit $\left(\alpha ; \beta\right) \in \mathbb{R}^{2}$ tel que $\alpha + \beta \neq 0$.
+
+L'affixe du barycentre $G$ du système pondéré $\left\{\left(a ; \alpha\right) ; \left(B ; \beta\right)\right\}$ est le complexe : $z_{G} = \frac{\alpha z_{A} + \beta z_{B}}{\alpha + \beta}$
+
+Remarques
+
+Si $A \left(z_{A}\right)$ et $B \left(z_{B}\right)$ alors l'affixe du milieu $I$ du segment $\left[A B\right]$ est le nombre complexe $z_{I} = \frac{z_{A} + z_{B}}{2}$.
+
+En fait ceci n'est rien qu'un cas particulier du barycentre où les « poids » sont égaux.
+
+On peut généraliser le résultat de la proposition 11 pour le barycentre de plus de deux points.
+
+Plus précisément : si $n$ est un entier naturel supérieur ou égal à $2$ et $\alpha_{1} , \alpha_{2} , . . . . , \alpha_{n}$ des réels tels que $\alpha_{1} + \alpha_{2} + . . . . + \alpha_{n} \neq 0$, alors le barycentre $G$ du système pondéré $\left\{\left(A_{1} ; \alpha_{1}\right) , \left(A_{2} ; \alpha_{2}\right) , . . . . , \left(A_{n} ; \alpha_{n}\right)\right\}$ a pour affixe :
+
+$$z_{G} = \frac{\alpha_{1} z_{A_{1}} + \alpha_{2} z_{A 2} + . . . + \alpha_{n} z_{A_{n}}}{\alpha_{1} + \alpha_{2} + . . . + \alpha_{n}}$$
+
+### IV- Conjugué d'un nombre complexe
+
+#### 4-1/ Définition et interprétation géométrique
+
+Définition 5
+
+Soit $z = x + i y$ un nombre complexe avec $\left(\right. x ; y \left.\right) \in \mathbb{R}^{2}$.
+
+On appelle conjugué de $z$ le nombre complexe $x - i y$, noté $\overline{z}$, et on écrit : $\overline{z} = \overline{x + i y } = x - i y$.
+
+On a alors: $\overline{z} = R e \left(\right. z \left.\right) - i I m \left(\right. z \left.\right)$ et $\overline{\overline{\overline{z}}} = z$
+
+Interprétation géométrique de la conjugaison
+
+Soit $z = x + i y$ un nombre complexe avec $\left(\right. x ; y \left.\right) \in \mathbb{R}^{2}$.
+
+La symétrie par rapport à l'axe des abscisses transforme le point $M \left(\right. x ; y \left.\right)$ en $N \left(\right. x ; - y \left.\right)$, d'affixe $A f f \left(\right. N \left.\right) = \overline{A f f \left(\right. M \left.\right)}$.
+
+La symétrie par rapport à l'axe des abscisses transforme le point $M \left(\right. x ; y \left.\right)$ en $Q \left(\right. - x ; y \left.\right)$, d'affixe $A f f \left(\right. Q \left.\right) = - \overline{A f f \left(\right. M \left.\right)}$.
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img6.bmp)
+
+#### 4-2/ Propriétés du conjugué
+
+Proposition 12
+
+Étant donné $z \in \mathbb{C}$, on a :
+
+$$R e \left(z\right) = \frac{1}{2} \left(z + \overline{z}\right) \\ \\ I m \left(z\right) = \frac{1}{2 i} \left(z - \overline{z}\right) \\ \\ z . \overline{z} = \left(R e \left(z\right)\right)^{2} + \left(I m \left(z\right)\right)^{2}$$
+
+On a donc :
+
+$$z \in \mathbb{R} \Leftrightarrow \overline{z} = z \\ \\ z \in i \mathbb{R} \Leftrightarrow \overline{z} = - z$$
+
+Remarque
+
+En pratique, pour éliminer les complexes du dénominateur d'une fraction, on multiplie numérateur et dénominateur par le conjugué du dénominateur.
+
+Proposition 13
+
+Soit $z$ et $z '$ deux nombres complexes.
+
+On a alors les propriétés suivantes :
+
+- $\overline{z + z '} = \overline{z} + \overline{z '}$ et $\overline{z . z '} = \overline{z} . \overline{z '}$
+
+- Pour tout $\lambda \in \mathbb{R}$ : $\overline{\lambda z} = \lambda \overline{z}$
+
+- Si $z \neq 0$, alors $\overline{\left(\frac{1}{z}\right)} = \frac{1}{\overline{z}}$ et $\overline{\left(\frac{z '}{z}\right)} = \frac{\overline{z '}}{\overline{z}}$
+
+- Si $z \neq 0$ et $n \in \mathbb{Z}$, alors $\overline{z^{n}} = \left(\overline{z}\right)^{n}$
+
+Remarques
+
+1- Soit $n \geq 2$ , et $z_{1} , z_{2} , . . . , z_{n}$ des nombres complexes. Alors :
+
+$$\overline{\sum_{k = 1}^{n} z_{k}} = \sum_{k = 1}^{n} \overline{z_{k}} e t \overline{\prod_{k = 1}^{n} z_{k}} = \prod_{k = 1}^{n} \overline{z_{k}}$$
+
+2- Soit $P \left(\right. z \left.\right)$ un polynôme dans $\mathbb{C}$ à coefficients réels : $P \left(\right. z \left.\right) = a_{n} z^{n} + a_{n - 1} z^{n - 1} + . . . + a_{1} z + a_{0}$
+
+(les nombres $a_{0} , a_{1} , . . . , a_{n}$. an sont alors réels). On a alors pour tout $z \in \mathbb{C}$ :
+
+$$\overline{P \left(\right. z \left.\right)} = \overline{a_{n} z^{n} + a_{n - 1} z^{n - 1} + . . . + a_{1} z + a_{0}} \\ \overline{P \left(\right. z \left.\right)} = \overline{a_{n} z^{n}} + \overline{a_{n - 1} z^{n - 1}} + . . . + \overline{a_{1} z} + \overline{a_{0}}$$
+
+Puisque pour tout entier $k$ compris entre $1$ et $n$ (au sens large) : $\overline{a_{k}} = a_{k}$ et $\overline{z^{k}} = \left(\overline{z}\right)^{k}$
+
+Alors $\overline{P \left(\right. z \left.\right)} = a_{n} \left(\overline{z}\right)^{n} + a_{n - 1} \left(\overline{z}\right)^{n - 1} + . . . + a_{1} \overline{z} + a_{0} = P \left(\right. \overline{z} \left.\right)$.
+
+En particulier, si $\alpha$ est racine du polynôme $P$ (c'est-à-dire $P \left(\right. \alpha \left.\right) = 0$), alors $\overline{\alpha}$ est aussi racine de $P$ car : $P \left(\right. \overline{\alpha} \left.\right) = \overline{P \left(\right. \alpha \left.\right)} = 0$
+
+On obtient alors le résultat important suivant :
+
+« Si $\alpha$ est racine d'un polynôme à coefficients réels, alors $\overline{\alpha}$ est aussi racine de ce polynôme »
+
+### V- Module d'un nombre complexe
+
+#### 5-1/ Définition et interprétation géométrique
+
+Définition 6
+
+Soit $z = x + i y$ un nombre complexe avec $\left(\right. x ; y \left.\right) \in \mathbb{R}^{2}$.
+
+Le module de $z$ est le réel positif noté $\left|z\right|$ défini par : $\left|z\right| = \sqrt{z . \overline{z}} = \sqrt{x^{2} + y^{2}}$
+
+On a alors : $\left|z\right| = \sqrt{\left(R e \left(z\right)\right)^{2} + \left(I m \left(z\right)\right)^{2}}$
+
+Remarques
+
+La notion de module prolonge celle de la valeur absolue, c'est-à-dire que le module d'un nombre réel est égal à sa valeur absolue.
+
+On a pour tout $z \in \mathbb{C}$ : $\left|z\right|^{2} = z . \overline{z}$ et $\left|z\right| = \left|\overline{z}\right|$. Si $z \neq 0$ alors : $\overline{z} = \frac{\left|z\right|^{2}}{z}$
+
+Interprétation géométrique du module
+
+Étant donné $z \in \mathbb{C}$, d'image $M$, le module de $z$ est la distance $O M$ : $\left|z\right| = \left||\overset{\rightarrow}{O M}\right|| = O M$
+
+Si $\overset{\rightarrow}{u}$ est un vecteur d'affixe $z$, alors : $\left|z\right| = \left||\overset{\rightarrow}{u}\right||$
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img7.bmp)
+
+Proposition 14
+
+La distance entre deux points $A$ et $B$, d'affixes respectives $a$ et $b$, est : $\left||\overset{\rightarrow}{A B}\right|| = A B = \left|b - a\right|$
+
+Proposition 15
+
+Soit $a$ un nombre complexe et $r$ un réel strictement positif. On note $A$ l'image de $a$.
+
+L'ensemble des images $M \left(\right. z \left.\right)$ des nombres complexes $z$ tels que :
+
+* $\left|z - a\right| = r$ est le cercle $\mathcal{C}$ de centre $A$ et de rayon $r$.
+* $\left|z - a\right| \leq r$ est le disque fermé $\mathcal{D}$ de centre $A$ et de rayon $r$.
+* $\left|z - a\right| < r$ est le disque ouvert $\Delta$ de centre $A$ et de rayon $r$.
+
+#### 5-2/ Propriétés du module
+
+Proposition 16
+
+Soit $z$ et $z '$ deux nombres complexes. On a les propriétés suivantes :
+
+- $\left|z\right| \geq 0$ et $\left|R e \left(z\right)\right| \leq \left|z\right|$ et $\left|I m \left(z\right)\right| \leq \left|z\right|$
+
+- $\left|z\right| = 0 \Leftrightarrow z = 0$ et $\left|z - z '\right| = 0 \Leftrightarrow z = z '$
+
+- $\left|z \times z '\right| = \left|z\right| \times \left|z '\right|$
+
+- $\left|z\right| = \left|\overline{z}\right| = \left|- z\right| = \left|- \overline{z}\right|$
+
+Si $z \neq 0$ et $n \in \mathbb{Z}$ alors : $\left|\frac{1}{z}\right| = \frac{1}{\left|z\right|}$ et $\left|\frac{z '}{z}\right| = \frac{\left|z '\right|}{\left|z\right|}$ et $\left|z^{n}\right| = \left|z\right|^{n}$
+
+Remarque
+
+Si $n$ est un entier supérieur ou égal à $2$, et $z_{1} , z_{2} , . . . , z_{n}$ des nombres complexes, alors :
+
+$$\left|\prod_{k = 1}^{n} z_{k}\right| = \prod_{k = 1}^{n} \left|z_{k}\right|$$
+
+Proposition 17
+
+Étant donné deux nombres complexes $z$ et $z '$, on a : $\left|z + z '\right| \leq \left|z\right| + \left|z '\right|$
+
+C'est l'inégalité triangulaire pour les nombres complexes.
+
+### VI- Forme trigonométrique d'un complexe
+
+#### 6-1/ Argument d'un nombre complexe non nul
+
+Définition 7
+
+Soit $z$ un nombre complexe non nul, d'image $M$ dans le plan complexe $\mathcal{P}$.
+
+Toute mesure $\theta$ de l'angle orienté $\left(\hat{\overset{\rightarrow}{I} ; \overset{\rightarrow}{O M}}\right)$ s'appelle un argument de $z$.
+
+On le note $a r g \left(z\right)$ et on écrit : $a r g \left(z\right) \equiv \theta \left[2 \pi\right]$
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img8.bmp)
+
+Remarques
+
+Soit $z$ un nombre complexe non nul.
+
+Si $\theta$ est un argument du nombre complexe $z$, alors tout nombre réel de la forme $\theta + 2 k \pi$ avec $k \in \mathbb{Z}$ est aussi un argument de $z$.
+
+Dans la pratique, on prend souvent $\theta$ dans l'intervalle $\left]\right. - \pi , \pi \left]\right.$, c'est-à-dire la mesure principale de l'angle $\left(\hat{\overset{\rightarrow}{I} ; \overset{\rightarrow}{O M}}\right)$.
+
+Le nombre $0$ est l'unique nombre complexe qui n'a pas d'argument.
+
+#### 6-2/ Forme trigonométrique d'un nombre complexe
+
+Proposition 18
+
+Soit $z = x + i y$ un nombre complexe non nul avec $\left(\right. x ; y \left.\right) \in \mathbb{R}^{2}$ et $\theta$ un argument de $z$.
+
+Alors $x = \left|z\right| cos \theta$ et $y = \left|z\right| sin \theta$.
+
+Tout nombre complexe non nul $z$ s'écrit de manière unique sous la forme $z = \left|z\right| \left(\right. cos \theta + i sin \theta \left.\right)$, où $\theta$ est un argument de $z$.
+
+Définition 8
+
+Soit $z$ un nombre complexe non nul et $\theta$ un argument de $z$.
+
+L'écriture $z = \left|z\right| \left(\right. cos \theta + i sin \theta \left.\right)$ est appelée une écriture trigonométrique ou forme trigonométrique du nombre complexe $z$.
+
+Notation simplifiée : $z = \left[\left|z\right| ; \theta\right]$
+
+Remarque
+
+Tout nombre complexe non nul admet une infinité de formes trigonométriques.
+
+Si $z \in \mathbb{C} \star$ alors : $z = \left|z\right| \left(\right. cos \left(a r g \left(z\right)\right) + i sin \left(a r g \left(z\right)\right) \left.\right)$
+
+Définition 9
+
+Soit $z$ un nombre complexe non nul et $M$ son image dans le plan complexe.
+
+On pose $r = O M$ et $\theta$ une mesure de l'angle $\left(\hat{\overset{\rightarrow}{I} ; \overset{\rightarrow}{O M}}\right) \left(a r g \left(z\right) \equiv \theta \left[2 \pi\right]\right)$.
+
+Le couple $\left(r ; \theta\right)$ est appelé le couple des coordonnées polaires du point $M$ par rapport à l'axe polaire $\left(\right. O ; \overset{\rightarrow}{I} \left.\right)$. Le point $O$ est le pôle
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img9.bmp)
+
+Proposition 19
+
+Soit $z \in \mathbb{C} \star$.
+
+Si $z = r \left(\right. cos \theta + i sin \theta \left.\right)$ tel que $r \in \mathbb{R} \star$ et $\theta \in \mathbb{R}$, alors : $\left|z\right| = r$ et $\theta \equiv a r g \left(z\right) \left[2 \pi\right]$
+
+Proposition 20
+
+Soit $z$ un nombre complexe non nul.
+
+On a les équivalences suivantes :
+
+$$z \in \mathbb{R} \star \Leftrightarrow a r g \left(z\right) \equiv 0 \left[\pi\right] \\ \\ z \in \mathbb{R}_{+}^{\star} \Leftrightarrow a r g \left(z\right) \equiv 0 \left[2 \pi\right] \\ \\ z \in \mathbb{R}_{-}^{\star} \Leftrightarrow a r g \left(z\right) \equiv \pi \left[2 \pi\right] \\ \\ z \in i \mathbb{R} \star \Leftrightarrow arg \left(z\right) \equiv \frac{\pi}{2} \left[\pi\right] \\ \\ z \in i \mathbb{R}_{+}^{\star} \Leftrightarrow arg \left(z\right) \equiv \frac{\pi}{2} \left[2 \pi\right] \\ \\ z \in i \mathbb{R}_{-}^{\star} \Leftrightarrow arg \left(z\right) \equiv - \frac{\pi}{2} \left[2 \pi\right]$$
+
+Remarques
+
+1- Les propositions 18 et 19 nous indiquent que toute écriture du genre $r \left(\right. cos \theta + i sin \theta \left.\right)$ avec $r \in \mathbb{R}_{+}^{\star}$ et $\theta \in \mathbb{R}$ est une forme géométrique d'un nombre complexe de module $r$ et d'argument $\theta$.
+
+2- La proposition 20 nous facilite la détermination d'une forme trigonométrique d'un nombre réel ou imaginaire pur. En effet, si $x$ est un nombre réel strictement positif, alors :
+
+3- La détermination d'une écriture trigonométrique d'un nombre complexe non nul $z$ est équivalente à la détermination de son module et d'un de ces arguments. Pratiquement :
+
+Si $z = x + i y$ avec $\left(\right. x ; y \left.\right) \in \mathbb{R}^{2} - \left\{\left(0 , 0\right)\right\}$ alors $\left|z\right| = \sqrt{x^{2} + y^{2}}$, et donc :
+
+$$\frac{z}{\left|z\right|} = \frac{x}{\sqrt{x^{2} + y^{2}}} + i \frac{y}{\sqrt{x^{2} + y^{2}}}$$
+
+Et si $a r g \left(z\right) \equiv \theta \left[2 \pi\right]$ alors $z = \left|z\right| \left(\right. cos \theta + i sin \theta \left.\right)$, et donc :
+
+$$\frac{z}{\left|z\right|} = cos \theta + i sin \theta$$
+
+Par conséquent : $cos \theta = \frac{x}{\sqrt{x^{2} + y^{2}}}$ et $sin \theta = \frac{y}{\sqrt{x^{2} + y^{2}}}$
+
+Ainsi, la connaissance de $cos \theta$ et $sin \theta$ permet la détermination d'un argument de $z$. (On pourra utiliser les boutons $cos^{- 1}$ et $sin^{- 1}$ de la calculatrice).
+
+4- Si $z = \lambda \left(\right. cos \theta + i sin \theta \left.\right)$ avec $\lambda \in \mathbb{R}_{-}^{\star}$ alors $\left|z\right| = - \lambda$. Par suite : $z = \left|\lambda\right| \left(\right. cos \left(\theta + \pi\right) + i sin \left(\theta + \pi\right) \left.\right)$ est une forme trigonométrique du nombre $z$.
+
+Proposition 21
+
+Pour des nombres complexes non nuls $z$ et $z '$, on a :
+
+$$z ' = z \Leftrightarrow \left(\left|z '\right| = \left|z\right| e t a r g \left(z '\right) \equiv a r g \left(z\right) \left[2 \pi\right]\right) \\ \\ z ' = \overline{z} \Leftrightarrow \left(\left|z '\right| = \left|z\right| e t a r g \left(z '\right) \equiv - a r g \left(z\right) \left[2 \pi\right]\right) \\ \\ z ' = - z \Leftrightarrow \left(\left|z '\right| = \left|z\right| e t a r g \left(z '\right) \equiv \pi + a r g \left(z\right) \left[2 \pi\right]\right) \\ \\$$
+
+Corollaire
+
+Soit $z$ un nombre complexe non nul.
+
+Si $z = \left[\right. r , \theta \left]\right.$ alors : $\overline{z} = \left[\right. r , - \theta \left]\right.$ et $- z = \left[\right. r , \pi + \theta \left]\right.$.
+
+En particulier, on a : $a r g \left(\overline{z}\right) \equiv - a r g \left(z\right) \left[2 \pi\right]$ et $a r g \left(- z\right) \equiv \pi + a r g \left(z\right) \left[2 \pi\right]$
+
+Proposition 22
+
+Soient $z$ et $z '$ deux nombres complexes non nuis tels que $z = \left[\right. r , \theta \left]\right.$ et $z ' = \left[\right. r ' , \theta ' \left]\right.$
+
+On a les relations suivantes :
+
+$$\overline{\left.\right)1} z z ' = \left[\right. r r ' , \theta + \theta ' \left]\right. e t a r g \left(z z '\right) \equiv arg \left(z\right) + a r g \left(z '\right) \left[2 \pi\right] \\ \\ \overline{\left.\right)2} \frac{1}{z} = \left[\frac{1}{r} ; - \theta\right] e t a r g \left(\frac{1}{z}\right) \equiv - arg \left(z\right) \left[2 \pi\right] \\ \\ \overline{\left.\right)3} \frac{z}{z '} = \left[\frac{r}{r '} ; \theta - \theta '\right] e t a r g \left(\frac{z}{z '}\right) \equiv arg \left(z\right) - arg \left(z '\right) \left[2 \pi\right] \\ \\ \overline{\left.\right)4} \left(\forall n \in \mathbb{Z}\right) z^{n} = \left[\right. r^{n} , n \theta \left]\right. e t a r g \left(z^{n}\right) \equiv n a r g \left(z\right) \left[2 \pi\right]$$
+
+Remarques
+
+Soit $n$ un entier supérieur ou égal à $2$, et $z_{1} , z_{2} , . . . , z_{n}$ z, , z2 ,.. zn des nombres complexes non nuis. Alors :
+
+$$a r g \left(\prod_{k = 1}^{n} z_{k}\right) = \sum_{k = 1}^{n} a r g \left(z_{k}\right) \left[2 \pi\right]$$
+
+Si $z_{1}$ et $z_{2}$ sont deux nombres complexes non nuls tels que $z_{1} + z_{2} \neq 0$, alors on n'a pas en général $a r g \left(z_{1} + z_{2}\right) \equiv a r g \left(z_{1}\right) + a r g \left(z_{2}\right) \left[2 \pi\right]$.
+
+Contre-exemple :
+
+$a r g \left(1\right) + a r g \left(i\right) \equiv \frac{\pi}{2} \left[2 \pi\right]$ et $a r g \left(1 + i\right) \equiv \frac{\pi}{4} \left[2 \pi\right]$ et $\frac{\pi}{2} \equiv / \frac{\pi}{4} \left[2 \pi\right]$
+
+Soit $z$ et $z '$ deux nombres complexes non nuls, et soit $M$ et $M '$ leurs images respectives dans le plan rapporté à un repère orthonormé $\left(\right. O ; \overset{\rightarrow}{I} ; \overset{\rightarrow}{J} \left.\right)$
+
+À partir de la proposition 22, on peut déduire que le point $P \left(\right. z . z ' \left.\right)$ est le point du plan complexe tel que :
+
+$O P = O M \times O M '$ et $\left(\hat{\overset{\rightarrow}{I} ; \overset{\rightarrow}{O P}}\right) \equiv \left(\hat{\overset{\rightarrow}{I} ; \overset{\rightarrow}{O M}}\right) + \left(\hat{\overset{\rightarrow}{I} ; \overset{\rightarrow}{O M '}}\right) \left[2 \pi\right]$
+
+#### 6-3/ Angle de deux vecteurs et argument d'un complexe
+
+Proposition 23
+
+Soit $\overset{\rightarrow}{u}$ et $\overset{\rightarrow}{v}$ deux vecteurs non nuis d'affixes respectives $z$ et $z '$, et soit $A$, $B$, $C$ et $D$ des points du plan complexe d'affixes respectives $z_{A}$, $z_{B}$ , $z_{C}$ et $z_{D}$ tels que $A \neq B$ et $C \neq D$.
+
+Alors le nombre complexe $\frac{z '}{z}$ a pour argument toute mesure de l'angle $\left(\hat{\overset{\rightarrow}{u} ; \overset{\rightarrow}{v}}\right)$. Ainsi :
+
+1- $\left(\hat{\overset{\rightarrow}{I} ; \overset{\rightarrow}{u}}\right) \equiv a r g \left(z\right) \left[2 \pi\right]$ et $\left(\hat{\overset{\rightarrow}{I} ; \overset{\rightarrow}{A B}}\right) \equiv a r g \left(z_{B} - z_{A}\right) \left[2 \pi\right]$ (argument de l'affixe du vecteur $\overset{\rightarrow}{A B}$).
+
+2- $\left(\hat{\overset{\rightarrow}{u} ; \overset{\rightarrow}{v}}\right) \equiv a r g \left(\frac{z '}{z}\right) \left[2 \pi\right]$ et $\left(\hat{\overset{\rightarrow}{A B} ; \overset{\rightarrow}{C D}}\right) \equiv a r g \left(\frac{z_{D} - z_{C}}{z_{B} - z_{A}}\right) \left[2 \pi\right]$
+
+Proposition 24
+
+Soit $\overset{\rightarrow}{u}$ et $\overset{\rightarrow}{v}$ deux vecteurs non nuls d'affixes respectives $z$ et $z '$, et soit $A$, $B$, $C$ et $D$ des points deux à deux distincts du plan complexe d'affixes respectives $z_{A}$, $z_{B}$ , $z_{C}$ et $z_{D}$. On a :
+
+1- Les vecteurs $\overset{\rightarrow}{u}$ et $\overset{\rightarrow}{v}$ sont colinéaires si, et seulement si, $a r g \left(\frac{z '}{z}\right) \equiv 0 \left[\pi\right] \left(\frac{z '}{z} \in \mathbb{R}\right)$
+
+Et : $\left(A B\right) \parallel \left(C D\right) \Leftrightarrow a r g \left(\frac{z_{D} - z_{C}}{z_{B} - z_{A}}\right) \equiv 0 \left[2 \pi\right]$
+
+2- Les vecteurs $\overset{\rightarrow}{u}$ et $\overset{\rightarrow}{v}$ sont orthogonaux si, et seulement si, $a r g \left(\frac{z '}{z}\right) \equiv \frac{\pi}{2} \left[\pi\right] \left(\frac{z '}{z} \in i \mathbb{R}\right)$
+
+Et : $\left(A B\right) \bot \left(C D\right) \Leftrightarrow a r g \left(\frac{z_{D} - z_{C}}{z_{B} - z_{A}}\right) \equiv \frac{\pi}{2} \left[2 \pi\right]$
+
+3- Les points $A$, $B$, $C$ et $D$ sont alignés ou cocycliques (appartenant au même cercle) si, et seulement si : $\left(\frac{z_{C} - z_{A}}{z_{B} - z_{A}} \div \frac{z_{C} - z_{D}}{z_{B} - z_{D}}\right) \in \mathbb{R}$
+
+#### 6-4/ Notation exponentielle d'un nombre complexe non nul
+
+Définition 10
+
+Pour tout réel $\theta$, on note $e^{i \theta}$ le nombre complexe de module $1$ et d'argument $\theta$.
+
+Autrement dit : $e^{i \theta} = cos \theta + i sin \theta$
+
+Remarques
+
+D'après la définition 10, les nombres complexes de la forme $e^{i \theta}$ (avec $\theta \in \mathbb{R}$) sont les affixes des points du plan complexe situés sur le cercle trigonométrique, et inversement, tout point du cercle trigonométrique a une affixe de la forme $e^{i \theta}$ (avec $\theta \in \mathbb{R}$).
+
+Par convention, on écrit pour tout $\theta \in \mathbb{R}$ : $e^{i \left(- \theta\right)} = e^{i \theta}$
+
+Lorsque $\theta = 0$, alors on a $e^{i \theta} = 1$ ; ainsi, cette nouvelle définition est donc compatible avec la valeur que donne en $0$ la fonction exponentielle déjà connue sur $\mathbb{R}$.
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img10.bmp)
+
+Proposition 25
+
+Soit $\theta$ et $\theta '$ deux nombres réels. Alors :
+
+$$\overline{\left.\right)1} \left|e^{i \theta}\right| = 1 e t a r g \left(e^{i \theta}\right) \equiv \theta \left[2 \pi\right] \\ \\ \overline{\left.\right)2} e^{i \theta} \times e^{i \theta '} = e^{i \left(\theta + \theta '\right)} \\ \\ \overline{\left.\right)3} e^{- i \theta} = \overline{e^{i \theta}} = \frac{1}{e^{i \theta}} = cos \theta - i sin \theta \\ \\ \overline{\left.\right)4} \frac{e^{i \theta}}{e^{i \theta '}} = e^{i \left(\theta - \theta '\right)} \\ \\ \overline{\left.\right)5} e^{i \left(\theta\right)} = e^{i \left(\theta '\right)} \Leftrightarrow \theta \equiv \theta ' \left[2 \pi\right] \\ \\ \overline{\left.\right)6} - e^{i \theta} = e^{i \left(\theta + \pi\right)}$$
+
+Définition 11
+
+Soit $z$ un nombre complexe non nul de module $r$ et d'argument $\theta$.
+
+L'écriture $z = r e^{i \theta}$ est appelée la notation exponentielle ou l'écriture exponentielle du nombre $z$.
+
+Proposition 26
+
+Pour tout réel $\theta$ et pour tout entier relatif $n$, on a $\left(e^{i \theta}\right)^{n} = e^{i n \theta}$, ou encore, par définition de $e^{i \theta}$ :
+
+$$\left(cos \theta + i sin \theta\right)^{n} = cos \left(n \theta\right) + i sin \left(n \theta\right)$$
+
+« Formule de Moivre »
+
+Pour tout réel $\theta$ :
+
+$$cos \theta = \frac{e^{i \theta} + e^{- i \theta}}{2} e t sin \theta = \frac{e^{i \theta} - e^{- i \theta}}{2 i}$$
+
+« Formules d'Euler »

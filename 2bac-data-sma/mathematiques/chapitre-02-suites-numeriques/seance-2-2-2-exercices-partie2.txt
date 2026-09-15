@@ -1,0 +1,64 @@
+---
+Chapitre: Chapitre 2 : Suites numériques
+Séance: Séance 2-2-2 : Suites numériques - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 2-2-2 : Suites numériques - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 5-1/ Exercice 2-1
+
+Calculer les limites suivantes :
+
+$$\overline{\left.\right)1} \underset{n \rightarrow + \infty}{lim} \left(n^{3} - 5 n^{2} - 6 n + 7\right) \\ \\ \overline{\left.\right)2} \underset{n \rightarrow + \infty}{lim} \frac{3 n^{2} - 5 n + 2}{4 - n^{3}} \\ \\ \overline{\left.\right)3} \underset{n \rightarrow + \infty}{lim} \left(\sqrt[3]{n^{3} - n + 4} - n\right) \\ \\ \overline{\left.\right)4} \underset{n \rightarrow + \infty}{lim} A r c tan \sqrt[3]{n + 6} \\ \\ \overline{\left.\right)5} \underset{n \rightarrow + \infty}{lim} \left(\sqrt[3]{n + 1} - \sqrt[3]{n - 1}\right) \\ \\ \overline{\left.\right)6} \underset{n \rightarrow + \infty}{lim} \left(n^{\frac{2}{3}} - n^{\frac{1}{3}}\right) \\ \\ \overline{\left.\right)7} \underset{n \rightarrow + \infty}{lim} \frac{n^{\frac{3}{5}} + n^{\frac{6}{7}}}{n^{\frac{2}{3}} + n^{\frac{4}{9}}}$$
+
+#### 5-2/ Exercice 2-2
+
+Calculer la limite de chacune des suites suivantes :
+
+$$a_{n} = \left(- \frac{1}{2}\right)^{n} + \left(\frac{3}{2}\right)^{n} \\ \\ d_{n} = \frac{2^{n} - 1}{7^{n} + 1} \\ \\ e_{n} = \frac{2^{n} - 5^{n}}{4^{n} + 9^{n}}$$
+$$u_{n} = \left(\frac{7}{3}\right)^{n} - 2017^{n} \\ \\ v_{n} = \frac{4^{n} - \left(- 2\right)^{n}}{3^{n} + \left(- 2\right)^{n}} \\ \\ w_{n} = \sqrt[5]{2^{n}} - \sqrt[3]{2^{n}} \\ \\ x_{n} = \frac{2^{n + 1} + 3^{n + 1}}{3^{2 n - 1}}$$
+
+#### 5-3/ Exercice 2-3
+
+On considère la suite $\left(u_{n}\right)$ définie par $u_{0} = \sqrt[3]{\frac{2}{7}}$ et $u_{n + 1} = \sqrt[3]{\frac{1 + \left(u_{n}\right)^{3}}{8}}$ pour tout $n \in \mathbb{N}$.
+
+1. Montrer que $\left(\forall n \in \mathbb{N}\right) u_{n} > \sqrt[3]{\frac{1}{7}}$
+
+2. En déduire que $\left(\forall n \in \mathbb{N}\right) \frac{u_{n + 1}}{u_{n}} < 1$
+
+3. Montrer que la suite $\left(u_{n}\right)$ est convergente.
+
+On pose pour tout $n \in \mathbb{N}$ : $v_{n} = \frac{7}{8} \left(u_{n}\right)^{3} - \frac{1}{8}$
+
+4. Montrer que $\left(v_{n}\right)$ est une suite géométrique.
+
+5. Exprimer $u_{n}$ en fonction de $n$, puis donner $l i m \left(u_{n}\right)$.
+
+#### 5-4/ Exercice 2-4
+
+On considère la suite $\left(u_{n}\right)$ définie par $u_{0} = 3$ et $u_{n + 1} = \frac{8 \left(u_{n} - 1\right)}{u_{n} + 2}$ pour tout $n \in \mathbb{N}$.
+
+1. Montrer que $\left(\forall n \in \mathbb{N}\right) 2 < u_{n} < 4$
+
+2. Étudier la monotonie de la suite $\left(u_{n}\right)$ puis en déduire qu'elle est convergente.
+
+3. Montrer que $\left(\forall n \in \mathbb{N}\right) 4 - u_{n + 1} \leq \frac{4}{5} \left(4 - u_{n}\right)$
+
+4. En déduire que $\left(\forall n \in \mathbb{N}\right) 4 - u_{n} \leq \left(\frac{4}{5}\right)^{n}$. Puis déterminer $l i m \left(u_{n}\right)$.
+
+On pose pour tout $n \in \mathbb{N}$ : $v_{n} = \frac{u_{n} - 4}{u_{n} - 2}$.
+
+5. Établir que la suite $\left(v_{n}\right)$ est géométrique dont on déterminera la raison et le premier terme.
+
+6. Exprimer $v_{n}$ puis $u_{n}$ en fonction de $n$.
+
+7. Retrouver la valeur de la limite de $\left(u_{n}\right)$.
+
+On pose pour tout $n \in \mathbb{N} \star$ : $S_{n} = v_{0} + v_{1} + . . . + v_{n - 1}$.
+
+8. Exprimer $S_{n}$ en fonction de $n$, puis conclure $\underset{n \rightarrow + \infty}{lim} S_{n}$.

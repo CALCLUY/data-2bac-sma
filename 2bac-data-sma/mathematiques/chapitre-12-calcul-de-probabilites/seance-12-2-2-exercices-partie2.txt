@@ -1,0 +1,57 @@
+---
+Chapitre: Chapitre 12 : Calcul de probabilités
+Séance: Séance 12-2-2 : Calcul de probabilités - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 12-2-2 : Calcul de probabilités - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 8-2/ Exercice 2-2
+
+On considère le jeu suivant :
+
+Le joueur lance d'abord un dé non truqué. S'il obtient 1, 2 ou 3, il gagne l'équivalent en dirhams (c'est-à-dire 1 Dh s'il obtient 1 par exemple). Sinon, il perd 2Dh.
+
+On note $X$ la variable aléatoire correspondant au gain du joueur (négatif en cas de perte).
+
+1. Donner la loi de probabilité de $X$ et sa fonction de répartition $F_{x}$.
+
+2. Calculer l'espérance mathématique $E \left(X\right)$ et la variance $V \left(X\right)$.
+
+On modifie le jeu de la façon suivante : les gains restent les mêmes pour les résultats 1, 2 ou 3, mais si le joueur obtient autre chose, il relance le dé. S'il obtient 3 ou moins, il gagne 3Dh, sinon il perd 5Dhs.
+
+3. Décrire formellement l'univers du nouveau jeu.
+
+On note $Y$ la variable aléatoire qui désigne le nouveau gain du joueur.
+
+4. Donner la loi de $Y$ et calculer son espérance.
+
+5. Quelle variante du jeu est la plus avantageuse pour le joueur ? Justifier.
+
+#### 8-3/ Exercice 2-3
+
+Soit $X$ une variable aléatoire suivant la loi binomiale de paramètres $n = 20$ et $p = 0 , 4$.
+
+1. Déterminer $X \left(\Omega\right)$ et l'expression de $P \left(X = k\right)$ pour tout $k \in X \left(\Omega\right)$.
+
+2. En déduire les probabilités suivantes :
+
+$$P \left(X = 6\right) ; P \left(X \leq 3\right) ; P \left(X \geq 2\right) \\ P \left(X = 8 , 5\right) ; P \left(3 \leq X \leq 6\right) ; P_{\left(X \geq 3\right)} \left(X \leq 6\right)$$
+
+3. Déterminer les valeurs de l'entier naturel $n_{0}$ pour lesquelles : $P \left(X \geq n_{0}\right) \leq 0 , 63$
+
+4. Déterminer: l'espérance et la variance de $X$.
+
+#### 8-4/ Exercice 2-4
+
+Considérerons l'expérience aléatoire qui consiste à lancer un dé non pipé, l'issue de l'expérience étant l'apparition ou non du chiffre 6.
+
+L'expérience est répétée 100 fois.
+
+1. Préciser la loi de probabilité de la variable aléatoire $X$ égale au nombre de fois où le chiffre 6 est apparu au cours des 100 lancers.
+
+2. Calculer l'espérance et l'écart-type de $X$.

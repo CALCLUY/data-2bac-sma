@@ -1,0 +1,384 @@
+---
+Chapitre: Chapitre 9 : Arithmétique dans Z
+Séance: Séance 9-1-1 : Arithmétique dans Z - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 9-1-1 : Arithmétique dans $\mathbb{Z}$ - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+### I- P.G.C.D - P.P.M.C
+
+#### 1-1/ Rappels et compléments
+#### 1-2/ Calcul pratique du P.G.C.D : algorithme d'euclide
+#### 1-3/ Nombres premiers entre eux
+#### 1-4/ Théorème de bezout
+#### 1-5/ Détermination des coefficients du théorème de bezout
+#### 1-6/ Applications du théorème de bezout
+#### 1-7/ L'équation diophantienne $a x + b y = c$
+#### 1-8/ P.G.C.D et P.P.C.M d'un nombre fini d'entiers relatifs
+#### 1-9/ Congruence modulo n (rappels et compléments)
+
+### II- Les nombres premiers
+
+#### 2-1/ Rappels et compléments
+#### 2-2- Petit théorème de fermat
+#### 2-3/ Décomposition en produit de facteurs premiers
+#### 2-4/ Applications de la décomposition en produit de facteurs premiers
+
+* * *
+
+### I- P.G.C.D - P.P.M.C
+
+#### 1-1/ Rappels et compléments
+
+##### Définition 1
+
+Soit $a$ et $b$ deux entiers relatifs non nulles.
+
+Le plus grand commun diviseur de $a$ et $b$, noté $a \land b$ ou $P G C D \left(a , b\right)$, est le plus grand des diviseurs positifs communs à $a$ et $b$.
+
+Le plus petit commun multiple de $a$ et $b$, noté $a \lor b$ ou $P P C M \left(a , b\right)$, est le plus petit des multiples strictement positifs communs à $a$ et $b$.
+
+On convient que : $a \land 0 = \left|a\right|$ et $a \lor 0 = 0$
+
+##### Remarques
+
+Soit $a$ et $b$ deux entiers relatifs non nulles. Si $d = a \land b$ et $m = a \lor b$ alors :
+
+- $d \geq 1$ et $d / a$ et $d / b$
+
+- $m \geq 1$ et $a / m$ et $b / m$
+
+- Pour toute $c \in \mathbb{N} \star$ : $\left[\left(c / a e t c / b\right) \Rightarrow c / d\right]$ et $\left[\left(a / c e t b / c\right) \Rightarrow m / c\right]$
+
+- Pour toute $c \in \mathbb{N} \star$ : $\left[\left(c / a e t c / b\right) \Rightarrow c \leq d\right]$ et $\left[\left(a / c e t b / c\right) \Rightarrow m \leq c\right]$
+
+- $\left|a\right| \land \left|b\right| = d$ et $a \land 1 = 1$ et $a \land a = a \land 0 = \left|a\right|$
+
+- $\left|a\right| \lor \left|b\right| = m$ et $a \lor 1 = \left|a\right|$ et $a \lor a = \left|a\right|$
+
+##### Proposition 1
+
+Soit $a$, $b$ et $c$ des entiers relatifs non nulles et $n$ un entier naturel. Alors :
+
+$$\overline{\left.\right)1} a \land b = b \land a \\ \\ \overline{\left.\right)2} a \lor b = b \lor a \\ \\ \overline{\left.\right)3} a / b \Leftrightarrow a \land b = \left|a\right| \Leftrightarrow a \lor b = \left|b\right| \\ \\ \overline{\left.\right)4} \left(a \land b\right) \land c = a \land \left(b \land c\right) \\ \\ \overline{\left.\right)5} \left(c a\right) \land \left(c b\right) = \left|c\right| \left(a \land b\right) \\ \\ \overline{\left.\right)6} \left{\begin{matrix} c / a \\ c / b \end{matrix}\right \Rightarrow \left(\frac{a}{c}\right) \land \left(\frac{b}{c}\right) = \frac{a \land b}{\left|c\right|}$$
+
+$$\overline{\left.\right)7} \left(a \lor b\right) \lor c = a \lor \left(b \lor c\right) \\ \\ \overline{\left.\right)8} \left(c a\right) \lor \left(c b\right) = \left|c\right| \left(a \lor b\right) \\ \\ \overline{\left.\right)9} \left{\begin{matrix} c / a \\ c / b \end{matrix}\right \Rightarrow \left(\frac{a}{c}\right) \lor \left(\frac{b}{c}\right) = \frac{a \lor b}{\left|c\right|} \\ \\ \overline{\left.\right)10} a^{n} \land b^{n} = \left(a \land b\right)^{n} \\ \\ \overline{\left.\right)11} a^{n} \lor b^{n} = \left(a \lor b\right)^{n} \\ \\ \overline{\left.\right)12} \left(a \land b\right) . \left(a \lor b\right) = \left|a b\right|$$
+
+#### 1-2/ Calcul pratique du P.G.C.D : algorithme d'euclide
+
+##### Proposition 2
+
+Soit $a \in \mathbb{Z} \star$ et $b \in \mathbb{N} \star$.
+
+Lorsque $b$ ne divise pas $a$, le plus grand commun diviseur des entiers $a$ et $b$ est égal au dernier reste non nul obtenu grâce à l'algorithme d'Euclide.
+
+#### 1-3/ Nombres premiers entre eux
+
+##### Définition 2
+
+Soit $a$ et $b$ deux entiers relatifs non nulles.
+
+On dit que $a$ et $b$ sont premiers entre eux si le seul diviseur positif commun à $a$ et $b$ est $1$, c'est-à-dire si $a \land b = 1$:
+
+##### Théorème 1
+
+Soit $a$ et $b$ deux entiers relatifs non nulles, et $d$ un entier naturel non nul.
+
+Alors :
+
+$$d = a \land b \Leftrightarrow \left[\left(\exists \left(\alpha ; \beta\right) \in \mathbb{Z}^{2}\right) a = \alpha d e t b = \beta d e t \alpha \land \beta = 1\right]$$
+
+##### Théorème 2
+
+Soit $\left(a , b\right) \in \left(\mathbb{Z} \star\right)^{2}$
+
+On a l'implication :
+
+$$d = a \land b \Leftrightarrow \left[\left(\exists \left(u ; v\right) \in \mathbb{Z}^{2}\right) d = a u + b v\right]$$
+
+##### Remarques
+
+Le couple $\left(u ; v\right)$ n'est pas unique. Par exemple :
+
+$$9 \land 4 = 1 = 1 \times 9 - 2 \times 4 \left(u = 1 e t v = - 2\right) \\ \\ 9 \land 4 = \left(- 43\right) \times 9 + 97 \times 4 \left(u = - 43 e t v = 97\right)$$
+
+La réciproque du théorème 2 est incorrecte, contre-exemple : $3 \times 5 + 7 \times \left(- 1\right) = 8$ mais $3 \land 7 \neq 8$.
+
+#### 1-4/ Théorème de bezout
+
+##### Théorème 3
+
+Soit $a$ et $b$ deux entiers relatifs non nulles.
+
+Alors : $a \land b = 1 \Leftrightarrow \left[\left(\exists \left(u ; v\right) \in \mathbb{Z}^{2}\right) a u + b v = 1\right]$
+
+##### Applications
+
+En utilisant le théorème de Bezout, montrer que pour tout $n \in \mathbb{N}$ :
+
+$$\overline{\left.\right)1} \left(5 n + 3\right) \land \left(2 n + 1\right) = 1 \\ \\ \overline{\left.\right)2} \left(2 n - 1\right) \land \left(3 - 7 n\right) = 1 \\$$
+
+#### 1-5/ Détermination des coefficients du théorème de bezout
+
+L'inconvénient du théorème du Bezout, sous sa forme théorique, est qu'il ne fournit pas les coefficients $u$ et $v$ intervenant dans la relation $a u + b v = 1$.
+
+L'algorithme d'Euclide fournit une réponse pratique à ce problème.
+
+À titre d'exemple, posons : $a = 155$ et $b = 23$.
+
+#### 1-6/ Applications du théorème de bezout
+
+##### Théorème 4
+
+Soit $a$, $b$ et $c$ des entiers relatifs non nuls.
+
+On a l'implication : $\left(a / b c e t a \land b = 1\right) \Rightarrow a / c$
+
+Ce résultat est connu sous le nom de « Théorème de Gauss ».
+
+##### Remarque
+
+Dans le théorème de Gauss, la condition $a \land b = 1$ est nécessaire.
+
+Par exemple : $12 / 9 \times 8$ mais $12$ ne divise ni le nombre $9$ ni le nombre $8$.
+
+##### Théorème 5
+
+Soit $a$, $b$ et $c$ des entiers relatifs non nuls.
+
+On a l'implication : $\left(a / c e t b / c e t a \land b = 1\right) \Rightarrow a b / c$
+
+##### Remarque
+
+Dans le théorème 5, la condition $a \land b = 1$ est nécessaire.
+
+Par exemple : $8 / 48$ et $12 / 48$ mais $12 \times 8$ ne divise pas $48$.
+
+##### Proposition 3
+
+Soit $a$, $b$ et $c$ des entiers relatifs non nuls.
+
+Alors :
+
+1- $\left(a \land b = 1 e t a \land c = 1\right) \Leftrightarrow a \land b c = 1$
+
+2- Pour tout $\left(m , n\right) \in \left(\mathbb{N} \star\right)^{2}$ : $\left(a \land b = 1 \Leftrightarrow a \land b^{n} = 1\right)$ et $\left(a \land b = 1 \Leftrightarrow a^{m} \land b^{n} = 1\right)$
+
+#### 1-7/ L'équation diophantienne $a x + b y = c$
+
+##### Théorème 6
+
+Soit $a$, $b$ et $c$ des entiers relatifs tels que $a b \neq 0$
+
+L'équation d'inconnue $a x + b y = c$ a des solutions si, et seulement si, $a \land b$ divise $c$.
+
+##### Théorème 7
+
+Si le couple $\left(\right. x_{0} ; y_{0} \left.\right)$ est une solution de l'équation $\left(E\right) : a x + b y = c$, alors l'ensemble solution de l'équation $\left(E\right)$ s'écrit sous la forme :
+
+$$S = \left{\left(x_{0} + \frac{b k}{a \land b} ; y_{0} - \frac{a k}{a \land b}\right) / k \in \mathbb{Z}\right}$$
+
+#### 1-8/ P.G.C.D et P.P.C.M d'un nombre fini d'entiers relatifs
+
+##### Définition 3
+
+Soit $n$ un entier naturel, $n \geq 2$, et des entiers relatifs non nuls $a_{1} , a_{2} , . . . a_{n}$
+
+Le plus grand commun diviseur des entiers $a_{1} , a_{2} , . . . a_{n}$, noté $a_{1} \land a_{2} \land . . . \land a_{n}$, est le plus grand des diviseurs positifs communs à $a_{1} , a_{2} , . . . a_{n}$.
+
+Le plus petit commun multiple des entiers $a_{1} , a_{2} , . . . a_{n}$, noté $a_{1} \lor a_{2} \lor . . . \lor a_{n}$ ou $P P C M \left(a_{1} , a_{2} , . . . a_{n}\right)$, est le plus petit des multiples positifs communs $a_{1} , a_{2} , . . . a_{n}$.
+
+##### Théorème 8
+
+Soit $n$ un entier naturel, $n \geq 2$, et des entiers relatifs non nuls $a_{1} , a_{2} , . . . a_{n}$.
+
+I1 existe des entiers relatifs $u_{1} , u_{2} , . . . u_{n}$ tels que : $\sum_{i = 1}^{n} a_{i} . u_{i} = \delta$, où $\delta$ désigne le plus grand commun diviseur de $a_{1} , a_{2} , . . . a_{n}$.
+
+##### Définition 4
+
+Soit $n$ un entier naturel, $n \geq 2$, et des entiers relatifs non nuls $a_{1} , a_{2} , . . . a_{n}$.
+
+On dit que les entiers $a_{1} , a_{2} , . . . a_{n}$ sont premiers entre eux si $1$ est le seul diviseur positif commun à tous ces entiers, c'est-à-dire : $a_{1} \land a_{2} \land . . . \land a_{n} = 1$
+
+##### Remarques
+
+Attention, dire que des entiers sont premiers entre eux ne signifie pas qu'ils sont entre eux deux à deux. Par exemple, les trois entiers $a = 8$, $b = 7$ et $c = 12$ sont premiers entre eux. Pourtant, les entiers $a$ et $c$ ont $4$ pour grand diviseur commun : $a \land c = 4 > 1$
+
+La relation $\left(a \lor b\right) . \left(a \land b\right) = \left|a b\right|$ n'est pas valable pour plus de deux entiers relatifs.
+
+Contre-exemple : $6 \lor 10 \lor 15 = 30$ et $6 \land 10 \land 15 = 1$
+
+donc : $\left(6 \lor 10 \lor 15\right) . \left(6 \land 10 \land 15\right) = 30 \neq 6 \times 10 \times 15$
+
+c'est-à-dire qu'on a en général : $\left(a \lor b \lor c\right) . \left(a \land b \land c\right) \neq \left|a b c\right|$
+
+Le résultat du théorème 8 reste aussi valable pour plus de deux entiers. Plus précisément : $\left(n \geq 2\right) \delta = a_{1} \land a_{2} \land . . . \land a_{n}$ signifie qu'il existe $\left(a '_{1} , a '_{2} , . . . a '_{n}\right) \in \mathbb{Z}^{n}$ tel que pour tout $i \in \left{1 ; 2 ; . . . ; n\right}$ : $a_{i} = \delta a '_{i}$ et $a '_{1} \land a '_{2} \land . . . \land a '_{n} = 1$.
+
+##### Théorème 9
+
+Soit $n$ un entier naturel, $n \geq 2$, et des entiers relatifs non nuls $a_{1} , a_{2} , . . . a_{n}$.
+
+Les entiers $a_{1} , a_{2} , . . . a_{n}$ sont premiers entre eux si, et seulement si :
+
+$$\exists \left(u_{1} ; u_{2} ; . . . u_{n}\right) \in \mathbb{Z}^{n} ; \sum_{i = 1}^{n} a_{i} . u_{i} = 1$$
+
+Autrement dit :
+
+$$\left(a_{1} \land a_{2} \land . . . \land a_{n} = 1\right) \Leftrightarrow \left[\exists \left(u_{1} ; u_{2} ; . . . u_{n}\right) \in \mathbb{Z}^{n} ; \sum_{i = 1}^{n} a_{i} . u_{i} = 1\right]$$
+
+#### 1-9/ Congruence modulo n (rappels et compléments)
+
+##### Définition 5
+
+Soit $n$ un entier naturel non nul.
+
+On dit que deux entiers relatifs $a$ et $b$ sont congrus modulo $n$ si $n$ divise $b - a$, c'est-à-dire s'il existe un entier $k \in \mathbb{Z}$ tel que $b = a + k n$.
+
+On écrit : $a \equiv b \left[n\right]$
+
+##### Proposition 4
+
+Soit $n$ un entier naturel non nul.
+
+La relation « de congruence» est une relation d'équivalence sur $\mathbb{Z}$, c'est-à-dire :
+
+1) Elle est réflexive : $\left(\forall a \in \mathbb{Z}\right) a \equiv a \left[n\right]$
+
+2) Elle est symétrique : $\left(\forall \left(a ; b\right) \in \mathbb{Z}^{2}\right) \left(a \equiv b \left[n\right] \Rightarrow b \equiv a \left[n\right]\right)$
+
+3) Elle est transitive : $\left(\forall \left(a ; b ; c\right) \in \mathbb{Z}^{3}\right) \left(a \equiv b \left[n\right] e t b \equiv c \left[n\right] \Rightarrow a \equiv c \left[n\right]\right)$
+
+##### Proposition 5
+
+Soit $n$ un entier naturel non nul et $\left(a ; b ; c ; d\right) \in \mathbb{Z}^{4}$. Alors :
+
+1) $a \equiv b \left[n\right] \Leftrightarrow$ (Les restes respectifs des divisions euclidiennes de $a$ et $b$ par $n$ sont égaux)
+
+2) Si $a \equiv b \left[n\right]$ et $c \equiv d \left[n\right]$, alors : $a + c \equiv b + d \left[n\right]$ et $a c \equiv b d \left[n\right]$.
+
+3) Si $a \equiv b \left[n\right]$ et $k \in \mathbb{Z}$, alors : $k a \equiv k b \left[n\right]$
+
+4) Si $a \equiv b \left[n\right]$ et $p \in \mathbb{N}$, alors : $a^{p} \equiv b^{p} \left[n\right]$
+
+##### Théorème 10
+
+Soit $a$, $b$ et $c$ des entiers relatifs non nulles et $n \in \mathbb{N} \star$.
+
+Si $d = c \land n$ alors :
+
+$$a c \equiv b c \left[n\right] \Leftrightarrow a \equiv b \left[\frac{n}{d}\right]$$
+
+##### Proposition 6
+
+Soit $a$, $b$ et $c$ des entiers relatifs non nuls et $\left(n ; p\right) \in \left(\mathbb{N} \star\right)^{2}$ tels que $c \land n = 1$
+
+Alors :
+
+$$\overline{\left.\right)1} a c \equiv b c \left[n\right] \Leftrightarrow a \equiv b \left[n\right] \\ \\ \overline{\left.\right)2} \left{\begin{matrix} a \equiv b \left[n\right] \\ p / n \end{matrix}\right \Rightarrow a \equiv b \left[p\right] \\ \\ \overline{\left.\right)3} \left{\begin{matrix} a c \equiv b c \left[p\right] \\ p p r e m i e r \\ p n e d i v i s e p a s c \end{matrix}\right \Rightarrow a \equiv b \left[p\right]$$
+
+### II- Les nombres premiers
+
+#### 2-1/ Rappels et compléments
+
+##### Définition 6
+
+Un entier relatif $p$ est dit premier lorsqu'il admet exactement quatre diviseurs.
+
+##### Remarques
+
+Si $p$ est un entier premier dans $\mathbb{N}$, alors $- p$ est premier dans $\mathbb{Z}$. C'est pourquoi dans cette section, nous nous limitons à l'ensemble $\mathbb{N}$ des entiers naturels.
+
+L'ensemble des nombres premiers (positifs) est noté $\mathbb{P}$.
+
+Un entier $n \geq 2$ non premier est dit composé.
+
+##### Théorème 11
+
+Soit $n$ un entier composé supérieur ou égal à $2$. Alors :
+
+1) Le plus petit diviseur positif de n différent de $1$ est un nombre premier.
+
+2) $n$ est un produit de nombres premiers. En particulier, $n$ possède au moins un diviseur premier.
+
+3) $n$ possède un facteur premier $p$ tel que $p^{2} \leq n$.
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s9/img1.jpg)
+
+##### Théorème 12
+
+L'ensemble $\mathbb{P}$ des nombres premiers positifs est infini.
+
+##### Théorème 13
+
+1) Si $p$ et $q$ sont deux nombres premiers positifs distincts, alors ils sont premiers entre eux.
+
+En d'autres termes : $\left(p \in \mathbb{P} e t q \in \mathbb{P} e t p \neq q\right) \Rightarrow p \land q = 1$
+
+2) Si $p \in \mathbb{P}$, alors $p$ est premier avec tous les entiers qu'il ne divise pas.
+
+En d'autres termes : $\left(\forall a \in \mathbb{Z}\right) \left(\forall p \in \mathbb{P}\right) \left[\left(p n e d i v i s e p a s a\right) \Rightarrow p \land a = 1\right]$
+
+##### Proposition 7
+
+Soit $\left(a , b\right) \in \mathbb{Z}^{2}$ et $p$ un nombre premier. Alors :
+
+$$p / a b \Leftrightarrow \left(p / a o u p / b\right)$$
+
+##### Corollaire
+
+Soit $a_{1} , a_{2} , . . . a_{n}$ des entiers relatifs et $p$ un nombre premier. Alors :
+
+$$p / a_{1} . a_{2} . . . . a_{n} \Leftrightarrow \left(\exists i \in \left{1 ; 2 ; . . . ; n\right} p / a_{i}\right)$$
+
+Soit $a \in \mathbb{Z}$ et $p$ un nombre premier. Alors :
+
+$$\left(\forall n \in \mathbb{N} \star\right) p / a^{n} \Leftrightarrow p / a$$
+
+Soit $p_{1} , p_{2} , . . . , p_{n}$ et $p$ des nombres premiers. Alors :
+
+$$p / p_{1} . p_{2} . . . . p_{n} \Leftrightarrow \left(\exists i \in \left{1 ; 2 ; . . . ; n\right} p = p_{i}\right)$$
+
+#### 2-2- Petit théorème de fermat
+
+##### Théorème 14
+
+1) Si $p$ est un nombre premier positif, alors il divise $a^{p} - a$, pour tout $a \in \mathbb{Z}$.
+
+Autrement dit : $\left(\forall a \in \mathbb{Z}\right) a^{p} \equiv a \left[p\right]$
+
+2) Si $p$ est un nombre premier positif, alors pour tout $a \in \mathbb{Z}$ : $p \land a = 1 \Rightarrow a^{p - 1} \equiv 1 \left[p\right]$
+
+##### Remarques
+
+La réciproque du petit théorème de Fermat n'est pas vraie. Autrement dit, si $a^{p - 1} \equiv 1 \left[p\right]$, alors l'entier $p$ n'est pas nécessairement premier. A titre d'exemple, le nombre $p = 341 = 31 \times 11$ n'est pas premier, or, il divise $2^{341} - 2$ car :
+
+$$2^{341} - 2 = 2 \left(2^{340} - 1\right) = 2 \left(\left(2^{10}\right)^{34} - 1\right) = 2 \left(2^{10} - 1\right) \sum_{k = 0}^{33} 2^{10 k} = 2 \times 3 \times 341 \times \sum_{k = 0}^{33} 2^{10 k}$$
+
+Le petit théorème de Fermat permet de calculer le reste de n'importe quel entier assez grand modulo un nombre premier positif $p$.
+
+#### 2-3/ Décomposition en produit de facteurs premiers
+
+##### Théorème 15
+
+Tout élément de $\mathbb{Z} \star - \left{1 ; - 1\right}$ admet une décomposition en produit de nombres premiers, unique à l'ordre près des facteurs.
+
+Autrement dit, si $n \in \mathbb{Z} \star - \left{1 ; - 1\right}$, il existe $N \in \mathbb{N} \star$, $\epsilon \in \left{1 ; - 1\right}$, des nombres premiers deux à deux distincts $p_{1} , p_{2} , . . . p_{N}$, et des entiers $\alpha_{1} , \alpha_{2} , . . . \alpha_{N}$ tels que : $n = \epsilon . \left(p_{1}\right)^{\alpha_{1}} . \left(p_{2}\right)^{\alpha_{2}} . . . \left(p_{N}\right)^{\alpha_{N}}$
+
+Ce théorème est connu sous le nom « Théorème fondamental de l'arithmétique ».
+
+#### 2-4/ Applications de la décomposition en produit de facteurs premiers
+
+##### Théorème 16
+
+Soit $n \in \mathbb{Z} \star - \left{1 ; - 1\right}$ et sa décomposition $n = \epsilon . \left(p_{1}\right)^{\alpha_{1}} . \left(p_{2}\right)^{\alpha_{2}} . . . \left(p_{N}\right)^{\alpha_{N}}$ en produit de facteurs premiers.
+
+Les diviseurs de $n$ sont les entiers relatifs : $d = \epsilon ' . \left(p_{1}\right)^{\gamma_{1}} . \left(p_{2}\right)^{\gamma_{2}} . . . \left(p_{N}\right)^{\gamma_{N}}$ avec $\forall k \in \left{1 ; 2 ; . . . ; N\right} 0 \leq \gamma_{k} \leq \alpha_{k}$ et $\epsilon ' \in \left{1 ; - 1\right}$
+
+Le nombre de diviseurs positifs de $n$ est : $\left(1 + \alpha_{1}\right) \left(1 + \alpha_{2}\right) . . . \left(1 + \alpha_{n}\right)$

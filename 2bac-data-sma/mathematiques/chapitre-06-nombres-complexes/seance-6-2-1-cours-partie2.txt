@@ -1,0 +1,297 @@
+---
+Chapitre: Chapitre 6 : Nombres complexes
+Séance: Séance 6-2-1 : Nombres complexes - Partie 2 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 6-2-1 : Nombres complexes - Partie 2 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+IIX- Racines $n^{\grave{e} m e}$ d'un nombre complexe non nul
+8-1/ Racines $n^{\grave{e} m e}$ de l'unité
+8-2/ Racines $n^{\grave{e} m e}$ d'un nombre complexe non nul
+
+IX- Équations du second degré dans $\mathbb{C}$
+9-1/ Racines carrées d'un nombre complexe
+9-2/ Résolution algébrique d'une équation du second degré dans $\mathbb{C}$
+
+X- Transformations usuelles du plan
+10-1/ La translation
+10-2/ L'homothétie
+10-3/ La rotation
+10-4/ Composition de quelques transformations du plan
+
+### IIX- Racines $n^{\grave{e} m e}$ d'un nombre complexe non nul
+
+#### 8-1/ Racines $n^{\grave{e} m e}$ de l'unité
+
+Définition 12
+
+Soit $n$ un entier naturel supérieur ou égal à $2$.
+
+On appelle racine $n^{\grave{e} m e}$ de l'unité tout nombre complexe $u$ tel que $u^{n} = 1$.
+
+L'ensemble des racines $n^{\grave{e} m e}$ de l'unité est noté $\mathbb{U}_{n}$.
+
+On a donc : $\mathbb{U}_{n} = \left\{z \in \mathbb{C} / z^{n} = 1\right\}$
+
+Remarque
+
+Les racines $n^{\grave{e} m e}$ de l'unité sont les solutions dans $\mathbb{C}$ de l'équation $z^{n} = 1$.
+
+Remarques
+
+1- On a $1 + j + j^{2} = 0$ et $z^{3} - 1 = \left(z - 1\right) \left(z - j\right) \left(z - j^{2}\right)$ pour tout $z \in \mathbb{C}$.
+
+2- Pour $n \in \left\{2 ; 3 ; 4\right\}$, le produit de deux éléments de $\mathbb{U}_{n}$ est aussi élément de $\mathbb{U}_{n}$.
+
+En fait, ce résultat est valable pour tout entier $n \geq 2$.
+
+3- Pour $n \in \left\{2 ; 3 ; 4\right\}$, l'inverse et le conjugué de tout élément de $\mathbb{U}_{n}$ sont aussi des éléments de $\mathbb{U}_{n}$.
+
+En fait, ce résultat est valable pour tout entier $n \geq 2$. On a donc pour tout $z \in \mathbb{C}$ :
+
+$$z \in \mathbb{U}_{n} \Leftrightarrow \overline{z} \in \mathbb{U}_{n} \Leftrightarrow \frac{1}{z} \in \mathbb{U}_{n}$$
+
+4- Soit $A_{0}$, $A_{1}$, et $A_{2}$ les points du plan d'affixes respectives $1$, $j$ et $j^{2}$.
+
+Alors, $A_{0} A_{1} A_{2}$ est un triangle équilatéral inscrit dans le cercle trigonométrique.
+
+5- Soit $A_{0}$, $A_{1}$, $A_{2}$ et $A_{3}$ les points du plan d'affixes respectives $1$, $i$, $- 1$ et $- i$.
+
+Alors $A_{0} A_{1} A_{2} A_{3}$ est un carré inscrit dans le cercle trigonométrique.
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img11.bmp)
+
+Proposition 27
+
+Soit $n$ un entier naturel supérieur ou égal à $2$.
+
+Les racines $n^{\grave{e} m e}$ de l'unité sont les nombres qui s'écrivent sous la forme $e^{i \frac{2 k \pi}{n}}$ où $k \in \left\{0 ; 1 ; 2 ; . . . ; n - 1\right\}$.
+
+On a donc :
+
+$$\mathbb{U}_{n} = \left\{e^{i \frac{2 k \pi}{n}} / k \in \left\{0 ; 1 ; 2 ; . . . ; n - 1\right\}\right\}$$ et $c a r d \mathbb{U}_{n} = n$
+
+Proposition 28
+
+Soit $n$ un entier naturel supérieur ou égal à $2$.
+
+Pour tous $u$ et $v$ de $\mathbb{U}_{n}$ :
+
+$$u \times v \in \mathbb{U}_{n} ; \frac{1}{u} \in \mathbb{U}_{n} ; \overline{u} \in \mathbb{U}_{n} \left( \overline{u} = \frac{1}{u}\right)$$
+
+Proposition 29
+
+Soit $n$ un entier naturel supérieur ou égal à $2$.
+
+Posons, pour tout $k \in \left\{0 ; 1 ; . . . ; n - 1\right\}$ : $\omega_{k} = e^{i \frac{2 k \pi}{n}}$
+
+Alors :
+
+1) Pour tout $k \in \left\{1 ; . . . ; n - 1\right\}$ : $\overline{\omega_{k}} = \omega_{n - k}$
+
+2) Pour tout $k \in \left\{0 ; 1 ; . . . ; n - 1\right\}$ : $\omega_{k} = \left(\omega_{1}\right)^{k}$
+
+3) La somme des $n$ racines $n^{\grave{e} m e}$ de l'unité est nulle.
+
+4) Les racines $n^{\grave{e} m e}$ de l'unité sont représentées dans le plan complexe par les sommets d'un polygone régulier à $n$ côtés inscrit dans le cercle trigonométrique, et dont l'un des sommets est le point d'affixe $1$. Ce polygone est symétrique par rapport à l'axe des abscisses.
+
+#### 8-2/ Racines $n^{\grave{e} m e}$ d'un nombre complexe non nul
+
+Définition 13
+
+Soit $Z$ un nombre complexe non nul et $n$ un entier naturel supérieur ou égal à $2$.
+
+Une racine $n^{\grave{e} m e}$ de $Z$ est un nombre complexe $z$ tel que $z^{n} = Z$.
+
+Proposition 30
+
+Soit $n \in \mathbb{N} \star - \left\{1\right\}$ et $Z$ un nombre complexe non nul d'argument $\varphi : Z = \left|Z\right| . e^{i \varphi}$.
+
+Le nombre $Z$ admet exactement $n$ racines $n^{\grave{e} m e}$ données pai .
+
+$$z_{k} = \sqrt[n]{\left|Z\right|} e^{i \left(\frac{\varphi}{n} + k \frac{2 \pi}{n}\right)} / k \in \left\{0 ; 1 ; . . . . ; n - 1\right\}$$
+
+Remarques
+
+Les racines $n^{\grave{e} m e}$ de $Z$ s'obtiennent à partir de l'une d'entre elles en multipliant celle-ci par chacune des racines $n^{\grave{e} m e}$ de l'unité.
+
+En effet, si $z_{0}$ est l'une des racines neme de $Z$ , on a :
+
+$$z^{n} = Z \Leftrightarrow z^{n} = \left(z_{0}\right)^{n} \Leftrightarrow \left(\frac{z}{z_{0}}\right)^{n} = 1 \Leftrightarrow \left[\left(\exists \omega \in \mathbb{U}_{n}\right) z = z_{0} \omega\right]$$
+
+Par suite, l'ensemble des racines neme de $Z$ est : $\left\{z_{0} \omega / \omega \in \mathbb{U}_{n}\right\}$
+
+Ainsi, pour trouver les racines $n^{\grave{e} m e}$ de $Z$, il suffit donc d'en exhiber une et de la multiplier par toutes les racines $n^{\grave{e} m e}$ de l'unité.
+
+Une bonne connaissance des racines $n^{\grave{e} m e}$ de l'unité est donc capitale pour résoudre ce type de problème.
+
+### IX- Équations du second degré dans $\mathbb{C}$
+
+#### 9-1/ Racines carrées d'un nombre complexe
+
+Résumé
+
+Tout nombre complexe non nul $Z$ admet exactement deux racines carrées opposées :
+
+1) Si $Z = \left|Z\right| . e^{i \varphi}$, alors les racines carrées sont $\sqrt{\left|Z\right|} e^{i \frac{\varphi}{2}}$ et $\sqrt{\left|Z\right|} e^{i \left(\frac{\varphi}{2} + \pi\right)}$. En particulier :
+
+- Si $Z \in \mathbb{R}_{+}^{\star}$, ses racines carrées sont $\sqrt{Z}$ et $- \sqrt{Z}$.
+
+- Si $Z \in \mathbb{R}_{-}^{\star}$, ses racines carrées sont $i \sqrt{- Z}$ et $- i \sqrt{- Z}$.
+
+- Si $Z \in i \mathbb{R}_{+}^{\star}$, ses racines carrées sont $\sqrt{\frac{\left|Z\right|}{2}} \left(1 + i\right)$ et $- \sqrt{\frac{\left|Z\right|}{2}} \left(1 + i\right)$
+
+- Si $Z \in i \mathbb{R}_{-}^{\star}$, ses racines carrées sont $\sqrt{\frac{\left|Z\right|}{2}} \left(1 - i\right)$ et $- \sqrt{\frac{\left|Z\right|}{2}} \left(1 - i\right)$.
+
+2) Si $Z = X + i Y$ avec $\left(X ; Y\right) \in \left(\mathbb{R} \star\right)^{2}$, et si $\alpha = \frac{1}{2} \left(X + \sqrt{X^{2} + Y^{2}}\right)$ et $\beta = \frac{1}{2} \left(- X + \sqrt{X^{2} + Y^{2}}\right)$, alors les racines carrées de $Z$ sont :
+
+- $\sqrt{\alpha} + i \sqrt{\beta}$ et $- \sqrt{\alpha} - i \sqrt{\beta}$ si $Y > 0$
+
+- $\sqrt{\alpha} - i \sqrt{\beta}$ et $- \sqrt{\alpha} + i \sqrt{\beta}$ si $Y < 0$
+
+Remarque
+
+Il n'est pas indispensable d'apprendre par cœur les résultats énoncés ci-dessus.
+
+Il faut plutôt savoir la démarche à suivre pour la détermination des racines carrées d'un nombre complexe selon le contexte.
+
+#### 9-2/ Résolution algébrique d'une équation du second degré dans $\mathbb{C}$
+
+Proposition 31
+
+Soit $\left(a ; b ; c\right) \in \mathbb{C} \star \times \mathbb{C} \times \mathbb{C}$, ainsi que l'équation d'inconnue $z \in \mathbb{C}$ :
+
+$$a z^{2} + b z + c = 0$$
+
+On note $\Delta = b^{2} - 4 a c$ son discriminant.
+
+Si $\Delta \neq 0$, l'équation admet deux solutions distinctes $z_{1}$ et $z_{2}$ données par $z_{1} = \frac{- b - \delta}{2 a}$ et $z_{2} = \frac{- b + \delta}{2 a}$ où $\delta$ est tel que $\delta^{2} = \Delta$.
+
+De plus, on a la factorisation : $\left(\forall z \in \mathbb{C}\right) a z^{2} + b z + c = a \left(z - z_{1}\right) \left(z - z_{2}\right)$
+
+Si $\Delta = 0$, l'équation a une seule solution, dite double, donnée par : $z = - \frac{b}{2 a}$
+
+De plus, on a la factorisation : $\left(\forall z \in \mathbb{C}\right) a z^{2} + b z + c = a \left(z + \frac{b}{2 a}\right)^{2}$
+
+Corollaire
+
+Soit $a$ , $b$ et $c$ trois réels, $a$ étant non nul, ainsi que l'équation dans $\mathbb{C}$ : $\left(E\right) a z^{2} + b z + c = 0$
+
+On note $\Delta = b^{2} - 4 a c$ son discriminant.
+
+Si $\Delta > 0$, alors l'équation $\left(E\right)$ a deux racines réelles distinctes $z_{1}$ et $z_{2}$ données par :
+
+$z_{1} = \frac{- b - \sqrt{\Delta}}{2 a}$ et $z_{1} = \frac{- b + \sqrt{\Delta}}{2 a}$.
+
+Si $\Delta = 0$, alors l'équation $\left(E\right)$ a une racine double réelle donnée par : $z = - \frac{b}{2 a}$
+
+Si $\Delta < 0$, alors l'équation $\left(E\right)$ a deux racines complexes distinctes conjuguées $z_{1}$ et $z_{2}$ données par :
+
+$z_{1} = \frac{- b - i \sqrt{\Delta}}{2 a}$ et $z_{1} = \frac{- b + i \sqrt{\Delta}}{2 a}$.
+
+Proposition 32
+
+Soit $a$ , $b$ et $c$ trois nombres complexes, avec $a \neq 0$.
+
+Les nombres complexes $z_{1}$ et $z_{2}$ (éventuellement égaux) vérifient $z_{1} + z_{2} = - \frac{b}{a}$ et $z_{1} \times z_{2} = \frac{c}{a}$ si, et seulement si, $z_{1}$ et $z_{2}$ sont les deux racines (éventuellement confondues) de l'équation $a z^{2} + b z + c = 0$.
+
+Remarque
+
+On utilise la proposition précédente sous plusieurs formes :
+
+- Si Ton sait que $z_{1}$ et $z_{2}$ sont les racines de l'équation $a z^{2} + b z + c = 0$, alors on peut simplifier toute expression symétrique e $z_{1}$ et $z_{2}$, et l'évaluer en fonction de $z_{1} + z_{2}$ et $z_{1} \times z_{2}$; et donc de $a$ , $b$ et $c$, sans avoir à expliciter $z_{1}$ et $z_{2}$.
+
+Dans la pratique, on rencontre souvent les expressions symétriques :
+
+$$\left(z_{1}\right)^{n} + \left(z_{2}\right)^{n} ; \left(z_{1}\right)^{n} \times \left(z_{2}\right)^{n} ; \frac{1}{\left(z_{1}\right)^{n}} + \frac{1}{\left(z_{2}\right)^{n}} ; \left(\frac{z_{2}}{z_{1}}\right)^{n} + \left(\frac{z_{1}}{z_{2}}\right)^{n} \left(n \in \left\{1 ; 2 ; 3 ; 4\right\}\right)$$
+
+- Si $z_{1}$ et $z_{2}$ sont les racines de l'équation $a z^{2} + b z + c = 0$, et si l'on connaît une de ces racines, alors on peut facilement en déduire l'autre.
+
+- Si l'on connaît deux complexes $s$ et $p$, et si l'on cherche $z_{1}$ et $z_{2}$ tels que $z_{1} + z_{2} = s$ et $z_{1} \times z_{2} = p$, alors une façon élégante et efficace de faire est de dire que $z_{1}$ et $z_{2}$ sont les racines de l'équation :
+
+$$z^{2} - s z + p = 0$$
+
+### X- Transformations usuelles du plan
+
+#### 10-1/ La translation
+
+Définition 14
+
+Soit $\overset{\rightarrow}{u}$ un vecteur du plan.
+
+La translation de vecteur $\overset{\rightarrow}{u}$ est l'application du plan dans lui-même qui, à tout point $M$, associe l'unique point $M '$ tel que : $\overset{\rightarrow}{M M '} = \overset{\rightarrow}{u}$
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img12.bmp)
+
+Proposition 33
+
+Soit $\overset{\rightarrow}{u}$ un vecteur du plan et a son affixe.
+
+La translation de vecteur $\overset{\rightarrow}{u}$ est représentée dans le plan complexe $\mathcal{P}$ par l'application :
+
+$$\mathbb{C} \rightarrow \mathbb{C} \\ z \rightarrowtail z ' = z + a$$
+
+La relation $z ' = z + a$ s'appelle l'écriture (ou la formule) complexe de la translation $T$ de vecteur $\overset{\rightarrow}{u} \left(a\right)$.
+
+#### 10-2/ L'homothétie
+
+Définition 15
+
+Soit $\Omega$ un point du plan et $\lambda \in \mathbb{R} \star$.
+
+L'homothétie de centre $\Omega$ et de rapport $\lambda$ est l'application du plan dans lui-même qui, à tout point $M$, associe l'unique point $M '$ tel que : $\overset{\rightarrow}{\Omega M '} = \lambda \overset{\rightarrow}{\Omega M}$
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img13.bmp)
+
+Proposition 34
+
+L'homothétie de centre $\Omega$, d'affixe $\omega$ et de rapport $\lambda$ est représentée dans le plan complexe $\mathcal{P}$ par l'application :
+
+$$\mathbb{C} \rightarrow \mathbb{C} \\ z \rightarrowtail z ' = \omega + \lambda \left(z - \omega\right)$$
+
+La relation $z ' = \omega + \lambda \left(z - \omega\right)$ s'appelle l'écriture (ou la formule) complexe de l'homothétie $H$ de centre $\Omega \left(\omega\right)$ et de rapport $\lambda$.
+
+#### 10-3/ La rotation
+
+Définition 16
+
+Soit $\Omega$ un point du plan et $\theta \in \mathbb{R}$.
+
+La rotation de centre $\Omega$ et d'angle $\theta$ est l'application du plan dans lui-même qui transforme $\Omega$ en $\Omega$, et tout point $M \neq \Omega$ en l'unique point $M '$ tel que :
+
+$$\Omega M = \Omega M ' e t \left(\overline{\overset{\rightarrow}{\Omega M} ; \overset{\rightarrow}{\Omega M '}}\right) \equiv \theta \left[2 \pi\right]$$
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s6/img14.bmp)
+
+Proposition 35
+
+La rotation de centre $\Omega$, d'affixe $\omega$ et d'angle $\theta$ est représentée dans le plan complexe $\mathcal{P}$ par l'application :
+
+$$\mathbb{C} \rightarrow \mathbb{C} \\ z \rightarrowtail z ' = \omega + e^{i \theta} \left(z - \omega\right)$$
+
+La relation $z ' = \omega + e^{i \theta} \left(z - \omega\right)$ s'appelle l'écriture (ou la formule) complexe de la rotation $R$ de centre $\Omega \left(\omega\right)$ et d'angle $\theta$.
+
+#### 10-4/ Composition de quelques transformations du plan
+
+Résumé
+
+$a$ et $b$ sont deux nombres complexes tels que $a \neq 0$.
+
+Soit $T$ la transformation du plan d'écriture complexe $z ' = a z + b$.
+
+1- Si $a = 1$, alors $T$ est la translation de vecteur $\overset{\rightarrow}{u}$ d'affixe $b$.
+
+2- Si $a \in \mathbb{R} \star \left\{1\right\}$, alors $T$ est l'homothétie de centre $\Omega \left(\frac{b}{1 - a}\right)$ et de rapport $a$.
+
+3- Si $a \notin \mathbb{R}$ et $\left|a\right| = 1$, alors $T$ est la rotation de centre $\Omega \left(\frac{b}{1 - a}\right)$ et d'angle $a r g \left(\right. a \left.\right)$.
+
+4- Si $a \notin \mathbb{R}$ et $\left|a\right| \neq 1$, alors $T$ est la composée de la rotation $R$ de centre $\Omega \left(\frac{b}{1 - a}\right)$ et d'angle $a r g \left(\right. a \left.\right)$, et l'homothétie $H$ de centre $\Omega \left(\frac{b}{1 - a}\right)$ et de rapport $\left|a\right|$.
+
+Dans ce cas, on a : $T = R \circ H = H \circ R$

@@ -1,0 +1,299 @@
+---
+Chapitre: Chapitre 1 : Limites et continuité
+Séance: Séance 1-2-1 : Limites et continuité - Partie 2 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 1-2-1 : Limites et continuité - Partie 2 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+### III- Continuité d'une fonction numérique
+
+#### 3-1/ Continuité d'une fonction en un point
+
+Définition 2
+
+Soit $f$ une fonction numérique définie sur un intervalle ouvert centré en un point $x_{0}$.
+
+On dit que la fonction $f$ est continue au point $x_{0}$ si $\underset{x \rightarrow x_{0}}{lim} f \left(x\right) = f \left(x_{0}\right)$
+
+Interprétation Graphique
+
+[FORMULA_IMAGE_UNREADABLE] (figure : https://www.alloschool.com/files/premium/maths/2bac-sm/s1/img1.jpg)
+
+Remarque
+
+si $f$ est définie au point $x_{0}$ et n'admet pas de limite en $x_{0}$ ou sa limite est infinie en $x_{0}$, on dit que $f$ est discontinue au point $x_{0}$.
+
+$f$ est continue en $x_{0}$ si :
+
+$$\left(\forall \epsilon > 0\right) \left(\exists \alpha > 0\right) \left(\forall x \in D_{f}\right) \left(0 < \left|x - x_{0}\right| < \alpha \Rightarrow \left|f \left(x\right) - f \left(x_{0}\right)\right| < \epsilon\right)$$
+
+Applications
+
+Soit $f$ la fonction numérique définie par :
+
+$$\left\{\begin{matrix} f \left(x\right) = \frac{- 2 x^{2} - x + 1}{x + 1} \left(x \neq - 1\right) \\ f \left(- 1\right) = 1 \end{matrix}\right$$
+
+1. Étudier la continuité de la fonction $f$ au point $x_{0} = - 1$.
+
+Soit $g$ la fonction numérique définie par :
+
+$$\left\{\begin{matrix} g \left(x\right) = \frac{x + tan \left(2 x\right)}{sin \left(3 x\right)} \left(x \neq 0\right) \\ g \left(0\right) = 1 \end{matrix}\right$$
+
+2. La fonction $g$ est-elle continue au point $x_{0} = 0$ ? Justifier la réponse.
+
+#### 3-2/ Continuité à droite - Continuité à gauche
+
+Définition 3
+
+1- Soit $f$ une fonction définie sur un intervalle de la forme $\left[\right. x_{0} , x_{0} + \alpha \left[\right.$ où $\alpha \in \mathbb{R}^{+} \star$.
+
+On dit que $f$ est continue à droite en $x_{0}$ si $\underset{x \rightarrow \left(x_{0}\right)^{+}}{lim} f \left(x\right) = f \left(x_{0}\right)$.
+
+2- Soit $f$ une fonction définie sur un intervalle de la forme $\left]\right. x_{0} - \alpha , x_{0} \left]\right.$ où $\alpha \in \mathbb{R}^{+} \star$.
+
+On dit que $f$ est continue à gauche en $x_{0}$ si $\underset{x \rightarrow \left(x_{0}\right)^{-}}{lim} f \left(x\right) = f \left(x_{0}\right)$.
+
+Proposition 4
+
+Une fonction numérique $f$ est continue au point $x_{0}$ si et seulement si elle est continue à droite et à gauche au point $x_{0}$.
+
+En d'autres termes :
+
+($f$ est continue au point $x_{0}$) $\Leftrightarrow \underset{x \rightarrow \left(x_{0}\right)^{+}}{lim} f \left(x\right) = \underset{x \rightarrow \left(x_{0}\right)^{-}}{lim} f \left(x\right) = f \left(x_{0}\right)$
+
+Applications
+
+Soit $f$ la fonction numérique définie par :
+
+$$\left\{\begin{matrix} f \left(x\right) = \frac{x}{x + 1} \left(x \leq 0\right) \\ f \left(x\right) = \frac{x^{2} - x}{x + 3} \left(x > 0\right) \end{matrix}\right$$
+
+1. Étudier la continuité de la fonction $f$ en $0$.
+
+Soit $g$ la fonction numérique définie par :
+
+$$\left\{\begin{matrix} g \left(x\right) = x^{2} + 2 x \left(x \leq 1\right) \\ g \left(x\right) = \frac{a sin \left(x - 1\right)}{x - 1} \left(x > 1\right) \end{matrix}\right$$
+
+2. Déterminer la valeur du réel a pour que la fonction $g$ soit continue au point $x_{0} = 1$.
+
+On considère la fonction $h$ définie par :
+
+$$\left\{\begin{matrix} h \left(x\right) = \frac{\left|\sqrt{2} - 2 cos x\right|}{4 \pi - x} \left(x \neq \frac{\pi}{4}\right) \\ h \left(\frac{\pi}{4}\right) = \frac{\sqrt{2}}{4} \end{matrix}\right$$
+
+3. Montrer que la fonction h n'est pas continue au point $x_{0} = \frac{\pi}{4}$.
+
+#### 3-3/ Prolongement par continuité en un point
+
+Définition 4
+
+Soit $f$ une fonction numérique non définie en un point $x_{0} \left(x_{0} \in D_{f}\right)$ et admettant une limite finie $\mathcal{l}$ au point $x_{0} : \underset{x \rightarrow x_{0}}{lim} f \left(x\right) = \mathcal{l}$.
+
+La fonction $\overset{\sim}{f}$ définie sur $D_{\overset{\sim}{f}} = D_{f} \cup \left\{x_{0}\right\}$ par $\left\{\begin{matrix} \overset{\sim}{f} \left(x\right) = f \left(x\right) \left(x \in D_{f}\right) \\ \overset{\sim}{f} \left(x_{0}\right) = \mathcal{l} \end{matrix}\right$
+
+est continue au point $x_{0}$, et est appelée le prolongement par continuité de $f$ au point $x_{0}$.
+
+Applications
+
+Pour chacun des cas suivants, montrer que la fonction $f$ admet un prolongement par continuité au point $x_{0}$ puis donner ce prolongement :
+
+$$\overline{\left.\right)1} f \left(x\right) = \frac{x^{3} - 2 x^{3} + 3 x + 6}{x + 1} \left(x_{0} = - 1\right) \\ \\ \overline{\left.\right)2} f \left(x\right) = \frac{x sin x}{cos x - 1} \left(x_{0} = 0\right) \\ \\ \overline{\left.\right)3} f \left(x\right) = \frac{\left|x^{2} + 4 x\right| - 3}{x + 3} \left(x_{0} = - 3\right) \\ \\ \overline{\left.\right)4} f \left(x\right) = \left(x - 1\right) sin \left(\frac{1}{x - 1}\right) \left(x_{0} = 1\right)$$
+
+#### 3-4/ Continuité d'une fonction sur un intervalle
+
+Définition 5
+
+1- Une fonction $f$ est continue sur un intervalle ouvert $I$ si elle est continue en tout point de $I$.
+
+En particulier : $f$ est continue sur $\left]\right. a , b \left[\right.$ si elle est continue en tout point de $\left]\right. a , b \left[\right.$.
+
+2- Une fonction $f$ est continue sur $\left[\right. a , b \left]\right.$ si elle est continue sur $\left]\right. a , b \left[\right.$ et continue à droite en $a$ et à gauche en $b$.
+
+3- Une fonction $f$ est continue sur $\left[\right. a , b \left[\right.$ si elle est continue sur $\left]\right. a , b \left[\right.$ et continue à droite en $a$.
+
+4- Une fonction $f$ est continue sur $\left]\right. a , b \left]\right.$ si elle est continue sur $\left]\right. a , b \left[\right.$ et continue à gauche en b.
+
+Application
+
+Soit $f$ la fonction numérique de la variable réelle $x$ définie par : $f \left(x\right) = x - E \left(x\right)$
+
+1. Montrer que la fonction $f$ est continue sur l'intervalle $\left[\right. 1 , 2 \left[\right.$.
+
+2. Montrer que pour tout $k \in \mathbb{Z}$, la fonction est continue sur l'intervalle $\left[\right. k , k + 1 \left[\right.$.
+
+#### 3-5/ Opérations sur les fonctions continues
+
+Proposition 5
+
+Soit $f$ et $g$ deux fonctions continues sur un intervalle $I$ et $k$ un nombre réel.
+
+Alors :
+
+(1) Les fonctions $f + g$ , $k . f$ et $f . g$ sont continues sur $I$.
+
+(2) Pour tout $n \in \mathbb{N} \star$, la fonction $f^{n} : x \rightarrowtail \left(f \left(x\right)\right)^{n}$ est continue sur $I$.
+
+(3) Si la fonction $g$ ne s'annule pas sur $I$, alors $\frac{1}{g}$ et $\frac{f}{g}$ sont continues sur $I$.
+
+(4) La fonction $\left|f\right|$ est continue sur $I$.
+
+(5) Si $f$ est positive sur $I$, alors $\sqrt{f}$ est continue sur $I$.
+
+Applications
+
+1. Dans chacun des cas suivants, montrer que la fonction $f$ est continue sur son domaine de définition :
+
+$$\overline{\left.\right)1} f \left(x\right) = \frac{4 x + 5}{x^{2} + 3} sin x \\ \\ \overline{\left.\right)2} f \left(x\right) = \left|2 x - 3\right| + \frac{x + 1}{x^{2} + x + 1} \\ \\ \overline{\left.\right)3} f \left(x\right) = x^{2} - tan x - 1$$
+
+Soit $g$ la fonction numérique définie par : $g \left(x\right) = \frac{\sqrt{x - 2}}{4 - x}$
+
+2. Montrer que $g$ est continue sur l'intervalle $\left[\right. 2 ; 4 \left[\right.$.
+
+3. Étudier la continuité de la fonction $x \rightarrowtail x E \left(x\right)$ sur l'intervalle $\left[\right. 0 ; 2 \left]\right.$.
+
+#### 3-6/ Continuité de la composée de deux fonctions
+
+Proposition 6
+
+Soit $f$ une fonction définie sur un intervalle $I$ et $g$ une fonction définie sur un intervalle $J$ tel que $f \left(I\right) \subset J$, et soit $x_{0}$ un élément de $I$.
+
+Si $f$ est continue au point $x_{0}$ et $g$ est continue au point $f \left(x_{0}\right)$, alors la fonction $g \circ f$ est continue en $x_{0}$.
+
+Corollaire
+
+Si $f$ est continue sur un intervalle $I$ et $g$ est continue sur un intervalle $J$ tel que $f \left(I\right) \subset J$, alors la fonction $g \circ f$ est continue sur l'intervalle $I$.
+
+Applications
+
+Dans chacun des cas suivants, étudier la continuité de la fonction $f$ sur les intervalles de $D_{f}$ :
+
+$$\overline{\left.\right)1} f \left(x\right) = sin \left(\frac{2 x + 1}{x^{2} - 1}\right) \\ \\ \overline{\left.\right)2} f \left(x\right) = \sqrt{\frac{x - 3}{x + 2}} \\ \\ \overline{\left.\right)3} f \left(x\right) = cos \left(\sqrt{x^{2} + 1}\right) \\ \\ \overline{\left.\right)4} f \left(x\right) = \sqrt{1 - sin x} \\ \\ \overline{\left.\right)5} f \left(x\right) = cos \left(tan^{2} x\right)$$
+
+#### 3-7/ Composée d'une fonction continue et d'une fonction admettant une limite
+
+Proposition 7
+
+Soit $f$ une fonction définie sur l'ensemble $\left]\right. x_{0} - r , x_{0} + r \left[\right. \left(\right. r > 0 \left.\right)$ et $g$ la fonction définie sur un intervalle ouvert $J$ centré en $\mathcal{l}$ tel que $f \left(I\right) \subset J$.
+
+Si $\underset{x \rightarrow x_{0}}{lim} f \left(x\right) = \mathcal{l}$ et $g$ est continue en $\mathcal{l}$ alors : $\underset{x \rightarrow x_{0}}{lim} g \circ f \left(x\right) = g \left(\mathcal{l}\right)$
+
+Remarque
+
+La proposition 7 reste valable en $x_{0}$ à droite ou $x_{0}$ à gauche ou en $+ \infty$ ou en $- \infty$ à condition de remplacer l'intervalle $I$ par un intervalle convenable.
+
+Applications
+
+Calculer les limites suivantes :
+
+$$\overline{\left.\right)1} \underset{x \rightarrow + \infty}{lim} \left(x - 2 \sqrt{x} + \frac{1}{x}\right)^{3} \\ \\ \overline{\left.\right)2} \underset{x \rightarrow 0}{lim} tan \left(\frac{πsinx}{3 x}\right) \\ \\ \overline{\left.\right)3} \underset{x \rightarrow - \infty}{lim} cos \left(\frac{πx + 1}{x + 2}\right) \\ \\ \overline{\left.\right)4} \underset{x \rightarrow + \infty}{lim} cos \left(sin \left(\frac{1}{x}\right)\right)$$
+
+### IV- Image d'un intervalle par une fonction continue
+
+#### 4-1/ Image d'un segment par une fonction continue
+
+Proposition 8
+
+L'image d'un segment par une fonction continue est un segment.
+
+Autrement dit :
+
+($f$ continue sur $\left[\right. a , b \left]\right. \left.\right) \Rightarrow f \left(\right. \left[\right. a , b \left]\right. \left.\right) = \left[\right. m , M \left]\right.$
+
+Remarque
+
+Si $f$ est continue sur un segment $\left[\right. a , b \left]\right.$, alors $M = f \left(\right. \alpha \left.\right)$ est le maximum de $f$ sur $\left[\right. a , b \left]\right.$ et $m = f \left(\right. \beta \left.\right)$ est le minimum de $f$ sur $\left[\right. a , b \left]\right.$.
+
+On a alors : $f \left(\left[\right. a , b \left]\right.\right) = \left[\right. m , M \left]\right.$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : https://www.alloschool.com/files/premium/maths/2bac-sm/s1/img2.jpg)
+
+Proposition 9
+
+L'image d'un intervalle par une fonction continue est un intervalle.
+
+Remarque
+
+La continuité d'une fonction est une condition suffisante pour que l'image d'un intervalle soit un intervalle, mais cette condition n'est pas évidemment nécessaire.
+
+En effet, il se peut que l'image d'un intervalle par une fonction discontinue soit un intervalle comme le montre l'exemple suivant :
+
+Considérons la fonction $f$ définie sur $\left[- 1 ; 2\right]$ par :
+
+$$\left\{\begin{matrix} f \left(x\right) = 2 x s i x \in \left[- 1 ; 1\right] \\ f \left(x\right) = x - 1 s i x \in \left]\right. 1 ; 2 \left]\right. \end{matrix}\right$$
+
+L'image de l'intervalle $\left[- 1 ; 2\right]$ par la fonction $f$ est l'intervalle $\left[\right. - 2 ; 2 \left]\right.$ bien que la fonction $f$ ne soit pas continue sur $\left[- 1 ; 2\right]$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : https://www.alloschool.com/files/premium/maths/2bac-sm/s1/img3.jpg)
+
+Les intervalles $I$ et $f \left(\right. I \left.\right)$ ne sont pas toujours de même nature. A titre d'exemple, l'image de l'intervalle semi-ouvert $\left]\right. - 1 ; 2 \left]\right.$ par la fonction $x \rightarrowtail x^{2}$ est le segment $\left[\right. 0 ; 4 \left]\right.$.
+
+Applications
+
+Pour chacun des cas suivants, montrer que la fonction $f$ est continue sur l'intervalle $I$, puis déterminer $f \left(\right. I \left.\right)$ :
+
+$$\overline{\left.\right)1} f \left(x\right) = x^{2} + 2 ; I = \left[- 1 ; 3\right] \\ \\ \overline{\left.\right)2} f \left(x\right) = \frac{x - 4}{x - 2} ; I = \left[5 ; 8\right] \\ \\ \overline{\left.\right)3} f \left(x\right) = 2 x \sqrt{x + 1} ; I = \left[3 ; 5\right] \\ \\ \overline{\left.\right)4} \left\{\begin{matrix} f \left(x\right) = x + 3 s i x \leq 2 \\ f \left(x\right) = x^{2} + 1 s i x > 2 \end{matrix}\right ; I = \left[- 3 ; 5\right]$$
+
+#### 4-2/ Image d'un intervalle par une fonction continue et strictement monotone
+
+Soit $f$ une fonction continue et strictement monotone sur un intervalle $I$.
+
+On a alors les résultats suivants :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : https://www.alloschool.com/files/premium/maths/2bac-sm/s1/img4.jpg)
+
+Soit $f$ la fonction numérique définie sur $\mathbb{R}$ par : $f \left(x\right) = x^{2} - 2 x + 3$
+
+Déterminer les images des intervalles suivants par la fonction $f$ :
+
+$$I = \left]\right. - \infty ; 0 \left]\right. - J = \left[1 ; 2\right] - K = \left]\right. - 5 ; - 1 \left[\right. - L = \left[\right. \sqrt{2} ; + \infty \left[\right.$$
+
+#### 4-3/ Théorème des valeurs intermédiaires
+
+Proposition 10
+
+Si $f$ une fonction continue sur un intervalle $\left[\right. a , b \left]\right.$ alors, pour tout réel $\lambda$ compris entre $f \left(\right. a \left.\right)$ et $f \left(\right. b \left.\right)$ il existe au moins un réel $c$ appartenant à l'intervalle $\left[\right. a , b \left]\right.$ tel que $f \left(\right. c \left.\right) = \lambda$.
+
+En d'autres termes : l'équation $f \left(\right. x \left.\right) = \lambda$ d'inconnue $x$ admet au moins une solution dans $\left[\right. a , b \left]\right.$, pour tout $\lambda$ compris entre $f \left(\right. a \left.\right)$ et $f \left(\right. b \left.\right)$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : https://www.alloschool.com/files/premium/maths/2bac-sm/s1/img5.jpg)
+
+Corollaire
+
+Si la fonction $f$ est continue sur $\left[\right. a , b \left]\right.$ tel que $f \left(\right. a \left.\right) . f \left(b\right) < 0$ alors l'équation $f \left(\right. x \left.\right) = 0$ admet au moins une solution dans l'intervalle $\left[\right. a , b \left]\right.$.
+
+Si de plus, la fonction $f$ est strictement monotone, cette solution est unique.
+
+Remarque
+
+On peut interpréter le résultat du corollaire précédent comme suit :
+
+Si la fonction $f$ est continue sur $\left[\right. a , b \left]\right.$ et si $f \left(\right. a \left.\right)$ et $f \left(\right. b \left.\right)$ sont de signes contraires, alors le graphe coupe l'axe des abscisses, au moins une fois, en un point dont l'abscisse appartient à $\left[\right. a , b \left]\right.$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : https://www.alloschool.com/files/premium/maths/2bac-sm/s1/img6.jpg)
+
+Applications
+
+1. Montrer que chacune des équations suivantes admet au moins une solution dans l'intervalle $I$ :
+
+$$\overline{\left.\right)1} x^{4} + x^{2} + 4 x - 1 = 0 ; I = \left[0 ; 1\right] \\ \\ \overline{\left.\right)2} 2 cos x - x = 0 ; I = \left[0 ; \pi\right] \\ \\ \overline{\left.\right)3} 1 + sin x = 4 x ; I = \left[0 ; \frac{\pi}{2}\right] \\ \\ \overline{\left.\right)4} tan x + x^{2} = 2 ; I = \left]\right. \frac{\pi}{4} ; \frac{\pi}{3} \left[\right.$$
+
+2. Montrer que l'équation $x^{3} - 6 x^{2} + 6 = 0$ admet une solution unique dans l'intervalle $\left[\right. - 2 ; 0 \left]\right.$.
+
+Soit $f$ une fonction continue sur un intervalle $I$ de $\mathbb{R}$ telle que : $\left(\forall x \in I\right) f \left(x\right) \neq 0$
+
+3. Montrer par l'absurde que la fonction $f$ garde un signe constant sur l'intervalle $I$.
+
+#### 4-4/ Principe de la méthode de dichotomie
+
+Soit $f$ une fonction continue sur un segment $\left[\right. a , b \left]\right.$ telle que l'équation $f \left(x\right) = 0$ admet une solution unique $\alpha$ dans $\left[\right. a , b \left]\right.$.
+
+Pour déterminer un encadrement du nombre $\alpha$, on démarre donc en ayant localisé la racine $\alpha$ entre $a$ et $b$ $\left(\right. a < \alpha < b \left.\right)$ ; et on sait par exemple que sur cet intervalle, la fonction $f$ (continue) est strictement croissante.
+
+On calcule alors le centre $m$ du segment $\left[\right. a , b \left]\right.$ (à savoir $m = \frac{a + b}{2}$), puis son image par $f$ : $f \left(m\right)$, et on la compare à $0$.
+
+Deux cas peuvent alors se produire :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : https://www.alloschool.com/files/premium/maths/2bac-sm/s1/img7.jpg)

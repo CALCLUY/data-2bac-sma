@@ -1,0 +1,176 @@
+---
+Chapitre: Chapitre 7 : Calcul intégral
+Séance: Séance 7-1-1 : Calcul intégral - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 7-1-1 : Calcul intégral - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+### I- Intégrale d'une fonction continue sur un segment
+
+#### 1-1/ Intégrale et primitives
+
+Définition 1
+
+Soit $f$ une fonction continue sur un intervalle $I$, et soit $a$ et $b$ deux éléments de $I$.
+
+Le nombre $F \left(b\right) - F \left(a\right)$, où $F$ est une primitive de $f$, est appelé l'intégrale de la fonction $f$ de $a$ à $b$, et on le note $\int_{a}^{b} f \left(x\right) d x$.
+
+On écrit alors : $\int_{a}^{b} f \left(x\right) d x = \left[F \left(x\right)\right]_{a}^{b} = F \left(b\right) - F \left(a\right)$
+
+Remarque
+
+$\int_{a}^{b} f \left(x\right) d x$ se lit « somme de $f \left(x\right)$ de $a$ et $b$ » ou « intégrale de de $a$ et $b$ »
+
+Les nombres $a$ et $b$ s'appellent les bornes de cette intégrale.
+
+Dans l'écriture $\int_{a}^{b} f \left(x\right) d x$, la lettre $x$ peut être remplacée par une autre lettre.
+
+Ainsi, on a : $\int_{a}^{b} f \left(x\right) d x = \int_{a}^{b} f \left(t\right) d t = \int_{a}^{b} f \left(u\right) d u = . . . .$
+
+Applications
+
+1. Déterminer la dérivée de la fonction $F : x \rightarrowtail ln \left(x + \sqrt{x^{2} + 1}\right)$ sur $\mathbb{R}^{+}$, puis calculer $L = \int_{0}^{\frac{3}{4}} \frac{1}{\sqrt{x^{2} + 1}} d x$.
+
+2. Calculer les intégrales suivantes :
+
+$$I = \int_{1}^{\sqrt{3}} \frac{d x}{1 + x^{2}} \\ \\ J = \int_{\frac{1}{e}}^{e} \frac{ln^{3} x}{x} d x \\$$
+
+Propriété 1
+
+Soit $f$ une fonction continue sur un intervalle $I$. Alors on a pour tous $a$, $b$ et $c$ de $I$ :
+
+$\int_{a}^{a} f \left(x\right) d x = 0$ et $\int_{a}^{b} f \left(x\right) d x = - \int_{b}^{a} f \left(x\right) d x$
+
+$\int_{a}^{b} f \left(x\right) d x = \int_{a}^{c} f \left(x\right) d x + \int_{c}^{b} f \left(x\right) d x$ (C'est la relation de Chasles pour les intégrales).
+
+Applications
+
+Calculer les intégrales suivantes :
+
+$$A = \int_{0}^{2} \left|3 x - 4\right| d x \\ \\ B = \int_{- 3}^{2} \left|x^{2} - 3 x - 4\right| d x \\ \\ C = \int_{- \frac{\pi}{2}}^{\frac{\pi}{3}} \left|sin 2 x\right| d x$$
+
+Propriété 2
+
+Soit $f$ et $g$ deux fonctions continues sur un intervalle $I$.
+
+Pour tout $\left(a , b\right) \in I^{2}$ et pour tout $\lambda \in \mathbb{R}$ :
+
+$$\int_{a}^{b} \left(f \left(x\right) + g \left(x\right)\right) d x = \int_{a}^{b} f \left(x\right) d x + \int_{a}^{b} g \left(x\right) d x$$
+
+et
+
+$$\int_{a}^{b} \lambda f \left(x\right) d x = \lambda \int_{a}^{b} f \left(x\right) d x$$
+
+#### 1-2/ Expression d'une primitive à l'aide d'une intégrale
+
+Proposition 1
+
+Soit $f$ une fonction continue sur un intervalle $I$ et $a$ un élément de $I$.
+
+La fonction $\varphi$ définie sur $I$ par $\varphi \left(x\right) = \int_{a}^{x} f \left(t\right) d t$ est la primitive de $f$ sur $I$ s'annulant en $a$.
+
+Remarques
+
+1- La fonction $\varphi$ citée dans la proposition 1 est dérivable sur $I$ et de plus : $\left(\forall x \in I\right) \varphi ' \left(x\right) = f \left(x\right)$
+
+Il s'ensuit donc que pour tout $x_{0} \in I$ :
+
+$$\underset{x \rightarrow x_{0}}{lim} \frac{1}{x - x_{0}} \int_{x_{0}}^{x} f \left(t\right) d t = \underset{x \rightarrow x_{0}}{lim} \frac{\varphi \left(x\right) - \varphi \left(x_{0}\right)}{x - x_{0}} = \varphi ' \left(x_{0}\right) = f \left(x_{0}\right)$$
+
+On a aussi :
+
+$$\underset{h \rightarrow 0}{lim} \frac{1}{h} \int_{x_{0}}^{x_{0} + h} f \left(t\right) d t = f \left(x_{0}\right)$$
+
+2- Puisque $ln$ est la primitive de la fonction $x \rightarrowtail \frac{1}{x}$ sur $\mathbb{R}_{+}^{\star}$ qui s'annule en $1$ alors : $\left(\forall x \in \mathbb{R}_{+}^{\star}\right) ln x = \int_{1}^{x} \frac{1}{t} d t$
+
+Proposition 2
+
+Soit $f$ une fonction continue sur un intervalle $I$ et $v$ une fonction dérivable sur un intervalle $J$ telle que $v \left(J\right) \subset I$. Alors pour tout $a \in I$ :
+
+La fonction $F : x \rightarrowtail \int_{a}^{v \left(x\right)} f \left(t\right) d t$ est dérivable sur $J$ et de plus :
+
+$$\left(\forall x \in J\right) F ' \left(x\right) = v ' \left(x\right) f \left(v \left(x\right)\right)$$
+
+Applications
+
+Montrer que les fonctions $F$ et $G$ définies par $F \left(x\right) = \int_{sin x}^{cos x} \sqrt{1 - t^{2}} d t$ et $G \left(x\right) = \int_{- x}^{2 x} ln \left(e^{t} + 1\right) d t$ sont dérivables sur $\mathbb{R}$ et déterminer leurs fonctions dérivées.
+
+#### 1-3/ Interprétation géométrique d'une intégrale
+
+Proposition 3
+
+Soit $f$ une fonction continue et positive sur un segment $\left[a ; b\right] \left(a < b\right)$ et $\mathcal{C}_{f}$ sa courbe représentative dans un repère orthogonal.
+
+L'aire du domaine délimité par la courbe $\mathcal{C}_{f}$, l'axe des abscisses et les droites d'équations $x = a$ et $x = b$ est $\mathcal{A} = \int_{a}^{b} f \left(x\right) d x$ (exprimée en unités d'aire)
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s7/img1.jpg)
+
+Applications
+
+Soit $f$ la fonction numérique définie sur $\mathbb{R}$ par $f \left(x\right) = 6 + 5 e^{x} - e^{2 x}$, et $\mathcal{C}_{f}$ sa courbe représentative dans un repère orthonormé $\left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$ avec $\left||\overset{\rightarrow}{i}\right|| = \left||\overset{\rightarrow}{j}\right|| = 2 c m$.
+
+Résoudre dans $\mathbb{R}$ l'inéquation $f \left(x\right) \geq 0$, puis déterminer l'aire du domaine délimité par $\mathcal{C}_{f}$, les axes du repère et la droite d'équation $x = ln \left(\frac{5}{2}\right)$.
+
+### II- Techniques de calcul d'intégrales
+
+#### 2-1/ Utilisation des primitives
+
+Pour calculer une intégrale, on envisage en premier temps d'utiliser le tableau des primitives des fonctions usuelles et leurs propriétés.
+
+Ainsi, et avant d'entamer le calcul d'une intégrale d'une fonction $f$, on doit vérifier la continuité de $f$ sur l'intervalle d'intégration, puis voir si $f$ s'écrit sous la forme $u ' . \left(v ' \circ u\right)$ (car une primitive de $f$ est donc $v \circ u$), ou bien voir si le problème demande de transformer l'expression de la fonction $f$ en une somme des fonctions faciles à intégrer.
+
+Maintenant que le lien entre recherche de primitives et calcul d'intégrales a été rappelé, nous allons donner deux méthodes permettant de simplifier le calcul d'intégrales et donc la recherche des primitives, à savoir :
+
+* Intégration par parties
+* Intégration par changement de variable
+
+#### 2-2/ Intégration par parties
+
+Proposition 4
+
+Soit $u$ et $v$ deux fonctions dérivables sur un intervalle $I$ telles que ses dérivées $u '$ et $v '$ soient continues sur $I$.
+
+Alors pour tout $\left(a ; b\right) \in I^{2}$ on a :
+
+$$\int_{a}^{b} u ' \left(t\right) v \left(t\right) d t = \left[u \left(t\right) v \left(t\right)\right]_{a}^{b} - \int_{a}^{b} u \left(t\right) v ' \left(t\right) d t$$
+
+Applications
+
+En appliquant la formule d'intégration par parties, calculer les intégrales suivantes :
+
+$$I_{1} = \int_{1}^{ln 2} x e^{x} d x \\ \\ I_{2} = \int_{1}^{2} x \sqrt{2 - x} d x \\ \\ I_{3} = \int_{0}^{\sqrt{3}} ln \left(t^{2} + 1\right) d x \\ \\$$
+
+#### 2-3/ Intégration par changement de variable
+
+Proposition 5
+
+Soit $f$ une fonction continue sur un intervalle $I$.
+
+Soit $u$ une fonction dérivable sur un intervalle $E$ telle que $u '$ est continue sur $E$ et $u \left(\right. E \left.\right) \subset I$.
+
+On a alors pour tout $\left(\alpha , \beta\right) \in E^{2}$ :
+
+$$\int_{\alpha}^{\beta} f \left(u \left(t\right)\right) . u ' \left(t\right) d t = \int_{u \left(\alpha\right)}^{u \left(\beta\right)} f \left(x\right) d x$$
+
+Si $u$ est une bijection de $E$ vers $I$, alors pour tout $\left(a ; b\right) \in I^{2}$ on a :
+
+$$\int_{a}^{b} f \left(x\right) d x = \int_{u^{- 1} \left(a\right)}^{u^{- 1} \left(b\right)} f \left(u \left(t\right)\right) . u ' \left(t\right) d t$$
+
+Remarque
+
+Pratiquement et en posant $x = u \left(t\right)$, on trouve $\frac{d x}{d t} = u ' \left(t\right)$, c'est-à-dire que $d x = u ' \left(t\right) d t$, de sorte que l'expression $f \left(u \left(t\right)\right) . u ' \left(t\right) d t$ soit égale à l'expression $f \left(x\right) d x$, et on a :
+
+$t = \alpha \Rightarrow x = u \left(\alpha\right)$ et $t = \beta \Rightarrow x = u \left(\beta\right)$
+
+On dit qu'on a effectué un changement de variable en posant $x = u \left(t\right)$.
+
+Applications
+
+Calculer les intégrales suivantes :
+
+$$I_{1} = \int_{0}^{1} \sqrt{\frac{1 - x}{1 + x}} d x \left(\right. p o s e r x = cos t \left.\right) \\ \\ I_{2} = \int_{0}^{3} \frac{1}{1 + \sqrt{1 + x}} d x \left(\right. p o s e r t = 1 + \sqrt{1 + x} \left.\right) \\ \\ \\$$

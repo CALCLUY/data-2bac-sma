@@ -1,0 +1,73 @@
+---
+Chapitre: Chapitre 2 : Suites numériques
+Séance: Séance 2-1-2 : Suites numériques - Partie 1 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 2-1-2 : Suites numériques - Partie 1 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 2-1/ Exercice 1-1
+
+Soit $\left(\left(\right. U_{n} \left.\right)\right)_{n \geq 1}$ la suite définie par : $U_{n} = \sum_{k = 1}^{k = n} \frac{1}{\sqrt{n^{2} + k}}$
+
+1. Montrer que $\left(\forall n \in \mathbb{N} \star\right) \frac{n}{\sqrt{n^{2} + n}} \leq U_{n} \leq \frac{n}{\sqrt{n^{2} + 1}}$.
+
+2. En déduire que $\left(\left(\right. U_{n} \left.\right)\right)_{n \geq 1}$ est bornée.
+
+#### 2-2/ Exercice 1-2
+
+On considère la suite $\left(U_{n}\right)_{n}$ définie par : $U_{0} = - 1$, $U_{1} = \frac{1}{2}$ et $U_{n + 2} = U_{n + 1} - \frac{1}{4} U_{n}$.
+
+On pose $V_{n} = U_{n + 1} - \frac{1}{2} U_{n}$ et $W_{n} = 2^{n} U_{n}$.
+
+1. Montrer que $\left(V_{n}\right)_{n}$ est une suite géométrique puis calculer $V_{n}$ en fonction de $n$.
+
+2. Montrer que $\left(W_{n}\right)_{n}$ est une suite arithmétique puis calculer $W_{n}$ en fonction de $n$.
+
+3. En déduire que $\left(\forall n \in \mathbb{N}\right) U_{n} = \frac{2 n - 1}{2^{n}}$.
+
+On pose $S_{n} = \sum_{k = 0}^{k = n} U_{k}$.
+
+4. Prouver que $\left(\forall n \in \mathbb{N}\right) S_{n} = 2 - \frac{2 n + 3}{2^{n}}$.
+
+#### 2-3/ Exercice 1-3
+
+Soit $\left(U_{n}\right)_{n \in \mathbb{N}}$ la suite telle que $U_{0} = 2$ et $U_{n + 1} = \frac{1}{2} + \sqrt{\frac{1}{2} \left(\left(U_{n}\right)^{2} - U_{n} + \frac{1}{2}\right)}$.
+
+On pose $V_{n} = \left(U_{n}\right)^{2} - U_{n}$ pour tout $n \in \mathbb{N}$.
+
+1. Montrer que $\left(\forall n \in \mathbb{N}\right) U_{n} \geq 1$
+
+2. Montrer que $\left(V_{n}\right)_{n}$ est une suite géométrique.
+
+3. En déduire que $\left(\forall n \in \mathbb{N}\right) U_{n} = \frac{1}{2} + \frac{1}{2} \sqrt{1 + \frac{8}{2^{n}}}$.
+
+4. Démontrer que $\left(\forall n \in \mathbb{N}\right) 0 < U_{n} - 1 \leq \left(\frac{1}{2}\right)^{n - 1}$.
+
+#### 2-4/ Exercice 1-4
+
+$\left(U_{n}\right)_{n}$ est une suite réelle telle que $U_{0} = 1$ et $U_{n + 1} = \frac{6 U_{n}}{1 + 15 U_{n}}$
+
+1. Montrer que $\left(\forall n \in \mathbb{N}\right) U_{n} > \frac{1}{3}$.
+
+2. Étudier la monotonie de $\left(U_{n}\right)_{n}$, et en déduire que $\left(\forall n \in \mathbb{N}\right) U_{n} \leq 1$
+
+3. Montrer que $\left(\forall n \in \mathbb{N}\right) U_{n + 1} - \frac{1}{3} \leq \frac{1}{6} \left(U_{n} - \frac{1}{3}\right)$
+
+4. En déduire que $\left(\forall n \in \mathbb{N}\right) U_{n} - \frac{1}{3} \leq \frac{2}{3} \left(\frac{1}{6}\right)^{n}$
+
+On pose $V_{n} = 1 - \frac{1}{3 U_{n}}$ pour tout entier naturel $n$.
+
+5. Montrer que $\left(V_{n}\right)_{n}$ est une suite géométrique de raison $\frac{1}{6}$.
+
+6. Calculer $V_{n}$ puis $U_{n}$ en fonction de $n$.
+
+On pose $S_{n} = \sum_{k = 0}^{k = n} V_{k}$ et $T_{n} = \sum_{k = 0}^{k = n} \frac{1}{U_{k}}$
+
+7. Déterminer $S_{n}$ en fonction de $n$.
+
+8. En déduire que $T_{n} = 3 n + \frac{3}{5} + \frac{12}{5} \left(\frac{1}{6}\right)^{n + 1}$

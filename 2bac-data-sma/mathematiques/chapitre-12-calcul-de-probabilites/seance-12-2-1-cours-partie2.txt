@@ -1,0 +1,164 @@
+---
+Chapitre: Chapitre 12 : Calcul de probabilités
+Séance: Séance 12-2-1 : Calcul de probabilités - Partie 2 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 12-2-1 : Calcul de probabilités - Partie 2 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+### V- L'indépendance
+
+#### 5-1/ Indépendance des événements
+
+##### Définition 9
+
+Soit $P$ une probabilité définie sur un univers $\Omega$.
+
+On dit que deux événements $A$ et $B$ de $\Omega$ sont indépendants si on a :
+
+$P \left(A \cap B\right) = P \left(A\right) \times P \left(B\right)$ ou $P_{B} \left(A\right) = P \left(A\right)$ ou $P_{A} \left(B\right) = P \left(B\right)$
+
+##### Remarques
+
+- Les trois égalités citées dans la définition 9 sont équivalentes, à conditions bien sûr que $A$ et $B$ soient de probabilités non nulles, ce qui est souvent dans la pratique.
+
+Ainsi, si $P \left(A\right) \neq 0$, $A$ et $B$ sont indépendants si la probabilité de $B$ et sa probabilité conditionnelle à $A$ sont égales : la réalisation de l'événement A n'influe pas sur celle de $B$. Lorsqu'une telle absence de lien causal (« indépendance » au sens logique) se manifeste entre deux événements $A$ et $B$, on peut affirmer l'indépendance de ces événements.
+
+- L'indépendance n'est en général pas démontrable. Elle constitue un choix (ou une conséquence) de la modélisation probabiliste d'un phénomène aléatoire.
+
+Lorsqu'il est demandé de démontrer que deux événements sont indépendants, c'est parce qu'il existe déjà une hypothèse d'indépendance (éventuellement dissimulée) parmi les données du problème.
+
+- Lorsque l'énoncé du problème contient des phrases comme « tirage avec remise dans une urne », « lancers successifs d'une pièce »..., l'indépendance est claire.
+
+- Attention ! l'indépendance (notion probabiliste) ne doit pas être confondue avec l'incompatibilité (notion ensembliste). En fait, deux événements incompatibles (et de probabilités non nulles) ne sont jamais indépendants puisque, si tel est le cas de $A$ et $B$, on a : $P \left(A\right) = P_{B} \left(A\right) = \frac{P \left(A \cap B\right)}{P \left(B\right)} = 0$.
+
+Intuitivement, deux événements incompatibles sont dépendants l'un de l'autre puisque la place occupée par l'un ne peut être occupée par l'autre.
+
+#### 5-2/ Épreuves indépendantes - Répétition d'une épreuve
+
+##### Définition 10
+
+Il y a répétition d'expériences identiques, lorsque la même expérience aléatoire est répétée plusieurs fois de suite.
+
+Ces expériences aléatoires successives sont indépendantes lorsque l'issue de l'une quelconque de ces expériences ne dépend pas de l'issue des autres expériences.
+
+##### Proposition 6
+
+Soit $A$ un événement de probabilité $p$ lors d'une épreuve aléatoire, et soit $n$ un entier naturel non nul.
+
+Lorsqu'on répète cette épreuve n fois de manières identiques et indépendantes, alors la probabilité que l'événement $A$ soit réalisé $k$ fois exactement est $C_{n}^{k} p^{k} \left(1 - p\right)^{n - k}$ où $k \in \left\{0 ; 1 ; 2 ; . . . ; n\right\}$.
+
+### VI- Les variables aléatoires
+
+#### 6-1/ Introduction
+
+##### Définition 11
+
+Soit $\Omega$ l'univers d'une expérience aléatoire.
+
+Une variable aléatoire réelle définie sur $\Omega$ est une application $X$ définie sur $\Omega$ à valeurs dans $\mathbb{R}$.
+
+L'ensemble $X \left(\Omega\right)$ des valeurs prises par $X$ s'appelle le support de la variable aléatoire $X$.
+
+##### Remarques
+
+- Noter bien qu'une variable aléatoire est une application définie sur $\Omega$ et non une variable numérique.
+
+- Comme $\Omega$ est fini, il en est de même de son image par l'application $X$. En notant $n$ le cardinal de $X \left(\Omega\right)$, on écrira d'habitude $X \left(\Omega\right) = \left\{x_{1} , x_{2} , . . . . , x_{n}\right\}$. Dans la plupart des exemples concrets, on a $X \left(\Omega\right) \subset \mathbb{N}$, ou, plus rarement : $X \left(\Omega\right) \subset \mathbb{Z}$.
+
+- Pour insister sur l'importance des valeurs prises par $X$ et non sur les valeurs des antécédents, l'événement $\left\{\omega \in \Omega / X \left(\omega\right) = x\right\}$ sera noté tout simplement $\left(X = x\right)$ ou parfois $\left[X = x\right]$.
+
+De même, les événements $\left\{\omega \in \Omega / X \left(\omega\right) \leq x\right\}$ et $\left\{\omega \in \Omega / x ' < X \left(\omega\right) < x\right\}$ seront notés respectivement $\left(X \leq x\right)$ et $\left(x ' < X < x\right)$.
+
+#### 6-2/ Loi de probabilité d'une variable aléatoire
+
+##### Définition 12
+
+Soit $X$ une variable aléatoire définie sur un espace probabilisé fini $\left(\Omega ; P\right)$, et $X \left(\Omega\right)$ son support.
+
+On appelle loi de probabilité de $X$ (ou loi de $X$ ou distribution de $X$) l'ensemble des couples $\left(x_{i} , p_{i}\right)$ où $x_{i} \in X \left(\Omega\right)$ et $p_{i} = P \left(X = x_{i}\right)$.
+
+##### Remarque
+
+En pratique, pour déterminer la loi de probabilité d'une variable aléatoire $X$, on détermine les valeurs $x_{i}$ susceptibles d'être prises par $X$, puis les probabilités $p_{i} = P \left(X = x_{i}\right)$.
+
+On peut résumer les résultats obtenus sous forme d'un tableau donnant les probabilités des différents éléments de l'ensemble $X \left(\Omega\right)$ :
+
+| $x_{i}$ | $x_{1}$ | $x_{2}$ | ….. | $x_{n}$ |
+| $p_{i}$ | $p_{1}$ | $p_{2}$ | ….. | $p_{n}$ |
+
+Comme les événements $\left(X = x_{i}\right)$ où $i \in \left\{1 , 2 , . . . , n\right\}$ forment un système complet d'événements, alors : $\sum_{i = 1}^{n} p_{i} = 1$.
+
+#### 6-3/ Espérance mathématique - Variance - Écart-type
+
+##### Définition 13
+
+Soit $X$ une variable aléatoire définie sur un espace probabilisé fini $\left(\Omega ; P\right)$ telle que $X \left(\Omega\right) = \left\{x_{1} , x_{2} , . . . , x_{n}\right\}$ et $p_{i} = P \left(X = x_{i}\right)$ pour tout $i \in \left\{1 , 2 , . . . , n\right\}$.
+
+On appelle espérance mathématique de $X$ le nombre réel donné par la formule :
+
+$$E \left(X\right) = \sum_{i = 1}^{n} x_{i} p \left(X = x_{i}\right) = \sum_{i = 1}^{n} x_{i} p_{i}$$
+
+##### Définition 14
+
+Soit $X$ une variable aléatoire définie sur un espace probabilisé fini $\left(\Omega ; P\right)$ telle que $X \left(\Omega\right) = \left\{x_{1} , x_{2} , . . . , x_{n}\right\}$ et $p_{i} = P \left(X = x_{i}\right)$ pour tout $i \in \left\{1 , 2 , . . . , n\right\}$.
+
+On appelle variance mathématique de $X$ le nombre réel donné par la formule :
+
+$$V \left(X\right) = E \left[\left(X - E \left(X\right)\right)^{2}\right] = \sum_{i = 1}^{n} p_{i} \left(x_{i} - E \left(X\right)\right)^{2}$$
+
+La racine carrée de la variance est appelée écart-type de $X$, et on la note $\sigma \left(X\right)$.
+
+On a donc : $\sigma \left(X\right) = \sqrt{V \left(X\right)}$
+
+##### Proposition 7
+
+Soit $X$ une variable aléatoire définie sur un espace probabilisé fini $\left(\Omega ; P\right)$ telle que $X \left(\Omega\right) = \left\{x_{1} , x_{2} , . . . , x_{n}\right\}$ et $p_{i} = P \left(X = x_{i}\right)$ pour tout $i \in \left\{1 , 2 , . . . , n\right\}$.
+
+On a alors la formule suivante dite « formule de Koenig » :
+
+$$V \left(X\right) = E \left(X^{2}\right) - \left(E \left(X\right)\right)^{2} = \sum_{i = 1}^{n} p_{i} \left(x_{i}\right)^{2} - \left(E \left(X\right)\right)^{2}$$
+
+#### 6-4/ Fonction de répartition
+
+##### Définition 15
+
+Soit $X$ une variable aléatoire définie sur un espace probabilisé fini $\left(\Omega ; P\right)$.
+
+La fonction $F_{x}$ définie pour tout $x \in \mathbb{R}$ par $F_{x} \left(x\right) = P \left(X \leq x\right)$ est appelée la fonction de répartition de $X$.
+
+##### Remarques
+
+La définition 14 est justifiée car, pour tout réel $x$, $\left(X \leq x\right)$ est un événement, donc on peut calculer sa probabilité.
+
+La fonction de répartition $F_{x}$ est définie sur $\mathbb{R}$ et non seulement sur le support $X \left(\Omega\right)$ (ensemble des valeurs prises par $X$).
+
+### VII- La loi binomiale
+
+##### Définition 16
+
+Soit $X$ une variable aléatoire définie sur un espace probabilisé fini $\left(\Omega ; P\right)$, et $n \in \mathbb{N} \star$.
+
+On dit que $X$ suit la loi binomiale de paramètres $n$ et $p$ si on a :
+
+$X \left(\Omega\right) = \left\{0 , 1 , 2 , . . . . . , n\right\}$ et $P \left(X = k\right) = C_{n}^{k} p^{k} \left(1 - p\right)^{n - k}$ pour tout $k \in X \left(\Omega\right)$
+
+##### Remarques
+
+On a d'après la formule du binôme :
+
+$$\sum_{k = 0}^{n} P \left(X = k\right) = \sum_{k = 0}^{n} C_{n}^{k} p^{k} q^{n - k} = \left(p + q\right)^{n} = 1^{n} = 1$$
+
+Cela montre bien qu'il s'agit d'une loi de probabilité.
+
+Dans la pratique, on se donne un événement $A$ associé à une expérience aléatoire et qui se réalise avec la probabilité $p$. On répète cette expérience $n$ fois de manière indépendante. On désigne par $X$ la variable aléatoire réelle qui compte le nombre de fois où $A$ se réalise. Alors la variable $X$ suit une loi binomiale de paramètres $n$ et $p$.
+
+##### Proposition 8
+
+Si la variable aléatoire $X$ suit la loi de binomiale de paramètres $n$ et $p$, alors :
+
+$E \left(X\right) = n p$ et $V \left(X\right) = n p \left(1 - p\right)$
