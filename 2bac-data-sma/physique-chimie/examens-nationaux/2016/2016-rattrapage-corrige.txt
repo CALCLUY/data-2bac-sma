@@ -1,0 +1,386 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2016 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+2ème année Sciences Mathématiques — Physique-chimie
+Correction du sujet de l'examen national du Baccalauréat — Session de rattrapage : 2016
+KACHICHE MUSTAPHA - Madariss MARIA - TEMARA
+
+[NOTE : ce corrigé est un document de correction détaillée (et non les éléments de réponse officiels). Le texte d'origine est composé avec des formules en images ; les expressions ont été restituées en notation linéaire fidèle aux étapes du document.]
+
+## - Chimie -
+
+### Partie I : Etude de la pile aluminium – Zinc
+
+1- Calcul du quotient de réaction à l'état initial :
+
+Qri = [Zn2+]i³/[Al3+]i² = (4,5.10-2)³/(4,5.10-2)² = 4,5.10-2 = 10-1,3 > K = 10-90
+
+Conclusion : Le sens de la réaction spontanée est le sens inverse (2) ← ; où il y aura consommation de l'aluminium Al :
+
+2 Al(s) + 3 Zn2+(aq) → 2 Al3+(aq) + 3 Zn(s)
+
+2- Schéma conventionnel de la pile : L'aluminium s'oxyde à l'anode qui est le pôle négatif de cette pile.
+
+⊖ Al(s) / Al3+(aq) // Zn2+(aq) / Zn(s) ⊕
+
+3-1- La concentration des ions Aluminium :
+
+Tableau d'avancement :
+
+| Equation de la réaction | 2 Al(s) + 3 Zn2+(aq) → 2 Al3+(aq) + 3 Zn(s) | | | | Quantité de matière des e- échangés |
+| --- | --- | --- | --- | --- | --- |
+| Etats du système | Avancement x (mol) | ni(Al) | C2.V | ni(Al3+) = C1.V | ni(Zn) |
+| E. Initial | 0 | ni(Al) | C2.V | C1.V | 0 | |
+| E. Intermédiaire | x | ni(Al) − 2.x | C2.V − 3.x | C1.V + 2.x | ni(Zn) + 3x | n(e-) = 6.x |
+| E. Final | xm | ni(Al) − 2.xm | C2.V − 3.xm | C1.V + 2.xm | ni(Zn) + 3xm | n(e-) = 6.xm |
+
+Le réactif limitant :
+
+- Si l'aluminium est le réactif limitant, alors : ni(Al) − 2x = 0 ⇒ m0/M(Al) − 2x = 0 ⇒ x = m0/(2.M(Al)) = 1,35/(2×27) = 2,5.10-2 mol
+
+- Si l'ion Zinc est le réactif limitant, alors : C2.V − 3x = 0 ⇒ x = C2.V/3 = 4,5.10-2×0,1/3 = 1,5.10-3 mol
+
+On constate que : 1,5.10-3 mol < 2,5.10-2 mol, donc l'ion Zinc est le réactif limitant.
+
+⇒ [Al3+]f = C1 + 2.xm/V = 4,5.10-2 + 2×1,5.10-3/0,1 ≈ 7,5.10-2 mol.L-1
+
+3-2- La durée de fonctionnement de la pile :
+
+La quantité d'électricité qui a circulé pendant la durée Δt est : Q = I.Δt = 6.xm × F
+
+alors : Δt = 6.F.xm/I = 6×9,65.10^4×1,5.10-3/(10.10-3) = 8,685.10^4 s = 24 h 7 min 30 s
+
+### Partie II : Synthèse d'un ester, et réaction de benzoate de sodium avec un acide
+
+1- Etude de la synthèse d'un ester :
+
+1-1- Choix du chauffage à reflux : C'est d'augmenter la vitesse de réaction, et éviter les pertes des quantités de matière des espèces chimiques.
+
+1-2- Equation chimique :
+
+C6H5COOH + CH3OH ⇄ C6H5COOCH3 + H2O
+
+1-3-1- Le bon choix est : c) La vitesse est maximale au début de la réaction.
+
+1-3-2- Définition : Le temps de demi-réaction est la durée au bout de laquelle l'avancement de la réaction prend la moitié de sa valeur atteinte à l'équilibre du système chimique ; c'est-à-dire : x(t1/2) = xf/2
+
+Détermination graphique de x(t1/2) : Graphiquement ; xf = 84 mmol ⇒ x = 42 mmol ⇒ t1/2 = 6 min
+
+1-3-3- Le rendement de la réaction :
+
+Par définition : r = nexp(ester)/nthéorique(ester)
+
+Graphiquement on a : nexp(ester) = xf = 84 mmol
+
+nthéorique(ester) = xmax :
+
+- Si l'acide est le réactif limitant : ni(acide) − x = 0 ⇒ x = m/M(ac) = 12,2/122 = 0,1 mol
+- Si l'alcool est le réactif limitant : ni(alcool) − x = 0 ⇒ x = ρ.V/M(al) = 0,8×8/32 = 0,2 mol
+
+Donc nthéorique(ester) = xmax = 0,1 mol
+
+Finalement : r = 84.10-3/0,1 = 0,84 = 84%
+
+2- Etude de la réaction de benzoate de sodium avec un acide :
+
+2-1- Equation chimique :
+
+C6H5COO-(aq) + CH3COOH ⇄ C6H5COOH + CH3COO-(aq)
+
+2-2- La constante d'équilibre :
+
+K = KA(CH3COOH/CH3COO-)/KA(C6H5COOH/C6H5COO-) = 10^(pKA1 − pKA2)
+
+A.N : K = 10^(4,2−4,8) ≈ 0,25
+
+2-3- Expression de τ :
+
+K = xf²/((C1.V1 − xf)²) ⇒ xf/(C1.V1 − xf) = √K ⇒ xf = C1V1.√K/(1 + √K) ; Or xm = C1.V1 ;
+
+alors τ = xf/xm = √K/(1 + √K) = √0,25/(1 + √0,25) ≈ 0,33
+
+2-4- Expression du pH :
+
+pH = pKA1 + log([C6H5COO-]/[C6H5COOH]) = pKA1 + log((xm − xf)/xf) ... = pKA1 + log((1 − τ)/τ)
+
+A.N : pH = 4,2 + log((1 − 0,33)/0,33) ≈ 3,9
+
+[NOTE : l'expression finale telle qu'imprimée dans le document est pH = pKA1 + log((1−τ)/τ) ; l'application numérique donnée aboutit à pH ≈ 3,9.]
+
+## - Physique -
+
+### LES ONDES : Propagation d'une onde ultrasonore
+
+1- Détermination de la vitesse dans l'air :
+
+1-1- Le bon choix est : b) Les ondes ultrasonores ne se propagent pas dans le vide.
+
+1-2- La fréquence N des ondes : N = 1/T ; A.N : N = 1/(2,5×10.10-6) = 4.10^4 Hz = 40 kHz
+
+1-3- Vérification de la vitesse dans l'air : On a d = k.λ avec k = 4 et λ = Va/N d'où : Va = d.N/k
+
+A.N : Va = 3,4.10-2×40000/4 = 340 m.s-1
+
+2- Détermination de la vitesse dans l'eau de mer :
+
+2-1- Expression de Δt :
+
+- La vitesse du son est plus grande dans l'eau que dans l'air ;
+- Si Δt est le retard temporel des ondes reçues dans l'air par rapport à celles reçues dans l'eau, alors :
+
+Δt = Δtair − Δteau = ℓ/Va − ℓ/Ve ⇒ Δt = (1/Va − 1/Ve).ℓ … (1)
+
+2-2- Détermination de la vitesse Ve :
+
+La courbe de la figure 4 est celle d'une fonction linéaire d'équation : Δt = K.ℓ … (2) ; K est le coefficient directeur : K = Δ(Δt)/Δℓ
+
+En comparant (1) et (2) : 1/Va − 1/Ve = K
+
+On obtient finalement : Ve = Va/(1 − K.Va)
+
+A.N : Ve = 340/(1 − (2,5.10-3/1,01)×340) ≈ 1496 m.s-1
+
+### L'ELECTRICITE
+
+#### Partie I : Etude du dipôle RC et du circuit LC
+
+1- Etude du dipôle RC :
+
+1-1- Expression de la capacité Ce :
+
+La loi d'additivité des tensions s'écrit : u = uc1 + uc2 = q/C1 + q/C2 = q.(C1 + C2)/(C1.C2) … (1)
+
+La tension aux bornes du condensateur équivalent s'écrit : u = q/Ce … (2)
+
+En comparant (1) et (2) : Ce = C1.C2/(C1 + C2).
+
+1-2- Equation différentielle vérifiée par la tension u2(t) :
+
+D'après la figure 1 : uR + u1 + u2 = E … (1)
+
+En respectant les conventions : u1 = q/C1 ; u2 = q/C2 ; uR = R.i = R.dq/dt = R.C2.du2/dt
+
+La relation (1) devient : R.C2.du2/dt + (C2/C1).u2 + u2 = E, ou bien R.C2.du2/dt + u2.(1 + C2/C1) = E
+
+Ce qui donne : du2/dt + u2.(C1 + C2)/(R.C1.C2) = E/(R.C2) ; finalement : du2/dt + u2/(R.Ce) = E/(R.C2)
+
+1-3- Expression de A et α :
+
+On porte la solution u2(t) = A.(1 − e^(−α.t)) dans l'équation différentielle :
+
+A.α.e^(−αt) + (A/(R.Ce)).(1 − e^(−αt)) = E/(R.C2)
+
+⇒ A = Ce.E/C2 = C1.E/(C1 + C2) et α = 1/(R.Ce) = (C1 + C2)/(R.C1.C2)
+
+1-4-1- a) valeur de E :
+
+A t = 0 ; l'équation différentielle s'écrit : (du2/dt)t=0 + u2(0)/(R.Ce) = E/(R.C2), avec u2(0) = 0
+
+On trouve alors : E = R.C2.(du2/dt)t=0 ; A.N : E = 3.10^3×2.10-6×(4/(2.10-3)) = 12 V
+
+1-4-1- b) valeurs de u1 et u2 en régime permanent :
+
+D'après le graphe 2, lorsque t → ∞ alors u2∞ = 8 V
+
+D'après le graphe 2, lorsque t → ∞ alors uR∞ = 0 ; et en utilisant uR∞ + u1∞ + u2∞ = E
+
+On obtient : u1∞ = E − u2∞ − uR∞ ; A.N : u1∞ = 12 − 8 − 0 = 4 V
+
+1-4-2- Montrons que C1 = 4 μF :
+
+D'après le graphe 2, on trouve la constante τ = 4 ms = 4.10-3 s
+
+Son expression est : τ = R.Ce = R.C1.C2/(C1 + C2) donc : τ.(C1 + C2) = R.C1.C2
+
+ou bien : C1 = τ.C2/(R.C2 − τ) ; A.N : C1 = 4.10-3×2.10-6/(3.10^3×2.10-6 − 4.10-3) = 4.10-6 F = 4 μF
+
+2- Etude des oscillations dans le circuit LC :
+
+2-1- Equation différentielle vérifiée par la tension uL(t) :
+
+Loi d'additivité des tensions : u2 + uL = 0 … (1)
+
+En dérivant (1) : du2/dt + duL/dt = 0 … (2)
+
+En convention récepteur : u2 = q/C2 … (3) avec i = dq/dt
+
+Des relations (2) et (3) : (1/C2).dq/dt + duL/dt = 0 ⇒ i/C2 + duL/dt = 0 … (4)
+
+En dérivant (4) : (1/C2).di/dt + d²uL/dt² = 0 or uL = L.di/dt
+
+Finalement on obtient : d²uL/dt² + uL/(L.C2) = 0
+
+2-2-1- L'énergie totale du circuit LC2 :
+
+ETot = Eéle + Emag
+
+Eéle = (1/2).C2.u2² = (1/2).C2.uL² ; Emag = (1/2).L.i²(t) = (L.C2²/2).(duL/dt)² car d'après (4) : i = −C2.duL/dt
+
+Donc ETot = (1/2).C2.uL² + (L.C2²/2).(duL/dt)² : cette énergie est constante, on la calcule à t = 0 :
+
+ETot = (1/2).C2.uL²(0) + (L.C2²/2).(duL/dt)²(t=0)
+
+et d'après le graphe de la figure 3 : uL(0) = −8 V et (duL/dt)t=0 = 0
+
+A.N : ETot = (1/2)×2.10-6×(−8)² = 6,4.10-5 J = 64 μJ
+
+2-2-2- Calcul de l'énergie magnétique à t = 2,7 ms :
+
+Emag = ETot − Eéle = ETot − (1/2).C2.uL²
+
+Donc Emag(2,7 ms) = 6,4.10-5 − (1/2)×2.10-6×(4,8)² ≈ 4,1.10-5 J = 41 μJ
+
+#### Partie II : Etude de la qualité d'une modulation d'amplitude
+
+1- Expression du taux de modulation m :
+
+On a la tension de sortie : u(t) = A.[(m/Sm).s(t) + 1].cos(2πfp.t) avec s(t) = Sm.cos(2πfS.t)
+
+Alors : u(t) = A.(m.cos(2πfS.t) + 1).cos(2πfp.t) ; d'où l'amplitude est : U(t) = A.(m.cos(2πfS.t) + 1)
+
+- Si cos(2πfS.t) = 1 ⇒ Umax = A.(m + 1) … (1)
+- Si cos(2πfS.t) = −1 ⇒ Umin = A.(−m + 1) … (2)
+
+En faisant le rapport (1)/(2) : Umax/Umin = (1 + m)/(1 − m) ⇒ Umax.(1 − m) = Umin.(1 + m)
+
+Après le calcul on aboutit à la relation : m = (Umax − Umin)/(Umax + Umin)
+
+2- Détermination de fP, fS et m : D'après le graphe de la figure 5 :
+
+- Tp = 1,6×20.10-6 s ⇒ fp = 1/Tp = 1/(1,6×20.10-6) = 1,6.10^5 Hz = 160 kHz
+- TS = 5×20.10-6 s ⇒ fS = 1/TS = 1/(5×20.10-6) = 10^4 Hz = 10 kHz
+- m = (3×1 − 1×1)/(3×1 + 1×1) = 0,5
+
+Conclusion : On constate que les deux conditions sont réalisées : m = 0,5 < 1 et fS = 10 kHz << fP = 160 kHz
+
+Donc la modulation d'amplitude dans ce cas est bonne.
+
+### LA MECANIQUE
+
+#### PARTIE I : Etude de l'influence des champs électrique et magnétique sur des électrons
+
+1- Première expérience :
+
+1-1- Equation de la trajectoire :
+
+- Système à étudier : {Un électron (m, e)}
+- Repère d'étude R(O ; i⃗, j⃗, k⃗) supposé galiléen ;
+- Bilan des forces extérieures :
+  - Action de la force électrique : F⃗e = −e.E⃗
+  - L'intensité du poids de l'électron est négligeable devant celle de la force électrique.
+
+- La 2ème loi de Newton donne : F⃗e = m.a⃗G ou bien m.a⃗G = −e.E⃗
+
+- Projection sur Ox et Oy :
+
+m.ax = 0 (car Ex = 0) ⇒ ax = 0 avec ax = dvx/dt
+m.ay = −e.Ey = e.U/ℓ (car E = U/ℓ) ⇒ ay = e.U/(m.ℓ) avec ay = dvy/dt
+
+- Par intégration avec (vx = v0 et vy = 0) :
+
+vx = v0 avec vx = dx/dt ; vy = (e.U/(m.ℓ)).t avec vy = dy/dt
+
+- Par intégration avec (x0 = 0 et y0 = 0) :
+
+x(t) = v0.t ; y(t) = (e.U/(2.m.ℓ)).t²
+
+alors t = x/v0 et y(x) = (e.U/(2.m.ℓ.v0²)).x²
+
+ce qui donne l'équation de la trajectoire : y(x) = e.U.x²/(2.m.ℓ.v0²)
+
+1-2- Déviation électrique O'M :
+
+tan β = O'M/IO' = HS/IH ⇒ O'M/(D − d/2) = 2.y(d)/d ⇒ O'M = (e.U.d/(m.ℓ.v0²))×(D − d/2)
+
+avec D = 30 cm >> d = 6 cm (d/2 = 3 cm), on obtient : O'M ≈ e.U.D.d/(m.ℓ.v0²)
+
+2- Deuxième expérience :
+
+2-1- Sens du vecteur champ magnétique B⃗ :
+
+Les électrons frappent l'écran en O' ; pour cela la force magnétique F⃗m est verticale vers le bas, or F⃗m = −e.v⃗0 ∧ B⃗ = e.B⃗ ∧ v⃗0 ; donc le trièdre (F⃗m, B⃗, v⃗0) est direct, et le vecteur B⃗ sera porté par l'axe Oz dans le sens contraire de k⃗ ; B⃗ = −B.k⃗ (symbole ⊗).
+
+2-2- Expression de la vitesse des électrons :
+
+Fm = Fe ⇒ −e.v⃗0 ∧ B⃗ = −e.E⃗ ⇒ v0.B = E ⇒ v0 = E/B
+
+3- Expression du rapport e/m :
+
+En utilisant la relation précédente O'M ≈ e.U.D.d/(m.ℓ.v0²) avec v0 = E/B = U/(ℓ.B)
+
+On écrira : e/m = O'M.U/(ℓ.D.d.(U/(ℓ.B))²) ou bien e/m = O'M.ℓ/(U.D.d.B²) … (forme du document : e/m = O'M.ℓ/(D.d.B².U) × U²/U)
+
+A.N : e/m = 5,4.10-2×2.10-2/(30.10-2×6.10-2×1200×(1,01.10-3)²) ≈ 1,76.10^11 C.kg-1
+
+#### PARTIE II : Etude du mouvement d'un pendule élastique
+
+1- Les frottements sont négligeables :
+
+1-1- Détermination de l'allongement Δℓ0 = Léq − L0 :
+
+A l'équilibre : T⃗0 + P⃗ = 0⃗, et par projection sur l'axe vertical Oz : T0z + Pz = 0, alors −k.Δℓ0 + m.g = 0 d'où Δℓ0 = m.g/k
+
+1-2- Equation différentielle que vérifie la côte z(t) :
+
+- Système : {corps S} ; Repère R(O ; k⃗) supposé galiléen ;
+- Bilan des forces : poids P⃗ ; action du ressort T⃗
+- 2ème loi de Newton : P⃗ + T⃗ = m.a⃗G ;
+- Projection sur Oz : P − T = m.az ⇒ m.g − K.(Δℓ0 + z) = m.z̈
+
+⇒ (m.g − K.Δℓ0 = 0) ⇒ z̈ + (K/m).z = 0 … (1)
+
+1-3- Valeur de K et V0z :
+
+Valeur de la raideur K :
+
+- La solution de cette équation est : z(t) = zm.cos((2π/T0).t + φ) et z̈(t) = −(2π/T0)².zm.cos((2π/T0).t + φ) = −(2π/T0)².z(t) … (2)
+
+- En comparant (1) et (2) : K/m = (2π/T0)², alors K = m.(2π/T0)²
+
+A.N : K = 0,2×(2π/0,4)² = 50 N.m-1
+
+Valeur de la vitesse initiale V0z :
+
+ż(t) = −zm.(2π/T0).sin((2π/T0).t + φ) et V0z = ż(0) = −zm.(2π/T0).sin(φ) < 0 (voir le graphe) … (3)
+
+On a également : z(0) = zm.cos(φ) ⇒ cos²(φ) = (z0/zm)² ⇒ sin(φ) = +√(1 − (z0/zm)²) (car sin(φ) > 0)
+
+Finalement : V0z = −(2π/T0).zm.√(1 − (z0/zm)²) ou bien V0z = −(2π/T0).√(zm² − z0²)
+
+A.N : V0z = −(2π/0,4).√((4.10-2)² − (2.10-2)²) ≈ −0,54 m.s-1
+
+2- Les frottements ne sont pas négligeables :
+
+2-1- La correspondance :
+
+- La courbe (1) correspond au régime pseudo-périodique ;
+- La courbe (2) correspond au régime apériodique.
+
+2-2-1- Expression de l'énergie potentielle Ep :
+
+L'énergie potentielle totale est : Ep = Epp + Epe … (*)
+
+L'énergie potentielle de pesanteur est : Epp = −m.g.z + C ; Or en z = 0 on a Epp = 0 donc C = 0 ; d'où Epp = −m.g.z … (1)
+
+L'énergie potentielle élastique est : Epe = (1/2).K.Δℓ² + C' ; Or lorsque Δℓ = 0 on a Epe = 0 donc C' = 0 ; d'où Epe = (1/2).K.Δℓ² … (2)
+
+On porte (1) et (2) dans (*) : Ep = −m.g.z + (1/2).K.Δℓ², avec Δℓ = Δℓ'0 + z
+
+On écrira : Ep = −m.g.z + (1/2).K.(Δℓ'0 + z)² = (−m.g + K.Δℓ'0).z + (1/2).K.z² + (1/2).K.Δℓ'0² avec (−m.g + K.Δℓ'0) = 0 (équilibre)
+
+Finalement : Ep = (1/2).K.z² + (1/2).K.Δℓ'0²
+
+2-2-2- Calcul de la variation de l'énergie mécanique ΔEm :
+
+Dans le cas du régime pseudo-périodique : ΔEm = ΔEp + ΔEc
+
+⇒ ΔEm = (1/2).K.(z2² − z1²) + (1/2).m.(ż2² − ż1²) avec ż1 = ż2 = 0
+
+⇒ ΔEm = (1/2).K.(z2² − z1²)
+
+A.N : ΔEm = (1/2)×50×((2,2.10-2)² − (3.10-2)²) ≈ −1,04.10-2 J
