@@ -1,0 +1,312 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2017 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية - خيار فرنسية — 2017
+RS 03 F
+المادة: الفيزياء والكيمياء
+الشعبة أو المسلك: شعبة العلوم الرياضية (أ) و(ب) – خيار فرنسية
+مدة الإنجاز: 4
+المعامل: 7
+المركز الوطني للتقويم والامتحانات والتوجيه
+
+L'usage de la calculatrice scientifique non programmable est autorisé.
+
+Le sujet comporte 4 exercices : un exercice de chimie et trois exercices de physique.
+
+Chimie (7 points):
+- Hydrolyse d'un ester et étude d'une solution aqueuse d'acide propanoïque.
+- Etude de la pile Cadmium – Argent
+
+Physique (13 points):
+- Les transformations nucléaires (2,25 points) :
+  - Etude de l'activité d'un échantillon radioactif.
+- L'électricité (5,25 points):
+  - Charge et décharge d'un condensateur.
+  - Oscillations forcées dans le circuit (RLC).
+- La mécanique (5,5 points):
+  - Etude du mouvement de l'oscillateur (corps solide – ressort).
+  - Détermination du rayon de l'orbite de la Lune autour de la Terre.
+
+## Chimie (7 points) :
+
+Les parties I et II sont indépendantes
+
+### Partie I : Hydrolyse d'un ester et étude d'une solution aqueuse d'acide propanoïque
+
+Les acides carboxyliques sont des substances chimiques que l'on trouve dans des composés organiques naturels ou synthétiques. Ces acides sont utilisés dans la production de diverses substances comme les esters, caractérisés par leurs arômes, qui sont exploités dans différents domaines comme l'industrie pharmaceutique et l'agroalimentaire…
+
+On s'intéresse dans cette partie à l'étude de l'hydrolyse d'un ester E et à l'étude d'une solution aqueuse d'acide propanoïque (C2H5COOH).
+
+Données :
+- Les masses molaires : M(C2H5COOH) = 74 g.mol-1 , M(C2H5OH) = 46 g.mol-1 , M(E) = 102 g.mol-1.
+- pKA(C2H5COOH(aq) / C2H5COO-(aq)) = 4,9
+
+1- Etude de l'hydrolyse d'un ester :
+
+1-1- Dans des conditions expérimentales déterminées, on fait réagir n1 = 0,1 mol d'un ester E avec n2 = 0,1 mol d'eau. Il se forme l'acide propanoïque et l'éthanol (C2H5OH).
+
+1-1-1- (0,5) Ecrire la formule semi-développée de l'ester E et donner son nom.
+
+1-1-2- (0,75) Déterminer la masse de l'acide carboxylique formé à l'équilibre sachant que la constante d'équilibre associée à l'équation modélisant cette transformation est K = 0,25.
+
+1-2- On réalise l'hydrolyse basique d'une quantité de l'ester E de masse m0 = 10,2 g en utilisant une solution aqueuse d'hydroxyde de sodium Na+(aq) + HO-(aq) en excès. On obtient une masse mexp = 4,2 g de l'alcool.
+
+1-2-1- (0,25) Ecrire l'équation modélisant la réaction qui se produit.
+
+1-2-2- (0,5) Déterminer le rendement r de cette réaction.
+
+2- Etude d'une solution aqueuse d'acide propanoïque :
+
+2-1- On dispose d'une solution aqueuse d'acide propanoïque de concentration molaire C et de volume V. La mesure du pH de la solution donne la valeur pH = 2,9.
+
+2-1-1- (0,25) Ecrire l'équation modélisant la réaction de l'acide propanoïque avec l'eau.
+
+2-1-2- (0,25) Exprimer le pH de la solution en fonction du pKA du couple C2H5COOH(aq) / C2H5COO-(aq) et de la concentration des deux espèces chimiques C2H5COOH et C2H5COO- en solution.
+
+2-1-3- (0,25) Montrer que le taux d'avancement final de la réaction s'écrit sous la forme : τ = 1/(1 + 10^(pKA − pH)) et calculer sa valeur.
+
+2-2- On prend un volume VA d'une solution aqueuse d'acide propanoïque de concentration molaire CA auquel on ajoute progressivement une solution aqueuse (SB) d'hydroxyde de sodium de concentration molaire CB. On suit les variations du pH du mélange réactionnel en fonction du volume VB ajouté de la solution (SB).
+
+A partir des mesures obtenues, on a tracé la courbe ci-contre représentant les variations du pH du mélange réactionnel en fonction de log(VB/(VBE − VB)) avec VB < VBE où VBE est le volume de la solution d'hydroxyde de sodium ajouté à l'équivalence.
+
+[Figure : pH en fonction de log(VB/(VBE − VB)).]
+
+2-2-1- (0,5) Ecrire l'équation modélisant la réaction du dosage.
+
+2-2-2- (0,5) Trouver, pour un volume VB ajouté de la solution (SB), l'expression du rapport [C2H5COO-(aq)]/[C2H5COOH(aq)] en fonction de VB et VBE.
+
+2-2-3- (0,5) Retrouver la valeur de pKA(C2H5COOH(aq) / C2H5COO-(aq)).
+
+### Deuxième partie : Etude de la pile Cadmium – Argent
+
+On étudie la pile Cadmium – Argent qui fait intervenir les deux couples ox/red : Ag+(aq) / Ag(s) et Cd2+(aq) / Cd(s).
+
+Données :
+- Le faraday : 1F = 9,65.104 C.mol-1
+- La constante d'équilibre associée à l'équation de la réaction :
+
+2Ag+(aq) + Cd(s) ⇄(1)/(2) 2Ag(s) + Cd2+(aq)
+
+est K = 5.1040 à 25 °C.
+- La masse molaire du Cadmium : M(Cd) = 112,4 g.mol-1,
+- La partie immergée de l'électrode consommable est en excès.
+
+On réalise cette pile, en plongeant une lame d'argent dans un bécher contenant un volume V = 250 mL d'une solution aqueuse de nitrate d'argent Ag+(aq) + NO3-(aq) de concentration molaire initiale C1 = [Ag+(aq)]i = 0,400 mol.L-1, et une lame de cadmium dans un autre bécher contenant un volume V = 250 mL d'une solution aqueuse de nitrate de cadmium Cd2+(aq) + 2NO3-(aq) de concentration molaire initiale C2 = [Cd2+(aq)]i = 0,200 mol.L-1. On relie ensuite les deux solutions par un pont salin.
+
+On branche entre les électrodes de la pile un conducteur ohmique monté en série avec un ampèremètre et un interrupteur.
+
+1- (0,25) Choisir la proposition juste parmi les affirmations suivantes :
+a- Les transformations se produisant dans les piles sont forcées.
+b- Le pôle positif de la pile est l'électrode d'argent.
+c- Le sens spontané d'évolution du système chimique constituant la pile est le sens (2) de l'équation de la réaction.
+d- L'oxydation se produit au niveau de la cathode.
+
+2- On ferme le circuit à un instant choisi comme origine des dates (t = 0). Un courant, d'intensité I = 215 mA considérée constante, circule alors dans le circuit.
+
+2-1- (0,5) Exprimer, à un instant t, le quotient de réaction Qr en fonction de l'avancement x de la réaction.
+
+2-2- (0,5) Calculer Qr à l'instant t = 10 h.
+
+2-3- (0,5) Calculer Δm, la variation de la masse de l'électrode de cadmium entre l'instant t = 0 et l'instant où la pile est usée.
+
+## Physique (13 points) :
+
+### Transformations nucléaires (2,25 points) :
+
+#### Etude de l'activité d'un échantillon radioactif
+
+On étudie dans cet exercice la désintégration d'un échantillon radioactif du cobalt ayant une fiche technique portant les indications suivantes :
+- Cobalt 60 : 60/27 Co.
+- Masse molaire atomique : M = 60 g.mol-1.
+- Radioactivité : β−.
+- Constante de temps : τ = 2,8.103 jours.
+
+Données :
+- Constante d'Avogadro NA = 6,02.1023 mol-1 ;
+- Une année solaire : 1 an = 365,25 jours ;
+- Energie de liaison du nucléide A/Z X : El = 588,387 MeV ;
+- m(60Co) = 59,8523 u ;
+- m(0/-1 e) = 5,486.10-4 u ;
+- m(1/0 n) = 1,00866 u ; m(1/1 p) = 1,00728 u ;
+- 1 u = 931,494 MeV.c-2.
+
+1- (0,25) Choisir la proposition juste parmi les propositions suivantes :
+a- La constante radioactive a la dimension du temps.
+b- L'activité d'un échantillon s'exprime en seconde.
+c- Pour les noyaux lourds et selon la courbe d'Aston, plus un noyau est lourd, moins il est stable.
+d- Le défaut de masse s'exprime en MeV.
+
+2- (0,25) Définir la radioactivité β−.
+
+3- (0,75) Le noyau issu de la désintégration de 60/27 Co est A/Z X. En se basant sur les énergies de masse, calculer en MeV l'énergie libérée par la réaction de désintégration du 60/27 Co.
+
+4- (0,75 / 0,5) La masse initiale de l'échantillon radioactif à l'instant de sa réception par un laboratoire spécialisé est m0 = 50 mg. On considère l'instant de réception de cet échantillon comme origine des dates (t = 0).
+
+La mesure de l'activité de l'échantillon étudié à un instant t1 donne la valeur a1 = 5,18.1011 Bq.
+
+Montrer que t1 = τ.ln(NA.m0/(τ.M.a1)). Calculer, en année, sa valeur.
+
+### L'électricité (5,25 points)
+
+Cet exercice se propose d'étudier :
+- la charge d'un condensateur portant une charge initiale,
+- les oscillations libres dans un circuit (RLC) série,
+- les oscillations forcées dans un circuit (RLC) série.
+
+#### I- Charge et décharge d'un condensateur
+
+On réalise le montage expérimental représenté sur la figure 1 comportant :
+- un générateur de tension G de f.e.m. E = 8 V,
+- deux conducteurs ohmiques de résistances R et R0 = 30 Ω,
+- un condensateur de capacité C = 2,5 μF, dont la tension initiale à ses bornes est uc = U0 avec 0 < U0 < E,
+- un interrupteur K,
+- une bobine d'inductance L = 0,5 H et de résistance r = 7 Ω.
+
+[Figure 1 : G, K positions (1) et (2), R, C (uC), bobine (L, r), R0, courant i, E. Figure 2 : i(mA) en fonction de t(ms) avec la tangente (T) à t = 0 ; repères 1, 2, 3, 4.]
+
+1- Charge du condensateur :
+
+A un instant choisi comme origine des dates (t = 0), on place l'interrupteur K en position (1). Un courant d'intensité i(t) circule alors dans le circuit.
+
+La courbe de la figure 2 représente l'évolution de i(t) en fonction du temps et (T) est la tangente à la courbe à t = 0.
+
+1-1- (0,5) Etablir l'équation différentielle vérifiée par l'intensité de courant i(t).
+
+1-2- (0,5) Déterminer la résistance R du conducteur ohmique.
+
+1-3- (0,5) Déterminer U0.
+
+1-4- (0,5) Trouver, en fonction de C, E et U0, l'expression de l'énergie électrique Eél reçue par le condensateur pendant la durée du régime transitoire. Calculer sa valeur.
+
+2- Oscillations libres dans un circuit (RLC) :
+
+Quand le régime permanent est établi, on bascule l'interrupteur K en position (2) à un instant choisi comme une nouvelle origine des dates (t = 0).
+
+2-1- (0,5) En se basant sur l'expression de la puissance électrique, établir l'expression de l'énergie magnétique Em(t) emmagasinée dans la bobine à un instant de date t en fonction de L et de i(t).
+
+2-2- (0,5) Trouver l'expression de dEt(t)/dt en fonction de r, R0 et i(t) où Et(t) désigne l'énergie électrique totale du circuit.
+
+2-3- (0,5) L'étude expérimentale montre que le régime des oscillations obtenu est pseudopériodique et que la tension aux bornes du conducteur ohmique prend une valeur maximale uR0(t1) = 0,44 V à un instant t = t1.
+Déterminer l'énergie E dissipée dans le circuit entre les instants t = 0 et t1.
+
+#### II- Oscillations forcées dans le circuit (RLC)
+
+On réalise le montage schématisé sur la figure 3 comportant :
+- un générateur de basse fréquence (GBF),
+- une bobine d'inductance L0 et de résistance r0,
+- le conducteur ohmique de résistance R0 = 30 Ω,
+- le condensateur de capacité C = 2,5 μF.
+
+Le générateur délivre une tension alternative sinusoïdale u(t) = Um.cos(2πNt) de fréquence N réglable. Un courant d'intensité i(t) = Im.cos(2πNt + φ) circule alors dans le circuit.
+
+On fait varier la fréquence N de la tension u(t) en gardant sa tension maximale Um constante. L'étude expérimentale a permis de tracer les deux courbes représentées sur les figures 4 et 5 où Z est l'impédance du circuit et Im est l'intensité maximale du courant.
+
+[Figure 3 : GBF, R0, bobine (L0, r0), C, bornes A et B. Figure 4 : Im(mA) en fonction de N(Hz) ; repères 50 et 100. Figure 5 : Z(Ω) en fonction de N(Hz).]
+
+1- (0,5) Choisir l'affirmation juste parmi les propositions suivantes :
+a- Le générateur (GBF) joue le rôle du résonateur.
+b- Les oscillations du circuit sont libres.
+c- cos φ représente le coefficient de puissance.
+d- L'expression du coefficient de qualité est Q = ΔN/N0.
+
+2- (0,75) Déterminer la valeur de Um, de L0 et celle de r0.
+
+3- (0,5) Déterminer la valeur de la puissance électrique moyenne consommée dans le circuit à la résonance.
+
+### Mécanique (5,5 points) :
+
+Les parties I et II sont indépendantes
+
+#### Partie I : Etude du mouvement de l'oscillateur (corps solide – ressort)
+
+On étudie dans cette partie le mouvement d'un oscillateur mécanique élastique dans deux situations :
+- l'oscillateur est horizontal,
+- l'oscillateur est vertical.
+
+L'oscillateur mécanique étudié est modélisé par un système (solide-ressort) constitué d'un solide (S) de masse m et d'un ressort à spires non jointives, de masse négligeable et de raideur K.
+
+On note T0 la période propre de cet oscillateur.
+
+On étudie le mouvement du centre d'inertie G du solide (S) dans un repère lié à un référentiel terrestre considéré galiléen.
+
+On néglige les frottements et on prend π2 = 10.
+
+1- Etude de l'oscillateur mécanique horizontal :
+
+Le ressort est horizontal, une de ses extrémités est fixe. On accroche à son autre extrémité le solide (S). Ce solide peut glisser sur le plan horizontal.
+
+On repère la position de G à un instant t par l'abscisse x sur l'axe (O, i⃗). A l'équilibre, le centre d'inertie G du solide coïncide avec l'origine O du repère (figure 1).
+
+On écarte (S) de sa position d'équilibre et on le lâche sans vitesse initiale à un instant choisi comme origine des dates (t = 0).
+
+La courbe de la figure 2 représente l'évolution au cours du temps de l'accélération ax du centre d'inertie G.
+
+[Figure 1 : ressort horizontal, solide (S), axe (O, i⃗), abscisse x, point G. Figure 2 : ax(m.s-2) en fonction de t(s).]
+
+1-1- (0,25) Etablir, en appliquant la deuxième loi de Newton, l'équation différentielle vérifiée par l'abscisse x(t).
+
+1-2- (0,75) La solution de l'équation différentielle s'écrit sous la forme : x(t) = xm.cos((2π/T0).t + φ).
+Déterminer la valeur de xm et celle de φ.
+
+2- Etude de l'oscillateur mécanique vertical :
+
+On fixe maintenant le ressort étudié comme l'indique la figure 3 ; l'une des deux extrémités du ressort est liée au solide (S) et l'autre est fixée à un support.
+
+On repère la position de G à un instant t par la côte z sur l'axe (O, k⃗). A l'équilibre, le centre d'inertie G du solide coïncide avec l'origine O du repère R(O, k⃗) (figure 3).
+
+On écarte, verticalement vers le bas, le corps (S) de sa position d'équilibre stable puis on le libère sans vitesse initiale à un instant choisi comme origine des dates (t = 0). L'oscillateur effectue alors un mouvement oscillatoire selon l'axe (Oz).
+
+On choisit comme référence (Epp = 0) de l'énergie potentielle de pesanteur Epp le plan horizontal auquel appartient le point O et comme référence (Epe = 0) de l'énergie potentielle élastique Epe l'état où le ressort n'est pas déformé.
+
+[Figure 3 : ressort vertical, état d'équilibre, solide (S), G, axe (O, k⃗), côte z. Figure 4 : Ep(mJ) en fonction de z(cm).]
+
+2-1- (0,25) Déterminer, à l'équilibre, l'expression de l'allongement Δℓ0 = ℓ − ℓ0 du ressort en fonction de m, K et de l'intensité de la pesanteur g, avec ℓ la longueur du ressort à l'équilibre et ℓ0 sa longueur à vide.
+
+2-2- Montrer qu'à un instant t, l'expression de l'énergie potentielle totale Ep de l'oscillateur s'écrit sous la forme : Ep = A.z2 + B où A et B sont deux constantes.
+
+2-3- La courbe de la figure 4 représente les variations de l'énergie potentielle totale en fonction de la côte z.
+
+2-3-1- Trouver la valeur de Δℓ0 et celle de K.
+
+2-3-2- Trouver, en se basant sur la variation de l'énergie potentielle totale Ep, le travail de la force de rappel appliquée par le ressort sur le corps (S) lorsque G se déplace de la position de côte z1 = 0 à la position de côte z2 = 1,4 cm.
+
+#### Partie II : Détermination du rayon de l'orbite de la Lune autour de la Terre
+
+Le but de cette partie est de déterminer la distance Terre-Lune à partir de l'étude du mouvement de la Terre autour du Soleil et du mouvement de la Lune autour de la Terre.
+
+Dans chaque cas, l'étude du mouvement se fait dans un référentiel considéré galiléen.
+
+On considère que :
+- le Soleil, la Terre et la Lune présentent une répartition de masse à symétrie sphérique.
+- la Lune n'est soumise qu'à la force de gravitation universelle appliquée par la Terre.
+- la Terre n'est soumise qu'à la force de gravitation universelle appliquée par le Soleil.
+
+Données :
+- La période de révolution du centre d'inertie G de la Terre autour du soleil : T = 365,25 jours,
+- La période de révolution du centre d'inertie G' de la Lune autour de la Terre : T' = 27,32 jours,
+- On considère que :
+  - dans le référentiel héliocentrique, la trajectoire du centre G est assimilée à un cercle de rayon R = 1,49.108 km centré sur le centre d'inertie du soleil.
+  - dans le référentiel géocentrique, la trajectoire du centre G' est assimilée à un cercle de rayon r centré sur le centre G.
+
+On note : M la masse du Soleil, m la masse de la Terre et m' celle de la Lune. On prend M = 3,35.105 m.
+
+1- Définir le référentiel géocentrique.
+
+2- Choisir la proposition juste parmi les affirmations suivantes :
+a- La constante de gravitation universelle s'exprime en m.s-2.
+b- Le vecteur accélération du centre G de la terre est tangent à son orbite circulaire autour du Soleil.
+c- Dans un mouvement circulaire uniforme, le vecteur accélération a une direction constante.
+d- La vitesse du mouvement circulaire uniforme d'une planète autour du Soleil ne dépend pas de la masse de la planète.
+
+3- Donner l'expression vectorielle de la force d'attraction gravitationnelle exercée par le soleil sur la Terre, dans la base de Frenet (u⃗, n⃗).
+
+4- En appliquant la deuxième loi de Newton, montrer que le mouvement du centre d'inertie G de la Terre autour du soleil est circulaire uniforme.
+
+5- Etablir la relation traduisant la troisième loi de Kepler relative au mouvement du centre d'inertie G de la Terre autour du soleil.
+
+6- Trouver l'expression du rayon r en fonction de m, M, T, T' et R et calculer sa valeur.

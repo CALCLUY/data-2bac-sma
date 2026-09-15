@@ -1,0 +1,432 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2017 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+2ème année Sciences Mathématiques — Physique-chimie
+Correction du sujet de l'examen national du Baccalauréat — Session de rattrapage : 2017
+KACHICHE MUSTAPHA - Madariss MARIA - TEMARA
+
+[NOTE : corrigé détaillé rédigé par un enseignant (et non les éléments de réponse officiels). Les formules du document d'origine sont des images ; elles ont été restituées en notation linéaire fidèle aux étapes du corrigé.]
+
+## - Chimie -
+
+### Partie I :
+
+1- Etude de l'hydrolyse d'un ester :
+
+1-1-1- * Formule semi-développée de l'ester E : CH3−CH2−COO−CH2−CH3
+* Son nom : propanoate d'éthyle
+
+1-1-2- Détermination de la masse de l'acide formé à l'équilibre chimique :
+
+- La constante de l'équilibre est : K = [acide]éq × [alcool]éq / ([ester]éq × [eau]éq) avec [X] = n(X)/Vsol
+
+- Tableau d'avancement de l'hydrolyse :
+
+| Equation de la réaction | C2H5COOC2H5 + H2O ⇄ C2H5COOH + C2H5OH | | | |
+| --- | --- | --- | --- | --- |
+| Etat du système | Avancement x (mol) | n(ester) | n(eau) | n(acide) = n(alcool) |
+| Etat initial | 0 | 0,1 | 0,1 | 0 |
+| Etat intermédiaire | x | 0,1 − x | 0,1 − x | x |
+| Etat d'équilibre | xéq | 0,1 − xéq | 0,1 − xéq | xéq |
+
+On écrit : K = xéq2/(0,1 − xéq)2 ; on obtient : xéq = 0,1×√K/(1 + √K) (avec 0 < xéq < 0,1 mol)
+
+On retient la solution convenable : xéq = 0,1×√0,25/(1 + √0,25) ≈ 0,033 mol
+
+- La masse de l'acide formé à l'équilibre est : m = xéq.M(C2H5COOH) ≈ 0,033×74 ≈ 2,44 g
+
+1-2-1- Equation de la réaction :
+
+C2H5COOC2H5 + HO- → C2H5COO- + C2H5OH
+
+1-2-2- Rendement de cette réaction :
+
+r = nexp(alcool)/nthéorique(alcool) = (mexp/M(C2H5OH))/(m0/M(E)), ou bien : r = (mexp/m0)×M(E)/M(C2H5OH)
+
+A.N : r = (4,2/10,2)×(102/46) = 0,91 = 91%
+
+2- Etude d'une solution d'acide propanoïque :
+
+2-1-1- Equation chimique de la réaction entre l'acide propanoïque et l'eau :
+
+C2H5COOH(aq) + H2O(l) ⇄ C2H5COO-(aq) + H3O+(aq)
+
+2-1-2- Expression du pH : D'après le cours on a la relation suivante :
+
+pH = pKA + log([C2H5COO-]/[C2H5COOH])
+
+2-1-3- Taux d'avancement final τ :
+
+On a : τ = xf/xm = [H3O+]/C ; ou bien
+
+τ = [H3O+]/([C2H5COO-] + [C2H5COOH]) = [H3O+]/([H3O+] + [C2H5COOH]) = 1/(1 + [C2H5COOH]/[H3O+]) … (*)
+
+Or d'après le résultat : pH = pKA + log([C2H5COO-]/[C2H5COOH]) ; alors [C2H5COOH]/[C2H5COO-] = 10^(pKA − pH) … (**)
+
+On remplace (**) dans (*), on aura l'expression : τ = 1/(1 + 10^(pKA − pH))
+
+A.N : τ = 1/(1 + 10^(4,9 − 2,9)) ≈ 9,9.10-3 ≈ 1%
+
+2-2-1- Equation chimique de la réaction du dosage :
+
+C2H5COOH(aq) + HO-(aq) → C2H5COO-(aq) + H2O(l)
+
+2-2-2- Recherche de l'expression du rapport [C2H5COO-]/[C2H5COOH] :
+
+- Tableau d'avancement :
+
+| Equation de la réaction | C2H5COOH(aq) + HO-(aq) → C2H5COO-(aq) + H2O(l) | | | |
+| --- | --- | --- | --- | --- |
+| Etat du système | Avancement x (mol) | n(acide) | n(HO-) | n(C2H5COO-) |
+| Etat initial | 0 | CA.VA | CB.VB | 0 |
+| Etat intermédiaire | x | CA.VA − x | CB.VB − x | x |
+| Etat équivalence | xE | CA.VA − xE | CB.VB,E − xE | xE |
+
+- Avant l'équivalence VB < VB,E, le réactif limitant est HO-(aq) : n(HO-) = CB.VB − x = 0 ⇒ x = CB.VB
+- D'après le tableau : [C2H5COO-] = x/(VA + VB) et [C2H5COOH] = (CA.VA − x)/(VA + VB)
+
+Et le rapport s'écrira : [C2H5COO-]/[C2H5COOH] = CB.VB/(CA.VA − CB.VB)
+
+Or au point d'équivalence, la relation qui se réalise est : CA.VA = CB.VB,E
+
+- L'expression finale est : [C2H5COO-]/[C2H5COOH] = VB/(VB,E − VB)
+
+2-2-3- Vérification du pKA du couple C2H5COOH / C2H5COO- :
+
+- La fonction pH = f(log(VB/(VB,E − VB))) est affine d'équation : pH = a.log(VB/(VB,E − VB)) + b … (1)
+
+Où b représente l'ordonnée à l'origine, et graphiquement il vaut : b ≈ 4,9
+
+- En comparant la relation (1) avec celle donnée à la réponse de la question 2-1-2- :
+
+pH = log([C2H5COO-]/[C2H5COOH]) + pKA ; On déduit alors pKA ≈ 4,9
+
+### Partie II :
+
+1- Le bon choix est : b) Le pôle positif de la pile est l'électrode de l'argent.
+
+- Le quotient de réaction initial : Qr,i = [Cd2+]i/[Ag+]i2 = 0,2/(0,4)2 = 1,25 << K = 5.1040
+
+- Le sens de la réaction spontanée est le sens direct (1) → ; donc il y aura oxydation du cadmium Cd qui est l'électrode anode ou pôle négatif de cette pile.
+
+2-1- Expression du quotient de la réaction :
+
+| Equation de la réaction | 2Ag+(aq) + Cd(s) → 2Ag(s) + Cd2+(aq) | | | | Quantité de matière des e- échangés |
+| --- | --- | --- | --- | --- | --- |
+| Etats du système | Avancement x (mol) | n(Ag+) = C1.V | n(Cd) | n(Ag) | n(Cd2+) = C2.V |
+| E. Initial | 0 | C1.V | ni(Cd) | ni(Ag) | C2.V | |
+| E. Intermédiaire | x | C1.V − 2.x | ni(Cd) − x | ni(Ag) + 2.x | C2.V + x | n(e-) = 2.x |
+| E. Final | xmax | C1.V − 2.xm | ni(Cd) − xm | ni(Ag) + 2.xm | C2.V + xm | n(e-) = 2.xm |
+
+Qr = [Cd2+]t/[Ag+]t2 = ((C2.V + x)/V)/((C1.V − 2.x)/V)2 = V.(C2.V + x)/(C1.V − 2.x)2
+
+A.N : Qr = 1,25.10-2/(0,25×(0,1 − 2.x)2) ... [forme du document : Qr = (0,25.(0,2×0,25 + x))/(0,4×0,25 − 2x)2]
+
+2-2- Calcul du quotient de la réaction à t = 10 h :
+
+- Cherchons l'avancement x à cet instant :
+
+La quantité d'électricité Q transportée pendant Δt par les porteurs de charges est : Q = n(e-).F = I.Δt avec n(e-) = 2.x d'où :
+
+x = I.Δt/(2.F) ; A.N : x = 0,215×10×3600/(2×9,65.104) ≈ 0,04 mol
+
+- A.N : Qr ≈ (0,25×(0,05 + 0,04))/(0,1 − 2×0,04)2 ≈ 56,25
+
+2-3- Calcul de la variation Δm :
+
+- Quand la pile sera usée, les ions Ag+ disparaissent totalement (Cd est en excès) :
+
+n(Ag+)f = C1.V − 2.xm = 0 ; c.-à-d. xm = C1.V/2
+
+- La variation de masse : Δm = Δn(Cd)×M(Cd) = (nf(Cd) − ni(Cd))×M(Cd) = −xm×M(Cd) (en valeur absolue : Δm = xm.M(Cd))
+
+Finalement : Δm = (C1.V/2)×M(Cd) ; A.N : Δm = (0,4×0,25/2)×112,4 = 5,62 g
+
+## - Physique -
+
+### LES TRANSFORMATIONS NUCLEAIRES :
+
+1- Le bon choix est : c) D'après la courbe d'Aston, pour les noyaux lourds, le degré de stabilisation diminue lorsque la masse du noyau augmente.
+
+2- Définition : La radioactivité β− est une réaction spontanée au cours de laquelle un noyau instable se désintègre en un nouveau noyau plus stable, en émettant des électrons (notés β−).
+
+3- Calcul de l'énergie libérée ΔE :
+
+L'équation de désintégration est : 60/27 Co → 60/28 X + 0/-1 e
+
+On a : ΔE = El(60/27 Co) − El(60/28 X) ; or El(60/27 Co) = (27.m(1/1 p) + 33.m(1/0 n) − m(60Co)).c2
+
+De la relation, on calcule d'abord El(60/27 Co) :
+
+El(60/27 Co) = (27×1,00728 + 33×1,00866 − 59,8523)×931,494 ≈ 0,63×931,494 ≈ 586,841 MeV
+
+A.N : ΔE = 586,841 − 588,387 ≈ −1,55 MeV (|ΔE| ≈ 1,55 MeV)
+
+4- Montrons la relation t1 = τ.ln(NA.m0/(τ.M.a1)) :
+
+- On sait que, d'après la loi de désintégration, l'activité : a(t1) = a0.e−λ.t1 avec a0 = λ.N0 = λ.NA.m0/M
+
+On combine ces relations, on obtient : a1 = λ.(NA.m0/M).e−λ.t1 ou bien e−λ.t1 = a1.M/(λ.NA.m0)
+
+Sachant que τ = 1/λ ; donc : e−t1/τ = a1.M.τ/(NA.m0) alors t1/τ = ln(NA.m0/(τ.M.a1))
+
+Finalement : t1 = τ.ln(NA.m0/(τ.M.a1))
+
+A.N : t1 = (2,8.103/365,25)×ln(6,02.1023×50.10-3/(2,8.103×24×3600×60×5,18.1011)) ≈ 10,63 ans
+
+### L'ELECTRICITE :
+
+#### I – La charge et la décharge d'un condensateur :
+
+1- Charge d'un condensateur :
+
+1-1- Equation différentielle que vérifie l'intensité i(t) :
+
+D'après la figure : uR + uC = E … (1)
+
+En respectant les conventions : uC = q/C et uR = R.i
+
+La relation (1) devient : R.i + q/C = E … (2) et E = Cte
+
+En dérivant la relation (2), on aura : R.di/dt + (1/C).dq/dt = dE/dt = 0 avec i = dq/dt
+
+Finalement l'équation différentielle : di/dt + i/(R.C) = 0
+
+1-2- Détermination de R :
+
+- Graphiquement la constante du temps est : τ = 1 ms = 10-3 s
+- La constante du temps τ = R.C donne : R = τ/C ; A.N : R = 10-3/2,5.10-6 = 400 Ω
+
+1-3- Détermination de U0 :
+
+- A t = 0 ; graphiquement : i(0) = 10 mA = 10-2 A
+- A t = 0 ; l'équation différentielle devient : uR(0) + uC(0) = E ; qui peut s'écrire : R.i(0) + U0 = E
+
+D'où : U0 = E − R.i(0) ; A.N : U0 = 8 − 400×10-2 = 4 V
+
+1-4- * Recherche de l'expression de l'énergie électrique emmagasinée entre t = 0 et t → ∞ :
+
+On a : Eél = Ee(t → ∞) − Ee(0) = (1/2).C.uC2(∞) − (1/2).C.U02 avec uC(∞) = E
+
+ce qui donne : Eél = (1/2).C.(E2 − U02)
+
+A.N : Eél = (1/2)×2,5.10-6×(82 − 42) = 6.10-5 J = 60 μJ
+
+2- Oscillations libres dans le circuit RLC :
+
+2-1- Recherche de l'expression de l'énergie magnétique Em(t) :
+
+Soit une bobine de coefficient d'auto-inductance L, traversée par un courant d'intensité i(t) à l'instant t, et la tension entre ses bornes est uL(t) : la puissance instantanée est alors : p(t) = u(t).i(t)
+
+Dans la convention « récepteur » la tension s'écrit : uL(t) = L.di(t)/dt
+
+Donc p(t) = L.(di(t)/dt)×i(t) = (L/2).d(i2(t))/dt ou bien p(t) = d((1/2).L.i2(t))/dt … (1)
+
+En comparant la relation (1) avec la relation suivante : p(t) = d(Em(t))/dt
+
+On en déduit : Em(t) = (1/2).L.i2(t)
+
+2-2- Recherche de l'expression d(ETot(t))/dt :
+
+- L'énergie totale emmagasinée dans le circuit RLC est : ETot(t) = Eél(t) + Em(t)
+
+Ou bien ETot(t) = (1/2).C.uc2(t) + (1/2).L.i2(t)
+
+- Dérivons cette expression :
+
+d(ETot(t))/dt = C.uc(t).duc(t)/dt + L.i(t).di(t)/dt
+
+Or uc = q/C et duc/dt = (1/C).dq/dt = i/C, donc :
+
+d(ETot(t))/dt = i(t).(q(t)/C + L.di(t)/dt) … (*)
+
+Et d'après la loi d'additivité des tensions :
+
+uc + ub + uR0 = 0 ⇒ q/C + r.i(t) + L.di(t)/dt + R0.i(t) = 0 ⇒ q(t)/C + L.di(t)/dt = −(r + R0).i(t)
+
+On remplace cette dernière expression dans la relation (*) :
+
+d(ETot(t))/dt = i(t).[−(r + R0).i(t)]
+
+Finalement on aboutit à l'expression finale : d(ETot(t))/dt = −(r + R0).i2(t)
+
+2-3- Détermination de l'énergie dissipée ΔE entre t = 0 et t = t1 :
+
+- L'énergie totale emmagasinée dans le circuit RLC à t = 0 est : ETot(0) = (1/2).C.uc2(0) + (1/2).L.i2(0) avec uc(0) = E et i(0) = 0 ⇒ ETot(0) = (1/2).C.E2
+
+- L'énergie totale emmagasinée dans le circuit RLC à t = t1 est : ETot(t1) = (1/2).C.uc2(t1) + (1/2).L.i2(t1) … (*)
+
+- D'après la loi d'Ohm : uR0(t1) = R0.i(t1) ⇒ i(t1) = uR0(t1)/R0 … (1)
+
+- D'après la loi d'additivité des tensions à t = t1 (où di/dt|t1 = 0 car uR0 est maximale) :
+
+uc(t1) + r.i(t1) + uR0(t1) = 0 ⇒ uc(t1) = −((r + R0)/R0).uR0(t1) … (2)
+
+- On remplace (1) et (2) dans (*), on obtient :
+
+ETot(t1) = (uR02(t1)/(2.R02)).(L + C.(r + R0)2)
+
+- Alors l'énergie dissipée ΔE entre t = 0 et t1 : ΔE = ETot(t1) − ETot(0)
+
+ΔE = (uR02(t1)/(2.R02)).(L + C.(r + R0)2) − (1/2).C.E2
+
+A.N : ΔE = ((0,44)2/(2×302))×(0,5 + 2,5.10-6×(7 + 30)2) − (1/2)×2,5.10-6×82 ≈ −2,59.10-5 J ≈ 26 μJ (en valeur absolue)
+
+#### II – Oscillations forcées dans le circuit RLC :
+
+1- Le bon choix est : d) Expression du facteur de qualité Q = N0/ΔN
+
+a) Le GBF joue le rôle de l'excitateur, b) les oscillations étudiées sont forcées, et c) φ représente le déphasage entre la tension u(t) et l'intensité du courant électrique i(t).
+
+2- Détermination de la valeur de Um, L0 et r0 :
+
+- Figure 5 : à la résonance Z = 37 Ω, et on sait que Z = RTot = r0 + R0
+
+D'où : r0 = Z − R0 ; A.N : r0 = 37 − 30 = 7 Ω
+
+- Figure 4 : à la résonance Im = 275 mA et N0 = 142 Hz
+
+* On sait que Um = Z.Im ; A.N : Um = 37×0,275 ≈ 10 V
+* On sait que L0.C.(2.π.N0)2 = 1 d'où L0 = 1/(4π2.N02.C)
+
+A.N : L0 = 1/(4×10×1422×2,5.10-6) ≈ 0,5 H
+
+3- Détermination de la puissance électrique moyenne consommée à la résonance :
+
+A la résonance : P = RTot.I2 c'est la puissance consommée par les résistances du circuit.
+
+Or I = Im/√2 donc P = (1/2).(r0 + R0).Im2
+
+A.N : P = (1/2)×(7 + 30)×0,2752 ≈ 1,4 W
+
+### LA MECANIQUE
+
+#### PARTIE I : Etude du mouvement d'un oscillateur (corps solide – ressort)
+
+1- Etude du mouvement de l'oscillateur mécanique en position horizontale :
+
+1-1- Equation différentielle du mouvement que vérifie l'abscisse x(t) :
+
+- Système à étudier : {corps (S)}
+- Repère d'étude R(O ; i⃗) supposé galiléen ;
+- Bilan des forces extérieures :
+  * Poids du corps (S) : P⃗ ;
+  * Action du plan horizontal : R⃗
+  * Action du ressort : T⃗
+- La 2ème loi de Newton donne : P⃗ + R⃗ + T⃗ = m.a⃗G
+- Projection de cette relation vectorielle sur l'axe Ox : Px + Rx + Tx = m.ax … (*)
+- Expressions : Px = 0, Rx = 0, Tx = −T = −k.x et ax = d2x/dt2
+- La relation (*) devient : 0 + 0 − k.x = m.d2x/dt2
+- Finalement l'équation différentielle sera : d2x/dt2 + (k/m).x = 0
+
+1-2- Détermination de xm et φ :
+
+* Détermination de xm :
+
+- La solution de l'équation différentielle est de la forme : x = xm.cos((2π/T0).t + φ)
+- Graphiquement (figure 2) : amax = 5 m.s-2 et T0 = 0,4 s
+- En dérivant successivement deux fois cette solution, on obtient l'expression de l'accélération de G :
+
+ax(t) = −(2π/T0)2.xm.cos((2π/T0).t + φ) ou bien ax(t) = amax.cos((2π/T0).t + φ + π)
+
+Avec amax = (2π/T0)2.xm alors xm = amax.T02/(4π2)
+
+A.N : xm = 5×0,42/(4×10) = 0,02 m = 2 cm
+
+* Détermination de φ : A t = 0 : graphiquement ax(0) = −amax et ax(0) = amax.cos(φ + π) alors cos(φ + π) = −1
+
+ou bien −cos(φ) = −1 ⇒ cos(φ) = 1 ; finalement : φ = 0
+
+2- Etude du mouvement de l'oscillateur mécanique en position verticale :
+
+2-1- Détermination de l'allongement Δℓ0 = ℓ − ℓ0 :
+
+A l'équilibre : T⃗0 + P⃗ = 0⃗, et par projection sur l'axe vertical Oz, on aura :
+
+T0z + Pz = 0 alors k.Δℓ0 + m.g = 0 d'où Δℓ0 = −m.g/k (en valeur absolue Δℓ0 = m.g/k)
+
+2-2- Montrons que Ep = A.z2 + B :
+
+- L'énergie potentielle totale est : Ep = Epp + Epe … (*)
+- L'énergie potentielle de pesanteur est : Epp = −m.g.z + C ; Or en z = 0 on a Epp = 0 donc C = 0 ; d'où Epp = −m.g.z … (1)
+- L'énergie potentielle élastique est : Epe = (1/2).k.Δℓ2 + C' ; Or lorsque Δℓ = 0 on a Epe = 0 donc C' = 0 ; d'où Epe = (1/2).k.Δℓ2 … (2)
+- On porte (1) et (2) dans (*), on aura : Ep = −m.g.z + (1/2).k.Δℓ2, avec Δℓ = ℓ − ℓ0 et z = ℓ − ℓéq
+
+On peut écrire : Δℓ = ℓ − ℓ0 = (ℓ − ℓéq) + (ℓéq − ℓ0) = z + Δℓ0
+
+Donc Ep = −m.g.z + (1/2).k.(z + Δℓ0)2 = (−m.g + k.Δℓ0).z + (1/2).k.z2 + (1/2).k.(Δℓ0)2 avec (−m.g + k.Δℓ0) = 0
+
+Finalement on aboutit à l'expression : Ep = (1/2).k.z2 + (1/2).k.(Δℓ0)2 , soit A = (1/2).k et B = (1/2).k.(Δℓ0)2
+
+2-3-1- Déterminons k et Δℓ0 :
+
+- La figure 4 nous permet d'avoir : Ep(z = 0) = 40 mJ et Ep(z = 2 cm) = 50 mJ
+- Soit le système :
+
+(1) : (1/2).k.(Δℓ0)2 = Ep(z = 0)
+(2) : (1/2).k.zm2 + (1/2).k.(Δℓ0)2 = Ep(z = 2 cm)
+
+- Des relations (1) et (2) on peut écrire : (1/2).k.zm2 = Ep(z = 2 cm) − Ep(z = 0)
+
+Donc : k = (2/zm2)×[Ep(z = 2 cm) − Ep(z = 0)] ; A.N : k = (2/(0,02)2)×[50.10-3 − 40.10-3] = 50 N.m-1
+
+- De la relation (1) : (1/2).k.(Δℓ0)2 = Ep(z = 0) on déduit Δℓ0 = √(2.Ep(z = 0)/k)
+
+A.N : Δℓ0 = √(2×40.10-3/50) = 0,04 m = 4 cm
+
+2-3-2- Détermination du travail de la force de rappel :
+
+On a Ep = Epp + Epe alors ΔEp = ΔEpp + ΔEpe
+
+or ΔEpp = −W(z1→z2)(P⃗) = −m.g.(z2 − z1) et ΔEpe = −W(z1→z2)(T⃗)
+
+Donc ΔEp = −m.g.(z2 − z1) − W(z1→z2)(T⃗) d'où W(z1→z2)(T⃗) = −ΔEp − m.g.(z2 − z1)
+
+or m.g = k.Δℓ0
+
+Finalement on arrive à l'expression : W(z1→z2)(T⃗) = −ΔEp + k.Δℓ0.(z2 − z1)
+
+A.N : W(z1→z2)(T⃗) = −(50 − 45).10-3 + 50×(4.10-2)×(1,4.10-2 − 0) ≈ −3,3.10-2 J
+
+#### PARTIE II : Détermination du rayon de l'orbite de la lune autour de la terre
+
+1- Définition : Le référentiel géocentrique est un référentiel dont l'origine est le centre de la Terre et dont les trois axes pointent vers des étoiles lointaines qui apparaissent fixes.
+
+2- Le bon choix est : d) La vitesse d'une planète autour du soleil ne dépend pas de la masse de cette planète.
+(a) Unité de la constante gravitationnelle N.m2.kg-2 ; b) Le vecteur accélération est radial mais non tangentiel ; c) Le vecteur accélération change de direction durant le mouvement circulaire uniforme).
+
+3- Expression vectorielle de la force de gravitation : Dans (u⃗ ; n⃗) on a : F⃗S/T = G.M.m/R2 . n⃗
+
+4- Le mouvement de la terre est circulaire uniforme :
+
+- Système à étudier : {Terre (m)}
+- Repère d'étude (S, i⃗, j⃗) supposé galiléen ;
+- Bilan des forces extérieures : F⃗S/T
+- La 2ème loi de Newton s'écrit : F⃗S/T = m.a⃗G ou bien m.a⃗G = G.M.m/R2 . n⃗ alors a⃗G = G.M/R2 . n⃗
+
+Ce qui prouve que le vecteur accélération est radial, et que sa composante tangentielle est nulle, aT = dv/dt = 0 : On en déduit que la vitesse est constante ou le mouvement est uniforme.
+
+D'autre part aG = aN ⇒ G.M/R2 = v2/R ⇒ R = G.M/v2 = Cte : On en déduit que le rayon est constant ou le mouvement est circulaire.
+
+Finalement le mouvement de la terre par rapport au soleil est circulaire uniforme.
+
+5- La troisième loi de Kepler : T2/R3 = K = Cte
+
+Puisque le mouvement de la Terre par rapport au Soleil est circulaire uniforme de période T ; alors : T = 2π.R/v avec v = √(G.M/R) ; ce qui donne T = 2π.√(R3/(G.M)) ou T2 = 4π2.R3/(G.M)
+
+Finalement la loi de Kepler est : T2/R3 = 4π2/(G.M) … (1)
+
+6- * Expression du rayon orbital de la lune :
+
+- On applique la loi de Kepler, pour le mouvement de la Lune par rapport à la Terre qui est circulaire uniforme de période T' : T'2/r3 = 4π2/(G.m) … (2)
+
+- Des deux relations (1) et (2), on peut écrire : M.T2/R3 = m.T'2/r3 = 4π2/G
+
+- On en déduit l'expression du rayon : r = R.((T'/T)2.(m/M))^(1/3)
+
+[NOTE : l'application numérique finale du rayon orbital de la Lune n'apparaît pas dans le texte extractible du document (fin de page).]
