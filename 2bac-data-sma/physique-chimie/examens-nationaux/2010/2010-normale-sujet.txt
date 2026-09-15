@@ -1,0 +1,335 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2010 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2010 - الموضوع - مادة : الفيزياء والكيمياء
+NS31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+L'usage des calculatrices programmables ou d'ordinateurs n'est pas autorisé
+
+Ce sujet comporte un exercice de chimie et trois exercices de physique
+
+CHIMIE (5,25 points) - Etude de l'hydrolyse d'un ester
+(1,75 points) - Synthèse d'un ester
+PHYSIQUE 1 (1,75 points) Datation des sédiments marins
+PHYSIQUE 2 (5,5 points) Etude du régime transitoire dans une bobine et dans un condensateur
+PHYSIQUE 3 (2,75 points) - Chute verticale d'un solide
+(3 points) - Changement des conditions initiales du mouvement d'un oscillateur non amorti
+
+## CHIMIE (7 points)
+
+### 1ere partie (5,25 point) : Etude de l'hydrolyse d'un ester
+
+Deux composés organiques (A) éthanoate 3-methylbutyl et (B) butanoate de propyl ont la même formule brute C7H14O2 et possèdent le même groupe caractéristique, mais ils n'ont pas la même formule semi-développée.
+
+Formule semi-développée du composé (A)
+
+Formule semi-développée du composé (B)
+
+[FORMULA_IMAGE_UNREADABLE] (formules semi-développées de (A) et (B) données sous forme d'images dans le sujet)
+
+Le composé (A) possède un goût et une odeur de banane, il est utilisé comme composé additif dans l'industrie alimentaire, le composé (B) est utilisé dans l'industrie des parfums.
+
+Données :
+
+Masses molaires moléculaires :
+
+M(A) = M(B) = 130 g.mol-1 ; M(H2O) = 18,0 g.mol-1
+
+Masse volumique de l'eau : ρ(H2O) = 1,00 g.mL-1
+
+Masse volumique du composé A : ρ(A) = 0,87 g.mL-1
+
+Constante d'acidité du couple CH3COOH/CH3COO- à 25°C : KA = 1,80.10-5.
+
+Produit ionique de l'eau à 25°C : Ke = 10-14.
+
+#### I- Groupement fonctionnel
+
+1- Donner le groupe caractéristique commun aux deux composés (A) et (B).
+
+2- Donner la formule semi développée de l'acide et de l'alcool qui donnent par réaction chimique le composé (A).
+
+#### II- Etude de l'hydrolyse du composé (A)
+
+On dissout 30 mL de l'éthanoate 3-méthylbutyle dans un volume d'eau pour obtenir un mélange réactionnel de volume 100 mL.
+
+On répartit 50 mL de ce mélange dans 10 béchers de telle sorte que chaque bécher contient 5 mL du mélange réactionnel et on garde 50 mL de ce mélange dans un ballon.
+
+A l'instant t = 0 on place les dix béchers et le ballon dans un bain marie de température constante θ.
+
+A un instant t, on fait sortir un bécher du bain marie et on le place dans de l'eau glacée ; et on dose la quantité de matière n de l'acide formé par une solution aqueuse d'hydroxyde de sodium de concentration CB.
+
+On réalise ce dosage en présence d'un indicateur coloré convenable.
+
+On répète la même opération pour les autres béchers à des instants différents.
+
+On désigne par VBE le volume de la solution d'hydroxyde de sodium correspondant à l'équivalence.
+
+Les résultats de ce dosage permettent d'obtenir la courbe de l'évolution de la quantité de matière nT de l'acide formé dans le ballon en fonction du temps nT = f(t), figure (1).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : nT (mol) en fonction de t (min) ; graduations 0, 40, 80, 120 min et 0.02, 0.04, 0.06, 0.08 mol ; tangente (T))
+
+1- Réaction du dosage
+
+1.1- Ecrire l'équation de la réaction du dosage.
+
+1.2- Exprimer la constante d'équilibre K associé à l'équation du dosage en fonction de la constante d'acidité KA du couple CH3COOH/CH3COO- et la constante Ke.
+Calculer la valeur de K.
+
+1.3- On considère que la réaction du dosage est totale.
+Exprimer la quantité de matière n de l'acide contenu dans le bécher à un instant t en fonction de CB et VBE.
+En déduire en fonction de CB et VBE la quantité de matière nT de l'acide formé dans le ballon au même instant t et à la même température θ.
+
+2- Réaction d'hydrolyse
+
+2.1- Donner les caractéristiques de la réaction d'hydrolyse.
+
+2.2- Calculer les quantités de matière ni(A) du composé (A) et n(H2O)i de l'eau contenues dans le ballon avant le début de la réaction.
+
+2.3- En déduire, à l'équilibre, la valeur du taux d'avancement final τ de la réaction hydrolyse.
+
+2.4- La droite (T) représente la tangente à la courbe nT = f(t) à l'instant t = 0, figure (1).
+Déterminer la valeur de la vitesse volumique de la réaction qui a lieu dans le ballon à t = 0.
+
+2.5- Expliquer comment évolue la vitesse volumique de la réaction au cours du temps.
+Quel est le facteur cinétique responsable de cette évolution ?
+
+### 2eme partie (1,75 point) : synthèse d'un ester
+
+Afin de comparer les actions de l'acide butanoïque et de l'anhydride butanoïque sur le propan-1-ol, on réalise deux synthèses en utilisant le dispositif de la figure (2) :
+
+- 1ère synthèse : on introduit dans le ballon une quantité de matière ni de propan-1-ol et de l'acide butanoïque en excès.
+
+- 2ème synthèse : on introduit dans le ballon la même quantité de matière ni de propan-1-ol et de l'anhydride butanoïque en excès.
+
+Les courbes (1) et (2) représentent respectivement l'avancement de la 1ère et de la 2ème synthèse en fonction du temps t, figure (3).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : dispositif avec Ballon ; Figure 3 : x (mol) en fonction de t (min), courbes (1) et (2))
+
+1- Donner le nom du dispositif utilisé pour cette synthèse, justifier son choix.
+
+2- En utilisant les formules semi-développées, écrire l'équation chimique de la 2ème synthèse.
+
+3- A partir des deux courbes expérimentales (1) et (2), déterminer le rendement de la première synthèse.
+
+## PHYSIQUE 1 (1,75 points) : Datation des sédiments marins
+
+Le thorium 230/90 Th est utilisé pour dater les coraux et les sédiments marins, car sa concentration à la surface des sédiments qui sont en contact avec l'eau de mer reste constante, et elle diminue selon la profondeur dans le sédiment.
+
+1- L'uranium 238/92 U dissout dans l'eau de mer, donne des atomes de thorium 230/90 Th avec émission de x particules α et y particules β-.
+
+1.1- Ecrire l'équation de cette transformation nucléaire en précisant la valeur de x et celle de y.
+
+1.2- On désigne par :
+
+λ la constante radioactive du thorium 230 Th ;
+
+λ' la constante radioactive de l'uranium 238 U ;
+
+N(230 Th) le nombre de noyaux de thorium 230 à l'instant t ;
+
+N(238 U) le nombre de noyaux de l'uranium 238 au même instant t.
+
+Monter que le rapport N(230 Th)/N(238 U) reste constant quand le thorium 230 et l'uranium 238 ont même activité.
+
+2- Le noyau du thorium 230 se désintègre en donnant un noyau de radium 226 (226/88 Ra).
+Ecrire l'équation de cette réaction nucléaire en précisant la nature du rayonnement émis.
+
+3- On appelle N(t) le nombre de noyaux de thorium 230 qui se trouve dans un échantillon de corail à l'instant t et N0 le nombre de ces noyaux à t = 0.
+
+Le graphe ci contre représente l'évolution du rapport N(t)/N0 en fonction du temps.
+
+A l'aide de ce graphe, vérifier que la demi-vie du thorium 230 est : t1/2 = 7,5.10^4 ans.
+
+[FORMULA_IMAGE_UNREADABLE] (graphe N(t)/N0 en fonction de t (10^3 ans) ; graduations 0, 100, 200 et 0,4 ; 0,8)
+
+4- Ce graphe est utilisé pour dater un sédiment marin.
+
+Un échantillon de sédiment de forme cylindrique de hauteur h est prélevé au fond de l'océan.
+
+L'analyse d'un fragment (1) pris à la base supérieure de cette échantillon, qui est en contact avec l'eau de mer, montre qu'il contient ms = 20 μg de thorium 230.
+
+Un fragment (2), de même masse, pris à la base inférieure de l'échantillon contient une masse mp = 1,2 μg de thorium 230.
+
+On prend pour origine des dates (t = 0) l'instant où la masse du thorium est m0 = ms.
+
+Déterminer, en années, l'âge de la base inférieure de l'échantillon.
+
+## PHYSIQUE 2 (5,5 points) : Etude du régime transitoire dans une bobine et dans un condensateur
+
+On peut obtenir des oscillations électriques libres non amorties en associant en série un condensateur et une bobine d'inductance L et de résistance r à condition d'ajouter au circuit un générateur de résistance négative qui compense instantanément l'énergie perdue par effet joule.
+
+L'objectif de cet exercice est d'étudier le régime transitoire qui règne dans le circuit entre l'instant de fermeture de l'interrupteur et le début du régime permanent pour la bobine ou pour le condensateur, cet exercice aborde aussi l'échange d'énergie entre la bobine et le condensateur lors des oscillations électriques.
+
+### 1- Etude du régime transitoire dans une bobine
+
+On réalise le montage expérimental représenté dans la figure (1) pour étudier l'établissement du courant électrique dans un dipôle (AB), constitué d'un conducteur ohmique de résistance R et d'une bobine d'inductance L et de résistance r.
+
+Un générateur électrique idéal applique une tension constante E = 6V aux bornes du dipôle (AB).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : circuit E, K, R, bobine (L, r), dipôle AB, tension u)
+
+1.1- On règle la résistance R sur la valeur R = 50 Ω.
+
+On ferme l'interrupteur à l'instant t = 0.
+
+On enregistre à l'aide d'un dispositif approprié l'évolution de l'intensité i du courant en fonction du temps, on obtient la courbe représentée sur la figure (2).
+
+Le coefficient directeur de la tangente (T) à la courbe i = f(t) à t = 0 est a = 100 A.s-1.
+
+La tension u aux bornes du dipôle (AB) s'exprime par la relation u = (R + r) i + L di/dt.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : i (mA) en fonction de t (ms) ; graduations 50, 100 mA et 2, 4 ms ; tangente (T))
+
+a- Est-ce que la grandeur L di/dt augmente ou diminue au cours du régime transitoire ? justifier la réponse.
+
+b- Exprimer di/dt en fonction de E et L à l'instant t = 0. Trouver la valeur de L.
+
+c- Calculer la valeur de di/dt pour t > 5 ms et en déduire la valeur de r.
+
+1.2- On utilise le même montage expérimental de la figure (1) et on fait varier dans chaque cas la valeur de l'inductance L de la bobine et celle de la résistance R du conducteur ohmique comme l'indique le tableau ci-contre.
+
+| cas | L(H) | R(Ω) | r(Ω) |
+| --- | --- | --- | --- |
+| 1er cas | L1 = 6,0.10-2 | R1 = 50 | 10 |
+| 2eme cas | L2 = 1,2.10-1 | R2 = 50 | 10 |
+| 3eme cas | L3 = 4,0.10-2 | R3 = 30 | 10 |
+
+La figure (3) donne les courbes (a), (b) et (c) obtenues dans chaque cas.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : i (mA) en fonction de t (ms) ; courbes (a), (b), (c) ; graduations 50, 100, 150 mA et 0, 2, 4, 6, 8 ms)
+
+a- Préciser, en justifiant votre réponse, la courbe correspondante au 1er cas et la courbe correspondante au 2ème cas.
+
+b- On règle la résistance R2 sur la valeur R'2 pour que la constante de temps τ soit la même dans le 2ème cas et le 3ème cas.
+Exprimer R'2 en fonction de L2, L3, R3 et r. Calculer R'2.
+
+### 2- Etude du régime transitoire dans le condensateur
+
+On remplace dans le montage représenté sur la figure (1) la bobine par un condensateur de capacité C = 20μF initialement non chargé, et on règle la résistance du conducteur ohmique sur la valeur R = 50 Ω. On ferme l'interrupteur à t = 0, et on visualise à l'aide d'un dispositif approprié l'évolution de la tension uc aux bornes du condensateur en fonction du temps.
+
+2.1- Dessiner le schéma du montage expérimental en y indiquant le branchement de la masse et l'entrée du dispositif et la flèche représentant la tension uc dans la convention récepteur.
+
+2.2- Etablir l'équation différentielle vérifiée par la tension uc.
+
+2.3- La solution de l'équation différentielle s'écrit sous la forme : uc = A e^(-t/τ) + B dont A et B et τ sont des constantes à déterminer.
+Trouver en fonction des paramètres du circuit l'expression de chacune des constantes A, B et τ.
+
+2.4- Déduire, en fonction du temps, l'expression littérale de l'intensité i du courant dans le circuit électrique au cours du régime transitoire.
+
+2.5- Calculer l'intensité du courant à t = 0 juste après la fermeture de l'interrupteur.
+
+### 3- Etude de l'échange d'énergie entre le condensateur et la bobine
+
+On réalise le montage représenté dans la figure (4) qui est composée par :
+
+- Une bobine d'inductance L et de résistance r.
+- Un condensateur de capacité C = 20μF chargé sous la tension U0 = 6,0V.
+- Un générateur G qui compense exactement l'énergie dissipée par effet Joule.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : circuit C, bobine (L, r), K, générateur G avec uG = r.i)
+
+Lorsqu'on ferme l'interrupteur K, il passe dans le circuit un courant d'intensité i = Im.cos((2π/T0) t) dont T0 est la période propre du circuit (LC) : T0 = 2π√(L.C).
+
+3.1- Montrer que l'énergie électrique emmagasinée dans le condensateur à l'instant t peut s'écrire sous la forme : Ee = (1/2).L.Im².sin²((2π/T0).t)
+
+3.2- Montrer que l'énergie totale E du circuit (LC) se conserve au cours des oscillations.
+Calculer sa valeur.
+
+## PHYSIQUE 3 (5,75 points) Les deux parties (1) et (2) sont indépendantes
+
+### 1ère partie (2,75 points) : Chute verticale d'un solide
+
+Tout corps immergé dans un fluide est soumis à la poussée fluide, d'Archimède, et s'il est en mouvement de translation dans ce fluide il est soumis en plus à une force de frottement fluide.
+
+Le but de cet exercice est d'étudier l'évolution de la vitesse de deux billes (a) et (b) en verre homogène de rayons différents en mouvement de translation dans une huile avec une vitesse relativement faible.
+
+Données :
+
+Masse volumique du verre : ρ = 2600 kg.m-3 ;
+
+Masse volumique de l'huile : ρ0 = 970 kg.m-3 ;
+
+Viscosité de l'huile : η = 8,0.10-2 N.m-2.s ;
+
+Accélération de la pesanteur : g = 9,81 m.s-2.
+
+L'expression du volume d'une sphère de rayon r : V = (4/3)π.r³
+
+On abandonne au même instant t = 0 les deux billes (a) et (b) à la surface d'une huile contenue dans un tube cylindrique vertical transparent. La hauteur d'huile dans le tube est H = 1,00 m, figure (1)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : tube d'huile de hauteur H, billes (a) et (b) à t = 0, axe O, i)
+
+1- Etude du mouvement de la bille (a)
+
+La bille (a) est soumise pendant son mouvement par rapport au repère (O, i⃗) lié à la terre aux forces :
+
+- La poussée d'Archimède : F⃗ = -ρ0.V.g.i⃗
+- La force de frottement fluide : f⃗ = -6πη.r.v.i⃗
+- Son poids : P⃗ = m.g.i⃗
+
+On désigne par τ le temps caractéristique du mouvement de la bille (a) et on considère que la vitesse limite de la bille est atteinte au bout d'une durée de 5τ.
+
+1.1- Etablir l'équation différentielle dv/dt + v/τ = C du mouvement de la bille (a) et préciser les expressions de τ et de C. Calculer τ sachant que r = 0,25 cm.
+
+1.2- Calculer la valeur de la vitesse limite vℓ de la bille (a).
+
+2- Etude comparative des mouvements des deux billes (a) et (b)
+
+Le rayon de la bille (b) est r' = 2r.
+
+2.1- Déterminer, en justifiant la réponse, la bille qui met plus de temps pour atteindre sa vitesse limite.
+
+2.2- La distance parcourue au cours du régime transitoire par :
+
+- la bille (a) est d1 = 5,00 cm
+- la bille (b) est d2 = 80,0 cm
+
+On néglige r et r' devant H.
+
+Calculer la durée qui sépare l'arrivée des deux billes (a) et (b) au fond du tube.
+
+### 2ème partie (3 points) : Changement des conditions initiales du mouvement d'un oscillateur non amorti
+
+Un système mécanique oscillant est un système qui effectue un mouvement périodique de va et vient autour de sa position d'équilibre stable.
+
+Un pendule élastique horizontal est constitué d'un solide (S) de masse m lié à l'extrémité d'un ressort à spires non jointives, de masse négligeable de raideur K. L'autre extrémité du ressort est liée à un support fixe, figure (2).
+
+A l'équilibre, le centre d'inertie G du solide (S) coïncide avec l'origine O du repère d'espace (O, i⃗) lié à la Terre.
+
+On écarte le solide (S) de sa position d'équilibre dans le sens positif jusqu'à ce que son centre d'inertie G coïncide avec un point A situé à une distance d du point O.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : pendule élastique horizontal, solide (S), points O, G, A, axe x, vecteur i)
+
+On considère les deux cas suivants :
+
+- 1er cas : On abandonne à t = 0 le corps (S) au point A sans vitesse initiale.
+- 2ème cas : On lance à t = 0, le corps (S) à partir du point A dans le sens négatif avec une vitesse initiale vA.
+
+Dans les deux cas le solide (S) effectue un mouvement oscillatoire autour de sa position d'équilibre O.
+
+1- Etablir l'équation différentielle que vérifie l'abscisse x du centre d'inertie G du solide.
+
+2- Trouver l'expression littérale de la période propre T0 de l'oscillateur pour que l'équation x = xm cos((2π/T0) t + φ) soit solution de l'équation différentielle.
+
+3- On obtient à l'aide d'un dispositif approprié la courbe d'évolution des abscisses x1 et x2 du centre d'inertie G du corps (S) successivement dans le 1er et le 2ème cas comme l'indique la figure (3).
+
+Préciser, en justifiant la réponse, la courbe correspondante au mouvement de l'oscillateur dans le 1er cas.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : x1(cm) ; x2(cm) en fonction de t(s) ; courbes (a) et (b) ; graduations -4, -2, 0, 2, 4 et 0,4 ; 0,8 ; 1,2 ; 1,6)
+
+4- On considère l'oscillateur dans le 2ème cas et on désigne l'amplitude de son mouvement par xm2 et la phase à l'origine des dates par φ2.
+
+4.1- Déterminer à partir du graphe, figure (3) la valeur de la distance d et la valeur de l'amplitude xm2.
+
+4.2- En appliquant la conservation de l'énergie mécanique, montrer que l'amplitude xm2 peut s'écrire sous la forme : xm2 = √(d² + m.vA²/K).
+
+4.3- Trouver l'expression de tan φ2 en fonction de d et xm2.
