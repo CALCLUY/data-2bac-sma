@@ -1,0 +1,327 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2011 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2011 - الموضوع - مادة : الفيزياء والكيمياء
+RS31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+Les calculatrices non programmables sont autorisées
+
+Le sujet comporte quatre exercices :
+- Un exercice de chimie (7 points)
+- Trois exercices de physique (13 points)
+
+Exercice de chimie
+- Première partie : réaction d'estérification ……… (4,5 points)
+- Deuxième partie : Préparation du zinc par électrolyse ……… (2,5 points)
+
+Exercices de physique
+Exercice 1 : Détermination de la longueur d'onde d'un rayon lumineux ……… (2 points)
+Exercice 2 : Les oscillateurs électriques ……… (5,25 points)
+Exercice 3 :
+- Première partie : Etude du mouvement d'un satellite artificiel ……… (2,25 points)
+- Deuxième partie : Etude énergétique d'un oscillateur mécanique ……… (3,5 points)
+
+## Chimie (7 points)
+
+### Première partie (4,5 points) : Réaction d'estérification
+
+La formule semi-développée d'un ester est : R-C(=O)-O-R' dont le groupement R peut être une chaine carbonée ou un atome d'hydrogène, par contre le groupement R' est forcèment une chaine carbonée.
+
+Pour étudier la réaction d'estérification, on réalise dans une fiole jaugée un mélange formé de 0,500 mol d'acide éthanoïque CH3COOH et 0,500 mol de butane-2-ol et quelques gouttes d'acide sulfurique.
+
+Le volume total du mélange est V = 100 mL.
+
+Après avoir agité le mélange on le partage en quantités égales dans 10 tubes à essais numérotés de 1 à 10 et on les scèle puis on les met à t = 0 dans un bain marie de température constante 60°C.
+
+Données :
+
+- Densité de l'alcool utilisé : d = 0,79 ;
+- La masse volumique de l'eau : ρe = 1,0 g.cm-3 ;
+- La masse molaire de l'alcool : M(al) = 74,0 g.mol-1 ;
+- La masse molaire de l'acide : M(ac) = 60,0 g.mol-1 ;
+- La constante pKA du couple CH3COOH/CH3COO- à 25°C : pKA = 4,8 ;
+- Le produit ionique de l'eau à 25°C : pKe = 14.
+
+#### 1- Réaction d'estérification
+
+1.1- En utilisant les formules semi-développées, écrire l'équation de la réaction d'estérification qui se produit dans un tube à essai et donner le nom de l'ester formé. (0,5)
+
+[FORMULA_IMAGE_UNREADABLE] (formule semi-développée du butane-2-ol : CH3-CH(OH)-CH2-CH3 donnée sous forme d'image)
+
+1.2- Calculer le volume de l'alcool et la masse de l'acide qui ont été mélangés dans la fiole jaugée. (0,5)
+
+1.3- Dresser le tableau d'avancement de la réaction qui a lieu dans chaque tube à essai et exprimer la quantité de matière de l'ester formé n(ester)t à un instant donné t en fonction de la quantité de matière d'acide restant n(ac)r. (0,5)
+
+#### 2- Dosage de l'acide restant.
+
+Pour doser l'acide restant à un instant t, dans le tube à essai numéro 1 on le verse dans un erlenmeyer jaugé puis on le dilue en ajoutant de l'eau distillée froide jusqu'à obtenir un mélange (S) de volume 100 mL.
+
+On prend 10 mL du mélange (S) et on le verse dans un bécher et on le dose avec une solution d'hydroxyde de sodium de concentration Cb = 1,0 mol.L-1. (on ne tient pas compte, lors du dosage, des ions H3O+ provenant de l'acide sulfurique)
+
+2.1- Ecrire l'équation de la réaction du dosage. (0,25)
+
+2.2- Donner l'expression de la constante d'acidité KA du couple CH3COOH/CH3COO- en fonction des concentrations. (0,25)
+
+2.3- Déduire la constante d'équilibre K associée à l'équation de la réaction du dosage et calculer sa valeur à 25°C. (0,5)
+
+2.4- Le volume de la solution d'hydroxyde de sodium nécessaire pour obtenir l'équivalence est Vb = 4,0 mL.
+Déduire la quantité de matière d'ester formé dans le tube à essais numéro 1. (0,5)
+
+#### 3- Sens d'évolution du système chimique
+
+Le dosage de l'acide restant dans les tubes précédents à différents instant a permis de tracer la courbe x = f(t) dont x est l'avancement de la réaction d'estérification, à un instant t, dans un tube à essai. (figure 1)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : x (mmol) en fonction du temps ; valeur 30 mmol)
+
+3.1- calculer la constante d'équilibre K' associée à la réaction d'estérification. (0,5)
+
+3.2- calculer la quantité de matière d'acide éthanoïque na qu'il faut ajouter à un tube à essai dans les mêmes conditions expérimentales précédentes pour que le rendement final de la synthèse de l'ester à la fin de la réaction soit r = 90%. (1)
+
+### 2ème Partie (2,5 points) : Préparation du zinc par électrolyse
+
+La préparation de certains métaux se fait par l'électrolyse de solution aqueuses qui contiennent les cations de ces métaux.
+
+Plus de 50% de la production mondiale du zinc est obtenue par électrolyse de la solution de sulfate de zinc acidifiée par l'acide sulfurique.
+
+Données :
+
+- Masse molaire du zinc : M(Zn) = 65,4 g.mol-1 ;
+- Constante de Faraday : F = 9,65.10^4 C.mol-1
+- volume molaire dans les conditions de l'expérience : Vm = 24,0 L.mol-1.
+
+La cellule de l'électrolyseur est constituée de deux électrodes et d'une solution de sulfate de zinc acidifiée.
+
+Un générateur électrique appliquant entre les deux électrodes une tension constante permet d'obtenir un courant d'intensité I = 8,0.10^4 A.
+
+L'équation de la réaction de l'électrolyse est : Zn2+(aq) + H2O(l) → (1/2) O2(g) + 2H+(aq) + Zn(s)
+
+1- Ecrire la demie-équation électronique correspondant à la formation du zinc et celle correspondante à la formation du dioxygène. (0,5)
+
+2- Déterminer, en justifiant la réponse, le pôle du générateur qui est lié à l'électrode au niveau de laquelle se dégage le dioxygène. (0,5)
+
+3- L'électrolyse commence à l'instant t0 = 0.
+
+A un instant t la charge électrique qui a été transportée dans le circuit est Q = I.Δt avec Δt = t − t0.
+
+On désigne par x l'avancement de la réaction à l'instant t. Montrer que 2.F.x = I.Δt (0,75)
+
+4- Calculer la masse du zinc formée pendant Δt = 12 h de fonctionnement de l'électrolyseur. (0,75)
+
+## Physique
+
+### EXERCICE 1 (2 points) : Détermination de la longueur d'onde d'un rayon lumineux
+
+Le milieu de propagation des ondes lumineuses est caractérisé par l'indice de réfraction n = c/v pour une fréquence donnée, dont c est la vitesse de propagation de la lumière dans le vide ou dans l'air et v la vitesse de propagation de la lumière monochromatique dans ce milieu.
+
+L'objectif de cet exercice est d'étudier la propagation de deux rayons lumineux monochromatiques de fréquences différentes dans un milieu dispersif.
+
+#### 1- Détermination de la longueur d'onde λ d'une lumière monochromatique dans l'air
+
+On réalise l'expérience de diffraction en utilisant une lumière monochromatique de longueur d'onde λ dans l'air.
+
+On place à quelques centimètres de la source lumineuse une plaque opaque dans laquelle se trouve une fente horizontale de largeur a = 1,00 mm (figure 1).
+
+On observe sur un écran vertical placé à D = 1,00 m de la fente des taches lumineuses. La largeur de la tâche centrale est L = 1,40 mm.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : plaque avec fente de largeur a, écran à distance D, axes x'x et y'y)
+
+1.1- Choisir la réponse juste :
+
+La figure de diffraction observée sur l'écran est :
+
+a) Suivant l'axe x'x ;
+b) Suivant l'axe y'y. (0,25)
+
+1.2- Trouver l'expression de λ en fonction de a, L, et D. calculer λ.
+On rappelle que l'écart angulaire est θ(rad) = λ/a. (0,5)
+
+#### 2- Détermination de la longueur d'onde d'une lumière monochromatique dans le verre transparent.
+
+Un rayon lumineux (R1) monochromatique de fréquence ν1 = 3,80.10^14 Hz arrive sur la face plane d'un demi cylindre en verre transparent au point d'incidence I sous un angle d'incidence i = 60°.
+
+Le rayon (R1) se réfracte au point I et arrive à l'écran vertical au point A (figure 2).
+
+On fait maintenant arriver un rayon lumineux monochromatique (R2) de fréquence ν2 = 7,50.10^14 Hz sur la face plane du demi cylindre sous le même angle d'incidence i = 60°. On constate que le rayon (R2) se réfracte aussi au point I mais il arrive à l'écran vertical en un autre point B de tel sorte que l'angle entre les deux rayons réfractés est α = 0,563°.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : demi cylindre, point d'incidence I, angle i, normale H, écran)
+
+Données :
+
+- L'indice de réfraction du verre pour le rayon lumineux de fréquence ν1 est n1 = 1,626.
+- L'indice de réfraction de l'air est 1,00.
+- c = 3,00.10^8 m.s-1.
+
+2.1- montrer que la valeur de l'indice de réfraction du verre pour le rayon lumineux de fréquence ν2 est n2 = 1,652. (0,5)
+
+2.2- trouver l'expression de la longueur d'onde λ2 du rayon lumineux de fréquence ν2 dans le verre, en fonction de c, n2 et ν2. Calculer λ2. (0,5)
+
+### Exercice 2 (5,25 points) : Les oscillateurs électriques
+
+La réception des ondes électromagnétiques se fait par une antenne qui transforme l'onde électromagnétique en un signal électrique de fréquence égale à celle de l'onde captée. On peut sélectionner une station émettrice en accordant la fréquence propre du dipôle LC lié à l'antenne à celle de l'onde émise par cette station.
+
+L'objectif de cet exercice est d'étudier les oscillations électriques libres et forcées dans un circuit RLC et leur application dans le circuit d'accord.
+
+On réalise le montage électrique représenté dans la figure (1) qui comprend :
+
+- un générateur de force électromotrice E = 6,0 V et de résistance interne négligeable ;
+- un condensateur (C) de capacité C réglable ;
+- une bobine (B) d'inductance L réglable et de résistance négligeable ;
+- un conducteur ohmique (D) de résistance R réglable ;
+- un interrupteur (K).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : générateur E, interrupteur K positions (1) et (2), condensateur C, bobine L, résistance R, courant i)
+
+#### 1- étude des oscillations libres amorties dans un circuit RLC.
+
+Expérience 1 :
+
+On règle la résistance sur la valeur R = 20 Ω et l'inductance sur la valeur 1,0 H et on règle la capacité du condensateur sur C = 60 μF.
+
+Après avoir chargé complètement le condensateur (C), on bascule l'interrupteur (K) à l'instant t = 0 à la position (2).
+
+Un dispositif approprié permet de visualiser l'évolution des tensions uc aux bornes du condensateur (C), uR aux bornes du conducteur ohmique (D) et uL aux bornes de la bobine (B).
+
+On obtient les courbes (a), (b) et (c) représentées dans la figure (2)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : trois oscillogrammes (a), (b), (c) ; échelles 3V et 4,88.10-2 s pour (a) et (c), 0,4V et 4,88.10-2 s pour (b))
+
+1.1- la courbe (a) représente l'évolution de la tension uc en fonction du temps.
+quelle est parmi les deux courbes (b) et (c) celle correspondant à la tension uL ? justifier la réponse. (0,75)
+
+1.2- A partir des courbes précédentes :
+
+a) Déterminer la valeur de l'intensité de courant passant dans le circuit à l'instant t1 = 8,54.10-2 s. (0,5)
+
+b) Préciser le sens du courant dans le circuit entre les instants t1 et t2 = 10,98.10-2 s. (0,5)
+
+1.3- Etablir l'équation différentielle vérifiée par la charge q du condensateur (C). (0,5)
+
+1.4- La solution de l'équation différentielle s'écrit sous la forme q(t) = A.e^(−(R/(2L))t).cos((2π/T) t + 0,077).
+Déterminer la valeur de la constante A en donnant le résultat avec trois chiffres significatifs. (0,5)
+
+#### 2- L'étude énergétique des oscillations libres dans un circuit LC.
+
+On utilise le montage représenté dans la figure (1), et on règle la résistance R sur la valeur R = 0 Ω et la capacité du condensateur sur la valeur C = 60 μF, dans ce cas l'expression de q(t) s'écrit sous la forme : q(t) = qm.cos((1/√(L.C)) t).
+
+2.1- établir l'expression littérale de l'énergie électrique Ee et celle de l'énergie magnétique Em en fonction du temps. (0,5)
+
+2.2- Montrer que l'énergie totale ET de l'oscillateur se conserve aux cours du temps.
+Calculer sa valeur. (1)
+
+#### 3- Etude des oscillations forcées dans un dipôle RLC série.
+
+Expérience 2 :
+
+On monte en série le conducteur ohmique (D), la bobine (B) et le condensateur (C).
+
+On applique entre les bornes du dipôle obtenu une tension sinusoïdale u(t) = 20√2.cos(2πN.t) en Volt.
+
+On garde la tension efficace de la tension u(t) constante et on fait varier la fréquence N.
+
+On mesure l'intensité efficace I du courant pour chaque valeur de N. On visualise à l'aide d'un dispositif approprié l'évolution de l'intensité I en fonction de N, on obtient alors les deux courbes (a) et (b) représentées dans la figure (3) pour deux valeurs R1 et R2 de la résistance R ; (R2 > R1).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : I(A) en fonction de N(Hz) ; courbes (a) et (b) ; graduations 0, 5, 10, 15, 20, 25 Hz et 0,25 ; 0,5 ; 0,75 ; 1 A)
+
+A partir du graphe de la figure (3).
+
+3.1- Déterminer la valeur de la résistance R1. (0,25)
+
+3.2- Calculer le coefficient de qualité Q du circuit dans le cas où R = R2. (0,5)
+
+#### 4- Circuit d'accord
+
+On réalise un circuit d'accord pour l'utiliser dans le dispositif de réception des ondes électromagnétiques en utilisant une bobine d'inductance L = 8,7.10-2 H et de résistance négligeable et le condensateur (C) précédent comme l'indique la figure (4). Calculer la valeur de C' sur laquelle on doit régler la capacité du condensateur (C) pour capter une station radio qui émet ses programmes sur la fréquence F = 540 kHz. (0,25)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : circuit d'accord L et C')
+
+### Exercice 3 (5,75 points)
+
+#### Première partie (2,25 points) : Etude du mouvement d'un satellite artificiel
+
+Le satellite HOTBIRD apparait immobile pour un observateur fixe sur la surface de la terre.
+
+Ce satellite est utilisé pour les télécommunications et les émissions radio et télévisées.
+
+Les paraboles fixées à la surface de la terre et orientées vers le satellite HOTBIRD captent les ondes électromagnétiques provenant de ce dernier sans qu'elles soient munies d'un dispositif permettant de suivre le mouvement du satellite HOTBIRD.
+
+Données :
+
+- Masse de la Terre : MT = 5,98.10^24 kg ;
+- Rayon de la Terre : R = 6400 km ;
+- Constante d'attraction gravitationnelle : G = 6,67.10-11 (S.I) ;
+- On suppose que la Terre est une sphère à répartition massique symétrique ;
+- La Terre effectue un tour complet autour de se son axe polaire en T = 23h56min4s ;
+- La hauteur de l'orbite du satellite HOTBIRD par rapport à la surface de la terre est h = 36000 km.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : Terre de rayon R, axe polaire, parabole, distance d, hauteur h, satellite HOTBIRD)
+
+1- La parabole et la réception des ondes électromagnétiques
+
+Une parabole est fixée sur le toit d'une maison qui se trouve à la latitude α = 33,5°.
+
+1.1- Calculer dans le référentiel géocentrique la vitesse vp de la parabole concave supposée ponctuelle. (0,75)
+
+1.2- Justifier pourquoi il n'est pas nécessaire que la parabole soit munie d'un système rotatoire qui permet de suivre le mouvement du satellite HOTBIRD. (0,25)
+
+2- Etude du mouvement du satellite HOTBIRD
+
+On assimile le satellite HOTBIRD à un point matériel de masse ms.
+
+2.1- En appliquant la deuxième loi de Newton, établir l'expression de la vitesse vs du satellite HOTBIRD sur son orbite en fonction de G, M, R et h. calculer vs. (0,75)
+
+2.2- On considère deux orbites hypothétiques (1) et (2) d'un satellite en mouvement circulaire uniforme comme l'indique la figure (2).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : Orbite (1) et Orbite (2) autour de la Terre, axe polaire de la Terre, satellite)
+
+Choisir la réponse juste en justifiant votre choix :
+
+L'orbite qui correspond au satellite HOTBIRD est :
+
+a) L'orbite (1).
+b) L'orbite (2). (0,5)
+
+#### Deuxième partie (3,5 point) : Etude énergétique d'un oscillateur mécanique
+
+Le pendule pesant est un système mécanique en mouvement de rotation oscillatoire autour d'un axe horizontal, sa période dépond généralement de l'amplitude du mouvement.
+
+L'objectif de cet exercice est d'étudier un oscillateur formé d'un pendule pesant et d'un fil de torsion et comment le transformer à un oscillateur de période indépendante de l'amplitude du mouvement.
+
+On fixe au milieu d'un fil tendu horizontalement, de constante de torsion C, une tige de longueur AB = 2ℓ et de masse négligeable. A l'extrémité inférieur A de la tige est fixé un corps ponctuel (S1) de masse m1 = m.
+
+La tige porte sur sa partie supérieure en un point M situé à une distance d du point O un solide ponctuel (S2) de masse m2 = 2m. La position de (S2) sur la tige peut être réglée.
+
+Lorsque le fil de torsion n'est pas tordu, la tige prend une position verticale.
+
+On désigne par JΔ le moment d'inertie du système constitué par la tige AB et les solides (S1) et (S2) par rapport à l'axe de rotation (Δ) qui est confondu avec le fil de torsion.
+
+On écarte la tige AB de sa position d'équilibre verticale d'un angle θm dans le sens positif puis on la libère sans vitesse initiale, elle effectue alors des oscillations dans un plan vertical.
+
+On repère à chaque instant la position de la tige AB par l'angle θ qu'elle forme avec la verticale passant par O, comme indique la figure (1).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : fil de torsion en O, tige AB, solides (S1) en A et (S2) en M, distance d, longueur ℓ, angle θ)
+
+On néglige tous les frottements.
+
+L'expression de l'énergie potentielle de torsion dans le cas étudié est Ept = 2Cθ² + cte.
+
+On choisit comme état de référence de l'énergie potentielle de pesanteur le plan horizontal contenant le point O, et comme état de référence pour l'énergie potentielle de torsion la position dans laquelle le fil n'est pas tordu (θ = 0).
+
+1- Montrer que l'expression de l'énergie mécanique Em de l'oscillateur s'écrit sous la forme : Em = (1/2) JΔ (dθ/dt)² − mg(2d − ℓ) cos θ + 2Cθ². (1)
+
+2- On considère le cas de faibles oscillations dont 0 < θ ≤ π/18 (rad) et cos θ ≈ 1 − θ²(rad)/2.
+
+2.1- Etablir l'expression de l'équation différentielle vérifiée par l'angle θ. (0,75)
+
+2.2- Trouver l'expression littérale de la période propre T0 de l'oscillateur pour que la solution de l'équation différentielle soit : θ(t) = θm cos((2π/T0) t + φ). (0,75)
+
+3- On règle la position de (S2) sur la tige à la distance d0 du point O, puis on écarte de nouveau la tige de sa position d'équilibre verticale d'un angle θm et on la libère sans vitesse initiale.
+
+Déterminer la distance d0 en fonction de ℓ pour que le mouvement de l'oscillateur soit un mouvement de rotation sinusoïdale, quel que soit la valeur de θm appartenant à l'intervalle ]0 ; π/2]. (1)
