@@ -1,0 +1,164 @@
+---
+Type: Examen National
+Année: 2013
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2013 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة الفرنسية
+NS25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte trois exercices et un problème indépendants deux à deux.
+- Les exercices et le problème peuvent être traités selon l'ordre choisi par le candidat.
+- Le premier exercice se rapporte aux structures algébriques.
+- Le deuxième exercice se rapporte aux nombres complexes.
+- Le troisième exercice se rapporte à l'arithmétique.
+- Le problème se rapporte à l'analyse.
+
+L'USAGE DES CALCULATRICES NON PROGRAMMABLES EST AUTORISÉ
+L'usage de la couleur rouge n'est pas permis
+
+## Exercice 1 : (3,5 pts)
+
+On rappelle que $\left(\mathbb{Z} , + , \times\right)$ est un anneau commutatif, unitaire et intègre.
+
+1- On munit $\mathbb{Z}$ de la loi de composition interne $\top$ définie par : $\left(\forall (x , y) \in \mathbb{Z}^{2}\right) \ ; \ x \top y = x + y - 2$
+
+0,5 — a) Montrer que la loi $\top$ est commutative et associative.
+
+0,25 — b) Montrer que $\left(\mathbb{Z} , \top\right)$ admet un élément neutre que l'on déterminera.
+
+0,5 — c) En déduire que $\left(\mathbb{Z} , \top\right)$ est un groupe commutatif.
+
+2- On munit $\mathbb{Z}$ de la loi de composition interne $\ast$ définie par : $\left(\forall (x , y) \in \mathbb{Z}^{2}\right) \ ; \ x \ast y = xy - 2x - 2y + 6$
+
+et on considère l'application $f$ de $\mathbb{Z}$ dans $\mathbb{Z}$ définie par : $\left(\forall x \in \mathbb{Z}\right) \ ; \ f(x) = x + 2$
+
+0,5 — a) Montrer que l'application $f$ est un isomorphisme de $\left(\mathbb{Z} , +\right)$ dans $\left(\mathbb{Z} , \top\right)$
+
+0,25 — b) Montrer que : $\left(\forall (x , y , z) \in \mathbb{Z}^{3}\right) \ ; \ \left(x \top y\right) \ast z = \left(x \ast z\right) \top \left(y \ast z\right)$
+
+0,75 — 3- En déduire de tout ce qui précède que $\left(\mathbb{Z} , \top , \ast\right)$ est un anneau commutatif et unitaire.
+
+0,25 — 4- a) Montrer que : $x \ast y = 2$ si et seulement si ($x = 2$ ou $y = 2$)
+
+0,25 — b) En déduire que l'anneau $\left(\mathbb{Z} , \top , \ast\right)$ est intègre.
+
+0,25 — c) $\left(\mathbb{Z} , \top , \ast\right)$ est-il un corps ? (justifier votre réponse)
+
+## Exercice 2 : (3,5 pts)
+
+**I-** Soit $a$ un nombre complexe non nul.
+
+Soit dans l'ensemble $\mathbb{C}$ l'équation d'inconnue $z$ : $(E) : z^{2} - \left(3 + i\sqrt{3}\right) a z + \left(1 + i\sqrt{3}\right) a^{2} = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 1- Vérifier que le discriminant de l'équation $(E)$ est : $\left(1 + i\sqrt{3}\right)^{2} a^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 2- Résoudre dans $\mathbb{C}$ l'équation $(E)$
+
+**II-** Le plan complexe étant muni d'un repère orthonormé direct $\left(O , \overrightarrow{u} , \overrightarrow{v}\right)$
+
+On considère les points $A$, $B$ et $M$ d'affixes respectifs $a$, $b = a e^{i\frac{\pi}{3}}$ et $z$
+
+Soit $r$ la rotation de centre $M$ et d'angle $\frac{\pi}{3}$
+
+On pose $A_{1} = r^{-1}(A)$ et $B_{1} = r(B)$ ($r^{-1}$ désigne la rotation réciproque de $r$)
+
+et soient $a_{1}$ et $b_{1}$ les affixes respectifs de $A_{1}$ et $B_{1}$
+
+0,5 — 1- Vérifier que le triangle $OAB$ est équilatéral.
+
+0,5 — 2- a) Montrer que : $a_{1} = \left(\frac{1}{2} - \frac{\sqrt{3}}{2} i\right) a + \left(\frac{1}{2} + \frac{\sqrt{3}}{2} i\right) z$ [FORMULA_IMAGE_UNREADABLE] et $b_{1} = \left(\frac{1}{2} + \frac{\sqrt{3}}{2} i\right) b + \left(\frac{1}{2} - \frac{\sqrt{3}}{2} i\right) z$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que le quadrilatère $OA_{1}MB_{1}$ est un parallélogramme.
+
+3- On suppose que : $M \neq A$ et $M \neq B$
+
+0,5 — a) Montrer que : $\dfrac{z - b_{1}}{z - a_{1}} = \dfrac{z - b}{z - a} \cdot \dfrac{a}{b}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b) Montrer que $M$, $A_{1}$ et $B_{1}$ sont alignés si et seulement si $M$, $O$, $A$ et $B$ sont cocycliques.
+
+## Exercice 3 : (3 pts)
+
+L'objectif de l'exercice est de chercher les entiers naturels $n$ strictement supérieurs à $1$ et qui vérifient la propriété suivante : $(R) : \quad 3^{n} + 2^{n} \equiv 0 \ [n]$
+
+1- On suppose que $n$ vérifie la propriété $(R)$ et soit $p$ le plus petit diviseur premier positif de $n$.
+
+0,75 — a) Montrer que : $3^{n} + 2^{n} \equiv 0 \ [p]$, en déduire que $p \geq 5$
+
+0,5 — b) Montrer que : $2^{p-1} \equiv 1 \ [p]$ et $3^{p-1} \equiv 1 \ [p]$
+
+0,5 — c) Montrer qu'il existe un couple $(a , b)$ de $\mathbb{Z}^{2}$ tel que : $an + b\left(p - 1\right) = 1$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — d) Soient $r$ et $q$ le reste et le quotient de la division euclidienne de $a$ par $p - 1$ : $a = q\left(p - 1\right) + r$ avec $0 \leq r < p - 1$ et $q \in \mathbb{Z}$
+
+Montrer qu'il existe un entier naturel $k$ tel que : $rn \equiv 1 + k\left(p - 1\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — 2- En déduire de tout ce qui précède qu'il n'existe pas d'entier naturel $n$ strictement supérieur à $1$ vérifiant $(R)$
+
+## Problème : (10 pts)
+
+On considère la fonction numérique $h$ définie sur l'intervalle $\left[1 , +\infty\right[$ par : $h(1) = 1$
+
+et $\left(\forall x > 1\right) \ ; \ h(x) = \dfrac{x - 1}{x \ln x}$ [FORMULA_IMAGE_UNREADABLE]
+
+### Première partie :
+
+0,25 — 1- a) Montrer que la fonction $h$ est continue à droite en $1$
+
+0,75 — b) Montrer que : $\left(\forall x > 1\right) \ ; \ \ln x \leq x - 1$ [FORMULA_IMAGE_UNREADABLE], en déduire que la fonction $h$ est strictement décroissante sur l'intervalle $\left[1 , +\infty\right[$
+
+0,5 — 2- a) Calculer $\lim\limits_{x \to +\infty} h(x)$ puis donner le tableau de variations de $h$
+
+0,25 — b) En déduire que : $\left(\forall x \geq 1\right) \ ; \ 0 < h(x) \leq 1$
+
+### Deuxième partie :
+
+On considère la fonction numérique $g$ définie sur l'intervalle $\left[1 , +\infty\right[$ par : $g(1) = \ln 2$
+
+et $\left(\forall x > 1\right) \ ; \ g(x) = \displaystyle\int_{x}^{2x} \frac{1}{t \ln t}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+Soit $(C)$ la courbe représentative de la fonction $g$ dans un repère orthonormé $\left(O , \overrightarrow{i} , \overrightarrow{j}\right)$
+
+0,25 — 1- a) Vérifier que : $\left(\forall x > 1\right) \ ; \ \displaystyle\int_{x}^{2x} \frac{1}{t \ln t}\,dt = \ln 2$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — b) Vérifier que : $\left(\forall x > 1\right) \ ; \ g(x) - \ln 2 = \displaystyle\int_{x}^{2x} \frac{t - \ldots}{t \ln t}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — c) Montrer que : $\left(\forall x > 1\right) \ ; \ g(x) - \ln 2 = \displaystyle\int_{x}^{2x} \frac{t}{\ln t}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 2- a) Montrer que : $\left(\forall x > 1\right) \ ; \ \left(x - 1\right) h(x) \leq g(x) - \ln 2 \leq \left(x - 1\right) h(x)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) En déduire que la fonction $g$ est dérivable à droite au point $1$
+
+0,75 — c) Montrer que : $\lim\limits_{x \to +\infty} g(x) = +\infty$ [FORMULA_IMAGE_UNREADABLE] et que $\lim\limits_{x \to +\infty} \dfrac{g(x)}{x} = 0$
+
+0,75 — 3- a) Montrer que $g$ est dérivable sur l'intervalle $\left]1 , +\infty\right[$ et que : $\left(\forall x > 1\right) \ ; \ g'(x) = \dfrac{1}{2} h(x) - \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) En déduire que : $\left(\forall x > 1\right) \ ; \ 0 < g'(x) \leq \dfrac{1}{2}$, puis donner le tableau de variations de $g$
+
+0,5 — c) Construire la courbe $(C)$
+
+### Troisième partie :
+
+0,5 — **I-** 1- Montrer que la fonction $k : x \mapsto g(x) - x + 1$ est une bijection de l'intervalle $\left[1 , +\infty\right[$ dans l'intervalle $\left]-\infty , \ln 2\right]$
+
+0,25 — 2- En déduire qu'il existe un unique réel $\alpha$ de l'intervalle $\left[1 , +\infty\right[$ qui vérifie : $g(\alpha) = \alpha - 1$
+
+**II -** On considère la suite numérique $\left(u_{n}\right)_{n \geq 0}$ définie par : $u_{0} = 1$ et $\left(\forall n \geq 0\right) \ ; \ u_{n+1} = g\left(u_{n}\right) + 1$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- a) Montrer que : $\left(\forall n \geq 0\right) \ ; \ 1 \leq u_{n} \leq \alpha$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que la suite $\left(u_{n}\right)_{n \geq 0}$ est strictement croissante.
+
+0,75 — c) En déduire que la suite $\left(u_{n}\right)_{n \geq 0}$ est convergente et que $\lim\limits_{n \to +\infty} u_{n} = \alpha$
+
+0,5 — 2- a) Montrer que : $\left(\forall n \geq 0\right) \ ; \ \left|u_{n+1} - \alpha\right| \leq \dfrac{1}{2} \left|u_{n} - \alpha\right|$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que : $\left(\forall n \geq 0\right) \ ; \ \left|u_{n} - \alpha\right| \leq \left(\dfrac{1}{2}\right)^{n} \left|u_{0} - \alpha\right|$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — c) En déduire une deuxième fois, que : $\lim\limits_{n \to +\infty} u_{n} = \alpha$
+
+FIN

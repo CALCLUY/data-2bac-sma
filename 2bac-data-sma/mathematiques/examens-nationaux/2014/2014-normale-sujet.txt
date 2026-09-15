@@ -1,0 +1,164 @@
+---
+Type: Examen National
+Année: 2014
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2014 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة الفرنسية
+NS 25 — المعامل : 9 — مدة الإنجاز : 4
+
+[NOTE D'EXTRACTION : dans la couche texte de ce PDF les barèmes en marge sont écrits à
+l'envers (sens RTL) : « 5.0 » = 0,5 ; « 5.20 » = 0,25 ; « 5..0 » = 0,75. Ils sont restitués
+ci-dessous dans leur lecture correcte.]
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte 5 exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+  - Le premier exercice se rapporte à l'arithmétique……………......(3 pts)
+  - Le deuxième exercice se rapporte aux structures algébriques...…(3.5 pts)
+  - Le troisième exercice se rapporte aux nombres complexes……...(3.5 pts)
+  - Le quatrième exercice se rapporte à l'analyse………………..…..(8 pts)
+  - Le cinquième exercice se rapporte à l'analyse……………...……(2 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas permis
+
+## Exercice 1 : (3 pts)
+
+Pour tout $n$ de $\mathbb{N}^{*}$, on pose : $a_{n} = \underbrace{333\ldots\ldots 3}_{n \ fois} 1$ ($n$ fois le chiffre $3$)
+
+0,5 — 1- Vérifier que les deux nombres $a_{1}$ et $a_{2}$ sont premiers.
+
+0,5 — 2- Montrer que pour tout $n$ de $\mathbb{N}^{*}$ : $3a_{n} = 10^{n+1} - 7$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — 3- Montrer que pour tout $k$ de $\mathbb{N}$ : $10^{30k+2} \equiv 7 \ [31]$
+
+0,75 — 4- Montrer que pour tout $k$ de $\mathbb{N}$ : $3 a_{30k+1} \equiv 0 \ [31]$, puis en déduire que $31$ divise $a_{30k+1}$
+
+0,5 — 5- Montrer que pour tout $n$ de $\mathbb{N}^{*}$, si $n \equiv 1 \ [30]$ alors l'équation $a_{n} x + 31 y = 1$ n'admet pas de solutions dans $\mathbb{Z}^{2}$
+
+## Exercice 2 : (3,5 pts)
+
+On rappelle que $\left(\mathbb{C} , + , \times\right)$ est un corps commutatif et que $\left(M_{2}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire de zéro $O = \begin{pmatrix} 0 & 0 \\ 0 & 0 \end{pmatrix}$ et d'unité $I = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$.
+
+Pour tout $a$ et $b$ de $\mathbb{R}$, on pose : $M(a , b) = \begin{pmatrix} a & a + b \\ b & a - b \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE] et on considère l'ensemble $E = \left\{ M(a , b) \ / \ (a , b) \in \mathbb{R}^{2} \right\}$
+
+0,5 — 1- Montrer que $E$ est un sous-groupe du groupe $\left(M_{2}(\mathbb{R}) , +\right)$
+
+0,75 — 2- Calculer $J^{2} = J \times J$ sachant que $J = \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}$, puis en déduire que $E$ n'est pas stable dans $\left(M_{2}(\mathbb{R}) , \times\right)$
+
+3- On définit sur $M_{2}(\mathbb{R})$ la loi de composition interne $\ast$ par : $A \ast B = A \times N \times B$ avec $N = \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}$
+
+On considère l'application $\varphi$ de $\mathbb{C}^{*}$ vers $M_{2}(\mathbb{R})$ qui associe à chaque nombre complexe non nul $a + ib$ ($a$ et $b$ étant deux nombres réels) la matrice $M(a , b)$.
+
+0,5 — a) Montrer que $\varphi$ est un homomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ vers $\left(M_{2}(\mathbb{R}) , \ast\right)$
+
+0,75 — b) On pose : $E^{*} = E \setminus \{O\}$. Montrer que : $\varphi\left(\mathbb{C}^{*}\right) = E^{*}$
+
+0,5 — c) Montrer que $\left(E^{*} , \ast\right)$ est un groupe commutatif.
+
+0,5 — 4- Montrer que : $\left(\forall (A , B , C) \in E^{3}\right) \quad A \ast \left(B + C\right) = A \ast B + A \ast C$
+
+0,5 — 5- En déduire de ce qui précède que $\left(E , + , \ast\right)$ est un corps commutatif.
+
+## Exercice 3 : (3,5 pts)
+
+Le plan complexe étant rapporté à un repère orthonormé direct $\left(O , \overrightarrow{u} , \overrightarrow{v}\right)$
+
+Soit $\theta$ un nombre réel tel que : $\theta \in \left[0 , \frac{\pi}{4}\right[ \cup \left]\frac{\pi}{4} , \frac{\pi}{2}\right[$ [FORMULA_IMAGE_UNREADABLE]
+
+1- On considère dans $\mathbb{C}$ l'équation suivante : $(E) \quad z^{2} - 2 e^{i\theta} z + e^{2i\theta} = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — a) Vérifier que le discriminant de l'équation $(E)$ est : $\Delta = \left(2i e^{i\theta}\right)^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b) Écrire sous forme trigonométrique les deux racines $z_{1}$ et $z_{2}$ de l'équation $(E)$ dans $\mathbb{C}$
+
+2- On considère les points $I$, $J$, $T_{1}$, $T_{2}$ et $A$ d'affixes respectives $1$, $i$, $e^{i\left(\theta + \frac{\pi}{4}\right)}$, $e^{i\left(\theta - \frac{\pi}{4}\right)}$ et $2 e^{i\theta}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a) Montrer que les deux droites $(OA)$ et $\left(T_{1}T_{2}\right)$ sont perpendiculaires.
+
+0,25 — b) Soit $K$ le milieu du segment $\left[T_{1}T_{2}\right]$. Montrer que les points $O$, $K$ et $A$ sont alignés.
+
+0,25 — c) En déduire que la droite $(OA)$ est la médiatrice du segment $\left[T_{1}T_{2}\right]$.
+
+3- Soit $r$ la rotation de centre $T_{1}$ et d'angle $\frac{\pi}{2}$
+
+0,25 — a) Donner l'expression complexe de la rotation $r$
+
+0,5 — b) Vérifier que l'affixe du point $B$ image du point $I$ par la rotation $r$ est : $b = 2 e^{i\theta} + i$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — c) Montrer que les deux droites $(AB)$ et $(IJ)$ sont perpendiculaires.
+
+0,25 — 4- Déterminer l'affixe du point $C$ image du point $A$ par la translation de vecteur $\left(-\overrightarrow{v}\right)$
+
+0,25 — 5- Montrer que $A$ est le milieu du segment $[BC]$
+
+## Exercice 4 : (8 pts)
+
+**I** — On considère la fonction $f$ définie sur $\left[0 , +\infty\right[$ par : $\begin{cases} f(x) = \dfrac{-x \ln x}{1 + x^{2}} \ ; \ x > 0 \\ f(0) = 0 \end{cases}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- a) Montrer que $f$ est continue sur $\left[0 , +\infty\right[$.
+
+0,25 — b) Étudier le signe de $f(x)$ sur $\left[0 , +\infty\right[$.
+
+0,25 — 2- a) Montrer que : $\left(\forall x \in \mathbb{R}^{*}_{+}\right) \quad f\left(\dfrac{1}{x}\right) = f(x)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — b) Montrer que la fonction $f$ est dérivable sur $\left]0 , +\infty\right[$
+
+0,5 — c) Montrer que : $f'(1) = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — d) En déduire que : $f'\left(\dfrac{1}{\ldots}\right) = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+**II** — On considère la fonction $F$ définie sur $\left[0 , +\infty\right[$ par : $F(x) = \displaystyle\int_{0}^{x} f(t)\,dt$
+
+et soit $(C)$ sa courbe représentative dans un repère orthonormé.
+
+0,5 — 1- a) Vérifier que : $\left(\forall t \geq 1\right) \ , \ \dfrac{t^{2}}{1 + t^{2}} = 1 - \dfrac{1}{1 + t^{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — b) Montrer que : $\left(\forall x \geq 1\right) \ , \ F(x) = \dfrac{1}{2}\left(\ln\left(1 + x^{2}\right)\right) - \dfrac{1}{4}\left(\ln x\right)^{2} + \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+(On remarquera que : $F(x) = \displaystyle\int_{0}^{x} f(t)\,dt = \int_{0}^{x} \frac{-t \ln t}{1 + t^{2}}\,dt$)
+
+1 — c) Calculer $\lim\limits_{x \to +\infty} F(x)$ et $\lim\limits_{x \to +\infty} \dfrac{F(x)}{x}$ puis donner une interprétation géométrique du résultat obtenu.
+
+0,5 — 2- a) Montrer que $F$ est dérivable sur $\left[0 , +\infty\right[$ puis calculer $F'(x)$
+
+0,25 — b) Étudier les variations de $F$ sur $\left[0 , +\infty\right[$
+
+**III** — 0,5 — 1- a) Montrer que : $\left(\forall t > 0\right) \ , \ \ln t \geq t - \dfrac{1}{e} \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b) En déduire que : $\left(\forall t > 0\right) \ , \ f(t) \leq \dfrac{1}{e}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — c) Montrer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \quad F(x) < x$
+
+2- On considère la suite $\left(u_{n}\right)_{n \geq 0}$ définie par : $u_{0} \in \left]0 , 1\right[$ et $\left(\forall n \in \mathbb{N}\right) \quad u_{n+1} = F\left(u_{n}\right)$
+
+0,5 — a) Montrer que : $\left(\forall n \in \mathbb{N}\right) \quad u_{n} \in \left]0 , 1\right[$
+
+0,5 — b) Montrer que la suite $\left(u_{n}\right)_{n \geq 0}$ est strictement décroissante et en déduire qu'elle est convergente.
+
+0,5 — c) Déterminer $\lim\limits_{n \to +\infty} u_{n}$
+
+## Exercice 5 : (2 pts)
+
+On considère la fonction $g$ définie sur $\left[0 , +\infty\right[$ par : $\begin{cases} g(x) = \dfrac{1}{x^{2}} e^{-\frac{1}{x}} \ ; \ x > 0 \\ g(0) = 0 \end{cases}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- Montrer que $g$ est continue sur $\left[0 , +\infty\right[$.
+
+2- Pour tout réel $x$ de l'intervalle $\left[0 , +\infty\right[$ on pose : $L(x) = \displaystyle\int_{x}^{1} g(t)\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — a) Montrer que $L$ est continue sur $\left[0 , +\infty\right[$.
+
+0,25 — b) Calculer $L(x)$ pour $x > 0$
+
+0,5 — c) Calculer $\lim\limits_{x \to 0^{+}} L(x)$ et en déduire la valeur de $L(0)$
+
+3- Pour tout entier naturel non nul $n$, on pose : $s_{n} = \dfrac{1}{n} \displaystyle\sum_{p=0}^{n-1} g\left(\frac{p}{n}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — Montrer que la suite $\left(s_{n}\right)_{n \geq 1}$ est convergente puis déterminer sa limite.
+
+FIN

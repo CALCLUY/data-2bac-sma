@@ -1,0 +1,142 @@
+---
+Type: Examen National
+Année: 2011
+Session: Rattrapage
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2011 – الموضوع - مادة : الرياضيات
+RS25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte cinq exercices tous indépendants deux à deux.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- Le premier exercice se rapporte aux structures algébriques.
+- Le deuxième exercice se rapporte à l'arithmétique.
+- Le troisième exercice se rapporte aux nombres complexes.
+- Le quatrième exercice se rapporte à l'analyse.
+- Le cinquième exercice se rapporte à l'analyse.
+
+Les calculatrices non programmables sont autorisées.
+
+## Premier exercice : (3,5 points)
+
+Pour tout $x$ et $y$ de l'intervalle $I = \left]0 , 1\right[$ on pose : $x \ast y = \dfrac{xy}{2xy - x - y + 1}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- a) Montrer que $\ast$ est une loi de composition interne dans $I$
+
+0,5 — b) Montrer que la loi $\ast$ est commutative et associative.
+
+0,5 — c) Montrer que $\left(I , \ast\right)$ admet un élément neutre que l'on déterminera.
+
+0,5 — 2- Montrer que $\left(I , \ast\right)$ est un groupe commutatif.
+
+3- On considère les deux ensembles $H = \left\{ 2^{n} \ / \ n \in \mathbb{Z} \right\}$ et $K = \left\{ \dfrac{1}{1 + 2^{n}} \ / \ n \in \mathbb{Z} \right\}$
+
+0,5 — a) Montrer que $H$ est un sous-groupe de $\left(\mathbb{R}^{*} , \times\right)$
+
+0,5 — b) On considère l'application : $\varphi : H \to I \ , \ x \mapsto \dfrac{1}{1 + x}$
+
+Montrer que $\varphi$ est un homomorphisme de $\left(H , \times\right)$ vers $\left(I , \ast\right)$
+
+0,5 — c) En déduire que $K$ est un sous-groupe de $\left(I , \ast\right)$
+
+## Deuxième exercice : (2,5 points)
+
+Soit $x$ un nombre entier naturel tel que : $2^{x} \equiv 10 \ [19]$
+
+0,25 — 1- a) Vérifier que : $10^{x-1} \equiv 1 \ [19]$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que : $10^{18} \equiv 1 \ [19]$
+
+2- Soit $d$ le plus grand diviseur commun des deux nombres $18$ et $x - 1$
+
+0,75 — a) Montrer que : $10^{d} \equiv 1 \ [19]$
+
+0,5 — b) Montrer que : $d = 18$
+
+0,5 — c) En déduire que : $x \equiv 17 \ [18]$ [FORMULA_IMAGE_UNREADABLE]
+
+## Troisième exercice : (4 points)
+
+**Première partie :** On considère dans l'ensemble $\mathbb{C}$ l'équation :
+
+$$(E) \quad z^{3} - \left(1 + 2i\right) z^{2} + \left(3 + i\right) z - 10\left(1 + i\right) = 0$$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- Vérifier que $2i$ est une solution de l'équation $(E)$
+
+0,5 — 2- Déterminer les deux nombres complexes $\alpha$ et $\beta$ tels que :
+
+$$z^{3} - \left(1 + 2i\right) z^{2} + \left(3 + i\right) z - 10\left(1 + i\right) = \left(z - 2i\right)\left(z^{2} + \alpha z + \beta\right)$$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 3- a) Déterminer les deux racines carrées du nombre $-5 + 12i$
+
+0,5 — b) Résoudre dans $\mathbb{C}$ l'équation $(E)$
+
+**Deuxième partie :** Le plan complexe étant rapporté à un repère orthonormé direct.
+
+On considère les points $A$ et $B$ et $C$ d'affixes respectifs $a = -1 + 3i$ et $b = 2 - i$ et $c = 2 + i$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- Montrer que le triangle $ABC$ est rectangle et isocèle en $C$
+
+2- On considère la rotation $R_{1}$ de centre $B$ et dont une mesure de l'angle est $\frac{\pi}{3}$ et la rotation $R_{2}$ de centre $A$ et dont une mesure de l'angle est $-\frac{2\pi}{3}$. Soit $M$ un point du plan complexe d'affixe $z$ et $M_{1}$ son image par la rotation $R_{1}$ et $M_{2}$ son image par la rotation $R_{2}$.
+
+0,5 — a) Vérifier que l'expression complexe de la rotation $R_{1}$ est : $z' = \dfrac{1 + i\sqrt{3}}{2} z + \dfrac{3 - i\sqrt{3}}{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Déterminer $z_{2}$ l'affixe de $M_{2}$ en fonction de $z$
+
+0,5 — c) En déduire que $I$, le milieu du segment $\left[M_{1} M_{2}\right]$, est un point fixe.
+
+## Quatrième exercice : (6 points)
+
+Soit $f$ la fonction numérique définie sur $\left]0 , +\infty\right[$ par $f(x) = x + \ln x$ et $(C)$ sa courbe représentative dans le plan muni d'un repère orthonormé $\left(O ; \overrightarrow{i} , \overrightarrow{j}\right)$
+
+(On prendra $\|\overrightarrow{i}\| = \|\overrightarrow{j}\| = 1\,cm$)
+
+1 — 1- Calculer les limites suivantes : $\lim\limits_{x \to +\infty} f(x)$ ; $\lim\limits_{x \to 0^{+}} f(x)$ ; $\lim\limits_{x \to +\infty} \dfrac{f(x)}{x}$ ; $\lim\limits_{x \to +\infty} \left(f(x) - x\right)$
+
+0,25 — 2- a) Dresser le tableau de variations de la fonction $f$
+
+0,75 — b) Montrer que $f$ est une bijection de l'intervalle $\left]0 , +\infty\right[$ vers un intervalle $J$ que l'on déterminera puis dresser le tableau de variation de la bijection réciproque $f^{-1}$
+
+0,75 — 3) Calculer $f^{-1}(1)$ et $f(e)$ puis construire $(C)$ et $(C')$ la courbe représentative de $f^{-1}$ dans le même repère $\left(O ; \overrightarrow{i} , \overrightarrow{j}\right)$
+
+0,5 — 4- a) Calculer l'intégrale $\displaystyle\int_{1}^{1 + e} f^{-1}(x)\,dx$ (on posera : $t = f^{-1}(x)$)
+
+0,5 — b) En déduire l'aire du domaine plan limité par $(C')$ et les droites d'équations : $x = 1$ ; $x = 1 + e$ et $y = x$
+
+5- Pour tout entier naturel non nul $n$, on considère l'équation : $\left(E_{n}\right) \quad x + \ln x = n$
+
+0,25 — a) Montrer que l'équation $\left(E_{n}\right)$ admet une solution unique $x_{n}$.
+
+0,5 — b) Déterminer la valeur de $x_{1}$ puis montrer que : $\lim\limits_{n \to +\infty} x_{n} = +\infty$
+
+0,5 — 6- a) Montrer que : $\left(\forall n \in \mathbb{N}^{*}\right) \quad f\left(x_{n}\right) \leq f(n)$ en déduire que : $\left(\forall n \in \mathbb{N}^{*}\right) \quad x_{n} \leq n$
+
+0,5 — b) Montrer que : $\left(\forall n \in \mathbb{N}^{*}\right) \quad n - \ln n \leq x_{n}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — c) Calculer $\lim\limits_{n \to +\infty} \dfrac{x_{n}}{n}$ et $\lim\limits_{n \to +\infty} \dfrac{x_{n} - n}{\ln n}$ [FORMULA_IMAGE_UNREADABLE]
+
+## Cinquième exercice : (4 points)
+
+Soit $n$ un entier naturel non nul et $f_{n}$ la fonction numérique définie sur $\mathbb{R}$ par :
+
+$$f_{n}(x) = x + \frac{x^{2}}{2} + \ldots\ldots + \frac{x^{n}}{n} - 1$$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- Montrer que pour $n \geq 2$ il existe un réel unique $\alpha_{n}$ de l'intervalle $\left]0 , 1\right[$ tel que : $f_{n}\left(\alpha_{n}\right) = 0$
+
+0,75 — 2- Montrer que la suite $\left(\alpha_{n}\right)_{n \geq 2}$ est strictement décroissante en déduire qu'elle est convergente.
+(On pose : $\ell = \lim\limits_{n \to +\infty} \alpha_{n}$)
+
+0,5 — 3- a) Vérifier que pour $t \neq 1$ on a : $1 + t + t^{2} + \ldots\ldots + t^{n-1} = \dfrac{1 - t^{n}}{1 - t}$
+
+0,5 — b) En déduire que : $\alpha_{n} + \dfrac{\alpha_{n}^{2}}{2} + \ldots\ldots + \dfrac{\alpha_{n}^{n}}{n} = -\ln\left(1 - \alpha_{n}\right) - \displaystyle\int_{0}^{\alpha_{n}} \frac{t^{n}}{1 - t}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 4- a) Montrer que : $-\ln\left(1 - \alpha_{n}\right) - 1 = \displaystyle\int_{0}^{\alpha_{n}} \frac{t^{n}}{1 - t}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que : $0 \leq \displaystyle\int_{0}^{\alpha_{n}} \frac{t^{n}}{1 - t}\,dt \leq \frac{1}{\left(n + 1\right)\left(1 - \alpha_{n}\right)}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — c) En déduire que : $\ell = 1 - \dfrac{1}{e}$
+
+FIN

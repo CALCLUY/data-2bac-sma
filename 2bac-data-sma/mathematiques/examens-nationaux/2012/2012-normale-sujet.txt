@@ -1,0 +1,160 @@
+---
+Type: Examen National
+Année: 2012
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2012 – الموضوع - مادة : الرياضيات
+NS25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte cinq exercices indépendants deux à deux.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- Le premier exercice se rapporte aux structures algébriques
+- Le deuxième exercice se rapporte aux nombres complexes
+- Le troisième exercice se rapporte à l'arithmétique
+- Le quatrième exercice se rapporte à l'analyse
+- Le cinquième exercice se rapporte à l'analyse
+
+L'USAGE DES CALCULATRICES NON PROGRAMMABLES EST AUTORISÉ
+L'usage de la couleur rouge n'est pas permis
+
+## EXERCICE 1 : (3,5 points) — les parties I et II sont indépendantes
+
+**I** - Dans l'anneau unitaire $\left(M_{3}(\mathbb{R}) , + , \times\right)$, on considère les deux matrices
+
+$$A = \frac{1}{5} \begin{pmatrix} 1 & 0 & 0 \\ 2 & 0 & 2 \\ 1 & 0 & 1 \end{pmatrix}$$ [FORMULA_IMAGE_UNREADABLE]
+
+et $I = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$
+
+0,75 — 1) Calculer $A - I$ et $A^{2}$
+
+0,5 — 2) En déduire que $A$ admet une matrice inverse que l'on déterminera.
+
+**II** - Pour tout $a$ et $b$ de l'intervalle $I = \left]1 , +\infty\right[$, on pose : $a \ast b = \sqrt{a^{2} + b^{2} - a^{2} b^{2} \ldots}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 1) Vérifier que : $\left(\forall (x , y) \in \mathbb{R}^{2}\right) \ ; \ x^{2} + y^{2} - 2 = \left(x^{2} - 1\right)\left(y^{2} - 1\right) - 1$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 2) Montrer que $\ast$ est une loi de composition interne dans $I$
+
+3) On rappelle que $\left(\mathbb{R}^{*}_{+} , \times\right)$ est un groupe commutatif.
+
+On considère l'application : $\varphi : \mathbb{R}^{*}_{+} \to I \ , \ x \mapsto \sqrt{x^{2} + 1}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a - Montrer que $\varphi$ est un isomorphisme de $\left(\mathbb{R}^{*}_{+} , \times\right)$ vers $\left(I , \ast\right)$
+
+0,25 — b - En déduire la structure de $\left(I , \ast\right)$
+
+0,75 — c - Montrer que l'ensemble $\left\{ \sqrt{1 + 2^{m}} \ / \ m \in \mathbb{Z} \right\}$ [FORMULA_IMAGE_UNREADABLE] est un sous-groupe de $\left(I , \ast\right)$
+
+## EXERCICE 2 : (3,5 points) — les parties I et II sont indépendantes
+
+Le plan complexe est rapporté à un repère orthonormé direct $\left(O ; \overrightarrow{u} , \overrightarrow{v}\right)$
+
+**I** - On considère dans $\mathbb{C}$ l'équation $(E) : \ iz^{2} - 2\left(1 + i\right) a z + \left(1 - i\right) a^{2} = 0$ [FORMULA_IMAGE_UNREADABLE] où $a$ est un nombre complexe non nul.
+
+0,75 — 1) Déterminer $z_{1}$ et $z_{2}$, les deux racines de l'équation $(E)$
+
+0,25 — 2) a- Vérifier que : $z_{1} z_{2} = a^{2}\left(i - 1\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b- Montrer que : $z_{1} z_{2}$ est un nombre réel $\Leftrightarrow \arg a \equiv \dfrac{3\pi}{8} \left[\dfrac{\pi}{2}\right]$
+
+**II** - Soient $c$ un nombre réel non nul et $z$ un nombre complexe non nul.
+
+On considère les points $A$, $B$, $C$, $D$ et $M$ d'affixes respectifs $1$, $1 + i$, $c$, $ic$ et $z$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1) a- Montrer que : $A$, $D$ et $M$ sont alignés $\Leftrightarrow \left(ic - 1\right) \overline{z} + \left(\overline{ic} - 1\right) z = 2ic$ [FORMULA_IMAGE_UNREADABLE] (remarquer que $\overline{c} = c$)
+
+0,5 — b - Montrer que : $(AD) \perp (OM) \Leftrightarrow \left(ic - 1\right) \overline{z} - \left(\overline{ic} - 1\right) z = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+2) Soit $h$ l'affixe du point $H$, la projection orthogonale du point $O$ sur $(AD)$
+
+0,75 — a - Montrer que : $\left(1 - i\right) h + \dfrac{i}{c} \overline{h} = \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — b - En déduire que $(CH) \perp (BH)$
+
+## EXERCICE 3 : (3 points)
+
+1) On considère dans $\mathbb{Z}^{2}$ l'équation $(E) : 143x - 195y = 52$
+
+0,5 — a - Déterminer le plus grand commun diviseur de $143$ et $195$, puis en déduire que l'équation $(E)$ admet des solutions dans $\mathbb{Z}^{2}$
+
+0,75 — b - Sachant que $(-1 , -1)$ est une solution particulière de l'équation $(E)$, résoudre dans $\mathbb{Z}^{2}$ l'équation $(E)$ en précisant les étapes de la résolution.
+
+2) Soit $n$ un entier naturel non nul premier avec $5$
+
+0,5 — Montrer que pour tout $k$ de $\mathbb{Z}$ on a : $n^{4k} \equiv 1 \ [5]$
+
+3) Soient $x$ et $y$ deux entiers naturels non nuls tel que $x \equiv y \ [4]$
+
+0,5 — a- Montrer que pour tout $n$ de $\mathbb{N}^{*}$, on a : $n^{x} \equiv n^{y} \ [5]$
+
+0,5 — b- En déduire que pour tout $n$ de $\mathbb{N}^{*}$, on a : $n^{x} \equiv n^{y} \ [10]$
+
+0,25 — 4) Soient $x$ et $y$ deux entiers naturels tel que $(x , y)$ est solution de l'équation $(E)$
+
+Montrer que pour tout $n$ de $\mathbb{N}^{*}$, les deux nombres $n^{x}$ et $n^{y}$ ont le même chiffre des unités dans l'écriture dans le système décimal.
+
+## EXERCICE 4 : (5,5 points)
+
+$n$ est un entier naturel non nul.
+
+On considère la fonction numérique $f_{n}$ définie sur $\mathbb{R}$ par : $f_{n}(x) = x - \dfrac{e^{x}}{n}$ [FORMULA_IMAGE_UNREADABLE]
+
+Soit $\left(C_{n}\right)$ la courbe représentative de $f_{n}$ dans le plan muni d'un repère orthonormé $\left(O ; \overrightarrow{i} , \overrightarrow{j}\right)$
+
+0,5 — 1) Calculer $\lim\limits_{x \to +\infty} f_{n}(x)$ et $\lim\limits_{x \to -\infty} f_{n}(x)$
+
+0,5 — 2) a - Étudier la branche infinie de $\left(C_{n}\right)$ au voisinage de $+\infty$.
+
+0,5 — b - Montrer que la droite $(D)$ d'équation $y = x$ est une asymptote oblique à la courbe $\left(C_{n}\right)$ au voisinage de $-\infty$, puis déterminer la position relative de $\left(C_{n}\right)$ et $(D)$
+
+0,75 — 3) Étudier les variations de $f_{n}$ et dresser son tableau de variations.
+
+0,75 — 4) Construire la courbe $\left(C_{3}\right)$. (On prend $f_{3}(-0,6) \simeq 0$ et $f_{3}(1,5) \simeq 0$ et $\ln 3 \simeq 1,1$)
+
+0,25 — 5) a- Montrer que pour $n \geq 3$ on a : $\dfrac{e}{n} \leq \ln n$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — b- Montrer que pour $n \geq 3$ l'équation $f_{n}(x) = 0$ admet exactement deux solutions $x_{n}$ et $y_{n}$ telles que : $x_{n} \leq \ln n$ et $0 < y_{n} \leq \dfrac{e}{n}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — c- Calculer $\lim\limits_{n \to +\infty} x_{n}$ et $\lim\limits_{n \to +\infty} y_{n}$
+
+6) On considère la fonction numérique $g$ définie sur $\left[0 , +\infty\right[$ par : $\begin{cases} g(x) = 1 + x \ln x \ ; \ x > 0 \\ g(0) = 1 \end{cases}$
+
+0,25 — a- Montrer que la fonction $g$ est continue à droite au point $0$
+
+0,25 — b- Vérifier que pour $n \geq 3$ on a : $g\left(\dfrac{x_{n}}{n}\right) = 1 + \dfrac{x_{n}}{n} \ln\left(\dfrac{x_{n}}{n}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — c- En déduire $\lim\limits_{n \to +\infty} \dfrac{x_{n}}{\ln n}$ [FORMULA_IMAGE_UNREADABLE]
+
+## EXERCICE 5 : (4,5 points)
+
+On considère la fonction numérique $F$ définie sur $\left[0 , 1\right]$ par : $F(0) = 1$
+
+et $F(x) = \dfrac{1}{x^{2}} - \dfrac{\ln\left(1 + 2x\right)}{2x}$ [FORMULA_IMAGE_UNREADABLE] si $x \neq 0$
+
+0,25 — 1) Soit $x$ un élément de $\left]0 , 1\right]$ ; Montrer que pour tout $t$ de $\left[0 , x\right]$ on a : $\dfrac{1}{1 + 2x} \leq \dfrac{1}{1 + 2t} \leq 1$
+
+2) Soit $x$ un élément de $\left]0 , 1\right]$
+
+0,5 — a- Montrer que $F(x) = \dfrac{2}{x^{2}} \displaystyle\int_{0}^{x} \frac{t}{1 + 2t}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b - Montrer que : $\dfrac{1}{1 + 2x} \leq F(x) \leq 1$ [FORMULA_IMAGE_UNREADABLE] En déduire que la fonction $F$ est continue à droite au point $0$
+
+0,75 — 3) En utilisant une intégration par parties, montrer que pour tout $x$ de $\left]0 , 1\right]$ on a :
+
+$$\int_{0}^{x} \frac{t}{1 + 2t}\,dt = \frac{x^{2}}{1 + 2x} + \int_{0}^{x} \frac{2t^{2}}{\left(1 + 2t\right)^{2}}\,dt$$ [FORMULA_IMAGE_UNREADABLE]
+
+4) Soit $x$ un élément de $\left]0 , 1\right]$
+
+0,5 — a- Montrer que $F'(x) = -\dfrac{4}{x^{3}} \displaystyle\int_{0}^{x} \frac{t^{2}}{\left(1 + 2t\right)^{2}}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b- Montrer que : $-\dfrac{4}{3} \leq F'(x) \leq -\dfrac{4}{3\left(1 + 2x\right)^{2}}$ [FORMULA_IMAGE_UNREADABLE] (on pourra utiliser le résultat de la question 1))
+
+0,75 — c- En appliquant le théorème des accroissements finis à la fonction $F$ sur $\left[0 , x\right]$ montrer que $-\dfrac{4}{3} \leq \dfrac{F(x) - F(0)}{x} \leq -\dfrac{4}{3\left(1 + 2x\right)^{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — d- Déduire que la fonction $F$ est dérivable à droite en $0$ en précisant son nombre dérivé à droite au point $0$.
+
+FIN DE L'ÉPREUVE

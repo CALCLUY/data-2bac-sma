@@ -1,0 +1,149 @@
+---
+Type: Examen National
+Année: 2011
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2011 – الموضوع - مادة : الرياضيات
+NS25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte cinq exercices indépendants deux à deux.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- Le premier exercice se rapporte aux structures algébriques.
+- Le deuxième exercice se rapporte à l'arithmétique.
+- Le troisième exercice se rapporte aux nombres complexes.
+- Le quatrième exercice se rapporte à l'analyse.
+- Le cinquième exercice se rapporte à l'analyse.
+
+Les calculatrices non programmables sont autorisées.
+
+## Premier exercice : (4 points)
+
+Les deux parties sont indépendantes.
+
+**Première partie :** Dans l'anneau $\left(M_{3}(\mathbb{R}) , + , \times\right)$ on considère les deux matrices suivantes :
+
+$$I = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix} \quad \text{et} \quad A = \begin{pmatrix} \frac{\sqrt{2}}{2} & \frac{\sqrt{2}}{2} & 0 \\ -\frac{\sqrt{2}}{2} & \frac{\sqrt{2}}{2} & 0 \\ 0 & 0 & 1 \end{pmatrix}$$
+
+(On pose : $A^{0} = I$ et $A^{1} = A$ et $A^{2} = A \times A$ et $A^{n+1} = A^{n} \times A$ pour tout $n$ de $\mathbb{N}$)
+
+0,5 — 1- Montrer que : $\left(\forall k \in \mathbb{N}\right) \quad A^{8k} = I$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 2- Montrer que $A$ admet une matrice inverse $A^{-1}$ que l'on déterminera.
+
+**Deuxième partie :** Soit $a$ un nombre réel.
+
+Pour tout $x$ et $y$ de l'intervalle $I = \left]a , +\infty\right[$ on pose : $x \ast y = \left(x - a\right)\left(y - a\right) + a$
+
+0,5 — 1- a) Montrer que $\ast$ est une loi de composition interne dans $I$
+
+0,5 — b) Montrer que la loi $\ast$ est commutative et associative.
+
+0,5 — c) Montrer que $\left(I , \ast\right)$ admet un élément neutre que l'on déterminera.
+
+0,5 — 2- Montrer que $\left(I , \ast\right)$ est un groupe commutatif.
+
+3- On considère l'application : $\varphi : I \to \mathbb{R}^{*} \ , \ x \mapsto x - a$
+
+0,5 — a) Montrer que $\varphi$ est un isomorphisme de $\left(I , \ast\right)$ vers $\left(\mathbb{R}^{*} , \times\right)$
+
+0,5 — b) Résoudre dans l'ensemble $I$ l'équation : $x^{\ast 3} = a^{3} + a$ où $x^{\ast 3} = x \ast x \ast x$ [FORMULA_IMAGE_UNREADABLE]
+
+## Deuxième exercice : (2,5 points)
+
+Soit $N$ l'entier naturel dont l'écriture dans la base décimale est : $N = \underbrace{11\ldots\ldots\ldots11}_{2010 \ \text{fois} \ 1}$
+
+0,25 — 1- Montrer que le nombre $N$ est divisible par $11$
+
+0,75 — 2- a) Vérifier que le nombre $2011$ est premier et que $9N = 10^{2010} - 1$
+
+0,5 — b) Montrer que le nombre $2011$ divise le nombre $9N$
+
+0,5 — c) En déduire que le nombre $2011$ divise le nombre $N$.
+
+0,5 — 3- Montrer que le nombre $N$ est divisible par $22121$
+
+## Troisième exercice : (3,5 points)
+
+**Première partie :** Soit $m$ un nombre complexe non nul. On considère dans l'ensemble $\mathbb{C}$ l'équation d'inconnue $z$ :
+
+$$\left(E_{m}\right) : \quad z^{2} - \left(1 + 4i\right) m z + \left(2im - 1\right)\left(1 + 4i\right) m^{2} = 0$$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- Vérifier que le nombre $z_{1} = 2m$ est solution de l'équation $\left(E_{m}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+2- Soit $z_{2}$ la deuxième solution de l'équation $\left(E_{m}\right)$
+
+0,5 — a) Montrer que : $z_{1} z_{2} = \left(2im - 1\right)\left(1 + 3i\right) m^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — b) Déterminer les deux valeurs de $m$ pour lesquelles on a : $z_{1} z_{2} = 1$
+
+**Deuxième partie :** Dans le plan complexe rapporté à un repère orthonormé direct $\left(O , \overrightarrow{u} , \overrightarrow{v}\right)$, on considère l'application $S$ qui au point $M$, d'affixe $z$, fait correspondre le point $M'$ d'affixe $z'$ tel que : $z' = -z + \left(1 + 1\right)$ [FORMULA_IMAGE_UNREADABLE] et la rotation $R$ de centre le point $\Omega$ d'affixe $1 + i$ et d'angle $\frac{\pi}{2}$, et soit $z''$ l'affixe du point $M'' = R(M)$.
+
+0,25 — 1- a) Montrer que l'application $S$ est la symétrie centrale de centre le point d'affixe $1$.
+
+0,25 — b) Montrer que : $z'' = iz + 2$ [FORMULA_IMAGE_UNREADABLE]
+
+2- Soit $A$ le point d'affixe $2$. On suppose que le point $M$ est distinct du point $O$ origine du repère.
+
+0,5 — a) Calculer : $\dfrac{z'' - 2}{z' - 2}$, en déduire la nature du triangle $AM'M''$.
+
+0,5 — b) Déterminer l'ensemble des points $M$ pour lesquels les points $A$, $\Omega$, $M'$ et $M''$ sont cocycliques.
+
+## Quatrième exercice : (6,5 points)
+
+**Première partie :** Étude des solutions positives de l'équation $(E) : e^{x} = x^{n}$ avec $n$ un entier naturel non nul.
+
+On considère la fonction numérique $f$ définie sur l'ensemble $D = \left[0 , 1\right[ \cup \left]1 , +\infty\right[$ par : $f(x) = \dfrac{x}{\ln x}$ si $x \neq 0$ et $f(0) = 0$ et soit $(C)$ sa courbe représentative dans le plan rapporté à un repère orthonormé $\left(O , \overrightarrow{i} , \overrightarrow{j}\right)$
+
+0,25 — 1- Vérifier que pour tout $x$ de l'ensemble $\left[0 , 1\right[ \cup \left]1 , +\infty\right[$ on a : $e^{x} = x^{n} \Leftrightarrow n = f(x)$
+
+0,5 — 2- Montrer que la fonction $f$ est dérivable à droite en $0$.
+
+1,5 — 3- Calculer les limites : $\lim\limits_{x \to 1^{-}} f(x)$ et $\lim\limits_{x \to 1^{+}} f(x)$ et $\lim\limits_{x \to +\infty} f(x)$ et $\lim\limits_{x \to +\infty} \dfrac{f(x)}{x}$ ensuite interpréter graphiquement les résultats obtenus.
+
+0,75 — 4- Étudier les variations de la fonction $f$ sur chacun des intervalles $\left[0 , 1\right[$ et $\left]1 , +\infty\right[$ puis donner son tableau de variations.
+
+0,5 — 5- Montrer que la courbe $(C)$ admet un point d'inflexion dont on déterminera les coordonnées.
+
+0,5 — 6- Représenter graphiquement $(C)$.
+
+0,5 — 7- Montrer que pour $n \geq 3$, l'équation $(E)$ admet exactement deux solutions $a_{n}$ et $b_{n}$ tel que : $1 < a_{n} < e < b_{n}$
+
+**Deuxième partie :** Étude des deux suites $\left(a_{n}\right)_{n \geq 3}$ et $\left(b_{n}\right)_{n \geq 3}$
+
+0,5 — 1- Montrer que : $\left(\forall n \geq 3\right) \quad b_{n} \geq n$, en déduire la limite de la suite $\left(b_{n}\right)_{n \geq 3}$
+
+0,5 — 2- a) Montrer que la suite $\left(a_{n}\right)_{n \geq 3}$ est décroissante, en déduire qu'elle est convergente.
+
+0,5 — b) Montrer que : $\left(\forall n \geq 3\right) \quad n \ln a_{n} = \dfrac{e}{n}$ [FORMULA_IMAGE_UNREADABLE], en déduire la limite de la suite $\left(a_{n}\right)_{n \geq 3}$
+
+0,5 — c) Montrer que : $\lim\limits_{n \to +\infty} a_{n}^{\,n} = e$
+
+## Cinquième exercice : (3,5 points)
+
+On considère la fonction numérique $F$ définie sur l'intervalle $\left[0 ; +\infty\right[$ par : $F(x) = e^{-x^{2}} \displaystyle\int_{0}^{x} e^{t^{2}}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- a) Montrer que : $\left(\forall x \geq 0\right) \quad 0 \leq F(x) \leq x e^{-x^{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que : $\left(\forall x \geq 1\right) \quad e^{x^{2}} \geq e^{x}$ [FORMULA_IMAGE_UNREADABLE] en déduire la limite de la fonction $F$ en $+\infty$
+
+0,5 — 2- Montrer que la fonction $F$ est dérivable sur l'intervalle $\left[0 ; +\infty\right[$ et que : $\left(\forall x \geq 0\right) \quad F'(x) = e^{-x^{2}} \cdot e^{x^{2}} - 2x F(x)$ [FORMULA_IMAGE_UNREADABLE]
+
+3- On considère la fonction numérique $G$ définie sur l'intervalle $\left[0 ; \frac{\pi}{2}\right]$ par : $\begin{cases} G(x) = F(\tan x) \ ; \ 0 \leq x < \frac{\pi}{2} \\ G\left(\frac{\pi}{2}\right) = 0 \end{cases}$
+
+0,25 — a) Montrer que la fonction $G$ est continue à gauche en $\frac{\pi}{2}$
+
+0,75 — b) Montrer qu'il existe un réel $c$ de l'intervalle $\left]0 ; +\infty\right[$ tel que : $F'(c) = 0$ et que : $F(c) = \dfrac{e^{c^{2}}}{2c}$ [FORMULA_IMAGE_UNREADABLE]
+
+(On pourra appliquer le théorème de ROLLE à la fonction $G$ sur l'intervalle $\left[0 ; \frac{\pi}{2}\right]$)
+
+4- On considère la fonction numérique $H$ définie sur $\left]0 , +\infty\right[$ par : $H(x) = F'(x) - \dfrac{e^{-x^{2}}}{2x}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a) Montrer que la fonction $H$ est strictement décroissante sur $\left]0 , +\infty\right[$
+
+0,5 — b) En déduire que $c$ est unique, puis donner le tableau de variation de $F$.
+
+FIN

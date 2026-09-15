@@ -1,0 +1,148 @@
+---
+Type: Examen National
+Année: 2011
+Session: Normale
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2011 – عناصر الإجابة - مادة : الرياضيات
+NR25 — المعامل : 9 — مدة الإنجاز : 4
+
+## Premier exercice — 4 points
+
+**Première partie :**
+
+1- Récurrence ……………………… 0,5
+
+2- $A^{-1} = A^{7}$ [FORMULA_IMAGE_UNREADABLE] ……………. 0,5
+
+**Deuxième partie :**
+
+1- a) $\ast$ loi de composition interne ……………………… 0,5
+
+b) $\ast$ commutative ……………………. 0,25
+
+associative …………………… 0,25
+
+c) l'élément neutre est : $e = 1 + a$ ………………… 0,5
+
+2- le symétrique de $x$ est $x' = a + \dfrac{1}{x - a}$ ………………. 0,25
+
+$\left(I , \ast\right)$ groupe commutatif ……………………… 0,25
+
+3- a) $\varphi$ bijective …………………….. 0,25
+
+Homomorphisme ……………. 0,25
+
+b) La solution de l'équation est : $x = a + \sqrt[3]{a}$ [FORMULA_IMAGE_UNREADABLE] si $a > 0$ et pas de solution si $a \leq 0$ ………………. 0,5
+
+## Deuxième exercice — 2,5 points
+
+1- Divisibilité de $N$ par $11$ …………….. 0,25
+
+2- a) $2011$ est premier …………………… 0,5
+
+$9N = 10^{2010} - 1$ ……………………….. 0,25
+
+b) Le théorème de Fermat : $2011$ divise $10^{2010} - 1$ ………….. 0,5
+
+c) Application du théorème de Gauss ………………. 0,5
+
+3- $22121 = 11 \times 2011$ ; $11$ et $2011$ premiers entre eux …………. 0,5
+
+## Troisième exercice — 3,5 points
+
+**Première partie :**
+
+1- vérification …………….. 0,5
+
+2- a) L'équivalence ………………….. 0,5
+
+b) Les deux valeurs de $m$ sont : $\dfrac{\sqrt{2} - \sqrt{2}}{2} + \dfrac{\sqrt{2} - \sqrt{2}}{2} i$ [FORMULA_IMAGE_UNREADABLE] et $-\left(\dfrac{\sqrt{2} - \sqrt{2}}{2} + \dfrac{\sqrt{2} - \sqrt{2}}{2} i\right)$ [FORMULA_IMAGE_UNREADABLE] ……………… 1
+
+**Deuxième partie :**
+
+1- a) ……………….. 0,25
+
+b) $z'' = \left(1 + i\right) - i\left(z - 1 - i\right)$ [FORMULA_IMAGE_UNREADABLE] ………………… 0,25
+
+2- a) $\dfrac{z'' - 2}{z' - 2} = -i$ [FORMULA_IMAGE_UNREADABLE] ………………. 0,25
+
+$AM'M''$ est un triangle isocèle et rectangle en $A$ ……………… 0,25
+
+b) La droite d'équation : $x = 1$ ………….. 0,5
+
+## Quatrième exercice — 6,5 points
+
+**Première partie :**
+
+1- Vérification …………. 0,25
+
+2- Dérivabilité de la fonction à droite en $0$ ………… 0,5
+
+3- Pour chacune des 4 limites ………………… 0,25
+
+Pour chacune des deux interprétations …………… 0,25
+
+4- Le calcul de $f'(x)$ …………… 0,25
+
+Variation de la fonction ……….. 0,25
+
+Tableau de variation …………….. 0,25
+
+5- Le point d'inflexion est : $\left(e^{2} ; \dfrac{e^{2}}{2}\right)$ …………… 0,5
+
+6- Représentation graphique …………….. 0,5
+
+7- Existence et unicité de $a_{n}$ et $1 < a_{n} < e$ ……………. 0,25
+
+Existence et unicité de $b_{n}$ et $b_{n} > e$ ……………. 0,25
+
+**Deuxième partie :**
+
+1- $\left(\forall n \geq 3\right) \ b_{n} \geq n$ …………………….. 0,25
+
+$\lim\limits_{n \to +\infty} b_{n} = +\infty$ …………………….. 0,25
+
+2- a) La suite $\left(a_{n}\right)_{n \geq 3}$ est décroissante ………….. 0,25
+
+La suite $\left(a_{n}\right)_{n \geq 3}$ est convergente ……………. 0,25
+
+b) Encadrement de $\ln\left(a_{n}\right)$ ………………. 0,25
+
+Déduction : $\lim\limits_{n \to +\infty} a_{n} = 1$ ……………………… 0,25
+
+c) Déduction …………….. 0,5
+
+## Cinquième exercice — 3,5 points
+
+1- a) L'encadrement de $F(x)$ …………… 0,5
+
+b) $\left(\forall x \geq 1\right) \ e^{x^{2}} \geq e^{x}$ [FORMULA_IMAGE_UNREADABLE] ……………….. 0,25
+
+Déduire que : $\lim\limits_{x \to +\infty} F(x) = 0$ ……………………… 0,25
+
+2- Dérivabilité de $F$ ………………….. 0,25
+
+Calcul de $F'(x)$ …………. 0,25
+
+3- a) Continuité de la fonction $G$ à gauche en $\frac{\pi}{2}$ …………….. 0,25
+
+Toute solution plausible est acceptée.
+
+$\lim\limits_{x \to \frac{\pi}{2}^{-}} \tan x = +\infty$ et $\lim\limits_{x \to +\infty} F(x) = 0$ donc …….
+
+Ou pour $\frac{\pi}{4} \leq x < \frac{\pi}{2}$ on a : $0 \leq G(x) = F(\tan x) \leq \tan x \cdot e^{-\tan x}$ [FORMULA_IMAGE_UNREADABLE] donc ……
+
+b) - Application du théorème de ROLLE : il existe $c_{1} \in \left]0 , \frac{\pi}{2}\right[$ tel que : $G'(c_{1}) = \left(1 + \tan^{2} c_{1}\right) F'(\tan c_{1}) = 0$ …………… 0,25
+
+- Il existe $c \in \left]0 , +\infty\right[$ tel que $F'(c) = 0$ ($c = \tan c_{1}$) ……………. 0,25
+
+- $F(c) = \dfrac{e^{c^{2}}}{2c}$ [FORMULA_IMAGE_UNREADABLE] …………………….. 0,25
+
+4- a) La fonction $H$ est dérivable sur $\left]0 , +\infty\right[$ et $H'(x) = -\left(2 + \dfrac{1}{2x^{2}}\right) e^{-x^{2}} < 0$ [FORMULA_IMAGE_UNREADABLE] ……………….. 0,5
+
+b) La fonction $H$ est une bijection (continue et strictement monotone) et $H(c) = 0$ d'où l'unicité de $c$ ………….. 0,25
+
+Tableau de variation de $F$ ……………… 0,25

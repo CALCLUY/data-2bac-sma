@@ -1,0 +1,131 @@
+---
+Type: Examen National
+Année: 2010
+Session: Rattrapage
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2010 – الموضوع - مادة : الرياضيات
+RS25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte trois exercices et un problème tous indépendants deux à deux.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- Le premier exercice se rapporte aux structures algébriques.
+- Le deuxième exercice se rapporte aux nombres complexes.
+- Le troisième exercice se rapporte au calcul des probabilités.
+- Le problème se rapporte à l'analyse.
+
+Les calculatrices programmables sont strictement interdites.
+
+## Exercice 1 : (3 points)
+
+On rappelle que $\left(M_{3}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire non commutatif.
+
+On considère l'ensemble $E = \left\{ M(x) = \begin{pmatrix} 1 & 0 & 0 \\ x & 1 & 0 \\ \frac{x^{2}}{2} & x & 1 \end{pmatrix} \ / \ x \in \mathbb{R} \right\}$
+
+0,5 — 1) Montrer que $E$ est une partie stable de $\left(M_{3}(\mathbb{R}) , \times\right)$
+
+0,5 — 2) a- Montrer que l'application $\varphi$ qui à tout nombre réel $x$ associe la matrice $M(x)$ est un isomorphisme de $\left(\mathbb{R} , +\right)$ vers $\left(E , \times\right)$.
+
+0,5 — b- En déduire que $\left(E , \times\right)$ est un groupe commutatif.
+
+0,5 — c- Pour $x$ réel, déterminer $M(x)^{-1}$ l'inverse de la matrice $M(x)$
+
+0,5 — d- Résoudre dans l'ensemble $E$ l'équation $A^{5} \times X = B$ où $A = M(2)$ et $B = M\left(\frac{1}{2}\right)$ et $A^{5} = \underbrace{A \times A \times \ldots \times A}_{5 \ \text{fois}}$
+
+0,5 — 3) Montrer que l'ensemble $F = \left\{ M(\ln x) \ / \ x \in \mathbb{R}_{+}^{*} \right\}$ est sous-groupe de $\left(E , \times\right)$
+
+## Exercice 2 : (4 points)
+
+Le plan complexe est muni d'un repère orthonormé direct $\left(O ; \overrightarrow{u} , \overrightarrow{v}\right)$
+
+1) On considère dans l'ensemble $\mathbb{C}$ l'équation : $(E) \quad z^{2} - 4iz - 2 - 2\sqrt{3} = 0$
+
+0,5 — a- Vérifier que le nombre $a = 1 + \left(2 - \sqrt{3}\right) i$ est une solution de l'équation $(E)$
+
+0,5 — b- En déduire $b$ la deuxième solution de l'équation $(E)$
+
+0,5 — 2) a- Montrer que : $a^{2} = 4\left(2 - \sqrt{3}\right) e^{i \frac{\pi}{6}}$
+
+0,75 — b- Écrire $a$ sous forme trigonométrique
+
+3) On considère les points $A$, $B$ et $C$ dont les affixes sont respectivement $a$, $b$ et $c = 2 e^{i \frac{7\pi}{12}}$
+
+Soit $(\Gamma)$ le cercle de diamètre $[AB]$
+
+0,5 — a- Déterminer $\omega$, l'affixe du point $\Omega$ centre du cercle $(\Gamma)$
+
+0,5 — b- Montrer que les points $O$ et $C$ appartiennent au cercle $(\Gamma)$
+
+0,75 — c- Montrer que le nombre complexe $\dfrac{c - a}{c - b}$ est imaginaire pur.
+
+## Exercice 3 : (3 points)
+
+Une urne contient 10 boules blanches et deux boules rouges.
+
+On extrait les boules de l'urne l'une après l'autre et sans remise jusqu'à l'obtention pour la première fois d'une boule blanche, puis on arrête l'expérience.
+
+Soit $X$ la variable aléatoire égale au nombre de boules tirées.
+
+0,25 — 1) a- Déterminer l'ensemble des valeurs prises par $X$
+
+0,5 — b- Calculer la probabilité de l'événement $\left(X = 1\right)$
+
+0,5 — c- Montrer que : $p\left(X = 2\right) = \dfrac{5}{33}$
+
+0,5 — d- Calculer la probabilité de l'événement $\left(X = 3\right)$
+
+0,5 — 2) a- Montrer que l'espérance mathématique de la variable aléatoire $X$ est : $E(X) = \dfrac{13}{11}$
+
+0,75 — b- Calculer $E\left(X^{2}\right)$, et en déduire la valeur de la variance $V(X)$ de la variable aléatoire $X$.
+
+## Problème : (10 points)
+
+**I** - On considère la fonction numérique $f$ définie sur l'intervalle $I = \left[0 , 1\right]$ par :
+
+$$\begin{cases} f(x) = \dfrac{1}{1 - \ln(1 - x)} \ ; \ 0 \leq x < 1 \\ f(1) = 0 \end{cases}$$
+
+Soit $(C)$ la courbe représentative de $f$ dans le plan muni d'un repère orthonormé $\left(O ; \overrightarrow{i} ; \overrightarrow{j}\right)$
+
+0,5 — 1) Montrer que $f$ est continue à gauche au point $1$.
+
+0,5 — 2) Étudier la dérivabilité de $f$ à gauche au point $1$.
+
+0,75 — 3) Étudier les variations de la fonction $f$ sur l'intervalle $I$ puis donner son tableau de variations.
+
+0,5 — 4) a- Montrer que la courbe $(C)$ admet un point d'inflexion unique d'abscisse $\dfrac{e - 1}{e}$
+
+0,75 — b- Construire la courbe $(C)$ en précisant sa demi-tangente au point d'abscisse $0$.
+(on prendra $\|\overrightarrow{i}\| = \|\overrightarrow{j}\| = 2\,cm$)
+
+0,5 — 5) Montrer qu'il existe un nombre réel unique $\alpha$ de l'intervalle $I$ vérifiant : $f(\alpha) = \alpha$
+
+0,25 — 6) a- Montrer que $f$ est une bijection de l'intervalle $I$ vers $I$
+
+0,5 — b- Déterminer $f^{-1}(x)$ pour tout $x$ de l'intervalle $I$.
+
+**II** - On pose : $I_{0} = \displaystyle\int_{0}^{1} f(t)\,dt$, et pour tout entier naturel $n$ non nul ; $I_{n} = \displaystyle\int_{0}^{1} t^{n} f(t)\,dt$
+
+0,75 — 1) Montrer que la suite $\left(I_{n}\right)_{n \geq 0}$ est décroissante et en déduire qu'elle est convergente.
+
+0,75 — 2) Montrer que : $\left(\forall n \geq 0\right) : \quad 0 \leq I_{n} \leq \dfrac{1}{n + 1}$, puis déterminer la limite de la suite $\left(I_{n}\right)_{n \geq 0}$
+
+**III** - Pour tout nombre réel $x$ de l'intervalle $J = \left[0 ; 1\right[$ et pour tout entier naturel $n$ non nul on pose :
+
+$$F_{0}(x) = \int_{0}^{x} f(t)\,dt \quad ; \quad F_{n}(x) = \int_{0}^{x} t^{n} f(t)\,dt \quad ; \quad F(x) = \int_{0}^{x} \frac{f(t)}{1 - t}\,dt \quad ; \quad S_{n}(x) = \sum_{k = 0}^{n} F_{k}(x)$$
+
+1 — 1) Montrer que : $\left(\forall n\right)\left(\forall x \in J\right) \quad F(x) - S_{n}(x) = \displaystyle\int_{0}^{x} \frac{t^{n+1} f(t)}{1 - t}\,dt$
+
+0,5 — 2) a- Montrer que la fonction $x \mapsto \left(1 - x\right)\left(1 - \ln(1 - x)\right)$ est strictement décroissante sur $J$
+
+0,5 — b- Montrer que la fonction $t \mapsto \dfrac{f(t)}{1 - t}$ est strictement croissante sur $\left[0 , x\right]$ pour tout $x$ élément de $J$
+
+1 — 3) a- Montrer que : $\left(\forall n\right)\left(\forall x \in J\right) \quad 0 \leq F(x) - S_{n}(x) \leq \dfrac{1}{\left(n + 2\right)\left(1 - x\right)}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b- En déduire que pour tout $x$ de l'intervalle $J$ on a : $\lim\limits_{n \to +\infty} S_{n}(x) = F(x)$
+
+0,5 — 4) a- Déterminer $F(x)$ pour $x \in J$
+
+0,25 — b- Déterminer la limite : $\lim\limits_{x \to 1^{-}} F(x)$
