@@ -1,0 +1,287 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2016 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - المسالك الدولية – خيار فرنسية - الدورة العادية 2016 - الموضوع - مادة : الفيزياء والكيمياء - مسلك العلوم الرياضية (أ) و (ب) – المسالك الدولية (خيار فرنسية)
+NS 13 F - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+L'usage de la calculatrice scientifique non programmable est autorisé.
+
+Le sujet comporte 4 exercices : un exercice de chimie et trois exercices de physique.
+
+Chimie (7 points) :
+- Etude d'une solution aqueuse d'ammoniac et de sa réaction avec un acide.
+- Electrolyse d'une solution aqueuse de nitrate d'argent.
+
+Physique (13 points) :
+Les transformations nucléaires (2,25 points) :
+- La radioactivité du polonium.
+L'électricité (5,25 points) :
+- Etude d'un dipôle RL et des oscillations libres dans un circuit RLC série.
+- Etude des oscillations forcées dans un circuit RLC série.
+La mécanique (5,5 points) :
+- Etude de la chute verticale avec frottement.
+- Etude du mouvement d'un pendule de torsion.
+
+## Chimie (7 points) : Les parties I et II sont indépendantes
+
+Les composés chimiques contenant l'élément azote sont utilisés dans divers domaines comme l'agriculture pour la fertilisation des sols par les engrais ou l'industrie pour la fabrication des médicaments etc…
+
+Cet exercice se propose d'étudier :
+
+- une solution aqueuse d'ammoniac NH3 et sa réaction avec une solution aqueuse de chlorure de méthylammonium (CH3NH3+(aq) + Cl-(aq)).
+- l'électrolyse d'une solution aqueuse de nitrate d'argent (Ag+(aq) + NO3-(aq)).
+
+### Partie I : Etude d'une solution aqueuse d'ammoniac et de sa réaction avec un acide
+
+Données :
+
+- Toutes les mesures sont effectuées à 25 °C,
+- Le produit ionique de l'eau : Ke = 10-14,
+- On note pKA(NH4+(aq)/NH3(aq)) = pKA1,
+- pKA(CH3NH3+(aq)/CH3NH2(aq)) = pKA2 = 10,7.
+
+#### 1) Etude d'une solution aqueuse d'ammoniac
+
+1-1- On prépare une solution aqueuse S1 d'ammoniac de concentration molaire C1 = 10-2 mol.L-1.
+
+La mesure du pH de la solution S1 donne la valeur pH1 = 10,6.
+
+1-1-1- Ecrire l'équation chimique modélisant la réaction de l'ammoniac avec l'eau. (0,25)
+
+1-1-2- Trouver l'expression du taux d'avancement final τ1 de la réaction en fonction de C1, pH1 et Ke. Vérifier que τ1 = 4%. (0,75)
+
+1-1-3- Trouver l'expression de la constante d'équilibre K associée à l'équation de la réaction en fonction de C1 et de τ1. Calculer sa valeur. (0,75)
+
+1-2- On dilue la solution S1, on obtient alors une solution S2. On mesure le pH de la solution S2 et on trouve pH2 = 10,4.
+
+Les courbes de la figure ci-dessous représentent le diagramme de distribution de la forme acide et de la forme basique du couple NH4+(aq)/NH3(aq).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : pourcentage % en fonction du pH ; abscisses 0 à 14 ; ordonnées 20, 40, 60, 80, 100 ; courbes (1) et (2))
+
+1-2-1- Associer, en justifiant, la forme basique du couple NH4+(aq)/NH3(aq) à la courbe qui lui correspond. (0,5)
+
+1-2-2- A l'aide des courbes représentées sur la figure, déterminer :
+
+a- pKA1. (0,25)
+
+b- le taux d'avancement τ2 de la réaction dans la solution S2. (0,25)
+
+1-2-3- Que peut-on déduire en comparant τ1 et τ2 ? (0,25)
+
+#### 2- Etude de la réaction de l'ammoniac avec l'ion méthylammonium
+
+On mélange dans un bécher un volume V1 de la solution aqueuse S1 d'ammoniac de concentration molaire C1 avec un volume V = V1 d'une solution aqueuse S de chlorure de méthylammonium (CH3NH3+(aq) + Cl-(aq)) de concentration molaire C = C1.
+
+2-1- Ecrire l'équation chimique modélisant la réaction de l'ammoniac avec l'ion méthylammonium CH3NH3+(aq). (0,75)
+
+2-2- Trouver la valeur de la constante d'équilibre K' associée à l'équation de cette réaction. (0,5)
+
+2-3- Montrer que l'expression de la concentration de NH4+ et celle de CH3NH2 dans le mélange réactionnel à l'équilibre, s'écrit : [CH3NH2(aq)]éq = [NH4+(aq)]éq = (C/2).(√K'/(1 + √K')). (0,5)
+
+2-4- Déterminer le pH du mélange réactionnel à l'équilibre. (0,75)
+
+### Partie II : Electrolyse d'une solution aqueuse de nitrate d'argent
+
+On effectue l'électrolyse d'une solution aqueuse de nitrate d'argent (Ag+(aq) + NO3-(aq)) acidifiée par une solution aqueuse d'acide nitrique (H3O+(aq) + NO3-(aq)) en utilisant deux électrodes en graphite. Le volume du mélange dans l'électrolyseur est V = 400 mL.
+
+Données :
+
+- Les deux couples Ox/red intervenant dans cette réaction sont : O2(g)/H2O(l) ; Ag+(aq)/Ag(s).
+- Le faraday : 1F = 9,65.10^4 C.mol-1.
+
+On mesure le pH du mélange avant la fermeture du circuit et on trouve pH0 = 3, puis on ferme le circuit à un instant choisi comme origine des dates (t = 0). Un courant électrique d'intensité constante I = 2,66.10-2 mA circule alors dans le circuit.
+
+L'équation bilan de la réaction est : 6 H2O(l) + 4 Ag+(aq) → O2(g) + 4 H3O+(aq) + 4 Ag(s)
+
+1- Ecrire l'équation de la réaction qui se produit à l'anode. (0,75)
+
+2- A l'aide du tableau d'avancement de la réaction, montrer que l'expression de l'avancement x de la réaction à un instant t est : x = (V/4).(10^(−pHt) − 10^(−pH0)) où pHt représente la valeur du pH du mélange à cet instant. (0,25)
+
+3- Déterminer l'instant t1 où le pH du mélange prend la valeur pH1 = 1,5. (0,5)
+
+## Physique (13 points)
+
+### Les transformations nucléaires (2,25 points) : La radioactivité du polonium
+
+Le noyau de polonium 210/84 Po se désintègre spontanément pour se transformer en un noyau de plomb 206/Z Pb avec émission d'une particule α.
+
+Cet exercice se propose d'étudier le bilan énergétique de cette transformation ainsi que l'évolution de cette dernière au cours du temps.
+
+Données :
+
+- Energie de liaison du noyau de polonium 210 : Eℓ(210Po) = 1,6449.10^3 MeV,
+- Energie de liaison du noyau de plomb 206 : Eℓ(206Pb) = 1,6220.10^3 MeV,
+- Energie de liaison de la particule α : Eℓα = 28,2989 MeV,
+- On désigne par t1/2 la demi-vie du noyau de polonium 210.
+
+1- Ecrire l'équation de cette transformation nucléaire en déterminant le nombre Z. (0,25)
+
+2- Déterminer en MeV l'énergie |ΔE| produite lors de la désintégration d'un noyau de 210/84 Po. (0,5)
+
+3- Soient N0(Po) le nombre de noyaux de polonium dans un échantillon à l'instant de date t = 0 et N(Po) le nombre de noyaux restant dans le même échantillon à un instant de date t.
+
+3-1- On désigne par ND le nombre de noyaux de polonium désintégrés à l'instant de date t = 4.t1/2. Choisir la proposition juste parmi les propositions suivantes : (0,5)
+
+a- ND = N0(Po)/8 ; b- ND = N0(Po)/16 ; c- ND = N0(Po)/4 ; d- ND = 15N0(Po)/16.
+
+3-2- La courbe ci-dessous représente les variations de ln(N0(Po)/N(Po)) en fonction du temps. A l'aide de cette courbe, déterminer en jour la demi-vie t1/2. (0,5)
+
+[FORMULA_IMAGE_UNREADABLE] (courbe : ln(N0(Po)/N(Po)) en fonction de t(jours) ; points remarquables 34,5 ; 69 jours et ln(2)/4 ; 1)
+
+3-3- Sachant que l'échantillon ne contient pas de plomb à t = 0, déterminer en jour, l'instant t1 pour lequel : N(Pb)/N(Po) = 2/5, où N(Pb) est le nombre de noyaux de plomb formés à cet instant. (0,5)
+
+### Electricité (5,25 points)
+
+Le condensateur, le conducteur ohmique et la bobine sont des dipôles utilisés dans les circuits de divers appareils électriques tels les amplificateurs, les postes radio et téléviseurs…
+
+Cet exercice a pour objectif l'étude :
+
+- de la réponse d'un dipôle RL à un échelon de tension ;
+- de la décharge d'un condensateur dans un dipôle RL ;
+- des oscillations forcées dans un circuit RLC série.
+
+#### 1- Réponse d'un dipôle RL à un échelon de tension
+
+On réalise le montage électrique représenté sur la figure 1, qui contient :
+
+- un générateur de tension de force électromotrice E et de résistance interne négligeable ;
+- deux conducteurs ohmiques de résistance R0 = 45 Ω et r ;
+- une bobine (b) d'inductance L0 et de résistance r0 ;
+- un interrupteur K.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : générateur E, interrupteur K, résistances r et R0, bobine (b) (L0, r0), points A, B, M, voies Y1 et Y2, courant i)
+
+On ferme l'interrupteur K à un instant choisi comme origine des dates (t = 0). Un système de saisie informatique approprié permet de tracer la courbe (C1) représentant la tension uAM(t) et la courbe (C2) représentant la tension uBM(t) (figure 2).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : u(V) en fonction de t(ms) ; graduations 3 ms et 2,5 ; 5 ; 6 V ; courbes (C1), (C2) et tangente (T))
+
+1-1- Etablir l'équation différentielle vérifiée par l'intensité i(t) du courant. (0,5)
+
+1-2- Trouver la valeur de E. (0,25)
+
+1-3- Déterminer la valeur de r et montrer que r0 = 5 Ω. (1)
+
+1-4- La droite (T) représente la tangente à la courbe (C2) à l'instant de date t = 0 (figure 2). Vérifier que L0 = 0,18 H. (0,5)
+
+#### 2- Décharge d'un condensateur dans le dipôle RL
+
+On monte en série à un instant de date t = 0 un condensateur de capacité C = 14,1 μF, totalement chargé, avec la bobine précédente (b) et un conducteur ohmique de résistance R = 20 Ω (figure 3).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : condensateur C (uC(t)), résistance R (uR(t)), bobine (b) (L0, r0), courant i)
+
+Un système de saisie informatique approprié permet de tracer la courbe représentant la tension uC(t) aux bornes du condensateur et la courbe représentant la tension uR(t) aux bornes du conducteur ohmique (figure 4, page 6/8).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : uC(V) et uR(V) en fonction du temps ; sensibilités 4 V et 5 ms ; 0,5 V et 5 ms)
+
+2-1- Quel est parmi les trois régimes d'oscillations, celui qui correspond aux courbes obtenues sur la figure 4 ? (0,25)
+
+2-2- Etablir l'équation différentielle vérifiée par la tension uC(t). (0,5)
+
+2-3- Trouver l'énergie Ej dissipée par effet joule dans le circuit entre les deux instants t1 = 0 et t2 = 14 ms. (1)
+
+#### 3- Oscillations forcées dans un circuit RLC série
+
+Le circuit représenté sur la figure 5 contient :
+
+- un générateur GBF délivrant au circuit une tension sinusoïdale uAB(t) = 3√2.cos(2πNt) exprimée en V et de fréquence N réglable,
+- un conducteur ohmique de résistance R1,
+- la bobine (b) précédente,
+- un condensateur de capacité C1,
+- un ampèremètre.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 5 : GBF entre A et B, résistance R1, bobine (b) (r0, L0), condensateur C1, ampèremètre A)
+
+Le coefficient de qualité de ce circuit est Q = 7, la largeur de la bande passante à −3dB est ΔN = 14,3 Hz.
+
+A la résonance, l'ampèremètre indique la valeur I0 = 1,85.10^2 mA.
+
+3-1- Déterminer la fréquence des oscillations électriques à la résonance. (0,5)
+
+3-2- Trouver la valeur de R1 et celle de C1. (0,5)
+
+3-3- Calculer la puissance électrique moyenne, consommée par effet joule, dans le circuit quand la fréquence prend l'une des valeurs limitant la bande passante. (0,5)
+
+### Mécanique (5,5 points) : Les parties I et II sont indépendantes
+
+#### Partie I : Etude de la chute de deux boules dans l'air
+
+Galilée, homme de sciences italien, s'intéressa à l'étude de la chute de divers corps. Selon la légende, il aurait effectué cette étude en lâchant ces corps du sommet de la tour de Pise.
+
+Pour vérifier certains résultats avancés par Galilée, on se propose d'étudier dans cette partie la chute dans l'air de deux boules ayant le même rayon et des masses volumiques différentes.
+
+L'étude du mouvement de chaque boule s'effectue dans un repère R(O, k⃗) associé à un référentiel terrestre supposé galiléen. On repère, à chaque instant, la position du centre d'inertie de chacune des deux boules par la côte z sur l'axe vertical (O, k⃗) orienté vers le haut et dont l'origine est prise au niveau du sol (figure 1).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : axe vertical (O, k⃗), hauteur h, point H, côte z)
+
+Chaque boule est soumise, durant sa chute, à son poids P⃗ et à la force de frottement fluide f⃗ (On néglige la poussée d'Archimède devant ces deux forces).
+
+On admet que l'intensité de la force f⃗ s'écrit : f = 0,22.π.ρair.R².vz² où ρair est la masse volumique de l'air, R le rayon de la boule et vz la valeur algébrique de la vitesse du centre d'inertie G de la boule à un instant t.
+
+Données :
+
+- Le volume d'une boule de rayon R est V = (4/3).π.R³,
+- L'intensité de la pesanteur g = 9,8 m.s-2,
+- La masse volumique de l'air ρair = 1,3 kg.m-3.
+
+Cette étude est effectuée avec deux boules (a) et (b) homogènes ayant le même rayon R = 6 cm et des masses volumiques respectives ρ1 = 1,14.10^4 kg.m-3 et ρ2 = 94 kg.m-3.
+
+Les deux boules sont lâchées au même instant t = 0, sans vitesse initiale, du même plan horizontal auquel appartient le point H. Ce plan est situé à une hauteur h = 69 m du sol (figure 1).
+
+1- Montrer que l'équation différentielle vérifiée par la vitesse vz du centre d'inertie d'une boule s'écrit : dvz/dt = −g + 0,165.(ρair/(R.ρi)).vz², où ρi désigne la masse volumique de la boule (a) ou (b). (0,5)
+
+2- Déduire l'expression de la vitesse limite du mouvement d'une boule. (0,5)
+
+3- Les courbes obtenues sur les figures 2 et 3 représentent l'évolution de la côte z(t) et de la vitesse vz(t) du centre d'inertie G de chacune des deux boules, au cours de la chute.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : z(m) en fonction de t(s) ; graduations 1, 2 s et 20, 40 m ; courbes (C'1) et (C'2))
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : vz(m.s-1) en fonction de t(s) ; graduations 1, 2 s et −8, −16 m.s-1 ; courbes (C1) et (C2))
+
+3-1- Montrer, à l'aide de l'expression de la vitesse limite, que la courbe (C1) correspond aux variations de la vitesse de la boule (b). (0,25)
+
+3-2- Expliquer pourquoi la courbe (C'2) correspond aux variations de la côte de la boule (a). (0,25)
+
+4- Déterminer, à l'aide de la courbe (C2), la nature du mouvement de la boule (a) et écrire son équation horaire z(t). (0,25)
+
+5- Déterminer la différence d'altitude d entre les centres d'inertie des deux boules à l'instant où la première boule touche le sol (On néglige les dimensions des deux boules). (0,75)
+
+6- Sachant que la valeur algébrique de la vitesse de la boule (b) à l'instant de date tn est vzn = −11,47 m.s-1, trouver, en utilisant la méthode d'Euler, la valeur de l'accélération azn du mouvement à l'instant de date tn et la vitesse vz(n+1) à l'instant de date tn+1. On prend le pas du calcul Δt = 125 ms. (0,75)
+
+#### Partie II : Etude du mouvement d'un pendule de torsion
+
+Cet exercice a pour objectif d'étudier le mouvement d'un pendule de torsion et de déterminer quelques grandeurs liées à ce mouvement.
+
+On dispose d'un pendule de torsion constitué d'un fil métallique, de constante de torsion C et d'une tige MN homogène fixée en son centre d'inertie G à l'une des extrémités du fil. L'autre extrémité du fil est fixée en un point P d'un support (figure 4).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : fil métallique fixé en P, tige MN, centre G, axe (Δ), position d'équilibre, abscisse angulaire θ, sens positif)
+
+La tige peut effectuer un mouvement de rotation sans frottement autour de l'axe (Δ) confondu avec le fil métallique. Le moment d'inertie de la tige MN par rapport à cet axe est J = 4.10-4 kg.m².
+
+On étudie le mouvement du pendule dans un repère lié à un référentiel terrestre supposé galiléen. On repère la position de la tige MN à chaque instant t par son abscisse angulaire θ par rapport à sa position d'équilibre stable (figure 4).
+
+On choisit la position d'équilibre stable comme référence de l'énergie potentielle de torsion (Ept = 0) et le plan horizontal passant par G comme référence de l'énergie potentielle de pesanteur (Epp = 0).
+
+On prendra π² = 10.
+
+Le pendule effectue des oscillations d'amplitude θm = π/4 rad. L'étude expérimentale a permis d'obtenir la courbe de la figure 5 représentant les variations de la vitesse angulaire de l'oscillateur en fonction du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 5 : θ̇(rad.s-1) en fonction de t(s) ; graduations 0,625 ; 1,25 s ; valeurs ±π et ±π/2)
+
+1- En appliquant la relation fondamentale de la dynamique dans le cas de la rotation, établir l'équation différentielle du mouvement du pendule. (0,75)
+
+2- La solution de cette équation différentielle s'écrit sous la forme : θ(t) = θm.cos((2π/T0).t + φ) où T0 est la période propre du pendule.
+
+2-1- Montrer que l'expression numérique de la vitesse angulaire θ̇, exprimée en rad.s-1, s'écrit : θ̇(t) = 4.sin(1,6πt + 7π/6). (0,75)
+
+2-2- Déterminer la valeur de la constante de torsion C du fil. (0,75)
+
+3- Trouver la valeur de l'énergie mécanique de l'oscillateur et en déduire la valeur de son énergie potentielle à l'origine des dates t = 0. (0,25)
