@@ -1,0 +1,329 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2018 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية – خيار فرنسية
+الدورة الاستدراكية 2018 - الموضوع -
+RS 30 F
+المادة: الفيزياء والكيمياء
+الشعبة أو المسلك: شعبة العلوم الرياضية "أ" و"ب" – خيار فرنسية
+مدة الإنجاز: 4
+المعامل: 7
+
+L'usage de la calculatrice scientifique non programmable est autorisé.
+
+Le sujet comporte 4 exercices : un exercice de chimie et trois exercices de physique.
+
+Chimie (7 points):
+- Vitesse volumique d'une réaction ; réactions acido-basiques,
+- Accumulateur Argent-Fer.
+
+Physique (13 points):
+- Les ondes (2,25 points) :
+  - Ondes ultrasonores.
+- L'électricité (5,25 points):
+  - Dipôle RL et circuit LC,
+  - Modulation d'amplitude.
+- La mécanique (5,5 points):
+  - Mouvement d'un skieur,
+  - Mouvement d'un pendule simple.
+
+## Chimie (7 points) :
+
+Les deux parties sont indépendantes
+
+### Partie I : Vitesse volumique d'une réaction - Réactions acido-basiques
+
+L'eau de javel est un produit chimique d'utilisation courante. C'est un désinfectant très efficace contre les contaminations bactériennes et virales.
+
+Le principe actif de l'eau de javel est dû à l'ion hypochlorite ClO-. Cet ion a à la fois un caractère oxydant et un caractère basique.
+
+Dans cette partie de l'exercice on étudiera :
+- la cinétique de la décomposition des ions hypochlorite ClO- ;
+- des réactions acido-basiques faisant intervenir le couple HClO(aq) / ClO-(aq).
+
+1- Suivi de l'évolution temporelle de la concentration molaire effective de l'ion hypochlorite ClO-
+
+Durant la conservation de l'eau de javel, les ions hypochlorite ClO- contenus dans cette eau se décomposent selon l'équation de la réaction : 2ClO-(aq) → 2Cl-(aq) + O2(g).
+
+Dans des conditions expérimentales déterminées, on obtient les courbes de la figure 1 représentant l'évolution de [ClO-(aq)] = f(t) à deux températures θ1 et θ2.
+
+[Figure 1 : [ClO-(aq)] (mol.L-1) en fonction de t(semaines) ; courbes θ1 et θ2, tangente (T) ; repères 0,1 ; 0,2 ; 10 ; 20 ; 0.]
+
+1-1- (0,5) Dresser le tableau d'avancement de la réaction (on notera V le volume de la solution étudiée supposé constant et C0 = [ClO-(aq)]0 la concentration molaire de ClO- à t = 0).
+
+1-2- (0,25) Montrer que la concentration molaire de l'ion hypochlorite à l'instant de demi-réaction t = t1/2 est C0/2. Déduire alors graphiquement t1/2 pour l'expérience réalisée à la température θ2.
+
+1-3- (0,5) Trouver, pour la température θ1, la vitesse volumique de réaction à l'instant t = 0 exprimée en mol.L-1.semaine-1 ((T) représente la tangente à la courbe au point d'abscisse t = 0).
+
+1-4- (0,5) Comparer θ1 à θ2 en justifiant la réponse.
+
+2- Etude de quelques solutions aqueuses faisant intervenir le couple HClO(aq) / ClO-(aq)
+
+Données :
+- Toutes les mesures sont effectuées à 25 °C ;
+- Le produit ionique de l'eau : Ke = 10-14 ;
+- La constante d'acidité du couple HClO(aq) / ClO-(aq) est : KA = 5.10-8.
+
+La mesure du pH d'une solution aqueuse (S) d'acide hypochloreux HClO de concentration molaire C et de volume V donne pH = 5,5.
+
+2-1- (0,75) Ecrire l'équation chimique modélisant la réaction de l'acide hypochloreux avec l'eau.
+
+2-2- (0,75) Trouver l'expression de la concentration molaire C en fonction du pH et de KA. Calculer sa valeur.
+
+2-3- (0,5) On définit la proportion de l'espèce basique ClO- dans une solution par : (ClO-) = [ClO-]éq/([ClO-]éq + [HClO]éq). Montrer que (ClO-) = KA/(KA + 10-pH).
+
+2-4- La courbe de la figure 2 représente l'évolution en fonction du pH de la proportion de l'une des formes basique ou acide (exprimée en pourcentage) du couple HClO(aq) / ClO-(aq).
+
+[Figure 2 : pourcentage % en fonction du pH ; repères 0 ; 40 ; 50 ; 100.]
+
+2-4-1- (0,5) A quelle forme du couple HClO(aq) / ClO-(aq) est associée cette courbe ?
+
+2-4-2- (0,5) En utilisant le graphe de la figure 2, identifier, en justifiant, l'espèce prédominante du couple HClO(aq) / ClO-(aq) dans la solution (S).
+
+2-5- On mélange un volume Va d'une solution d'acide hypochloreux de concentration molaire Ca avec un volume Vb d'une solution d'hydroxyde de sodium Na+(aq) + HO-(aq) de concentration molaire Cb = Ca. Le pH de la solution obtenue est pH = 7,3.
+
+2-5-1- (0,25) Déterminer la valeur de la constante d'équilibre K associée à l'équation de la réaction qui se produit.
+
+2-5-2- (0,5) En se basant sur le graphe de la figure 2, calculer la valeur du rapport [HClO]éq/[ClO-]éq. Que peut-on en déduire ?
+
+### Partie II : Accumulateur Argent / Fer
+
+Les accumulateurs sont des convertisseurs d'énergie. Contrairement aux piles, dont les réactifs se détruisent de manière irréversible au cours du fonctionnement, les réactifs des accumulateurs peuvent être régénérés par une opération de recharge.
+
+Dans cet exercice on étudiera, d'une façon simplifiée, la décharge de l'accumulateur Argent/Fer.
+
+On réalise l'accumulateur schématisé dans la figure 3 :
+- S1 est une solution aqueuse de sulfate de fer(II) Fe2+(aq) + SO42-(aq) de concentration molaire initiale C1 = 0,2 mol.L-1 et de volume V1 = 100 mL.
+- S2 est une solution aqueuse de nitrate d'argent Ag+(aq) + NO3-(aq) de concentration molaire initiale C2 = C1 et de volume V2 = V1.
+
+[Figure 3 : lame d'argent dans S2, lame de fer dans S1, pont salin.]
+
+Données :
+- Le faraday : 1F = 9,65.104 C.mol-1,
+- Les couples Ox/Red : Ag+(aq) / Ag(s) ; Fe2+(aq) / Fe(s).
+
+L'accumulateur est branché aux bornes d'une lampe à l'instant t = 0. L'intensité du courant dans le circuit est considérée constante : I = 150 mA.
+
+1- (0,5) La réaction spontanée est la réduction des ions argent et l'oxydation du fer.
+Ecrire l'équation bilan lors du fonctionnement de l'accumulateur.
+
+2- (0,5) Montrer que la concentration [Ag+(aq)]t à un instant t de fonctionnement est : [Ag+(aq)]t = 0,2 − 1,55.10-5.t avec t en seconde et la concentration en mol.L-1 (on considérera que les espèces métalliques sont en excès).
+
+3- (0,5) Déterminer la durée td de fonctionnement de l'accumulateur et la concentration finale des ions fer(II) : [Fe2+(aq)]f.
+
+## Physique : (13 points)
+
+### Exercice 1 : Ondes ultrasonores (2,25 points)
+
+L'échographie est un outil du diagnostic médical. Sa technique utilise une sonde à ultrasons.
+
+1- Détermination de la célérité d'une onde ultrasonore dans l'air
+
+On se propose de déterminer la célérité d'une onde ultrasonore dans l'air à partir de la mesure de la longueur d'onde λ d'un signal émis par la sonde d'un échographe de fréquence N = 40 kHz. Pour cela, on utilise un émetteur E produisant une onde périodique sinusoïdale de même fréquence que celle de la sonde.
+
+Les récepteurs R1 et R2 sont à égales distances de l'émetteur E. Lorsqu'on éloigne le récepteur R2 d'une distance d (Figure 1), les deux sinusoïdes visualisées sur l'oscilloscope se décalent. Les deux courbes sont en phase à chaque fois que la distance d entre R1 et R2 est un multiple entier n de λ avec n ∈ ℕ*.
+
+[Figure 1 : Emetteur E, récepteurs R1 et R2, distance d, oscilloscope.]
+
+1-1- (0,5) Définir la longueur d'onde.
+
+1-2- (0,25) Choisir la réponse juste parmi les propositions suivantes :
+a- Les ultrasons sont des ondes transportant la matière.
+b- Les ultrasons sont des ondes mécaniques.
+c- Les ultrasons se propagent avec la même vitesse dans tous les milieux.
+d- Le domaine de la longueur d'onde des ondes ultrasonores est : 400 nm < λ < 800 nm.
+
+1-3- (0,5) Dans l'expérience réalisée, on relève pour n = 12, la distance d = 10,2 cm.
+Déterminer la célérité de l'onde dans l'air.
+
+2- Application à l'échographie :
+
+La sonde échographique utilisée est à la fois un émetteur et un récepteur. Lorsque les ondes se propagent dans le corps humain, elles sont en partie réfléchies par les parois séparant deux milieux différents.
+
+La partie réfléchie de l'onde est reçue par la sonde puis analysée par un système informatique.
+
+La figure 2 représente le schéma du dispositif permettant l'échographie d'un fœtus.
+
+[Figure 2 : sonde de l'échographe, coupe du ventre de la mère, fœtus, points M1 et M2, épaisseurs ℓ1 et ℓ2.]
+
+Lors de l'examen, une salve d'ondes est émise par l'émetteur de la sonde à la date t = 0. L'onde est réfléchie au point M1 et au point M2. La sonde reçoit la première onde réfléchie à la date t1 = 80 μs et la deuxième à la date t2 = 130 μs.
+
+(0,5) Trouver l'épaisseur ℓ2 du fœtus.
+
+On admet que la vitesse des ondes ultrasonores dans le corps humain est vc = 1540 m.s-1.
+
+3- Diffraction de l'onde ultrasonore dans l'air :
+
+Le schéma expérimental représenté sur la figure 3 comporte :
+- l'émetteur E émettant l'onde ultrasonore de fréquence N = 40 kHz,
+- le récepteur R1 lié à un oscilloscope,
+- une plaque métallique (P) percée d'une fente rectangulaire de largeur a très petite devant sa longueur,
+- une feuille graduée permettant de mesurer les angles en degrés.
+
+[Figure 3 : émetteur E, plaque (P) avec fente de largeur a, point F, récepteur R1 sur l'arc de cercle, vers l'oscilloscope.]
+
+On déplace le récepteur R1 dans le plan horizontal d'un angle θ sur l'arc de cercle de centre F et de rayon r = 40 cm et on note pour chaque amplitude Um de l'onde reçue par R1, l'angle θ correspondant.
+
+3-1- (0,25) Comparer la longueur d'onde de l'onde incidente avec celle de l'onde diffractée.
+
+3-2- (0,5) On donne a = 2,6 cm.
+Trouver la distance du déplacement du récepteur pour observer le premier minimum d'amplitude Um de la tension du récepteur.
+
+### Exercice 2 : Electricité (5,25 points)
+
+Les circuits des appareils électriques, utilisés dans plusieurs domaines de la vie courante, sont constitués de condensateurs, de bobines, de conducteurs ohmiques, de circuits intégrés…
+
+La première partie de cet exercice vise à étudier un dipôle (R,L) et un circuit (L,C), la deuxième partie a pour objectif l'étude de la modulation d'amplitude.
+
+#### Partie I : Dipôle RL et circuit LC
+
+1- Réponse d'un dipôle RL à un échelon de tension
+
+On réalise le montage expérimental représenté sur la figure 1 comprenant :
+- un générateur de tension de f.e.m. E = 1,5 V ;
+- un conducteur ohmique de résistance R réglable ;
+- une bobine (b) d'inductance L et de résistance r ;
+- un interrupteur K.
+
+[Figure 1 : E, K, R, bobine (b), courant i. Figure 2 : i(mA) en fonction de t(ms) ; courbes (C1) et (C2), tangente (T) ; repères 25, 50, 50, 100, 0.]
+
+A un instant choisi comme origine des dates (t = 0), on ferme l'interrupteur K et on suit l'évolution de l'intensité du courant i(t) qui traverse le circuit à l'aide d'un système d'acquisition adéquat.
+
+1-1- (0,25) Etablir l'équation différentielle vérifiée par i(t).
+
+1-2- (0,25) La solution de cette équation différentielle s'écrit sous la forme : i(t) = A.e−t/τ + B, avec A, B et τ des constantes.
+Exprimer i(t) en fonction de t et des paramètres du circuit.
+
+1-3- Les courbes (C1) et (C2) de la figure 2 représentent l'évolution de i(t) respectivement pour R = R1 et R = 2R1. La droite (T) étant la tangente à la courbe (C1) au point d'abscisse t = 0.
+
+1-3-1- (0,5) Trouver R1 et r.
+
+1-3-2- (0,5) Montrer que L = 0,6 H.
+
+2- Etude d'un circuit LC
+
+On utilise dans cette étude une bobine (b') d'inductance L = 0,6 H et de résistance négligeable.
+
+Après avoir chargé, totalement, un condensateur de capacité C, sous une tension constante U0, on le branche aux bornes de la bobine (b') (Figure 3). La tension aux bornes du condensateur peut s'écrire sous la forme : uC(t) = U0.cos(2π.f0.t + φ) où f0 est la fréquence propre du circuit.
+
+[Figure 3 : bobine L, condensateur C (uC), courant i. Figure 4 : Em(mJ) en fonction de uC2(V2) ; repères 0 ; 100 ; 200 ; 0,1 ; 0,2.]
+
+2-1- (0,5) Montrer que l'énergie électrique totale Et du circuit est constante.
+
+2-2- (0,5) La courbe de la figure 4 représente la variation de l'énergie magnétique Em emmagasinée dans la bobine en fonction du carré de la tension uC aux bornes du condensateur : Em = f(uC2).
+En se basant sur la courbe de la figure 4, déterminer la capacité C du condensateur et la tension U0.
+
+#### Partie II : Modulation d'amplitude
+
+Afin de produire une onde hertzienne modulée en amplitude, on réalise le montage schématisé sur la figure 5, où X représente un circuit intégré multiplieur. Le coefficient du circuit multiplieur est k.
+
+[Figure 5 : entrées E1 (u1(t)) et E2 (u2(t)), multiplieur X, sortie S (us(t)).]
+
+On applique à l'entrée E1 la tension u1(t) = 6.cos(4.105.t) et à l'entrée E2 la tension u2(t) = 2.cos(8.103.t) + 5.
+
+La tension de sortie us(t) obtenue est us(t) = k.u1(t).u2(t) = 3.[1 + 0,4.cos(8.103.t)].cos(4.105.t)
+
+Toutes les tensions sont exprimées en volt (V).
+
+1- (0,75) Déterminer la fréquence de l'onde porteuse.
+
+2- (0,25) Choisir la réponse juste :
+L'amplitude maximale de l'onde modulée est :
+a- 6 V ; b- 4,2 V ; c- 3 V ; d- 1,8 V ; e- 2 V.
+
+3- (0,75) Les conditions d'une modulation d'amplitude de bonne qualité sont-elles vérifiées ? justifier.
+
+4- (0,5) Exprimer us(t) sous forme de la somme de trois fonctions sinusoïdales et représenter le spectre de fréquences en choisissant l'échelle suivante : 1 cm/V pour les amplitudes.
+
+Rappel : cos(a).cos(b) = (1/2).[cos(a + b) + cos(a − b)].
+
+5- (0,5) Le circuit bouchon, constitué par la bobine et le condensateur précédents, permet-il une bonne réception de l'onde modulée étudiée ? justifier la réponse.
+
+### Exercice 3 : Mécanique (5,5 points)
+
+Les deux parties I et II sont indépendantes
+
+#### Partie I : Mouvement d'un skieur
+
+Cette partie de l'exercice décrit un modèle très simplifié du mouvement du centre d'inertie G d'un skieur dans deux phases de son parcours :
+- Première phase : Mouvement rectiligne du skieur sur un plan incliné ;
+- Deuxième phase : Chute libre du skieur dans le champ de pesanteur uniforme.
+
+Données : - Masse du skieur : m = 60 kg ;
+- Intensité de l'accélération de la pesanteur : g = 9,8 m.s-2.
+
+On néglige l'action de l'air.
+
+1- Première phase : mouvement du skieur sur un plan incliné.
+
+On étudie le mouvement du centre d'inertie G du skieur dans le repère (O; i⃗1 ; j⃗1) lié à un référentiel terrestre considéré galiléen (figure 1).
+
+Pour atteindre le sommet S d'une piste (P) rectiligne inclinée d'un angle β = 23° par rapport à l'horizontale, le skieur part du point O sans vitesse initiale à t = 0. Il est accroché à un câble rigide faisant un angle α = 60° avec l'horizontale. Le câble exerce sur le skieur une force de traction F⃗ constante dirigée selon la direction du câble (figure 1).
+
+[Figure 1 : câble, vitesse v⃗s, points O, S, B, pistes (P) et (P'), repères (O; i⃗1, j⃗1) et (S; i⃗, j⃗), axes x1, y1, x, y, point G. Figure 2 : v(m.s-1) en fonction de t(s) ; repères 0 ; 0,5 ; 0,7 ; 1 ; 2.]
+
+Durant toute cette phase, le skieur reste constamment en contact avec le sol. On note R⃗T et R⃗N respectivement les composantes tangentielle et normale de l'action du plan incliné sur le skieur avec RT = k.RN ; k étant le coefficient de frottement solide et RT = f = 80 N.
+
+1-1- (0,5) En appliquant la deuxième loi de Newton, montrer que l'équation différentielle vérifiée par la vitesse v du centre d'inertie G s'écrit : dv/dt + g.sin β + f/m − (F/m).cos(α − β) = 0.
+
+1-2- La courbe de la figure 2 représente la variation de la vitesse v en fonction du temps.
+
+1-2-1- (0,25) Déterminer graphiquement la valeur de l'accélération du mouvement de G.
+
+1-2-2- (0,5) Déduire l'intensité de la force de traction F.
+
+1-3- (0,25) Déterminer la valeur de k.
+
+2- Deuxième phase : Phase du saut
+
+Le skieur arrivant au sommet S de la piste (P), lâche le câble et quitte la piste à un instant choisi comme une nouvelle origine des dates avec une vitesse v⃗S faisant l'angle β avec l'horizontale et de valeur vS = 10 m.s-1 (figure 1).
+
+On étudie le mouvement du centre d'inertie G du skieur dans le repère (S; i⃗, j⃗) lié à un référentiel terrestre considéré galiléen.
+
+Soit B la position de G sur la piste (P') qui est inclinée d'un angle γ = 45° par rapport à l'horizontale (figure 1).
+
+2-1- (0,5) Etablir les expressions numériques des équations horaires x(t) et y(t) du mouvement de chute libre de G dans le repère (S, i⃗, j⃗).
+
+2-2- (0,5) En déduire que l'équation de la trajectoire de G s'écrit : y = −5,8.10-2.x2 − 0,42.x.
+
+2-3- (0,25) Trouver la longueur SB du saut.
+
+#### Partie II : Mouvement d'un pendule simple
+
+On considère un métronome que l'on modélise par un pendule simple formé par une tige rigide de masse négligeable et de longueur ℓ = 24,8 cm à laquelle est suspendue une petite bille de masse m = 20 g et de dimensions négligeables devant ℓ.
+
+Quand on écarte le pendule de sa position d'équilibre d'un angle θm, il oscille dans un plan vertical entre les positions limites A et B autour d'un axe (Δ) horizontal passant par O (figure 3). Le métronome émet un signal sonore lorsque la bille arrive en A et il émet le même signal lors de son arrivée en B.
+
+On repère la position du pendule par l'abscisse angulaire θ à un instant t.
+
+[Figure 3 : axe (Δ), point O, tige de longueur ℓ, positions A et B, angle θm, point S, axe z, vecteur k⃗, point O'.]
+
+Données : - Accélération de la pesanteur : g = 9,81 m.s-2 ;
+- Pour les oscillations de faible amplitude, on prend cos θ ≈ 1 − θ2/2 ; θ en radian ;
+- Le moment d'inertie du pendule par rapport à l'axe de rotation (Δ) est : JΔ = m.ℓ2.
+
+Les frottements sont négligeables.
+
+1- On écarte le pendule, de sa position d'équilibre stable, d'un angle petit θm = 8° et on le libère de la position A à l'instant t0 = 0 sans vitesse initiale.
+
+On choisit comme origine de l'énergie potentielle de pesanteur le plan horizontal passant par la position de la bille au point S.
+
+1-1- (0,5) Trouver l'expression de l'énergie potentielle de pesanteur du pendule à un instant t en fonction de θ, ℓ, m et g.
+
+1-2- (0,25) Déterminer la valeur de l'énergie mécanique du pendule.
+
+1-3- (0,5) Par une étude énergétique, établir l'équation différentielle du mouvement vérifiée par l'abscisse angulaire θ(t).
+
+2- On note T0 la période propre du pendule.
+
+2-1- (0,5) Donner l'expression de T0 en fonction de g et ℓ et vérifier en utilisant les équations aux dimensions qu'elle est homogène à un temps.
+
+2-2- (0,5) Calculer la valeur de T0. Déduire le nombre de signaux sonores émis durant la durée Δt = t − t0 = 10,25 s sachant que le premier signal sonore est émis à l'arrivée de la bille au point B pour la première fois.
+
+3- (0,5) Montrer, en se basant sur la conservation de l'énergie mécanique, que la vitesse angulaire θ̇(t) à un instant t s'exprime par la relation : θ̇(t) = θ̇S.√(1 − (θ/θm)2) avec θ̇S la vitesse angulaire au point S.
