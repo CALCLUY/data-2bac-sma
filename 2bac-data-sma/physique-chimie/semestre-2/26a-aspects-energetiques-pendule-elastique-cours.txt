@@ -1,0 +1,99 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: A- Aspects énergétiques (Pendule élastique)
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 26A (Aspects énergétiques des oscillateurs mécaniques – Pendule élastique)
+
+Professeur : Mr EL GOUFIFA Jihad
+
+## I- Travail de la tension d'un ressort
+
+### 1-1/ Travail d'une force constante
+
+Le travail d'une force constante entre deux points A et B est égale au produit scalaire du vecteur force $\overset{\rightarrow}{F}$ par le vecteur déplacement $\overset{\rightarrow}{A B}$ :
+
+$\overline{\left.\right) W_{A B} \left(\overset{\rightarrow}{F}\right) = \overset{\rightarrow}{F} . \overset{\rightarrow}{A B} = F . A B . cos \alpha }$
+
+avec $W_{A B} \left(\overset{\rightarrow}{F}\right)$ en joule (J), $\overset{\rightarrow}{F}$ en newton (N), $A B$ en mètre (m) et $\alpha = \hat{\left(\overset{\rightarrow}{F} . \overset{\rightarrow}{A B}\right)}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img1.jpg)
+
+### 1-2/ Travail de la tension d'un ressort
+
+Considérons un ressort de longueur initiale $l_{0}$ et de constante de raideur $K$ placé sur un plan horizontal :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img2.jpg)
+
+La tension du ressort. $\overset{\rightarrow}{T} = - K . x . \overset{\rightarrow}{i}$ n'est pas une force constante.
+
+Pour calculer le travail de cette force on doit considérer le travail élémentaire de cette force $\delta W$ sir un déplacement infiniment petit $\overset{\rightarrow}{\delta l}$ sur lequel nous considérerons que la force est constante :
+
+$\delta W = \overset{\rightarrow}{T} . \overset{\rightarrow}{\delta l} = \overset{\rightarrow}{T} . \delta x . \overset{\rightarrow}{i} = - K . x . \delta x$
+
+Le travail total de la tension $\overset{\rightarrow}{T}$ du ressort lorsque son point d'application se déplace d'un point d'abscisse $x_{1}$ à un point d'abscisse $x_{2}$ est la somme des travaux élémentaires, on l'obtient en utilisant le calcul intégral :
+
+$\overline{\left.\right) W_{x_{1} \rightarrow x_{2}} \overset{\rightarrow}{T} = \int_{x_{1}}^{x_{2}} - K x d x = \frac{1}{2} K \left(\left(x_{1}\right)^{2} - \left(x_{2}\right)^{2}\right) }$
+
+## II- Étude énergétique du pendule élastique
+
+### 2-1/ L'énergie cinétique
+
+C'est l'énergie qu'un corps possède du fait de son mouvement, son unité est Joules (J).
+
+Elle est donné par la relation suivante : $E_{c} = \frac{1}{2} m v^{2} = \frac{1}{2} m \left(\overset{\cdot}{x}\right)^{2}$
+
+### 2-2/ L'énergie potentielle
+
+L'énergie potentielle élastique d'un pendule élastique est l'énergie qu'il possède grâce à la déformation du ressort.
+
+Elle est égale au travail que doit effectuer un opérateur pour le déformer.
+
+Elle est donnée par la relation suivante : $E_{p e} = \frac{1}{2} K . x^{2}$
+
+### 2-3/ Conservation de l'énergie mécanique
+
+Pendant les oscillations libres non amorties d'un pendule élastique horizontal constitué d'un corps S de masse m et d'un ressort de constante de raideur K, appliquons le théorème de l'énergie cinétique sur le corps S entre un point $M_{1}$ d'abscisse $x_{1}$ et un point $M_{2}$ d'abscisse $x_{2}$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img3.bmp)
+
+On a :
+
+$\Delta_{1 \rightarrow 2} E_{c} = W_{1 \rightarrow 2} \overset{\rightarrow}{T} = - \Delta_{1 \rightarrow 2} E_{p e} \\ \Rightarrow E_{c 2} - E_{c 1} = - \left(E_{p e 2} - E_{p e 1}\right) \\ \Rightarrow E_{c 2} + E_{p e 2} = E_{c 1} + E_{p e 1} \\ \Rightarrow \overline{\left.\right)E_{m 2} = E_{m 1}}$
+
+Donc lorsque les frottements sont absents, l'énergie mécanique se conserve.
+
+### 2-4/ Détermination de l'équation différentielle par étude énergétique
+
+Si les frottement sont négligeables, l'énergie mécanique de l'oscillateur est constante :
+
+$\frac{d E_{m}}{d t} = \frac{d E_{p e}}{d t} + \frac{d E_{c}}{d t} = 0 \\ \\ \Rightarrow \frac{d}{d t} \left(\frac{1}{2} K x^{2} + \frac{1}{2} m \left(\overset{\cdot}{x}\right)^{2}\right) = 0 \\ \\ \Rightarrow k . x . \overset{\cdot}{x} + m . \overset{\cdot}{x} . \overset{\cdot\cdot}{x} = 0 \\ \\ \Rightarrow \overline{\left.\right)\overset{\cdot\cdot}{x} + \frac{k}{m} x = 0}$
+
+C'est la même équation différentielle obtenue à partir l'étude dynamique.
+
+## III- Diagrammes énergétiques
+
+### 3-1/ Cas des oscillations sans frottements
+
+Dans le cas des oscillations sans frottements l'énergie mécanique de l'oscillateur mécanique est constante :
+
+$E_{m} = \frac{1}{2} K x^{2} + \frac{1}{2} m \left(\overset{\cdot}{x}\right)^{2} = C t e$
+
+En représentant la variation $E_{p e}$, $E_{c}$ et $E_{m}$ en fonction de $x$ on obtient le diagramme suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img4.png)
+
+En représentant la variation $E_{p e}$, $E_{c}$ et $E_{m}$ en fonction du temps on obtient le diagramme suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img5.png)
+
+### 3-2/ Cas des oscillations avec frottements
+
+Dans le cas des oscillations avec frottements l'énergie mécanique de l'oscillateur mécanique diminue jusqu'à ce qu'elle s'annule :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img6.jpg)
