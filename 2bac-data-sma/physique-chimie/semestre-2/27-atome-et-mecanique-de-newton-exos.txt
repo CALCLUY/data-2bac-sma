@@ -1,0 +1,87 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Atome et mécanique de Newton
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 27 (Atome et mécanique de Newton)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+1. Déterminer les longueurs d'onde émises par la désexcitation de l'atome dont le diagramme énergétique est sur la figure suivante sachant que son énergie initiale est $E_{3}$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img9.jpg)
+
+2. Préciser le domaine auquel appartient chaque rayonnement.
+
+On suppose, cette fois, que l'énergie de l'atome ne peut excéder $E_{3}$.
+
+3. Quelles doivent être les longueurs d'onde de photons incidents pour que l'atome puisse les absorber ?
+
+### 5-2/ Exercice 2
+
+L'énergie d'un atome d'hydrogène au niveau $n \left(\right. n \in N \star \left.\right)$ est $E_{n} = - \frac{E_{0}}{n^{2}}$, avec $E_{0} = 13 , 6 e V$ pour $\_{1}^{1}H$.
+
+1. Comment s'appelle le niveau $n = 1$ ? les niveaux correspondant à $n > 1$ ?
+
+On considère que $n$ varie de 1 à 8 (valeurs entières) ou que $n = \infty$.
+
+2. Expliquer succinctement pourquoi ce dernier état correspond à l'ionisation.
+
+3. Calculer la longueur d'onde minimale d'un photon permettant d'ioniser l'atome d'hydrogène initialement dans son état $n = 1$ (énergie de première ionisation).
+
+4. Refaire le même calcul pour $n = 2$.
+
+Un photon, de longueur d'onde $70 n m$, est absorbé par un atome d'hydrogène dans son état le plus stable.
+
+5. Calculer la vitesse de l'électron éjecté (en supposant que le noyau reste immobile).
+
+6. Exprimer l'énergie $I$ de première ionisation d'un hydrogénoïde (atome ou ion à un seul électron, soit $\_{1}^{}H$, $\_{2}^{}H e^{+}$, $\_{3}^{}L i^{2 +}$, ...) en fonction de $E_{0}$ et $Z$ sachant que l'énergie d'un hydrogénoïde au niveau n est $E_{n} = - E_{0} \left(\frac{Z}{n}\right)^{2}$, où $Z$ est le numéro atomique. Conclure.
+
+Données :
+
+- $m \left(\right. e^{-} \left.\right) = 9 , 11 \times 10^{- 31} k g$.
+
+### 5-3/ Exercice 3
+
+Les groupements caractéristiques de la chimie organique absorbent des radiations électromagnétiques qui permettent d'identifier les molécules. Ces absorptions se présentent sous la forme des bandes d'absorption qui sont caractérisées par leur nombre d'onde moyen $\sigma = 1/\left(\lambda\right)$ en $c m^{- 1}$.
+
+Le tableau suivant rassemble quelques valeurs typiques :
+
+| Groupement caractéristiques | $C = C$ | $O - H$ | $C = O$ |
+| --- | --- | --- | --- |
+| $\sigma = 1/\left(\lambda\right) \left(c m^{- 1}\right)$ | 1700 | 3350 | 1650 |
+
+1. Calculer en $\left(\right. e V \left.\right)$ les énergies des radiations absorbées par ces groupements caractéristiques.
+
+2. Que peut-on déduire de l'existence de bandes d'absorption quand à l'énergie d'une molécule ?
+
+On considère deux molécules le butan-2-one et le butan-2-ol.
+
+3. Écrire la formule semi-développée de chaque molécule.
+
+4. Attribuer à chacun des spectres suivant la molécule correspondante.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img10.bmp)
+
+### 5-4/ Exercice 4
+
+Le bismuth 212, $\_{}^{212}B i$, radioactive de type $\alpha$. Il se désintègre en thallium 208.
+
+Le diagramme énergétique suivant représente le niveau d'énergie du noyau père, de bismuth, et ceux du noyau fils :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img11.jpg)
+
+1. Quel niveau est choisi pour référence de l'énergie ?
+
+2. Écrire l'équation de la désintégration $\_{}^{212}B i$.
+
+3. Calculer la plus grande longueur d'onde des rayons $\gamma$ émis lors de la désexcitation du noyau fils.
+
+4. Faire de même pour la plus courte longueur d'onde.

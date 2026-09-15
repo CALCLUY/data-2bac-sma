@@ -1,0 +1,156 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Atome et mécanique de Newton
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 27 (Atome et mécanique de Newton)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Les limites de la mécanique newtonienne
+
+### 1-1/ Analogie entre l'interaction gravitationnelle et électrostatique
+
+#### Interactions gravitationnelles (Loi de Newton)
+
+Deux corps A et B de masses $m_{A}$ et $m_{B}$ exercent l'un sur l'autre des forces d'attraction gravitationnelle de même intensité :
+
+$\overline{\left.\right)\left(\overset{\rightarrow}{ F}\right)_{A / B} = - \left(\overset{\rightarrow}{F}\right)_{B / A} = - G \frac{m_{A} . m_{B}}{d^{2}} \left(\overset{\rightarrow}{u}\right)_{A B} }$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img1.jpg)
+
+#### Interactions électrostatiques (Loi de Coulomb)
+
+Deux corps (A) et (B) ponctuelles, de charges respectives $q_{A}$ et $q_{B}$, séparés par une distance d, exercent l'un sur l'autre une force d'attraction, donnée par :
+
+$\overline{\left.\right)\left(\overset{\rightarrow}{ F}\right)_{A / B} = - \left(\overset{\rightarrow}{F}\right)_{B / A} = - k \frac{q_{A} . q_{B}}{d^{2}} \left(\overset{\rightarrow}{u}\right)_{A B} }$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img2.jpg)
+
+#### Analogie entre les forces gravitationnelle et électrique
+
+- Leur droite d'action joint les corps en interaction.
+- Leur valeur est proportionnelle à $\frac{1}{d^{2}}$, $d$ représentant la distance séparant les deux corps en interaction.
+- Elles sont dites forces newtoniennes.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img3.jpg)
+
+### 1-2/ Modèle planétaire de l'atome
+
+Après l'expérience fameuse de Rutherford (expérience de la feuille d'or), il prouve que l'atome est constituée du vide, donc Rutherford utilise l'analogie entre l'interaction gravitationnelle macroscopique, et celle électrostatique microscopique, et propose un modèle planétaire de l'atome, basée sur la mécanique classique :
+
+L'atome est constituée d'un noyau autour duquel les électrons tournent.
+
+#### Exemple
+
+L'atome d'hydrogène : Un noyau correspond à la terre, autour de laquelle un satellite (l'électron) tourne.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img4.jpg)
+
+### 1-3/ Limites de la mécanique classique
+
+Ce modèle porte plusieurs contradictions :
+
+- Les rayons orbitaux possibles : L'orbite de l'électron peut être loin du noyau à n'importe quel rayon, ce qui résulte plusieurs volumes possible d'une atome.
+- L'effet photoélectrique : L'émission d'électrons par un métal, lorsqu'il est soumis à une onde électromagnétique.
+- La discontinuité du spectre d'émission...
+
+Ceci prouve que la mécanique de Newton est inutile au niveau microscopique.
+
+## II- Quantification des échanges d'énergie
+
+### 2-1/ Les photons
+
+En 1900, Max PLANCK émet l'hypothèse que la lumière, comme toutes les ondes électromagnétiques, transporte de l'énergie par « paquets », appelés quanta d'énergie.
+
+Il postule alors la quantification de l'énergie transportée par les ondes électromagnétiques.
+
+En 1905, Albert EINSTEIN émet l'hypothèse que ces quanta d'énergie sont portés par des particules appelées photons.
+
+Les photons sont des corpuscules de masse nulle, non chargées, se propageant à la vitesse de la lumière, $c = 3 \times 10^{8} m . s^{- 1}$, dans le vide.
+
+### 2-2/ Relation de Planck-Einstein
+
+Chaque onde électromagnétique caractérisée par une fréquence $\nu$ et une longueur d'onde $\lambda$ est constitué de photons (grains élémentaires), et chaque photon a pour énergie :
+
+$\overline{\left.\right) E = h . \nu }$
+
+- $h$ : constante de Planck : $h = 6 , 63 \times 10^{- 34} J . s$
+- $\nu$ : fréquence de la lumière : $\nu = \frac{c}{\lambda}$
+- $c$ : célérité de la lumière dans le vide.
+- $\lambda$ : longueur d'onde
+
+$\overline{\left.\right) E = h . \nu = \frac{h . c}{\lambda} }$
+
+### 2-3/ Les postulats de Bohr (Modèle de Bohr de l'atome)
+
+Les variations d'énergie d'un atome sont quantifiées.
+
+L'atome ne peut exister que dans certains états d'énergies bien définis, caractérisés par un niveau d'énergie.
+
+Un photon de fréquence ν est émis lorsque l'atome effectue une transition entre deux niveaux d'énergies $E_{n}$ et $E_{p}$, tel que : $E_{p} - E_{n} = h \nu$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img5.jpg)
+
+## III- Quantification d'énergie des atomes
+
+### 3-1/ Niveaux d'énergie des atomes
+
+L'atome peut passer d'un état à un autre état en gagnant ou en perdant de l'énergie.
+
+Pour expliquer cet échange d'énergie entre l'atome et le milieu extérieure, Bohr a supposé que l'énergie de l'atome est quantifiée et il a proposé la relation $E_{n} = - \frac{E_{0}}{n^{2}}$ qui permet de déterminer les différents niveaux de l'atome d'hydrogène.
+
+Dans cette relation le nombre quantique principal « n » est un nombre entier non nul et $E_{0} = 13 , 6 e V$.
+
+- Si $n = 1$, c'est le niveau d'énergie minimal, autrement c'est le niveau stable et fondamental de l'atome.
+- Si $n > 1$, l'atome est dans un état excité, l'énergie devient supérieur en fonction de n, c-à-d : $E_{n} < E_{n + 1}$.
+- Si $n \rightarrow \infty$, alors $E \rightarrow 0$, l'atome est dans un état dit ionisé, (pas d'électron).
+
+### 3-2/ Diagramme énergétique des atomes
+
+Diagramme énergétique de l'atome d'hydrogène
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img6.gif)
+
+## IV- Spectre d'émission et spectre d'absorption
+
+### 4-1/ Spectre d'émission de l'atome d'hydrogène
+
+#### Expérience de Balmer
+
+Par décharge électrique dans une ampoule contenant le gaz dihydrogène on obtient le spectre d'émission de l'atome d'hydrogène, c'est un spectre de raies discontinu, il contient quatre raies visibles et d'autres raies invisibles :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img7.jpg)
+
+#### Interprétation
+
+Par excitation avec la décharge électrique l'électron de chaque atome d'hydrogène passe à un niveau d'énergie plus élevé (les atomes sont dits excités) par la suite ces électrons perdent leurs excitations en passant à un niveau d'énergie plus bas.
+
+Cette transition entraîne l'émission de radiations de longueurs d'ondes bien déterminées et on obtient le spectre d'émission.
+
+La relation qui correspond au passage de l'atome excité d'un niveau d'énergie $E_{p}$ à un niveau d'énergie inférieure $E_{n}$ est :
+
+$E_{p} - E_{n} = \frac{E_{0}}{p^{2}} - \frac{E_{0}}{n^{2}} = h \nu = \frac{h c}{\lambda} \\ \\ \Rightarrow \overline{\left.\right)\frac{1}{\lambda} = \frac{E_{0}}{h c} \left(\frac{1}{p^{2}} - \frac{1}{n^{2}}\right) = R_{H} \left(\frac{1}{p^{2}} - \frac{1}{n^{2}}\right)}$
+
+$R_{H} = \frac{E_{0}}{h c} \approx 1 , 097 . 10^{7} m^{- 1}$ : Conctante de Rydberg
+
+Donc la longueur d'onde liée à la radiation émise est :
+
+$\overline{\left.\right)\frac{1}{\lambda_{n \rightarrow p}} = R_{H} \left(\frac{1}{p^{2}} - \frac{1}{n^{2}}\right)}$
+
+### 4-2/ Séries de spectre d'émission de l'atome d'hydrogène
+
+On voit que le spectre d'émission (ou d'absorption) de l'hydrogène présente de nombreuses raies groupées par séries.
+
+Lorsque la transition électronique aboutit sur le niveau fondamental (n=1), c'est la série de Lyman, elle se trouve dans le domaine U.V.
+
+Lorsque la transition électronique aboutit sur le premier niveau excité (n=2), c'est la série de Balmer, elle se trouve en grande partie dans le domaine visible.
+
+Lorsque la transition électronique aboutit sur le deuxième niveau excité (n=3), c'est la série de Paschen, elle se trouve dans le domaine I.R.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s27/img8.jpg)
