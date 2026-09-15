@@ -1,0 +1,315 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2011 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2011 - الموضوع - مادة : الفيزياء والكيمياء
+NS31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+Les calculatrices non programmables sont autorisées
+
+Le sujet comporte quatre exercices :
+- Un exercice de chimie (7 points)
+- Trois exercices de physique (13 points)
+
+Exercice de chimie
+- Première partie : identification de deux solutions acides – synthèse d'un ester ……… (4,75 points)
+- Deuxième partie : Pile de concentration ……… (2,25 points)
+
+Exercices de physique
+Exercice 1 : Datation par le carbone 14 ……… (2 points)
+Exercice 2 : Echange énergétique entre une bobine et un condensateur ……… (5,25 points)
+Exercice 3 :
+- Première partie : Etude du mouvement d'un skieur ……… (2,25 points)
+- Deuxième partie : La chute verticale d'une bille métallique ……… (3,5 points)
+
+## CHIMIE (7 points) Les deux parties 1 et 2 sont indépendantes
+
+### Première partie (4,75 points) : identification de deux solutions acides - synthèse d'un ester
+
+Donnée : Le taux d'avancement final de la réaction de l'acide perchlorique avec l'eau est τ = 1.
+
+Un technicien de laboratoire a préparé une solution (S1) d'un acide carboxylique RCOOH et une solution (S2) d'acide perchlorique HClO4 et il a mis chacune d'elles dans un flacon, mais il a oublié de marquer leur nom sur les deux flacons.
+
+1- Pour identifier les deux solutions et déterminer la concentration de chacune d'elles, le technicien du laboratoire a dosé ces deux solutions avec une solution (Sb) d'hydroxyde de sodium.
+
+Il a prélevé le même volume V = 10 mL de (S1) et de (S2) et il les a dosés avec la même solution (Sb) de concentration Cb = 0,1 mol.L-1. Le suivi de l'évolution du pH au cours du dosage lui a permis d'obtenir les deux courbes (A) et (B) ci-dessous représentant les variations du pH en fonction du volume Vb de la solution d'hydroxyde de sodium ajouté. ΔA et Δ'A sont deux parallèles tangentes à la courbe (A) et ΔB et Δ'B deux parallèles tangentes à la courbe (B).
+
+[FORMULA_IMAGE_UNREADABLE] (graphe pH en fonction de Vb(mL) ; courbes (A) et (B) ; tangentes ΔA, Δ'A, ΔB, Δ'B ; graduations 0, 4, 8, 12, 16, 20 mL et 2, 4, 6, 8, 10, 12)
+
+1.1- Ecrire l'équation de la réaction de chaque acide avec l'eau. (0,5)
+
+1.2- Ecrire l'équation de la réaction du dosage pour chaque acide. (0,5)
+
+1.3- En utilisant les tangentes, déterminer le pH du mélange à l'équivalence pour chacune des deux courbes en précisant la méthode suivie, en déduire, en justifiant la réponse, la courbe obtenue au cours du dosage de la solution (S1). (1,25)
+
+1.4- Déterminer la concentration de chacune des solutions (S1) et (S2). (0,5)
+
+1.5- A l'aide du tableau d'avancement de la réaction de l'acide carboxylique avec l'eau, déterminer la valeur de la constante pKA du couple acide/base de cet acide. (0,75)
+
+2- Pour réaliser la synthèse d'un ester à partir de l'acide carboxylique RCOOH, le technicien du laboratoire a chauffé un mélange constitué de 8,2.10-3 mol de l'acide carboxylique et 1,7.10-2 mol d'éthanol C2H5OH, alors il a obtenu un ester de formule semi-développée :
+
+[FORMULA_IMAGE_UNREADABLE] (formule semi-développée de l'ester : C6H5-C(CH3)(O)-O-CH2… donnée sous forme d'image)
+
+A la fin de la réaction, il a refroidit le mélange réactionnel, et puis il a dosé l'acide carboxylique RCOOH restant et il a trouvé nr = 2,4.10-3 mol.
+
+2.1- Déterminer la formule semi-développée de l'acide carboxylique RCOOH. (0,25)
+
+2.2- Déterminer la quantité de matière de l'ester formé à la fin de la réaction. (0,5)
+
+2.3- Calculer le rendement de cette synthèse. (0,5)
+
+### Deuxième partie (2,25 points) : Pile de concentration
+
+Les piles électriques sont des dispositifs électrochimiques qui transforment l'énergie de la réaction chimique en énergie électrique. on cite parmi elles les piles de concentration dont l'énergie provient de la différence des concentrations des ions de deux solutions. Ce type de pile électrique est utilisé essentiellement dans l'industrie au niveau de la galvanisation et l'étude de la corrosion.
+
+L'objectif de cet exercice est l'étude d'une pile de concentration cuivre-cuivre.
+
+La pile représentée dans la figure (2) est constituée de :
+
+- Un bécher ① contenant un volume V1 = 50 mL de solution (S1) de sulfate de cuivre (II) (Cu2+ + SO42-) de concentration C1 dans laquelle est plongée une partie d'une lame de cuivre (L1).
+
+- Un bécher ② contenant un volume V2 = V1 de solution (S2) de sulfate de cuivre (II) (Cu2+ + SO42-) de concentration C2 dans laquelle est plongée une partie d'une lame de cuivre (L2).
+
+- Un pont ionique qui relie les deux solutions (S1) et (S2).
+
+On relie les deux lames de cuivre (L1) et (L2) par un conducteur Ohmique de résistance R, un ampèremètre et un interrupteur K.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : deux béchers, lames (L1) et (L2), pont ionique, ampèremètre A, résistance R, interrupteur K)
+
+On représente par Cu2+(1) les ions Cu2+(aq) dans le bécher ① et par Cu2+(2) les ions Cu2+(aq) dans le bécher ②.
+
+Lorsqu'on ferme l'interrupteur K, il se produit dans la pile une réaction d'oxydo-réduction d'équation : Cu2+(aq)(1) + Cu(s)(2) ⇄ Cu(s)(1) + Cu2+(aq)(2).
+
+On réalise deux expériences (a) et (b) en utilisant les valeurs des concentrations indiquées dans le tableau ci-dessous.
+
+On mesure l'intensité du courant I qui passe dans le conducteur ohmique lorsqu'on ferme l'interrupteur dans chacune des expériences et on note le résultat obtenu dans le même tableau :
+
+| | Expérience (a) | | Expérience (b) | |
+| --- | --- | --- | --- | --- |
+| Concentration (en mol.L-1) | C1 = 0,010 | C2 = 0,10 | C1 = 0,10 | C2 = 0,10 |
+| Intensité I de courant (en mA) | I1 = 140 | | I2 = 0 | |
+
+Donnée : constante de Faraday : F = 9,65.10^4 C.mol-1.
+
+1- Déduire à partir des résultats expérimentaux indiqués dans le tableau ci-dessus la valeur de la constante d'équilibre associée à l'équation de la réaction. (0,5)
+
+2- On s'intéresse à l'expérience (a) et on prend pour origine des dates (t = 0) l'instant où l'on ferme l'interrupteur.
+
+2.1- indiquer le pôle positif de la pile en justifiant la réponse. (0,5)
+
+2.2- Etablir l'expression de l'avancement x de la réaction qui a eu lieu en fonction du temps t en considérant que l'intensité du courant I1 reste constante au cours du fonctionnement de la pile.
+Calculer le taux d'avancement de la réaction à l'instant t = 30 min. (0,5)
+
+2.3- Calculer les concentrations [Cu2+(1)]éq et [Cu2+(2)]éq dans les béchers ① et ② lorsque la pile est consommée. (0,5)
+
+## PHYSIQUE
+
+### Exercice 1 (2 points) : Datation par le carbone 14
+
+Toutes les plantes absorbent le carbone C qui se trouve dans l'atmosphère (12C et 14C) à travers le dioxyde de carbone de telle sorte que le rapport du nombre N0(14C) des noyaux de carbone 14 à celui des noyaux du carbone N0(C) dans les plantes reste constant durant leur vie : N0(14C)/N0(C) = 1,2.10-12.
+
+A partir de l'instant où la plante meurt, ce rapport commence à diminuer à cause de la désintégration du carbone 14 qui est un isotope radioactif.
+
+Données :
+
+- Demi-vie du carbone 14 : t1/2 = 5730 ans ;
+- Masse molaire du carbone : M(C) = 12,0 g.mol-1 ;
+- Constante d'Avogadro : NA = 6,02.10^23 mol-1 ;
+- 1 an = 3,15.10^7 s.
+- Le noyau du carbone 14 est radioactif β-, sa désintégration donne un noyau A/Z Y.
+
+1- La figure (1) donne une partie du diagramme de Segri (Z, N).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : diagramme (Z, N) avec les noyaux 14C, 12B, 12N, 11B, 12C, 11C)
+
+1.1- Ecrire l'équation de la transformation nucléaire du carbone 14 en déterminant le noyau fils A/Z Y. (0,25)
+
+1.2- La désintégration du noyau du carbone 11/6 C donne un noyau de bore A'/Z' B.
+Ecrire l'équation de cette transformation nucléaire en déterminant A' et Z'. (0,25)
+
+2- A l'aide du diagramme énergétique représenté dans la figure (2) :
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : diagramme énergétique, niveaux -13146,2 ; -13047,1 ; -13044,3 MeV ; 6 protons + 8 neutrons ; noyau de carbone 14 ; noyau A/Z Y + β-)
+
+2.1- Trouver l'énergie de liaison par nucléon du noyau de carbone 14. (0,25)
+
+2.2- Trouver la valeur absolue de l'énergie produite par la désintégration d'un noyau du carbone 14. (0,25)
+
+3- On veut déterminer l'âge d'un morceau de bois très ancien, pour cela on y prélève à un instant t un échantillon de masse m = 0,295 g, on trouve que cet échantillon donne 1,40 désintégrations par minute. On considère que ces désintégrations proviennent uniquement du carbone 14 qui se trouve dans l'échantillon étudié.
+
+On prélève d'un arbre vivant un morceau de même masse que l'échantillon précédent m = 0,295 g, on trouve que le pourcentage massique du carbone dans ce morceau est 51,2%
+
+3.1- Calculer le nombre de noyaux du carbone C et le nombre de noyaux du carbone 14 dans le morceau qui a été prélevé de l'arbre vivant. (0,5)
+
+3.2- Déterminer l'âge du morceau de bois ancien. (0,5)
+
+### Exercice 2 (5,25 points) : Echange d'énergie entre une bobine et un condensateur
+
+Le dipôle LC se comporte comme un oscillateur dans lequel s'effectue périodiquement un échange d'énergie entre le condensateur et la bobine ; mais, en réalité, l'énergie totale de ce dipôle ne reste pas constante au cours du temps à cause des pertes d'énergie par effet joule.
+
+L'objectif de cet exercice est d'étudier l'échange énergétique entre le condensateur et la bobine ainsi que la réponse d'une bobine à un échelon de tension électrique.
+
+#### 1- Oscillations électriques dans le cas où la bobine a une résistance négligeable.
+
+On considère le montage de la figure 1 qui comprend :
+
+- Un générateur idéal de tension qui donne une tension U0 ;
+- Une bobine d'inductance L et de résistance négligeable ;
+- Un condensateur de capacité C = 8,0.10-9 F ;
+- Un interrupteur K.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : générateur U0, interrupteur K positions (1) et (2), condensateur C, bobine L, courant i)
+
+On charge le condensateur sous la tension U0 en plaçant l'interrupteur dans la position (1).
+
+Lorsque le condensateur est complètement chargé, on bascule l'interrupteur dans la position (2) à l'instant t = 0, il passe alors dans le circuit un courant d'intensité i.
+
+A l'aide d'un dispositif approprié, on visualise la courbe représentant les variations de l'intensité i en fonction du temps (figure 2) et la courbe représentant les variations de l'énergie magnétique Em emmagasinée dans la bobine en fonction du temps (figure 3).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : i(mA) en fonction de t(ms) ; graduations -15, 0, 15 mA et 0,01 ; 0,02 ; 0,03 ; 0,04 ms)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : Em(10-7 J) en fonction de t(ms) ; valeurs 1,45 et 4,35 ; graduations 0,01 et 0,03 ms)
+
+1.1- Trouver l'équation différentielle vérifiée par l'intensité i du courant. (0,5)
+
+1.2- A l'aide des figures (2) et (3) :
+
+a- Déterminer la valeur de l'énergie totale ET du circuit LC et en déduire la valeur de la tension U0. (0,5)
+
+b- Déterminer la valeur de L. (0,5)
+
+#### 2- Réponse d'une bobine de résistance négligeable à un échelon de tension.
+
+On monte la bobine précédente en série avec un conducteur ohmique de résistance R = 100 Ω. On applique entre les bornes du dipôle obtenu un échelon de tension de valeur ascendante E et de valeur descendante nulle et de période T.
+
+On visualise à l'aide d'un dispositif approprié l'évolution de la tension u entre les bornes du générateur, la tension uR aux bornes du conducteur ohmique et la tension uL aux bornes de la bobine ; on obtient alors les courbes (1), (2) et (3) représentées dans la figure 4.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : u(V) en fonction de t(10-2 ms) ; courbes (1), (2), (3) ; graduations 1,27 ; 2,54 ; valeur 4 ; T/2)
+
+2.1- Etablir l'équation différentielle vérifiée par l'intensité du courant i(t) dans l'intervalle 0 ≤ t < T/2. (0,75)
+
+2.2- La solution de cette équation différentielle s'écrit sous la forme : i(t) = Ip (1 − e^(−t/τ)) avec Ip et τ des constantes.
+
+a- Associer chacune des tensions uL et uR à la courbe correspondante dans la figure 4. (0,5)
+
+b- A l'aide des courbes de la figure 4, trouver la valeur de Ip. (0,5)
+
+2.3- L'expression de l'intensité du courant s'écrit dans l'intervalle T/2 ≤ t < T (sans changer l'origine du temps) sous la forme : i(t) = A.e^(−t/τ) avec A et τ des constantes.
+
+Montrer que l'expression de l'intensité du courant à l'instant t1 = 3T/4 s'écrit sous la forme i(t1) = Ip.e-2. (0,5)
+
+#### 3- Les oscillations électriques dans le cas où la bobine a une résistance non négligeable.
+
+On répète l'expérience en utilisant le montage représenté dans la figure 1 en remplaçant la bobine précédente par une autre bobine ayant la même inductance L, mais sa résistance r n'est pas négligeable.
+
+Après avoir chargé complètement le condensateur, on bascule l'interrupteur dans la position (2).
+
+La figure 5 représente l'évolution de la charge q du condensateur en fonction du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 5 : q en fonction de t(ms) ; échelle 0,01 ms)
+
+3.1- Choisir la ou les réponses justes :
+
+L'énergie emmagasinée dans la bobine est :
+
+a) maximale à l'instant t1 = 5.10-3 ms.
+b) minimale à l'instant t1 = 5.10-3 ms.
+c) maximale à l'instant t2 = 10-2 ms.
+d) minimale à l'instant t2 = 10-2 ms. (0,5)
+
+3.2- Montrer que l'équation différentielle vérifiée par la charge du condensateur s'écrit sous la forme : d²q/dt² + 2λ dq/dt + (4π²/T0²) q = 0 avec T0 la période propre du circuit et λ = r/(2L). (0,5)
+
+3.3- sachant que l'expression de la pseudo période T des oscillations est 1/T² = 1/T0² − λ²/(4π²) ; trouver la condition que doit vérifier r par rapport à √(L/C) pour que T ≈ T0. (0,5)
+
+### Exercice 3 (5,75 points) Les deux parties (1) et (2) sont indépendantes
+
+#### Première partie (2,25 points) : Etude du mouvement d'un skieur
+
+Un skieur glisse sur une montagne recouverte de glace au pied de laquelle se trouve un lac d'eau.
+
+La figure suivante donne l'emplacement du lac d'eau par rapport au point O où le skieur sera obligé de quitter le sol de la montagne avec une vitesse v⃗ faisant un angle α avec l'horizontale
+
+Le skieur part d'un point D situé à la hauteur h par rapport au plan horizontal contenant le point O, (voir figure). La vitesse v du skieur lors de son passage au point O s'exprime par la relation v = √(2g.h)
+
+Dans un essai le skieur passe par le point O origine du repère (O, i⃗, j⃗) avec une certaine vitesse, alors il tombe dans le lac d'eau.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : point D à hauteur h, point O, repère (i, j), vitesse v0, angle α, hauteur H, lac AB, axes x et y)
+
+On veut déterminer la hauteur minimale hm de la hauteur h du point D à partir duquel doit partir le skieur sans vitesse initiale pour qu'il ne tombe pas dans le lac.
+
+Données :
+
+- Masse du skieur et ses accessoires : m = 60 kg ;
+- Accélération de la pesanteur : g = 10 m.s-2 ;
+- La hauteur : H = 0,50 m ;
+- L'angle : α = 30°
+- La longueur du lac d'eau : AB = d = 10 m.
+
+Pour cet exercice, on assimile le skieur et ses accessoires à un point matériel G et on néglige tous les frottements et toutes les actions de l'air.
+
+1- Le skieur quitte le point O à l'instant t = 0 avec une vitesse v⃗0 faisant un angle α avec l'horizontale.
+
+1.1- En appliquant la deuxième loi de Newton, déterminer l'équation différentielle que vérifie chacune des coordonnées du vecteur vitesse dans le repère (O, i⃗, j⃗). (0,5)
+
+1.2- Montrer que l'équation de la trajectoire du skieur s'écrit dans le repère cartésien sous la forme : y(x) = −(1/2) g x²/(v0² cos²α) + x.tan α. (0,75)
+
+2- Déterminer la valeur minimale hm de la hauteur h pour que le skieur ne tombe pas dans le lac d'eau. (1)
+
+#### Deuxième partie (3,5 points) : La chute verticale d'une bille métallique
+
+L'objectif de cet exercice est d'étudier le mouvement de chute verticale d'une bille métallique dans l'air et dans un liquide visqueux.
+
+Donnée :
+
+- La masse volumique de la bille : ρ1 = 2,70.10^3 kg.m-3 ;
+- La masse volumique du liquide visqueux : ρ2 = 1,26.10^3 kg.m-3 ;
+- Le volume de la bille : V = 4,20.10-6 m3
+- Accélération de la pesanteur : g = 9,80 m.s-2
+
+A l'instant t = 0 on libère la bille d'un point O confondu avec son centre d'inertie G.
+
+Le point O se trouve à une hauteur H de la surface libre du liquide visqueux qui se trouve dans un tube transparent vertical (figure 1).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : point O, axe i, x, la bille, hauteur H, liquide visqueux)
+
+La courbe de la figure (2) représente l'évolution de la vitesse v du centre d'inertie G de la bille au cours de sa chute dans l'air et dans le liquide visqueux.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : v(m.s-1) en fonction de t(s) ; graduations 2,0 ; 3,0 et 0,20 ; 0,40 ; 0,60 s)
+
+1- Etude du mouvement de la bille dans l'air.
+
+On modélise l'action de l'air sur la bille au cours de sa chute par une force verticale R⃗ d'intensité R constante.
+
+On néglige le rayon de la bille devant la hauteur H.
+
+Le centre d'inertie de la bille atteint la surface libre du liquide visqueux à un instant t1 avec une vitesse v1.
+
+1.1- En appliquant la deuxième loi de Newton, exprimer R en fonction de V, ρ1, g, v1 et t1. (0,5)
+
+1.2- En exploitant la courbe v = f(t), calculer la valeur de R. (0,5)
+
+2- Etude du mouvement de la bille dans le liquide visqueux.
+
+La bille est soumise pendant sa chute dans le liquide visqueux, en plus de son poids aux forces :
+
+- Poussée d'Archimède : F⃗ = −ρ2.V.g.i⃗
+- Force de frottement visqueux : f⃗ = −k.v.i⃗ avec k constante positive.
+
+On modélise l'évolution de la vitesse v du centre d'inertie de la bille, dans le système international des unités, par l'équation différentielle dv/dt = 5,2 − 26.v (1)
+
+2.1- Trouver l'équation différentielle littérale vérifiée par la vitesse v du centre d'inertie de la bille en fonction des données du texte. (0,5)
+
+2.2- En utilisant cette équation différentielle littérale et le graphe de la figure 2, vérifier que l'équation différentielle (1) est correcte. (0,75)
+
+2.3- En utilisant l'équation aux dimensions, déterminer la dimension de la constante k.
+Calculer la valeur de k (0,75)
+
+2.4- sachant que la vitesse du centre d'inertie de la bille dans le liquide visqueux à un instant ti est vi = 2,38 m.s-1 ; établir à l'aide de la méthode d'Euler que l'expression de la vitesse de G à l'instant ti+1 = ti + Δt est : vi+1 = (1 − 26 Δt).vi + 5,20 Δt avec Δt le pas du calcul.
+Calculer vi+1 dans le cas où Δt = 5,00 ms. (0,5)
