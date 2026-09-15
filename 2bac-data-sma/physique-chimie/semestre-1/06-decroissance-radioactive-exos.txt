@@ -1,0 +1,111 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Décroissance radioactive
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 6 (Décroissance radioactive)
+Professeur : Mr El GOUFIFA Jihad
+
+## IIX- Exercices
+
+### 8-1/ Exercice 1
+
+Le carbone (Z = 6) possède, entre autres, deux isotopes de nombre de masse 12 et 14.
+
+1. Donner la composition de chacun des noyaux.
+
+La réaction d'un neutron sur un noyau d'azote $\_{7}^{14}N$ donne naissance à du carbone 14 et à une autre particule X.
+
+1. Écrire l'équation de cette réaction nucléaire en rappelant les lois de conservation.
+
+1. Identifier la particule X.
+
+Le carbone 14 est radioactif $\beta^{-}$ de demi-vie $t_{1 / 2} = 5570 a n s$.
+
+1. Écrire l'équation de la réaction de désintégration du carbone 14 en précisant la nature de la particule $\beta^{-}$ et en identifiant le noyau fils.
+
+On appelle $N$ le nombre de noyaux non désintégrés à l'instant t, $N_{0}$ étant le nombre de noyaux initial, à l'instant $t = 0$.
+
+1. Donner l'expression littérale de la loi de décroissance radioactive.
+
+1. Donner la définition de demi-vie d'un élément radioactif. Exprimer la de demi-vie en fonction de $\lambda$ la constante radioactive.
+
+Dans un échantillon de bois ancien, mort, on constate que la teneur en carbone 14 est 8 fois plus faible que dans un échantillon de bois vivant de même masse.
+
+1. Déterminer l'âge de ce morceau de bois.
+
+### 8-2/ Exercice 2
+
+L'iode est indispensable à l'organisme humain, il participe à la synthèse des hormones thyroïdiennes.
+
+L'assimilation de cet iode 127 non radioactif se fait sous forme d'ions iodure dans la glande thyroïde.
+
+Lors des accidents nucléaires, il y a émission dans l'atmosphère d'iode 131, radioactif $\beta^{-}$ de demi-vie $t_{1 / 2} = 8 , 1 j o u r s$.
+
+Lors de sa désintégration l'iode 131 donne du Xénon (Xe).
+
+1. Écrire l'équation de désintégration de l'iode 131.
+
+La population française vivant dans les environs des centrales nucléaire a reçu des comprimés d'iode 127 (sous forme d'iodure de potassium) à prendre en cas d'accident nucléaire.
+
+1. Justifier cette mesure.
+
+L'iode 131 est aussi utilisé en médecine, par exemple pour l'examen par scintigraphie des glandes surrénales.
+
+1. Déterminer l'activité $A_{1}$ de m=1,0g d'iode 131.
+
+1. Sachant que pour cet examen il faut une solution d'iode 131 d'activité $A_{0} = 37 M B q$. Quelle est alors la masse m' d'iode 131 injectée au patient ?
+
+1. Tracer la courbe de décroissance de l'activité du produit injecté au cours du temps et déterminer graphiquement la date t où l'activité sera divisée par 10.
+
+Données :
+
+- Iode 131 : $\_{53}^{131}I ; M \left(\right. iode 131 \left.\right) = 131 g / mol$
+- Constante d'Avogadro : $N_{A} = 6 , 02 . 10^{23} m o l^{- 1}$
+
+### 8-3/ Exercice 3
+
+Lorsque, dans la haute atmosphère, un neutron appartenant au rayonnement cosmique rencontre un noyau d'azote $\_{7}^{14}N$, il donne naissance à du carbone 14, isotope de carbone $\_{6}^{12}C$.
+
+1. Écrire l'équation de la réaction en précisant la nature de la particule apparue avec le carbone 14.
+
+Le noyau de carbone 14 se désintègre en émettant un rayonnement $\beta^{-}$.
+
+1. Écrire le bilan de cette réaction nucléaire.
+
+Des végétaux absorbent le dioxyde de carbone de l'atmosphère provenant indifféremment du carbone 14 et de carbone 12.
+
+La proportion de ces deux isotopes est la même dans les végétaux vivants et dans l'atmosphère.
+
+Mais lorsque la plante meurt, elle cesse d'absorber le dioxyde de carbone ; le carbone 14 qu'elle contient se désintègre alors, sans être renouvelé, avec une demi-vie $t_{1 / 2} = 5570 a n s$.
+
+1. Quelle sera l'activité d'un échantillon de végétal au bout d'une durée $t = n . t_{1 / 2}$ après sa mort ?
+
+Donnée : $e^{n . l n 2} = 2^{n}$
+
+On a comparé l'activité $a_{1}$ d'un échantillon de bois trouvé dans une tombe égyptienne en 1998 avec l'activité $a_{2}$ d'un échantillon de référence dont l'activité était $a_{0}$ en 1985.
+
+Le rapport est $\frac{a_{2}}{a_{1}} = 1 , 85$
+
+1. Calculer l'ordre de grandeur de la date de la coupe du bois trouvé dans la tombe.
+
+### 8-4/ Exercice 4
+
+L'air contient l'isotope du radon 222 en quantité plus ou moins importante.
+
+Ce gaz radioactif naturel provient des roches qui contenaient de l'uranium et du radium.
+
+À un instant pris comme origine du temps (t=0), l'activité d'un échantillon de radon 222 est $A_{0}$.
+
+À une date ultérieure t, La mesure de l'activité A de cet échantillon à différents instants a permis de tracer la courbe de la figure ci-dessous représentant les variations de Ln(A) en fonction du temps t où Ln désigne le logarithme népérien et A est l'activité de l'échantillon à l'instant t, exprimée en Bq. cette activité devient A.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img10.bmp)
+
+1. Donner l'expression de la loi de décroissance radioactive en fonction de A.
+2. Déduire graphiquement la valeur de la période radioactive du radon 222.
+3. Déterminer l'activité initiale de l'échantillon radioactive à t=0.
+4. Calculer le nombre N de noyau de radon 222 désintégrés pendant 50 jours.

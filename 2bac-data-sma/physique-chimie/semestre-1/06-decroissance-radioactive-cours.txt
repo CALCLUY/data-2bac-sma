@@ -1,0 +1,333 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Décroissance radioactive
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 6 (Décroissance radioactive)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## Sommaire
+
+### I- Le noyau atomique
+#### 1-1/ Le noyau
+#### 1-2/ Représentation symbolique du noyau atomique
+#### 1-3/ Le nucléide
+#### 1-4/ Les isotopes
+#### 1-5/ Densité de la matière nucléaire
+### II- Noyau et radioactivité
+#### 2-1/ Diagramme de stabilité (N,Z) (Diagramme de Segré)
+#### 2-2/ Qu'est-ce que la radioactivité ?
+#### 2-3/ Propriétés de la radioactivité
+#### 2-4/ Loi de conservation de Soddy
+### III- Différents types de d'émissions radioactives
+#### 3-1/ Radioactivité $\alpha$
+#### 3-2/ Radioactivité $\beta^{-}$
+#### 3-3/ Radioactivité $\beta^{+}$
+#### 3-4/ Radioactivité $\gamma$
+### IV- Familles radioactives
+### V- Décroissance radioactive
+#### 5-1/ Constante de désintégration
+#### 5-2/ Loi de décroissance radioactive
+#### 5-3/ Constante du temps
+#### 5-4/ Temps de demi vie
+#### 5-5/ Activité d'un échantillon radioactif
+### VI- Application de la radioactivité à la datation
+#### 6-1/ Principe
+#### 6-2/ Datation au carbone 14
+### VII- Comment se protéger de chaque type de rayonnement ?
+### IIX- Exercices
+#### 8-1/ Exercice 1
+#### 8-2/ Exercice 2
+#### 8-3/ Exercice 3
+#### 8-4/ Exercice 4
+
+* * *
+
+## I- Le noyau atomique
+
+### 1-1/ Le noyau
+
+Le noyau atomique est composé de protons et de neutrons, ces constituants du noyau s'appellent les nucléons.
+
+Le proton a une charge positive appelée charge élémentaire $q_{p} = + e = + 1 , 6 . 10^{- 19} C$, sa masse est $m_{p} = 1 , 6726 . 10^{- 27} K g$
+
+Le neutron est électriquement neutre (il n'a pas de charge électrique) $q_{n} = 0 C$, sa masse est $m_{n} = 1 , 6750 . 10^{- 27} K g$
+
+### 1-2/ Représentation symbolique du noyau atomique
+
+Le noyau atomique d'un élément chimique est représenté par le symbole :
+
+$\_{Z}^{A}X$
+
+- X : symbole de l'élément chimique.
+- A : nombre de masse (nombre de nucléons).
+- Z : numéro atomique (nombre de protons).
+- N=A-Z : nombre de neutrons.
+
+### 1-3/ Le nucléide
+
+Dans la physique atomique, un nucléide est l'ensemble des noyaux ayant le même nombre de nucléons A et le même nombre de protons Z.
+
+### 1-4/ Les isotopes
+
+Les isotopes d'un élément chimique sont les nucléides d'un même élément chimique qui ont le même numéro atomique Z, mais ils diffèrent par leur nombre de masse A (ils n'ont pas le même nombre de neutrons).
+
+#### Exemples
+
+$\_{6}^{12}C$ et $\_{6}^{14}C$ sont deux isotopes de l'élément carbone
+
+$\_{92}^{235}U$ et $\_{92}^{238}U$ sont deux isotopes de l'élément uranium.
+
+### 1-5/ Densité de la matière nucléaire
+
+Le noyau atomique a une forme sphérique dont le rayon r varie avec la variation du nombre de masse A selon la relation suivante :
+
+$\overline{\left.\right)r = r_{0} A^{1 / 3} \left(\right. r = 1 , 2 . 10^{- 15} m \left.\right)}$
+
+La masse approchée d'un nucléon est : $m_{n} \approx 1 , 7 . 10^{- 27} K g$
+
+La valeur approchée de la masse volumique du noyau atomique : $\rho = \frac{M}{V} = \frac{m_{n} \times A}{\frac{4}{3} \pi . r^{3}} \approx 2 . 10^{17} K g / m^{3} = 2 . 10^{8} t o n n e s / c m^{3}$
+
+La masse de $1 c m^{3}$ de la matière nucléaire est 200 millions tonnes, par conséquence la matière nucléaire est extrêmement dense.
+
+## II- Noyau et radioactivité
+
+### 2-1/ Diagramme de stabilité (N,Z) (Diagramme de Segré)
+
+Certains noyaux conservent toujours la même structure, on dit que ses noyaux sont stables.
+
+Et il y a des noyaux qui se transforment spontanément à d'autres noyaux après l'émission de rayonnement, on dit que ses noyaux sont instables ou noyaux radioactifs.
+
+Le diagramme Segré montre l'emplacement des noyaux stables et des noyaux radioactifs, de sorte que chaque noyau est représenté par un petit carré d'abscisse Z (le nombre de protons) et d'ordonnée N (le nombre de neutrons).
+
+La zone centrale noire s'appelle la vallée de stabilité et comprend les noyaux stables.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img1.jpg)
+
+Différents isotopes du même élément chimique se trouvent sur la même droite parallèle à l'axe des ordonnées.
+
+- Pour les nucléides de Z < 20 : la vallée de stabilité se situe au voisinage du premier médiateur (Z=N), c-à-d que les nucléides légers stables possèdent autant de protons que de neutrons.
+- Pour les nucléides de Z > 20 : la vallée de stabilité se déplace au-dessus du premier médiateur quand la valeur de Z augmente C-à-d N > Z.
+
+Donc la stabilité du noyau n'est assurée que s'il contient plus de neutrons que de protons.
+
+### 2-2/ Qu'est-ce que la radioactivité ?
+
+En dehors de la vallée de stabilité, les noyaux instables sont dits radioactifs. Chaque noyau va se transformer en noyau stable en une ou plusieurs désintégration(s) spontanée(s).
+
+La radioactivité est une désintégration naturelle d'un noyau radioactif à un noyau fils plus stable avec émission d'une particule.
+
+Elle s'exprime par l'équation suivante :
+
+$\overline{\left.\right) \_{Z_{1}}^{A_{1}}X \rightarrow \_{Z_{2}}^{A_{2}}Y + \_{Z_{3}}^{A_{3}}P }$
+
+- X : Symbole du noyau père.
+- Y : Symbole du noyau fils.
+- P : Symbole de la particule émise.
+
+### 2-3/ Propriétés de la radioactivité
+
+La radioactivité est :
+
+- Aléatoire : on ne peut pas prédire l'instant exact où un noyau va se désintégrer.
+- Spontanée : la désintégration se fait sans intervention extérieure.
+- Inévitable : le noyau radioactif sera désintégrer tôt ou tard, rien ne peut l'empêcher.
+- Ne dépend pas des facteurs extérieurs comme la pression, la chaleur, …
+- Ne dépend pas de liaisons chimiques formées par l'atome qui contient le noyau radioactif.
+
+### 2-4/ Loi de conservation de Soddy
+
+Lors des transformations nucléaires, il y a conservation du nombre de charge Z et du nombre de nucléons A.
+
+#### Exemple
+
+$\overline{\left.\right) \_{92}^{238}U \rightarrow \_{90}^{234}Th + \_{2}^{4}He }$
+
+## III- Différents types de d'émissions radioactives
+
+### 3-1/ Radioactivité $\alpha$
+
+La radioactivité $\alpha$ correspond à l'émission de noyaux d'hélium $\_{2}^{4}H e$ (particules $\alpha$) par certains noyaux.
+
+La radioactivité $\alpha$ concerne les noyaux présentant un excès de nucléons et appelés «noyaux lourds» (A > 200).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img2.bmp)
+
+Équation générale : $\overline{\left.\right) \_{Z}^{A}X \rightarrow \_{Z - 2}^{A - 4}Y + \_{2}^{4}He }$
+
+Exemple : $\overline{\left.\right) \_{92}^{238}U \rightarrow \_{90}^{234}Th + \_{2}^{4}He }$
+
+### 3-2/ Radioactivité $\beta^{-}$
+
+La radioactivité $\beta^{-}$ correspond à l'émission d'électrons (appelés rayons, ou particules) par certains noyaux.
+
+Ce type de radioactivité concerne les noyaux présentant un excès de neutrons.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img3.bmp)
+
+Équation générale : $\overline{\left.\right) \_{Z}^{A}X \rightarrow \_{Z + 1}^{A}Y + \_{- 1}^{0}e }$
+
+Exemple : $\overline{\left.\right) \_{6}^{14}C \rightarrow \_{7}^{14}N + \_{- 1}^{0}e }$
+
+### 3-3/ Radioactivité $\beta^{+}$
+
+La radioactivité $\beta^{+}$ correspond à l'émission de positrons $\left(\right. \_{+ 1}^{0}e \left.\right)$ par certains noyaux.
+
+La radioactivité $\beta^{+}$ concerne les noyaux présentant un excès de protons
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img4.bmp)
+
+Équation générale : $\overline{\left.\right) \_{Z}^{A}X \rightarrow \_{Z - 1}^{A}Y + \_{+ 1}^{0}e }$
+
+Exemple : $\overline{\left.\right)\_{ 15}^{30}P \rightarrow \_{14}^{30}Si + \_{+ 1}^{0}e }$
+
+### 3-4/ Radioactivité $\gamma$
+
+Le rayonnement $\gamma$ est des ondes électromagnétiques de très grande énergie.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img11.bmp)
+
+Lors des désintégrations $\alpha$ et $\beta^{-}$ et $\beta^{+}$, le noyau fils est généralement produit dans un état excité (il possède un excédent d'énergie par rapport à son état fondamental).
+
+Ce noyau libère un rayonnement $\gamma$ selon l'équation suivante :
+
+$\overline{\left.\right)\_{Z}^{A}Y \star \rightarrow \_{Z}^{A}Y + \gamma}$
+
+- $\_{Z}^{A}Y \star$ : noyau fils dans l'état excité.
+- $\_{Z}^{A}Y$ : noyau fils dans l'état fondamental.
+
+Exemple :
+
+- $\overline{\left.\right)\_{7}^{16}\mathit{N} \rightarrow \_{8}^{16}\mathit{O} \star + \_{- 1}^{0}\mathit{e}}$ : radioactivité $\beta^{-}$.
+- $\overline{\left.\right)\_{8}^{16}O \star \rightarrow \_{8}^{16}O + \gamma}$ : émission de rayonnement $\gamma$.
+
+## IV- Familles radioactives
+
+La radioactivité entraîne la transformation d'un nucléide en un autre nucléide. Si ce dernier est lui-même radioactif, il se transforme à son tour, et ainsi de suite jusqu'à ce que le nucléide obtenu ne soit plus radioactif.
+
+L'ensemble des nucléides obtenus à partir d'un même noyau père est appelé famille radioactive.
+
+Il existe 4 familles radioactives provenant des noyaux suivants :
+
+$\overline{\left.\right) \_{90}^{232}T h ; \_{93}^{237}N p ; \_{92}^{235}U ; \_{92}^{238}U }$
+
+#### Exemple
+
+$\_{92}^{238}U$ radioactif se désintègre par une série d'émissions $\alpha$ et $\beta$ pour aboutir à l'isotope stable non radioactif $\_{82}^{206}P b$
+
+$\overline{\left.\right)\_{92}^{238}U \rightarrow \_{82}^{206}P b + x \alpha + \gamma \beta^{-}}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img5.png)
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img8.png)
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img7.png)
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img6.png)
+
+## V- Décroissance radioactive
+
+### 5-1/ Constante de désintégration
+
+Soit :
+
+$N_{0}$ : le nombre de noyaux présents à t = 0,
+$N \left(\right. t \left.\right)$ : le nombre de noyaux présents à la date t.
+
+Pendant une durée $d t$ très brève, un certain nombre de noyaux radioactifs se sont désintégrés (disparu).
+
+Soit $N \left(\right. t \left.\right) + d N \left(\right. t \left.\right)$ le nombre de noyaux radioactifs non désintégrés (Reste) à la date $t + d t$ (avec $d N \left(\right. t \left.\right) < 0$ car $N$ diminue).
+
+La variation du nombre moyen de noyaux désintégrés pendant la durée $d t$ est :
+
+$N_{t + d t} - N_{t} = \left(\right. N \left(t\right) + d N \left(t\right) \left.\right) - N \left(\right. t \left.\right) = d N \left(\right. t \left.\right)$
+
+Cette variation du nombre de noyaux désintégrés est négative et proportionnel au nombre de noyaux $N$ présents à l'instant $t$ et la durée $d t$.
+
+On traduit cela par la relation $d N \left(\right. t \left.\right) = - \lambda . N \left(\right. t \left.\right) . d t$
+
+$\lambda$ est la constante radioactive, elle dépend de la nature du noyau radioactif, c'est la proportion de noyaux qui se désintègre par unité de temps.
+
+### 5-2/ Loi de décroissance radioactive
+
+$d N \left(\right. t \left.\right) = - \lambda . N \left(\right. t \left.\right) . d t$
+
+$\Rightarrow \frac{d N \left(\right. t \left.\right)}{d t} + \lambda . N \left(\right. t \left.\right) = 0$
+
+La solution de l'équation différentielle est La loi de décroissance radioactive qui s'écrit :
+
+$\overline{\left.\right)N \left(\right. t \left.\right) = N_{0} . e^{- \lambda . t}}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : users/31067/j8-2.jpg)
+
+### 5-3/ Constante du temps
+
+La constante de temps $\tau = \frac{1}{\lambda}$ est un temps qui caractérise la substance radioactive :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : users/31067/j8-3.jpg)
+
+### 5-4/ Temps de demi vie
+
+La demi-vie d'un nucléide radioactif $t_{1 / 2}$ est la durée au bout de laquelle la moitié des nucléides radioactifs initialement présent dans l'échantillon se sont désintégrés :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : users/31067/j8-4.jpg)
+
+### 5-5/ Activité d'un échantillon radioactif
+
+L'activité a(t) d'une source contenant N noyaux radioactifs à la date t est égale au nombre de noyaux qui se désintègrent chaque seconde.
+
+$\overline{\left.\right)a \left(\right. t \left.\right) = - \frac{dN \left(\right. t \left.\right)}{dt}}$
+
+L'activité se mesure en becquerel $B q$, (un becquerel correspond à une désintégration par seconde).
+
+C'est une unité très petite, aussi utilise-t-on souvent des multiples : $1 M B q = 10^{6} B q$
+
+Autre unité : Curie : $1 C i = 3 , 7 . 10^{10} B q$
+
+L'appareil de mesure de l'activité est appelé : Appareil de Geiger.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : users/31067/j8-5.jpg)
+
+$\overline{\left.\right)a \left(\right. t \left.\right) = a_{0} . e^{- \lambda . t}}$
+
+## VI- Application de la radioactivité à la datation
+
+### 6-1/ Principe
+
+Pour les objets issus du monde vivant l'échange dynamique entre certains organismes vivants et leur milieu extérieur (ex: le carbone 14, le potassium 40 …) maintenant constant le nombre de noyaux radioactifs dans l'organisme.
+
+À leur mort, les échanges n'ont plus lieu et on observe une décroissance qui suit la loi exponentielle.
+
+#### Remarque
+
+Il faut tout d'abord estimer l'âge de l'échantillon à dater, pour choisir un élément radioactive dont la demi-vie est en rapport avec cet âge. Car au bout de $10 \times t_{1 / 2}$, on considère que les noyaux radioactifs sont tous désintégrés.
+
+### 6-2/ Datation au carbone 14
+
+Isotope radioactif du carbone, le «carbone 14» noté $\_{}^{14}C$ est formé continuellement dans la haute atmosphère par réaction nucléaire des neutrons cosmiques avec des noyaux d'azote.
+
+La proportion de carbone 14 par rapport au carbone 12 est identique dans les tissus vivants (échange de carbone par respiration, avec le milieu extérieur ...)
+
+- Pendant toute leur vie, la proportion de carbone 14 reste constante.
+- A leur mort, la quantité de carbone 14 décroît par radioactivité $\beta^{-}$.
+
+Il est alors possible de déterminer la date de la mort en mesurant la quantité de carbone 14 restant dans l'échantillon à étudier et en le comparant à la quantité de carbone 14 présent dans un échantillon de même nature, mais vivant.
+
+Donc l'âge :
+
+$\overline{\left.\right) t = \frac{1}{\lambda} . ln \left(\right. \frac{a_{mort}}{a_{vivant}} \left.\right) = \frac{t_{1/2}}{ln \left(\right. 2 \left.\right)} . ln \left(\right. \frac{a_{mort}}{a_{vivant}} \left.\right) }$
+
+## VII- Comment se protéger de chaque type de rayonnement ?
+
+Les rayons alpha, très peu pénétrants, sont arrêtés par une feuille de papier ou par les couches superficielles de la peau.
+
+Les rayons bêta, moyennement pénétrants, peuvent traverser les couches superficielles de la peau mais sont arrêtés par quelques millimètres de métal.
+
+Les rayons gamma sont très énergétiques et donc très pénétrants : pour arrêter certains d'entre eux, plusieurs dizaines de centimètres de plomb ou plusieurs mètres de béton sont nécessaires.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s8/img9.bmp)
