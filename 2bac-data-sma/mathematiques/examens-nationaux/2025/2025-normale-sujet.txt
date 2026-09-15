@@ -1,0 +1,181 @@
+---
+Type: Examen National
+Année: 2025
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+المركز الوطني للامتحانات المدرسية وتقييم التعلمات
+الامتحان الوطني الموحد للبكالوريا — الدورة العادية 2025 - الموضوع -
+شعبة العلوم الرياضية (أ) و (ب) (خيار فرنسية) — المادة : الرياضيات
+NS - 24F — المعامل : 9 — مدة الإنجاز : 4h
+
+CONSIGNES :
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte quatre exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- L'EXERCICE1 se rapporte à l'analyse ………..………..… (10 pts)
+- L'EXERCICE2 se rapporte aux nombres complexes......…. (3.5 pts)
+- L'EXERCICE3 se rapporte à l'arithmétique ………….......(3 pts)
+- L'EXERCICE4 se rapporte aux structures algébriques......(3.5 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 : (10 points)
+
+On considère la fonction numérique $f$ définie sur $\mathbb{R}$ par : $f(x) = \dfrac{e^{x}}{e^{2x} + e}$ [FORMULA_IMAGE_UNREADABLE]
+
+et soit $(\Gamma)$ sa courbe représentative dans un repère orthogonal $\left(O ; \overrightarrow{i} , \overrightarrow{j}\right)$
+
+### Partie I :
+
+0.25 — 1- a) Montrer que : $\left(\forall x \in \mathbb{R}\right)$ ; $f(x) = f(1 - x)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) Interpréter graphiquement le résultat obtenu.
+
+0.5 — c) Calculer $\lim\limits_{x \to +\infty} f(x)$ puis en déduire $\lim\limits_{x \to -\infty} f(x)$
+
+0.5 — d) Interpréter graphiquement les deux résultats obtenus.
+
+0.5 — 2- a) Montrer que : $\forall x \in \mathbb{R}$ ; $f'(x) = f(x)\dfrac{e - e^{2x}}{e^{2x} + e}$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — b) Donner les variations de $f$ puis en déduire que : $\forall x \in \mathbb{R}$ ; $0 < f(x) \leq \dfrac{1}{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 3- Représenter graphiquement la courbe $(\Gamma)$. (On prendra $\|\overrightarrow{i}\| = 1\,cm$, $\|\overrightarrow{j}\| = 2\,cm$ et $\dfrac{1}{2\sqrt{e}} \simeq 0.30$ et $\dfrac{1}{e + 1} \simeq 0.27$) [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 4- a) Montrer que : $\displaystyle\int_{\frac{1}{2}}^{1} f(x)\,dx = \displaystyle\int_{0}^{\frac{1}{2}} f(x)\,dx$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) En déduire que $\displaystyle\int_{0}^{1} f(x)\,dx = 2\displaystyle\int_{0}^{\frac{1}{2}} f(x)\,dx$
+
+0.25 — 5- a) En effectuant le changement de variables : $t = e^{x}$, montrer que : $\displaystyle\int_{0}^{\frac{1}{2}} f(x)\,dx = \displaystyle\int_{1}^{\sqrt{e}}\dfrac{dt}{t^{2} + e}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) Montrer que : $\displaystyle\int_{0}^{1} f(x)\,dx = \dfrac{1}{\sqrt{e}}\left(\dfrac{\pi}{4} - \arctan\left(\dfrac{1}{\sqrt{e}}\right)\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — c) En déduire l'aire, en $cm^{2}$, du domaine plan délimité par $(\Gamma)$, les droites d'équations respectives : $x = 0$, $x = 1$ et $y = 0$
+
+### Partie II :
+
+On considère la suite $\left(u_{n}\right)_{n \in \mathbb{N}}$ définie par : $u_{0} \in \left[0 ; \dfrac{1}{2}\right]$ et $\left(\forall n \in \mathbb{N}\right)$ ; $u_{n+1} = f\left(u_{n}\right)$
+
+0.5 — 1- En utilisant le résultat de la question I.2-a), montrer que : $\forall x \in \mathbb{R}$ ; $\left|f'(x)\right| \leq f(x)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 2- a) Montrer que : $\forall x \in \left[0 ; \dfrac{1}{2}\right]$ ; $0 < f(x) < \dfrac{1}{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) Montrer que la fonction $g : x \mapsto g(x) = f(x) - x$ est strictement décroissante sur $\mathbb{R}$
+
+0.5 — c) En déduire qu'il existe un unique réel $\alpha \in \left]0 ; \dfrac{1}{2}\right[$ tel que : $f(\alpha) = \alpha$
+
+0.5 — 3- a) Montrer que : $\left(\forall n \in \mathbb{N}\right)$ ; $0 \leq u_{n} \leq \dfrac{1}{2}$
+
+0.5 — b) Montrer que : $\left(\forall n \in \mathbb{N}\right)$ ; $\left|u_{n+1} - \alpha\right| \leq \dfrac{1}{2}\left|u_{n} - \alpha\right|$
+
+0.5 — c) Montrer par récurrence que : $\left(\forall n \in \mathbb{N}\right)$ ; $\left|u_{n} - \alpha\right| \leq \left(\dfrac{1}{2}\right)^{n}\left|u_{0} - \alpha\right|$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — d) En déduire que la suite $\left(u_{n}\right)_{n \in \mathbb{N}}$ converge vers $\alpha$
+
+### Partie III :
+
+On considère la suite numérique $\left(S_{n}\right)_{n \in \mathbb{N}^{*}}$ définie par :
+$\left(\forall n \in \mathbb{N}^{*}\right)$ ; $S_{n} = \displaystyle\sum_{k=1}^{k=n}\dfrac{k}{n}\dfrac{e^{\frac{k}{n}}}{e^{\frac{2k}{n}} + e}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — 1-a) Vérifier que : $\left(\forall n \in \mathbb{N}^{*}\right)$ ; $S_{n} = \dfrac{1}{n}\displaystyle\sum_{k=1}^{k=n}\dfrac{k}{n}f\left(\dfrac{k}{n}\right)$
+
+0.5 — b) Montrer que : $\displaystyle\int_{0}^{1} x f(x)\,dx = \dfrac{1}{2}\displaystyle\int_{0}^{1} f(x)\,dx$ [FORMULA_IMAGE_UNREADABLE]
+(On pourra effectuer le changement de variables : $t = 1 - x$)
+
+0.5 — 2- Montrer que la suite $\left(S_{n}\right)_{n \in \mathbb{N}^{*}}$ est convergente et déterminer sa limite.
+
+## EXERCICE 2 : (3.5 points)
+
+Soit $\theta \in \left]0 ; 2\pi\right[$
+
+On considère dans l'ensemble des nombres complexes $\mathbb{C}$ l'équation $(E)$ d'inconnue $z$ :
+$(E) : z^{2} - 2\left(1 + i\right)e^{i\theta}z + 2i\,e^{2i\theta} = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+### Partie I :
+
+0.25 — 1- a) Vérifier que le discriminant de l'équation $(E)$ est : $\left(e^{i\theta}\left(1 + 2i\right)\right)^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) En déduire les deux solutions $a$ et $b$ de l'équation $(E)$ avec $|a| \neq |b|$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — 2- Vérifier que $\dfrac{b}{a}$ est un imaginaire pur.
+
+### Partie II :
+
+Le plan complexe est rapporté à un repère orthonormé direct $\left(O ; \overrightarrow{u} , \overrightarrow{v}\right)$. On note par $M(z)$ le point d'affixe le nombre complexe $z$
+
+On pose $b = i\lambda a$ avec $\lambda = \mathrm{Im}\left(\dfrac{b}{a}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+1- On considère les points $A(a)$, $B(b)$ et $H(h)$ avec $\dfrac{1}{h} = \dfrac{1}{a} + \dfrac{1}{b}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — a) Montrer que : $\dfrac{h}{b} = \dfrac{i\lambda}{\lambda^{2} + 1}$ [FORMULA_IMAGE_UNREADABLE] puis en déduire que les droites $(OH)$ et $(AB)$ sont perpendiculaires.
+
+0.5 — b) Montrer que : $\dfrac{h - a}{b - a} = \dfrac{1}{\lambda^{2} + 1}$ [FORMULA_IMAGE_UNREADABLE] puis en déduire que les points $H$, $A$ et $B$ sont alignés.
+
+2- Soient $I(m)$ le milieu du segment $[OH]$ et $J(n)$ le milieu du segment $[HB]$
+
+0.5 — a) Montrer que : $n - m = i\lambda a$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) En déduire que les droites $(OJ)$ et $(AI)$ sont perpendiculaires et que $OJ = AI$
+
+0.25 — c) Soit $K$ le point d'intersection des droites $(OJ)$ et $(AI)$
+Montrer que les points $K$, $I$, $H$ et $J$ sont cocycliques.
+
+0.25 — d) Montrer que les droites $(IJ)$ et $(OA)$ sont perpendiculaires.
+
+## EXERCICE 3 : (3 points)
+
+Soient $p$ un nombre premier impair et $a$ un entier premier avec $p$
+
+0.5 — 1- Montrer que $a^{\frac{p-1}{2}} \equiv 1 \ [p]$ ou $a^{\frac{p-1}{2}} \equiv -1 \ [p]$
+
+2- On considère dans $\mathbb{Z}$ l'équation : $x^{2} \equiv a \ [p]$. Soit $x_{0}$ une solution de cette équation.
+
+0.5 — a) Montrer que : $x_{0}^{p-1} \equiv 1 \ [p]$
+
+0.25 — b) En déduire que : $a^{\frac{p-1}{2}} \equiv 1 \ [p]$
+
+3- Soit $n$ un entier naturel non nul.
+
+0.5 — a) Montrer que si $p$ divise $2^{2n+1} - 1$ [FORMULA_IMAGE_UNREADABLE] alors $2^{\frac{p-1}{2}} \equiv 1 \ [p]$
+
+0.5 — b) En déduire que l'équation $(E) : x^{2} - \left(2^{2n+1} - 1\right)y = 11$ [FORMULA_IMAGE_UNREADABLE] admet au moins une solution dans $\mathbb{Z}^{2}$
+
+4- On considère dans $\mathbb{Z}$ l'équation $(F) : x^{2} + 5x - 2 \equiv 0 \ [11]$
+
+0.25 — a) Montrer que : $(F) \Leftrightarrow \left(2x + 5\right)^{2} \equiv 2 \ [11]$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) En déduire que l'équation $(F)$ n'admet pas de solution dans $\mathbb{Z}$
+
+## EXERCICE 4 : (3.5 points)
+
+On rappelle que $\left(M_{3}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire et non commutatif de zéro la matrice $O = \begin{pmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{pmatrix}$ et d'unité la matrice $I = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$, et que $\left(M_{3}(\mathbb{R}) , + , .\right)$ est un espace vectoriel réel.
+
+Soient la matrice $A = \begin{pmatrix} 1 & -1 & 0 \\ -1 & 1 & 0 \\ -1 & 1 & 2 \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE] et l'ensemble $E = \left\{ M(x) = I + xA \ / \ x \in \mathbb{R} \right\}$
+
+0.25 — 1- a) Vérifier que : $A^{2} = 2A$
+
+0.25 — b) En déduire que : $\left(\forall (x , y) \in \mathbb{R}^{2}\right)$ ; $M(x) \times M(y) = M\left(x + y + 2xy\right)$
+
+0.25 — 2- a) Calculer $M\left(-\dfrac{1}{2}\right) \times \begin{pmatrix} 0 & 0 & 0 \\ 1 & 0 & 0 \\ 2 & 0 & 1 \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) En déduire que la matrice $M\left(-\dfrac{1}{2}\right)$ n'est pas inversible dans $\left(M_{3}(\mathbb{R}) , \times\right)$
+
+0.25 — 3- Montrer que : $E - \left\{M\left(-\dfrac{1}{2}\right)\right\}$ est stable pour la multiplication dans $M_{3}(\mathbb{R})$
+(on pourra utiliser l'identité : $x + y + 2xy + \dfrac{1}{2} = 2\left(x + \dfrac{1}{2}\right)\left(y + \dfrac{1}{2}\right)$ [FORMULA_IMAGE_UNREADABLE])
+
+1 — 4- Montrer que : $\left(E - \left\{M\left(-\dfrac{1}{2}\right)\right\} , \times\right)$ est un groupe commutatif.
+
+5- On munit $E$ de la loi de composition interne $T$ définie par :
+$\left(\forall (x , y) \in \mathbb{R}^{2}\right)$ ; $M(x)\,T\,M(y) = M\left(x + y + \dfrac{1}{2}\right)$ [FORMULA_IMAGE_UNREADABLE]
+et on considère l'application $\varphi$ définie de $\mathbb{R}$ vers $E$ par : $\forall x \in \mathbb{R}$ ; $\varphi(x) = M\left(x - \dfrac{1}{2}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — a) Montrer que $\varphi$ est un homomorphisme de $\left(\mathbb{R} , +\right)$ vers $(E , T)$ et que $\varphi(\mathbb{R}) = E$
+
+0.25 — b) En déduire que $(E , T)$ est un groupe commutatif.
+
+0.5 — 6- Montrer que $\left(E , T , \times\right)$ est un corps commutatif.
+
+FIN

@@ -1,0 +1,132 @@
+---
+Type: Examen National
+Année: 2024
+Session: Rattrapage
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — الدورة الاستدراكية 2024
+شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية) — المادة : الرياضيات
+عناصر الإجابة — RR 25 — المعامل : 9 — مدة الإنجاز : 4h
+
+## EXERCICE 1 — Réponses — Barème
+
+1- a) Continuité de $f_{n}$ à droite en $0$ — 0.25
+
+b) $\lim\limits_{x \to +\infty} f_{n}(x) = -\infty$ …………………………………………… — 0.25
+$\lim\limits_{x \to +\infty}\dfrac{f_{n}(x)}{x} = -\infty$ ………………..…………………………. — 0.25
+Interprétation graphique……………………………………. — 0.25
+
+c) Dérivabilité de $f_{n}$ à droite en $0$ …………………………… — 0.25
+$\left(f_{n}\right)_{d}'(0) = 1$ ………………………………………………. — 0.25
+
+d) Dérivabilité de $f_{n}$ sur $\left]0 , +\infty\right[$ ……………………………… — 0.25
+$\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f_{n}'(x) = 1 - x^{n-1} - nx^{n-1}\ln x$ ………………. — 0.25
+
+e) $f_{n}$ est strictement croissante sur $\left]0 ; 1\right[$ ……………………… — 0.25
+$f_{n}$ est strictement décroissante sur $\left]1 , +\infty\right[$ …………………. — 0.25
+
+2- a) Démonstration de : $\forall n \geq 2$, $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f_{n}(x) \geq f_{n+1}(x)$ — 0.5
+
+b) Déduction. — 0.25
+
+3- a) L'existence et l'unicité de $\alpha_{n}$ — 0.25×2
+
+b) Vérification. — 0.25
+
+c) Déduction. — 0.25
+
+d) La suite $\left(\alpha_{n}\right)_{n \geq 2}$ est strictement décroissante — 0.5
+
+e) Déduction de la convergence de la suite $\left(\alpha_{n}\right)_{n \geq 2}$ — 0.25
+
+4- a) Démonstration de l'encadrement : $1 \leq \ell \leq 2$ — 0.25
+
+b) Démonstration de : $\forall n \geq 2$, $\dfrac{\ln\left(\ln\left(\alpha_{n}\right)\right)}{\ln\left(\alpha_{n}\right)} = 1 - n$ — 0.5
+
+c) Calcul de $\lim\limits_{n \to +\infty}\dfrac{\ln\left(\ln\left(\alpha_{n}\right)\right)}{\ln\left(\alpha_{n}\right)}$ en fonction de $\ell$ — 0.25
+
+d) Déduction de la valeur de la limite $\ell$ — 0.5
+
+## EXERCICE 2 — Réponses — Barème
+
+1- a) Calcul de l'intégrale : $\displaystyle\int_{0}^{1}\dfrac{1}{1 + x^{2}}\,dx$ — 0.25
+
+b) Convergence et limite de la suite $\left(u_{n}\right)_{n \geq 1}$ — 0.25×2
+
+2- Démonstration de la majoration : $\displaystyle\int_{0}^{1}\dfrac{1}{\left(1 + x^{2}\right)^{2}}\,dx \leq \dfrac{\pi}{4}$ — 0.25
+
+3- a) Démonstration de la double inégalité. — 0.5
+
+b) Déduction de la double inégalité. — 0.25
+
+4- a) Démonstration de : $\forall n \in \mathbb{N}^{*}$, $0 \leq w_{n} - u_{n} \leq \dfrac{e}{2}\displaystyle\sum_{k=1}^{k=n}\left(\dfrac{n}{n^{2} + k^{2}}\right)^{2}$ — 0.25
+
+b) La fonction : $x \mapsto \dfrac{1}{\left(1 + x^{2}\right)^{2}}$ est strictement décroissante sur $\left[0 , 1\right]$ — 0.25
+
+c) Déduction. — 0.25
+
+5- a) Démonstration de : $\forall n \in \mathbb{N}^{*}$, $0 \leq w_{n} - u_{n} \leq \dfrac{e}{2n}$ — 0.5
+
+b) Convergence et limite de la suite $\left(w_{n}\right)_{n \geq 1}$ — 0.5
+
+## EXERCICE 3 — Réponses — Barème
+
+### Partie I
+
+1- a) Vérification. — 0.25
+
+b) Résolution de l'équation $(E)$ — 0.25×2
+
+2- La forme exponentielle de $\dfrac{z_{1}}{z_{2}}$ — 0.5
+
+### Partie II
+
+1- Calcul de $z_{3}$ en fonction de $m$ — 0.25
+Calcul de $z_{4}$ en fonction de $m$ et de $k$ — 0.5
+
+2- la forme algébrique de $\dfrac{z_{3} - z_{1}}{z_{4} - z_{1}} \div \dfrac{z_{4} - z_{2}}{z_{3} - z_{2}}$ — 0.75
+
+3- Déduction de l'équivalence. — 0.75
+
+## EXERCICE 4 — Réponses — Barème
+
+### Partie I
+
+1- a) Vérification. — 0.25
+
+b) La non-commutativité de la loi $*$ — 0.25
+
+2- Associativité de la loi $*$ dans $\mathbb{C}$ — 0.5
+
+3- a) Vérification. — 0.25
+
+b) Déduction. — 0.25
+
+4- a) Stabilité de $E$ dans $\left(\mathbb{C} , *\right)$ — 0.25
+
+b) $\left(E , *\right)$ est un groupe non commutatif. — 0.5
+
+### Partie II
+
+1- $F$ est un sous-groupe de $\left(E , *\right)$ — 0.5
+
+2- a) Démonstration de l'égalité $\varphi(\mathbb{R}) = G$ — 0.25
+
+b) $\varphi$ est un homomorphisme de $\left(\mathbb{R} , +\right)$ vers $\left(\mathbb{C} , *\right)$ — 0.25
+
+c) Déduction. — 0.25
+
+## EXERCICE 5 — Réponses — Barème
+
+1- Détermination de l'entier $u \in \left\{1 , 2 , ... , 22\right\}$ tel que : $10u \equiv 1 \ [23]$
+(la preuve de l'unicité de $u$ n'est pas demandée) — 0.5
+
+2- a) Démonstration de la congruence : $m \equiv 10\left(q + ur\right) \ [23]$ — 0.5
+
+b) Démonstration de l'équivalence. — 0.75
+
+3- a) Preuve de l'existence de l'entier $q$ vérifiant $x = 10q + 2$ et $23 \ / \ (q + 7)$, où $x$ est une solution du système $(S)$ — 0.75
+
+b) Résolution du système $(S)$ — 0.5

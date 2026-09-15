@@ -1,0 +1,412 @@
+---
+Type: Examen National
+Année: 2024
+Session: Normale
+Nature: Corrigé
+Source: 
+---
+
+Bac Maroc 2024 - corrigé
+
+# Exercice 1
+
+1. Avec la définition de $f$, on peut écrire :
+$\forall x \in \left]1 ; +\infty\right[, \ f(x) = \dfrac{\ln(x)}{x^{2} - 1} = \dfrac{\ln(x)}{(x + 1)(x - 1)} = \dfrac{1}{x + 1} \times \dfrac{\ln(x)}{x - 1}$
+
+Or $\lim\limits_{x \to 1} \dfrac{\ln(x)}{x - 1} = \ln'(1) = 1$
+
+Et ainsi, $\lim\limits_{x \to 1^{+}} f(x) = \dfrac{1}{2}$
+
+Comme on a posé $f(1) = \dfrac{1}{2}$, on conclut que $f$ est continue à droite en $1$.
+
+2. Par croissance comparée, on trouve que : $\lim\limits_{x \to +\infty} \dfrac{\ln(x)}{x^{2} - 1} = 0$. L'axe des abscisses est une asymptote à la courbe $(C)$.
+
+3.
+
+a. Soit $x \in \left]1 ; +\infty\right[$ et $t = (x - 1)^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+On a donc $1 - x = -(x - 1) = -\sqrt{t}$ car $1 - x < 0$
+
+Et $x = 1 + \sqrt{t}$ [FORMULA_IMAGE_UNREADABLE]
+
+En remplaçant, on obtient bien : $\dfrac{1 - x + \ln(x)}{(x - 1)^{2}} = \dfrac{-\sqrt{t} + \ln\left(1 + \sqrt{t}\right)}{t}$ [FORMULA_IMAGE_UNREADABLE]
+
+b. Posons $\forall t \in \left]0 ; +\infty\right[, \ g(t) = -\sqrt{t} + \ln\left(1 + \sqrt{t}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+La fonction $g$ est dérivable sur $\left]0 ; +\infty\right[$ et :
+$\forall t \in \left]0 ; +\infty\right[, \ g'(t) = -\dfrac{1}{2\sqrt{t}} + \dfrac{1}{2\sqrt{t}\left(1 + \sqrt{t}\right)} = \dfrac{-1 - \sqrt{t} + 1}{2\sqrt{t}\left(1 + \sqrt{t}\right)} = \dfrac{-1}{2\left(1 + \sqrt{t}\right)}$ [FORMULA_IMAGE_UNREADABLE]
+
+On note que $\forall t \in \left]0 ; +\infty\right[, \ g'(t) < 0$
+
+On a donc que $\forall t \in \left]0 ; +\infty\right[, \ g'(t) < \dfrac{1}{2}$
+
+D'après l'inégalité des accroissements finis : $\forall t \in \left[0 ; +\infty\right], \ g(t) - g(0) < \dfrac{1}{2}t$
+
+Or $g(0) = 0$.
+
+On a donc déjà $\forall t \in \left[0 ; +\infty\right], \ -\dfrac{1}{2}t < -t + \ln\left(1 + t\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+A l'inverse $\forall x \in \left]0 ; t\right], \ \dfrac{1}{2(1 + t)} < g'(x)$
+
+Et donc $\forall x \in \left[0 ; t\right], \ \dfrac{x}{2(1 + t)} < g(x)$
+
+En particulier pour $x = t$, $\dfrac{t}{2(1 + t)} < g(t)$
+
+Comme $\forall t \in \left]0 ; +\infty\right[, \ g(t) < 0$, on obtient bien : $-t + \ln(1 + t) < \dfrac{t}{2(1 + t)}$ [FORMULA_IMAGE_UNREADABLE]
+
+On arrive donc à l'encadrement $\forall t \in \left]0 ; +\infty\right[, \ -\dfrac{1}{2}t < -t + \ln(1 + t) < -\dfrac{t}{2(1 + t)}$
+
+Et finalement, $\forall t \in \left]0 ; +\infty\right[, \ -\dfrac{1}{2} < \dfrac{-t + \ln(1 + t)}{t} < -\dfrac{1}{2(1 + t)}$
+
+c. Comme $\lim\limits_{t \to 0^{+}} -\dfrac{1}{2(1 + t)} = -\dfrac{1}{2}$,
+
+On peut appliquer le théorème des gendarmes pour affirmer que : $\lim\limits_{t \to 0^{+}} \dfrac{-t + \ln(1 + t)}{t} = -\dfrac{1}{2}$
+
+En repartant de l'égalité du 3.a, On conclut que $\lim\limits_{x \to 1^{+}} \dfrac{1 - x + \ln(x)}{(x - 1)^{2}} = -\dfrac{1}{2}$
+
+4.
+
+a. Étudions l'expression proposée :
+
+$\forall x \in \left]1 ; +\infty\right[, \ \dfrac{f(x) - \frac{1}{2}}{x - 1} = \dfrac{\frac{\ln(x)}{x^{2} - 1} - \frac{1}{2}}{x - 1} = \dfrac{2\ln(x) - x^{2} + 1}{2\left(x^{2} - 1\right)(x - 1)}$
+
+$= \dfrac{-(x - 1)\ln(x) + (x + 1)\ln(x) - (x - 1)(x + 1)}{2\left(x^{2} - 1\right)(x - 1)} = -\dfrac{\ln(x)}{x - 1} \times \dfrac{1}{2(x + 1)} + \dfrac{\ln(x) - x + 1}{2(x - 1)^{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+Remarque : on « force » l'apparition des différents éléments, en particulier le découpage des $2\ln(x)$. En remettant les 2 membres de la somme de la réponse au même dénominateur on trouve rapidement le bon agencement.
+
+Et donc $\forall x \in \left]1 ; +\infty\right[, \ \dfrac{f(x) - \frac{1}{2}}{x - 1} = -\dfrac{\ln(x)}{x - 1} \times \dfrac{1}{2(x + 1)} + \dfrac{\ln(x) - x + 1}{2(x - 1)^{2}}$
+
+b. Quand $x \to 1$ :
+
+Comme $\ln(1) = 0$, $\dfrac{\ln(x)}{x - 1}$ est le taux d'accroissement de la fonction logarithme en $1$ et donc $\dfrac{\ln(x)}{x - 1} \to 1$
+
+Ainsi, $-\dfrac{\ln(x)}{x - 1} \times \dfrac{1}{2(x + 1)} \to -\dfrac{1}{4}$
+
+Et en reprenant le résultat de la question précédente, on trouve que $\lim\limits_{x \to 1^{+}} \dfrac{\ln(x) - x + 1}{2(x - 1)^{2}} = -\dfrac{1}{4}$
+
+Et donc $\lim\limits_{x \to 1^{+}} \dfrac{f(x) - \frac{1}{2}}{x - 1} = -\dfrac{1}{4} - \dfrac{1}{4} = -\dfrac{1}{2}$
+
+On reconnait l'expression du taux d'accroissement $\dfrac{f(x) - f(1)}{x - 1}$
+
+On conclut donc que $f$ est dérivable à droite en $1$ et $f'(1) = -\dfrac{1}{2}$.
+
+$f$ admet donc une tangente de pente $-\dfrac{1}{2}$ en $x = 1$.
+
+5.
+
+a. Notons déjà que $\forall t \in \left[1 ; +\infty\right[, \ \dfrac{t^{2} - 1}{t^{3}} \geqslant 0$ et $\dfrac{t^{2} - 1}{t^{2}} \geqslant 0$
+
+Ce qui implique que $\forall x \in \left[1 ; +\infty\right[, \ \displaystyle\int_{1}^{x} \dfrac{t^{2} - 1}{t^{3}}\,dt \geqslant 0$ et $\displaystyle\int_{1}^{x} \dfrac{t^{2} - 1}{t^{2}}\,dt \geqslant 0$
+
+On peut donc déjà affirmer que $\forall x \in \left[1 ; +\infty\right[, \ I(x) \geqslant 0$ et $J(x) \geqslant 0$
+
+De plus $\forall x \in \left[1 ; +\infty\right[, \ I(x) - J(x) = \displaystyle\int_{1}^{x} \dfrac{t^{2} - 1}{t^{3}}\,dt - \displaystyle\int_{1}^{x} \dfrac{t^{2} - 1}{t^{2}}\,dt = \displaystyle\int_{1}^{x} \left(\dfrac{t^{2} - 1}{t^{3}} - \dfrac{t^{2} - 1}{t^{2}}\right)dt$
+
+$= \displaystyle\int_{1}^{x} \dfrac{t^{2} - 1}{t^{2}}\left(\dfrac{1}{t} - 1\right)dt \leqslant 0$ (car $\dfrac{1}{t} - 1 \leqslant 0$).
+
+D'où $\forall x \in \left[1 ; +\infty\right[, \ I(x) \leqslant J(x)$
+
+Et finalement $\forall x \in \left[1 ; +\infty\right[, \ 0 \leqslant I(x) \leqslant J(x)$
+
+b. Calculons les 2 intégrales :
+
+$\forall x \in \left[1 ; +\infty\right[, \ I(x) = \displaystyle\int_{1}^{x} \dfrac{t^{2} - 1}{t^{3}}\,dt = \displaystyle\int_{1}^{x}\left(\dfrac{1}{t} - \dfrac{1}{t^{3}}\right)dt = \left[\ln(t) + \dfrac{1}{2t^{2}}\right]_{1}^{x} = \ln(x) + \dfrac{1}{2x^{2}} - \ln(1) - \dfrac{1}{2} = \ln(x) + \dfrac{1}{2x^{2}} - \dfrac{1}{2}$
+
+Ce qu'on peut bien écrire $\forall x \in \left[1 ; +\infty\right[, \ I(x) = \ln(x) - \dfrac{x^{2} - 1}{2x^{2}}$
+
+$\forall x \in \left[1 ; +\infty\right[, \ J(x) = \displaystyle\int_{1}^{x} \dfrac{t^{2} - 1}{t^{2}}\,dt = \displaystyle\int_{1}^{x}\left(1 - \dfrac{1}{t^{2}}\right)dt = \left[t + \dfrac{1}{t}\right]_{1}^{x} = x + \dfrac{1}{x} - 1 - 1 = \dfrac{x^{2} - 2x + 1}{x}$
+
+$\forall x \in \left[1 ; +\infty\right[, \ J(x) = \dfrac{(x - 1)^{2}}{x}$
+
+c. $f$ est bien dérivable sur $\left]1 ; +\infty\right[$ comme quotient de fonctions qui le sont et dont le dénominateur ne s'annule pas.
+
+Et $\forall x \in \left]1 ; +\infty\right[, \ f'(x) = \dfrac{\frac{1}{x}\left(x^{2} - 1\right) - 2x\ln(x)}{\left(x^{2} - 1\right)^{2}} = \dfrac{\left(x^{2} - 1\right) - 2x^{2}\ln(x)}{x\left(x^{2} - 1\right)^{2}}$
+
+D'un autre côté $\dfrac{-2}{(x + 1)^{2}} \times \dfrac{I(x)}{J(x)} = \dfrac{-2}{(x + 1)^{2}} \times \dfrac{\ln(x) - \frac{x^{2} - 1}{2x^{2}}}{\frac{(x - 1)^{2}}{x}} = \dfrac{-2}{(x + 1)^{2}} \times \dfrac{x\left(2x^{2}\ln(x) - x\left(x^{2} - 1\right)\right)}{2x^{2}(x + 1)^{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+$= \dfrac{-2}{(x + 1)^{2}} \times \dfrac{2x^{2}\ln(x) - \left(x^{2} - 1\right)}{2x(x - 1)^{2}} = \dfrac{\left(x^{2} - 1\right) - 2x^{2}\ln(x)}{x\left(x^{2} - 1\right)^{2}}$
+
+Et ainsi, $\forall x \in \left]1 ; +\infty\right[, \ f'(x) = \dfrac{-2}{(x + 1)^{2}} \times \dfrac{I(x)}{J(x)}$
+
+Remarque : on travaille avec $1$ exclu, donc il n'y a pas de problème de définition des quotients.
+
+d. On note déjà que dans l'expression $f'(x) = \dfrac{-2}{(x + 1)^{2}} \times \dfrac{I(x)}{J(x)}$ tous les facteurs sont strictement positifs pour $x > 1$ (je te laisse vérifier si besoin !). Donc le « $-$ » nous assure que $\forall x \in \left]1 ; +\infty\right[, \ f'(x) < 0$.
+
+De plus, d'après la question 5.a, $0 < \dfrac{I(x)}{J(x)} \leqslant 1$ et $(x + 1)^{2} \geqslant (1 + 1)^{2} = 4$
+
+Finalement, on peut encadrer $\forall x \in \left]1 ; +\infty\right[, \ -\dfrac{1}{2} \leqslant f'(x) \leqslant 0$
+
+6. En reprenant les éléments, on constate que le tableau de variations de $f$ est relativement simple, puisque la fonction est strictement décroissante entre $\dfrac{1}{2}$ et $0$
+
+D'où le tableau : [FORMULA_IMAGE_UNREADABLE]
+
+Et la courbe $(C)$ : [FORMULA_IMAGE_UNREADABLE]
+
+7. Considérons la fonction $h$ définie sur $\left]1 ; +\infty\right[$ par $\forall x \in \left]1 ; +\infty\right[, \ h(x) = f(x) - x + 1$
+
+Cette fonction est bien dérivable sur $\left]1 ; +\infty\right[$ et : $\forall x \in \left]1 ; +\infty\right[, \ h'(x) = f'(x) - 1 < 0$
+
+Donc $h$ est strictement décroissante sur $\left]1 ; +\infty\right[$
+
+De plus, $h(1) = f(1) - 1 + 1 = \dfrac{1}{2} > 0$
+
+Et $h(2) = f(2) - 2 + 1 = \dfrac{\ln(2)}{2^{2} - 1} - 1 = \dfrac{\ln(2)}{3} - 1 \approx 0{,}77 < 0$ [FORMULA_IMAGE_UNREADABLE]
+
+D'après le théorème des valeurs intermédiaires, $h(x) = 0$ admet une unique solution dans $\left]1 ; 2\right[$.
+
+Et par définition de $h$, on conclut que $f(x) = x - 1$ admet une unique solution dans $\left]1 ; 2\right[$.
+
+8.
+
+a. Remarquons déjà rapidement que la suite $\left(a_{n}\right)$ est bien définie, car $f$ est à valeurs strictement positives, donc $1 + f\left(a_{n}\right)$ est bien supérieur à $1$.
+
+Par définition de $a$ et de $\left(a_{n}\right)$, on peut écrire : $a_{n+1} - a = 1 + f\left(a_{n}\right) - f(a) - 1 = f\left(a_{n}\right) - f(a)$
+
+En 5.d, on a vu que $\forall x \in \left]1 ; +\infty\right[, \ \left|f'(x)\right| \leqslant \dfrac{1}{2}$. On peut à nouveau utiliser le théorème des accroissements finis pour affirmer que :
+$\forall x \in \left]1 ; +\infty\right[, \ \left|f\left(a_{n}\right) - f(a)\right| \leqslant \dfrac{1}{2}\left|a_{n} - a\right|$
+
+Ainsi on obtient bien $\forall n \in \mathbb{N}, \ \left|a_{n+1} - a\right| \leqslant \dfrac{1}{2}\left|a_{n} - a\right|$.
+
+b. La proposition à démontrer est $\forall n \in \mathbb{N}, \ \left|a_{n} - a\right| \leqslant \left(\dfrac{1}{2}\right)^{n}\left|a_{0} - a\right|$
+
+Initialisation :
+Au rang $n = 0$, nous avons trivialement $\left|a_{0} - a\right| \leqslant \left(\dfrac{1}{2}\right)^{0}\left|a_{0} - a\right| = \left|a_{0} - a\right|$
+
+Hérédité :
+Supposons la proposition vraie au rang $n$ et étudions le rang $n + 1$.
+
+D'après la question précédente, $\left|a_{n+1} - a\right| \leqslant \dfrac{1}{2}\left|a_{n} - a\right|$
+
+Et d'après l'hypothèse de récurrence, $\left|a_{n} - a\right| \leqslant \left(\dfrac{1}{2}\right)^{n}\left|a_{0} - a\right|$
+
+Ainsi, $\left|a_{n+1} - a\right| \leqslant \dfrac{1}{2}\left|a_{n} - a\right| \leqslant \dfrac{1}{2} \times \left(\dfrac{1}{2}\right)^{n}\left|a_{0} - a\right| = \left(\dfrac{1}{2}\right)^{n+1}\left|a_{0} - a\right|$
+
+Ce qui confirme bien l'hérédité de la proposition.
+
+On conclut donc que $\forall n \in \mathbb{N}, \ \left|a_{n} - a\right| \leqslant \left(\dfrac{1}{2}\right)^{n}\left|a_{0} - a\right|$
+
+c. Comme $\dfrac{1}{2} < 1$, on a $\lim\limits_{n \to +\infty}\left(\dfrac{1}{2}\right)^{n} = 0$
+
+Ainsi, $\lim\limits_{n \to +\infty}\left|a_{n} - a\right| = 0$
+
+Et donc $\left(a_{n}\right)$ converge vers $a$.
+
+# Exercice 2
+
+1.
+
+a. D'après le théorème fondamental de l'analyse, comme $f : t \mapsto e^{t^{2}}$ est continue sur $\left[0 ; 1\right]$, $F$ est une primitive de $f$.
+
+Donc $F$ est dérivable sur $\left[0 ; 1\right]$ et $\forall x \in \left[0 ; 1\right], \ F'(x) = e^{x^{2}} > 0$
+
+Donc $F$ est continue et strictement croissante sur $\left[0 ; 1\right]$.
+
+b. Comme $F$ est strictement croissante, elle représente bien une bijection.
+
+De plus $F(0) = \displaystyle\int_{0}^{0} e^{t^{2}}\,dt = 0$ et $F(1) = \displaystyle\int_{0}^{1} e^{t^{2}}\,dt = \beta$
+
+Et donc $F$ est une bijection entre $\left[0 ; 1\right]$ et $\left[0 ; \beta\right]$.
+
+2.
+
+a. On note $\forall n \in \mathbb{N}^{*}, \ S_{n} = \dfrac{1}{n}\displaystyle\sum_{k=1}^{n} F^{-1}\left(\dfrac{k}{n}\beta\right)$
+
+On reconnaît la formule de Riemann (au facteur $\beta$ près qui nous donne) :
+$\lim\limits_{n \to +\infty} \dfrac{\beta}{n}\displaystyle\sum_{k=1}^{n} F^{-1}\left(\dfrac{k}{n}\beta\right) = \displaystyle\int_{0}^{\beta} F^{-1}(t)\,dt$
+
+Et donc $\lim\limits_{n \to +\infty} \dfrac{1}{n}\displaystyle\sum_{k=1}^{n} F^{-1}\left(\dfrac{k}{n}\beta\right) = \dfrac{1}{\beta}\displaystyle\int_{0}^{\beta} F^{-1}(t)\,dt$
+
+Autrement dit, $\lim\limits_{n \to +\infty} S_{n} = \dfrac{1}{\beta}\displaystyle\int_{0}^{\beta} F^{-1}(t)\,dt$
+
+Donc $\left(S_{n}\right)$ converge vers $l = \dfrac{1}{\beta}\displaystyle\int_{0}^{\beta} F^{-1}(t)\,dt$
+
+b. Effectuons le changement de variable proposé $u = F^{-1}(t)$
+
+D'où $dt = F'(u)\,du = e^{u^{2}}du$
+
+Ainsi, $l = \dfrac{1}{\beta}\displaystyle\int_{0}^{\beta} F^{-1}(t)\,dt = \dfrac{1}{\beta}\displaystyle\int_{F^{-1}(0)}^{F^{-1}(\beta)} u\,e^{u^{2}}du$
+
+Et finalement $l = \dfrac{1}{\beta}\displaystyle\int_{0}^{1} u\,e^{u^{2}}du$
+
+c. $\dfrac{1}{\beta}\displaystyle\int_{0}^{1} u\,e^{u^{2}}du = \dfrac{1}{\beta}\left[\dfrac{1}{2}e^{u^{2}}\right]_{0}^{1} = \dfrac{e - 1}{2\beta}$
+
+Et donc $l = \dfrac{e - 1}{2\beta}$
+
+# Exercice 3
+
+## Partie I
+
+1.
+
+a. $\left(E_{\alpha}\right) : z^{2} - 2iz + \alpha = 0$
+
+La formule du discriminant est la même que pour des coefficients réels :
+$\Delta = (-2i)^{2} - 4\alpha = -4 - 4\alpha = -4(1 + \alpha)$
+
+Donc on a bien $\Delta = -4(1 + \alpha)$
+
+b. $\left(E_{\alpha}\right)$ admet 2 solutions distinctes ssi $\Delta \neq 0$, donc ssi $-4(1 + \alpha) \neq 0$
+
+Donc $\left(E_{\alpha}\right)$ admet 2 solutions distinctes ssi $\alpha \neq -1$
+
+2. Là encore, on utilise la même formule qu'habituellement « $P(x) = x^{2} - sx + p$ »
+
+On a donc $z_{1} + z_{2} = 2i$ et $z_{1}z_{2} = \alpha$.
+
+## Partie II
+
+1.
+
+a. On a $\alpha = m^{2} - 2m$ avec $m \in \mathbb{R}$
+
+On trouve donc $\Delta = -4(1 + \alpha) = -4\left(1 + m^{2} - 2m\right) = -4(m - 1)^{2} \in \mathbb{R}^{-}$
+
+On trouve donc $z_{1} = \dfrac{2i + 2|m - 1|i}{2} = \left(1 + |m - 1|\right)i$ et $z_{2} = \left(1 - |m - 1|\right)i$
+
+Donc $z_{1} = \left(1 + |m - 1|\right)i$ et $z_{2} = \left(1 - |m - 1|\right)i$
+
+b. $z_{1}$ et $z_{2}$ sont imaginaires purs.
+
+Donc $O$, $M_{1}$ et $M_{2}$ sont alignés.
+
+2. On ne peut pas avoir les 2 racines nulles, on supposera donc que $z_{2} \neq 0$
+
+a. Si $\dfrac{z_{1}}{z_{2}}$ est un imaginaire pur, il existe un complexe $a$ tel que $z_{1} = ia\,z_{2}$
+
+Ainsi $z_{1}\overline{z_{2}} = ia\,z_{2}\overline{z_{2}} = ia\left|z_{2}\right|^{2} \in i\mathbb{R}$. Ce qui signifie donc que $\mathrm{Re}\left(z_{1}\overline{z_{2}}\right) = 0$
+
+Réciproquement, on suppose que $\mathrm{Re}\left(z_{1}\overline{z_{2}}\right) = 0$.
+$\dfrac{z_{1}}{z_{2}} = \dfrac{z_{1}\overline{z_{2}}}{z_{2}\overline{z_{2}}} = \dfrac{z_{1}\overline{z_{2}}}{\left|z_{2}\right|^{2}} \in i\mathbb{R}$
+
+Donc $\dfrac{z_{1}}{z_{2}}$ est un imaginaire pur si et seulement si $\mathrm{Re}\left(z_{1}\overline{z_{2}}\right) = 0$.
+
+b. $\left|z_{1} - z_{2}\right|^{2} = \left(z_{1} - z_{2}\right)\overline{\left(z_{1} - z_{2}\right)} = \left(z_{1} - z_{2}\right)\left(\overline{z_{1}} - \overline{z_{2}}\right) = z_{1}\overline{z_{1}} + z_{2}\overline{z_{2}} - z_{1}\overline{z_{2}} - \overline{z_{1}}z_{2}$
+
+Or $\overline{z_{1}\overline{z_{2}}} = \overline{z_{1}}z_{2}$ donc $z_{1}\overline{z_{2}} + \overline{z_{1}}z_{2} = 2\,\mathrm{Re}\left(z_{1}\overline{z_{2}}\right)$ et finalement
+$\left|z_{1} - z_{2}\right|^{2} = \left|z_{1}\right|^{2} + \left|z_{2}\right|^{2} - 2\,\mathrm{Re}\left(z_{1}\overline{z_{2}}\right)$
+
+De la même façon, on trouve $\left|z_{1} + z_{2}\right|^{2} = \left|z_{1}\right|^{2} + \left|z_{2}\right|^{2} + 2\,\mathrm{Re}\left(z_{1}\overline{z_{2}}\right)$
+
+Et donc $\left|z_{1} - z_{2}\right|^{2} = \left|z_{1} + z_{2}\right|^{2} - 4\,\mathrm{Re}\left(z_{1}\overline{z_{2}}\right)$
+
+c. Comme vu à la question 2.a, $\dfrac{z_{1}}{z_{2}}$ est un imaginaire pur est équivalent à $\mathrm{Re}\left(z_{1}\overline{z_{2}}\right) = 0$
+
+Et avec la question précédente, $\dfrac{z_{1}}{z_{2}} \in i\mathbb{R} \Leftrightarrow \left|z_{1} - z_{2}\right|^{2} = \left|z_{1} + z_{2}\right|^{2}$
+
+Or, on a vu en question I.2 que $z_{1} + z_{2} = 2i$ et donc $\left|z_{1} - z_{2}\right|^{2} = \left|z_{1} + z_{2}\right|^{2} = 4$
+
+Et donc $\dfrac{z_{1}}{z_{2}} \in i\mathbb{R} \Leftrightarrow \left|z_{1} - z_{2}\right| = 2$
+
+3.
+
+a. On a vu dans la 1ère question que $\Delta = -4(1 + \alpha)$
+
+On sait par ailleurs que $z_{1} + z_{2} = 2i$
+
+Donc $\left(z_{1} + z_{2}\right)^{2} = z_{1}^{2} + z_{2}^{2} + 2z_{1}z_{2} = -4$
+
+Et comme $z_{1}z_{2} = \alpha$, on trouve $z_{1}^{2} + z_{2}^{2} = -4 - 2\alpha$
+
+Par ailleurs $\left(z_{1} - z_{2}\right)^{2} = z_{1}^{2} + z_{2}^{2} - 2z_{1}z_{2} = -4 - 2\alpha - 2\alpha = -4(1 + \alpha) = \Delta$
+
+Donc on confirme $\left(z_{1} - z_{2}\right)^{2} = \Delta$
+
+b. $OM_{1}M_{2}$ rectangle en $O$ se « traduit » par $\dfrac{z_{1}}{z_{2}}$ est imaginaire pur.
+
+Comme $\left(z_{1} - z_{2}\right)^{2} = \Delta$, $\left|z_{1} - z_{2}\right|^{2} = |\Delta| = 4$ donc
+
+Et $|\Delta| = 4 \Leftrightarrow |1 + \alpha| = 1$ [FORMULA_IMAGE_UNREADABLE]
+
+D'où finalement $|1 + \alpha| = 1$
+
+Donc $\Gamma$ correspond au cercle de centre $(-1 ; 0)$ et de rayon $1$.
+
+# Exercice 4
+
+1.
+
+a. $(i ; 2)\,T\,(1 ; i) = \left(i \times \overline{i} + 1 ; 2i\right) = (2 ; 2i)$ [FORMULA_IMAGE_UNREADABLE]
+
+Donc $(i ; 2)\,T\,(1 ; i) = (2 ; 2i)$
+
+On trouve par ailleurs $(1 ; i)\,T\,(i ; 2) = (2 + i ; 2i)$
+
+b. La question précédente nous indique que $(1 ; i)\,T\,(i ; 2) \neq (i ; 2)\,T\,(1 ; i)$
+
+Et donc la loi $T$ n'est pas commutative dans $\mathbb{C} \times \mathbb{C}^{*}$.
+
+2. Considérons $a$, $c$, $e$ dans $\mathbb{C}$ et $b$, $d$, $f$ dans $\mathbb{C}^{*}$.
+
+On a d'une part $\left[(a ; b)\,T\,(c ; d)\right]T\,(e ; f) = \left(a\overline{d} + c ; bd\right)T\,(e ; f) = \left(\left(a\overline{d} + c\right)\overline{f} + e ; bdf\right)$
+$= \left(a\overline{d}\,\overline{f} + c\overline{f} + e ; bdf\right)$
+
+Et d'autre part $(a ; b)\,T\left[(c ; d)\,T\,(e ; f)\right] = (a ; b)\,T\left(c\overline{f} + e ; df\right) = \left(a\overline{d}\,\overline{f} + c\overline{f} + e ; bdf\right)$
+
+Donc $\left[(a ; b)\,T\,(c ; d)\right]T\,(e ; f) = (a ; b)\,T\left[(c ; d)\,T\,(e ; f)\right]$
+
+Et donc la loi $T$ est associative dans $\mathbb{C} \times \mathbb{C}^{*}$.
+
+3. Prenons $a$ et $b$ dans $\mathbb{C}$
+
+$(a ; b)\,T\,(0 ; 1) = \left(a \times 1 + 0 ; b\right) = (a ; b)$
+
+Et $(0 ; 1)\,T\,(a ; b) = \left(0 \times \overline{b} + a ; 1 \times b\right) = (a ; b)$
+
+Et donc $(0 ; 1)\,T\,(a ; b) = (a ; b)\,T\,(0 ; 1) = (a ; b)$
+
+Donc $(0 ; 1)$ est l'élément neutre de $T$.
+
+4.
+
+a. Soit $(a ; b) \in \mathbb{C} \times \mathbb{C}^{*}$, $(a ; b)\,T\left(-\dfrac{a}{b} ; \dfrac{1}{b}\right) = \left(\dfrac{a}{b} - \dfrac{a}{b} ; b \times \dfrac{1}{b}\right) = (0 ; 1)$ [FORMULA_IMAGE_UNREADABLE]
+
+b. D'après les questions précédentes, $T$ est une loi interne de $\mathbb{C} \times \mathbb{C}^{*}$, associative et pour laquelle tous les éléments de $\mathbb{C} \times \mathbb{C}^{*}$ ont un opposé. $T$ n'est par contre pas commutative.
+
+Donc $\left(\mathbb{C} \times \mathbb{C}^{*} , T\right)$ est un groupe non commutatif.
+
+5.
+
+a. pour un réel $d$, on a $\overline{d} = d \in \mathbb{R}$, et donc :
+$\forall\left((a ; b) ; (c ; d)\right) \in \left(\mathbb{R} \times \mathbb{R}^{*}\right)^{2}, \ (a ; b)\,T\,(c ; d) = \left(a\overline{d} + c ; bd\right) = \left(ad + c ; bd\right) \in \mathbb{R} \times \mathbb{R}^{*}$
+
+Ainsi $\mathbb{R} \times \mathbb{R}^{*}$ est stable par $T$.
+
+b. L'élément neutre de $T$ est bien dans $\mathbb{R} \times \mathbb{R}^{*}$ et l'associativité reste vraie.
+
+L'opposé est également dans $\mathbb{R} \times \mathbb{R}^{*}$ (là encore car le conjugué d'un réel est un réel).
+
+On peut donc conclure que $\mathbb{R} \times \mathbb{R}^{*}$ est un sous-groupe de $\left(\mathbb{C} \times \mathbb{C}^{*} , T\right)$.
+
+# Exercice 5
+
+1.
+
+a. Comme $p$ et $q$ sont premiers et que $r$ est premier avec eux, on peut appliquer le petit théorème de Fermat.
+
+On a donc : $r^{p-1} \equiv 1 \ [p]$, ce qui est équivalent à $r^{p-1} - 1$ est un multiple de $p$
+
+Et $r^{q-1} \equiv 1 \ [q]$, ce qui est équivalent à $r^{q-1} - 1$ est un multiple de $q$
+
+Donc $p$ divise $r^{p-1} - 1$ et $q$ divise $r^{q-1} - 1$.
+
+b. Comme $r^{p-1} \equiv 1 \ [p]$, on déduit que $\left(r^{p-1}\right)^{q-1} = r^{(p-1)(q-1)} \equiv 1 \ [p]$
+
+De la même façon $r^{(p-1)(q-1)} \equiv 1 \ [q]$
+
+Ainsi, $p$ et $q$ divisent $r^{(p-1)(q-1)} - 1$.
+
+c. D'après la question précédente, $p$ et $q$ divisent $r^{(p-1)(q-1)} - 1$.
+
+Et comme $p$ et $q$ sont premiers (et donc premiers entre eux) leur produit divise $r^{(p-1)(q-1)} - 1$.
+
+Donc $pq$ divise $r^{(p-1)(q-1)} - 1$.
+
+2. Posons $p = 13$, $q = 17$ (qui sont bien premiers) et $r = 2024$, qui est bien premier avec $13$ et $17$.
+
+On a de plus $13 \times 17 = 221$ et $(13 - 1) \times (17 - 1) = 12 \times 16 = 192$
+
+Et donc $221$ qui divise $2024^{192} - 1$ ou encore $2024^{192} \equiv 1 \ [221]$.
+
+Ce qui implique que si $2024^{192}x \equiv 3 \ [221]$ alors $x \equiv 3 \ [221]$
+
+Les solutions de l'équation sont $x = 3 + 221k, \ k \in \mathbb{Z}$.
