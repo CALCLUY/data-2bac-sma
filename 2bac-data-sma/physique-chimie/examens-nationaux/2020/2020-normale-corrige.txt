@@ -1,0 +1,424 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2020 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+Correction de l'examen national du Baccalauréat — Physique-Chimie — Sciences Mathématiques (A) et (B) — Session normale 2020
+
+## Exercice 1 : Chimie (6,5 points)
+
+### Première partie : dosage de l'acide lactique dans un lait
+
+1- Préparation de la solution aqueuse d'hydroxyde de sodium
+
+1-1- Etablissement de l'expression de pH :
+
+D'après le produit ionique de l'eau : Ke = [H3O+]éq.[HO-]éq ⟹ [H3O+]éq = Ke/[HO-]éq
+
+On a : pH = −log[H3O+]éq ⟹ pH = −log(Ke/[HO-]éq)
+
+L'hydroxyde de sodium se dissocie totalement dans l'eau : [HO-]éq = CB
+
+pH = −log(Ke/CB) ⟹ pH = log(CB/Ke) ⟹ pH = logCB − logKe … (1)
+
+1-2- Vérification de la valeur de CB :
+
+D'après la relation (1) : CB/Ke = 10pH ⟹ CB = Ke.10pH
+
+A.N : CB = 10-14 × 1012,70 ⟹ CB = 5,0.10-2 mol.L-1
+
+2- Contrôle de la qualité d'un lait de vache
+
+2-1- L'équation de la réaction du dosage :
+
+HA(aq) + HO-(aq) ⟶ A-(aq) + H2O(l)
+
+2-2- Etablissement de la relation de CA :
+
+A l'équivalence les deux réactifs HA et HO- sont limitants :
+
+CA.VA − xE = 0 et CB.VBE − xE = 0 ⟹ CA.VA = CB.VBE ⟹ CA = CB.VBE/VA
+
+2-3- Etablissement de la relation :
+
+La constante d'acidité : KA = [A-]éq.[H3O+]éq/[HA]éq = 10-pH.[A-]éq/[HA]éq
+
+Avant l'équivalence 0 < VB < VBE le réactif limitant est HO- donc : xmax = CB.VB
+
+[A-]éq = xmax/(VA + VB) = CB.VB/(VA + VB) ; [HA]éq = (CA.VA − xmax)/(VA + VB) = (CB.VBE − CB.VB)/(VA + VB)
+
+KA = 10-pH.VB/(VBE − VB) ⟹ VB.10-pH = KA.(VBE − VB)
+
+2-4-1- Détermination du volume VBE et déduction de CA :
+
+La courbe VB.10-pH = f(VB) est une fonction affine, son équation s'écrit : VB.10-pH = a.VB + b … (2)
+
+a est le coefficient directeur : a = (10-3 − 0)/(4,4.10-3 − 12,4.10-3) = −0,125
+
+b l'ordonnée à l'origine : 0 = a×12,4.10-3 + b ⟹ b = 0,125 × 12,4.10-3 = 1,55.10-3 … [valeur imprimée : 1,55.10-5]
+
+D'après la relation : VB.10-pH = KA.VBE − KA.VB … (3)
+
+En comparant : a = −KA et b = KA.VBE ⟹ b/a = −VBE ⟹ VBE = −b/a
+
+VBE = 1,55.10-5/0,125 = 12,4.10-3 L ⟹ VBE = 12,4 mL
+
+Déduction de CA :
+
+CA = CB.VBE/VA ⟹ CA = 5.10-2 × 12,4/25 ⟹ CA = 2,48.10-2 mol.L-1
+
+2-4-2- Détermination de pKA :
+
+On a : a = −KA ⟹ KA = −a
+
+pKA = −logKA = −log(−a) = −log(1,55.10-5) ⟹ pKA = 3,90
+
+2-5- Le lait étudié est-il frais ?
+
+CA.V = m/M ⟹ m = CA.M.V
+
+m = 2,48.10-2 × 90 × 1 = 2,23 g
+
+On a : 1,0.10-1 g → 1 °D ; 2,23 g → x °D ⟹ x = 22,32 °D
+
+On remarque 22,32 °D > 18 °D, donc le lait étudié n'est pas frais.
+
+### Deuxième partie : Pile chrome-argent
+
+1- L'équation bilan lors du fonctionnement de la pile :
+
+Au niveau de l'anode se produit l'oxydation du chrome : Cr(s) ⇄ Cr3+(aq) + 3e-
+
+Au niveau de la cathode se produit la réduction des ions Ag+ : 3 × (Ag+(aq) + e- ⇄ Ag(s))
+
+L'équation bilan : 3Ag+(aq) + Cr(s) ⟶ Cr3+(aq) + 3Ag(s)
+
+2- L'avancement à t1 :
+
+La variation de la masse de l'électrode de chrome est Δm(Cr) :
+
+Δn(Cr) = −x et Δn(Cr) = Δm(Cr)/M(Cr) ⟹ x = |Δm(Cr)|/M(Cr) = 52.10-3/52 = 10-3 mol
+
+3- La concentration des ions Cr3+ à t1 :
+
+[Cr3+] = n(Cr3+)/V = (C1.V + x)/V = C1 + x/V = 0,1 + 10-3/0,1 = 0,11 mol.L-1
+
+4- La valeur de t1 :
+
+Q = n(e-).F et Q = I0.t1 ⟹ t1 = n(e-).F/I0 = 3x.F/I0
+
+t1 = 3 × 10-3 × 96500/50.10-3 = 5,79.103 s ⟹ t1 = 1 h 36 min 30 s
+
+## Exercice 2 : Ondes (2,5 points) - Transformations nucléaires (2,25 points)
+
+### I – Diffraction de la lumière
+
+1- Le nombre d'affirmations fausses : 4 affirmations fausses.
+
+2-1- L'expression de θ :
+
+D'après la figure : tan θ = X/(2D)
+
+L'écart angulaire est très petit, on écrit : tan θ ≈ θ. Donc : θ = X/(2D) … (1)
+
+2-2- Montrons que le rapport λ/X est constant :
+
+L'expression de l'écart angulaire θ : θ = λ/a … (2)
+
+D'après (1) et (2) : λ/a = X/(2D) on écrit : λ/X = a/(2D)
+
+a = cte et D = cte ⟹ λ/X = cte
+
+Déduction de λ2 :
+
+λ2/λ1 = X2/X1 ⟹ λ2 = (X2/X1).λ1
+
+λ2 = (5,4/6,0) × 632,8 nm ⟹ λ2 = 569,5 nm
+
+3- Interprétation de l'aspect observé : Puisque la lumière blanche est polychromatique et θ = λ/a, les différentes longueurs d'onde qui constituent la lumière blanche vont être diffractées à des angles différents : sur l'écran on observe une tache blanche au milieu car toutes les longueurs d'onde qui constituent la lumière blanche se retrouvent dans la tache centrale.
+
+4- Calcul de λR et vR :
+
+On a : n = λ1/λR ⟹ λR = λ1/n ; A.N : λR = 632,8/1,5 ⟹ λR = 421,86 nm
+
+On a : n = c/v ⟹ v = c/n ; A.N : v = 3.108/1,5 ⟹ v = 2.108 m.s-1
+
+### II – Désintégration de l'oxygène 15
+
+1- L'équation de désintégration de 15/8 O :
+
+15/8 O ⟶ A/Z X + 0/1 e
+
+D'après les lois de Soddy : 15 = A + 0 et 8 = Z + 1 ⟹ A = 15 et Z = 7
+
+15/8 O ⟶ 15/7 X + 0/1 e
+
+2- Détermination de |ΔE| :
+
+ΔE = Δm.c2 ⟹ ΔE = [m(A/Z X) + m(0/1 e) − m(15/8 O)].c2
+
+ΔE = (15,000109 + 5,486.10-4 − 15,003066) u.c2 = −2,4084.10-3 × 931,5 MeV
+
+|ΔE| = 2,2434 MeV
+
+3- La proportion de molécules d'eau marquées dans l'injection :
+
+p = N0/N
+
+N0 : le nombre de molécules d'eau qui contiennent 15/8 O ; N : le nombre total des molécules d'eau.
+
+N/NA = m/M(H2O) ⟹ N = (m/M(H2O)).NA ; ρ = m/V ⟹ m = ρ.V ⟹ N = (ρ.V/M(H2O)).NA
+
+On a : a0 = λ.N0 avec λ = ln2/t1/2 ⟹ N0 = a0/λ = a0.t1/2/ln2
+
+p = (a0.t1/2.M(H2O))/(ln2.ρ.V.NA)
+
+p = 3,7.107 × 122 × 18/(ln2 × 6,022.1023 × 1 × 5) = 3,89.10-14 ⟹ p = 3,89.10-12 % [valeur imprimée : 3,89.10-16 %]
+
+4- Justification par calcul :
+
+D'après la loi de désintégration radioactive : a(t1) = a0.e−λ.t1 ⟹ t1 = −(t1/2/ln2).ln(a(t1)/a0)
+
+t1 = −(122/ln2).ln(0,15/100) = 1144,46 s ⟹ t1 ≈ 19 min
+
+Donc à l'instant t = 20 min, on peut faire une nouvelle injection.
+
+## Exercice 3 : Electricité (5,5 points)
+
+1- Charge du condensateur
+
+1-1- L'équation différentielle vérifiée par q(t) :
+
+D'après la loi d'additivité des tensions et la loi d'Ohm : uR + uC = E
+
+R0.C.i(t) + C.uC = C.E ⟹ R0.dq(t)/dt + q(t)/C ... soit :
+
+dq(t)/dt + q(t)/(R0.C) = E/R0
+
+1-2- En se basant sur le graphe de la figure 2 :
+
+L'équation de la courbe : i(t) = a.q + b … (1)
+
+D'après l'équation différentielle l'expression de i s'écrit : i = −q/(R0.C) + E/R0 … (2)
+
+En comparant (1) et (2), le coefficient directeur : a = −1/(R0.C) = −1/τ et b l'ordonnée à l'origine : b = E/R0
+
+1-2-1- La valeur de E :
+
+b = E/R0 ⟹ E = b.R0 ; graphiquement on trouve b = 0,25 A
+
+E = 0,25 × 40 = 10 V
+
+1-2-2- La valeur de τ :
+
+a = −1/τ ⟹ τ = −1/a
+
+a = Δi/Δq = (0,25 − 0,05)/(0 − 20.10-6) = −104 s-1 … ⟹ τ = 10-4 s
+
+1-3- Vérification de la valeur de C :
+
+τ = R0.C ⟹ C = τ/R0 = 10-4/40 = 2,5.10-6 F ⟹ C = 2,5 μF
+
+2- Décharge du condensateur dans la bobine
+
+2-1-1- L'équation différentielle vérifiée par q(t) :
+
+D'après la loi d'additivité des tensions : uC + uR + uL = 0
+
+q(t)/C + (R1 + r).dq(t)/dt + L.d2q(t)/dt2 = 0
+
+d2q(t)/dt2 + ((R1 + r)/L).dq(t)/dt + q(t)/(L.C) = 0
+
+On pose A = (R1 + r)/L et B = 1/(L.C) : d2q(t)/dt2 + A.dq(t)/dt + B.q(t) = 0
+
+2-1-2- La valeur de uL la tension aux bornes de la bobine :
+
+A t = 0 l'instant où K est en position (2) : uC(0) + uR(0) + uL(0) = 0
+
+uC(0) = E et uR(0) = R1.i(0) = 0
+
+uL(0) = −uC(0) = −E ⟹ uL(0) = −10 V
+
+2-1-3- Vérifions que L = 1,0 H :
+
+On a : T0 = 2π√(L.C) ⟹ L = T02/(4π2.C)
+
+Graphiquement : T = 10 ms, sachant que T = T0 :
+
+L = (10.10-3)2/(4 × 10 × 2,5.10-6) ⟹ L = 1,0 H
+
+2-1-4- L'énergie dissipée par effet Joule :
+
+On a : ΔET = ET(t1) − ET(t = 0)
+
+A l'instant t1 : ET(t1) = Em(t1) + Ee(t1) = (1/2).L.i12 + (1/2C).q12
+
+Graphiquement : q1 = q1min = −1,5 × 10 = −15 μC ⟹ Ee(t1) maximale et i1 = 0 ⟹ Em(t1) = 0
+
+ET1 = (1/2C).q12
+
+A l'instant t = 0 : q0 = q0max = 2,5 × 10 = 25 μC et i0 = 0 ⟹ ET0 = (1/2C).q02
+
+ΔE = (1/2C).(q12 − q02)
+
+ΔE = (1/(2 × 2,5.10-6))×[(−15.10-6)2 − (25.10-6)2] = −8.10-5 J = −80 μJ
+
+2-2- La valeur minimale de R :
+
+On a : A > 2√B ⟹ (R + r)/L > 2√(1/(L.C)) ⟹ RT > 2√(L/C) ⟹ RT > RC
+
+On a : RC = 2√(L/C)
+
+[RC] = ([L]/[C])1/2 avec [L] = [U].[t]/[I] et [C] = [I].[t]/[U]
+
+[RC] = ([U]2/[I]2)1/2 = [U]/[I] ⟹ [RC] = [R]
+
+RC a les dimensions d'une résistance.
+
+- La valeur minimale de R :
+
+RT > RC ⟹ R + r > RC ⟹ R > 2√(L/C) − r ⟹ Rmin = 2√(L/C) − r
+
+Rmin = 2√(1/2,5.10-6) − 12 = 1252,91 Ω ⟹ Rmin ≈ 1253 Ω
+
+3- Les oscillations électriques forcées dans un circuit RLC série
+
+3-1- L'intensité du courant indiquée par l'ampèremètre :
+
+On a : Z = U/Ieff ⟹ Ieff = U/Z et U = Um/√2 ⟹ Ieff = Um/(Z√2)
+
+Graphiquement : Um = 3 V
+
+A.N : Ieff = 3/(390,4 × √2) = 5,43.10-3 A ⟹ Ieff = 5,43 mA
+
+3-2- Calcul de la valeur de R2 :
+
+URm = R2.Im ⟹ R2 = URm/Im = URm/(Ieff.√2)
+
+R2 = 2/(5,43.10-3 × √2) = 260,44 Ω ⟹ R2 ≈ 260 Ω
+
+3-3- L'expression numérique de la tension u(t) :
+
+Graphiquement : T = 4 × 2 ms = 8 ms ⟹ N = 1/T = 1/8.10-3 = 125 Hz ; Um = 3 V
+
+|φ| = (2π/T).τ = (2π/8) × 1 = π/4
+
+La tension u(t) est en avance de phase par rapport à l'intensité du courant i(t) : φ > 0 ⟹ φ = π/4
+
+u(t) = Um.cos(2πN.t + φ) ⟹ u(t) = 3.cos(250π.t + π/4)
+
+## Exercice 4 : Mécanique (3,25 points)
+
+### Partie I : Etude du mouvement d'un skieur
+
+1- Premier cas : Mouvement du skieur sans frottement fluide
+
+1-1- L'expression de aG :
+
+- Système étudié : {Système (S)}
+- Bilan des forces :
+  - P⃗ : son poids
+  - R⃗ : action de la piste telle que R⃗ = N⃗ + T⃗
+  - N⃗ : la composante normale du plan incliné
+  - T⃗ : la composante tangentielle du plan incliné
+- Application de la deuxième loi de Newton, dans le repère (O, i⃗, j⃗) lié à un référentiel terrestre supposé galiléen :
+
+ΣF⃗ext = m.a⃗G ⟹ P⃗ + N⃗ + T⃗ = m.a⃗G
+
+- Projection sur Ox : P.sinα − T = m.aG ⟹ m.g.sinα − T = m.aG ⟹ aG = g.sinα − T/m
+- Projection sur Oy : −P.cosα + N = 0 ⟹ N = m.g.cosα
+
+On a : k = T/N ⟹ T = k.N
+
+aG = g.sinα − k.m.g.cosα/m ⟹ aG = g.(sinα − k.cosα)
+
+1-2- La détermination graphique de aG :
+
+La courbe v = f(t) est une fonction linéaire, son équation s'écrit : v = aG.t avec aG le coefficient directeur :
+
+aG = Δv/Δt = (1,4 − 0)/(2 − 0) ⟹ aG = 0,7 m.s-2
+
+1-3- Vérification de la valeur de k :
+
+aG = g.(sinα − k.cosα) ⟹ k = (1/cosα).(sinα − aG/g)
+
+A.N : k = (1/cos45°).(sin45° − 0,7/10) ⟹ k = 0,9
+
+2- Deuxième cas : Mouvement du skieur avec frottement fluide
+
+2-1- L'équation différentielle :
+
+- Système étudié : {Système (S)}
+- Bilan des forces : P⃗ ; R⃗ = N⃗ + T⃗ ; F⃗ : force de frottement fluide telle que F⃗ = −λ.v⃗, d'intensité F = λ.v
+- Application de la deuxième loi de Newton : P⃗ + N⃗ + T⃗ + F⃗ = m.a⃗G
+
+- Projection sur Ox : m.g.sinα − T − λ.v = m.dv/dt
+
+g.sinα − T/m − (λ/m).v = dv/dt ⟹ dv/dt + (λ/m).v + T/m − g.sinα = 0
+
+On pose : A = λ/m et B = T/m − g.sinα ⟹ dv/dt + A.v + B = 0
+
+2-2- La valeur de la vitesse limite vℓ :
+
+En régime permanent : vℓ = cte ⟹ dvℓ/dt = 0 ⟹ A.vℓ + B = 0 ⟹ vℓ = −B/A
+
+vℓ = m.(g.sinα − k.g.cosα)/λ
+
+vℓ = 75 × 10 × (sin45° − 0,9 × cos45°)/5 ⟹ vℓ = 10,6 m.s-1
+
+2-3- La valeur de v2 :
+
+La méthode d'Euler : v2 = a1.Δt + v1
+
+D'après l'équation différentielle : a1 = −B − A.v1
+
+v2 = (−B − A.v1).Δt + v1
+
+v2 = (0,71 − 0,067 × 6,30) × 1,40 + 6,30 ⟹ v2 = 6,70 m.s-1
+
+### Partie II : Mouvement d'une sphère chargée dans le champ de pesanteur et dans un champ électrique
+
+1- Les équations horaires du mouvement x(t) et y(t) :
+
+- Système étudié : {la sphère (S)}
+- Bilan des forces : P⃗ = m.g⃗ ; F⃗ = q.E⃗
+- Application de la deuxième loi de Newton dans le repère R(O, i⃗, j⃗) lié à un référentiel terrestre supposé galiléen :
+
+ΣF⃗ = m.a⃗G ⟹ q.E⃗ + m.g⃗ = m.a⃗G ⟹ a⃗G = g⃗ + (q/m).E⃗
+
+D'après les conditions initiales : E⃗ (Ex = E ; Ey = 0) ; g⃗ (gx = 0 ; gy = −g)
+
+v0x = 0 ; v0y = 0 ; x0 = d/2 ; y0 = ℓ
+
+- Projection sur Ox et Oy :
+
+dvx/dt = (q/m).E ; dvy/dt = −g
+
+Par intégration : vx = (q/m).E.t ; vy = −g.t
+
+Par intégration : x(t) = (1/2).(q/m).E.t2 + d/2 ; y(t) = −(1/2).g.t2 + ℓ
+
+On a : E = U0/d et α = q/m :
+
+x(t) = (1/2).α.(U0/d).t2 + d/2 ; y(t) = −(1/2).g.t2 + ℓ
+
+A.N : x(t) = 1,25.10-5.U0.t2 + 2.10-2 ; y(t) = −5.t2 + 1
+
+2- L'équation de la trajectoire :
+
+On élimine le temps : t2 = (x − 2.10-2)/(1,25.10-5.U0)
+
+y = −5.(x − 2.10-2)/(1,25.10-5.U0) + 1
+
+y = −(4.105/U0).x + 8.103/U0 + 1
+
+3- Montrons que U0 = 8 kV :
+
+Au point P on a : P(xP = d ; yP = 0)
+
+0 = −(4.105/U0).d + 8.103/U0 + 1 ⟹ U0 = 4.105.d − 8.103
+
+U0 = 4.105 × 4.10-2 − 8.103 = 8.103 V ⟹ U0 = 8 kV
