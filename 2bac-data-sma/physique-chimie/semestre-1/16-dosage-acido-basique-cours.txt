@@ -1,0 +1,149 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Dosage acido-basique
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 16 (Dosage acido-basique)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Principe du dosage acido-basique
+
+### 1-1/ Définition du dosage
+
+Le dosage (ou titrage) consiste à déterminer la concentration d'une espèce chimique présente dans une solution dite solution titrée en faisant réagir cette solution avec une solution de concentration connue dite solution titrante.
+
+La réaction du dosage doit être rapide, totale et unique, c'est dire que l'état final du système doit être atteint dans une courte durée et le réactif limitant est toujours entièrement consommé et la réaction ne doit pas être en compétition avec d'autres réactions.
+
+### 1-2/ Mode opératoire d'un dosage
+
+On introduit dans un bécher à l'aide d'une pissette jaugée un volume de la solution à titrer, puis on lui ajoute progressivement à l'aide d'une burette la solution titrante tout en utilisant un système d'agitation afin d'homogénéiser le mélange.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img1.bmp)
+
+## II- Dosage d'une solution d'acide éthanoïque
+
+### 2-1/ Expérience
+
+Placer, dans un bêcher, un volume $V_{A} = 20 , 0 m L$ de solution d'acide éthanoïque $C H_{3} C O O H$ de concentration $C_{A}$ inconnue.
+
+Y ajouter un volume $V_{B}$ de solution de soude $\left(N a^{+} + H O^{-}\right)$ de concentration $C_{B} = 20 , 0 m m o l . L^{- 1}$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img2.bmp)
+
+On mesure le pH du mélange après chaque addition et on indique les valeurs obtenues dans le tableau suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s17/img5.bmp)
+
+On trace la courbe représentant la variation du pH en fonction du volume V B de soude versé :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img4.bmp)
+
+### 2-2/ Équation de la réaction du dosage
+
+Les ions Na+ sont inactifs, ils ne participent pas à la réaction du dosage.
+
+L'équation de la réaction du dosage est :
+
+$C H_{3} C O O H_{\left(a q\right)} + O H_{\left(a q\right)}^{-} \rightarrow C H_{3} C O O_{\left(a q\right)}^{-} + H_{2} O_{\left(l\right)}$
+
+C'est une réaction totale.
+
+### 2-3/ Détermination du point d'équivalence
+
+Méthode des tangentes :
+
+On trace la droite $\Delta$ tangente à la courbe au point A et on trace la droite $\Delta '$ parallèle à au point B, puis on représente le segment $\left[H , H '\right]$ perpendiculaire à $\Delta$ et à $\Delta '$.
+
+Ensuite on trace la droite $\Delta ' '$ médiatrice du segment $\left[H , H '\right]$. Cette dernière se coupe avec la courbe $p H = f \left(\right. V_{B} \left.\right)$ au point E.
+
+Coordonnées du point d'équivalence E : $\left{\begin{matrix} V_{B E} = 15 m L \\ p H_{E} \approx 7 , 8 \end{matrix}\right$
+
+Méthode d'utilisation de l'indicateur coloré :
+
+Expérimentalement on détermine le volume d'équivalence en utilisant un indicateur coloré, lorsque sa couleur change brusquement à la teinte sensible on est à l'équivalence, on obtient donc la valeur du volume de soude versé à l'équivalence.
+
+Dans ce dosage le rouge de crésol est convenable car sa zone de virage $\left[\right. 7 , 2 - 8 , 8 \left]\right.$ contient $p H_{E} = 7 , 8$.
+
+Méthode de la courbe dérivée :
+
+Cette méthode permet de déterminer le volume d'équivalence, elle consiste à tracer, à l'aide d'un logiciel la courbe dérivée : $\frac{d p H}{d V_{B}} = f \left(p H\right)$
+
+Le volume d'équivalence correspond à l'abscisse du maximum de cette courbe :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img6.bmp)
+
+### 2-4/ Relation d'équivalence
+
+Avant l'équivalence, $O H^{-}$ est le réactif limitant
+
+Après l'équivalence, $C H_{3} C O O H$ est le réactif limitant.
+
+À l'équivalence le mélange est stœchiométrique : $n_{i} \left(C H_{3} C O O H\right) = n_{i} \left(O H^{-}\right)$
+
+La relation d'équivalence est donc : $C_{A} . V_{A} = C_{B} . V_{B E}$
+
+D'où : $C_{A} = \frac{C_{B} . V_{B E}}{V_{A}} = 1 , 5 . 10^{- 2} m o l . L^{- 1}$
+
+### 2-5/ Détermination du taux d'avancement final de la réaction
+
+Pour montrer que la réaction du dosage est totale, il suffit de montrer que $\tau = 1$.
+
+Traçons le tableau d'avancement de la réaction au moment de versement du volume $V_{B_{v e r s \acute{e}}} = 10 m L$ de soude.
+
+D'après la courbe du dosage, le pH correspondant à ce volume est $p H = 4 , 1$.
+
+$n_{a} \left(C H_{3} C O O H\right) = c_{a} . v_{a} = 0 , 3 m m o l \\ n_{a} \left(O H^{-}\right) = c_{b} . v_{b} = 0 , 2 m m o l$
+
+$\tau = \frac{x_{f}}{x_{m a x}} = \frac{0 , 2}{0 , 2} = 1$
+
+Donc la réaction est totale.
+
+## III- Dosage d'une solution d'ammoniaque
+
+### 3-1/ Expérience
+
+On verse dans un bécher un volume $V_{B} = 20 m L$ d'une solution d'ammoniaque $N H_{3}$ de concentration $c_{B}$ inconnue, puis on lui ajoute progressivement à l'aide d'une burette graduée une solution d'acide chlorhydrique $\left(\right. H_{3} O^{+} + C l^{-} \left.\right)$ de concentration $c_{A} = 1 , 2 . 10^{- 2} m o l / L$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img8.bmp)
+
+### 3-2/ Équation de la réaction du dosage
+
+Les ions $C l^{-}$ sont inactifs, ils ne participent pas à la réaction du dosage.
+
+l'équation de la réaction du dosage :
+
+$N H_{3 \left(a q\right)} + H_{3} O_{\left(a q\right)}^{+} \rightarrow N H_{4 \left(a q\right)}^{+} + H_{2} O_{\left(a q\right)}$
+
+C'est une réaction totale.
+
+### 3-3/ Détermination du point d'équivalence
+
+Méthode des tangentes :
+
+Coordonnées du point d'équivalence E : $\left{\begin{matrix} V_{A E} = 14 , 4 m L \\ p H_{E} \approx 5 , 6 \end{matrix}\right$
+
+Méthode de la courbe dérivée :
+
+Elle conduit dans ce cas à : $V_{A E} = 14 , 4 m L$
+
+La méthode de l'indicateur coloré :
+
+D'après le tableau des indicateurs colorés on constate que c'est le rouge de méthyle qui est convenable pour ce dosage, car sa zone de virage $\left[\right. 4 , 2 - 6 , 2 \left]\right.$ contient le $p H_{E} = 5 , 6$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img10.bmp)
+
+### 3-4/ Relation d'équivalence
+
+Avant l'équivalence, $H_{3} O^{+}$ est le réactif limitant, et après l'équivalence $N H_{3}$ est le réactif limitant.
+
+À l'équivalence le mélange est stœchiométrique : $n_{i} \left(H_{3} O^{+}\right) = n_{i} \left(N H_{3}\right)$
+
+La relation d'équivalence est donc : $C_{A} . V_{A E} = C_{B} . V_{B}$
+
+D'où : $C_{B} = \frac{C_{A} . V_{A E}}{V_{B}} = 10^{- 2} m o l / L$
