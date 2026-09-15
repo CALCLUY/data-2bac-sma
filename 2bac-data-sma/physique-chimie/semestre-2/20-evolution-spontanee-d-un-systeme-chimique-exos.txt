@@ -1,0 +1,72 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Évolution spontanée d'un système chimique
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 20 (Évolution spontanée d'un système chimique)
+Professeur : Mr El GOUFIFA Jihad
+
+## III- Exercices
+
+### 3-1/ Exercice 1
+
+On introduit dans un bécher :
+
+$V_{1} = 10 m l$ d'une solution d'acide acétique $C H_{3} C O O H$ de concentration $C = 0 , 010 m o l . L^{- 1}$
+
+$V_{2} = 10 m l$ l d'une solution d'acétate de sodium $\left(C H_{3} C O O^{-} + N a^{+}\right)$ fraîchement préparée de concentration $C = 0 , 010 m o l . L^{- 1}$.
+
+$V_{3} = 20 m l$ d'une solution d'ammoniac $N H_{3}$ de concentration $C ' = 0 , 025 m o l . L^{- 1}$.
+
+$V_{4} = 10 m l$ d'une solution de chlorure d'ammonium $\left(N H_{4_{\left(\right. a q \left.\right)}}^{+} + C l_{\left(\right. a q \left.\right)}^{-}\right)$ de même concentration $C ' = 0 , 025 m o l . L^{- 1}$.
+
+1. Écrire l'équation de la réaction qui peut se produire en considérant l'acide acétique comme un réactif.
+
+On donne la constante d'acidité des deux couples $K_{a} \left(\right. C H_{3} C O O H / C H_{3} C O O^{-} \left.\right) = 10^{- 4 , 8}$ et $K_{a} \left(\right. N H_{4}^{+} / N H_{3} \left.\right) = 10^{- 9 , 2}$.
+
+2. Déterminer la constante d'équilibre $K$ associée à cette réaction.
+
+3. Déterminer la valeur de la quotient de réaction dans l'état initial $Q_{r , i}$ du système.
+
+4. Dans quel sens le système va-t-il évolué ?
+
+### 3-2/ Exercice 2
+
+On mélange à l'état initial $10^{- 2} m o l$ d'ions $F e^{3 +}$ et $5 . 10^{- 2} m o l$ d'ions $A g^{+}$ et $2 . 10^{- 2} m o l$ d'ions $F e^{2 +}$, puis on introduit dans un volume $V = 500 m L$ de cette solution un fil d'argent.
+
+On considère la transformation à laquelle on associe la réaction suivante :
+
+$A g_{\left(s\right)} + F \left(e^{3 +}\right)_{\left(a q\right)} \rightleftarrows A \left(g^{+}\right)_{\left(a q\right)} + F \left(e^{2 +}\right)_{\left(a q\right)}$
+
+Sa constante d'équilibre à $25 \circ C$ est $K = 3 , 2$
+
+1. Déterminer quotient initial $Q_{r , i}$ de cette réaction puis en déduire le sens d'évolution spontanée du système.
+
+2. Dresser le tableau d'évolution de ce système.
+
+3. Déterminer l'avancement de la réaction à l'équilibre.
+
+4. Déterminer les concentrations de toutes les espèces chimiques existant à l'équilibre.
+
+### 3-3/ Exercice 3
+
+Un système contenant des ions plomb (II) $P b^{2 +}$ et argent $A g^{+}$, du plomb et de l'argent métalliques, peut être le siège de la réaction d'équation :
+
+$2 A \left(g^{+}\right)_{\left(a q\right)} + P b_{\left(s\right)} \rightleftarrows 2 A g_{\left(s\right)} + P b \left(^{2 +}\right)_{\left(a q\right)}$
+
+1. Donner l'expression littérale du quotient de réaction correspondant.
+
+La constante d'équilibre de cette réaction vaut $3 . 10^{31}$.
+
+Un système $S$ est obtenu en introduisant dans de l'eau distillée de façon à obtenir $V = 100 , 0 m L$ de solution :
+
+- $n_{1} = 1 , 2 m m o l$ d'ions plomb (II).
+- $n_{2} = 2 , 0 m m o l$ de plomb métallique.
+- $n_{3} = 1 , 0 m m o l$ d'ions argent.
+- $n_{4} = 0 , 10 m m o l$ d'argent métallique.
+
+2. Dans quel sens va évoluer $S$ ?
