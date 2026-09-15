@@ -1,0 +1,92 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: A- Oscillateurs mécaniques (Pendule élastique)
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 24A (Oscillateurs mécaniques – Pendule élastique)
+Professeur : Mr EL GOUFIFA Jihad
+
+## VI- Exercices
+
+### 6-1/ Exercice 1
+
+Un oscillateur mécanique élastique est constitué d'un ressort de constante de raideur $K = 10 N . m^{- 1}$ associé à un solide de masse $m = 250 g$.
+
+On écarte le système de sa position d'équilibre de $2 c m$ et on l'abandonne sans vitesse initiale.
+
+On considère un axe $\left(\right. O , \overset{\rightarrow}{i} \left.\right)$, avec $O$ coïncide avec la position du centre d'inertie $G$ du solide à l'équilibre et le vecteur unitaire $\overset{\rightarrow}{i}$ parallèle au déplacement du solide.
+
+On repère la position $G$ du solide à chaque instant par l'élongation $O G = x \left(\right. t \left.\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img11.jpg)
+
+1. Montrer que le mouvement du centre d'inertie $G$ du solide obéit, en absence de frottement, à l'équation différentielle suivante : $\overset{\cdot\cdot}{x} + \frac{K}{m} x = 0$.
+
+La solution de cette équation différentielle est de la forme $x \left(\right. t \left.\right) = X_{m} cos \left(\right. \frac{2 \pi}{T_{0}} t + \varphi \left.\right)$.
+
+2. Déterminer l'expression de la période propre $T_{0}$ des oscillations du pendule élastique et calculer sa valeur.
+
+3. Déterminer les paramètres $X_{m}$ et $\varphi$, sachant qu'à l'instant $t = 0$, $G$ passe par la position d'équilibre du pendule dans le sens positif, écrire cette solution.
+
+4. Déterminer la vitesse des oscillation à l'instant $t$, en déduire la vitesse maximale du système en précisant sa positions.
+
+5. Déterminer les caractéristiques de la force $\overset{\rightarrow}{F}$ exercée par le ressort sur le solide dans les deux cas suivant :
+
+- lorsque le solide passe par sa position d'équilibre stable.
+- lorsque $x = X_{m}$ et $x = - X_{m}$.
+
+### 6-2/ Exercice 2
+
+Un pendule élastique vertical est constitué d'un ressort de constante de raideur $K = 10 N . m^{- 1}$ associé à un solide de masse $m = 300 g$.
+
+On écarte le système de sa position d'équilibre de $z_{1} = 2 c m$, et à l'instant $t = 0$ (origine des dates) on l'abandonne avec une vitesse initiale $v_{0} = 0 . 3 m / s$ dans le sens négatif de l'axe $\left(\right. O , \overset{\rightarrow}{k} \left.\right)$ orienté vers le bas, et avec $O$ coïncide avec la position du centre d'inertie $G$ du solide à l'équilibre stable et le vecteur unitaire $\overset{\rightarrow}{k}$ parallèle au déplacement du solide.
+
+On repère la position $G$ du solide à chaque instant par l'élongation $O G = z \left(\right. t \left.\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img12.jpg)
+
+1. Montrer que le mouvement du centre d'inertie $G$ du solide obéit, en absence de frottement, à l'équation différentielle suivante : $\overset{\cdot\cdot}{z} + \frac{K}{m} z = 0$
+
+La solution de cette équation différentielle est de la forme : $z \left(\right. t \left.\right) = Z_{m} cos \left(\right. \frac{2 \pi}{T_{0}} t + \varphi \left.\right)$.
+
+2. Déterminer l'expression de la période propre $T_{0}$ des oscillations du pendule élastique et calculer sa valeur.
+
+3. Déterminer les paramètres $Z_{m}$ et $\varphi$.
+
+Étudions le cas où on lance le système à $t = 0$, à partir de l'état d'équilibre stable, dans le sens positive avec une vitesse $v_{0} = 0 , 3 m / s$.
+
+4. Déterminer les paramètres $Z_{m}$ et $\varphi$.
+
+### 6-3/ Exercice 3
+
+On place un cavalier de masse $M = 700 g$ sur un rail à coussin d'air horizontal et on le fixe aux extrémités de deux ressorts semblables $R_{1}$ et $R_{2}$ de mêmes constantes de raideur $K_{1} = K_{2} = 20 N / m$.
+
+La longueur initiale de chaque ressort est $l_{01} = l_{02} = 18 c m$, et à l'équilibre, ils ont même allongement $\Delta l_{1} = \Delta l_{2} = 2 c m$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img13.jpg)
+
+On écarte le cavalier de sa position d'équilibre de distance $O C = 2 c m$ de sens vers $A_{1}$ et de direction de $\left(A_{1} A_{2}\right)$, puis on l'abandonne sans vitesse initiale, à l'instant $t = 0$.
+
+1. Déterminer, à un instant $t$, les expressions des allongements de $\Delta l_{1}$ et $\Delta l_{2}$ pour chaque ressort en fonction de $x$ l'abscisse de $G$.
+
+2. Déterminer l'équation différentielle du mouvement de $G$.
+
+La solution de cette équation différentielle s'écrit sous la forme suivante $x ' \left(\right. t \left.\right) = X_{m} cos \left(\right. \omega_{0} t + \varphi \left.\right)$, avec $\omega_{0}$ est la pulsation propre du mouvement de $G$ $\left(\omega_{0} = \frac{2 \pi}{T_{0}}\right)$.
+
+3. Donner l'expression de $\omega_{0}$ et $T_{0}$.
+
+4. Déterminer $\varphi$ et $X_{m}$.
+
+On fixe au cavalier une petite plaque de masse négligeable puis on l'immerge dans un liquide.
+
+La force de frottement appliquée par le liquide sur la plaque au cours du mouvement du cavalier est de la forme $\overset{\rightarrow}{f} = - \alpha . \overset{\rightarrow}{v}$, où $\alpha$ est une constante positive et $\overset{\rightarrow}{v}$ le vecteur vitesse de $G$.
+
+5. Montrer que l'équation différentielle du mouvement de $G$ peut s'écrire sous la forme suivante :
+
+$\overset{\cdot\cdot}{x} + \frac{\alpha}{m} \overset{\cdot}{x} + \frac{2 K}{m} x = 0$
+
+6. Donner la forme des courbes qui représentent l'élongation $x \left(\right. t \left.\right)$ du centre d'inertie $G$ lorsque les frottement deviennent de plus en plus importants. (on prend les mêmes conditions initiales)

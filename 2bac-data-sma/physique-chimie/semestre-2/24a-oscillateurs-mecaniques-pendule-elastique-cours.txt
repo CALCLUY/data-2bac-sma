@@ -1,0 +1,182 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: A- Oscillateurs mécaniques (Pendule élastique)
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 24A (Oscillateurs mécaniques – Pendule élastique)
+
+Professeur : Mr EL GOUFIFA Jihad
+
+## I- Systèmes mécaniques oscillants
+
+### 1-1/ Définition
+
+Un système oscillant, est tout simplement un corps ou plusieurs corps, effectuent un mouvement d'aller-retour autour de son position d'équilibre.
+
+Lors de cette étude, on remarquera une analogie entre les systèmes oscillants (le pendule élastique, de torsion, pesant...) et les circuits (LC, RLC...). On parle des oscillateurs harmoniques.
+
+### 1-2/ Exemples de quelques oscillateurs mécaniques
+
+- Le pendule élastique : il est constitué d'un corps solide de masse m suspendu à un ressort à spires non jointives.
+- Le pendule simple : il est constitué d'un corps solide de masse m suspendu à l'extrémité d'un fil inextensible.
+- Le pendule pesant : est tout corps solide mobile autour d'un axe ne passant pas par son centre de gravité
+- Le pendule de torsion : est constitué d'une barre horizontale, fixée à l'extrémité d'un fil de torsion.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img1.png)
+
+### 1-3/ Caractéristiques des mouvements oscillatoires
+
+Un mouvement oscillatoire est caractérisé par :
+
+- Sa position d'équilibre stable : C'est la position à laquelle le système tend à y revenir lorsque l'on en éloigne légèrement.
+- Sa période propre : C'est le temps mis pour effectuer une oscillation.
+- Son amplitude : C'est la valeur maximale positive que prend la grandeur qui exprime le décalage ou l'inclinaison de l'oscillateur de sa position d'équilibre.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img2.jpg)
+
+### 1-4/ Amortissement des oscillations
+
+#### Définition
+
+En écartant un pendule élastique de sa position d'équilibre et en le lâchant, l'amplitude des oscillations diminue jusqu'à ce qu'il s'annule : on dit que le mouvement est amorti. Le phénomène d'amortissement est provoqué par les frottements.
+
+Il existe deux types de frottements :
+
+- Le frottement solide qui se fait entre l'oscillateur et un corps solide.
+- Le frottement fluide qui se fait entre l'oscillateur et un corps fluide (liquide ou gaz).
+
+#### Les régimes d'amortissement
+
+Le régime pseudo périodique :
+
+Si l'amortissement est faible, l'amplitude des oscillations diminue progressivement jusqu'à ce qu'il s'annule.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img3.png)
+
+Le régime apériodique :
+
+Si le frottement est fort les oscillations disparaissent et selon l'importance de l'amortissement on distingue trois régimes :
+
+- Le régime sous critique : l'oscillateur effectue une seule oscillation avant de s'arrêter.
+- Le régime critique : l'oscillateur revient à sa position d'équilibre sans oscillations.
+- Le régime surcritique : l'oscillateur revient à sa position d'équilibre après temps très long sans oscillations.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img4.jpg)
+
+## II- Pendule élastique horizontal
+
+### 2-1/ Équation différentielle du mouvement
+
+Sur un plan lisse on attache à l'extrémité d'un ressort de spires non jointives et de masse négligeable, un corps (S) de masse m, on l'écarte de sa position d'équilibre, et on le lâche sans vitesse initiale, le solide effectue donc un mouvement rectiligne.oscillatoire.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img5.jpg)
+
+Bilan des forces :
+
+- $\overset{\rightarrow}{P}$ : Le poids du corps
+- $\overset{\rightarrow}{R}$ : La réaction du plan
+- $\overset{\rightarrow}{T}$ : La tension du ressort
+
+On applique la deuxième loi de Newton :
+
+$\overset{\rightarrow}{P} + \overset{\rightarrow}{R} + \overset{\rightarrow}{T} = m \overset{\rightarrow}{a} \\ \Rightarrow - k x = m \overset{\cdot\cdot}{x} \\ \Rightarrow \overline{\left.\right)\overset{\cdot\cdot}{x} + \frac{k}{m} x = 0}$
+
+C'est l'équation différentielle du mouvement
+
+### 2-2/ Équation horaire du mouvement
+
+La solution de l'équation différentielle du mouvement $\overset{\cdot\cdot}{x} + \frac{k}{m} x = 0$ est une fonction sinusoïdale qui s'écrit sous la forme :
+
+$\overline{\left.\right) x \left(t\right) = X_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) = X_{m} cos \left(\omega_{0} t + \varphi\right) }$
+
+- $x \left(\right. t \left.\right)$ : Abscisse (élongation) du point G et varie entre $X_{m}$ et $- X_{m}$
+- $X_{m}$ : Amplitude ou élongation maximale
+- $\omega_{0} = \sqrt{\frac{k}{m}}$ : pulsation (rad/s)
+- $T_{0} = 2 \pi \sqrt{\frac{m}{k}}$ : la période propre (s)
+- $\omega_{0} t + \varphi$ : Phase à l'instant t
+- $\varphi$ : Phase à l'origine des temps t=0
+
+## II- Pendule élastique vertical
+
+À l'extrémité libre d'un ressort de spires non jointives et de masse négligeable, on attache un corps (S) de masse m.
+
+Dans ce cas il faut faire attention en ce qui concerne l'élongation du ressort, car lors du suspension du corps, le ressort s'allonge d'une distance $\Delta l_{0}$.
+
+Pour la déterminer on étudie le système en équilibre :
+
+Bilan des forces :
+
+- $\overset{\rightarrow}{P}$ : Le poids du corps
+- $\overset{\rightarrow}{T}$ : La tension du ressort
+
+On applique la première loi de Newton :
+
+$\overset{\rightarrow}{P} + \overset{\rightarrow}{T} = \overset{\rightarrow}{0} \\ P - T = 0 \\ m g = k \Delta l_{0} \\ \overline{\left.\right)\Delta l_{0} = \frac{m g}{k}}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img6.jpg)
+
+## III- Pendule élastique vertical
+
+En allongeant le corps (S) vers le bas, il effectue un mouvement oscillatoire, on suppose que l'air n'a aucun effet sur le mouvement de (S) :
+
+Bilan des forces :
+
+- $\overset{\rightarrow}{P}$ : Le poids du corps
+- $\overset{\rightarrow}{T}$ : La tension du ressort
+
+On applique la deuxième loi de Newton :
+
+$\overset{\rightarrow}{P} + \overset{\rightarrow}{T} = m \overset{\rightarrow}{a} \\ m g - k \Delta l = m \overset{\cdot\cdot}{x} \\ m g - k \left(\frac{m g}{k} + x\right) = m \overset{\cdot\cdot}{x} \\ m \overset{\cdot\cdot}{x} + k x = 0 \\ \overline{\left.\right)\overset{\cdot\cdot}{x} + \frac{k}{m} x = 0} \\ \\$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img7.jpg)
+
+C'est la même équation différentielle obtenue dans la section précédente, sa solution est toujours de la forme :
+
+$\overline{\left.\right) x \left(t\right) = X_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) = X_{m} cos \left(\omega_{0} t + \varphi\right) }$
+
+## IV- Pendule élastique incliné
+
+Dans un plan lisse incliné d'un angle α, on attache à l'extrémité d'un ressort de spires non jointives et de masse négligeables, un corps (S) de masse m, le ressort s'allonge donc d'une distance $\Delta l_{0}$, on la détermine en étudiant le système à l'équilibre :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img8.jpg)
+
+Bilan des forces :
+
+- $\overset{\rightarrow}{P}$ : Le poids du corps
+- $\overset{\rightarrow}{T}$ : La tension du ressort
+- $\overset{\rightarrow}{R}$ : La réaction du plan
+
+On applique la première loi de Newton :
+
+$\overset{\rightarrow}{P} + \overset{\rightarrow}{R} + \overset{\rightarrow}{T} = \overset{\rightarrow}{0} \\ P sin \alpha - T = 0 \\ P sin \alpha = T = k \Delta l_{0} \\ \overline{\left.\right)\Delta l_{0} = \frac{m g sin \alpha}{k}}$
+
+Maintenant on écarte le corps, et on le lâche sans vitesse initiale, il effectue un mouvement oscillatoire :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img9.jpg)
+
+Bilan des forces :
+
+- $\overset{\rightarrow}{P}$ : Le poids du corps
+- $\overset{\rightarrow}{T}$ : La tension du ressort
+- $\overset{\rightarrow}{R}$ : La réaction du plan
+
+On applique la deuxième loi de Newton :
+
+$\overset{\rightarrow}{P} + \overset{\rightarrow}{R} + \overset{\rightarrow}{T} = m \overset{\rightarrow}{a} \\ P sin \alpha - T = m \overset{\cdot\cdot}{x} \\ m g sin \alpha - k \Delta l = m \overset{\cdot\cdot}{x} \\ m g sin \alpha - k \left(\Delta l_{0} + x\right) = m \overset{\cdot\cdot}{x} \\ m g sin \alpha - k \Delta l_{0} - k x = m \overset{\cdot\cdot}{x} \\ - k x = m \overset{\cdot\cdot}{x} \\ \overline{\left.\right)\overset{\cdot\cdot}{x} + \frac{k}{m} x = 0} \\$
+
+C'est la même équation différentielle obtenue dans la section précédente, sa solution est toujours de la forme :
+
+$\overline{\left.\right) x \left(t\right) = X_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right) = X_{m} cos \left(\omega_{0} t + \varphi\right) }$
+
+## V- L'amortissement des oscillations
+
+En réalité, les frottements ne sont pas négligeables, ceci constitue un obstacle devant le mouvement oscillatoire du corps.
+
+Le corps n'atteint plus $\pm X_{m}$, sa vitesse et son accélération décroient, et sur l'enregistrement on observe :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-1/img10.jpg)
