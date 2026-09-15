@@ -1,0 +1,313 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2015 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2015 - الموضوع - مادة : الفيزياء والكيمياء - شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+NS 31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+L'usage de la calculatrice scientifique non programmable est autorisé.
+
+Le sujet comporte 4 exercices : un exercice de chimie et trois exercices de physique.
+
+Chimie : (7 points)
+- Dosage d'un acide et synthèse d'un ester
+- Etude de la pile nickel-cobalt.
+
+Physique : (13 points)
+Les transformations nucléaires (2,25 points) :
+- Réactions de fusion et de fission.
+L'électricité (5,25 points)
+- Etude des dipôles RL, RC et RLC.
+- Modulation d'amplitude d'un signal sinusoïdal.
+La mécanique : (5,5 points)
+- Etude de la chute verticale d'une bille avec frottement.
+- Etude énergétique d'un pendule élastique.
+
+## Chimie : (7 points) Les deux parties I et II sont indépendantes
+
+### Partie I : Dosage d'un acide et synthèse d'un ester
+
+L'acide éthanoïque est utilisé dans la synthèse de plusieurs substances organiques, telle que l'huile de jasmin (l'éthanoate de benzyle) qui est utilisée dans la synthèse des parfums ; cet ester peut être préparé au laboratoire à partir de la réaction entre l'acide éthanoïque CH3COOH et l'alcool benzylique C6H5-CH2OH.
+
+On se propose d'étudier dans cette première partie le dosage d'une solution aqueuse d'acide éthanoïque par une solution basique et la réaction de cet acide avec l'alcool benzylique.
+
+Données :
+- Toutes les mesures sont effectuées à 25 °C.
+
+| Composé organique | Masse molaire en (g.mol-1) |
+| --- | --- |
+| L'acide éthanoïque | 60 |
+| L'alcool benzylique | 108 |
+| L'éthanoate de benzyle | 150 |
+
+#### 1- Dosage de l'acide éthanoïque
+
+On prépare une solution aqueuse (SA) d'acide éthanoïque CH3COOH de volume V = 1 L et de concentration molaire CA, en dissolvant une quantité de masse m de cet acide dans l'eau distillée.
+
+On dose un volume VA = 20 mL de la solution (SA) en suivant les variations du pH en fonction du volume VB versé d'une solution aqueuse d'hydroxyde de sodium (Na+(aq) + HO-(aq)) de concentration molaire CB = 2.10-2 mol.L-1.
+
+1.1- Ecrire l'équation chimique modélisant la réaction du dosage. (0,25)
+
+1.2- A partir des mesures obtenues, on a tracé la courbe (C1) représentant pH = f(VB) et la courbe (C2) représentant dpH/dVB = g(VB) (figure page 3/8).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : courbes (C1) pH = f(VB) et (C2) dpH/dVB = g(VB) en fonction de VB(mL))
+
+1.2.1- Déterminer le volume VBE de la solution d'hydroxyde de sodium versé à l'équivalence. (0,25)
+
+1.2.2- Trouver la valeur de la masse m nécessaire à la préparation de la solution (SA). (0,75)
+
+1.3- Montrer que la réaction entre l'acide éthanoïque et l'eau est limitée. (0,75)
+
+1.4- Etablir, pour un volume VB versé avant l'équivalence, l'expression : VB.10^pH = KA.(VBE − VB) avec VB ≠ 0. En déduire la valeur du pKA du couple CH3COOH / CH3COO-. (0,5)
+
+#### 2- Synthèse d'un ester
+
+On prépare un mélange constitué d'une quantité d'acide éthanoïque de masse mac = 6 g et d'une quantité d'alcool benzylique C6H5-CH2OH de masse mal = 10,80 g.
+
+Après avoir ajouté quelques gouttes d'acide sulfurique concentré et quelques grains de pierre ponce, on chauffe à reflux le mélange. On obtient à la fin de la réaction une quantité d'éthanoate de benzyle de masse m = 9,75 g.
+
+2.1- Ecrire l'équation chimique modélisant la réaction d'estérification. (0,25)
+
+2.2- Calculer le rendement r1 de la réaction d'estérification. (0,5)
+
+2.3- On refait l'expérience, dans les mêmes conditions expérimentales précédentes, en utilisant nac = 0,10 mol d'acide éthanoïque et nal = 0,20 mol d'alcool benzylique. Trouver dans ce cas le rendement r2 de la réaction d'estérification. (1)
+
+2.4- Que pouvez-vous déduire en comparant r1 et r2 ? (0,5)
+
+### Partie II : Etude de la pile nickel-cobalt
+
+Le fonctionnement d'une pile chimique est basé sur la transformation d'une partie de l'énergie chimique, résultant des transformations chimiques, en énergie électrique.
+
+On étudie dans cette partie la pile nickel-cobalt.
+
+Données :
+- Masse molaire du Nickel : M(Ni) = 58,7 g.mol-1.
+- Constante de Faraday : 1F = 9,65.10^4 C.mol-1.
+
+La constante d'équilibre associée à l'équation de la réaction :
+
+Ni2+(aq) + Co(s) ⇄(1)/(2) Ni(s) + Co2+(aq)
+
+est K = 10^2 à 25°C.
+
+On réalise une pile, en plongeant une plaque de nickel dans un bécher contenant un volume V = 100 mL d'une solution aqueuse de sulfate de nickel II : (Ni2+(aq) + SO42-(aq)) de concentration molaire initiale C1 = [Ni2+(aq)]i = 3.10-2 mol.L-1, et une plaque de cobalt dans un autre bécher contenant un volume V = 100 mL d'une solution aqueuse de sulfate de cobalt II : (Co2+(aq) + SO42-(aq)) de concentration molaire initiale C2 = [Co2+(aq)]i = 0,3 mol.L-1. Les deux solutions sont reliées par un pont salin.
+
+On monte en série avec cette pile un conducteur ohmique, un ampèremètre et un interrupteur. On ferme le circuit ainsi formé à un instant de date t = 0. Un courant d'intensité I, considérée constante, circule dans le circuit.
+
+1- Choisir, parmi les propositions suivantes, la réponse juste : (0,5)
+
+a- Le sens d'évolution spontanée du système chimique constituant la pile est le sens (2) de l'équation de la réaction.
+
+b- L'électrode de cobalt est la cathode.
+
+c- Les électrons circulent à travers le pont salin pour maintenir l'électroneutralité des solutions.
+
+d- Le sens du courant électrique à l'extérieur de la pile est de l'électrode de nickel vers l'électrode de cobalt.
+
+e- L'oxydation se produit à la cathode.
+
+2- Trouver, en fonction de K, F, C1, C2, V et I, l'expression de la date te à laquelle l'équilibre du système chimique est atteint. Calculer la valeur de te sachant que I = 100 mA. (1)
+
+3- Calculer la variation Δm de la masse de l'électrode de nickel entre les instants de date t = 0 et t = te. (0,25)
+
+## Physique (13 points)
+
+### Les transformations nucléaires (2,25 points)
+
+Les réactions de fusion et de fission sont considérées parmi les réactions qui produisent une grande énergie qu'on peut exploiter dans divers domaines.
+
+Données : 1 MeV = 1,6022.10-13 J
+
+m(1/1 H) = 1,00728 u ; m(4/2 He) = 4,00151 u ; m(0/-1 e) = 5,48579.10-4 u.
+
+1 u = 931,494 MeV.c-2 = 1,66054.10-27 kg
+
+- On prend la masse du soleil : mS = 2.10^30 kg.
+- On considère que la masse de l'hydrogène 1/1 H représente 10% de la masse du soleil.
+
+1- On donne dans le tableau ci-dessous les équations de quelques réactions nucléaires :
+
+| | Equation |
+| --- | --- |
+| A | 2/1 H + 3/1 H → 4/2 He + 1/0 n |
+| B | 60/27 Co → 60/28 Ni + 0/-1 e |
+| C | 238/92 U → 4/2 He + 234/90 Th |
+| D | 235/92 U + 1/0 n → 139/54 Xe + 94/38 Sr + 3 1/0 n |
+
+[FORMULA_IMAGE_UNREADABLE] (diagramme d'énergie : niveaux 235/92 U + 1/0 n ; 139/54 Xe + 94/38 Sr + 3 1/0 n ; 144 n + 92 p ; valeurs E.10^5 MeV : 2,21625 ; 2,19835 ; 2,19655)
+
+1.1- Identifier, parmi ces équations, celle correspondant à la réaction de fusion. (0,25)
+
+1.2- En utilisant le diagramme d'énergie ci-contre, calculer :
+
+1.2.1- L'énergie de liaison par nucléon du noyau 235/92 U. (0,25)
+
+1.2.2- L'énergie E0 produite par la réaction D. (0,25)
+
+2- Il se produit dans le soleil des réactions nucléaires dues essentiellement à la transformation de l'hydrogène selon l'équation bilan : 4 1/1 H → 4/2 He + 2 0/1 e
+
+2.1- Calculer, en joule, l'énergie E produite par cette transformation. (0,5)
+
+2.2- Trouver, en ans, la durée nécessaire à la consommation de tout l'hydrogène présent dans le soleil, sachant que l'énergie libérée chaque année par le soleil selon cette transformation est ES = 10^34 J. (0,75)
+
+### Electricité (5,25 points)
+
+Beaucoup d'appareils électriques contiennent des circuits qui se composent de condensateurs, de bobines, de conducteurs ohmiques… La fonction de ces composantes varie selon leurs domaines d'utilisation et la façon dont elles sont montées dans les circuits.
+
+#### 1- Etude du dipôle RL
+
+On réalise le montage, représenté dans la figure 1, comportant :
+
+- un générateur de f.e.m E = 12 V et de résistance interne négligeable ;
+- un conducteur ohmique de résistance R1 = 52 Ω ;
+- une bobine (b) d'inductance L et de résistance r ;
+- un interrupteur K.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : générateur E, interrupteur K, résistance R1 (uR1), bobine (b))
+
+On ferme l'interrupteur K à l'instant de date t = 0. Un système d'acquisition informatisé adéquat permet de tracer la courbe représentant la tension uR1(t) aux bornes du conducteur ohmique (fig.2). (La droite (T) représente la tangente à la courbe à t = 0).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : uR1(V) en fonction de t(ms) ; graduations 10, 20 ms et 2, 4 V ; tangente (T))
+
+1.1- Etablir l'équation différentielle régissant l'évolution de uR1. (0,5)
+
+1.2- Déterminer la valeur de la résistance r de la bobine. (0,25)
+
+1.3- Vérifier que L = 0,6 H. (0,25)
+
+#### 2- Etude des dipôles RC et RLC
+
+On réalise le montage, représenté dans la figure 3, comportant :
+
+- un générateur idéal de courant ;
+- un microampèremètre ;
+- deux conducteurs ohmiques de résistance R0 et R = 40 Ω ;
+- un condensateur de capacité C, non chargé initialement ;
+- la bobine (b) précédente ;
+- deux interrupteurs K1 et K2.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : générateur idéal de courant I0, microampèremètre A, interrupteurs K1 et K2, résistances R0 et R (uR), condensateur C (uC), bobine (b), points A et B (uAB), courant i)
+
+##### 2.1- Etude du dipôle RC
+
+On ferme l'interrupteur K1 (K2 ouvert) à l'instant de date t = 0. L'intensité du courant indiquée par le microampèremètre est I0 = 4 μA. Un système d'acquisition informatisé adéquat permet de tracer la courbe représentant la tension uAB(t) (fig.4).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : uAB(V) en fonction de t(s) ; graduations 5, 10 s et 2, 4 V)
+
+2.1.1- Déterminer la valeur de R0. (0,25)
+
+2.1.2- Trouver la valeur de la capacité C du condensateur. (0,5)
+
+##### 2.2- Etude du dipôle RLC
+
+Lorsque la tension entre les bornes du condensateur prend la valeur uC = U0, on ouvre K1 et on ferme K2 à un instant pris comme nouvelle origine des dates (t = 0). Un système d'acquisition informatisé adéquat permet de tracer la courbe représentant la tension uR(t) (fig.5). (la droite (T1) représente la tangente à la courbe à t = 0.)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 5 : uR(V) en fonction de t(ms) ; échelles 0,5 V et 2,5 ms ; instant t1 ; tangente (T1))
+
+2.2.1- Etablir l'équation différentielle régissant l'évolution de la charge q du condensateur. (0,25)
+
+2.2.2- Exprimer dEt/dt en fonction de R, r et i ; Et représente l'énergie totale du circuit à un instant t et i l'intensité du courant circulant dans le circuit au même instant. (0,5)
+
+2.2.3- Montrer que U0 = (L/R).(duR/dt)t=0 où (duR/dt)t=0 représente la dérivée par rapport au temps de uR(t) à t = 0. Calculer U0. (0,75)
+
+2.2.4- Trouver Ej l'énergie dissipée par effet Joule dans le circuit entre les instants t = 0 et t = t1 (fig.5). (0,5)
+
+#### 3- Modulation d'amplitude d'un signal sinusoïdal
+
+Afin d'obtenir un signal modulé en amplitude, on utilise un circuit intégré multiplieur X (fig.6).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 6 : multiplieur X, entrées E1 (u1(t)) et E2 (u2(t)), sortie S (us(t)))
+
+On applique à l'entrée :
+
+- E1 : la tension u1(t) = s(t) + U0 avec s(t) = Sm.cos(2π.fS.t) représentant le signal informatif et U0 une composante continue de la tension.
+
+- E2 : une tension sinusoïdale représentant la porteuse u2(t) = Um.cos(2π.FP.t).
+
+La tension de sortie us(t) obtenue est us(t) = k.u1(t).u2(t) ; k est une constante qui dépend du circuit intégré X.
+
+Rappel : cos(a).cos(b) = (1/2)[cos(a+b) + cos(a−b)]
+
+3.1- Montrer que us(t) s'écrit sous la forme : us(t) = (A.m/2).cos(2π.f1.t) + A.cos(2π.f2.t) + (A.m/2).cos(2π.f3.t) où m est le taux de modulation et A une constante. (0,5)
+
+3.2- La figure 7 représente le spectre de fréquences formé de trois raies de la tension modulée us(t). Déterminer m et la fréquence fs. La modulation est-elle bonne ? (0,5)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 7 : Amplitude(V) en fonction de f(kHz) ; raies à 5 ; 5,5 ; 6 kHz ; amplitudes 0,5 et 1 V)
+
+3.3- Pour une bonne réception du signal modulé, on utilise un circuit bouchon (circuit d'accord) formé d'une bobine d'inductance L0 = 60 mH et de résistance négligeable et de deux condensateurs, montés en série, de capacité C = 10 μF et C0. Déterminer la valeur de C0. (0,5)
+
+### Mécanique (5,5 points) Les parties I et II sont indépendantes
+
+#### Partie I : Etude de la chute verticale d'une bille avec frottement
+
+On se propose, dans cette partie, d'étudier le mouvement du centre d'inertie G d'une bille, homogène de masse m, dans une éprouvette remplie d'un liquide visqueux.
+
+On repère la position de G à tout instant par la coordonnée z de l'axe vertical (O, k⃗) dirigé vers le bas. L'origine de l'axe est confondue avec le point O1 de la surface libre du liquide.
+
+A l'instant de date t0, prise comme origine des dates (t0 = 0), on lâche la bille sans vitesse initiale d'une position où G est confondu avec G0 de coordonnée z0 = −3 cm. (figure ci-dessous).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : éprouvette de hauteur H, surface libre O1, axe (O, k⃗) vertical vers le bas, positions G0 (z0) et G (z))
+
+Au cours de sa chute dans le liquide, la bille est soumise, en plus de son poids, à :
+
+- la force de frottement fluide : f⃗ = −λ.v.k⃗ où λ est le coefficient de frottement fluide et v la vitesse de G à un instant t ;
+
+- la poussée d'Archimède : F⃗ = −ρ.VS.g⃗ où g est l'intensité de la pesanteur, VS le volume de la bille et ρ la masse volumique du liquide.
+
+On prend : g = 9,8 m.s-2 ; λ/(ρS.VS) = 12,4 S.I ; ρ/ρS = 0,15 ; ρS est la masse volumique de la matière constituant la bille.
+
+1- Montrer que l'équation différentielle régissant la vitesse de G s'écrit : dv/dt + (λ/(ρS.VS)).v = g.(1 − ρ/ρS). (0,25)
+
+2- Déterminer la valeur a0 de l'accélération de G à l'instant t0 = 0. (0,25)
+
+3- Trouver la valeur v∞ de la vitesse limite du mouvement de G. (0,25)
+
+4- Soient v1 la valeur de la vitesse de G à l'instant t1 = t0 + Δt et v2 sa valeur à l'instant t2 = t1 + Δt avec Δt le pas de calcul. En utilisant la méthode d'Euler, montrer que : v2 = v1.(2 − Δt/τ) où τ représente le temps caractéristique du mouvement : τ = ρS.VS/λ. Calculer v1 et v2. On prend Δt = 8.10-3 s. (1)
+
+5- La solution de l'équation différentielle s'écrit sous la forme v = v∞.(1 − e^(−t/τ)) ; déterminer la valeur de la date t à laquelle la vitesse de G atteint 99% de sa valeur limite. (0,5)
+
+6- Trouver la distance d parcourue par la bille pendant le régime transitoire, sachant que la hauteur H du liquide dans l'éprouvette est H = 79,6 cm et que la durée du mouvement de la bille dans le liquide à partir de G0 jusqu'au fond de l'éprouvette est tf = 1,14 s. (on considère que le régime permanent est atteint à partir de t et on néglige le rayon de la bille devant H). (0,75)
+
+#### Partie II : Etude énergétique d'un pendule élastique
+
+Le pendule élastique est un système mécanique effectuant un mouvement oscillatoire autour de sa position d'équilibre stable.
+
+Le but de cette partie est de déterminer quelques grandeurs liées à cet oscillateur par une étude énergétique.
+
+Le pendule élastique étudié est constitué d'un solide (S), de centre d'inertie G et de masse m = 100 g, attaché à l'extrémité d'un ressort à spires non jointives, de masse négligeable et de raideur K. L'autre extrémité du ressort est fixée à un support fixe.
+
+Le solide (S) peut glisser sans frottement sur la ligne de plus grande pente d'un plan incliné d'un angle α = 30° par rapport au plan horizontal (fig.1).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure1 : plan incliné d'angle α, ressort, solide (S) de centre G, repère (O, i⃗, j⃗))
+
+On étudie le mouvement du centre d'inertie G dans le repère orthonormé R(O, i⃗, j⃗) lié au référentiel terrestre considéré comme galiléen. On repère la position de G à un instant t par l'abscisse x sur l'axe (O, i⃗).
+
+A l'équilibre, G est confondu avec l'origine O du repère (fig.1).
+
+On prendra π² = 10.
+
+1- Déterminer, à l'équilibre, l'expression de l'allongement Δℓ0 du ressort en fonction de K, m, α et de g l'intensité de la pesanteur. (0,25)
+
+2- On écarte (S) de sa position d'équilibre d'une distance X0 dans le sens positif et on l'envoie à l'instant de date t = 0 avec une vitesse initiale V⃗0 telle que V⃗0 = −V0.i⃗.
+
+2.1- On choisit comme référence de l'énergie potentielle de pesanteur le plan horizontal auquel appartient G à l'équilibre : (Epp(O) = 0) et comme référence de l'énergie potentielle élastique l'état où le ressort est allongé à l'équilibre : (Epe(O) = 0). Trouver, à un instant t, l'expression de l'énergie potentielle Ep = Epp + Epe de l'oscillateur en fonction de x et de K. (0,25)
+
+2.2- A partir de l'étude énergétique, établir l'équation différentielle régie par l'abscisse x. (0,75)
+
+2.3- La solution de l'équation différentielle s'écrit sous la forme : x(t) = Xm.cos((2π/T0).t + φ). (T0 étant la période propre de l'oscillateur).
+
+La courbe de la figure 2 représente l'évolution de l'énergie potentielle Ep de l'oscillateur en fonction du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : Ep(mJ) en fonction de t(s) ; graduations 0,1 ; 0,2 s et 2,5 ; 5 mJ)
+
+2.3.1- Trouver la valeur de la raideur K, de l'amplitude Xm et de la phase φ. (0,75)
+
+2.3.2- Par étude énergétique, trouver l'expression de V0 en fonction de K, m et Xm. (0,5)
