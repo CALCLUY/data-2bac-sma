@@ -1,0 +1,71 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvements plans : Particule chargée dans un champ électrique (SM)
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Bac SM
+Séance 19-C (Mouvements plans : Particule chargée dans un champ électrique)
+Professeur : Mr EL GOUFIFA Jihad
+
+## II- Exercices
+
+### 2-1/ Exercice 1
+
+On applique entre deux plaques $\left(\right. P_{1} \left.\right)$ et $\left(\right. P_{2} \left.\right)$ une tension continue $U_{0} = 10^{4} V$.
+
+On fait introduire au point $A$ un électron avec une vitesse $v_{A} \simeq 0$ et on espère l'accélérer pour qu'il puisse arriver au point B avec une vitesse $v_{B}$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img20.bmp)
+
+1. Laquelle des deux plaques doit-on relier au pole positif du générateur pour qu'on puisse réaliser cette opération ? Justifier votre réponse.
+
+2. En utilisant le théorème de l'énergie mécanique, trouver l'expression de la vitesse $v_{B}$. Calculer sa valeur.
+
+Donnés : $e = 1 , 6 . 10^{- 19} C ; m_{e} = 9 , 1 . 10^{- 31} K g$
+
+### 2-2/ Exercice 2
+
+On considére deux plaques $\left(\right. P_{1} \left.\right)$ et $\left(\right. P_{2} \left.\right)$ parallèles entre eux et séparés d'une distance $d = 4 . 0 c m$ et ont chacune une longueur $\mathcal{l} = 10 c m$.
+
+Un faisceau homocinétique (même vitesse) d'électrons rentrent entre les plaques par le point $O$, avec la vitesse $V_{0} = 2 , 5 . 10^{3} K m / s$ et $\overset{\rightarrow}{V_{0}} = V_{0} . \overset{\rightarrow}{i}$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img21.bmp)
+
+Donnés : $e = 1 , 6 . 10^{- 19} C ; m_{e} = 9 , 1 . 10^{- 31} K g$
+
+1. Quelle est le signe de la tension $U$ qu'il faut appliquer entre $\left(\right. P_{1} \left.\right)$ et $\left(\right. P_{2} \left.\right)$ pour que le faisceau soit dévié vers le haut.
+
+2. En appliquant entre $\left(\right. P_{1} \left.\right)$ et $\left(\right. P_{2} \left.\right)$ une tension $U = 400 V$, trouver l'équation de la trajectoire d'un électron dans le repère orthonormé $R \left(\right. O , \overset{\rightarrow}{i} , \overset{\rightarrow}{ j} , \overset{\rightarrow}{k} \left.\right)$.
+
+### 2-3/ Exercice 3
+
+#### Sélecteur de la vitesse (Principe)
+
+Un sélecteur de vitesse est un appareil qui exploite simultanément le champ électrique $\overset{\rightarrow}{E}$ et le champ magnétique $\overset{\rightarrow}{B}$ pour séparer les ions selon leurs vitesses.
+
+Dans cet appareil le champ $\overset{\rightarrow}{E}$ est perpendiculaire au champ $\overset{\rightarrow}{B}$, de telle façon que la somme vectorielle de la force électrique $\overset{\rightarrow}{F_{e}}$ et la force magnétique Fm est égale au vecteur nul pour l'ion de vitesse désigné $\left(\overset{\rightarrow}{F_{e}} + \overset{\rightarrow}{F_{m}} = \overset{\rightarrow}{0}\right)$, c'est pourquoi cet ion suit un mouvement rectiligne uniforme selon le principe d'inertie pour sortir d'un trou $O$ percé dans l'appareil.
+
+Les autres ions pour lesquels $\left(\overset{\rightarrow}{F_{e}} + \overset{\rightarrow}{F_{m}} \neq \overset{\rightarrow}{0}\right)$ vont avoir des trajectoires quelconque pour rester à l'intérieur de l'appareil.
+
+#### Application
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img22.bmp)
+
+On dispose d'un appareil permettant de produire des ions du néon 22 $\_{10}^{22}N e^{+}$ et du néon 20 $\_{10}^{20}N e^{+}$ à partir des atomes du néon. Après la sortie de ces ions de la chambre d'ionisation du point $O_{1}$ avec une vitesse pratiquement nulle, ils sont accélérés par une tension $U$, ce qui leurs permet de s'introduire dans une chambre où règne un champ magnétique $\overset{\rightarrow}{B}$ uniforme et perpendiculaire à un autre champs électrique uniforme $\overset{\rightarrow}{E}$, avec une vitesse $\overset{\rightarrow}{v}$ perpendiculaire à $\overset{\rightarrow}{E}$ et $\overset{\rightarrow}{B}$ au même temps.
+
+On admet que le poids des ions $N e^{+}$ est négligeable devant la force électrostatique $\overset{\rightarrow}{F_{e}}$ et la force magnétique $\overset{\rightarrow}{F_{m}}$.
+
+1. Donner l'expression de la force $\overset{\rightarrow}{F_{e}}$ et $\overset{\rightarrow}{F_{m}}$ appliquées à chaque ion après leurs introduction dans la zone où règne $\overset{\rightarrow}{E}$ et $\overset{\rightarrow}{B}$. Représenter $\overset{\rightarrow}{F_{e}}$ et $\overset{\rightarrow}{F_{m}}$ sur un schéma.
+
+2. Calculer la vitesse des ions $\_{10}^{22}N e^{+}$ et $\_{10}^{20}N e^{+}$ lorsqu'ils arrivent au trou $O_{2}$.
+
+3. Trouver la valeur de l'intensité du champ électrique $\overset{\rightarrow}{E}$, pour que les ions $\_{10}^{22}N e^{+}$ puissent sortir seuls par le trou $O$ appartenant à l'axe $x ' x$.
+
+4. Quel est l'intérêt de cet appareil ?
+
+#### Donnés
+
+$e = 1 , 6 . 10^{- 19 C} ; M \left(\_{10}^{20}N e^{+}\right) = 20 g / m o l \\ \\ M \left(\_{10}^{22}N e^{+}\right) = 22 g / m o l ; u = 2 . 10^{4} V \\ \\ N_{A} = 6 , 02 . 10^{23} m o l^{- 1} ; B = 0 , 12 T$
