@@ -1,0 +1,331 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2016 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - المسالك الدولية – خيار فرنسية - الدورة الاستدراكية 2016 - الموضوع - مادة : الفيزياء والكيمياء - مسلك العلوم الرياضية (أ) و (ب) – المسالك الدولية (خيار فرنسية)
+RS 13 F - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+L'usage de la calculatrice scientifique non programmable est autorisé.
+
+Le sujet comporte 4 exercices : un exercice de chimie et trois exercices de physique.
+
+Chimie (7 points) :
+- Pile Aluminium-Zinc.
+- Synthèse d'un ester et réaction du benzoate de sodium avec un acide.
+
+Physique (13 points) :
+Les ondes (2,25 points) :
+- Propagation d'une onde ultrasonore.
+L'électricité (5,25 points) :
+- Dipôle RC et circuit LC.
+- Qualité d'une modulation d'amplitude.
+La mécanique (5,5 points) :
+- Action d'un champ électrostatique uniforme et d'un champ magnétique uniforme sur un faisceau d'électrons.
+- Mouvement d'un pendule élastique.
+
+## Chimie (7 points) : Les parties I et II sont indépendantes
+
+### Partie I : Etude de la pile Aluminium-Zinc
+
+Les piles électrochimiques sont l'une des applications des réactions d'oxydoréduction. Au cours de leur fonctionnement, une partie de l'énergie chimique produite par ces réactions est transformée en énergie électrique.
+
+On réalise la pile Aluminium-Zinc en plongeant une plaque d'aluminium dans un bécher contenant un volume V = 100 mL d'une solution aqueuse de chlorure d'aluminium (Al3+(aq) + 3Cl-(aq)) de concentration molaire initiale C1 = [Al3+(aq)]0 = 4,5.10-2 mol.L-1 et une plaque de zinc dans un autre bécher contenant un volume V = 100 mL d'une solution aqueuse de sulfate de zinc (Zn2+(aq) + SO42-(aq)) de concentration molaire initiale C2 = [Zn2+(aq)]0 = 4,5.10-2 mol.L-1.
+
+On relie les deux solutions par un pont salin. On monte entre les pôles de la pile, un conducteur ohmique (D), un ampèremètre et un interrupteur k (figure 1).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : bécher Al, bécher Zn, pont salin, conducteur ohmique (D), ampèremètre A, interrupteur k)
+
+Données :
+
+- La masse de la partie de la plaque d'aluminium immergée dans la solution de chlorure d'aluminium, à l'instant de la fermeture du circuit, est m0 = 1,35 g,
+- La masse molaire de l'aluminium M(Al) = 27 g.mol-1,
+- La constante de Faraday : 1F = 9,65.10^4 C.mol-1.
+
+La constante d'équilibre associée à la réaction :
+
+2 Al3+(aq) + 3 Zn(s) ⇄(1)/(2) 2 Al(s) + 3 Zn2+(aq)
+
+est K = 10-90 à 25 °C.
+
+On ferme l'interrupteur k à l'instant t = 0 ; un courant d'intensité considérée constante : I = 10 mA circule dans le circuit.
+
+1- Calculer le quotient de réaction Qri à l'état initial et en déduire le sens d'évolution spontanée du système chimique. (0,5)
+
+2- Représenter le schéma conventionnel de la pile étudiée en justifiant sa polarité. (0,5)
+
+3- Trouver, lorsque la pile est totalement épuisée :
+
+3-1- la concentration des ions aluminium dans la solution de chlorure d'aluminium. (0,75)
+
+3-2- la durée Δt du fonctionnement de la pile. (0,75)
+
+### Partie II : Synthèse d'un ester et réaction du benzoate de sodium avec un acide
+
+Le benzoate de sodium (C6H5COONa) est utilisé dans l'industrie alimentaire pour conserver les aliments et ce grâce à ses propriétés anti-bactériennes.
+
+On s'intéresse dans cette partie à l'étude de la synthèse d'un ester à partir de la réaction de l'acide benzoïque avec le méthanol et à l'étude de la réaction du benzoate de sodium (C6H5COO-(aq) + Na+(aq)) avec l'acide éthanoïque CH3COOH.
+
+Données :
+
+- A 25 °C : pKA1(C6H5COOH / C6H5COO-) = 4,2 ; pKA2(CH3COOH / CH3COO-) = 4,8,
+- La masse volumique du méthanol : ρ = 0,8 g.mL-1,
+- La masse molaire du méthanol : M(CH3OH) = 32 g.mol-1,
+- La masse molaire de l'acide benzoïque : M(C6H5COOH) = 122 g.mol-1.
+
+#### 1- Etude de la synthèse d'un ester
+
+Pour synthétiser un ester, on mélange dans un erlenmeyer une quantité d'acide benzoïque C6H5COOH de masse m = 12,2 g et un volume V = 8 mL de méthanol CH3OH. On ajoute au mélange quelques gouttes d'acide sulfurique concentré et quelques grains de pierre ponce. On chauffe le mélange à reflux à une température θ.
+
+1-1- Justifier le choix du chauffage à reflux. (0,25)
+
+1-2- Ecrire l'équation modélisant la réaction qui se produit. (0,5)
+
+1-3- La courbe de la figure 2 représente l'évolution de la quantité de matière d'ester formé au cours du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : n(mmol) en fonction de t(min) ; graduations 10, 20 min et 34, 82 mmol)
+
+1-3-1- Choisir la proposition juste parmi les propositions suivantes : (0,5)
+
+La vitesse volumique de la réaction d'estérification :
+
+a- est nulle au début de la réaction.
+b- est maximale à l'équilibre.
+c- est maximale au début de la réaction.
+d- diminue si la concentration de l'un des réactifs augmente.
+e- diminue si on ajoute un catalyseur au mélange réactionnel.
+
+1-3-2- Définir le temps de demi-réaction et déterminer sa valeur. (0,5)
+
+1-3-3- Déterminer le rendement de cette réaction. (0,5)
+
+#### 2- Etude de la réaction du benzoate de sodium avec l'acide éthanoïque
+
+On mélange à 25 °C, un volume V1 d'une solution aqueuse de benzoate de sodium (C6H5COO-(aq) + Na+(aq)) de concentration molaire C1 avec un volume V2 = V1 d'une solution aqueuse d'acide éthanoïque CH3COOH de concentration molaire C2 = C1.
+
+2-1- Ecrire l'équation modélisant la réaction qui se produit. (0,5)
+
+2-2- Montrer que la constante d'équilibre associée à cette réaction est K = 0,25. (0,5)
+
+2-3- Exprimer le taux d'avancement final τ de la réaction en fonction de K. (0,5)
+
+2-4- Trouver l'expression du pH du mélange réactionnel en fonction de pKA1 et τ. Calculer sa valeur. (0,5)
+
+## Physique (13 points)
+
+### Ondes : Propagation d'une onde ultrasonore (2,25 points)
+
+On trouve parmi les applications des ondes ultrasonores, l'exploration du relief des fonds marins et la localisation des regroupements de poissons, ce qui nécessite la connaissance de la vitesse de propagation de ces ondes dans l'eau de mer.
+
+Le but de cet exercice est de déterminer la vitesse de propagation d'une onde ultrasonore dans l'air et dans l'eau de mer.
+
+#### 1- Détermination de la vitesse de propagation d'une onde ultrasonore dans l'air
+
+On place un émetteur E d'ondes ultrasonores et deux récepteurs R1 et R2 comme l'indique la figure 1.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : émetteur E, récepteur 1 (R1, voie Y1), récepteur 2 (R2, voie Y2), distance d)
+
+L'émetteur E envoie une onde ultrasonore progressive sinusoïdale qui se propage dans l'air. Celle-ci est captée par les deux récepteurs R1 et R2.
+
+On visualise, à l'oscilloscope, sur la voie Y1 le signal capté par R1 et sur la voie Y2 le signal capté par R2.
+
+Lorsque les deux récepteurs R1 et R2 se trouvent à la même distance de l'émetteur E, les deux courbes correspondant aux signaux captés sont en phase (figure 2).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : oscillogramme, sensibilité horizontale SH = 10 μs.div-1)
+
+En éloignant R2 de R1, on constate que les deux courbes ne restent plus en phase.
+
+En continuant d'éloigner R2 de R1, on constate que les deux courbes se retrouvent à nouveau en phase et pour la quatrième fois, lorsque la distance entre les deux récepteurs R1 et R2 est d = 3,4 cm (figure 1).
+
+1-1- Choisir la proposition juste, parmi les propositions suivantes : (0,5)
+
+a- Les ondes ultrasonores sont des ondes électromagnétiques.
+b- Les ondes ultrasonores ne se propagent pas dans le vide.
+c- Le phénomène de diffraction ne peut pas être obtenu par les ondes ultrasonores.
+d- Les ondes ultrasonores se propagent dans l'air avec une vitesse égale à la célérité de la lumière.
+
+1-2- Déterminer la fréquence N de l'onde ultrasonore étudiée. (0,25)
+
+1-3- Vérifier que la vitesse de propagation de l'onde ultrasonore dans l'air est Va = 340 m.s-1. (0,5)
+
+#### 2- Détermination de la vitesse de propagation d'une onde ultrasonore dans l'eau de mer
+
+L'émetteur envoie l'onde ultrasonore précédente dans deux tubes, l'un contenant de l'air l'autre étant rempli d'eau de mer (figure 3).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : émetteur E, tube d'air avec récepteur 1 (R1, Y1), tube d'eau de mer avec récepteur 2 (R2, Y2), distance ℓ)
+
+Le récepteur R1 capte l'onde qui se propage dans l'air et le récepteur R2 capte l'onde qui se propage dans l'eau de mer.
+
+Soient Δt le retard temporel de réception de l'onde qui se propage dans l'air par rapport à celle qui se propage dans l'eau de mer et ℓ la distance entre l'émetteur et les deux récepteurs.
+
+En mesurant le retard Δt pour différentes distances entre l'émetteur et les deux récepteurs (figure 3), on obtient la courbe de la figure 4.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : Δt(ms) en fonction de ℓ(m) ; abscisses 0,2 ; 0,4 m ; ordonnées 1 ; 2 ms)
+
+2-1- Exprimer Δt en fonction de ℓ, Va et Ve vitesse de propagation de l'onde dans l'eau de mer. (0,5)
+
+2-2- Déterminer la valeur de Ve. (0,5)
+
+### Electricité : (5,25 points) Les parties I et II sont indépendantes
+
+#### Partie I : Etude du dipôle RC et du circuit LC
+
+Les circuits RC, RL et RLC sont utilisés dans les montages électroniques des appareils électriques. On se propose, dans cette partie, d'étudier le dipôle RC et le circuit LC.
+
+Le montage électrique schématisé sur la figure 1 comporte :
+
+- un générateur idéal de tension de f.e.m E,
+- deux condensateurs de capacité C1 et C2 = 2 μF,
+- un conducteur ohmique de résistance R = 3 kΩ,
+- une bobine d'inductance L et de résistance négligeable,
+- un interrupteur K à double position.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : générateur E, interrupteur K positions (1) et (2), résistance R (uR(t)), condensateurs C1 (u1(t)) et C2 (u2(t)), bobine L (uL(t)), courant i)
+
+1- Etude du dipôle RC
+
+On place l'interrupteur K dans la position (1) à un instant pris comme origine des dates (t = 0).
+
+1-1- Montrer que la capacité Ce du condensateur équivalent aux deux condensateurs associés en série est : Ce = C1.C2/(C1 + C2). (0,5)
+
+1-2- Montrer que l'équation différentielle vérifiée par la tension u2(t) entre les bornes du condensateur de capacité C2 s'écrit : du2(t)/dt + (1/(R.C2)).u2(t) = E/(R.Ce). (0,5)
+
+1-3- La solution de cette équation différentielle s'écrit sous la forme : u2(t) = A.(1 − e^(−αt)). Déterminer l'expression de A et celle de α en fonction des paramètres du circuit. (0,5)
+
+1-4- Les courbes de la figure 2, représentent l'évolution des tensions u2(t) et uR(t). La droite (T) représente la tangente à la courbe représentant u2(t) à l'instant t = 0.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : U(V) en fonction de t(ms) ; graduations 2, 4 ms et 2, 4 V ; courbes uR(t), u2(t) et tangente (T))
+
+1-4-1- Déterminer la valeur de :
+
+a- E. (0,25)
+
+b- u2(t) et celle de u1(t) en régime permanent. (0,25)
+
+1-4-2- Montrer que C1 = 4 μF. (0,5)
+
+2- Etude des oscillations électriques dans le circuit LC
+
+Lorsque le régime permanent est établi, on bascule l'interrupteur K à la position (2) à un instant pris comme nouvelle origine des dates (t = 0).
+
+2-1- Montrer que l'équation différentielle vérifiée par la tension uL(t) entre les bornes de la bobine s'écrit : d²uL(t)/dt² + (1/(L.C2)).uL(t) = 0. (0,5)
+
+2-2- La courbe de la figure 3 représente les variations de la tension uL(t) en fonction du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : uL en fonction de t ; sensibilités 4 V et 0,5 ms)
+
+2-2-1- Déterminer l'énergie totale Et du circuit. (0,5)
+
+2-2-2- Calculer l'énergie magnétique Em emmagasinée dans la bobine à l'instant t = 2,7 ms. (0,5)
+
+#### Partie II : Etude de la qualité d'une modulation d'amplitude
+
+La modulation d'amplitude est obtenue en utilisant un circuit intégré multiplieur.
+
+On applique à l'entrée E1 du circuit intégré multiplieur une tension p(t) qui correspond au signal porteur, et à l'entrée E2 la tension s(t) + U0 avec s(t) la tension correspondant au signal modulant à transmettre et U0 la composante continue (figure 4).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : multiplieur, entrées E1 (p(t)) et E2 (s(t) + U0), sortie S (u(t)))
+
+On obtient à la sortie S du circuit la tension u(t) correspondant au signal modulé en amplitude. L'expression de cette tension est : u(t) = k.p(t).(s(t) + U0) où s(t) = Sm.cos(2πfSt) et p(t) = Pm.cos(2πfpt) et k une constante qui caractérise le circuit intégré multiplieur.
+
+1- La tension modulée en amplitude peut s'écrire sous la forme : u(t) = A[(m/Sm).s(t) + 1].cos(2πfpt) avec A = k.Pm.U0 et m = Sm/U0 le taux de modulation.
+
+Trouver l'expression du taux de modulation m en fonction de Umax et Umin avec Umax la valeur maximale de l'amplitude de u(t) et Umin la valeur minimale de son amplitude. (1)
+
+2- Quand aucune tension n'est appliquée sur l'oscilloscope, les traces du spot sont confondues avec l'axe médian horizontal de l'écran. On visualise la tension u(t) et on obtient l'oscillogramme de la figure 5.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 5 : oscillogramme de u(t) ; sensibilité horizontale 20 μs.div-1 ; sensibilité verticale 1 V.div-1)
+
+- Sensibilité horizontale 20 μs.div-1 ;
+- Sensibilité verticale : 1 V.div-1.
+
+Déterminer fp, fs et m. Que peut-on en déduire à propos de la qualité de la modulation ? (1)
+
+### Mécanique : (5,5 points) Les parties I et II sont indépendantes
+
+#### Partie I : Etude de l'action d'un champ électrostatique uniforme et d'un champ magnétique uniforme sur un faisceau d'électrons
+
+J.J. Thomson, physicien anglais, étudia l'action d'un champ électrostatique uniforme et l'action d'un champ magnétique uniforme sur un faisceau d'électrons homocinétiques de vitesse V0, pour déterminer la charge massique e/m de l'électron avec m la masse de l'électron et e la charge élémentaire.
+
+On se propose dans cette partie de déterminer ce rapport en se basant sur deux expériences.
+
+On considère que le mouvement de l'électron se fait dans le vide et que son poids n'a pas d'influence sur le mouvement.
+
+1- Expérience 1 :
+
+Un faisceau d'électrons produit par un canon à électrons arrivant en O avec la vitesse V⃗0 = V0.i⃗ est alors soumis, au cours de son mouvement le long de la distance d, à l'action d'un champ électrostatique E⃗ uniforme créé par deux plaques planes (P) et (P') orthogonales au plan (xOy) et distantes de ℓ (figure 1).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : plaques (P) et (P') distantes de ℓ, longueur d, point O, vitesse V⃗0, point de sortie S, tangente (T), point I, écran fluorescent, points O' et M, distance D, repère (O, i⃗, j⃗, k⃗))
+
+On désigne par U = VP − VP' la différence de potentiel entre (P) et (P') et par D la distance du point I à l'écran fluorescent.
+
+Le mouvement de l'électron est étudié dans le repère orthonormé R(O, i⃗, j⃗, k⃗) associé à un référentiel terrestre supposé galiléen.
+
+On prend l'instant où l'électron passe par O comme origine des dates (t = 0).
+
+1-1- Montrer que l'équation de la trajectoire du mouvement de l'électron dans le repère R(O, i⃗, j⃗, k⃗) s'écrit : y = (eU/(2mℓV0²)).x². (0,5)
+
+1-2- Le faisceau d'électrons sort du champ électrostatique en un point S. Il poursuit son mouvement et heurte l'écran fluorescent en un point M. La droite (T) représente la tangente à la trajectoire au point S (figure 1).
+
+Montrer que la déviation électrique O'M d'un électron s'écrit : O'M = eDdU/(mℓV0²). (0,5)
+
+2- Expérience 2 : Le faisceau d'électrons arrivant en O avec la vitesse V⃗0 = V0.i⃗ est soumis en plus du champ électrostatique précédent à un champ magnétique uniforme B⃗ orthogonal à E⃗.
+
+On fixe l'intensité du champ magnétique sur la valeur B = 1,01 mT, le faisceau d'électrons heurte alors l'écran au point O'.
+
+2-1- Déterminer le sens du vecteur champ magnétique B⃗. (0,25)
+
+2-2- Exprimer la vitesse des électrons en fonction de E et B. (0,5)
+
+3- Déduire l'expression de e/m en fonction de B, U, D, ℓ, d et O'M. Calculer e/m sachant que : O'M = 5,4 cm ; D = 30 cm ; U = 1200 V ; ℓ = 2 cm ; d = 6 cm. (0,75)
+
+#### Partie II : Etude du mouvement d'un pendule élastique
+
+Un oscillateur mécanique vertical est constitué d'un corps solide S de masse m = 200 g et d'un ressort à spires non jointives de masse négligeable et de raideur K. L'une des extrémités du ressort est fixée à un support fixe et l'autre extrémité est liée au solide S (figure 2).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : ressort vertical, solide S, centre d'inertie G, axe (O, k⃗), côte z)
+
+On se propose d'étudier le mouvement du centre d'inertie G du solide S dans un repère R(O, k⃗) lié à un référentiel terrestre supposé galiléen.
+
+On repère la position de G à un instant t par la côte z sur l'axe (O, k⃗). A l'équilibre, G est confondu avec l'origine O du repère R(O, k⃗). On prendra π² = 10.
+
+1- Frottements négligeables
+
+On écarte verticalement le solide S de sa position d'équilibre et on l'envoie à l'instant de date t = 0, avec une vitesse initiale V⃗0 = V0z.k⃗.
+
+La courbe de la figure 3 représente l'évolution de la côte z(t) du centre d'inertie G.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : z(cm) en fonction de t(s) ; graduations 0,1 ; 0,2 s et −2 ; 2 cm)
+
+1-1- Déterminer, à l'équilibre, l'allongement Δℓ0 du ressort en fonction de m, K et de l'intensité de la pesanteur g. (0,5)
+
+1-2- Etablir l'équation différentielle vérifiée par la côte z du centre d'inertie G. (0,5)
+
+1-3- La solution de cette équation différentielle s'écrit z = zm.cos((2π/T0).t + φ) avec T0 la période propre de l'oscillateur.
+
+Déterminer la valeur de K et celle de V0z. (0,5)
+
+2- Frottements non négligeables
+
+On réalise deux expériences en plongeant l'oscillateur dans deux liquides différents. Dans chaque expérience, on écarte verticalement le solide S de sa position d'équilibre d'une distance z0 et on l'abandonne sans vitesse initiale à l'instant t = 0, le solide S oscille alors à l'intérieur du liquide.
+
+Les courbes (1) et (2) de la figure 4 représentent l'évolution de la côte z du centre d'inertie G au cours du temps dans chaque liquide.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : z(cm) en fonction de t(s) ; sensibilités 1 cm et 0,2 s ; courbes (1) et (2))
+
+2-1- Associer à chaque courbe le régime d'amortissement correspondant. (0,25)
+
+2-2- On choisit le plan horizontal auquel appartient le point O, origine du repère R(O, k⃗), comme état de référence de l'énergie potentielle de pesanteur (Epp = 0) et l'état où le ressort est non déformé comme état de référence de l'énergie potentielle élastique (Epe = 0).
+
+Pour les oscillations correspondant à la courbe (1) :
+
+2-2-1- Trouver, à un instant de date t, l'expression de l'énergie potentielle Ep = Epp + Epe en fonction de K, z et Δℓ'0 l'allongement du ressort à l'équilibre dans le liquide. (0,5)
+
+2-2-2- Calculer la variation de l'énergie mécanique de l'oscillateur entre les instants t1 = 0 et t2 = 0,4 s. (0,75)
