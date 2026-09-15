@@ -1,0 +1,355 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2010 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2010 - الموضوع - مادة : الفيزياء والكيمياء
+RS31 - الصفحة 1/7
+
+المعامل : 7
+مدة الإنجاز : 4
+
+L'usage des calculatrices programmables ou d'ordinateurs n'est pas autorisé
+
+Ce sujet comporte un exercice de chimie et trois exercices de physique
+
+CHIMIE (4 points) - Etude de l'acidité de deux solutions acides
+(3 points) - Argenture par électrolyse
+PHYSIQUE 1 (1,75 points) Détermination du diamètre d'un fil fin
+PHYSIQUE 2 (2 points) - Etude d'un oscillateur électrique libre
+(3,25 points) - Modulation d'amplitude
+PHYSIQUE 3 (3 points) - Séparation des isotopes d'un élément chimique
+(3 points) - Etude énergétique d'un pendule pesant
+
+## CHIMIE (7 points) : Les deux parties sont indépendantes
+
+### 1ère partie (4 points) Etude de l'acidité de deux solutions acides
+
+Cet exercice a pour but d'étudier la solution d'acide benzoïque et de comparer son acidité à celle de l'acide salicylique.
+
+#### 1- Etude de la solution d'acide benzoïque
+
+L'acide benzoïque est un solide blanc de formule C6H5COOH, il est utilisé comme conservateur alimentaire et il est naturellement présent dans certaines plantes.
+
+Pour simplifier, on symbolise l'acide benzoïque par HA1.
+
+Données :
+
+Masse molaire moléculaire de l'acide HA1 : M(HA1) = 122 g.mol-1
+
+Produit ionique de l'eau à 25°C : Ke = 10-14
+
+On dissout une masse m = 305 mg de l'acide benzoïque dans de l'eau distillée pour obtenir une solution aqueuse SA de volume V = 250 mL.
+
+La mesure du pH de la solution SA donne pH = 3,10.
+
+1.1- Calculer la concentration molaire CA de la solution SA. (0,5)
+
+1.2- Ecrire l'équation de la réaction de l'acide benzoïque avec l'eau. (0,25)
+
+1.3- Exprimer la constante pKA du couple HA1/A1- en fonction de CA et τ, le taux d'avancement final de la réaction d'acide benzoïque avec l'eau. (0,5)
+
+1.4- Calculer le pKA et déduire l'espèce chimique prédominante dans la solution SA sachant que τ = 7,94%. (0,5)
+
+#### 2- Réaction entre une solution d'acide benzoïque et une solution d'hydroxyde de sodium
+
+On mélange un volume VA = 40,0 mL de la solution SA de l'acide benzoïque avec un volume VB = 5,00 mL d'une solution SB d'hydroxyde de sodium de concentration molaire CB = 2,50.10-2 mol.L-1.
+
+La mesure du pH du mélange obtenu donne pH = 3,80.
+
+2.1- Ecrire l'équation de la réaction qui a lieu. (0,25)
+
+2.2- Calculer la quantité de matière n(HO-)f qui se trouve dans le mélange à l'état final. (0,75)
+
+2.3- En déduire le taux d'avancement final de la réaction. On peut utiliser le tableau d'avancement du système (On néglige les ions HO- provenant de l'eau) (0,5)
+
+#### 3- Comparaison de l'acidité de deux solutions
+
+On prépare une solution (S1) d'acide benzoïque et une solution (S2) d'acide salicylique ayant la même concentration molaire C, et on mesure la conductivité de chacune d'elle, on trouve alors :
+
+- Pour la solution (S1) : σ1 = 2,36.10-2 S.m-1 ;
+- Pour la solution (S2) : σ2 = 0,86.10-2 S.m-1
+
+On symbolise l'acide salicylique par HA2.
+
+On rappelle l'expression de la conductivité d'une solution ionique : σ = Σ λi.[Xi] dont λi est la conductivité molaire ionique de l'ion Xi et [Xi] la concentration de cet ion dans la solution.
+
+Données :
+
+λ(H3O+) = 35,0.10-3 S.m2.mol-1
+
+λ(A-1) = 3,20.10-3 S.m2.mol-1
+
+λ(A-2) = 3,62.10-3 S.m2.mol-1
+
+On néglige la contribution des ions HO- à la conductivité de la solution.
+
+On symbolise le taux d'avancement final de la réaction de l'acide benzoïque avec l'eau par τ1 et le taux d'avancement final de la réaction de l'acide salicylique avec l'eau par τ2.
+
+Calculer le rapport τ2/τ1.
+
+Que peut-on déduire à propos des acidités des solutions (S1) et (S2) ? (0,75)
+
+### 2eme partie : (3 points) Argenture par électrolyse
+
+L'électrolyse est utilisé pour recouvrir les métaux avec une couche mince d'un autre métal, comme le zingage ou l'argenture…, pour les protéger de la corrosion ou pour améliorer son aspect.
+
+Données :
+
+La masse volumique de l'argent : ρ = 10,5 g.cm-3 ;
+
+La masse molaire de l'argent M(Ag) = 108 g.mol-1 ;
+
+Le volume molaire dans les conditions de l'expérience VM = 25 L.mol-1 ;
+
+1F = 9,65.10^4 C.mol-1.
+
+On veut argenter une assiette métallique de surface totale S = 190,5 cm² en couvrant sa surface avec une couche mince d'argent de masse m et d'épaisseur e = 20μm.
+
+Pour atteindre cet objectif, on réalise une électrolyse dont l'assiette constitue l'une des électrodes.
+
+Le deuxième électrode est une tige en platine inattaquable dans les conditions de l'expérience.
+
+L'électrolyte utilisé est une solution aqueuse de nitrate d'argent (Ag+(aq) + NO3-(aq)) de volume V = 200 mL (voir figure).
+
+[FORMULA_IMAGE_UNREADABLE] (schéma : générateur G, assiette, électrode en platine, solution (Ag+(aq) + NO3-(aq)))
+
+Seuls les couples Ag+(aq)/Ag(s) et O2(g)/H2O(ℓ) interviennent dans cet électrolyse.
+
+1- L'assiette doit être l'anode ou la cathode ? (0,25)
+
+2- Ecrire l'équation bilan de l'électrolyse. (0,5)
+
+3- Calculer la masse m de la couche d'épaisseur e déposée sur la surface de l'assiette. (0,5)
+
+4- Quelle est la concentration molaire initiale minimale nécessaire de la solution de nitrate d'argent ? (0,5)
+
+5- L'électrolyse a lieu pendant une durée Δt = 30,0 min avec un courant d'intensité constante.
+
+5.1- Dresser le tableau d'avancement de la transformation qui a lieu au niveau de la cathode, et déduire l'expression de l'intensité du courant I en fonction de m, M(Ag), F et Δt. Calculer la valeur de I. (0,75)
+
+5.2- Calculer le volume V(O2) du dioxygène formé pendant Δt. (0,5)
+
+## PHYSIQUE 1 (1,75 points) Détermination du diamètre d'un fil fin
+
+Lorsque la lumière rencontre un obstacle, elle ne se propage plus en ligne droite, il se produit le phénomène de diffraction. ce phénomène peut être utilisé pour déterminer le diamètre d'un fil très fin.
+
+Données :
+
+La célérité de la lumière dans l'air est c = 3,00.10^8 m.s-1.
+
+L'écart angulaire θ entre le centre de la tache centrale et la 1ère extinction lors de la diffraction par une fente ou par un fil est exprimé par la relation θ = λ/a dont λ est la longueur d'onde et a la largeur de la fente ou le diamètre du fil.
+
+### 1- Diffraction de la lumière
+
+On réalise une expérience de diffraction à l'aide d'une lumière monochromatique de fréquence ν = 4,44.10^14 Hz.
+
+On place à quelques centimètres de la source lumineuse une fente verticale de largeur a.
+
+La figure de diffraction est observée sur un écran vertical placé à une distance D = 50,0 cm de la fente.
+
+La figure de diffraction est constituée d'une série de taches situées sur une perpendiculaire à la fente, figure (1).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : source lumineuse, fente, distance D, écran, largeur L1)
+
+La tache centrale est plus éclairée et plus large que les autres, sa largeur est L1 = 6,70.10-1 cm.
+
+1.1- Quel est la nature de la lumière que montre cette expérience ? (0,25)
+
+1.2- Trouver l'expression de a en fonction de L1, D, ν et c. Calculer a. (0,5)
+
+2- On place entre la fente et l'écran un bloc de verre de forme parallélépipédique comme l'indique la figure (2).
+
+L'indice de réfraction du verre pour la lumière monochromatique utilisée est n = 1,61.
+
+On observe sur l'écran que la largeur de la tache lumineuse centrale prend une valeur L2.
+
+Trouver l'expression de L2 en fonction de L1 et n. (0,5)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : fente, bloc de verre, distance D, largeur L2)
+
+### 3- Détermination du diamètre du fil de la toile d'araignée
+
+On garde la source lumineuse et l'écran à leur place. On enlève le bloc de verre et on remplace la fente par un fil rectiligne vertical de la toile d'araignée. On mesure la largeur de la tache centrale sur l'écran, on trouve alors L3 = 1,00 cm.
+
+Déterminer le diamètre du fil de toile d'araignée. (0,5)
+
+## PHYSIQUE 2 (5,25 points) Les deux parties sont indépendantes
+
+### 1ère partie (2 points) : Etude d'un oscillateur électrique libre
+
+On charge un condensateur de capacité C = 10μF sous une tension continue U = 6V. On le branche aux bornes d'une bobine d'inductance L et de résistance négligeable, figure (1).
+
+On ferme l'interrupteur K à l'instant t = 0.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : circuit C, L, K, courant i)
+
+1- Etablir l'équation différentielle vérifiée par la charge q(t) du condensateur. (0,5)
+
+2- La solution de l'équation différentielle s'écrit sous la forme : q = Qm cos((2π/T0) t), dont T0 est la période propre de l'oscillateur (LC).
+
+Calculer Qm et trouver l'expression de T0 en fonction des paramètres du circuit. (0,25 / 0,25)
+
+3- 3.1- Monter que le rapport de l'énergie électrique Ee emmagasinée dans le condensateur et l'énergie totale E du circuit s'écrit à un instant t sous la forme : Ee/E = cos²((2π/T0) t). (0,75)
+
+3.2- Compéter le tableau suivant, après l'avoir copié sur votre copie, en calculant le rapport Ee/E :
+
+| L'instant t | 0 | T0/8 | T0/4 | 3T0/8 | T0/2 |
+| --- | --- | --- | --- | --- | --- |
+| Le rapport Ee/E | | | | | |
+
+Déduire la période T de l'échange d'énergie entre le condensateur et la bobine en fonction de T0. (0,75 / 0,25)
+
+### 2eme partie (3,25 points) : communication par les ondes électromagnétiques
+
+Lors d'une communication, la voix est convertie en signal électrique par un microphone, grâce à un système de conversion numérique et d'amplification.
+
+Le signal électrique est porté par une onde porteuse qui après amplification est émise vers l'antenne la plus proche.
+
+L'antenne transmet le signal à une station base qui l'envoie alors à une centrale, par ligne téléphonique conventionnelle ou par les ondes électromagnétiques.
+
+De là sont acheminées les conversations vers le téléphone du destinataire.
+
+#### 1- émission d'une onde électromagnétique par un portable
+
+Les ondes électromagnétiques sont utilisées par la télévision, La radio et les radars. Si bien que la gamme de fréquence restant pour les portables sont de plus en plus restreints : l'une d'entre elles s'étend de 900 à 1800 MHz.
+
+Données : La célérité des ondes électromagnétiques dans le vide et dans l'air : c = 3,00.10^8 m.s-1 ; 1MHz = 10^6 Hz.
+
+1.1- Calculer la durée que met une onde électromagnétique de fréquence f = 900 MHz pour parcourir la distance M1M2 = 1 km séparant le téléphone et l'antenne, figure (2). (0,25)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : téléphone M1, antenne M2, station base, station centrale)
+
+1.2- Que signifie l'expression « l'air est un milieu dispersif pour les ondes électromagnétiques » ? (0,25)
+
+1.3- On peut représenter la chaine d'émission par le schéma de la figure (3).
+
+En quel point A ou B ou C de la figure (3) trouve-t-on :
+
+a- L'onde porteuse ? (0,25)
+
+b- Le signal modulant ? (0,25)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : microphone (A), oscillateur de haute fréquence (B), circuit intégré multiplieur (C), amplificateur, antenne émettrice)
+
+#### 2- Modulation d'amplitude
+
+Le circuit de modulation est constitué d'un composant nommé multiplieur qui possède deux entrées E1 et E2 et une sortie S, figure (4).
+
+Pour simuler la modulation d'amplitude, on applique :
+
+- à l'entrée E1 le signal u1(t) = u(t) + U0 dont u(t) = Um cos(2π.f.t) est le signal modulant et U0 tension continue de décalage.
+- à l'entrée E2 le signal porteur u2(t) = v(t) = Vm cos(2π F.t).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : multiplieur X, entrées E1 u1(t), E2 u2(t) = v(t), sortie S s(t))
+
+Le circuit intégré X donne une tension modulée proportionnelle au produit des deux tensions, s(t) = k.u1(t).u2(t) où k est une constante dépendant uniquement du circuit intégré.
+
+s(t) s'écrit sous la forme : s(t) = Sm cos(2π F t).
+
+2.1- Montrer que Sm, amplitude du signal modulé, peut se mettre sous la forme Sm = A[m.cos(2π.f.t) + 1] en précisant l'expression du taux de modulation m et celle de la constante A. (0,5)
+
+2.2- Le graphe représenté sur la figure (5) donne l'allure de la tension modulée en fonction du temps.
+
+Déterminer à partir de ce graphe :
+
+a- la fréquence F de l'onde porteuse. (0,25)
+
+b- La fréquence f du signal modulant. (0,25)
+
+c- L'amplitude minimale Sm(min) et l'amplitude maximale Sm(max) du signal modulé. (0,5)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 5 : oscillogramme de la tension modulée ; Sensibilité verticale : 1V/div ; Sensibilité horizontale : 0,25 ms/div)
+
+2.3- Donner l'expression du taux de modulation en fonction de Sm(min) et Sm(max). Calculer la valeur de m. (0,5)
+
+2.4- La modulation effectuée est-elle de bonne qualité ? Justifier. (0,25)
+
+## PHYSIQUE 3 : (6 points)
+
+### 1ère partie (3 points) : Séparation des isotopes d'un élément chimique
+
+La spectrométrie de masse est une technique de détection extrêmement sensible.
+
+A l'origine, elle servait à détecter les différents isotopes d'un élément chimique, mais actuellement elle est utilisée pour étudier la structure des espèces chimiques.
+
+On veut séparer les deux isotopes du zinc à l'aide d'un spectrographe de masse. La chambre d'ionisation produit les ions 68Zn2+ et AZn2+ de masse respective m1 et m2.
+
+Ces ions sont accélérés dans le vide entre deux plaques métalliques parallèles (P1) et (P2) à l'aide d'une tension constante de valeur U = 1,00.10^3 V, figure (1).
+
+On suppose que les ions quittent la chambre d'ionisation en P1 sans vitesse initiale.
+
+On néglige le poids des ions devant les autres forces.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : chambre d'ionisation, plaques (P1) et (P2), point O, axes x, y, z, champ B, plaque photographique, points C et C')
+
+Données : la charge élémentaire e = 1,60.10-19 C.
+
+La masse d'un proton est égale à la masse d'un neutron : mp = mn = m = 1,67.10-27 kg.
+
+1- Quelle est la plaque qui doit être portée au potentiel le plus élevé ? (0,25)
+
+2- Montrer que les deux ions 68Zn2+ et AZn2+ possèdent la même énergie cinétique au point O. (0,25)
+
+3- Exprimer la vitesse v1 de l'ion 68Zn2+ au point O en fonction de U, e et m.
+En déduire l'expression de la vitesse v2 de l'ion AZn2+ au même point O en fonction de v1 et A. (0,5)
+
+4- A l'instant t = 0, les ions 68Zn2+ et AZn2+ pénètrent ensuite dans une région où règne un champ magnétique uniforme orthogonal au plan de la figure d'intensité B = 0,10 T.
+
+Ces ions 68Zn2+ et AZn2+ sont déviés et heurtent la plaque photographique respectivement aux points C et C'.
+
+4.1- Indiquer sur un schéma le sens du vecteur B⃗. Justifier la réponse (0,25)
+
+4.2- Montrer que le mouvement des ions Zn2+ a lieu dans le plan (O, x, y) (0,5)
+
+4.3- Déterminer la nature du mouvement des ions Zn2+ dans le champ B⃗. (0,5)
+
+4.4- On donne CC' = 8,00 mm. Déduire la valeur de A. (0,75)
+
+### 2eme Partie (3 points) : Etude énergétique d'un pendule pesant
+
+On considère un pendule pesant effectuant des oscillations libres non amorties.
+
+Le pendule étudié est une tige AB homogène de masse m et de longueur AB = ℓ = 60,0 cm pouvant tourner dans un plan vertical autour d'un axe (Δ) horizontal passant par son extrémité A, figure (2).
+
+Le moment d'inertie de la tige par rapport à l'axe (Δ) est JΔ = (1/3) m.ℓ².
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : tige AB, axe (Δ) en A, centre d'inertie G, position d'équilibre G0, angle θ)
+
+On étudie le mouvement du pendule dans un repère lié au référentiel terrestre que l'on suppose galileen.
+
+On repère à chaque instant la position du pendule par l'abscisse angulaire θ qui est l'angle que fait la tige avec la verticale passant par A.
+
+On choisit le plan horizontal passant par G0, position du centre d'inertie de la tige AB dans la position d'équilibre stable, comme état de référence pour l'énergie potentielle de pesanteur (Ep = 0).
+
+On admet dans le cas de faibles oscillations que cos θ ≈ 1 − θ²/2 avec θ en radian et on prend g = 9,80 m.s-2.
+
+#### 1- Equation différentielle du mouvement du pendule
+
+1.1- Montrer que l'expression de l'énergie potentielle de pesanteur Ep de la tige peut s'écrire sous la forme Ep = m.g.(ℓ/2)(1 − cos θ). (0,5)
+
+1.2- Dans le cas de faibles oscillations, écrire l'expression de l'énergie mécanique Em de la tige à un instant t en fonction de m, ℓ, g, θ et dθ/dt. (0,5)
+
+1.3- Déduire l'équation différentielle vérifiée par l'abscisse angulaire θ dans le cas de faibles oscillations. (0,5)
+
+#### 2- Etude énergétique
+
+On lance la tige AB à partir de sa position d'équilibre stable avec une vitesse initiale qui lui permet d'acquérir une énergie mécanique Em.
+
+La figure 3 donne le diagramme de l'évolution de l'énergie potentielle Ep et de l'énergie mécanique Em de la tige AB pour deux expériences différentes. Dans chaque expérience la tige est lancée à partir de sa position d'équilibre stable avec une vitesse initiale donnée ; elle acquiert dans chaque expérience une énergie mécanique donnée :
+
+- dans l'expérience (1) : Em = Em1
+- dans l'expérience (2) : Em = Em2
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : Ep(J) et Em(J) en fonction de θ (rad) ; droites Em1 et Em2)
+
+2.1- Déterminer à l'aide du graphe, de la figure (3), la nature du mouvement de la tige dans chaque expérience. (0,25)
+
+2.2- Préciser à partir du graphe la valeur maximale de l'abscisse angulaire du pendule dans l'expérience (1).
+En déduire la masse m de la tige. (0,5)
+
+2.3- Au cours de l'expérience (2), l'énergie cinétique de la tige varie entre une valeur minimale Ec(min) et une valeur maximale Ec(max).
+Trouver la valeur de Ec(min) et celle de Ec(max). (0,75)
