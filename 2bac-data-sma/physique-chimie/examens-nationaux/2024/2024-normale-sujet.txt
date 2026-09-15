@@ -1,0 +1,312 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2024 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2024 - الموضوع
+NS 31
+المادة: الفيزياء والكيمياء
+شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+مدة الإنجاز: 4h
+المعامل: 7
+
+* L'usage de la calculatrice scientifique non programmable est autorisé.
+* La formule littérale doit être donnée avant l'application numérique et le résultat accompagné de son unité.
+* Les exercices peuvent être traités séparément selon le choix du candidat(e).
+
+Le sujet comporte quatre exercices : un exercice de chimie et trois exercices de physique.
+
+Exercice 1 : Chimie (7 points)
+- Partie 1 : Etude d'une solution aqueuse d'acide carboxylique.
+- Partie 2 : Etude d'une pile nickel-cobalt.
+
+Exercice 2 : Ondes + transformations nucléaires (4 points)
+- Partie 1 : Etude de la diffraction de la lumière.
+- Partie 2 : La radioactivité du polonium.
+
+Exercice 3 : Electricité (4 points)
+- Partie 1 : Etude d'un dipôle RC.
+- Partie 2 : Etude des oscillations forcées dans un circuit RLC série.
+
+Exercice 4 : Mécanique (5 points)
+- Partie 1 : Mouvement d'un système mécanique.
+- Partie 2 : Mouvement d'un pendule élastique.
+
+## Exercice 1 : Chimie (7 points)
+
+Les deux parties 1 et 2 sont indépendantes
+
+### Partie 1 : Etude d'une solution aqueuse d'acide carboxylique
+
+Dans le laboratoire d'un lycée, se trouve un flacon contenant une solution (S0) d'acide carboxylique pur noté AH de formule générale CnH2n+1COOH où n est un entier naturel.
+
+On veut déterminer la formule chimique de cet acide carboxylique et le pKA du couple AH/A- afin d'étudier sa réaction avec une solution aqueuse de méthanoate de sodium Na+(aq) + HCOO-(aq).
+
+Données : les masses molaires : M(C) = 12 g.mol-1 ; M(O) = 16 g.mol-1 ; M(H) = 1 g.mol-1.
+
+1- Détermination du pKA du couple AH/A- et de la formule chimique de l'acide AH
+
+On prépare une solution (SA) de l'acide AH en dissolvant dans l'eau distillée une masse m = 1,5 g de cet acide pur, le volume de la solution obtenue est V = 500 mL. On prend un volume VA = 20 mL de la solution (SA) que l'on dose avec une solution aqueuse (SB) d'hydroxyde de sodium Na+(aq) + HO-(aq) de concentration molaire CB = 3,4.10-2 mol.L-1. Le suivi pH-métrique a permis d'obtenir la courbe pH = f(VB) représentant l'évolution du pH du mélange réactionnel en fonction de VB, le volume d'hydroxyde de sodium versé (figure 1).
+
+[Figure 1 : pH en fonction de VB(mL) ; repères 0, 10, 20 et 3, 6.]
+
+1-1- (0,25 pt) Ecrire l'équation de la réaction du dosage.
+
+1-2- (0,75 pt) Montrer, en utilisant le tableau d'avancement de la réaction, que l'expression du volume VB s'écrit :
+VB = VBE.10^(pH − pKA) / (1 + 10^(pH − pKA))
+avec VBE le volume d'hydroxyde de sodium versé à l'équivalence et 0 < VB < VBE.
+
+1-3- (0,5 pt) Trouver la relation entre VB et VBE pour que la relation pH = pKA soit vérifiée. Déduire graphiquement la valeur du pKA.
+
+1-4- (0,5 pt) Déterminer CA la concentration molaire de la solution (SA).
+
+1-5- (0,75 pt) Trouver la valeur de n et déduire la formule chimique de l'acide AH étudié.
+
+2- Etude de la réaction de l'acide AH avec les ions méthanoate HCOO-
+
+On mélange un volume V1 = 50 mL d'une solution aqueuse de l'acide AH de concentration molaire C = 1,0.10-2 mol.L-1 et un volume V2 = V1 d'une solution aqueuse de méthanoate de sodium Na+(aq) + HCOO-(aq) de même concentration molaire C. On modélise la transformation qui a eu lieu par la réaction chimique d'équation :
+AH(aq) + HCOO-(aq) ⇌ A-(aq) + HCOOH(aq)
+
+Données :
+- Conductivités molaires ioniques (mS.m².mol-1) : λ(Na+) = 5,01 ; λ(HCOO-) = 5,46 ; λ(A-) = 3,58.
+- On néglige la contribution des ions H3O+ et HO- dans la conductivité de la solution.
+- L'expression de la conductivité σ d'une solution ionique est : σ = Σi λ(Xi).[Xi] où [Xi] est la concentration effective de chaque espèce chimique ionique présente dans la solution et λ(Xi) sa conductivité molaire ionique.
+
+2-1- (0,75 pt) Montrer que l'expression de la conductivité σ du mélange réactionnel à un instant t en fonction de l'avancement x de la réaction s'écrit : σ = 52,35 − 1,88.10⁴.x, avec σ exprimée en mS.m-1 et x en mol.
+
+2-2- On mesure la conductivité du mélange réactionnel à l'équilibre, on trouve : σeq = 50,092 mS.m-1.
+
+2-2-1- (0,5 pt) Vérifier que la valeur de la constante d'équilibre K associée à l'équation de la réaction est : K = 0,1.
+
+2-2-2- (0,5 pt) Déduire la valeur de pK'A du couple HCOOH/HCOO-.
+
+### Partie 2 : Etude d'une pile nickel – cobalt
+
+Une pile électrique est un dispositif électrochimique qui produit de l'électricité en convertissant une partie de l'énergie chimique en énergie électrique grâce à des réactions d'oxydo-réduction.
+
+On réalise une pile nickel – cobalt, en plongeant une plaque de nickel dans un bécher contenant un volume V = 100 mL d'une solution aqueuse de sulfate de nickel II : Ni²+(aq) + SO4²-(aq) de concentration molaire initiale C1 = [Ni²+]i = 10-2 mol.L-1, et une plaque de cobalt dans un autre bécher contenant un volume V = 100 mL d'une solution aqueuse de sulfate de cobalt II : Co²+(aq) + SO4²-(aq) de concentration molaire initiale C2 = [Co²+]i. Les deux solutions sont reliées par un pont salin.
+
+On monte en série avec cette pile un conducteur ohmique, un ampèremètre et un interrupteur. On ferme le circuit ainsi formé à un instant de date t = 0. Un courant électrique d'intensité I, considérée constante, circule dans le circuit.
+
+Données :
+- masse molaire du cobalt : M(Co) = 58,9 g.mol-1 ;
+- constante de Faraday : 1 F = 9,65.10⁴ C.mol-1 ;
+- la constante d'équilibre associée à l'équation de la réaction
+Co²+(aq) + Ni(s) ⇌ Ni²+(aq) + Co(s)
+est K = 12 à 25 °C.
+
+La courbe de la figure 2 représente l'évolution temporelle du quotient de la réaction Qr.
+
+[Figure 2 : Qr en fonction de t(s) ; repères 300, 600 et 0,01 ; 0,02.]
+
+1- (0,5 pt) En utilisant la courbe Qr(t), choisir la proposition juste, parmi les propositions suivantes :
+a- Le sens d'évolution spontanée du système chimique constituant la pile est le sens (1) de l'équation de la réaction.
+b- L'électrode de cobalt est la cathode.
+c- Le schéma conventionnel de la pile étudiée est : Ni/Ni²+//Co²+/Co.
+d- Le sens conventionnel du courant électrique à l'extérieur de la pile est de l'électrode de nickel vers l'électrode de cobalt.
+
+2- (0,5 pt) Déterminer C2.
+
+3- (0,75 pt) Trouver l'expression de l'intensité I du courant électrique en fonction de K, F, C1, C2, V et teq, avec teq la date à laquelle l'équilibre du système chimique est atteint. Vérifier que I = 0,1 A.
+
+4- (0,75 pt) Calculer Δm la variation de la masse de l'électrode de cobalt entre les instants de date t = 0 et t = teq.
+
+## Exercice 2 : Ondes + Transformations nucléaires (4 points)
+
+### Partie 1 : Etude de la diffraction de la lumière
+
+Le phénomène de diffraction permet de mettre en évidence la nature ondulatoire de la lumière.
+
+Une source laser produisant une lumière monochromatique de longueur d'onde λ = 750 nm éclaire un diaphragme circulaire de diamètre d réglable. On observe sur un écran placé à la distance D du diaphragme, une tache lumineuse circulaire de diamètre L entourée d'anneaux alternativement sombres et clairs (figure 1).
+
+On fait varier d et on note la valeur de L correspondante. La courbe de la figure 2 représente la variation de L en fonction de 1/d.
+
+[Figure 1 : Laser, diaphragme, écran, angle θ, distance D, diamètre L. Figure 2 : L(mm) en fonction de 1/d (mm-1) ; repères 0, 2, 4 et 5,49 ; 10,98.]
+
+Données :
+- la distance diaphragme-écran : D = 1,50 m ;
+- la loi associée à la diffraction par un diaphragme circulaire a pour expression : θ = α.λ/d avec θ l'écart angulaire exprimé en radian et α un coefficient de correction lié à la forme circulaire de l'ouverture.
+
+1- (0,5 pt) Montrer dans le cas des petits angles, où tan(θ) ≈ θ(rad), que : L = 2.α.λ.D/d.
+
+2- (0,5 pt) Vérifier que α = 1,22.
+
+3- On remplace le diaphragme par une plaque opaque percée d'un trou de diamètre inconnu d', le diamètre de la tache centrale obtenue est : L' = 1,5 cm.
+
+3-1- (0,5 pt) Déterminer d'.
+
+3-2- On remplace la source laser par une source de lumière blanche, on observe sur l'écran, une tache centrale irisée constituée d'une partie centrale blanche de diamètre LB. Sachant que la longueur d'onde λ de la lumière visible dans le vide est : λ1 = 0,4 μm ≤ λ ≤ λ2 = 0,8 μm.
+
+3-2-1- (0,25 pt) Indiquer parmi λ1 et λ2, la longueur d'onde qui correspond à la radiation rouge.
+
+3-2-2- (0,75 pt) Déterminer LB.
+
+### Partie 2 : La radioactivité du polonium
+
+Le noyau de polonium 210/84 Po se désintègre spontanément pour se transformer en un noyau de plomb 206/82 Pb avec émission d'une particule α.
+
+Cette partie se propose d'étudier le bilan énergétique et l'évolution au cours du temps de cette transformation.
+
+Sur le diagramme de la figure 1 sont placées les valeurs de masse des systèmes suivants : (le noyau de polonium 210) ; (les nucléons séparés) ; (le noyau de plomb 206 + la particule α).
+
+[Figure 1 : diagramme m(u) — 84.p + 126.n : 211,7030 ; 210/84 Po : 209,9347 ; 206/82 Pb + α : 209,9315.]
+
+Données :
+- la masse molaire du polonium 210 : M = 210 g.mol-1 ;
+- unité de masse atomique : 1 u = 931,5 MeV.c-2 ;
+- la constante d'Avogadro : NA = 6,02.10²³ mol-1.
+
+1- (0,25 pt) Choisir l'affirmation juste parmi les affirmations suivantes :
+a- la désintégration de type α correspond à une émission d'un neutron.
+b- la désintégration de type α concerne les noyaux légers.
+c- la demi-vie t1/2 d'un échantillon est la durée au bout de laquelle 63 % de l'échantillon s'est désintégré.
+d- l'énergie de liaison par nucléon de plomb 206 est plus grande que celle de polonium 210.
+
+2- En exploitant le diagramme de la figure 1 :
+
+2-1- (0,25 pt) Calculer, en MeV/nucléon, l'énergie de liaison par nucléon du noyau 210/84 Po.
+
+2-2- (0,25 pt) Calculer, en MeV, l'énergie E libérée par la désintégration d'une masse m = 1 mg de polonium 210.
+
+3- On désigne par ND le nombre de noyaux de polonium désintégrés à un instant t et par N0 le nombre de noyaux de polonium 210 contenus dans l'échantillon à t = 0. La courbe de la figure 2 représente les variations de ND/N0 en fonction du temps.
+
+[Figure 2 : ND/N0 en fonction de t(jour) ; repères 69, 138 et 0,25 ; 0,5.]
+
+3-1- (0,25 pt) En exploitant la courbe de la figure 2, déterminer en jour la demi-vie t1/2 du polonium 210.
+
+3-2- (0,5 pt) Soit t1 l'instant où l'on a : ND = 3N, avec N le nombre de noyaux de polonium restant à l'instant t1. Trouver en jour la valeur de t1.
+
+## Exercice 3 : Electricité (4 points)
+
+Les deux parties 1 et 2 sont indépendantes
+
+L'objectif de cet exercice est d'étudier :
+- la réponse d'un dipôle RC à un échelon de tension ;
+- les oscillations forcées dans un circuit RLC série.
+
+### Partie 1 : Etude du dipôle RC
+
+On réalise le circuit électrique de la figure 1 qui comporte :
+- un générateur de tension idéal de force électromotrice E ;
+- un conducteur ohmique de résistance R0 ;
+- deux condensateurs (C1) et (C2) initialement déchargés de capacités respectives C1 = 5 μF et C2 > C1 ;
+- un interrupteur K.
+
+On ferme l'interrupteur K à l'instant t = 0.
+
+[Figure 1 : E, K, R0 (tension uR0), C1 (tension u1), C2 (tension u2), courant i.]
+
+1-1- (0,25 pt) Exprimer u1 la tension aux bornes de (C1), en fonction de C1, C2 et u2 la tension aux bornes de (C2).
+
+1-2- (0,5 pt) Montrer que l'équation différentielle vérifiée par u2 s'écrit :
+u2 + (R0.C1.C2/(C1+C2)).du2/dt = C1.E/(C1+C2)
+
+1-3- (0,5 pt) Sachant que la solution de l'équation différentielle s'écrit sous la forme : u2(t) = A(1 − e−t/τ). Trouver l'expression de la constante A et celle de τ en fonction des paramètres du circuit.
+
+2- Les courbes de la figure 2 représentent l'évolution au cours du temps des tensions u1, u2 et uR0 la tension aux bornes du conducteur ohmique. (T) représente la tangente à la courbe (3) au point d'abscisse t = 0.
+
+[Figure 2 : u(V) en fonction de t(ms) ; repères 0,5 ; 1 et 2 ; 4 ; courbes (1), (2), (3) et tangente (T).]
+
+2-1- (0,25 pt) Associer la tension u2(t) à la courbe correspondante.
+
+2-2- (0,5 pt) Déterminer la valeur de C2 et celle de R0.
+
+2-3- (0,25 pt) Calculer Ee l'énergie électrique totale emmagasinée dans les deux condensateurs lorsque le régime permanent est établi.
+
+### Partie 2 : Etude des oscillations forcées dans un circuit RLC série
+
+On réalise le circuit électrique de la figure 3 qui comporte :
+- un générateur de basse fréquence (GBF) qui délivre une tension alternative sinusoïdale de fréquence N constante et de tension maximale Um constante ;
+- un condensateur de capacité C0 = 10 μF ;
+- une bobine (b) d'inductance L = 86 mH et de résistance r ;
+- un conducteur ohmique de résistance R = 20 Ω.
+
+Le générateur applique une tension u(t) = Um.cos(2π.N.t + φ), un courant électrique d'intensité i(t) = Im.cos(2π.N.t) circule alors dans le circuit.
+
+On visualise, à l'aide d'un système d'acquisition informatique adéquat, la tension uR(t) aux bornes du conducteur ohmique et la tension u(t) aux bornes du générateur. On obtient l'oscillogramme représenté sur la figure 4.
+
+[Figure 3 : GBF, R, C0, bobine (L, r). Figure 4 : oscillogramme ; sensibilités 1,25 ms et 2 V.]
+
+1- (0,5 pt) Déterminer la valeur de φ et celle de l'impédance Z du circuit.
+
+2- (0,5 pt) Calculer la puissance électrique moyenne P dissipée par effet Joule dans le circuit et en déduire la valeur de r.
+
+3- Pour obtenir la résonance électrique, on monte un condensateur de capacité C avec le condensateur de capacité C0.
+
+3-1- (0,5 pt) Déterminer la valeur de C. On prend π² = 10.
+
+3-2- (0,25 pt) Calculer l'intensité efficace du courant dans le circuit.
+
+## Exercice 4 : Mécanique (5 points)
+
+Les deux parties 1 et 2 sont indépendantes
+
+### Partie 1 : Mouvement d'un système mécanique
+
+On considère une poulie (P) de rayon r = 5 cm susceptible de tourner dans un plan vertical autour d'un axe fixe (Δ) horizontal passant par son centre I et dont le moment d'inertie par rapport à cet axe est J.
+
+On enroule autour de la poulie (P) un fil inextensible de masse négligeable, à l'autre extrémité du fil est accroché un corps (S) de masse m = 100 g et de centre d'inertie G. Lors du mouvement, le fil ne glisse pas sur la poulie (figure 1).
+
+On considère un point M de la circonférence de la poulie. Le point M part initialement de la position M0 appartenant à la ligne verticale passant par I. Le centre d'inertie G du corps (S) part d'une position de cote z = 0 dans le repère vertical (O, k⃗).
+
+On repère, à tout instant, la position du centre d'inertie G par la cote z et la position du point M par l'abscisse angulaire θ = (IM⃗0, IM⃗).
+
+On prend l'intensité de pesanteur g = 10 m.s-2.
+
+[Figure 1 : poulie (P), axe (Δ), points I, M, M0, corps (S), centre G, repère (O, k⃗), angle θ, cote z. Figure 2 : θ̇(rad.s-1) en fonction de t(s) ; repères 0,2 ; 0,4 et 10 ; 20.]
+
+1- On néglige tous les frottements. La courbe de la figure 2 représente l'évolution de la vitesse angulaire θ̇ de la poulie en fonction du temps.
+
+1-1- (0,5 pt) Déterminer, en justifiant votre réponse, la nature du mouvement de la poulie (P) et calculer son accélération angulaire θ̈.
+
+1-2- (0,5 pt) Calculer, à l'instant t1 = 3 s, la valeur de l'accélération tangentielle at et celle de l'accélération normale an du mouvement de M.
+
+1-3- (0,5 pt) Montrer par étude dynamique que J = 10-3 kg.m².
+
+2- A l'instant t1 = 3 s le fil se coupe et le corps (S) poursuit sa chute.
+
+On considère que la force de frottement fluide exercée par l'air s'écrit sous la forme : f⃗ = λ.v².k⃗ avec λ le coefficient de frottement et v la vitesse de G. On néglige la poussée d'Archimède.
+
+[Figure 3 : dv/dt (m.s-2) en fonction de v² (m².s-2) ; repères 40, 60 et 0, 1, 2.]
+
+2-1- (0,25 pt) Calculer la vitesse de (S) à l'instant t1 = 3 s.
+
+2-2- (0,25 pt) Etablir l'équation différentielle vérifiée par la vitesse v lorsque t > t1.
+
+2-3- (0,5 pt) La courbe de la figure 3 représente les variations de dv/dt en fonction de v². Déterminer la valeur de la vitesse limite VL de (S) et celle du coefficient λ.
+
+### Partie 2 : Mouvement d'un pendule élastique
+
+Le pendule élastique est un système mécanique effectuant un mouvement oscillatoire autour de sa position d'équilibre stable. Le but de cette partie est de déterminer quelques grandeurs liées à cet oscillateur.
+
+Le pendule étudié est constitué d'un solide (S), de centre d'inertie G et de masse m = 100 g, attaché à l'extrémité d'un ressort à spires non jointives, de masse négligeable et de raideur K. L'autre extrémité du ressort est fixée à un support fixe.
+
+Le solide (S) peut glisser sans frottement sur la ligne de plus grande pente d'un plan incliné d'un angle α = 30° par rapport au plan horizontal.
+
+On étudie le mouvement du centre d'inertie G dans le repère orthonormé R(O, i⃗, j⃗) lié à un référentiel terrestre considéré galiléen. On repère la position de G à un instant t par l'abscisse x sur l'axe (O, i⃗). A l'équilibre, l'abscisse de G est nulle (figure 4).
+
+Données : accélération de la pesanteur g = 10 m.s-2 ; on prend π² = 10.
+
+[Figure 4 : pendule élastique sur plan incliné d'angle α, repère (O, i⃗, j⃗). Figure 5 : vx en fonction du temps.]
+
+1- (0,25 pt) Montrer que l'expression de l'allongement Δl0 du ressort à l'équilibre s'écrit : Δl0 = m.g.sin α / K.
+
+2- On écarte (S) de sa position d'équilibre, et on l'envoie à un instant de date t = 0 avec une vitesse V⃗0 = V0.i⃗. La courbe de la figure 5 représente l'évolution au cours du temps de la composante vx du vecteur vitesse de G.
+
+2-1- (0,5 pt) Etablir, en appliquant la deuxième loi de Newton, l'équation différentielle du mouvement vérifiée par l'abscisse x de G.
+
+2-2- (0,75 pt) La solution de l'équation différentielle s'écrit sous la forme : x(t) = Xm.cos((2π/T0).t + φ), avec T0 la période propre de l'oscillateur. Trouver la valeur de Xm, de φ et celle de K.
+
+2-3- (0,25 pt) Déduire, en fonction du temps, l'expression vectorielle de la résultante des forces appliquées sur (S).
+
+2-4- En prenant l'état où le ressort est non déformé comme état de référence de l'énergie potentielle élastique (Epe = 0) et le plan horizontal passant par la position de G à l'équilibre comme état de référence de l'énergie potentielle de pesanteur (Epp = 0) :
+
+2-4-1- (0,5 pt) Montrer que l'expression de l'énergie mécanique du système oscillant s'écrit :
+Em = (1/2).m.(dx/dt)² + (1/2).K.(x + Δl0)²
+
+2-4-2- (0,25 pt) Calculer la valeur de Em.
