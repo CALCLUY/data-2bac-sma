@@ -1,0 +1,252 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Transformations liées à des réactions acide-base
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 15 (Transformations liées à des réactions acide-base)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## Sommaire
+
+### I- Introduction
+### II- Autoprolyse de l'eau
+#### 2-1/ Définition
+#### 2-2/ Taux d'avancement final de la réaction d'autoprotolyse
+### III- Produit ionique de l'eau
+### IV- Constante d'acidité d'un couple acide-base
+#### 4-1/ Définition
+#### 4-2/ Relation entre le pH et $p K_{A}$
+#### 4-3/ Constante d'équilibre associée à une réaction acido-basique
+### V- Comparaison des comportements des acides et des bases
+#### 5-1/ Comparaison des forces des acides
+#### 5-2/ Comparaison des forces des bases
+### VI- Espèce prédominante d'un couple acide/base
+#### 6-1/ Diagramme de prédominance
+#### 6-2/ Diagramme de distribution
+#### 6-3/ Les indicateurs colorés
+### VII- Exercices
+#### 7-1/ Exercice 1
+#### 7-2/ Exercice 2
+#### 7-3/ Exercice 3
+#### 7-4/ Exercice 4
+
+* * *
+
+## I- Introduction
+
+Le pH de l'eau d'un aquarium doit être maintenu entre 6,5 et 7,5 ; car la diminution du pH favorise la multiplication du nombre de quelques bactéries qui consomment le dioxygène dissout dans l'eau et l'augmentation du pH favorise la sédimentation du carbonate de calcium sur les feuille des plantes qui existent dans l'aquarium.
+
+- Quelle sont les lois qui agissent sur les équilibres acido-basique ?
+- Comment peut-on distinguer un couple acide/base ?
+- Quels sont les principes du dosage acido-basique et comment le réalise-t-on ?
+
+## II- Autoprolyse de l'eau
+
+### 2-1/ Définition
+
+Dans l'eau pure se produit une transformation chimique limitée, on la modélise par ce qu'on appelle l'autoprolyse de l'eau, dont l'équation est :
+
+$2 H_{2} O_{\left(\right. l \left.\right)} \rightleftarrows H_{3} \left(O^{+}\right)_{\left(\right. aq \left.\right)} + \left(OH^{-}\right)_{\left(\right. aq \left.\right)}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img2.jpg)
+
+Cette réaction dans le sens direct s'appelle la réaction d'autoprotolyse de l'eau.
+
+Cette réaction n'a pas lieu uniquement dans l'eau pure, mais dans toute solution aqueuse.
+
+Le pH de l'eau pure à 25°C est pH=7, donc l'eau pure est électriquement neutre :
+
+$\left[\right. H_{3} O^{+} \left]\right. = \left[\right. O H^{-} \left]\right. = 10^{- 7} m o l / L$
+
+### 2-2/ Taux d'avancement final de la réaction d'autoprotolyse
+
+Établissons le tableau d'avancement relatif à cette réaction :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s16/img4.jpg)
+
+L'avancement à l'équilibre, pour un volume V, vaut :
+
+$x_{\acute{e} q} = n_{\acute{e} q} \left(H_{3} O^{+}\right) = \left[H_{3} O^{+}\right]_{\acute{e} q} . V$
+
+À 25°C, Pour un volume $V = 1 , 0 L$, on a $x_{\acute{e} q} = 10^{- 7} m o l$
+
+L'avancement maximal vaut : $x_{m a x} = \frac{n_{i}}{2}$
+
+La quantité initiale d'eau $n_{i}$, dans un volume V, s'exprime grâce aux masses volumique $\mu_{0}$ et molaire M de l'eau : $n_{i} = \frac{\mu_{0} . V}{M}$
+
+D'où : $x_{m a x} = \frac{n_{i}}{2} = \frac{\mu_{0} . V}{2 M}$
+
+Pour $V = 1 , 0 L$, on a $x_{m a x} = 28 m o l$
+
+Le taux d'avancement final vaut alors :
+
+$\tau = \frac{x_{\acute{e} q}}{x_{m a x}} = 3 , 6 . 10^{- 9}$
+
+Ce taux d'avancement final est très faible.
+
+#### Conclusion
+
+La réaction d'autoprotolyse de l'eau est très limitée.
+
+## III- Produit ionique de l'eau
+
+La constante d'équilibre de la réaction d'autoprolyse est appelée produit ionique de l'eau et on la note $K_{e}$, elle est sans dimension et ne dépend que de la température.
+
+La valeur de $K_{e}$ est
+
+$K_{e} = \left(\left[\right. H_{3} O^{+} \left]\right.\right)_{\acute{e} q} . \left(\left[\right. O H^{-} \left]\right.\right)_{\acute{e} q}$
+
+On définit aussi le $p K_{e}$ qui est lié au produit ionique par la relation suivante :
+
+$p K_{e} = - l o g K_{e} \Leftrightarrow K_{e} = 10^{- p K_{e}}$
+
+On sait qu'à $\theta = 25 \circ C$ on a $K_{e} = 10^{- 14}$ donc $p K_{e} = 14$.
+
+Échelle de pH :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img1.jpg)
+
+## IV- Constante d'acidité d'un couple acide-base
+
+### 4-1/ Définition
+
+Pour un couple acide-base A/B, la réaction de l'acide A avec l'eau s'écrit :
+
+$A_{\left(\right. aq \left.\right)} + H_{2} O_{\left(\right. l \left.\right)} \rightleftarrows B_{\left(\right. aq \left.\right)} + H_{3} \left(O^{+}\right)_{\left(\right. aq \left.\right)}$
+
+La constante d'acidité du couple acide-base A/B s'écrit :
+
+$K_{A} = \frac{\left(\left[\right. B \left]\right.\right)_{\acute{e} q} \times \left(\left[\right. H_{3} O^{+} \left]\right.\right)_{\acute{e} q}}{\left(\left[\right. A \left]\right.\right)_{\acute{e} q}}$
+
+C'est une gradeur sans unité, qui ne dépend que de la température.
+
+On utilise aussi le $p K_{A}$ qui est lié à la constante d'acidité par la relation suivante :
+
+$p K_{A} = - l o g K_{A} \Leftrightarrow K_{A} = 10^{- p K_{A}}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img3.jpg)
+
+### 4-2/ Relation entre le pH et $p K_{A}$
+
+D'après la relation de la constante d'acidité on a :
+
+$\left(\left[\right. H_{3} O^{+} \left]\right.\right)_{\acute{e} q} = \frac{\left(\left[\right. A \left]\right.\right)_{\acute{e} q} \times K_{A}}{\left(\left[\right. B \left]\right.\right)_{\acute{e} q}} \\ \Rightarrow p H = - log \left(\left[\right. H_{3} O^{+} \left]\right.\right)_{\acute{e} q} \\ \Rightarrow p H = - log \frac{K_{A} . \left(\left[\right. A \left]\right.\right)_{\acute{e} q}}{\left(\left[\right. B \left]\right.\right)_{\acute{e} q}} \\ \Rightarrow p H = - log K_{A} - log \frac{\left(\left[\right. A \left]\right.\right)_{\acute{e} q}}{\left(\left[\right. B \left]\right.\right)_{\acute{e} q}} \\ \Rightarrow \overline{\left.\right)p H = p K_{A} + log \frac{\left(\left[\right. B \left]\right.\right)_{\acute{e} q}}{\left(\left[\right. A \left]\right.\right)_{\acute{e} q}}}$
+
+### 4-3/ Constante d'équilibre associée à une réaction acido-basique
+
+Pour le couple acide-base A1/B1 on a :
+
+$\left(A_{1}\right)_{\left(\right. aq \left.\right)} + H_{2} O_{\left(\right. l \left.\right)} \rightleftarrows \left(B_{1}\right)_{\left(\right. aq \left.\right)} + H_{3} \left(O^{+}\right)_{\left(\right. aq \left.\right)}$
+
+Sa constante d'acidité est :
+
+$K_{A_{1}} = \frac{\left(\left[\right. B_{1} \left]\right.\right)_{\acute{e} q} \times \left(\left[\right. H_{3} O^{+} \left]\right.\right)_{\acute{e} q}}{\left(\left[\right. A_{1} \left]\right.\right)_{\acute{e} q}}$
+
+Pour le couple acide-base A2/B2 on a :
+
+$\left(A_{2}\right)_{\left(\right. aq \left.\right)} + H_{2} O_{\left(\right. l \left.\right)} \rightleftarrows \left(B_{2}\right)_{\left(\right. aq \left.\right)} + H_{3} \left(O^{+}\right)_{\left(\right. aq \left.\right)}$
+
+Sa constante d'acidité est :
+
+$K_{A_{2}} = \frac{\left(\left[\right. B_{2} \left]\right.\right)_{\acute{e} q} \times \left(\left[\right. H_{3} O^{+} \left]\right.\right)_{\acute{e} q}}{\left(\left[\right. A_{2} \left]\right.\right)_{\acute{e} q}}$
+
+Dans la réaction acido-basique entre l'acide A1 du couple A1/B1 et la base B2 du couple A2/B2 est :
+
+$\left(A_{1}\right)_{\left(\right. aq \left.\right)} + \left(B_{2}\right)_{\left(\right. aq \left.\right)} \rightleftarrows \left(B_{1}\right)_{\left(\right. aq \left.\right)} + \left(A_{2}\right)_{\left(\right. aq \left.\right)}$
+
+Sa constante d'équilibre est :
+
+$K = \frac{\left[\right. B_{1} \left]\right. \times \left[\right. A_{2} \left]\right.}{\left[\right. A_{1} \left]\right. \times \left[\right. B_{2} \left]\right.} = \frac{K_{A_{1}}}{K_{A_{2}}} = 10^{\left(p K_{A_{2}} - p K_{A_{1}}\right)}$
+
+## V- Comparaison des comportements des acides et des bases
+
+### 5-1/ Comparaison des forces des acides
+
+La réaction qui a lieu lors de la mise en solution d'un acide, noté $H A$, a pour équation :
+
+$H A_{\left(a q\right)} + H_{2} O_{\left(l\right)} \rightleftarrows \left(A^{-}\right)_{\left(a q\right)} + H_{3} \left(O^{+}\right)_{\left(a q\right)}$
+
+Par définition, à concentration apportée égale, un acide est d'autant plus fort que le taux d'avancement final T de la réaction entre l'acide et l'eau est grand, donc c'est celui pour lequel [H3O+] est la plus élevée.
+
+$\tau = \frac{x_{\acute{e} q}}{x_{m a x}} = \frac{10^{- p H} . V}{C . V} = \frac{10^{- p H}}{C}$
+
+#### Conclusion
+
+Pour une même concentration apportée d'acide, un acide est d'autant plus fort :
+
+- que le pH de la solution est faible ;
+- que la constante d'acidité $K_{A}$ du couple mis en jeu est grande et donc que le $p K_{A}$ est faible.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img5.jpg)
+
+### 5-2/ Comparaison des forces des bases
+
+La réaction qui a lieu lors de la mise en solution d'une base, notée $B$, a pour équation :
+
+$B_{\left(a q\right)} + H_{2} O_{\left(l\right)} \rightleftarrows B \left(H^{+}\right)_{\left(a q\right)} + H \left(O^{-}\right)_{\left(a q\right)}$
+
+$\tau = \frac{x_{\acute{e} q}}{x_{m a x}} = \frac{10^{\left(p H - p K_{A}\right)} . V}{C . V} = \frac{10^{\left(p H - p K_{A}\right)}}{C}$
+
+#### Conclusion
+
+Pour une même concentration apportée de base, une base est d'autant plus forte :
+
+- que le pH de la solution est grand.
+- que la constante d'acidité $K_{A}$ du couple mis en jeu est petite et donc que le $p K_{A}$ est grand.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img6.jpg)
+
+## VI- Espèce prédominante d'un couple acide/base
+
+### 6-1/ Diagramme de prédominance
+
+La relation $p H = p K_{A} + log \frac{\left[B\right]_{\acute{e} q}}{\left[A\right]_{\acute{e} q}}$, caractéristique d'un couple acide / base $A / B$, conduit à distinguer les trois cas suivants :
+
+1. $p H = p K_{A} \Rightarrow log \frac{\left[B\right]}{\left[A\right]} = 0 \Rightarrow \left[B\right] = \left[A\right]$ : L'acide et la base conjugués ont la même concentration.
+
+1. $p H > p K_{A} \Rightarrow log \frac{\left[B\right]}{\left[A\right]} > 0 \Rightarrow \left[B\right] > \left[A\right]$ : Le domaine de pH défini par $p H > p K_{A}$ est le domaine de prédominance de la base B.
+
+1. $p H < p K_{A} \Rightarrow log \frac{\left[B\right]}{\left[A\right]} < 0 \Rightarrow \left[B\right] < \left[A\right]$ : Le domaine de pH défini par $p H < p K_{A}$ est le domaine de prédominance de l'acide A.
+
+Les diagrammes de prédominance présentés ci-dessous résument et illustrent ces résultats :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img7.jpg)
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img8.jpg)
+
+### 6-2/ Diagramme de distribution
+
+Le diagramme suivant appelé diagramme de distribution, présente, en fonction du pH, les pourcentages d'acide éthanoïque (courbe rouge), et de sa base conjuguée, l'ion éthanoate (courbe verte) en fonction du pH de la solution :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img9.jpg)
+
+À l'intersection des deux graphes, les pourcentages des espèces $C H_{3} C O O H$ et $C H_{3} C O O^{-}$ sont égaux et on lit : $p H = p K_{A} = 4 , 8$
+
+### 6-3/ Les indicateurs colorés
+
+Les indicateurs colorés acido-basiques sont constitués par des couples acide/base dont les espèces conjuguées ont des teintes différentes.
+
+Un indicateur coloré, constitué par le couple acide/base $H I n d / I n d^{-}$, est caractérisé par sa constante d'acidité correspondant à l'équation :
+
+$H I n d_{\left(a q\right)} + H_{2} O_{\left(l\right)} \rightleftarrows \left(I n d^{-}\right)_{\left(a q\right)} + H_{3} \left(O^{+}\right)_{\left(a q\right)}$
+
+Pour le couple $H I n d / I n d^{-}$, comme pour tout couple acide / base, on peut écrire :
+
+$p H = p K_{A} + log \frac{\left[I n d^{-}\right]}{\left[H I n d\right]}$
+
+La teinte de l'indicateur dépend de l'espèce qui prédomine et donc du pH de la solution :
+
+- Pour $p H < p K_{A} - 1$, l'indicateur a sa teinte acide.
+- Pour $p H > p K_{A} + 1$, l'indicateur a sa teinte basique.
+
+la figure suivante présente la teinte acide, teinte sensible et teinte basique du bleu de bromothymol (BBT) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img10.jpg)
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img11.jpg)

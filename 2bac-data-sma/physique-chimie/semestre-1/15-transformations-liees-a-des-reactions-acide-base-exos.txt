@@ -1,0 +1,87 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Transformations liées à des réactions acide-base
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 15 (Transformations liées à des réactions acide-base)
+Professeur : Mr El GOUFIFA Jihad
+
+## VII- Exercices
+
+### 7-1/ Exercice 1
+
+On prépare dans un laboratoire de chimie une solution aqueuse d'acide butanoïque $C_{3} H_{7} C O O H_{\left(a q\right)}$ de volume V et de concentration molaire $C = 1 . 10^{- 2} m o l . L^{- 1}$.
+
+Le pH de cette solution est $p H = 3 , 41$.
+
+On modélise la transformation produite par l'équation chimique suivante :
+
+$C_{3} H_{7} C O O H_{\left(a q\right)} + H_{2} O_{\left(l\right)} \rightleftarrows C_{3} H_{7} C O \left(O^{-}\right)_{\left(a q\right)} + H_{3} \left(O^{+}\right)_{\left(a q\right)}$
+
+1. Déterminer le taux d'avancement final de la réaction. En déduire.
+
+1. Trouver, en fonction de C et du pH, l'expression du quotient de réaction $Q_{r , \acute{e} q}$ à l'équilibre, puis calculer sa valeur.
+
+1. En déduire la valeur du $p K_{A}$ du couple $C_{3} H_{7} C O O H / C_{3} H_{7} C O O^{-}$.
+
+### 7-2/ Exercice 2
+
+L'acide hypochloreux a pour formule $H C l O_{\left(a q\right)}$. Sa base conjuguée $C l \left(O^{-}\right)_{\left(a q\right)}$ est appelée ion hypochlorite.
+
+Le document suivant représente les pourcentages des espèces chimiques acide et base du couple $H C l O_{\left(a q\right)} / C l \left(O^{-}\right)_{\left(a q\right)}$ en fonction du pH pour une solution :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s16/img12.png)
+
+1. Déterminer graphiquement la valeur numérique de la constante $p K_{A}$ du couple.
+
+1. Laquelle des deux courbes (a) ou (b) correspond à l'hypochlorite ?
+
+1. Montre que :
+
+$\% H C l O = \frac{\left[H C l O\right]}{\left[H C l O\right] + \left[C l O^{-}\right]} = \frac{1}{1 + 10^{p H - p K_{A}}}$
+
+$\% C l O^{-} = \frac{\left[C l O^{-}\right]}{\left[H C l O\right] + \left[C l O^{-}\right]} = \frac{1}{1 + 10^{p K_{A} - p H}}$
+
+1. Écrire l'équation de la réaction de $H C l O_{\left(a q\right)}$ avec de l'eau.
+
+On considère une solution d'acide hypochloreux de $p H = 5$.
+
+1. Déterminer le taux d'avancement de la réaction dans la solution.
+
+### 7-3/ Exercice 3
+
+Nous mélangeons $V_{1} = 20 m L$ de solution aqueuse $\left(S_{1}\right)$ d'acide hypochloreux $H C l O_{\left(a q\right)}$ de concentration $C_{1} = 10^{- 2} m o l / L$ avec le volume $V_{2} = 10 m L$ de solution aqueuse $\left(S_{2}\right)$ d'hydroxyde de sodium de concentration $C_{2} = C_{1}$.
+
+On mesure le pH de la solution et on trouve $p H = 7 , 2$.
+
+À $25 \circ C$ on a $p K_{e} = 14$. $p K_{A} = 7 , 2$
+
+1. Écrire l'équation de la réaction de l'acide hypochloreux avec les ions hydroxyde.
+
+1. Montrer que le taux d'avancement de la réaction s'écrit sous la forme $\tau = 1 - \frac{10^{P H - 14}}{C_{2}} \left(\frac{V_{1} + V_{2}}{V_{2}}\right)$, puis calculer sa valeur.
+
+1. Exprimer la constante d'équilibre K associée à la réaction d'acide hypochloreux et les ions hydroxyde en fonction de $p K_{e}$ et $p K_{A}$ (constante d'acidité de $H C l O_{\left(a q\right)} / C l \left(O^{-}\right)_{\left(a q\right)}$), puis calculer sa valeur.
+
+1. Que concluez-vous ?
+
+### 7-4/ Exercice 4
+
+On mélange dans un bécher un volume $V_{1}$ de la solution aqueuse $\left(S_{1}\right)$ d'ammoniac $N H_{3 \left(a q\right)}$ de concentration molaire $C_{1}$ avec un volume $V_{2} = V_{1}$ d'une solution aqueuse de chlorure de méthyl ammonium $\left(C H_{3} N H_{3 \left(a q\right)}^{+} ; C l_{\left(a q\right)}^{-}\right)$ de concentration molaire $C_{2} = C_{1}$.
+
+1. Écrire l'équation chimique modélisant la réaction de l'ammoniac avec l'ion méthyl ammonium.
+
+1. Exprimer la constante d'équilibre K associée à l'équation de cette réaction en fonction de $p K_{A_{1}}$ et $p K_{A_{2}}$.
+
+1. Montrer que l'expression de la concentration de $N H_{4 \left(a q\right)}^{+}$ et celle de $C H_{3} N H_{2 \left(a q\right)}$ dans le mélange réactionnel à l'équilibre s'écrit :
+
+$\left[C H_{3} N H_{2 \left(a q\right)}\right]_{\acute{e} q} = \left[N H_{4 \left(a q\right)}^{+}\right]_{\acute{e} q} = \frac{C}{2} \frac{\sqrt{K}}{1 + \sqrt{K}}$
+
+1. Montre que le pH du mélange réactionnel à l'équilibre s'écrit $p H = \frac{1}{2} \left(p K_{A_{1}} + p K_{A_{2}}\right)$, puis calculer sa valeur
+
+Données à 25°C :
+
+$p K_{A_{1}} \left(N H_{4}^{+} / N H_{3}\right) = 9 , 2 \\ p K_{A_{2}} \left(C H_{3} N H_{3}^{+} / C H_{3} N H_{2}\right) = 10 , 7$
