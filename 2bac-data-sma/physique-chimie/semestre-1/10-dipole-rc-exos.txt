@@ -1,0 +1,111 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Dipôle RC
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 10 (Dipôle RC)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+Un condensateur initialement déchargé, de capacité $C$, est branché en série avec un conducteur ohmique de résistance $R = 10 K \Omega$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img21.bmp)
+
+La tension aux bornes du générateur est $E = 5 , 00 V$. À l'instant t = 0, on ferme le circuit. La tension $u_{C} \left(\right. t \left.\right)$, enregistrée au cours de la charge, est représentée graphiquement :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img22.bmp)
+
+1. Établir l'équation différentielle de la tension uc aux bornes du condensateur lors de se charge.
+
+La solution de l'équation différentielle est la suivante : $u_{C} \left(\right. t \left.\right) = A \left(1 - e^{- \alpha . t}\right)$
+
+1. Déterminer $A$ et $\alpha$ en fonction de $E$, $R$ et $C$
+
+1. Exprimer la constante de temps $\tau$ en fonction de $\alpha$, calculer $u_{C}$ pour $t = \tau$
+
+1. Déterminer la valeur numérique de $\tau$ à l'aide de graphique (préciser la méthodes utilisé)
+
+1. Déterminer la capacité $C$ de condensateur
+
+### 5-2/ Exercice 2
+
+À l'aide d'un générateur de tension idéale, de deux résistors et d'un condensateur, on réalise le montage représenté par le figure ci-dessous :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img23.bmp)
+
+À l'aide d'un oscilloscope, on enregistre la charge d'un condensateur de capacité C à travers le résistor de résistance $R_{1} = 20 \Omega$ puis sa décharge à travers le résistor de résistance $R_{2}$ on obtient le digramme suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img24.bmp)
+
+1. Expliquer comment doit-on procéder pour obtenir l'oscillogramme précédent.
+
+1. Donner la valeur de la tension du générateur U.
+
+1. Déterminer la valeur de C et de $R_{2}$.
+
+1. $U_{c} \left(t\right)$ présente-t-elle une discontinuité en passant de la charge à la décharge ?
+
+1. Qu'en est-il de l'intensité du courant i(t) qui parcourt le circuit ?
+
+### 5-3/ Exercice 3
+
+Le montage du document ci-dessous permet, lorsque le commutateur est en position 1, de charger simultanément deux condensateurs de capacités $C_{1}$ et $C_{2}$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img25.bmp)
+
+Les deux conducteurs ohmiques ont la même résistance $R = 2 , 2 K \Omega$
+
+Un système d'acquisition permet d'enregistrer l'évolution des tensions $u_{c_{1}} \left(t\right)$ et $u_{c_{2}} \left(t\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img26.bmp)
+
+1. Les deux condensateurs sont-ils chargés à la fin de l'acquisition ?
+
+1. En déduire la valeur de la tension aux bornes du générateur.
+
+La tension $u_{c} \left(t\right)$ aux bornes d'un condensateur lors de la charge est : $u_{c} \left(t\right) = E . \left(1 - e^{- \frac{t}{\tau}}\right)$ avec E la tension aux bornes du générateur.
+
+1. Quelle est la valeur de la tension $u_{c} \left(\tau\right)$ ?
+
+1. Déterminer les constantes de temps $\tau_{1}$ et $\tau_{2}$ de chacun des dipôles $\left(R , C_{1}\right)$ et $\left(R , C_{2}\right)$.
+
+1. Quelles sont les capacités $C_{1}$ et $C_{2}$ des condensateurs ?
+
+1. Plus la capacité d'un condensateur est grande, plus il se charge rapidement : Cette proposition est-elle correcte ?
+
+### 5-4/ Exercice 4
+
+On considère le circuit électrique suivant qui est constitué par un générateur idéal de courant électrique qui débite un courant d'intensité I=100A, un condensateur gigantesque de capacité très grand C=1800F est initialement déchargé, un conducteur ohmique de résistance R=2Ω et un interrupteur K à deux position (1) et (2) (Doc 1).
+
+À la date t = 0, l'interrupteur est basculé en position 1.
+
+Le condensateur se charge et à l'aide d'un dispositif informatisé on obtient la courbe représentée au (Doc 2) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img27.jpg)
+
+1. Déterminer la date $t_{1}$ où la tension $u_{c}$ peut prendre la valeur $U_{1} = 2 V$.
+
+1. Calculer l'énergie électrique $E_{e}$ emmagasinée dans le condensateur à l'instant $t_{1}$.
+
+À l'instant $t = t_{1}$ on bascule l'interrupteur K en position 2, le condensateur se décharge à travers le conducteur ohmique jusqu'à l'instant $t_{2}$ auquel $U_{2} = 1 , 5 V$.
+
+L'équation de la tension $u_{c}$ en fonction de t est :
+
+$u_{c} \left(t\right) = A + B . e^{\left(- \frac{\left(t - t_{1}\right)}{\tau}\right)}$
+
+1. Déterminer A, B et $\tau$.
+
+1. Calculer la date $t_{2}$ où la tension prend la valeur $U_{2}$
+
+On suppose que la décharge du condensateur se fait sans perte d'énergie.
+
+1. Calculer l'énergie dissipée par effet Joule $E_{R}$ dans le conducteur ohmique R entre les instants $t_{1}$ et $t_{2}$.
+
+1. En déduire la puissance moyenne $\mathcal{P}_{R}$ dissipée par effet Joule dans le conducteur ohmique entre les instants $t_{1}$ et $t_{2}$.

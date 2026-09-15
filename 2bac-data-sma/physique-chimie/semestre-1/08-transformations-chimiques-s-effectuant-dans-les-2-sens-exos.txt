@@ -1,0 +1,120 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Transformations chimiques s'effectuant dans les 2 sens
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 8 (Transformations chimiques s'effectuant dans les 2 sens)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+Dans une fiole jaugée de volume $V_{0} = 100 m L$, on introduit une masse $m$ d'acide éthanoïque $C H_{3} C O O H$, puis on complète cette fiole avec de l'eau distillée jusqu'au trait de jauge et on l'homogénéise.
+
+On obtient une solution $S_{0}$ d'acide éthanoïque de concentration molaire $C_{0} = 5 . 10^{- 2} m o l . L^{- 1}$.
+
+On a $M \left(\right. C H_{3} C O O H \left.\right) = 60 g . m o l^{- 1}$
+
+1. Calculer la masse $m$.
+
+1. Écrire l'équation de la réaction associée à la transformation de l'acide éthanoïque en présence d'eau.
+
+1. Construire le tableau d'avancement, en fonction de $C_{0}$, $V_{0}$ et $X_{\acute{e} q}$ (l'avancement à l'état d'équilibre).
+
+1. Exprimer le taux d'avancement final $\tau_{0}$ en fonction de la concentration en ions oxonium à l'équilibre $\left(\left[\right. H_{3} O^{+} \left]\right.\right)_{\acute{e} q}$ et $C_{0}$.
+
+La mesure de la conductivité de la solution $S_{0}$ donne $\sigma_{0} = 34 , 3 m S . m^{- 1}$ à 25°C.
+
+1. Exprimer la conductivité $\sigma$ de la solution d'acide éthanoïque à l'état d'équilibre en fonction des conductivités molaires ioniques des ions présents et de la concentration en ions oxonium à l'équilibre $\left(\left[\right. H_{3} O^{+} \left]\right.\right)_{\acute{e} q}$.
+
+1. Calculer le pH de la solution.
+
+1. Calculer $\tau_{0}$ le taux d'avancement de la réaction.
+
+On réalise la même étude, en utilisant une solution $S_{1}$ d'acide éthanoïque de concentration $C_{1} = 5 . 10^{- 3} m o l . L^{- 1}$
+
+La mesure de la conductivité de la solution $S_{1}$ donne $\sigma_{1} = 10 , 7 m S . m^{- 1}$ à 25°C.
+
+1. Calculer $\tau_{1}$ le taux d'avancement de la réaction.
+
+1. En déduire l'influence de la concentration de la solution sur le taux d'avancement.
+
+Conductivités molaires ioniques à conditions de l'expérience :
+
+- $\lambda_{H_{3} O^{+}} = 35 m S . m^{2} . m o l^{- 1}$
+- $\lambda_{CH_{3} COO^{-}} = 4 , 09 m S . m^{2} . m o l^{- 1}$
+
+### 5-2/ Exercice 2
+
+On dissout une masse m=8,0g de nitrate d'ammonium $N H_{4} N O_{3}$ dans l'eau.
+
+Le sel (solide) de nitrate d'ammonium se dissout totalement, on obtient ainsi une solution A de volume V = 1,0 L.
+
+Le pH de cette solution est pH = 5,1.
+
+1. Écrire l'équation de la dissolution de $N H_{4} N O_{3}$ dans l'eau.
+
+1. Écrire l'équation de la réaction acido-basique notée (1) entre les couples $N \left(H_{4}\right)^{+} / N H_{3}$ et $H_{3} O^{+} / H_{2} O$
+
+1. Dresser le tableau d'avancement de la réaction acido-basique et calculer le taux d'avancement final.
+
+On augmente le volume de la solution A d'un facteur 3 en complétant avec de l'eau distillée.
+
+On mesure la nouvelle valeur du pH et on trouve pH = 5,3.
+
+1. Quel est le volume final de la solution obtenue ?
+
+1. Calculer le nouveau taux d'avancement final.
+
+1. La réaction acido-basique est-elle totale ?
+
+1. Quel est l'effet de l'ajout de l'eau sur l'équilibre chimique (1) ?
+
+### 5-3/ Exercice 3
+
+Un volume $V = 50 , 0 m L$ d'une solution aqueuse a été obtenu en apportant $n_{1} = 2 , 50 m m o l$ d'acide méthanoïque $H C O O H_{\left(\right. a q \left.\right)}$ et $n_{2} = 5 , 00 m m o l$ d'éthanoate de sodium $N \left(a^{+}\right)_{\left(\right. a q \left.\right)} + C H 3 C O \left(O^{-}\right)_{\left(\right. a q \left.\right)}$.
+
+Dans l'état d'équilibre à $25 \circ C$, sa conductivité vaut $\sigma = 0 , 973 S . m^{- 1}$.
+
+1. Écrire l'équation de la réaction et établir son tableau d'avancement.
+
+1. Exprimer la conductivité $\sigma$ en fonction de l'avancement $x_{\acute{e} q}$ dans l'état d'équilibre. En déduire la valeur $x_{\acute{e} q}$.
+
+1. Déterminer, à l'état d'équilibre, les concentrations molaires effectives des espèces chimiques participant à la réaction.
+
+1. Calculer la valeur du taux d'avancement final $\tau$, conclure
+
+Conductivités molaires ioniques à $25 \circ C$ :
+
+$\lambda \left(\right. C H 3 C O O^{-} \left.\right) = \lambda_{1} = 4 , 09 . 10^{- 3} S . m^{2} . m o l^{- 1} \\ \lambda \left(\right. H C O O^{-} \left.\right) = \lambda_{2} = 5 , 46 . 10^{- 3} S . m^{2} . m o l^{- 1} \\ \lambda \left(\right. N a^{+} \left.\right) = \lambda_{3} = 5 , 01 . 10^{- 3} S . m^{2} . m o l^{- 1}$
+
+### 5-4/ Exercice 4
+
+L'acide éthanoïque (acétique) $C H_{3} C O O H$ réagit de façon limitée avec l'eau, l'équation de la réaction s'écrit :
+
+$\overline{\left.\right) C H_{3} C O O H_{\left(\right. a q \left.\right)} + H_{2} O_{\left(\right. l \left.\right)} \rightleftarrows C H_{3} C O \left(O^{-}\right)_{\left(\right. a q \left.\right)} + H_{3} \left(O^{+}\right)_{\left(\right. a q \left.\right)} }$
+
+1. Donner la définition d'un acide selon Bronsted.
+
+1. Dans l'équation ci-dessus, identifier les deux couples acides/base mis en jeu.
+
+1. Exprimer la constante d'équilibre K associée à l'équation de cet équilibre chimique.
+
+Une solution d'acide éthanoïque, de concentration molaire initiale $C_{1} = 2 , 7 . 10^{- 3 } m o l . L^{- 1}$ et de volume $V_{1} = 100 m L$ a un pH de 3,7 à 25°C.
+
+1. Déterminer la quantité de matière initiale de l'acide éthanoïque $n_{1}$.
+
+1. Dresser le tableau d'avancement, puis calculer l'avancement maximale.
+
+1. Déduire, de la mesure du pH, la concentration molaire finale des ions oxonium. Calculer l'avancement final $x_{f}$.
+
+1. Donner l'expression du taux d'avancement final $\tau_{1}$, montrer qu'il a pour valeur $\tau_{1} = 7 , 4 . 10^{- 2}$. La transformation est-elle totale ?
+
+1. Calculer la concentration molaire finale en ions éthanoate $C H_{3} C O O^{-}$.
+
+1. Calculer la valeur de la concentration molaire finale effective de l'acide éthanoïque $\left[C H_{3} C O O H\right]_{f}$.
