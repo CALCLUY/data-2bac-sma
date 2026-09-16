@@ -145,3 +145,137 @@ formules dont l'extraction PDF a produit un flux de caractères réordonné ou i
 (matrices, fractions empilées, indices/exposants imbriqués). Conformément à la consigne, aucune
 formule n'a été devinée : le marqueur est inséré à côté de la meilleure reconstitution
 littérale disponible.
+
+---
+
+# Phase 3 — Physique-Chimie
+
+Source : https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-mathematiques-a-biof
+Seuls les liens « Doc » ont été suivis (Cours et Exos). Les liens « PDF », vidéo et diaporama ont
+été ignorés. L'accordéon bleu « Examens nationaux » de la page de cours n'a pas été ouvert,
+conformément à la consigne ; les examens proviennent exclusivement de la section 4581.
+
+## Synthèse
+
+| Section | Sujets traités | Fichiers .txt |
+|---|---|---|
+| Semestre 1 — Cours et Exercices | 16 | 32 |
+| Semestre 2 — Cours et Exercices | 18 | 36 |
+| Devoirs SM | 4 | 4 |
+| Devoirs SPC | 4 | 4 |
+| Examens Nationaux (2010–2025) | 51 documents | 51 |
+| **Total Physique-Chimie** | | **127 fichiers .txt** |
+
+Convention : une page « Doc » donne deux fichiers, `-cours.txt` et `-exos.txt`.
+
+## Semestre 1 — 16 sujets (32 fichiers)
+
+01 ondes-mecaniques-progressives · 02 ondes-mecaniques-progressives-periodiques ·
+03 propagation-des-ondes-lumineuses · 04 transformations-lentes-et-transformations-rapides ·
+05 suivi-temporel-d-une-transformation-chimique-vitesse-de-reaction · 06 decroissance-radioactive ·
+07 noyaux-masse-et-energie · 08 transformations-chimiques-s-effectuant-dans-les-2-sens ·
+09 etat-d-equilibre-d-un-systeme-chimique · 10 dipole-rc · 11 dipole-rl ·
+12 oscillations-libres-d-un-circuit-rlc-serie · 13 circuit-rlc-serie-en-regime-sinusoidal-force-sm ·
+14 ondes-electromagnetiques-et-modulation-d-amplitude ·
+15 transformations-liees-a-des-reactions-acide-base · 16 dosage-acido-basique.
+
+## Semestre 2 — 18 sujets (36 fichiers)
+
+17 lois-de-newton · 18a chute-libre-d-un-corps-solide · 18b chute-verticale-avec-frottement ·
+19a mouvements-plans-projectile-dans-le-champ-de-pesanteur ·
+19b mouvements-plans-particule-chargee-dans-un-champ-magnetique ·
+19c mouvements-plans-particule-chargee-dans-un-champ-electrique-sm ·
+20 evolution-spontanee-d-un-systeme-chimique ·
+21 transformations-spontanees-dans-les-piles-et-production-d-energie ·
+22 mouvement-des-satellites-et-des-planetes ·
+23 mouvement-de-rotation-d-un-solide-autour-d-un-axe-fixe ·
+24a oscillateurs-mecaniques-pendule-elastique ·
+24b oscillateurs-mecaniques-pendule-pesant-simple-et-de-torsion ·
+25 transformations-forcees-electrolyse · 26a aspects-energetiques-pendule-elastique ·
+26b aspects-energetiques-pendule-pesant-et-de-torsion · 27 atome-et-mecanique-de-newton ·
+28 reactions-d-esterification-et-d-hydrolyse · 29 controle-de-l-evolution-d-un-systeme-chimique.
+
+Particularités relevées :
+- Sujet 28 : la page propose « P1 » et « P2 » au lieu de « Cours » ; les deux parties ont été
+  fusionnées dans le fichier `-cours.txt`.
+- Sujets 27 et 29 : aucun lien d'exercices n'est publié ; le fichier `-exos.txt` reprend les
+  applications intégrées à la page Doc.
+- Les numéros des dossiers de figures du site ne suivent pas la numérotation des séances
+  (par ex. séance 8 → dossier s6) ; cela n'a pas d'incidence sur les fichiers produits.
+
+## Devoirs SM — 4 fichiers · Devoirs SPC — 4 fichiers
+
+Devoirs SM : S1 Devoir 1, S1 Devoir 2, S1 Devoir 3, S2 Devoir 1 (modèle 1).
+Devoirs SPC : S1 Devoir 1, S1 Devoir 2, S1 Devoir 3, S2 Devoir 1 (modèle 1).
+
+Aucun corrigé n'est publié pour ces devoirs : seuls des fichiers `-sujet.txt` existent.
+Les lignes « Semestre 2 — Devoir 2 » et « Semestre 2 — Devoir 3 » (SM comme SPC) sont annoncées
+dans la page mais **ne comportent aucun lien « Doc »** : non publiées, donc non extraites.
+
+## Examens Nationaux Physique-Chimie (section 4581)
+
+57 documents candidats (2010–2024 : sujet + corrigé pour les deux sessions, sauf 2013 et 2015 où
+seuls les sujets sont publiés ; 2025 : sujet de la session normale uniquement).
+**51 fichiers extraits**, 6 documents illisibles.
+
+| Année | Fichiers extraits |
+|---|---|
+| 2010 | 4 |
+| 2011 | 4 |
+| 2012 | 4 |
+| 2013 | 2 (sujets seulement) |
+| 2014 | 4 |
+| 2015 | 2 (sujets seulement) |
+| 2016 | 4 |
+| 2017 | 4 |
+| 2018 | 4 |
+| 2019 | 1 |
+| 2020 | 4 |
+| 2021 | 2 |
+| 2022 | 4 |
+| 2023 | 4 |
+| 2024 | 4 |
+| 2025 | 0 |
+
+### Documents illisibles (PDF image, aucune couche texte)
+
+- `2019 normale — sujet`
+- `2019 normale — corrigé`
+- `2019 rattrapage — sujet`
+- `2021 normale — sujet`
+- `2021 rattrapage — sujet`
+- `2025 normale — sujet`
+
+Pour ces six PDF, l'extraction renvoie un contenu vide : ce sont des scans sans couche texte et
+aucune reconnaissance de caractères exploitable n'a pu être obtenue. Aucun fichier n'a été créé
+plutôt que de produire du contenu deviné.
+
+### Typologie des corrigés
+
+Deux formes coexistent dans la section 4581 :
+1. les **« عناصر الإجابة »** officiels du Centre national d'évaluation : tableaux
+   *Question / Elément de réponse / Barème* + références au cadre de référence. Ils ont été
+   reproduits sous forme de listes structurées (2018 rattrapage, 2022 rattrapage, 2023 rattrapage,
+   2024 normale, 2024 rattrapage, etc.) ;
+2. des **corrections détaillées de tiers** (KACHICHE, CHARGUI, svt-assilah…) pour 2016 R, 2017 N/R,
+   2018 N, 2019 R, 2020 N/R, 2021 N/R, 2022 N, 2023 N. Leur couche texte est souvent désordonnée ;
+   la solution a été restituée en notation linéaire, avec une note entre crochets en tête de
+   fichier signalant qu'il s'agit d'une correction non officielle.
+
+Plusieurs corrigés arabes anciens (à partir de 2010) sortent en mojibake via l'extraction PDF :
+la structure, les formules en caractères latins, les résultats numériques et le barème ont été
+conservés, les intitulés arabes standard ont été re-saisis, et une note entre crochets le précise
+dans le fichier.
+
+### Marqueurs `[FORMULA_IMAGE_UNREADABLE]`
+
+85 fichiers de la partie Physique-Chimie contiennent au moins un marqueur : 71 dans les cours,
+exercices et devoirs (formules publiées uniquement sous forme d'image dans la page Doc) et 14
+dans les examens nationaux (extraction PDF réordonnée sur les fractions empilées, indices et
+exposants imbriqués). Conformément à la consigne, aucune formule n'a été devinée ni décrite en
+mots.
+
+### Items nécessitant une authentification
+
+Aucun. Tous les éléments Premium (`*`) de la section 4581 et des sections de cours ont été servis
+sans connexion.
