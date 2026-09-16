@@ -1,0 +1,241 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2023 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية
+الدورة الاستدراكية 2023 – الموضوع
+شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) (خيار فرنسية)
+المادة : علوم الحياة والأرض
+مدة الإنجاز : 2h — المعامل : 3
+RS 36F
+
+L’utilisation d’une calculatrice non programmable est autorisée
+
+## Partie I : Restitution des connaissances (5 points)
+
+I. Répondez sur votre feuille de production aux questions suivantes :
+
+1. Définissez : - Translocation chromosomique - Brassage intrachromosomique. (1 pt)
+
+2. Citez : (1 pt)
+
+a. Deux exemples d’anomalies chromosomiques affectant le nombre de chromosomes chez l’Homme.
+
+b. Deux caractéristiques de la télophase II de la méiose.
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte.
+
+Recopiez sur votre feuille de production les couples (1,…), (2,…), (3,…), (4,…) et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1. Les formules chromosomiques possibles des spermatozoïdes produits par une drosophile à 2n = 8 sont :
+
+a. n = 7A + X et n = 7A + Y ;
+
+b. n = 7AA + X et n = 7AA + Y ;
+
+c. n = 3AA + X et n = 3AA + Y ;
+
+d. n = 3A + X et n = 3A + Y.
+
+2. Le caryotype d’un homme atteint du syndrome de Klinefelter se caractérise par :
+
+a. un chromosome sexuel X supplémentaire ;
+
+b. un chromosome sexuel Y supplémentaire ;
+
+c. un chromosome sexuel X manquant ;
+
+d. un chromosome sexuel Y manquant.
+
+3. Dans le cas d’une maladie héréditaire dominante liée au chromosome sexuel X:
+
+a. le père atteint donne des filles saines ;
+
+b. le père atteint donne des filles atteintes ;
+
+c. la mère saine homozygote donne des garçons atteints ;
+
+d. la mère atteinte homozygote donne des garçons sains.
+
+4. Une cellule mère diploïde contenant une quantité Q d’ADN à la phase G2, donne à la fin de la division équationnelle des cellules :
+
+a. diploïdes contenant une quantité Q/2 d’ADN ;
+
+b. diploïdes contenant une quantité Q/4 d’ADN ;
+
+c. haploïdes contenant une quantité Q/4 d’ADN ;
+
+d. haploïdes contenant une quantité Q/2 d’ADN.
+
+III. Le document suivant représente quatre techniques de diagnostic prénatal chez la femme. Recopiez sur votre feuille de production les numéros (1, 2, 3 et 4) et adressez à chaque numéro le nom de la technique qui lui correspond. (1 pt)
+
+[Figure — Document, image : quatre techniques de diagnostic prénatal — Technique 1 (Echantillon du sang maternel ; Protéines sériques HCG, AFP…), Technique 2, Technique 3, Technique 4 (Cellules embryonnaires)]
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (5 points)
+
+Les escargots sont des êtres vivants hermaphrodites qui possèdent à la fois l’appareil reproducteur mâle et femelle. Pour donner une descendance, chaque individu a besoin de s’accoupler avec un autre. Pour étudier le cycle de développement et la transmission de certains caractères héréditaires par reproduction sexuée chez les escargots, on propose les données suivantes :
+
+Donnée 1 : Helix pomatia sont des escargots qui possèdent des gonades (lieu de la formation des gamètes) composées de tubules contenant deux types de cellules germinales : Les cellules de type a (a1, a2 et a3) occupant le centre des tubules et les cellules de type b (b1, b2 et b3) périphériques.
+
+Le document 1 représente un schéma d’une observation microscopique d’une coupe transversale au niveau des gonades de cette espèce.
+
+[Figure — Document 1, image : coupe transversale des gonades d’Helix pomatia — cellules a1, a2, a3, b1, b2, b3]
+
+Chaque cellule (a1) subit deux divisions successives pour donner quatre cellules (a2) qui se différencient en petites cellules (a3). Concernant les cellules de type (b), chaque cellule (b1) accumule des réserves dans son cytoplasme, augmente de taille et se transforme en cellule (b2). Cette dernière subit deux divisions successives pour donner des cellules (b3). Chaque cellule (a3) fusionne avec une cellule (b3) pour donner un œuf qui s’entoure d’une enveloppe protéique et d’une coquille. Par la suite l’escargot creuse un trou dans le sol pour y pondre 80 à 130 œufs. Au bout de 2 à 3 semaines, les œufs éclosent et donnent des petits escargots à coquille transparente.
+
+Le document 2 représente le cycle de développement de l’escargot Helix pomatia.
+
+[Figure — Document 2, image : cycle de développement d’Helix pomatia — a3, b3, Œuf, Éclosion des œufs (2 à 3 semaines)]
+
+1. En vous basant sur les données précédentes et sachant que Helix pomatia se caractérise par 54 chromosomes, donnez, en justifiant votre réponse la formule chromosomique des cellules (a1), (a2), (b1) et (b2). (1 pt)
+
+2. Réalisez le cycle chromosomique de cette espèce et déduisez son type. (1 pt)
+
+Donnée 2 : Pour étudier la transmission de deux caractères héréditaires (la couleur de la coquille et la présence ou l’absence de bandes sur la coquille) chez les escargots du genre Helix, on a réalisé des croisements en utilisant des lignées différentes P1, P2, P3, P4 et P5.
+
+Le tableau suivant présente les résultats de trois croisements concernant les lignées P1 à « coquilles avec bandes » et P2 à « coquilles sans bandes ».
+
+| Croisement | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Parents | P1 × P1 | P1 × P2 | P2 × P2 |
+| Résultats | 100 % à coquilles avec bandes | 2249 à coquilles sans bandes<br>2246 à coquilles avec bandes | 2567 à coquilles sans bandes<br>886 à coquilles avec bandes |
+
+3. En exploitant les données du tableau :
+
+a. Déterminez, en justifiant votre réponse l’allèle dominant et l’allèle récessif du gène responsable de ce caractère. (0.5 pt)
+
+b. Donnez, en justifiant votre réponse les génotypes des parents P1 et P2. (1 pt)
+
+Utilisez les symboles : - A ou a pour l’allèle responsable de la présence des bandes sur la coquille ;
+
+- S ou s pour l’allèle responsable de l’absence des bandes sur la coquille.
+
+La couleur de la coquille est contrôlée par un gène qui existe sous forme de trois allèles codominants : l’allèle « J » responsable de la couleur jaune, l’allèle « R » responsable de la couleur rouge et l’allèle « B » responsable de la couleur brune.
+
+Le croisement entre les deux lignées pures P3 à « coquilles rouges, sans bandes » et P4 à « coquilles brunes, avec bandes » a donné une génération F1 à coquilles rouge-brune sans bandes.
+
+4. Considérant que les deux gènes étudiés sont liés et éloignés de 3.5 cM et en exploitant les données précédentes, déterminez, en vous aidant d’un échiquier de croisement, les résultats attendus du croisement entre un individu de F1 et un individu de la lignée P5 à coquilles jaunes avec bandes. (1.5 pt)
+
+### Exercice 2 : (5 points)
+
+L’orge (Hordeum vulgaire) est une céréale cultivée au Maroc qui a un intérêt socioéconomique important. La longueur des barbes des épis (Document 1) chez cette espèce est l’un des caractères d’adaptation aux conditions climatiques arides. Pour mettre en évidence l’importance de ce caractère dans l’amélioration de la productivité agricole de l’orge, on propose les données suivantes :
+
+[Figure — Document 1, image : Plante d’orge — Barbe, Graines]
+
+• Donnée 1 : Des mesures de la longueur des barbes des épis sont effectuées chez deux populations statistiques d’orge P1 et P2. Le document 2 présente les résultats obtenus.
+
+| Centres de classes en cm | 10.5 | 11 | 11.5 | 12 | 12.5 | 13 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nombre de plantes | 20 | 24 | 30 | 25 | 12 | 8 |
+
+Figure 1 : Distribution de la longueur des barbes des épis dans la population P1.
+
+| Centres de classes en cm | 12 | 12.5 | 13 | 13.5 | 14 | 14.5 | 15 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de plantes | 4 | 8 | 12 | 56 | 14 | 11 | 9 |
+
+Figure 2 : Distribution de la longueur des barbes des épis dans la population P2.
+
+Document 2
+
+1. Déterminez, en justifiant votre réponse, le type de la variation étudiée. (0.5pt)
+
+2. Réalisez sur votre feuille de production et sur le même graphe, le polygone de fréquence de la distribution de la longueur de la barbe des épis de chacune des populations P1 et P2. (1pt)
+
+Utilisez l’échelle : 1cm pour chaque classe et 1cm pour 10 plantes.
+
+3. Décrivez la distribution des fréquences de la longueur de la barbe des épis chez les populations P1 et P2, puis déduisez pour chacune d’elles si elle est homogène ou hétérogène. (0.75pt)
+
+4. En vous basant sur un tableau d’application du calcul des paramètres statistiques, calculez la moyenne arithmétique, l’écart-type et l’intervalle de confiance ]X̅- 𝜎 , X̅+ 𝜎[ de la distribution de la longueur de la barbe des épis dans la population P1. (1.75pt)
+
+On donne :
+
+$$\bar{X}=\frac{\sum_{i}^{1}\left(f_{i}x_{i}\right)}{n}\qquad et \qquad \sigma=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(x_{i}-\bar{X}\right)^{2}}{n}}$$
+
+• Donnée 2 :
+
+- L’étude des paramètres statistiques de la distribution de la longueur de la barbe des épis chez la population P2 a donné les résultats présentés dans le document 3.
+
+| Valeurs des paramètres statistiques | | |
+| --- | --- | --- |
+| X̅ | 𝜎 | ]X̅- 𝜎 , X̅+ 𝜎[ |
+| 13.60 cm | 0.68 cm | ]12.92 , 14.28[ |
+
+Document 3
+
+- L’étude statistique d’une autre variable quantitative, qui est le poids de mille grains (PMG) d’orge, a été effectué chez les deux populations d’orge P1 et P2. Le document 4 présente les résultats obtenus.
+
+| Populations | Valeur moyenne du PMG |
+| --- | --- |
+| P1 | 40.07 g |
+| P2 | 50.76 g |
+
+Document 4
+
+5. En exploitant les documents 2, 3 et 4, Comparez les paramètres statistiques (Mode, moyenne et écart-type) de la distribution de la longueur de la barbe des épis entre les deux populations P1 et P2, puis déduisez la relation entre la longueur de la barbe des épis et la productivité chez l’orge. (1pt)
+
+### Exercice 3 : (5 points)
+
+L’éléphant africain (Loxondota africana) est une espèce dont la plus part des individus, mâles et femelles, portent des incisives supérieures à croissance continue, appelées défenses (Document 1).
+
+[Figure — Document 1, image : éléphant africain — Défenses]
+
+L’intérêt des défenses se manifeste principalement dans la compétition pour l’accouplement, la protection des petits et la recherche de la nourriture. De ce fait les éléphants qui possèdent des défenses se nourrissent mieux et ont plus de chance de se reproduire.
+
+Pour expliquer la variation de la structure génétique de deux populations africaines d’éléphants, au 20ème siècle, on propose les données suivantes :
+
+Donnée 1 : Au début du 20ème siècle, le commerce d’ivoire était à l’origine d’un massacre de grands nombres d’éléphants qui sont tués pour l’ivoire de leurs défenses. Pour protéger cette espèce, la Zambie a pris en 1989 des mesures : interdiction du commerce de l’ivoire, création d’un parc naturel au sud Luangwa et mobilisation de patrouilles anti-braconnage.
+
+Le document 2 présente l’évolution du nombre d’individus d’éléphants dans la population et les pourcentages des femelles sans défenses en Zambie avant et après la création du parc naturel.
+
+| Années | 1969 | 1989 | 1993 |
+| --- | --- | --- | --- |
+| Nombre d’individus de la population | 35000 | 2500 | 6000 |
+| Femelles sans défenses (%) | 10 | 38 | 29 |
+
+Document 2
+
+1. En exploitant les données précédentes et celles du document 2 :
+
+a. Décrivez l’évolution du nombre d’individus et le pourcentage des femelles sans défense dans cette population. (0.5 pt)
+
+b. Expliquez l’évolution du pourcentage des femelles sans défense dans la population après la création du parc puis déduisez le facteur responsable de cette évolution. (1 pt)
+
+Donnée 2 : En Afrique du Sud, dans la région Addo ; entre 1919 et 1920 la chasse intensive a réduit la population d’éléphants à 11 individus dont la moitié sans défenses. La création d’un parc naturel en 1931 a permis la protection de cette population et l’augmentation du nombre d’éléphants à 400 individus en 2015. Le document 3 présente l’évolution du pourcentage des femelles sans défenses entre 1931 et 2015 dans le parc.
+
+[Figure — Document 3, image : Femelles sans défenses (%) — axe 0, 20, 40, 60, 80, 100 — Années 1931 et 2015]
+
+2. En exploitant les données précédentes et le document 3 :
+
+a. Comparez le pourcentage des femelles sans défenses dans la population du parc entre 1931 et 2015. (0.5 pt)
+
+b. Montrez si la population d’éléphants du parc Addo et celles du parc au Sud Luangwa, ont subi l’action du même facteur de variation. (0.75 pt)
+
+La croissance de défenses chez les éléphants est contrôlée par un gène porté par le chromosome sexuel X. Ce gène existe sous forme de deux allèles différents :
+
+- L’allèle sauvage dominant « D » responsable de la présence des défenses ;
+
+- L’allèle muté récessif « d » responsable de l’absence de défenses.
+
+Le document 4 présente les fréquences des deux allèles « D » et « d » dans la population du parc d’Addo en Afrique du Sud.
+
+| Allèles | Fréquences En 1931 | Fréquences En 2007 |
+| --- | --- | --- |
+| D | 0.32 | 0.07 |
+| d | 0.68 | 0.93 |
+
+Document 4
+
+3. Supposant qu’en 2007 la population a atteint son équilibre selon la loi de Hardy-Weinberg, calculez la fréquence de chaque phénotype pour les mâles et pour les femelles de cette population. (1pt)
+
+4. En vous basant sur les données de l’exercice, expliquez l’évolution de la structure génétique de la population du parc Addo. (1.25 pt)
+
+# Fin

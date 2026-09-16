@@ -1,0 +1,238 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2023 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية
+الدورة العادية 2023 – الموضوع
+شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) (خيار فرنسية)
+المادة : علوم الحياة والأرض
+مدة الإنجاز : 2h — المعامل : 3
+NS 36F
+
+L’utilisation d’une calculatrice non programmable est autorisée
+
+## Partie I : Restitution des connaissances (5 points)
+
+I. Répondez sur votre feuille de production aux questions suivantes :
+
+1. Définissez : - Cycle de développement - Gamètes. (1 pt)
+
+2. Citez : (1 pt)
+
+a. Deux rôles de la fécondation durant le cycle de développement d’une espèce.
+
+b. Deux différences entre un cycle chromosomique haplophasique et un cycle chromosomique diplophasique.
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte.
+
+Recopiez sur votre feuille de production les couples ( 1,…), (2,…), (3,…), (4,…) et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1. Lors de la télophase I, la cellule mère se divise en deux cellules :
+
+a. haploïdes avec des chromosomes à deux chromatides ;
+
+b. diploïdes avec des chromosomes à une seule chromatide ;
+
+c. haploïdes avec des chromosomes à une seule chromatide ;
+
+d. diploïdes avec des chromosomes à deux chromatides.
+
+2. Lors de la méiose, le crossing-over caractérise :
+
+a. la prophase I et permet le brassage interchromosomique ;
+
+b. la prophase II et permet le brassage intrachromosomique ;
+
+c. la prophase I et permet le brassage intrachromosomique ;
+
+d. la prophase II et permet le brassage interchromosomique.
+
+3. Le cycle chromosomique haplodiplophasique se caractérise par une génération :
+
+a. sporogène haploïde et une génération gamétogène diploïde ;
+
+b. gamétogène haploïde et une génération sporogène diploïde ;
+
+c. sporogène haploïde issue du développement du zygote ;
+
+d. gamétogène diploïde issue du développement du zygote.
+
+4. Lors du cycle de développement, les spores :
+
+a. haploïdes fusionnent pour donner des structures diploïdes ;
+
+b. diploïdes fusionnent pour donner des structures diploïdes ;
+
+c. haploïdes germent pour donner des structures haploïdes ;
+
+d. diploïdes germent pour donner des structures haploïdes.
+
+III. Le document suivant représente l’évolution de la quantité d’ADN dans le noyau d’une cellule germinale au cours de la formation des gamètes.
+
+Recopiez sur votre feuille de production les lettres « a », « b », « c » et « d », puis adressez à chaque lettre le nom de la phase qui lui correspond. (1 pt)
+
+[Figure — Document, image : courbe de l’évolution de la quantité d’ADN (UA) — valeurs Q, 2Q, Q/2 — en fonction du Temps (UA), avec les repères a, b, c, d]
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (3.25 points)
+
+Au Maroc, l’orge est l’une des céréales, qui joue un rôle capital dans l’alimentation animale, ayant fait sujet de plusieurs études génétiques. Parmi les caractères héréditaires étudiés chez l’orge : "le nombre de rangs de grains par épi" et "la couleur des glumelles inférieures" (enveloppe qui adhère aux graines).
+
+Afin d’étudier la transmission de ces deux caractères, on propose les résultats des croisements suivants :
+
+Premier croisement : des plantes d’orge d’une lignée (L1) à deux rangs de grains par épi et des glumelles inférieures pourpres sont croisées entre elles, la génération (F) issue de ce croisement comporte les phénotypes suivants :
+
+- Phénotype 1 : plantes à deux rangs de grains par épi et glumelles inférieures pourpres.
+
+- Phénotype 2 : plantes à six rangs de grains par épi et glumelles inférieures non colorées.
+
+- Phénotype 3 : plantes à deux rangs de grains par épi et glumelles inférieures non colorées.
+
+- Phénotype 4 : plantes à six rangs de grains par épi et glumelles inférieures pourpres.
+
+1. En vous basant sur les données du premier croisement, dégagez en justifiant votre réponse, les conclusions possibles. (0.75 pt)
+
+2. Déterminez les génotypes possibles des plantes de la lignée (L1). (0.75 pt)
+
+Utilisez les symboles :
+
+- R et r pour les allèles responsables du nombre de rangs par épi.
+
+- G et g pour les allèles responsables de la couleur des glumelles.
+
+Deuxième croisement : La lignée (L1) est croisée avec une lignée (L2) à six rangs de grains par épi et des glumelles inférieures non colorées. La génération (F’) issue de ce croisement comporte les mêmes phénotypes (1, 2, 3 et 4) de la génération (F) avec les effectifs présentés dans le tableau ci-contre.
+
+| Génération F’ | | | | |
+| --- | --- | --- | --- | --- |
+| Phénotypes | 1 | 2 | 3 | 4 |
+| Effectifs | 964 | 956 | 242 | 268 |
+
+3. En exploitant les résultats du deuxième croisement et des données précédentes :
+
+a. Déterminez, en justifiant votre réponse, le génotype à retenir parmi ceux proposés dans votre réponse à la question 2. (0.75 pt)
+
+b. Réalisez l’interprétation chromosomique des résultats du deuxième croisement en vous aidant d’un échiquier de croisement. (1 pt)
+
+### Exercice 2 : (1.75 point)
+
+Incontinentia Pigmenti (IP) est une maladie héréditaire rare chez l’Homme, causée par une déficience d’un gène appelé « Nemo », porté par le chromosome X. Cette maladie est caractérisée par des atteintes cutanées, oculaires, dentaires et nerveuses. Le document suivant présente l’arbre généalogique d’une famille dont certains membres sont atteints de cette maladie.
+
+[Figure — Document, image : arbre généalogique — légende : femme saine, femme atteinte, homme sain, fœtus, fœtus avorté ; générations I, II, III]
+
+1. En vous basant sur l’arbre généalogique, montrez si l'allèle responsable de la maladie est dominant ou récessif. (0.5 pt)
+
+2. Sachant que le fœtus qui ne porte que l’allèle morbide est avorté, déterminez, en vous aidant d’un échiquier de croisement, la probabilité pour que le couple (II4, II5) donne naissance à un individu atteint par cette maladie. (1.25 pt)
+
+Utilisez les symboles suivants : « N » pour l’allèle dominant et « n » pour l’allèle récessif.
+
+### Exercice 3 : (5 points)
+
+Le maïs est une plante oléagineuse dont les huiles sont utilisées dans l’industrie alimentaire et pharmaceutique. Pour mettre en évidence le rôle de la sélection artificielle dans l’amélioration de la productivité des huiles de maïs on propose les données suivantes :
+
+[Figure — Document 1, image : Épis — Pied de maïs]
+
+• Des chercheurs ont récolté des épis (voir document 1) à partir de 104 pieds d’un champ de maïs, qui représentent la population statistique P, puis ils ont mesuré la quantité d’huiles en (g) extraite de 100 g de grains pour chaque pied de cette population. Le document 2 présente les résultats statistiques de la distribution de la quantité des huiles chez la population P.
+
+| Centres de classes en g | 3.5 | 4 | 4.5 | 5 | 5.5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nombre de pieds | 5 | 12 | 42 | 28 | 15 | 2 |
+
+Document 2
+
+1. Déterminez, en justifiant votre réponse, le type de la variation étudiée. (0.5pt)
+
+2. Calculez la moyenne arithmétique, l’écart type et l’intervalle de confiance ]X̅ – 𝜎 ; X̅ + 𝜎[ de cette distribution, en vous basant sur un tableau d’application du calcul des paramètres statistiques. (1.75 pts)
+
+On donne :
+
+$$\bar{X}=\frac{\sum_{i}^{1}\left(f_{i}x_{i}\right)}{n}\qquad et \qquad \sigma=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(x_{i}-\bar{X}\right)^{2}}{n}}$$
+
+• Á partir de la population P, les chercheurs ont sélectionné les grains des pieds de la classe dont le centre est 6 g. La semence de ces graines a donné une population P1 composée de 171 pieds.
+
+La quantité d’huile en g dans 100g de grains a été mesurée pour chaque pied de cette population. Le document 3 présente les résultats statistiques de la distribution de la quantité des huiles (g) dans la population P1.
+
+| Centres de classes en g | 4 | 4.5 | 5 | 5.5 | 6 | 6.5 | 7 | 7.5 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de pieds | 5 | 30 | 54 | 47 | 24 | 4 | 3 | 4 |
+
+Document 3
+
+3. Sur votre feuille de production, réalisez, sur le même graphe, le polygone de fréquence de la distribution de la quantité des huiles pour chacune des deux populations P et P1. (1.25 pt)
+
+Utilisez l’échelle : 1cm pour chaque classe et 1cm pour 10 pieds.
+
+4. Déterminez, en justifiant votre réponse, si la population P est homogène ou hétérogène. (0.5 pt)
+
+• Á partir de la population P1, les chercheurs ont sélectionné les grains des pieds de la classe dont le centre est 7.5g. La semence de ces graines a donné une population P2.
+
+La quantité d’huile en g dans 100g de grains a été mesurée pour chaque pied de cette population.
+
+Le document 4 présente la distribution de la quantité des huiles dans la population P2.
+
+[Figure — Document 4, image : histogramme du nombre de pieds (0, 5, 10, 15, 20, 25, 30, 35) en fonction du centre de classes en (g) : 5.5, 6, 6.5, 7, 7.5, 8, 8.5]
+
+5. En vous basant sur les données précédentes, montrez que la sélection artificielle est efficace pour améliorer la productivité des huiles de maïs. (1pt)
+
+### Exercice 4 : (5 points)
+
+Pour mettre en évidence l’influence des facteurs de variation sur la structure génétique des populations, on propose les données suivantes :
+
+Donnée 1 : Le léopard (Panthera pardus), aussi appelé panthère, est un félin que l’on trouve dans les forêts, les savanes et les semi-déserts dans diverses régions d’Asie et d’Afrique. C’est une espèce qui présente une variété de couleurs du pelage (document 1).
+
+- Le léopard de forme claire (figure 1) présente un pelage brun clair tacheté de rosettes noires.
+
+- Le léopard de forme sombre ou panthère noire (figure 2) présente un pelage foncé tacheté de rosettes noires.
+
+[Figure — Document 1, image : Figure 1 : Léopard de forme claire — Figure 2 : Léopard de forme sombre]
+
+Pour montrer l’origine génétique de cette variation chez les léopards, on a déterminé la séquence nucléotidique d’une partie du gène AGOUTI responsable de la couleur du pelage et la séquence des acides aminés qui lui correspond chez les deux formes de léopards. Le document 2 présente les résultats obtenus.
+
+[Figure — Document 2, image : Numéro des nucléotides / Séquence nucléotidique / Séquence d’acides aminés — Figure 1 : Chez le léopard clair ; Figure 2 : Chez le léopard sombre]
+
+1. En exploitant les données du document 2 :
+
+a. comparez d’une part les deux séquences nucléotidiques du gène AGOUTI, et d’autre part les deux séquences d’acides aminés entre les deux formes de léopards. (0.5 pt)
+
+b. déduisez l’origine de la variation de la couleur du pelage chez les léopards. (0.5pt)
+
+Donnée 2 : Le léopard est un excellent coureur, mais sur de courtes distances. Vu la compétition importante entre les individus de la population pour la nourriture disponible dans le milieu, le léopard doit s’approcher au plus près de sa proie sans se faire repérer.
+
+Le document 3 présente les résultats d’une étude de la répartition des deux phénotypes des léopards dans la savane d’Afrique et dans la forêt subtropicale humide d’Asie.
+
+| Milieux | Caractéristiques des milieux | Fréquence phénotypiques des léopards : Forme claire | Forme sombre |
+| --- | --- | --- | --- |
+| Forêt subtropicale humide d’Asie | forêts denses dominées par des plantes arborées | 0.45 | 0.55 |
+| Savane d’Afrique | Forêts moins denses dominées par les plantes herbacées | 0.99 | 0.01 |
+
+Document 3
+
+2. En vous basant sur le document 3 et les données précédentes, expliquez la répartition phénotypique des léopards dans chaque milieu, puis déduisez le facteur responsable de cette répartition. (1.5 pt)
+
+Donnée 3 : Des études effectuées en Afrique du Sud, sur une population de léopards, ont montré l’existence d’individus à pelage rougeâtre avec des taches de couleur beige (Pelage fraise). Ce phénotype résulte de l’expression d’un allèle mutant récessif « f » du gène AGOUTI. L’allèle dominant « C » étant responsable de la couleur claire du pelage des léopards.
+
+Afin de vérifier l’état d’équilibre de cette population, on a étudié sa structure génétique. Le document 4 présente la répartition phénotypique et génotypique observée.
+
+| Phénotypes | Génotypes | Nombre d’individus |
+| --- | --- | --- |
+| Claire | C//C | 112 |
+| Claire | C//f | 98 |
+| Rougeâtre tacheté du beige | f//f | 7 |
+
+Document 4
+
+3. En vous basant sur les données du document 4, calculez :
+
+a. les fréquences des génotypes, la fréquence p de l’allèle « C » et la fréquence q de l’allèle « f » dans cette population. (1.25 pt)
+
+b. l’effectif théorique des individus pour chaque génotype en considérant que cette population est en équilibre selon la loi de Hardy-Weinberg. (0.75 pt)
+
+4. En admettant qu’une population est dite en équilibre selon la loi de H-W lorsque les effectifs observés sont proches des effectifs théoriques, déduisez l’état d’équilibre de la population étudiée. (0.5 pt)
+
+# Fin

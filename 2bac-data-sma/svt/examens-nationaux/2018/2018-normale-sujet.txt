@@ -1,0 +1,192 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2018 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية – خيار فرنسية
+الدورة العادية 2018 - الموضوع -
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية : مسلك العلوم الرياضية (أ) – خيار فرنسية
+مدة الإنجاز : 2 — المعامل : 3
+NS36F
+
+L’utilisation d’une calculatrice non programmable est autorisée
+
+## Partie I : Restitution des connaissances (5 points)
+
+I – Répondez, sur votre feuille de rédaction, aux questions suivantes :
+
+a – Définissez les deux notions suivantes :
+
+- Brassage interchromosomique. (0.5 pt)
+
+- Anomalie chromosomique. (0.5 pt)
+
+b – Citez une différence entre l’anaphase I et l’anaphase II de la méiose. (0.5 pt)
+
+c – Déterminez deux rôles de l’arbre généalogique dans la génétique humaine. (0.5 pt)
+
+II – Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte.
+
+Recopiez, sur votre feuille de production, les couples ci-dessous et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+(1, ….) (2, …. ) (3, …. ) (4, ....)
+
+1) Dans le cas de deux gènes liés le crossing-over, qui permet la diversité génétique des gamètes, se produit lors:
+
+a- de la prophase I d’une cellule mère des gamètes homozygote;
+
+b - de la prophase I d’une cellule mère des gamètes hétérozygote;
+
+c - de la prophase II d’une cellule mère des gamètes homozygote;
+
+d- de la prophase II d’une cellule mère des gamètes hétérozygote.
+
+2) La méiose donne:
+
+a- 4 cellules haploïdes à partir d’une cellule mère diploïde ;
+
+b - deux cellules diploïdes à partir d’une cellule mère diploïde ;
+
+c - 4 cellules diploïdes à partir d’une cellule mère diploïde ;
+
+d - deux cellules haploïdes à partir d’une cellule mère diploïde.
+
+3) La maladie héréditaire autosomale liée à un allèle dominant s’exprime chez un individu :
+
+a- masculin homozygote pour l’allèle récessif ;
+
+b - féminin homozygote pour l’allèle récessif ;
+
+c- masculin ou féminin porteur de l’allèle dominant ;
+
+d- masculin porteur de l’allèle dominant sur le chromosome X.
+
+4) Une femme porteuse d’un allèle dominant morbide (qui cause la maladie), sur le chromosome X, transmet la maladie à ses:
+
+a- garçons uniquement ;
+
+b- filles uniquement ;
+
+c- garçons et ses filles à proportions égales ;
+
+d- filles plus qu’à ses garçons.
+
+III – le schéma ci-contre présente une phase de la méiose.
+
+Recopiez, sur votre feuille de production, les chiffres (1, 2, 3 et 4), et écrivez devant chacun d’eux le nom qui convient. (1 pt)
+
+[Figure — image : schéma d’une phase de la méiose avec les repères 1, 2, 3 ; 4 : Titre de la phase :…………………..]
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (5 points)
+
+Pour mettre en évidence le rôle de la méiose et de la fécondation dans le maintien du caryotype (formule chromosomique), dans la diversité génétique et connaître le mode de transmission de quelques gènes responsables des caractères héréditaires, on propose les données suivantes :
+
+I- La tavelure est la principale maladie du pommier. Elle est causée par un champignon nommé Venturia inaequalis qui cause des lésions noires et brunes à la surface des feuilles, des bourgeons et des fruits. Ces lésions sont dues à la rupture de la cuticule. Le document suivant représente le cycle de développement de ce champignon.
+
+Sur un sol humide la rencontre de deux filaments mycéliens (filaments du champignon) aboutit à la fusion des cellules d’une anthéridie avec celles d’un ascogone. Les cellules œufs obtenues entrent en méiose suivie d’une mitose et donnent naissance à des asques mûrs qui renferment huit ascospores (structures à deux cellules).
+
+Au printemps les précipitations disséminent les ascospores et le vent les transporte sur les jeunes feuilles du pommier (organes sensibles). Sous l’effet de la température et de l’humidité, les ascospores germent donnant chacune un tube germinatif qui pénètre dans les feuilles et cause des lésions suite à la rupture de la cuticule. En automne, les feuilles infectées par le champignon tombent sur le sol et le cycle reprend.
+
+[Figure — Document, image : cycle de développement de Venturia inaequalis — Rencontre de filaments mycéliens mâle et femelle sur un sol humide, Anthéridie, Ascogone, Fécondation, Méiose, Asque immature, Asque mûr, Ascospores, Infection de jeunes feuilles, Tube germinatif, Cuticule, Multiplication du champignon, Pommier, Feuilles infectées]
+
+1- En vous basant sur vos connaissances et en exploitant le document ci-dessus, donnez en justifiant votre réponse la formule chromosomique de la cellule œuf et des ascospores. (1pt)
+
+2- Réalisez le cycle chromosomique du Venturia inaequalis, et déterminez son type. (1 pt)
+
+II - Afin d’étudier le mode de transmission des deux caractères ; taille des fruits et sensibilité envers le champignon Venturia inaequalis qui entraîne une baisse importante de la production chez les pommiers, on propose les données suivantes :
+
+Dans une région à climat propice on cultive deux souches de pommiers : Souche (A) à gros fruits et sensible au champignon, souche (B) à petits fruits et résistante au champignon.
+
+Pour sélectionner une souche pure (homozygote pour les deux gènes) de pommier à gros fruits et résistante à la tavelure, on réalise les deux croisements suivants :
+
+Premier croisement : entre des plants de pommiers des souches (A) et (B). Il donne une première génération F1, constituée de plants à petits fruits et résistants au champignon.
+
+Deuxième croisement : entre la première génération F1 et des plants de la souche (A). Il donne une deuxième génération F’2 constituée de 12967 individus répartis:
+
+- 3212 à petits fruits et résistants au champignon ;
+
+- 3182 à petits fruits et sensibles au champignon ;
+
+- 3232 à gros fruits et résistants au champignon ;
+
+- 3341 à gros fruits et sensibles au champignon.
+
+3- Que déduisez-vous, des résultats du premier et du deuxième croisement ? Justifiez votre réponse (1 pt)
+
+Utilisez: G et g pour les allèles du gène codant pour la taille du fruit.
+
+R et r pour les allèles du gène codant pour la résistance au champignon.
+
+4- Donnez l’interprétation chromosomique des résultats du deuxième croisement en vous basant sur l’échiquier de croisement, puis dégagez le pourcentage du phénotype voulu. (1 pt)
+
+5- A partir des résultats obtenus en réponse à la question 4, proposez un croisement permettant d’augmenter le pourcentage de la souche pure du pommier désirée, puis déterminez le pourcentage du phénotype de cette souche pure. (1 pt)
+
+### Exercice 2 : (5 points)
+
+Pour étudier la distribution de la longueur totale du corps du poison blanc "Corégone", on propose ce qui suit :
+
+On a mesuré la longueur totale du corps (en cm) des individus de deux populations de ce poisson, au bassin versant de la région "Grande-Rivière" (Nord du Québec). Ce poisson est en compétition, pour les sources de nutrition, avec un autre poisson appelé Ciscos de lac.
+
+Le document 1 présente la distribution de la fréquence de la longueur totale du corps d’une population (P1) du "Corégone" dans une partie du bassin versant de la région "Grande-Rivière" où les Ciscos de lac sont absents. Le document 2 présente l'histogramme et le polygone de fréquence de la distribution de la longueur totale du corps d’une population (P2) du poisson blanc "Corégone" dans une autre partie de ce bassin versant où les Ciscos de lac sont abondants. Le document 2 comporte aussi les paramètres statistiques ($\bar{X}$ et $\sigma$) chez les poissons de la population (P2).
+
+| Le centre des classes : La longueur totale du corps (cm) | 31 | 33 | 35 | 37 | 39 | 41 | 43 | 45 | 47 | 49 | 51 | 53 | 55 | 57 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de poissons | 3 | 8 | 19 | 26 | 31 | 36 | 53 | 43 | 36 | 31 | 21 | 13 | 7 | 3 |
+
+Document 1
+
+[Figure — Document 2, image : histogramme et polygone de fréquence de la longueur totale du corps chez la population P2 — Nombre de poissons (0 à 40) en fonction de la Longueur totale du corps (cm) : 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59 — Paramètres statistiques : X̅ = 39.52 cm ; σ = 12.46]
+
+1 - Réalisez l’histogramme de fréquence et le polygone de fréquence de la distribution de la longueur totale du corps chez les poissons de la population (P1). (1.5 pt)
+
+(Utilisez 1cm pour chaque classe et 1cm pour 10 poissons).
+
+2 - Calculez la moyenne arithmétique et l’écart-type chez les poissons de la population (P1). Utilisez un tableau d'application pour calculer ces paramètres statistiques. (2pts)
+
+On donne
+
+$$\bar{X}=\frac{\sum_{i}^{1}\left(f_{i}x_{i}\right)}{n}\qquad et \qquad \sigma=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(x_{i}-\bar{X}\right)^{2}}{n}}$$
+
+3 – En exploitant le document 2 et votre réponse aux questions 1 et 2, comparez la distribution de la longueur totale du corps chez les poissons des deux populations (P1) et (P2). Que déduisez-vous à propos de l’homogénéité de ces deux populations ? (1.5pt)
+
+### Exercice 3 : (5 points)
+
+Pour mettre en évidence quelques facteurs de la variation génétique à l’origine de la structure génétique de la population des lions du cratère de Ngorongoro, en Tanzanie, on propose les données suivantes:
+
+- Actuellement en Tanzanie, on distingue deux populations de lions: La population P1, du parc Serengeti, constituée de 2000 individus et la population P2, du cratère de Ngorongoro, constituée d’un nombre restreint d’individus. La population P2 est issue de la population P1 (document 1).
+
+[Figure — Document 1, image : Population P1 (Parc naturel de Serengeti) et Population P2 (Cratère du volcan Ngorongoro) — 600 m, 7.5 km]
+
+-En 1962 la population P2 a été soumise à un goulot d’étranglement (figure 1 du document 2) : Les lions du cratère de Ngorongoro ont subi d’énormes pertes causées par une épidémie due à une mouche piqueuse. Seulement 11 lions ont survécu (7 mâles et 4 femelles).
+
+Ces lions survivants se sont reproduits exclusivement entre eux. La population a retrouvé son effectif initial (80 individus). L’histogramme (figure 2 du document 2) représente l’évolution du nombre de lions du cratère après l’épidémie de 1962. La plupart des lions actuels descendent de cette évolution.
+
+[Figure — Document 2, image : Fig 1 : Goulot d'étranglement : Une population peut traverser occasionnellement des périodes durant lesquelles seul un petit nombre d'individus survie. Il se produit un goulot d'étranglement qui est à l’origine d’une nouvelle diversité génétique. — Population ancestrale, Réduction de la taille de la population, Individus survivants, Population à la génération suivante ; Fig 2 : histogramme de l’évolution du nombre des individus]
+
+En exploitant les données précédentes et l’histogramme du document 2 :
+
+1-Décrivez l’évolution, dans le temps, du nombre global d’individus de la population P2. (1 pt)
+
+2-Déterminez l’année où la population a retrouvé son effectif initial d’avant l’épidémie et expliquez ce retour à l’état initial. (1pt)
+
+- À partir de 1990, des chercheurs ont étudié les fréquences des allèles de deux gènes A et B chez les deux populations (P1 et P2) de lions. Les résultats de cette étude sont résumés dans le tableau suivant :
+
+| | Population d’origine : Lions de Serengeti — Effectif supérieur à 2000 individus | Population actuelle : Lions du cratère de Ngorongoro — Effectif proche de 100 individus |
+| --- | --- | --- |
+| Fréquences des allèles du gène A | A1= 0.20 ; A2= 0.80 | A1= 0.85 ; A2= 0.15 |
+| Fréquences des allèles du gène B | B1= 0.74 ; B2= 0.26 | B1= 0.94 ; B2= 0.06 |
+
+3-Pour chacun des gènes étudiés A et B, comparez les fréquences des allèles dans ces deux populations de lions. (1 pt)
+
+4-En vous basant sur les données précédentes et vos connaissances, expliquez l’origine des différences observées dans les fréquences des allèles (A1, A2) et des allèles (B1, B2). (2 pt)
+
+ــــــــــــ Fin ــــــــــــ

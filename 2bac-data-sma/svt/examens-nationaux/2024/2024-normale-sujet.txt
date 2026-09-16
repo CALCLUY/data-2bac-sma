@@ -1,0 +1,210 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2024 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2024 - الموضوع -
+المادة : علوم الحياة والأرض
+الشعبة المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) (خيار فرنسية)
+مدة الإنجاز : 2h — المعامل : 3
+NS 36F
+
+L’utilisation d’une calculatrice non programmable est autorisée
+
+## Partie I : Restitution des connaissances (5 points)
+
+I. Répondez sur votre feuille de production aux questions suivantes :
+
+1. Définissez : (1 pt)
+
+a. Méiose ;
+
+b. Caryotype.
+
+2. Citez : (1 pt)
+
+a. Deux différences entre le brassage intrachromosomique et le brassage interchromosomique.
+
+b. Deux caractéristiques d’une cellule en anaphase I.
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez sur votre feuille de production les couples (1,…), (2,…), (3,…), (4,…) et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1. La cellule ayant la formule chromosomique 2n=10, montre :
+
+a. dix tétrades chromosomiques à la prophase I ;
+
+b. cinq tétrades chromosomiques à la prophase I ;
+
+c. dix paires de chromosomes à l’anaphase II ;
+
+d. cinq paires de chromosomes à l’anaphase II.
+
+2. La cellule mère, qui donne en télophase II des cellules avec une quantité d’ADN égale à "q", contient :
+
+a. une quantité "q" d’ADN en phase G1;
+
+b. une quantité "4q" d’ADN en phase G2;
+
+c. une quantité "2q" d’ADN en phase G2;
+
+d. une quantité "4q" d’ADN en phase G1.
+
+3. La division équationnelle suit directement :
+
+a. la division réductionnelle et donne des cellules avec des chromosomes monochromatidiens ;
+
+b. l’interphase et donne des cellules avec des chromosomes monochromatidiens ;
+
+c. la division réductionnelle et donne des cellules avec des chromosomes bichromatidiens ;
+
+d. l’interphase et donne des cellules avec des chromosomes bichromatidiens.
+
+4. Les mâles de certains insectes qui ont la formule chromosomique 2n=11AA+X sont :
+
+a. homogamétiques et produisent 100% de gamètes avec la formule n=11A+X ;
+
+b. hétérogamétiques et produisent 100% de gamètes avec la formule n=11A+X ;
+
+c. homogamétiques et produisent 50% de gamètes avec la formule n=11A+X ;
+
+d. hétérogamétiques et produisent 50% de gamètes avec la formule n=11A+X.
+
+III. Recopiez, sur votre feuille de production, la lettre correspondante à chaque proposition parmi les propositions suivantes, puis écrivez devant chaque lettre «Vrai » ou «Faux ». (1 pt)
+
+a. Durant la prophase I, la duplication de l’ADN transforme les chromosomes monochromatidiens en chromosomes bichromatidiens.
+
+b. La fécondation donne des zygotes diploïdes et amplifie le brassage génétique résultant de la méiose.
+
+c. En métaphase II, les cellules sont haploïdes avec des chromosomes monochromatidiens.
+
+d. Lors de la prophase II, le brassage intrachromosomique contribue à la formation des chromosomes recombinés.
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (5 points)
+
+Pour étudier l’emplacement relatif, sur les chromosomes, des loci de trois gènes chez la drosophile : le gène ss (spineless) contrôlant "la longueur des soies", le gène bw (brown) contrôlant "la couleur des yeux" et le gène eb (ebony) contrôlant "la couleur du corps", On propose les données suivantes :
+
+Donnée 1 : Pour déterminer l’emplacement relatif des deux gènes ss et bw, on réalise les croisements 1 et 2 :
+
+- Croisement 1 : entre des mâles de races pures "P1" à soies normales et aux yeux rouges et des femelles de race pures "P2" à soies courtes et aux yeux marron.
+
+- Croisement 2 : entre des femelles de F1 et des mâles à soies courtes et aux yeux marron.
+
+Les résultats sont présentés dans le tableau du document 1 :
+
+| | Croisement 1 | Croisement 2 |
+| --- | --- | --- |
+| Parents | P1 ♂ × ♀ P2 | (F1) ♀ × ♂ (à soies courtes et aux yeux marron) |
+| Résultats | F1 : 100% à soies normales et aux yeux rouges.<br>Remarque : Le croisement réciproque donne les mêmes résultats. | F2 :<br>- 782 à soies normales et aux yeux rouges.<br>- 776 à soies courtes et aux yeux marron.<br>- 768 à soies normales et aux yeux marron.<br>- 780 à soies courtes et aux yeux rouges. |
+
+Document 1
+
+1. Déterminez, en justifiant votre réponse, le mode de transmission des deux gènes étudiés. (1.5 pt)
+
+2. Réalisez l’interprétation chromosomique du deuxième croisement, en vous aidant d’un échiquier de croisement. (1.5 pt)
+
+Utilisez les symboles :
+
+- S et s pour les allèles du gène responsable de la longueur des soies ;
+
+- B et b pour les allèles du gène responsable de la couleur des yeux.
+
+Donnée 2 : Pour déterminer l’emplacement relatif des deux gènes "eb" et "ss", on réalise les croisements 3 et 4 :
+
+- Croisement 3 : entre des individus "P3" à soies normales et à corps gris et des individus "P4" à soies courtes et à corps noir.
+
+- Croisement 4 : entre des mâles de F’1 et des femelles à soies courtes et à corps noir.
+
+Les résultats sont présentés dans le tableau du document 2 :
+
+| | Croisement 3 | Croisement 4 |
+| --- | --- | --- |
+| Parents | P3 × P4 | F’1 ♂ × ♀ (à soies courtes et à corps noir) |
+| Résultats | F’1 : 100% à soies normales et à corps gris | F’2 : 406 individus répartis comme suit :<br>- 201 à soies normales et à corps gris<br>- 205 à soies courtes et à corps noir |
+
+Document 2
+
+3. En vous basant sur les résultats du 3ème et du 4ème croisement :
+
+a. Montrez que les deux gènes "eb" et "ss" sont liés et que les résultats ne permettent pas de calculer la distance entre ces deux gènes. (0.5 pt)
+
+b. Sachant que le linkage des gènes est absolu chez les mâles de la drosophile (absence de crossing-over), proposez le croisement qui permet de calculer la distance entre le gène "eb" et le gène "ss", en précisant les génotypes des parents. (1 pt)
+
+Utilisez les symboles : "E" et "e" pour représenter les allèles du gène responsable de la couleur du corps.
+
+La détermination de l’emplacement relatif des gènes étudiés sur les chromosomes chez la drosophile a permis de réaliser la carte factorielle simplifiée représentée par le document 3.
+
+[Figure — Document 3, image : carte factorielle simplifiée — Caryotype ; 0 cM ; ss 58 cM ; eb 70 cM ; X 104 cM ; X bw — cM : Unité Centimorgan]
+
+4. En exploitant les données du document 3, déduisez le pourcentage des phénotypes parentaux et le pourcentage des phénotypes recombinés attendus du croisement proposé. (0.5 pt)
+
+### Exercice 2 : (5 points)
+
+Le favisme est une maladie héréditaire chez l’Homme qui est due à un déficit dans le métabolisme des globules rouges. Parmi ses symptômes : l’ictère (jaunisse), la fatigue et des douleurs abdominales. Pour étudier la transmission génétique de cette maladie, on propose le document 1 qui présente un arbre généalogique d’une famille dont certains membres sont atteints.
+
+[Figure — Document 1, image : arbre généalogique — légende : femme saine, homme sain, homme atteint, fœtus (grossesse en cours) ; générations I, II, III]
+
+1. Sachant que l’individu II5 ne porte pas l’allèle morbide, déterminez le mode de transmission de cette maladie. (1 pt)
+
+L’analyse de l’ADN, des différents allèles du gène étudié, chez certains individus de cette famille, a donné les résultats représentés dans le document 2.
+
+[Figure — Document 2, image : analyse de l'ADN — Individus III1, III2, III4, III5 ; Allèles normaux ; Allèles mutants]
+
+2. Vérifiez, en justifiant votre réponse, si les résultats de l’analyse de l’ADN confirment ou non votre réponse à la question 1. (1 pt)
+
+3. En vous appuyant sur les documents 1 et 2, déterminez les génotypes des individus II4, III1 et III5 en justifiant votre réponse. (1.5 pt)
+
+Utilisez les symboles « F » et « f » pour représenter les allèles du gène étudié.
+
+4. En vous aidant d’un échiquier de croisement, calculez la probabilité pour que le couple (III2 × III3) donne naissance à un garçon atteint. (1.5 pt)
+
+### Exercice 3 : (5 points)
+
+La tomate (Solanum lycopersicum) est une plante largement cultivée pour son fruit riche en vitamines, en potassium et en fibres. Pour choisir la variété de tomate la plus adaptée à la saison sèche parmi deux variétés T1 et T2, connues par leur résistance au climat sec, on propose les données suivantes :
+
+Donnée1 : On a recensé le nombre de fruits produits par plant chez deux populations statistiques cultivées chacune dans un champ où le climat est sec : P de la variété T1 et P’ de la variété T2. Les documents 1 et 2 présentent respectivement les résultats obtenus chez les deux populations statistiques P et P’.
+
+| Nombre de fruits | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de plants | 24 | 30 | 36 | 40 | 45 | 38 | 30 | 26 | 11 |
+
+Document 1
+
+| Nombre de fruits | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nombre de plants | 17 | 33 | 41 | 45 | 55 | 30 | 25 | 18 | 16 |
+
+Document 2
+
+1. Réalisez, sur votre feuille de production, et dans le même repère, le polygone des fréquences pour chacune des deux populations statistiques P et P’. (1.5 pt)
+
+Utilisez l’échelle : 1cm pour 10 plants et 0.5 cm pour chaque classe.
+
+2. Déduisez, en justifiant votre réponse l’homogénéité de chaque population statistique. (0.5 pt)
+
+Donnée 2 : Pour évaluer le degré d’homogénéité d’une population statistique, on calcule la valeur du coefficient de variation "CV" et on se réfère à une échelle de classification de ce coefficient. Le document 3 présente les formules de calcul et l’échelle de classification.
+
+[Figure — Document 3, image : Formules de calcul et échelle de classification]
+
+| Coefficient de variation CV | Classification (homogénéité) |
+| --- | --- |
+| Supérieur à 0.4 | Absente |
+| De 0.3 à 0.4 | Faible |
+| De 0.2 à 0.3 | Acceptable |
+| De 0.1 à 0.2 | Bonne |
+| Inférieur à 0.1 | Excellente |
+
+3. Calculez la moyenne arithmétique et l’écart type de la distribution statistique de la population P, en vous basant sur un tableau d’application du calcul des paramètres statistiques. (1.5 pt)
+
+4. Calculez la valeur de "CV" pour chacune des deux populations statistiques P et P’, sachant que pour la population P’, la moyenne = 27.66 (fruit par plant) et l’écart type = 2.14 (fruit par plant), puis déduisez l’homogénéité de chacune des deux populations. (1 pt)
+
+5. Déterminez, en justifiant votre réponse, la variété de tomate la plus adaptée au climat sec à choisir. (0.5 pt)
+
+*** Fin ***
