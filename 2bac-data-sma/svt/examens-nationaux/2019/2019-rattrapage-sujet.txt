@@ -10,209 +10,144 @@ Source:
 المركز الوطني للتقويم والامتحانات
 الامتحان الوطني الموحد للبكالوريا
 المسالك الدولية – خيار فرنسية
-الدورة الاستدراكية 2019 - الموضوع –
-المادة : علوم الحياة والأرض
-الشعبة أو المسلك : شعبة العلوم الرياضية - مسلك العلوم الرياضية (أ) خيار فرنسية
-مدة الإنجاز : 2h — المعامل : 3
-RS 36F
+الدورة الاستدراكية 2019
+– الموضوع –
 
-L’utilisation d’une calculatrice non programmable est autorisée
+RS 36F
+المادة : علوم الحياة والأرض
+مدة الإنجاز : 2 س
+الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) – خيار فرنسية
+المعامل : 3
+
+L'utilisation d'une calculatrice non programmable est autorisée
 
 ## Partie I : Restitution des connaissances (5 points)
 
-I - Répondez, sur votre feuille de rédaction, aux questions suivantes :
-
-1 - Définissez : La sélection artificielle - la race pure. (1 pt)
-
-2 - Citez deux importances de la sélection artificielle dans la variation génétique. (1 pt)
+I - Définissez : la sélection artificielle ; la race pure. (1 pt)
 
 II – Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte.
 
-Recopiez, sur votre feuille de production, les couples ci-dessous et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+Recopiez, sur votre feuille de rédaction, les couples ci-dessous et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
 
-(1,….), (2,….), (3,….), (4, ....)
+(1,…..) (2,…..) (3,…..) (4,…..)
 
-1- Dans l'étude quantitative de la variation d’un caractère héréditaire suite à une sélection efficace, la courbe des fréquences unimodale signifie que la population obtenue :
+1- Le brassage intrachromosomique est un phénomène qui :
 
-a- est constituée d’une seule race pure pour ce caractère ;
+a- se produit au cours de l'anaphase I de la méiose ;
+b- résulte de la migration aléatoire des chromosomes homologues ;
+c- résulte de l'échange de fragments entre chromatides de chromosomes homologues ;
+d- se produit au cours de la fécondation.
 
-b- est constituée de plus d’une race pure pour ce caractère ;
+2- Dans le cas de deux gènes liés, le pourcentage de recombinaison est :
 
-c- renferme plusieurs phénotypes pour ce caractère ;
+a- toujours supérieur à 50 % ;
+b- toujours égal à 50 % ;
+c- inférieur à 50 % ;
+d- indépendant de la distance qui sépare les deux gènes.
 
-d- renferme plusieurs génotypes pour ce caractère.
+3- Les phénotypes recombinés obtenus lors d'un croisement test (back-cross) portant sur deux gènes liés sont :
 
-2- La représentation graphique de la variation continue d’un caractère héréditaire se réalise à l’aide :
+a- majoritaires ;
+b- minoritaires ;
+c- équiprobables aux phénotypes parentaux ;
+d- absents.
 
-a- d’un diagramme en bâtonnets et sa conversion en une courbe de fréquences ;
+4- La dérive génétique est un phénomène qui :
 
-b- d’un diagramme en bâtonnets et sa conversion en un polygone de fréquences ;
+a- touche essentiellement les populations de petit effectif ;
+b- touche essentiellement les populations de grand effectif ;
+c- augmente la diversité génétique de la population ;
+d- n'a aucun effet sur les fréquences alléliques.
 
-c- d’un histogramme de fréquences et sa conversion en une courbe de fréquences ;
+III - Répondez par vrai ou faux aux propositions suivantes : (1 pt)
 
-d- d’un diagramme en bâtonnets et sa conversion en un histogramme de fréquences.
+a- La mutation est la seule source de nouveaux allèles dans une population.
+b- Les migrations n'ont aucun effet sur le pool génétique d'une population.
+c- La sélection naturelle agit sur les phénotypes des individus d'une population.
+d- Dans une population panmictique idéale, les fréquences alléliques restent constantes d'une génération à l'autre.
 
-3- Dans l'étude quantitative de la variation, le mode est une constante qui représente :
-
-a- la dispersion des valeurs d’une variable continue, d’un caractère héréditaire, autour d’une moyenne arithmétique ;
-
-b- la valeur de la variable qui correspond à la plus grande fréquence dans la distribution d’un caractère héréditaire ;
-
-c- le rapport de la somme des carrés des écarts de la variable à la moyenne arithmétique sur le nombre des individus d’un échantillon d’une population ;
-
-d- le résultat de la division de la somme des valeurs d’une variable sur le nombre des individus d’un échantillon d’une population.
-
-4- Pour un caractère héréditaire donné, l’étude quantitative de la variation permet :
-
-a- de sélectionner des races hybrides de rendement meilleur ;
-
-b- de sélectionner des races pures de rendement meilleur ;
-
-c- de poursuivre la transmission des caractères héréditaires qualitatifs, d’une génération à l’autre ;
-
-d- de déterminer le mode de transmission des caractères héréditaires qualitatifs.
-
-III- Recopiez sur votre feuille de production la lettre correspondante à chaque proposition parmi les propositions suivantes (a, b, c et d), puis écrivez devant chaque lettre « vrai » ou « faux ». (1 pt)
-
-a- Le phénotype des individus d’une population, résultant d’une modification génétique au niveau des cellules somatiques se transmet d’une génération à l’autre.
-
-b- La variation génétique au niveau du génotype entraine un changement au niveau du phénotype des individus d’une population.
-
-c- Dans la variation discontinue des caractères héréditaires quantitatifs, le caractère prend toutes les valeurs au sein du domaine de la variation.
-
-d- Dans la variation continue des caractères héréditaires quantitatifs, le caractère prend un nombre limité de valeurs au sein du domaine de la variation.
+IV - Réalisez un schéma annoté d'un chromosome à deux chromatides. (1 pt)
 
 ## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
 
 ### Exercice 1 : (7 points)
 
-Pour mettre en évidence le rôle de la méiose et de la fécondation dans le maintien du caryotype (formule chromosomique), dans la diversité génétique et déterminer le mode de transmission de quelques gènes responsables des caractères héréditaires, on propose les données suivantes :
+I - L'algue verte Derbesia marina et l'algue Halicystis ovalis ont été longtemps considérées comme deux espèces différentes, jusqu'à ce que des études montrent qu'elles correspondent à deux stades du cycle de développement d'une même espèce.
 
-I- Derbesia est une algue verte filamenteuse qui pousse sur des rochers près de la ligne de marée basse ou sur d’autres algues de taille plus grande. Le cycle de développement de cette algue est caractérisé par l'alternance du stade sporophyte filamenteux avec un stade gamétophyte vésiculeux nomé Halicystis. Le document 1 présente les caractéristiques du cycle de développement de cette algue et le document 2 représente les schémas, en désordre, de quelques étapes de ce cycle.
+Les thalles de Derbesia (filamenteux) produisent par méiose des zoïdes flagellés. Ces zoïdes germent et donnent des thalles vésiculeux de Halicystis. Les thalles de Halicystis produisent des gamètes mâles et femelles qui fusionnent deux à deux et donnent un zygote. Le zygote germe et donne un nouveau thalle de Derbesia.
 
-Document 1
+Le document 1 représente les étapes du cycle de développement de cette algue.
 
-Le sporophyte filamenteux se caractérise par des sporanges sous forme de ramifications latérales. Les sporanges libèrent une grande quantité de zoospores, à plusieurs flagelles. Les zoospores formés par la méiose, nagent pendant un certain temps, se déposent et germent pour donner un filament qui forme le gamétophyte vésiculeux d’Halicystis. Les noyaux de ce gamétophyte subissent plusieurs mitoses et donnent des gamètes uninucléés. Les plantes d'Halicystis sont hétérothalliques (thalles de différentes formes) et chacune ne produit qu'un seul type de gamètes biflagellés. Les gamétophytes Halicystis mâles sont de couleur vert-clair, alors que les gamétophytes Halicystis femelles sont de couleur vert-foncé. Les gamètes mâles ont un seul chloroplaste et les gamètes femelles (plus grands) ont 8 à 12 chloroplastes. Immédiatement après la rencontre, les gamètes mâles entourent le gamète femelle. Un des gamètes mâles fusionne avec le gamète femelle et un zygote se forme. Le zygote germe pour former un sporophyte filamenteux qui constitue le point de départ d'un nouveau cycle de développement.
+[Figure — Document 1 : cycle de développement — Thalle de Derbesia ; Méiose ; Zoïdes ; Germination ; Thalle de Halicystis ; Gamète mâle et gamète femelle ; Fécondation ; Zygote ; Germination]
 
-[Figure — Document 2, image : schémas en désordre A, B, C, D, E, F, G, H — Gamétophyte femelle / Libération des gamètes ; Gamétophyte mâle / Libération des gamètes ; Sporophyte filamenteux / Sporanges ; Sporange ; Zoospore (Flagelles) ; Flagelles, Chloroplastes, Noyaux ; Noyau, Flagelles, Chloroplastes ; Flagelles, Chloroplaste]
+1 - En exploitant le document 1 :
 
-1- En vous basant sur vos connaissances et en exploitant les documents 1 et 2 :
+a- Réalisez le cycle chromosomique de cette algue et déterminez son type. (1 pt)
 
-a- Donnez la formule chromosomique du sporophyte filamenteux et des plantes du stade Halicystis. (0.5 pt)
+b- Déterminez la phase dominante de ce cycle. Justifiez votre réponse. (0.5 pt)
 
-b - En utilisant uniquement les lettres (A, B, C ……….. et H) du document 2, réalisez le cycle de développement de Derbesia, puis déterminez l’étape où se déroule la méiose. (0.75 pt)
+II – Chez le Muflier (Antirrhinum majus), on étudie la transmission de deux caractères héréditaires : la forme de la corolle (corolle normale ou corolle en forme de cloche) et la couleur de la corolle (rouge, rose ou blanche).
 
-2- Réalisez le cycle chromosomique de Derbesia, et déterminez son type. (0.75 pt)
+• Premier croisement : entre des plantes de race pure à corolle normale rouge et des plantes de race pure à corolle en cloche blanche. On obtient une génération F1 constituée à 100 % de plantes à corolle normale rose.
 
-II - Des variétés de Muflier diffèrent par la forme de la corolle (corolle de forme normale ou de forme anormale) et par la couleur de la corolle (corolle de couleur rouge ou de couleur blanche). Afin d’étudier le mode de transmission de ces deux caractères héréditaires, on propose les croisements suivants :
+• Deuxième croisement : entre les plantes de la génération F1. On obtient une génération F2 constituée de :
+- 370 plantes à corolle normale rose ;
+- 189 plantes à corolle normale rouge ;
+- 187 plantes à corolle normale blanche ;
+- 126 plantes à corolle en cloche rose ;
+- 63 plantes à corolle en cloche rouge ;
+- 62 plantes à corolle en cloche blanche.
 
-• Premier croisement : Entre plantes de deux variétés de races pures :
+2 - En exploitant les résultats du premier croisement, déterminez le mode de transmission des deux caractères étudiés. (1.5 pt)
 
-- La variété A : plantes à corolle de forme normale et de couleur rouge ;
+NB : Utilisez les symboles (N et c) pour les allèles responsables de la forme de la corolle et les symboles (R et B) pour les allèles responsables de la couleur de la corolle.
 
-- La variété B : plantes à corolle de forme anormale et de couleur blanche.
+3 - A partir des résultats du deuxième croisement, montrez que les deux gènes étudiés sont indépendants. (1.5 pt)
 
-On sème les graines issues de ce croisement. Toutes les plantes obtenues ont des fleurs à corolle de forme normale et de couleur rose (génération F1).
-
-3- Que déduisez-vous des résultats du premier croisement ? (0.75 pt)
-
-Utilisez les symboles (N, n) pour les allèles responsables du caractère ´´forme de la corolle´´ et les symboles (R, r) ou (B, b) pour les allèles responsables du caractère ´´couleur de la corolle´´.
-
-• Deuxième croisement : Par autofécondation des fleurs de la génération F1, on obtient des graines dont la germination donne naissance à une deuxième génération F2 composée de :
-
-- 370 plantes avec des fleurs à corolle de forme normale et de couleur rose.
-
-- 189 plantes avec des fleurs à corolle de forme normale et de couleur rouge.
-
-- 187 plantes avec des fleurs à corolle de forme normale et de couleur blanche.
-
-- 126 plantes avec des fleurs à corolle de forme anormale et de couleur rose.
-
-- 63 plantes avec des fleurs à corolle de forme anormale et de couleur rouge.
-
-- 62 plantes avec des fleurs à corolle de forme anormale et de couleur blanche.
-
-Pour expliquer la répartition statistique des phénotypes obtenus dans la génération F2, un groupe d'apprenants a proposé ce qui suit : les deux gènes responsables de la forme et de la couleur de la corolle sont indépendants.
-
-4- Réalisez l'interprétation chromosomique du premier et du deuxième croisement, puis déterminez si la proposition de ce groupe concorde avec les résultats obtenus. (3.5 pts)
-
-• Troisième croisement : Entre des plantes de la génération F2 dont les fleurs sont à corolle de forme normale et de couleur blanche, hétérozygotes pour le caractère forme de la corolle, et des plantes avec des fleurs à corolle de forme anormale et de couleur rouge.
-
-5- A l’aide d’un échiquier de croisement, déterminez les pourcentages des phénotypes attendus de ce croisement. (0.75 pt)
+4 - Donnez l'interprétation chromosomique du deuxième croisement en utilisant un échiquier de croisement. (2.5 pts)
 
 ### Exercice 2 : (3 points)
 
-En vue d’étudier le mode de transmission de la myopathie de Duchenne, maladie héréditaire liée au chromosome sexuel X et caractérisée par la dégénérescence des fibres musculaires chez l'Homme ; on propose ce qui suit :
+La myopathie de Duchenne est une maladie héréditaire grave caractérisée par une dégénérescence progressive des muscles. Pour déterminer le mode de transmission de cette maladie, on propose les données suivantes :
 
-• Le document 1 présente l’arbre généalogique d'une famille dont un des enfants est atteint de la myopathie de Duchenne.
+Le document 2 représente l'arbre généalogique d'une famille dont certains membres sont atteints de la myopathie de Duchenne.
 
-[Figure — Document 1, image : arbre généalogique — légende : homme malade, homme sain, femme saine, fœtus ; générations I (1, 2), II (1, 2, 3, 4)]
+[Figure — Document 2 : arbre généalogique — générations I, II, III ; légende : individu sain, individu malade]
 
-1 – Déterminez à partir de cet arbre si l'allèle responsable de cette maladie est dominant ou récessif. (0.5 pt)
+1 – En exploitant le document 2, montrez que l'allèle responsable de la maladie est récessif et porté par le chromosome sexuel X. (1 pt)
 
-2 - Ecrivez en justifiant votre réponse le génotype des individus I2, et II1. (0.75 pt)
+NB : Utilisez les symboles (M) et (m).
 
-Utilisez le symbole « N » ou « n » pour l’allèle responsable du phénotype normal et le symbole « M » ou « m » pour l’allèle responsable de la maladie.
+2 – Donnez les génotypes possibles des individus II 2 et II 3. (0.5 pt)
 
-3 - Déduisez, à partir d'un échiquier de croisement, la probabilité pour que le fœtus II4 soit atteint de cette maladie. (0.75 pt)
+Pour préciser le génotype de certains membres de cette famille, on a réalisé l'électrophorèse de l'ADN de quelques individus, après traitement par une enzyme de restriction. Le document 3 présente les résultats obtenus : l'allèle normal donne un fragment de 1.8 kb, alors que l'allèle muté donne un fragment de 1.3 kb.
 
-• Afin de s'assurer que leur enfant attendu (II4) sera atteint ou non de la myopathie de Duchenne, un médecin a proposé aux parents I1 et I2 de faire un diagnostic prénatal. Le document 2 présente les étapes de la technique adoptée dans l'analyse de l'ADN. Cette technique permet de détecter le fragment d’ADN du gène responsable de cette maladie. Le document 3 présente les résultats obtenus chez quelques membres de cette famille après photographie du gel d'agarose.
+[Figure — Document 3 : profil électrophorétique de l'ADN des individus étudiés — bandes à 1.8 kb et 1.3 kb]
 
-Document 2
+3 – En exploitant le document 3, déterminez le génotype exact des individus étudiés. (0.75 pt)
 
-1- Incubation des tubes contenant l'ADN à 37°C pour être fragmenté par une enzyme de restriction.
-
-2- Dépôt des échantillons d’ADN isolés sur un gel d’agarose.
-
-3- Un champ électrique permet la migration et la séparation des fragments d’ADN.
-
-4- A la fin de la migration, le gel est exposé à une lumière bleue. - Un filtre orange permet de visualiser les fragments d'ADN. - Le gel d’agarose est photographié.
-
-[Figure — Document 3, image : Résultats de la photographie du gel d’agarose — Sens de migration, individus I1, I2, II4 — Taille en (kb) : 1.8 kb, 1.3 kb — 1 kb = 1000 nucléotides]
-
-4 - En exploitant le document 3, déterminez si l'enfant attendu II4 sera, ou non, atteint de la myopathie de Duchenne. Justifiez votre réponse. (1 pt)
+4 – Déterminez la probabilité pour que le couple (III 1 x III 2) donne naissance à un garçon atteint de la myopathie de Duchenne. Justifiez votre réponse par un échiquier de croisement. (0.75 pt)
 
 ### Exercice 3 : (5 points)
 
-I- Afin de mettre en évidence l'effet de quelques facteurs de variation sur la structure génétique d’une population d’escargots de Théba pisana, on propose les données suivantes :
+Les escargots de l'espèce Theba pisana présentent des coquilles de couleur variable. La couleur de la coquille est déterminée par un gène possédant deux allèles codominants : l'allèle B responsable de la coquille claire (blanche) et l'allèle N responsable de la coquille foncée (bandée). Les individus hétérozygotes présentent une coquille de couleur intermédiaire.
 
-[Figure — Document 1, image : Fig a : Escargot avec coquille à bandes claires ; Fig b : Escargot avec coquille à bandes sombres]
+On a étudié une population de ces escargots vivant sur une dune littorale comportant deux zones : une zone couverte d'oyats (végétation dense, sol sombre) et une zone de plage nue (sable clair). Le document 4 présente les fréquences des phénotypes dans chacune des deux zones.
 
-• Chez les escargots de Théba pisana, un gène à deux allèles codominants contrôle l'aspect de la coquille : l’allèle B responsable des bandes claires (fig a du document 1) et l’allèle N responsable des bandes sombres (fig b du document 1). Ces escargots colonisent les différents végétaux des dunes littorales.
+[Figure — Document 4 : tableau/histogramme des fréquences phénotypiques dans la zone des oyats et dans la zone de la plage]
 
-• Dans une région littorale, et pour répondre à la demande touristique, une partie de la dune a été aménagée en plage. Entre 1960 et 2007, une étude de l'évolution du peuplement (végétal et animal) de cette dune a permis d’obtenir les résultats suivants :
+1 – A partir du document 4, comparez la répartition des phénotypes dans les deux zones étudiées. (1 pt)
 
-- Le document 2 présente la couverture végétale de la dune : figure (a) en 1960 et figure (b) en 2007 où la dune est désormais subdivisée en 2 zones ; la zone des oyats où le développement des oyats s'est poursuivi de façon normale et la zone de la plage où se sont développés d’autres végétaux à cause de la fréquentation des visiteurs.
+2 – Calculez les fréquences alléliques de B et de N dans chacune des deux zones. (1.5 pt)
 
-[Figure — Document 2, image : Fig a : En 1960 — Dune sableuse, Oyats, Mer ; Fig b : En 2007 — Dune sableuse, Oyats, Pourpier, Chou maritime, Panicaut de sable, Zone des Oyats, Zone de la plage, Mer]
+On donne : $f(B) = p$ ; $f(N) = q$ ; $p + q = 1$ et $p^2 + 2pq + q^2 = 1$
 
-- Le document 3 présente le nombre d'individus de chaque phénotype des escargots de Théba pisana dans la zone des oyats et dans la zone de la plage en 2007.
+Des observations ont montré que la grive, principal prédateur de ces escargots, repère plus facilement les escargots dont la couleur de la coquille contraste avec celle du milieu. Le document 5 présente le nombre de coquilles vides retrouvées près des sites de prédation dans chacune des deux zones.
 
-| Nombre des escargots (en 2007) Phénotypes | Zone des oyats | Zone de la plage |
-| --- | --- | --- |
-| Escargots avec coquilles à bandes claires | 25 | 90 |
-| Escargots avec coquilles à bandes sombres | 70 | 10 |
+[Figure — Document 5 : nombre de coquilles vides par phénotype dans chaque zone]
 
-Document 3
+3 – En exploitant le document 5, expliquez les résultats obtenus dans la question 1. (1.5 pt)
 
-1- a- Comparez, dans chaque zone, le nombre des escargots pour chaque phénotype. (0.5 pt)
+4 – A partir de ce qui précède, dégagez le rôle de la sélection naturelle dans l'évolution du pool génétique de cette population. (1 pt)
 
-b- A partir des données précédentes, déduisez l’effet de l’aménagement de la dune sur le nombre des escargots de chaque phénotype. (0.5 pt)
-
-• Des oiseaux, comme la grive du bord de mer, se nourrissent des escargots de Théba pisana (figure a du document 4). Des études ont permis de déterminer le pourcentage des escargots consommés, par cet oiseau, selon le type de leur coquille dans les deux zones étudiées. La figure (b) du document 4 présente les résultats obtenus.
-
-Remarque : le nombre des oiseaux de la grive du bord de mer est identique dans les deux zones.
-
-[Figure — Document 4, image : Fig a (la grive du bord de mer) ; Fig b (Les escargots consommés (%) : 0, 10, 20, 30, 40, 50, 60 — Zone des oyats, Zone de la plage — Escargots avec coquilles à bandes claires, Escargots avec coquilles à bandes sombres)]
-
-2- Pour chacune des deux zones (zone des oyats et zone de la plage) comparez les pourcentages des escargots consommés puis expliquez l’origine de la différence observée. (1 pt)
-
-II- Pour mettre en évidence les facteurs qui agissent sur l'évolution de la fréquence des allèles B et N responsables de la couleur des bandes des coquilles de la population d'escargots de Théba pisana, dans la zone des oyats et dans la zone de la plage, on a simulé cette évolution grâce à un outil numérique dans lequel on a appliqué la pression de sélection exercée par la grive pour les deux allèles. La figure (a) du document 5 représente l'évolution de la fréquence de l'allèle B responsable des bandes claires et la figure (b) du même document représente l'évolution de la fréquence de l'allèle N responsable des bandes sombres, dans la population des escargots dans les deux zones étudiées.
-
-[Figure — Document 5, image : Fig a (Fréquence de l’allèle B — Zone des oyats, Zone de la plage — générations 0, 2, 4, 6, 8, 10) ; Fig b (Fréquence de l’allèle N — Zone des oyats, Zone de la plage)]
-
-3- Décrivez l'évolution de la fréquence de l’allèle B d’une part et de l’allèle N d’autre part dans les deux zones étudiées. (1 pt)
-
-4- A partir de ce qui précède et de vos connaissances, montrez comment agit le facteur de variation génétique intervenant sur les fréquences des deux allèles B et N chez les populations d’escargots de Théba pisana, dans la zone des oyats et dans la zone de la plage. (2 pts)
-
-ــــ ـــــ Fin ــــ ـــــ
+------- FIN -------

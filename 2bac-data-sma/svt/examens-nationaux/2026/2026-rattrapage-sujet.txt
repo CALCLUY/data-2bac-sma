@@ -1,0 +1,169 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2026 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+NOTE : le document source porte le code RS 32F et l'en-tête « شعبة العلوم التجريبية مسلك علوم الحياة والأرض (خيار فرنسية) » (Sciences Expérimentales – SVT, durée 3h, coefficient 7).
+
+المركز الوطني للامتحانات المدرسية وتقييم التعلمات
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية
+الدورة الاستدراكية 2026
+– الموضوع –
+
+RS 32F
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم التجريبية مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز : 3س
+المعامل : 7
+
+## Partie I : Restitution des connaissances (5 points)
+
+I - a. Définissez : Minéral index. (0.5 pt)
+
+b. Citez deux caractéristiques géophysiques des zones de subduction. (0.5 pt)
+
+II - Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples ci-dessous et adressez à chaque numéro la lettre correspondante. (0.5 pt × 4)
+
+(1,…..) (2,…..) (3,…..) (4,…..)
+
+III - Répondez par vrai ou faux aux propositions a, b, c et d. (0.25 pt × 4)
+
+IV - Faites correspondre à chaque élément du premier groupe (fosse océanique, isotherme, collision, séquence métamorphique) l'élément qui lui convient du second groupe. (0.25 pt × 4)
+
+(1,…..) (2,…..) (3,…..) (4,…..)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (3 points)
+
+L'érythropoïétine (EPO) est une hormone qui stimule la production des globules rouges. Certains athlètes l'utilisent illégalement pour améliorer leurs performances.
+
+[Figure — Document 1 : figure a — variation de la quantité de dioxygène transportée en fonction de l'hématocrite ; figure b — évolution de l'hématocrite avant et après les injections d'EPO sur 30 jours]
+
+1 - a. Décrivez les résultats présentés par les figures a et b du document 1. (0.5 pt)
+
+b. Dégagez le lien entre l'injection d'EPO et la quantité du dioxygène transporté au muscle. (0.5 pt)
+
+[Figure — Document 2 : consommation de dioxygène en fonction de l'intensité de l'exercice musculaire (de 125 W à 260 W)]
+
+2 - Décrivez l'évolution de la consommation du dioxygène en fonction de l'intensité de l'exercice musculaire. (0.5 pt)
+
+[Figure — Document 3 : schéma du cycle de la contraction musculaire — interaction actine/myosine et rôle de l'ATP]
+
+3 - En vous basant sur le document 3, expliquez le rôle de l'ATP dans la contraction musculaire. (0.75 pt)
+
+4 - A partir de ce qui précède et de vos connaissances, expliquez comment l'utilisation de l'EPO améliore la performance sportive chez les athlètes. (0.75 pt)
+
+### Exercice 2 : (6 points)
+
+Pour mettre en évidence le mécanisme de la réplication de l'ADN, son rôle dans la conservation de l'information génétique et l'origine génétique de certaines maladies, on propose les données suivantes :
+
+● Donnée 1 : En 1958, Meselson et Stahl ont réalisé une expérience sur des bactéries cultivées d'abord dans un milieu contenant l'azote lourd (¹⁵N), puis transférées dans un milieu contenant l'azote léger (¹⁴N). Le document 1 présente les résultats obtenus pour les générations G0, G1 et G2. Le document 2 présente trois modèles hypothétiques de la réplication de l'ADN : le modèle conservatif, le modèle semi-conservatif et le modèle dispersif.
+
+[Figure — Document 1 : résultats de l'expérience de Meselson et Stahl — positions des bandes d'ADN après ultracentrifugation pour G0, G1 et G2]
+
+[Figure — Document 2 : les trois modèles de réplication de l'ADN — conservatif, semi-conservatif, dispersif]
+
+1 - a. Décrivez les résultats de l'expérience de Meselson et Stahl (document 1). (0.5 pt)
+
+b. Comparez les résultats obtenus dans chaque modèle (document 2) avec les résultats de Meselson et Stahl, puis déduisez le modèle retenu de la réplication de l'ADN. (0.75 pt)
+
+[Figure — Document 3 : photographies/schémas des étapes de la mitose]
+
+2 - Donnez les modifications caractérisant le passage de la métaphase à l'anaphase. (0.5 pt)
+
+3 - A partir de ce qui précède, dégagez le rôle de la réplication de l'ADN et de la mitose dans la conservation de l'information génétique. (0.5 pt)
+
+● Donnée 2 : La protéine SHP-2 intervient dans le contrôle de la multiplication des cellules. Son dysfonctionnement perturbe le contrôle de la multiplication des cellules et provoque une maladie appelée le syndrome de Noonan. Ce syndrome est caractérisé par une dysmorphie faciale, une petite taille harmonieuse et une hypertrophie du muscle cardiaque. La synthèse de la protéine SHP-2 est contrôlée par le gène PTPN11.
+
+Le document 4 présente deux fragments de brins non transcrits de deux allèles du gène PTPN11 : l'un chez une personne saine et l'autre chez une personne malade. Le document 5 présente le tableau du code génétique.
+
+[Figure — Document 4 : fragments de brins non transcrits des allèles PTPN11 chez la personne saine et chez la personne malade]
+
+[Figure — Document 5 : tableau du code génétique]
+
+4 - En vous basant sur les documents 4 et 5, donnez la séquence d'acides aminés correspondant à chacun des fragments des allèles PTPN11 chez la personne saine et chez la personne malade, puis expliquez l'origine génétique du syndrome de Noonan. (1 pt)
+
+● Donnée 2 : Le document 6 présente l'arbre généalogique (pedigree) d'une famille dans laquelle certains membres sont atteints du syndrome de Noonan.
+
+[Figure — Document 6 : arbre généalogique d'une famille — générations I, II, III]
+
+5 - En vous basant sur le document 6 et en utilisant les symboles suivants : M et m pour désigner les allèles du gène étudié.
+
+5.a. Montrez que l'allèle responsable du syndrome de Noonan est dominant et porté par un chromosome non sexuel (autosome). (0.5 pt)
+
+5.b. Dans le cas du mariage entre III 2 et III 3, déterminez la probabilité pour que ce couple donne naissance à un enfant atteint du syndrome de Noonan. Justifiez votre réponse à l'aide d'un échiquier de croisement. (0.75 pt)
+
+● Donnée 3 : Le syndrome de Noonan est une maladie génétique rare. La fréquence des personnes homozygotes atteintes est estimée à environ 1 cas pour 2 500 à l'échelle mondiale.
+
+6 - Sachant que cette population est en équilibre et obéit à la loi de Hardy-Weinberg :
+
+6.a. Calculez la fréquence de l'allèle anormal (muté) et celle de l'allèle normal (sauvage). (1 pt)
+
+6.b. Calculez la fréquence des individus atteints du syndrome de Noonan dans la population. (0.5 pt)
+
+### Exercice 3 : (3 points)
+
+Des variétés de rosier diffèrent par la couleur des fleurs et la présence ou l'absence des épines sur la tige.
+
+Pour étudier le mode de transmission de ces deux caractères héréditaires non liés au sexe, on réalise les croisements suivants :
+
+● Croisement 1 : Le croisement entre des plantes avec fleurs roses donne toujours une première génération F1 constituée de :
+- 62 plantes avec des fleurs blanches ;
+- 120 plantes avec des fleurs roses ;
+- 63 plantes avec des fleurs rouges.
+
+● Croisement 2 : Le croisement entre des plantes avec des épines sur la tige donne toujours une première génération F'1 constituée de :
+- 280 plantes avec des épines sur la tige ;
+- 92 plantes sans épines sur la tige.
+
+1 - A partir des résultats du croisement 1, déterminez le mode de transmission du caractère étudié, et donnez l'interprétation chromosomique de ce croisement. (1.25 pts)
+
+NB : Utiliser les symboles (B ou b) pour l'allèle responsable de la couleur blanche des fleurs et (R ou r) pour l'allèle responsable de la couleur rouge des fleurs.
+
+2 - A partir des résultats du croisement 2, déterminez le mode de transmission du caractère étudié. (0.5 pt)
+
+NB : Utiliser les symboles (E et e) pour les allèles responsables de la présence ou l'absence des épines sur la tige.
+
+3 - A l'aide d'un échiquier de croisement, et en considérant que les deux gènes sont indépendants, déterminez les proportions attendues des phénotypes, lors du croisement entre des plantes avec des fleurs roses sans épines sur la tige entre elles. (1.25 pts)
+
+### Exercice 4 : (3 points)
+
+La compréhension des mécanismes de la réponse immunitaire et l'étude de la réaction des individus infectés par le SARS-CoV-2 (dont la structure est présentée dans le document 1) permettent aux scientifiques d'envisager l'élaboration d'un vaccin contre ce virus. Pour cela on propose les données suivantes :
+
+[Figure — Document 1 : structure du virus SARS-CoV-2]
+
+● Donnée 1 : Par des techniques appropriées les chercheurs ont pu estimer le nombre de virus (charge virale) et le taux sérique d'anticorps dirigés contre la protéine S (anticorps Anti-S) suite à une contamination par le virus SARS-CoV-2. Le document 2 présente les résultats obtenus.
+
+[Figure — Document 2 : évolution de la charge virale et du taux d'anticorps anti-S au cours du temps après l'infection]
+
+1 - En vous basant sur le document 2 :
+
+1.a. Décrivez l'évolution de la charge virale et le taux d'anticorps spécifiques (anticorps anti-S) après l'infection. (0.5 pt)
+
+1.b. Déduisez la nature de la réponse immunitaire dirigée contre le virus SARS-CoV-2, justifiez votre réponse. (0.5 pt)
+
+Le document 3 présente l'un des mécanismes utilisés par les cellules du système immunitaire pour éliminer le virus SARS-CoV-2.
+
+[Figure — Document 3 : mécanisme d'action des anticorps sur le virus SARS-CoV-2 et le récepteur ACE2]
+
+2 - En vous basant sur le document 3, expliquez le rôle des anticorps lors de la réaction immunitaire dirigée contre le virus SARS-CoV-2. (0.5 pt)
+
+● Donnée 2 : Des singes reçoivent une première injection de SARS-CoV-2, au début de l'expérience. Après 50 jours, les mêmes singes reçoivent une seconde injection. Tous les deux jours des dosages sériques chez les singes permettent de déterminer la quantité d'anticorps produite. Le document 4 présente les résultats obtenus.
+
+[Figure — Document 4 : quantité d'anticorps produite après la 1ère et la 2ème injection]
+
+3 - En vous basant sur le document 4, comparez les résultats après la 1ère injection avec ceux de la 2ème injection. (0.5 pt)
+
+Pour élaborer un vaccin contre ce virus, des chercheurs ont réalisé et développé la technique représentée dans le document 5.
+
+[Figure — Document 5 : étapes de la technique de production du vaccin — protéine Spike fixée sur des nanoparticules]
+
+4 - A partir du document 5 et les données précédentes, décrivez les étapes de la technique utilisée pour produire le vaccin, puis expliquez comment ce vaccin aide les gens vaccinés lors des futures infections par SARS-CoV-2. (1 pt)
+
+** FIN **

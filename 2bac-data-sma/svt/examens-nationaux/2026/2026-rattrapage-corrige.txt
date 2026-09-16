@@ -1,0 +1,290 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2026 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+NOTE : le document source porte le code RA 32 F et l'en-tête « شعبة العلوم التجريبية مسلك علوم الحياة والأرض - خيار فرنسية » (Sciences Expérimentales – SVT, durée 3h, coefficient 7).
+
+المركز الوطني للامتحانات المدرسية وتقييم التعلمات
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية
+دورة 2026
+– عناصر الإجابة –
+
+RA 32 F
+المادة : علوم الحياة والأرض
+الشعبة والمسلك : شعبة العلوم التجريبية مسلك علوم الحياة والأرض – خيار فرنسية
+مدة الإنجاز : 3س
+المعامل : 7
+
+| Question | Les éléments de réponse | Note |
+|---|---|---|
+
+## Partie I : Restitution des connaissances (5 points)
+
+I - a. Définition : (Accepter toute définition correcte telle que) (0,5 pt)
+
+Minéral Index : minéral qui indique les conditions de température et de pression qu'a subi la roche métamorphique qui contient ce minéral au cours de sa formation.
+
+b. Deux caractéristiques géophysiques des zones de subduction : (0,5 pt)
+- Répartition des foyers sismiques selon un plan oblique (Plan de Bénioff).
+- Anomalie thermique.
+
+— 1 pt
+
+II - (1, b) ; (2, b) ; (3, d) ; (4, c) (0,5 pt × 4) — 2 pts
+
+III - a- vrai ; b- faux ; c- vrai ; d- faux. (0.25 pt × 4) — 1 pt
+
+IV - (1, c) ; (2, a) ; (3, d) ; (4, b) (0.25 pt × 4) — 1 pt
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (3 points)
+
+1 - a. Description des résultats : — 0,5 pt
+
+- Figure a : quand l'hématocrite augmente, la quantité de dioxygène transportée augmente ; elle passe d'environ 10 UA pour 5 % d'hématocrite à 100 UA pour 40 %. (0.25 pt)
+
+- Figure b : avant les injections d'EPO, l'hématocrite reste stable autour de 45 % ; après les injections, il augmente progressivement pour atteindre environ 52 % au 30ᵉ jour. (0.25 pt)
+
+b. Lien entre l'injection d'EPO et la quantité du dioxygène transporté au muscle : (0,5 pt)
+
+L'injection d'EPO entraîne une augmentation de l'hématocrite ; et puisque l'augmentation de l'hématocrite augmente la quantité de dioxygène transportée, donc l'EPO augmente la quantité de dioxygène transportée au muscle chez l'athlète.
+
+— 0,5 pt
+
+2 - Description de l'évolution : (0,5 pt)
+
+La consommation du dioxygène augmente avec l'augmentation de l'intensité de l'exercice musculaire ; elle passe de 2,0 L/min pour 125 W à 4,2 L/min pour 260 W.
+
+— 0,5 pt
+
+3 - Rôle de l'ATP dans la contraction musculaire : (0,75 pt)
+
+Les molécules d'ATP interviennent comme suit :
+- Fixation de l'ATP (sans hydrolyse) sur la tête de myosine → détachement de la tête de myosine du filament d'actine ;
+- Hydrolyse de l'ATP en ADP + Pi → activation de la tête de myosine et passage à une configuration de haute énergie ;
+→ l'ATP permet à la fois le détachement et l'activation de la tête de myosine.
+
+— 0,75 pt
+
+4 - Explication : (0,75 pt)
+
+L'utilisation d'EPO augmente l'hématocrite, donc augmente la quantité de dioxygène transportée vers les muscles.
+
+Lors de l'effort, la consommation de dioxygène augmente avec l'intensité de l'exercice. Le dioxygène utilisé au niveau de la chaîne respiratoire mitochondriale joue le rôle d'accepteur final des électrons au niveau du complexe IV, ce qui permet le fonctionnement de la chaîne respiratoire, le transfert des H⁺ et la synthèse d'ATP par l'ATP synthétase.
+
+Ainsi, l'EPO entraîne une augmentation de la production d'ATP, indispensable à la contraction musculaire, ce qui améliore la performance sportive chez les athlètes.
+
+— 0.75 pt
+
+### Exercice 2 : (6 points)
+
+1 - a. Description des résultats de Meselson et Stahl : — 0,5 pt
+
+- Après le transfert de la génération G0 dans un milieu contenant l'azote léger (¹⁴N), et après un cycle cellulaire on obtient une génération G1 possédant 100 % d'ADN intermédiaire (hybride). (0.25 pt)
+
+- Après deux cycles, on obtient une génération G2 ayant deux types d'ADN : 50 % intermédiaire et 50 % léger. (0.25 pt)
+
+b. Comparaison des résultats obtenus dans chaque modèle avec les résultats de Meselson et Stahl : (0.5 pt)
+
+- Après la première réplication (G1) le modèle conservatif donne 50 % d'ADN lourd et 50 % d'ADN léger → pas de concordance avec les résultats de Meselson et Stahl.
+- Après la deuxième réplication (G2) le modèle dispersif donne toujours 100 % d'ADN intermédiaire → pas de concordance avec les résultats de Meselson et Stahl.
+- Après chaque réplication le modèle semi conservatif donne des résultats en concordance avec les résultats de Meselson et Stahl.
+
+Déduction du modèle retenu de la réplication de l'ADN : (0.25 pt)
+
+→ La réplication se fait selon le modèle semi conservatif.
+
+— 0,75 pt
+
+2 - Modifications caractérisant le passage de la métaphase à l'anaphase : — 0,5 pt
+
+- Clivage du centromère et formation de deux lots de chromosomes fils. (0.25 pt)
+- Migration des deux lots chacun vers un pôle de la cellule. (0.25 pt)
+
+3 - Rôle de la réplication de l'ADN et la mitose dans la conservation de l'information génétique : — 0,5 pt
+
+- Au cours de la phase S, la réplication semi-conservative de l'ADN permet de copier fidèlement l'information génétique : chaque molécule d'ADN est dupliquée en deux molécules identiques. (0.25 pt)
+
+- Lors de la mitose, les chromosomes dupliqués se séparent après clivage du centromère et sont répartis équitablement dans les deux cellules filles. Chaque cellule fille reçoit la même information génétique que la cellule mère, ce qui assure la conservation de l'information génétique. (0.25 pt)
+
+4 - • La séquence d'acides aminés correspondante à :
+
+- l'allèle normal :
+* Séquence d'acides aminés : Cys – Ac.glu – Leu – Val – Gln – Tyr – Tyr (0.25 pt)
+
+- l'allèle muté :
+* Séquence d'acides aminés : Cys – Ac.glu – Leu – Val – Arg – Tyr – Tyr (0.25 pt)
+
+• Origine génétique de la maladie de Noonan : (0.5 pt)
+
+- Mutation par substitution au niveau du triplet 5 (substitution de A par G) dans le brin non transcrit. (On accepte le raisonnement basé sur le brin transcrit) → Modification du codon au niveau de l'ARNm → incorporation de l'acide aminé « Arg » au lieu de « Gln » → Synthèse d'une protéine SHP-2 non fonctionnelle → perturbation du contrôle de la multiplication cellulaire → apparition de la maladie de Noonan.
+
+— 1 pt
+
+5 - a. L'allèle responsable du syndrome de Noonan
+
+Accepter toute réponse logique et possible telle que :
+
+• L'allèle responsable du syndrome de Noonan est dominant car : (0.25 pt)
+- La maladie apparaît dans toutes les générations ;
+- Un enfant atteint provient des parents (ou au moins un des parents) malades.
+- Le couple (II 1 x II 2) malade a donné naissance à une descendance saine (III 1 et III 2), ce qui montre que l'allèle responsable de la maladie est dominant noté (M) et l'allèle normal est récessif noté (m).
+
+• L'allèle responsable du syndrome de Noonan est porté par un autosome car : (0.25 pt)
+- La maladie touche les femmes et les hommes, ce qui montre que l'allèle n'est pas porté par le chromosome Y ;
+- Le père II 1 est malade et donne naissance à la fille III 2 saine, donc il n'est pas porté par X.
+
+— 0,5 pt
+
+b. La probabilité pour que le couple donne naissance à un enfant malade :
+
+Parents : III 2 ♀ x III 3 ♂
+Phénotypes : [m] x [M]
+Génotypes : m//m x M//m
+Gamètes : 1 m/ x ½ M/ ; ½ m/ (0.25 pt)
+
+Échiquier de croisement : (0,25 pt)
+
+| ♀ \ ♂ | ½ m/ | ½ M/ |
+|---|---|---|
+| 1 m/ | ½ m//m | ½ M//m |
+
+→ La probabilité pour que le couple (III 2 x III 3) donne naissance à un enfant atteint de la maladie de Noonan est 1/2 (50 %). (0,25 pt)
+
+— 0,75 pt
+
+6 - 6.a. Calcul de la fréquence de l'allèle normal et la fréquence de l'allèle anormal
+
+- La fréquence de l'allèle anormal (M) : (0,5 pt)
+
+Le génotype d'un individu homozygote atteint est : MM
+
+$$f(MM) = \frac{1}{2500} = p^2$$
+$$f(M) = p = \sqrt{\frac{1}{2500}} = 0.02$$
+
+- La fréquence de l'allèle normal (m) : (0,5 pt)
+
+$$p + q = 1 \quad ; \quad q = 1 - p$$
+$$f(m) = q = 1 - 0.02 = 0.98$$
+
+— 1 pt
+
+6.b. Calcul de la fréquence des individus atteints dans la population : (0,5 pt)
+
+Un individu atteint a pour génotype Mm ou MM ;
+
+$$\text{Fréquence} = f(MM) + f(Mm) = p^2 + 2pq = (0.02)^2 + (2 \times 0.02 \times 0.98) = 0.0396$$
+
+— 0,5 pt
+
+### Exercice 3 : (3 points)
+
+1 - ● Premier croisement :
+
+Mode de transmission du caractère étudié : (0,5 pt)
+
+- Transmission d'un seul caractère héréditaire : monohybridisme.
+- F1 hétérogène → Les parents sont hétérozygotes ayant un phénotype intermédiaire, donc il y a codominance entre les deux allèles. On note l'allèle responsable des fleurs blanches par (B) et l'allèle responsable des fleurs rouges par (R).
+
+Interprétation chromosomique du premier croisement :
+
+Parents : P0 x P0
+Phénotypes : [BR] x [BR]
+Génotypes : B//R x B//R
+Gamètes : ½ B/ ; ½ R/ x ½ B/ ; ½ R/ (0,25 pt)
+
+Échiquier de croisement : (0,25 pt)
+
+| γtes ♀ \ γtes ♂ | ½ B/ | ½ R/ |
+|---|---|---|
+| ½ B/ | B//B [B] ¼ | B//R [BR] ¼ |
+| ½ R/ | B//R [BR] ¼ | R//R [R] ¼ |
+
+→ Les résultats théoriques obtenus en F1 sont : ¼ [B], ½ [BR] et ¼ [R]. (0,25 pt)
+
+— 1,25 pts
+
+2 - ● Deuxième croisement :
+
+Mode de transmission du caractère étudié : (0,5 pt)
+
+- Transmission d'un seul caractère héréditaire : monohybridisme.
+- F'1 hétérogène → Les parents sont hétérozygotes : L'allèle responsable de la tige avec épines est dominant, car il apparaît chez 75 % des individus de la génération F'1 et est noté (E), tandis que l'allèle responsable de la tige sans épines est récessif, car il apparaît chez 25 % des individus de la génération F'1 et est noté (e).
+
+— 0,5 pt
+
+3 - Interprétation chromosomique :
+
+Parents : P0 x P0
+Phénotypes : [BR , e] x [BR , e]
+Génotypes : B//R e//e x B//R e//e
+Gamètes : ½ B/e/ ; ½ R/e/ x ½ B/e/ ; ½ R/e/ (0,5 pt)
+
+Échiquier de croisement : (0,5 pt)
+
+| γtes ♀ \ γtes ♂ | ½ B/e/ | ½ R/e/ |
+|---|---|---|
+| ½ B/e/ | B//B e//e ¼ [B , e] | B//R e//e ¼ [BR , e] |
+| ½ R/e/ | B//R e//e ¼ [BR , e] | R//R e//e ¼ [R , e] |
+
+→ Les proportions phénotypiques attendues sont :
+¼ [B , e] - ½ [BR , e] - ¼ [R , e] (0,25 pt)
+
+— 1,25 pts
+
+### Exercice 4 : (3 points)
+
+1 - 1.a. Description de l'évolution de la charge virale et du taux d'anticorps spécifiques après l'infection :
+
+- La charge virale augmente rapidement au début de l'infection, atteint un maximum (9 UA), puis diminue jusqu'à devenir nulle après 20 jours. (0.25 pt)
+
+- Le taux d'anticorps spécifiques est très faible ou nul au début, puis il augmente progressivement après quelques jours, jusqu'à atteindre une valeur maximale (0,6 UA) après 25 jours. (0.25 pt)
+
+— 0,5 pt
+
+1.b. Nature de la réponse immunitaire dirigée contre le virus SARS-CoV-2 : (0.25 pt)
+
+Il s'agit d'une réponse immunitaire spécifique de type humorale.
+
+Justification : (0,25 pt)
+
+L'augmentation du taux des anticorps spécifiques contre le virus est accompagnée d'une diminution de la charge virale, ce qui montre qu'ils participent à l'élimination du virus.
+
+— 0,5 pt
+
+2 - Explication : (0,5 pt)
+
+- En absence d'anticorps, le virus se fixe sur le récepteur ACE2 de la cellule hôte, puis il pénètre dans la cellule.
+- En présence d'anticorps, ceux-ci se fixent sur le virus et empêchent son attachement au récepteur ACE2 (complexe immun).
+
+Le virus ne peut donc ni se fixer, ni entrer dans la cellule hôte.
+
+— 0,5 pt
+
+3 - ● Comparaison : (0,5 pt)
+
+La 2ème injection déclenche une réponse immunitaire plus rapide (après 2 jours) et plus intense (environ 7000 UA), contrairement à la 1ère injection qui entraîne une réponse plus lente (après 7 jours) et moins importante (9 UA).
+
+— 0,5 pt
+
+4 - ● Description des étapes de la technique utilisée pour produire le vaccin :
+
+- Isoler la protéine Spike du virus SARS-CoV-2. (0.25 pt)
+- Fixer cette protéine Spike sur des nanoparticules. (0.25 pt)
+
+● Explication :
+
+- Lors d'un contact ultérieur avec le virus, l'organisme le reconnaît plus rapidement grâce à la mémoire immunitaire et produit rapidement les anticorps spécifiques en grande quantité. (0.25 pt)
+
+- Ces anticorps se fixent sur le virus et empêchent sa fixation au récepteur ACE2 des cellules hôtes → le virus ne peut pas pénétrer dans les cellules → la personne vaccinée est donc mieux protégée. (0.25 pt)
+
+— 1 pt
+
+** FIN **

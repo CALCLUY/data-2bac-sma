@@ -7,16 +7,19 @@ Type: Sujet
 Source: 
 ---
 
-المركز الوطني للتقويم والامتحانات والتوجيه
+المركز الوطني للتقويم والامتحانات
 الامتحان الوطني الموحد للبكالوريا
 المسالك الدولية – خيار فرنسية
-الدورة العادية 2019 - الموضوع -
-المادة : علوم الحياة والأرض
-الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) – خيار فرنسية
-مدة الإنجاز : 2 — المعامل : 3
-NS36F
+الدورة العادية 2019
+– الموضوع –
 
-L’utilisation d’une calculatrice non programmable est autorisée
+NS 36F
+المادة : علوم الحياة والأرض
+مدة الإنجاز : 2 س
+الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) – خيار فرنسية
+المعامل : 3
+
+L'utilisation d'une calculatrice non programmable est autorisée
 
 ## Partie I : Restitution des connaissances (5 points)
 
@@ -32,45 +35,33 @@ Recopiez, sur votre feuille de rédaction, les couples ci-dessous et adressez à
 
 (1,…..) (2,…..) (3,…..) (4,…..)
 
-1- Selon la loi de Hardy-Weinberg, la stabilité des fréquences des deux allèles d’un caractère héréditaire quantitatif, dans une population naturelle, implique que :
+1- Selon la loi de Hardy-Weinberg, la stabilité des fréquences des deux allèles d'un caractère héréditaire quantitatif, dans une population naturelle, implique que :
 
-a- la population est en déséquilibre, d’une génération à l’autre, pour ce caractère ;
-
-b- la population est idéale en équilibre, d’une génération à l’autre, pour ce caractère ;
-
+a- la population est en déséquilibre, d'une génération à l'autre, pour ce caractère ;
+b- la population est idéale en équilibre, d'une génération à l'autre, pour ce caractère ;
 c- les croisements entre les individus de la population sont réalisés d'une façon préférentielle ;
-
 d- les croisements sont réalisés entre des individus appartenant à des générations différentes.
 
-2- Le pool génétique d’une population est l’ensemble des allèles:
+2- Le pool génétique d'une population est l'ensemble des allèles :
 
 a- qui occupent les locus des différents gènes de ses individus ;
-
 b- dominants qui occupent les locus des différents gènes de ses individus ;
-
 c- mutés qui occupent les locus des différents gènes de ses individus ;
-
 d- létaux qui occupent les locus des différents gènes de ses individus.
 
-3- Au sein d’une population soumise à la loi de Hardy-Weinberg et dans le cas d’un gène porté par le chromosome X la fréquence des génotypes est:
+3- Au sein d'une population soumise à la loi de Hardy-Weinberg et dans le cas d'un gène porté par le chromosome X la fréquence des génotypes est :
 
 a- égale à la fréquence des allèles chez le mâle et chez la femelle ;
-
 b- égale à la fréquence des allèles chez le mâle ;
-
 c- égale à la fréquence des allèles chez la femelle ;
+d- indépendante de la fréquence des allèles chez le mâle et chez la femelle.
 
-d - indépendante de la fréquence des allèles chez le mâle et chez la femelle.
+4- La sélection naturelle est un mécanisme qui :
 
-4- La sélection naturelle est un mécanisme qui:
-
-a- conduit à une transmission d’allèles de façon préférentielle d’une génération à l’autre ;
-
-b- est indépendant des conditions de survie et de fécondité des individus d’une population;
-
-c- s’applique à l’individu et non à l’ensemble des individus d’une population;
-
-d- produit un brassage héréditaire à l’origine de l’homogénéité des individus de la population.
+a- conduit à une transmission d'allèles de façon préférentielle d'une génération à l'autre ;
+b- est indépendant des conditions de survie et de fécondité des individus d'une population ;
+c- s'applique à l'individu et non à l'ensemble des individus d'une population ;
+d- produit un brassage héréditaire à l'origine de l'homogénéité des individus de la population.
 
 III - Le tableau ci-dessous comporte deux groupes : Le groupe 1 représente des mutations chromosomiques, alors que le groupe 2 présente leurs caractéristiques.
 
@@ -79,72 +70,79 @@ Recopiez, sur votre feuille de rédaction, les couples ci-dessous et adressez à
 (1,…..) (2,…..) (3,…..) (4,…..)
 
 | Groupe 1 | Groupe 2 |
-| --- | --- |
-| 1. Duplication<br>2. Translocation<br>3. Inversion<br>4. Délétion | a. perte d’un fragment de chromosome.<br>b. échange de morceaux entre deux chromosomes non homologues.<br>c. présence en double exemplaire d’un fragment de chromosome.<br>d. cassure sur le même chromosome et recollement après inversion du fragment. |
+|---|---|
+| 1. Duplication | a. perte d'un fragment de chromosome. |
+| 2. Translocation | b. échange de morceaux entre deux chromosomes non homologues. |
+| 3. Inversion | c. présence en double exemplaire d'un fragment de chromosome. |
+| 4. Délétion | d. cassure sur le même chromosome et recollement après inversion du fragment. |
 
 ## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
 
-### Exercice 1: (3 points)
+### Exercice 1 : (3 points)
 
-Pour mettre en évidence le mode de transmission d'une maladie héréditaire chez l'Homme et expliquer les conséquences d’une anomalie chromosomique sur le phénotype, on propose ce qui suit:
+Pour mettre en évidence le mode de transmission d'une maladie héréditaire chez l'Homme et expliquer les conséquences d'une anomalie chromosomique sur le phénotype, on propose ce qui suit :
 
-• Le diabète de type 1 ou diabète insulinodépendant représente 5 à 10 % de tous les cas de diabète. Cette maladie apparaît le plus souvent au cours de l'enfance ou de l’adolescence.
+• Le diabète de type 1 ou diabète insulinodépendant représente 5 à 10 % de tous les cas de diabète. Cette maladie apparaît le plus souvent au cours de l'enfance ou de l'adolescence.
 
-Le document 1 représente l'arbre généalogique d’une famille dont quelques membres sont atteints de cette maladie.
+Le document 1 représente l'arbre généalogique d'une famille dont quelques membres sont atteints de cette maladie.
 
-[Figure — Document 1, image : arbre généalogique — légende : homme sain, femme saine, homme malade, femme malade, fœtus ; générations I, II, III, IV]
+[Figure — Document 1 : arbre généalogique — générations I, II, III, IV ; légende : homme sain, homme malade, femme saine, femme malade, fœtus]
 
 1- a- Démontrez en justifiant votre réponse que l'allèle responsable de la maladie est récessif. (0.5 pt)
 
 b- Montrez si le gène est porté par un autosome ou un chromosome sexuel. (0.5 pt)
 
-2 - Déterminez le génotype des individus I1, II3 et IV1. (1 pt)
+2 - Déterminez le génotype des individus I 1, II 3 et IV 1. (1 pt)
 
 NB : Utilisez le symbole (N) ou (n) pour l'allèle responsable du phénotype normal et le symbole (D) ou (d) pour l'allèle responsable de la maladie.
 
-• Des proches de la famille représentée dans le document 1 ont eu un bébé atteint d’une maladie héréditaire. Le couple (IV2, IV3) non atteint de cette maladie attend un nouveau-né. Un médecin lui a conseillé de faire un diagnostic prénatal, en réalisant des caryotypes des individus de la famille. Le document 2 représente les paires de chromosomes homologues 5 et 12 chez les trois membres de cette famille.
+• Des proches de la famille représentée dans le document 1 ont eu un bébé atteint d'une maladie héréditaire. Le couple (IV 2, IV 3) non atteint de cette maladie attend un nouveau-né. Un médecin lui a conseillé de faire un diagnostic prénatal, en réalisant des caryotypes des individus de la famille. Le document 2 représente les paires de chromosomes homologues 5 et 12 chez les trois membres de cette famille.
 
-[Figure — Document 2, image : paires de chromosomes homologues 5 et 12 chez la Mère, le Père et le Fœtus]
+Remarque : Les autres paires de chromosomes homologues chez ces individus sont normales.
 
-Remarque: Les autres paires de chromosomes homologues chez ces individus sont normales.
+[Figure — Document 2 : paires de chromosomes homologues 5 et 12 chez la Mère, le Père et le Fœtus]
 
 3 – En vous basant sur le document 2 et vos connaissances :
 
-a- Dégagez en justifiant votre réponse les individus porteurs d’une anomalie chromosomique. (0.5 pt)
+a- Dégagez en justifiant votre réponse les individus porteurs d'une anomalie chromosomique. (0.5 pt)
 
 b- Etablissez la relation entre chaque anomalie chromosomique observée et le phénotype des individus qui la portent. (0.5 pt)
 
-### Exercice 2: (12 points)
+### Exercice 2 : (12 points)
 
-Pour mettre en évidence le rôle de la méiose et de la fécondation dans le maintien de la stabilité du caryotype et la diversité des phénotypes au cours des générations, ainsi que les caractéristiques de la variation héréditaire chez le tournesol, on propose les données suivantes:
+Pour mettre en évidence le rôle de la méiose et de la fécondation dans le maintien de la stabilité du caryotype et la diversité des phénotypes au cours des générations, ainsi que les caractéristiques de la variation héréditaire chez le tournesol, on propose les données suivantes :
 
-I- L’inflorescence du tournesol cultivé (Helianthus annuus) est un capitule qui porte un grand nombre de fleurs. Au centre du capitule des fleurs tubulées bisexuées assurent la reproduction et à sa périphérie se trouvent des fleurs ligulées stériles.
+I- L'inflorescence du tournesol cultivé (Helianthus annuus) est un capitule qui porte un grand nombre de fleurs. Au centre du capitule des fleurs tubulées bisexuées assurent la reproduction et à sa périphérie se trouvent des fleurs ligulées stériles.
 
-Dans le sac pollinique de l’anthère, une cellule mère des grains de pollen se divise et donne quatre microspores. Le noyau de chaque microspore se divise en deux. La microspore se différencie en grain de pollen, formé d’une cellule végétative et d’une cellule reproductrice. Il constitue le gamétophyte mâle. Dans l’ovule une cellule mère se divise et donne quatre cellules. Trois dégénèrent et une appelée macrospore subit trois mitoses et se différencie en un sac embryonnaire ayant trois antipodes, deus synergides, deux noyaux centraux et une oosphère. Le sac embryonnaire constitue le gamétophyte femelle. Le grain de pollen émet un tube pollinique qui traverse le style et déverse deux gamètes mâles dans le sac embryonnaire. L’un des gamètes mâles fusionne avec l’oosphère et donne un œuf principal qui se développe en embryon, l’autre fusionne avec les deux noyaux de la cellule centrale et donne l’œuf accessoire. Les fleurs fertiles du capitule donnent des akènes qui contiennent des graines. Dans des conditions favorables, la graine germe et donne une plantule. Le document 1 représente les étapes du cycle de reproduction chez le tournesol.
+Dans le sac pollinique de l'anthère, une cellule mère des grains de pollen se divise et donne quatre microspores. Le noyau de chaque microspore se divise en deux. La microspore se différencie en grain de pollen, formé d'une cellule végétative et d'une cellule reproductrice. Il constitue le gamétophyte mâle. Dans l'ovule une cellule mère se divise et donne quatre cellules. Trois dégénèrent et une appelée macrospore subit trois mitoses et se différencie en un sac embryonnaire ayant trois antipodes, deux synergides, deux noyaux centraux et une oosphère. Le sac embryonnaire constitue le gamétophyte femelle. Le grain de pollen émet un tube pollinique qui traverse le style et déverse deux gamètes mâles dans le sac embryonnaire. L'un des gamètes mâles fusionne avec l'oosphère et donne un œuf principal qui se développe en embryon, l'autre fusionne avec les deux noyaux de la cellule centrale et donne l'œuf accessoire. Les fleurs fertiles du capitule donnent des akènes qui contiennent des graines. Dans des conditions favorables, la graine germe et donne une plantule. Le document 1 représente les étapes du cycle de reproduction chez le tournesol.
 
-[Figure — Document 1, image : cycle de reproduction du tournesol — Pied feuillé de tournesol, Inflorescence, Coupe de capitule, Fleur ligulée, Fleur tubulée bisexuée, Anthère, Grain de pollen : gamétophyte mâle (Cellule végétative, Cellule reproductrice, 1μm), Ovule, Sac embryonnaire : gamétophyte femelle (Noyaux centraux, Oosphère, 20μm), Anthérozoïde + oosphère, Anthérozoïde + noyaux centraux, Fleur tubulée fécondée, Akènes, Graine, Graine d’akène en germination, Plantule]
+[Figure — Document 1 : cycle de reproduction du tournesol — Pied feuillé de tournesol ; Inflorescence ; Coupe de capitule ; Fleur tubulée bisexuée ; Fleur ligulée ; Anthère ; Grain de pollen : gamétophyte mâle (Cellule végétative, Cellule reproductrice, 1 μm) ; Ovule ; Sac embryonnaire : gamétophyte femelle (Noyaux centraux, Oosphère, 20 μm) ; Anthérozoïde + oosphère ; Anthérozoïde + noyaux centraux (20 μm) ; Fleur tubulée fécondée ; Akènes ; Graine ; Graine d'akène en germination ; Plantule]
 
 1- En exploitant les données précédentes et le document 1 :
 
 a- Déterminez la (ou les) structure(s) cellulaire(s) au niveau de laquelle (ou desquelles) se déroule la méiose d'une part et la fécondation d'autre part. (0.75 pt)
 
-b- Sachant que le tournesol cultivé possède 34 chromosomes, donnez la formule chromosomique de l’oosphère et de l’œuf principal. (0.5 pt)
+b- Sachant que le tournesol cultivé possède 34 chromosomes, donnez la formule chromosomique de l'oosphère et de l'œuf principal. (0.5 pt)
 
 c- Réalisez le cycle chromosomique de cette plante et déterminez son type. (0.75 pt)
 
-II - Chez le tournesol, des observations ont permis de mettre en évidence deux couples d'allèles: un couple d'allèles responsable de la couleur des pieds (plantes à pieds rouges et plantes à pieds verts) et un couple d'allèles responsable de la fertilité ou de la stérilité des étamines. Afin d’étudier le mode de transmission de ces deux caractères, les deux croisements suivants ont été réalisés :
+II - Chez le tournesol, des observations ont permis de mettre en évidence deux couples d'allèles : un couple d'allèles responsable de la couleur des pieds (plantes à pieds rouges et plantes à pieds verts) et un couple d'allèles responsable de la fertilité ou de la stérilité des étamines. Afin d'étudier le mode de transmission de ces deux caractères, les deux croisements suivants ont été réalisés :
 
-• Premier croisement: entre des plantes de race pure, à pieds rouges et étamines fertiles et des plantes de race pure, à pieds verts et étamines stériles. Après germination des graines (akènes) issues de ce croisement, on obtient une 1ère génération F1, formée uniquement de plantes à pieds rouges et étamines fertiles.
+• Premier croisement : entre des plantes de race pure, à pieds rouges et étamines fertiles et des plantes de race pure, à pieds verts et étamines stériles. Après germination des graines (akènes) issues de ce croisement, on obtient une 1ère génération F1, formée uniquement de plantes à pieds rouges et étamines fertiles.
 
-• Deuxième croisement: entre les plantes de la génération F1 et des plantes à pieds verts et étamines stériles. On obtient une 2ème génération F’2 formée de: - 485 plantes à pieds rouges et étamines fertiles. - 491 plantes à pieds verts et étamines stériles. - 13 plantes à pieds verts et étamines fertiles. - 11 plantes à pieds rouges et étamines stériles.
+• Deuxième croisement : entre les plantes de la génération F1 et des plantes à pieds verts et étamines stériles. On obtient une 2ème génération F'2 formée de :
+- 485 plantes à pieds rouges et étamines fertiles.
+- 491 plantes à pieds verts et étamines stériles.
+- 13 plantes à pieds verts et étamines fertiles.
+- 11 plantes à pieds rouges et étamines stériles.
 
-2. En exploitant les résultats du 1ère et du 2ème croisement, déterminez le mode de transmission des deux caractères héréditaires étudiés. (1.5 pt)
+2. En exploitant les résultats du 1er et du 2ème croisement, déterminez le mode de transmission des deux caractères héréditaires étudiés. (1.5 pt)
 
-Utiliser les symboles (R ou r) pour les allèles responsables du caractère ´´couleur du pied´´ et les symboles (F ou f) pour les allèles responsables du caractère ´´ fertilité ou la stérilité des étamines´´.
+Utiliser les symboles (R ou r) pour les allèles responsables du caractère ´´couleur du pied´´ et les symboles (F ou f) pour les allèles responsables du caractère ´´fertilité ou la stérilité des étamines´´.
 
-3. En vous basant sur l’échiquier de croisement, donnez l’interprétation chromosomique des résultats du 2ème croisement. (1.5 pt)
+3. En vous basant sur l'échiquier de croisement, donnez l'interprétation chromosomique des résultats du 2ème croisement. (1.5 pt)
 
-4. Représentez schématiquement les étapes du phénomène, qui a eu lieu chez les individus de F1, responsable des phénotypes obtenus en F’2. (1 pt)
+4. Représentez schématiquement les étapes du phénomène, qui a eu lieu chez les individus de F1, responsable des phénotypes obtenus en F'2. (1 pt)
 
 5. Réalisez la carte factorielle des deux gènes étudiés en déterminant les étapes de cette réalisation. (1 pt)
 
@@ -152,22 +150,20 @@ Utiliser : 2 cm pour 1 cMg
 
 III - Chez le tournesol Helianthus annuus, on a mesuré la variation de la masse sèche des akènes en cg dans un échantillon constitué de 350 akènes. Le document 2 montre les résultats obtenus.
 
-| Masse sèche des akènes en cg | [6-10[ | [11-15[ | [16-20[ | [21-25[ | [26-30[ | [31-35[ | [36-40[ | [41-45[ | [46-50[ | [51-55[ | [56-60[ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fréquences | 13 | 24 | 49 | 37 | 30 | 16 | 27 | 41 | 58 | 34 | 21 |
-
 Document 2
 
-6- Réalisez l’histogramme et le polygone de fréquence de la distribution de la masse sèche des akènes en cg. (1pt)
+| Masse sèche des akènes en cg | [6-10[ | [11-15[ | [16-20[ | [21-25[ | [26-30[ | [31-35[ | [36-40[ | [41-45[ | [46-50[ | [51-55[ | [56-60[ |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Fréquences | 13 | 24 | 49 | 37 | 30 | 16 | 27 | 41 | 58 | 34 | 21 |
 
-Utilisez l’échelle : 1cm pour chaque classe et 1cm pour chaque 10 akènes.
+6- Réalisez l'histogramme et le polygone de fréquence de la distribution de la masse sèche des akènes en cg. (1 pt)
 
-7- Calculez la moyenne arithmétique, l’écart type et l’intervalle de confiance de cette distribution, en se basant sur un tableau d’application du calcul des paramètres statistiques. (2.5pts)
+Utilisez l'échelle : 1 cm pour chaque classe et 1 cm pour chaque 10 akènes.
 
-On donne :
+7- Calculez la moyenne arithmétique, l'écart type et l'intervalle de confiance de cette distribution, en se basant sur un tableau d'application du calcul des paramètres statistiques. (2.5 pts)
 
-$$\bar{X}=\frac{\sum_{i}^{1}\left(f_{i}x_{i}\right)}{n}\qquad et \qquad \sigma=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(x_{i}-\bar{X}\right)^{2}}{n}}\qquad ]\bar{X}-\sigma\ ;\ \bar{X}+\sigma[$$
+On donne : $\bar{X} = \dfrac{\sum n_i x_i}{N}$ et $\sigma = \sqrt{\dfrac{\sum n_i (x_i - \bar{X})^2}{N}}$ et $]\bar{X} - \sigma,\ \bar{X} + \sigma[$
 
-8- A partir de ce qui précède, déduisez les caractéristiques de cette variation chez le tournesol étudié. Justifiez votre réponse. (1.5pt)
+8- A partir de ce qui précède, déduisez les caractéristiques de cette variation chez le tournesol étudié. Justifiez votre réponse. (1.5 pt)
 
 ------- FIN -------

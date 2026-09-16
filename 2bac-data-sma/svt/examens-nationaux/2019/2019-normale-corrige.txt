@@ -10,205 +10,153 @@ Source:
 المركز الوطني للتقويم والامتحانات
 الامتحان الوطني الموحد للبكالوريا
 المسالك الدولية – خيار فرنسية
-الدورة العادية 2019 - عناصر الإجابة -
-المادة : علوم الحياة والأرض
-الشعبة أو المسلك : شعبة العلوم الرياضية - مسلك العلوم الرياضية (أ) خيار فرنسية
-مدة الإنجاز : 2 — المعامل : 3
+الدورة العادية 2019
+– عناصر الإجابة –
+
 NR 36F
+المادة : علوم الحياة والأرض
+مدة الإنجاز : 2 س
+الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) – خيار فرنسية
+المعامل : 3
 
-## Partie I : Restitution des Connaissances (5 pts)
+## Partie I : Restitution des connaissances (5 points)
 
-Question | Eléments de réponse | Barème
+I - 1 - Énoncé de la loi de Hardy-Weinberg : (1 pt)
 
-I - Accepter toute réponse correcte, à titre d’exemple :
+Dans une population théorique idéale, les fréquences des allèles et des génotypes restent stables (constantes) d'une génération à l'autre.
 
-1- Dans une population théorique idéale les fréquences des génotypes et les fréquences des allèles restent stables d’une génération à l’autre. (ce qui signifie que la population est en équilibre)
+2 - Quatre caractéristiques de la population théorique idéale : (1 pt — 0.25 pt x 4)
 
-(1 pt)
+- Population de grand effectif ;
+- Absence de mutations ;
+- Absence de migrations (ni émigration ni immigration) ;
+- Absence de sélection naturelle ;
+- Croisements au hasard (panmixie et pangamie).
 
-2- Accepter toute formulation correcte, à titre d’exemple :
+II - (1, b) ; (2, a) ; (3, b) ; (4, a) (2 pts — 0.5 pt x 4)
 
-- Une population à effectif infiniment grand ;
+III - (1, c) ; (2, b) ; (3, d) ; (4, a) (1 pt — 0.25 pt x 4)
 
-- Une population d’organismes diploïdes à reproduction sexuée ;
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
 
-- Croisement aléatoire entre individus : rencontre au hasard des gamètes ;
+### Exercice 1 : (3 points)
 
-- Une population à générations non chevauchantes (aucun croisement entre individus de générations différentes) ;
+1 - a - L'allèle responsable de la maladie est récessif : (0.5 pt)
 
-- Absence de flux dû aux migrations : Population génétiquement isolée ;
+Le couple (II 1 x II 2) sain a donné un enfant malade (III 2) : l'allèle responsable de la maladie est donc récessif (n) et l'allèle responsable du phénotype normal est dominant (N).
 
-- Absence de mutations (pas de changement d’un état allélique vers un autre).
+b - Localisation du gène : (0.5 pt)
 
-- Absence de sélection : Les individus ont la même capacité à se reproduire et donner une descendance capable de survivre……………………..… (0.25 pt x4)
+Le gène est porté par un autosome : l'individu III 2 est une fille malade (n//n) alors que son père II 1 est sain ; si le gène était porté par X, le père aurait été malade. Donc le gène est porté par un autosome.
 
-(1 pt)
+2 - Génotypes : (1 pt)
 
-II - (1 ; b) ; (2 ; a) ; (3 ; b) ; (4 ; a) ……………………………….......(0.5 pt x 4) — (2 pts)
+- I 1 : sain, parent d'un enfant malade → N//n
+- II 3 : sain → N//N ou N//n
+- IV 1 : malade → n//n
 
-III - (1, c) - (2, b) - (3, d) – (4, a) ............................................................... (0.25 pt x4) — (1 pt)
+3 - a - Individus porteurs d'une anomalie chromosomique : (0.5 pt)
 
-## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+La mère et le fœtus : on observe une translocation entre les chromosomes 5 et 12 (échange de fragments entre deux chromosomes non homologues). Le père présente des chromosomes 5 et 12 normaux.
 
-### Exercice nº 1 : (3 pts)
+b - Relation anomalie chromosomique / phénotype : (0.5 pt)
 
-1 - a. Les parents I1 et I2 sont sains et ont eu deux enfants malades (II2 et II4) donc l'allèle responsable de la maladie est récessif...................................(0.25 x 2)
+Chez la mère, la translocation est équilibrée (aucune perte de matériel génétique) : le phénotype reste normal. Chez le fœtus, la translocation est déséquilibrée (perte ou excès de matériel génétique) : l'information génétique est modifiée, ce qui se traduit par un phénotype anormal (apparition de la maladie).
 
-(0.5 pt)
+### Exercice 2 : (12 points)
 
-b. - Le gène responsable de la maladie n'est pas porté par le chromosome Y : II2 est une fille malade. Le gène responsable de la maladie n'est pas porté par le chromosome X : II2 est une fille malade alors que son père est sain……. (0.25 pt)
+I - 1 - a - Localisation de la méiose et de la fécondation : (0.75 pt)
 
-- Le gène responsable de cette maladie est porté par un autosome. …….. (0.25 pt)
+- La méiose se déroule dans le sac pollinique de l'anthère (cellule mère des grains de pollen) et dans l'ovule (cellule mère de la macrospore).
+- La fécondation se déroule dans le sac embryonnaire (gamétophyte femelle).
 
-Accepter toute justification logique.
+b - Formules chromosomiques : (0.5 pt)
 
-(0.5 pt)
+- Oosphère : n = 17 chromosomes.
+- Œuf principal : 2n = 34 chromosomes.
 
-2 - Génotype des individus :
+c - Cycle chromosomique : (0.75 pt)
 
-I1 : N//d , femme saine mais a eu deux enfants malades.............................(0.25 pt)
+[Figure — schéma du cycle : phase haploïde (n = 17) : grain de pollen / sac embryonnaire → gamètes ; Fécondation → œuf principal (2n = 34) → phase diploïde : embryon, plantule, pied feuillé → cellule mère → Méiose → spores (n = 17)]
 
-II3 : Femme ayant un phénotype normal, sa mère est porteuse de la maladie et n’ayant pas encore d’enfants, elle a 50℅ de chance d’être de génotype N//N et 50℅ de chance d’être de génotype N//d. .....................................................(0.5 pt)
+Il s'agit d'un cycle haplodiplophasique (alternance d'une phase haploïde et d'une phase diploïde), avec dominance de la phase diploïde.
 
-IV1 : individu malade, homozygote : d//d...................................................(0.25 pt)
+II - 2 - Mode de transmission des deux caractères : (1.5 pt)
 
-(1 pt)
+- Transmission de deux caractères héréditaires : dihybridisme.
+- F1 est homogène (100 % pieds rouges et étamines fertiles) : les parents sont de race pure, l'allèle (R) responsable de la couleur rouge du pied est dominant, l'allèle (r) responsable de la couleur verte est récessif ; l'allèle (F) responsable de la fertilité des étamines est dominant, l'allèle (f) responsable de la stérilité est récessif.
+- Le 2ème croisement est un croisement test (back-cross). Les pourcentages de F'2 sont :
+  - pieds rouges et étamines fertiles : 485/1000 = 48.5 %
+  - pieds verts et étamines stériles : 491/1000 = 49.1 %
+  - pieds verts et étamines fertiles : 13/1000 = 1.3 %
+  - pieds rouges et étamines stériles : 11/1000 = 1.1 %
 
-3 - a- Les individus porteurs d’une anomalie chromosomique :
+On obtient quatre phénotypes en proportions inégales : deux phénotypes parentaux majoritaires et deux phénotypes recombinés minoritaires → les deux gènes sont liés (portés par la même paire de chromosomes homologues) et il y a eu crossing-over.
 
-- Le père, déplacement d’un fragment du chromosome 5 qui se place sur un chromosome 12 (translocation équilibrée)………………………….……(0.25 pt)
+3 - Interprétation chromosomique du 2ème croisement : (1.5 pt)
 
-- Le fœtus : caryotype portant un fragment du chromosome 5 en plus fixé sur un chromosome 12 (translocation non équilibrée). ………………….…….(0.25 pt)
+Parents : F1 [R, F] x [r, f]
+Génotypes : (RF)//(rf) x (rf)//(rf)
+Gamètes : 48.5 % (RF)/ ; 49.1 % (rf)/ ; 1.3 % (rF)/ ; 1.1 % (Rf)/ x 100 % (rf)/
 
-(0.5 pt)
+Échiquier de croisement :
 
-b- le père porte une anomalie chromosomique et de caryotype normal, son phénotype est normal…………………………..………………………..(0.25 pt)
+| ♀ \ ♂ | 100 % (rf)/ |
+|---|---|
+| 48.5 % (RF)/ | 48.5 % (RF)//(rf) → [R, F] |
+| 49.1 % (rf)/ | 49.1 % (rf)//(rf) → [r, f] |
+| 1.3 % (rF)/ | 1.3 % (rF)//(rf) → [r, F] |
+| 1.1 % (Rf)/ | 1.1 % (Rf)//(rf) → [R, f] |
 
-- le fœtus porte une anomalie chromosomique et de caryotype anormal, son phénotype sera anormal (malade)………….………..…………………..(0.25 pt)
+Les résultats théoriques sont conformes aux résultats expérimentaux.
 
-(0.5 pt)
+4 - Schéma du crossing-over ayant eu lieu chez les individus de F1 : (1 pt)
 
-### Exercice nº 2 : (12 pts)
+[Figure — schéma : appariement des chromosomes homologues en prophase I ; chevauchement des chromatides non sœurs (chiasma) ; cassure et échange réciproque de fragments entre chromatides ; obtention de deux chromatides parentales (RF) et (rf) et de deux chromatides recombinées (Rf) et (rF)]
 
-I - 1. a - La méiose a lieu au niveau du sac pollinique et au niveau de l'ovule......(0.5 pt)
+5 - Carte factorielle : (1 pt)
 
-- La fécondation a lieu au niveau du sac embryonnaire..............................(0.25 pt)
+Pourcentage de recombinaison :
+$$P = \frac{13 + 11}{1000} \times 100 = 2.4\ \%$$
 
-(0.75 pt)
+La distance entre les deux gènes est : d = 2.4 cMg
 
-b - La formule chromosomique de l'oosphère : n = 17...............................(0.25 pt)
+[Figure — carte factorielle : gène R ————— 2.4 cMg ————— gène F, tracée à l'échelle 2 cm pour 1 cMg]
 
-- La formule chromosomique de l'œuf principale : 2n = 34.......................(0.25 pt)
+III - 6 - Histogramme et polygone de fréquence : (1 pt)
 
-(0.5 pt)
+[Figure — graphe : histogramme de la masse sèche des akènes en cg (11 classes en abscisse : [6-10[ … [56-60[) et effectifs en ordonnée (13, 24, 49, 37, 30, 16, 27, 41, 58, 34, 21) ; polygone de fréquence joignant les milieux des sommets des barres — allure bimodale]
 
-c. Cycle chromosomique correct...................................................................(0.5 pt)
+7 - Tableau d'application et calcul des paramètres statistiques : (2.5 pts)
 
-- type du cycle : haplodiplophasique............................................................(0.25 pt)
+| Classes | Centre xi | Effectif ni | ni xi | (xi - X̄) | (xi - X̄)² | ni (xi - X̄)² |
+|---|---|---|---|---|---|---|
+| [6-10[ | 8 | 13 | 104 | -26.6 | 707.56 | 9198.28 |
+| [11-15[ | 13 | 24 | 312 | -21.6 | 466.56 | 11197.44 |
+| [16-20[ | 18 | 49 | 882 | -16.6 | 275.56 | 13502.44 |
+| [21-25[ | 23 | 37 | 851 | -11.6 | 134.56 | 4978.72 |
+| [26-30[ | 28 | 30 | 840 | -6.6 | 43.56 | 1306.80 |
+| [31-35[ | 33 | 16 | 528 | -1.6 | 2.56 | 40.96 |
+| [36-40[ | 38 | 27 | 1026 | 3.4 | 11.56 | 312.12 |
+| [41-45[ | 43 | 41 | 1763 | 8.4 | 70.56 | 2892.96 |
+| [46-50[ | 48 | 58 | 2784 | 13.4 | 179.56 | 10414.48 |
+| [51-55[ | 53 | 34 | 1802 | 18.4 | 338.56 | 11511.04 |
+| [56-60[ | 58 | 21 | 1218 | 23.4 | 547.56 | 11498.76 |
+| Total | | Σni = 350 | Σni xi = 12110 | | | Σni(xi - X̄)² = 76854 |
 
-(0.75 pt)
+Moyenne arithmétique :
+$$\bar{X} = \frac{\sum n_i x_i}{N} = \frac{12110}{350} = 34.6\ \text{cg}$$
 
-II - 2. Premier croisement :
+Écart type :
+$$\sigma = \sqrt{\frac{\sum n_i (x_i - \bar{X})^2}{N}} = \sqrt{\frac{76854}{350}} = \sqrt{219.58} = 14.82$$
 
-- Transmission de deux caractères héréditaires, dihybridisme....................(0.25 pt)
+Intervalle de confiance :
+$$]\bar{X} - \sigma,\ \bar{X} + \sigma[\ =\ ]34.6 - 14.82,\ 34.6 + 14.82[\ =\ ]19.78,\ 49.42[$$
 
-- Parents de races pures, F1 est homogène, la première loi de Mendel est vérifiée.......................................................................................................(0.25 pt)
+8 - Caractéristiques de cette variation : (1.5 pt)
 
-- La descendance F1 possède le phénotype de l'un des parents :
+- Il s'agit d'une variation continue (caractère quantitatif) : la masse sèche des akènes varie de façon progressive d'une classe à l'autre.
+- L'intervalle de confiance ]19.78 ; 49.42[ regroupe 258 akènes sur 350, soit 73.71 % des akènes de l'échantillon.
+- Le polygone de fréquence est bimodal (deux modes : classe de centre 18 cg et classe de centre 48 cg) et l'écart type est élevé : l'échantillon étudié est donc hétérogène (il correspond probablement à deux populations différentes).
 
-- l’allèle responsable de la couleur rouge est dominant (R) et l’allèle responsable de la couleur verte est récessif (r)........................................................... (0.25 pt)
-
-- l’allèle responsable des étamines fertiles est dominant (F) et l’allèle responsable des étamines stériles est récessif (f)........................................................... (0.25 pt)
-
-Deuxième croisement :
-
-- les deux gènes étudiés sont liés avec crossing-over..…………………..(0.25 pt)
-
-- Argumentation : la génération F’2, issue d’un croisement-test, est composée de quatre phénotypes, les phénotypes parentaux sont plus fréquents (97.6%) par rapport aux phénotypes recombinés (2.4%)……………….........………(0.25 pt)
-
-(1.5 pt)
-
-3 - L’interprétation chromosomique du deuxième croisement :
-
-F1 × individu double homozygote
-
-Phénotypes (0.25 pt) : [R,F] × [r,f]
-
-Génotypes (0.25 pt) : (R F // r f) × (r f // r f)
-
-Gamètes (0.25 pt) : R F 48.5% ; r f 49.1% ; r F 1.3% ; R f 1.1% — et — r f 100%
-
-Echiquier de croisement (0.5 pt)
-
-| γ \ γ F1 | R F 48.5% | r f 49.1% | r F 1.3% | R f 1.1% |
-| --- | --- | --- | --- | --- |
-| r f 100% | (R F // r f) [R,F] 48.5% | (r f // r f) [r,f] 49.1% | (r F // r f) [r,F] 1.3% | (R f // r f) [R,f] 1.1% |
-
-Descendance F'2 : [R,F] 48.5% ; [r,f] 49.1% ; [r,F] 1.3% ; [R,f] 1.1% … (0.25 pt)
-
-(1.5 pt)
-
-4 - Réalisation des schémas du crossing-over :……………….………….(0.25 x 4 pt)
-
-[Figure — schéma : Tétrade, Crossing-over, Gamètes]
-
-(1 pt)
-
-5 - Réalisation de la carte factorielle :
-
-- calcul du % des recombinés (P = 2.4%) ;
-
-- détermination de la distance en cMg (d = 24 cMg) ;
-
-- respect de l’échelle ;
-
-- localisation exacte des deux gènes sur le chromosome ……………...........................................................................................(0.25 x 4 pt)
-
-(1 pt)
-
-6 - Réalisation d’un histogramme et d’un polygone de fréquence corrects selon l’échelle proposée dans l’exercice.
-
-[Figure — graphe : Fréquences en fonction de la masse sèche des akènes en cg]
-
-(1 pt)
-
-7 -
-
-| Centre des classes (xi) | fi | fi.xi | xi − X̅ | (xi − X̅)² | fi(xi − X̅)² |
-| --- | --- | --- | --- | --- | --- |
-| 8 | 13 | 104 | -26.6 | 707.56 | 9198.28 |
-| 13 | 24 | 312 | -21.6 | 466.56 | 11197.44 |
-| 18 | 49 | 882 | -16.6 | 275.56 | 13502.44 |
-| 23 | 37 | 851 | -11.6 | 134.56 | 4978.72 |
-| 28 | 30 | 840 | -6.6 | 43.56 | 1306.8 |
-| 33 | 16 | 528 | -1.6 | 2.56 | 40.96 |
-| 38 | 27 | 1026 | 3.4 | 11.56 | 312.12 |
-| 43 | 41 | 1763 | 8.4 | 70.56 | 2892.96 |
-| 48 | 58 | 2784 | 13.4 | 179.56 | 10414.48 |
-| 53 | 34 | 1802 | 18.4 | 338.56 | 11511.04 |
-| 58 | 21 | 1218 | 23.4 | 547.56 | 11498.76 |
-| Total | 350 | 12110 | | | 76854 |
-
-Tableau d’application correct du calcul des paramètres statistiques …….. (1.5 pt)
-
-Moyenne arithmétique : X̅ = 34.6 cg……………………………..……….(0.25 pt)
-
-Ecart type : σ = 14.82………………………………………….... (0.5 pt)
-
-Intervalle de confiance : [19.78 , 49.42] …………………………….(0.25 pt)
-
-(2.5 pts)
-
-8 - La déduction doit comporter les caractéristiques suivantes :
-
-- Polygone de fréquence bimodal :
-
-• 18 cg ou la classe [16 – 20 [………………………...…………... (0.25 pt)
-
-• 48 cg ou la classe [46 – 50 [………………………...……….….. (0.25 pt)
-
-- Echantillon hétérogène…………………………………………...............(0.5 pt)
-
-- 73.71% des akènes appartiennent à l’intervalle [19.78 , 49.42] ……….(0.5 pt)
-
-(1.5 pt)
+------- FIN -------
