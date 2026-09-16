@@ -341,3 +341,102 @@ Aucun. Les 35 éléments Doc (cours, exercices, devoirs), y compris le bloc « C
   d'un scan sans texte.
 - `2025 rattrapage` n'existe pas : la session 2025 ne comporte que la session normale
   (sujet + corrigé) dans la section 5190.
+
+---
+
+# Phase 5 — Compléments d'examens nationaux (Maths, Physique-Chimie)
+
+Ajout de 6 fichiers d'examen fournis par liens directs (Google Drive / AdrarPhysic),
+couvrant les sessions 2025 et 2026 absentes des sections AlloSchool.
+
+### Totaux
+
+| Matière | Fichiers ajoutés |
+|---|---|
+| Mathématiques | 1 |
+| Physique-Chimie | 5 |
+| **Total phase 5** | **6** |
+
+### Détail
+
+**Mathématiques** — `mathematiques/examens-nationaux/`
+- `2026/2026-normale-corrige.txt` (nouveau dossier `2026/`)
+
+**Physique-Chimie** — `physique-chimie/examens-nationaux/`
+- `2025/2025-normale-corrige.txt`
+- `2025/2025-rattrapage-corrige.txt`
+- `2026/2026-normale-corrige.txt`
+- `2026/2026-rattrapage-sujet.txt`
+- `2026/2026-rattrapage-corrige.txt`
+
+### Remarques
+
+- Tous les PDF comportaient une couche de texte exploitable : aucun marqueur
+  `[CONTENT_IMAGE_UNREADABLE]` n'a été ajouté lors de cette phase.
+- Les formules des sources utilisent des glyphes Unicode gras (et non du MathJax) ;
+  elles ont été normalisées en LaTeX (`$...$`, `$$...$$`) à partir du contenu textuel extrait.
+- Les corrigés issus d'AdrarPhysic conservent la mise en page `Question | Réponse | Barème`.
+- Les figures sont indiquées par `[Figure — graphe : ...]` / `[Figure — schéma : ...]`.
+- Le champ `Source:` reste vide dans tous les fichiers, conformément à la consigne.
+
+---
+
+# Phase 6 — Compléments d'examens nationaux SVT
+
+Ajout / réécriture de 4 fichiers dans `svt/examens-nationaux/`, à partir de liens directs
+(AlloSchool et Google Drive) fournis en complément de la phase 4.
+
+### Totaux
+
+| Action | Fichiers |
+|---|---|
+| Réécrits (placeholder → texte réel) | 3 |
+| Nouveaux | 1 |
+| **Total phase 6** | **4** |
+
+### Détail
+
+**Fichiers réécrits** — les PDF ré-accédés via les nouvelles URL comportaient une couche de
+texte, contrairement aux assets initialement testés en phase 4 :
+- `2019/2019-normale-sujet.txt` — code `NS 36F`, 4 pages
+- `2019/2019-normale-corrige.txt` — code `NR 36F`, 4 pages
+- `2019/2019-rattrapage-sujet.txt` — code `RS 36F`, 6 pages
+
+**Fichier nouveau :**
+- `2025/2025-normale-corrige.txt` — code `NR-36F`, 5 pages
+
+### Documents écartés
+
+Deux documents de la session 2026 (rattrapage sujet et corrigé) ont été récupérés puis
+**supprimés du dépôt** : ils portent les codes `RS 32F` / `RA 32 F` et l'en-tête
+« شعبة العلوم التجريبية مسلك علوم الحياة والأرض (خيار فرنسية) », c'est-à-dire la filière
+**Sciences Expérimentales — SVT (3 h, coefficient 7)** et non Sciences Mathématiques
+(`36F`, 2 h, coefficient 3). Leur contenu (géologie/subduction, immunologie, physiologie
+musculaire) est hors programme SM. Le dossier `svt/examens-nationaux/2026/` n'existe donc pas.
+
+### Mise à jour de la liste des documents illisibles
+
+Les trois fichiers 2019 sortent de la liste `[CONTENT_IMAGE_UNREADABLE]` de la phase 4.
+La liste définitive compte **15 fichiers** :
+
+- 2016 : normale sujet, normale corrigé, rattrapage sujet, rattrapage corrigé
+- 2017 : normale sujet, normale corrigé, rattrapage sujet, rattrapage corrigé
+- 2021 : normale sujet, normale corrigé, rattrapage sujet, rattrapage corrigé
+- 2022 : rattrapage sujet (marqueur partiel)
+- 2018 : rattrapage sujet (marqueur partiel)
+- 2025 : normale sujet
+
+---
+
+# Récapitulatif global du dépôt
+
+| Matière | Fichiers |
+|---|---|
+| Mathématiques | 121 |
+| Physique-Chimie | 132 |
+| SVT | 73 |
+| **Total** | **326** |
+
+- SVT : 2 chapitres de contenu, 35 éléments Doc traités, 73 fichiers au total dont
+  les examens nationaux 2016 → 2025.
+- Aucun item, toutes matières confondues, n'a nécessité d'authentification.
