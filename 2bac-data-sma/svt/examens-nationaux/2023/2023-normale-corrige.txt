@@ -1,0 +1,246 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2023 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية - الدورة العادية 2023
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) (خيار فرنسية)
+مدة الإنجاز : 2h — المعامل : 3
+عناصر الإجابة — NR 36F
+
+## Partie I : Restitution des connaissances (5 pts)
+
+Question | Eléments de réponse | Barème
+
+I - 1. Accepter toute définition correcte, à titre d’exemple :
+
+- Cycle de développement : Ensemble d’évènements qui se succèdent au cours du développement de l’être vivant depuis la formation de l’œuf d’une génération jusqu’à la formation de l’œuf de la génération suivante….(0.5 pt)
+
+- Gamètes : cellules sexuelles haploïdes mâles ou femelles qui donnent un zygote diploïde après fusion lors de la reproduction sexuée……..….. (0.5 pt)
+
+2. Accepter toute réponse correcte, à titre d’exemple :
+
+a. Deux rôles de la fécondation :
+
+- Permet le passage de l’état haploïde à l’état diploïde ………….…..(0.25 pt)
+
+- Amplifie le brassage chromosomique………………………………(0.25 pt)
+
+b. Deux différences entre un cycle chromosomique haplophasique et un cycle chromosomique diplophasique.
+
+- Dans le cycle diplophasique la méiose donne les gamètes alors qu’elle donne des spores dans les cycles haplophasiques………………………(0.25)
+
+- Dans le cycle diplophasique la fécondation suit immédiatement la méiose alors que dans les cycles haplophasiques la méiose suit immédiatement la fécondation……………………………………………………….……(0.25)
+
+(2 pts)
+
+II - (1 ; a) ; (2 ; c) ; (3 ; b) ; (4 ; c)…………………………… (0.5×4) — (2 pts)
+
+III - a : Interphase ; b : Division réductionnelle ; c : Division équationnelle ; d : Méiose. ……………………….(0.25×4) — (1 pt)
+
+## Partie II : Raisonnement scientifique et communication graphique et écrite (15 pts)
+
+### Exercice 1 : (3.25 pts)
+
+1 - Les conclusions avec justifications :
+
+- L’autofécondation de la lignée L1 a donné une génération F hétérogène pour les deux caractères → la lignée L1 est hétérozygote pour les deux caractères …………………………………………………… ... ... ...... …….. (0.25 pt)
+
+- La lignée L1 est hétérozygote avec un phénotype « épis à 2 rangs de grains » → L’allèle responsable du phénotype « 2 rangs de grains par épi » est dominant et l’allèle responsable du phénotype « 6 rangs de grains par épi » est récessif ;…………… … ... ……… …………………………… ….(0.25 pt)
+
+- La lignée L1 est hétérozygote avec un phénotype « glumelles inférieures pourpres » → L’allèle responsable de « la couleur pourpre des glumelles inférieures » est dominant et l’allèle responsable de « l’absence de la couleur des glumelles inférieures » est récessif.……………………………. (0.25 pt)
+
+(0.75 pt)
+
+2 - Les génotypes possibles des plantes de la lignée L1 :
+
+- R//r G//g …………………………………………………………….(0.25 pt)
+
+- RG//rg ……………………………………………………………… (0.25 pt)
+
+- Rg//rG ………………………………………………………………..(0.25 pt)
+
+(0.75 pt)
+
+3 - a. Le génotype des plantes de la lignée L1 avec justification :
+
+- Le deuxième croisement est un test cross qui a donné quatre phénotypes différents non égaux. Donc les deux gènes étudiés sont liés .... ......... .(0.25 pt)
+
+- Les phénotypes majoritaires de ce test cross sont [R ; G] et [r, g] donc ce sont les deux phénotypes parentaux de la lignée L1 hybride et par conséquent les allèles R et G sont portés par l’un des deux chromosomes homologues et les allèles r et g sont portés par l’autre chromosome.…… ………….(0.25 pt)
+
+Donc le génotype des plantes de la lignée L1 est : RG//rg………….. (0.25 pt)
+
+b. Interprétation chromosomique :
+
+L1 × L2
+
+Phénotypes : [R, G] × [r, g]
+
+Génotypes : (RG // rg) × (rg // rg) (0.5 pt)
+
+Gamètes : R G 39.67% ; r g 39.34% ; R g 9.96% ; r G 11.03% — et — r g 100%
+
+Échiquier de croisement … (0.25 pt)
+
+| γ L2 \ γ L1 | R G 39.67% | r g 39.34% | R g 9.96% | r G 11.03% |
+| --- | --- | --- | --- | --- |
+| r g 100% | RG/rg [R, G] 39.67% | rg/rg [r, g] 39.34% | Rg/rg [R, g] 9.96% | rG/rg [r, G] 11.03% |
+
+F' : [R,G] 39.67% ; [r,g] 39.34% ; [R,g] 9.96% ; [r,G] 11.03%........(0.25 pt)
+
+(1.75 pt)
+
+### Exercice 2 : (1.75 pt)
+
+1 - (Accepter tout raisonnement correct) :
+
+L’allèle morbide est porté par le chromosome X, s’il est récessif, les pères de toutes les filles atteintes (II2, II5 et III3) doivent être atteints ce qui n’est pas le cas, donc l’allèle responsable de la maladie est dominant.
+
+(0.5 pt)
+
+2 - La probabilité pour que le couple (II4, II5) donne naissance à un individu atteint par la maladie :
+
+Les parents : II4 : $X^{n}Y$ × II5 : $X^{N}X^{n}$ (0.25 pt)
+
+Les gamètes : ½ $X^{n}$ , ½ Y — et — ½ $X^{N}$ , ½ $X^{n}$ (0.25 pt)
+
+Échiquier de croisement : ……………………………………. (0.5 pt)
+
+| Gamètes | ½ $X^{n}$ | ½ Y |
+| --- | --- | --- |
+| ½ $X^{N}$ | 1/3 $X^{N}X^{n}$ [N] | $X^{N}Y$ |
+| ½ $X^{n}$ | 1/3 $X^{n}X^{n}$ [n] | 1/3 $X^{n}Y$ [n] |
+
+Puisque les embryons de génotype $X^{N}Y$ sont avortés, la probabilité pour que le couple (II4, II5) donne naissance à un individu atteint par la maladie est : 1/3 ……………………………………………………………………….. (0.25 pt)
+
+(1.25 pt)
+
+### Exercice 3 : (5 pts)
+
+1 - Type de variation : Variation continue………………………….……(0.25 pt)
+
+- Justification : la variable peut prendre n’importe quelles valeurs dans son intervalle de variation………………………………………………..…(0.25 pt)
+
+(0.5 pt)
+
+2 - On donne 0.25 pt pour chaque colonne juste, à l’exception des 2 premières colonnes à gauche. (1 pt)
+
+Remarque : accepter des valeurs ± 0.01
+
+| (xi) | (𝑓𝑖) | 𝑓𝑖.𝑥𝑖 | 𝑥𝑖 − X̅ | (𝑥𝑖 − X̅)² | 𝑓𝑖(𝑥𝑖 − X̅)² |
+| --- | --- | --- | --- | --- | --- |
+| 3.5 | 5 | 17.5 | -1.2 | 1.44 | 7.2 |
+| 4 | 12 | 48 | -0.7 | 0.49 | 5.88 |
+| 4.5 | 42 | 189 | -0.2 | 0.04 | 1.68 |
+| 5 | 28 | 140 | 0.3 | 0.09 | 2.52 |
+| 5.5 | 15 | 82.5 | 0.8 | 0.64 | 9.6 |
+| 6 | 2 | 12 | 1.3 | 1.69 | 3.38 |
+| Total | 104 | 489 | | | 30.26 |
+
+- Moyenne arithmétique : X̅ = 4.70 g …………….………….…..….(0.25 pt)
+
+- Ecart type : σ = 0.53 g…...……………………………….….…. (0.25 pt)
+
+- Intervalle de confiance : [4.17 ; 5.23] …………………….….….. (0.25 pt)
+
+(1.75 pt)
+
+3 - Réalisation des polygones des fréquences correctes pour P et P1 ………..(0.5 pt x 2)
+
+(respect de l’échelle : 0.25 pt)
+
+[Figure — graphe : Nombre de pieds (10, 20, 30, 40, 50, 60) en fonction du Centre de classes en (g) : 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 7.5 — Population P, Population P1]
+
+(1.25 pt)
+
+4 - La population P est hétérogène………………………………………(0.25 pt)
+
+- Justification : le mode de la distribution des fréquences dans la population fille P1 est différent de celui de la population d’origine P....... ... ...... …(0.25 pt)
+
+(0.5 pt)
+
+5 - La sélection artificielle est efficace pour améliorer la productivité des huiles de maïs :
+
+- Le mode augmente après chaque sélection : Chez la population d’origine P il est de 4.5 g, de 5 g chez la population fille P1 et de 7 g chez la population fille P2 …………………………………………… ………………… ……..….. (0.5 pt)
+
+- L’intervalle de distribution évolue vers des grandes valeurs après chaque sélection : l’intervalle de distribution de la quantité des huiles est de [3.5 ; 6] chez P, de [4 ; 7.5] chez P1 et de [5.5 ; 8.5] chez P2……… ..... ........ …. (0.5 pt)
+
+(1 pt)
+
+### Exercice 4 : (5 pts)
+
+1 - a. Comparaison :
+
+- Séquence des nucléotides : l’ordre des nucléotides du gène étudié est le même chez les deux formes de léopards sauf que dans la position 333 on a le nucléotide C chez la forme claire alors qu’on trouve le nucléotide A chez la forme sombre …………………………………………………………. .(0.25 pt)
+
+- Séquence des acides aminés : les 5 premiers acides aminés sont semblables entre les deux séquences. La séquence des acides aminés de la forme sombre des léopards est formée par 5 acides aminés, alors que celle de la forme claire est formée par 10 acides aminés………………………………………. .(0.25 pt)
+
+(1 pt)
+
+b. Déduction : Au niveau du gène AGOUTI une mutation ponctuelle par substitution dans la position 333 est à l’origine de la variation de la couleur du pelage chez les léopards. ………………………………..…………..(0.5 pt)
+
+2 - Explication de la répartition phénotypique des léopards dans les deux milieux :
+
+- Forêts subtropicales humides : (0.5 pt)
+
++ Les léopards de forme claire sont plus visibles → plus de difficulté pour se rapprocher des proies → moins de chance de se nourrir → assez faible fréquence de la forme claire.
+
++ Les léopards de forme sombre sont moins visibles → plus de facilité pour se rapprocher des proies → plus de chance de se nourrir → fréquence assez élevée de la forme sombre.
+
+- Savane d’Afrique : (0.5 pt)
+
++ Les léopards de forme claire sont moins visibles → plus de facilité pour se rapprocher des proies → grande chance de se nourrir → forte fréquence de la forme claire.
+
++ Les léopards de forme sombre sont plus visibles → une grande difficulté pour se rapprocher des proies → faible chance de se nourrir → fréquence très faible de la forme sombre.
+
+Déduction : Le facteur responsable de cette répartition des phénotypes est la sélection naturelle …………………………………………….………(0.5 pt)
+
+(1.5 pt)
+
+3 - a. Calcul de la fréquence des génotypes et des allèles :
+
+- La fréquence des génotypes :
+
++ F(C//C) = 112/217 = 0.516…………………………………………(0.25 pt)
+
++ F(C//f) = 98/217 = 0.452…………………………………………(0.25 pt)
+
++ F(f//f) = 7/217 = 0.032…………………………………………….(0.25 pt)
+
+- La fréquence des allèles :
+
+F(C) = F(C//C) + 1/2 F(C//f) = 0.742 = p………………………(0.25 pt)
+
+F(f) = F(f//f) + 1/2 F(C//f) = 0.258 = q……………………………….(0.25 pt)
+
+(1.25 pt)
+
+b. Calcul de l’effectif théorique selon la loi de Hardy-Weinberg :
+
+- L’effectif théorique des individus clairs dont le génotype C//C :
+
+F(C//C) = p² = (0.742)² = 0.551
+
+→ nombre d’individus = 0.551 × 217 ≈ 120 ………………………..(0.25 pt)
+
+- L’effectif théorique des individus clairs dont le génotype C//f
+
+F(C//f) = 2pq = 2(0.742 × 0.258) = 0,383
+
+→ nombre d’individus = 0.383 × 217 ≈ 83 ………………………..…(0.25 pt)
+
+- L’effectif théorique des individus rougeâtres tachetés du beige dont le génotype f//f : F(f//f) = q² = (0.258)² = 0.066
+
+→ nombre d’individus = 0.066 × 217 ≈ 14 ………………………..…..(0.25 pt)
+
+(0.75 pt)
+
+4 - Déduction : Les effectifs théoriques sont très éloignés des effectifs observés, donc la population n’est pas en équilibre selon la loi de H-W.
+
+(0.5 pt)

@@ -1,0 +1,218 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2019 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية – خيار فرنسية
+الدورة الاستدراكية 2019 - عناصر الإجابة -
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية - مسلك العلوم الرياضية (أ) خيار فرنسية
+مدة الإنجاز : 2 — المعامل : 3
+RR 36F
+
+## Partie I : Restitution des connaissances (5 pts)
+
+Question | Eléments de réponse | Barème
+
+I - Accepter toute définition correcte, à titre d’exemple :
+
+1- La sélection artificielle : …..………………………………………...…. (0.5 pt)
+
+- Procédé qui consiste à croiser volontairement des organismes qui disposent de caractères que l’on désire perpétuer.
+
+- Procédé qui consiste à sélectionner des races pures au sein d’une population hétérogène.
+
+- La race pure : ....……………………........................................…………. (0.5 pt)
+
+- Groupe d’individus qui ont un même génotype homozygote pour un caractère héréditaire (ou plus), qualitatif ou quantitatif.
+
+- Population au sein de laquelle la sélection est inefficace.
+
+(1 pt)
+
+2- Accepter deux importances de la sélection artificielle parmi :
+
+- sélection de races pures animales ou végétales.
+
+- amélioration de la productivité qualitative et quantitative chez les animaux et les végétaux.
+
+- création de différentes races utiles dans plusieurs domaines à partir d’espèces sauvages…................................................................................................. (2x0.5 pt)
+
+(1 pt)
+
+II - (1 ; a) ; (2 ; c) ; (3 ; b) ; (4 ; b) ………………………………………….. (4x0.5 pt) — (2 pts)
+
+III - a- faux, b- vrai, c- faux, d- faux, ……………..………………..………… (0.25 pt x 4) — (1 pt)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (7 points)
+
+1 - a - La formule chromosomique du sporophyte filamenteux : plante diploïde (2n)……………………………………………………….……………….. (0.25 pt)
+
+- La formule chromosomique des plantes du stade Halicystis (mâle ou femelle) : plante haploïde (n)………………………………………………………....(0.25 pt)
+
+(0.5 pt)
+
+b - Cycle de développement de Derbesia : D → C ou H → B → F → E → A ou G .............................................................(0.5 pt)
+
+- L’étape : au niveau du sporange (C ou H) : ………….…………. .................(0.25 pt)
+
+(0.75 pt)
+
+2 - Cycle chromosomique de Derbesia :
+
+[Figure — schéma : Sporophyte, méiose, spores, haplophase, gamétophyte, Gamète mâle, Gamète femelle, fécondation, zygote, diplophase]
+
+.....................................................................................................................................(0.5 pt)
+
+- Cycle de type : haplodiplophasique..........................................................................(0.25 pt)
+
+(0.75 pt)
+
+3 - F1 est homogène, la première loi de Mendel est vérifiée.........................(0.25 pt)
+
+- Pour la forme de la corolle, la descendance F1 possède le phénotype de l'un des parents, donc l’allèle responsable de la forme normale est dominant noté N et l’allèle responsable la forme anormale est récessif noté n........................... (0.25 pt)
+
+- Pour la couleur de la corolle, la descendance F1 possède un phénotype intermédiaire entre les phénotypes des parents, donc les allèles responsables de la couleur de la corolle sont codominants : l'allèle responsable de la couleur blanche est noté B et l’allèle responsable de la couleur rouge est noté R................................................................................................................(0.25 pt)
+
+(0.75 pt)
+
+4 - Interprétation chromosomique du premier croisement :
+
+P1 × P2
+
+Phénotypes : [N, R] × [n, B]
+
+Génotypes (0.25 pt) : (N N // R R) × (n n // B B)
+
+Gamètes (0.25 pt) : N R 100% — et — n B 100%
+
+Fécondation F1 (0.25 pt) : (N n // R B) → [N, RB] 100%
+
+Interprétation chromosomique du deuxième croisement :
+
+F1 × F1 : [N, RB] × [N, RB]
+
+Génotypes (0.25 pt) : (N n // R B) × (N n // R B)
+
+Gamètes (0.5 pt) : N R 25% ; N B 25% ; n R 25% ; n B 25% — et — N R 25% ; N B 25% ; n R 25% ; n B 25%
+
+Echiquier de croisement (1 pt)
+
+Résultats théoriques des individus de F2 : [N, RB] 6/16 ; [N, B] 3/16 ; [N, R] 3/16 ; [n, RB] 2/16 ; [n, B] 1/16 ; [n, R] 1/16……………………...…(0.25 pt)
+
+Résultats expérimentaux des individus de F2………………………….(0.5 pt)
+
+[N, RB] = 370/997 = 0.37 ≈ 6/16
+
+[N, B] = 187/997 = 0.19 ≈ 3/16
+
+[N, R] = 189/997 = 0.19 ≈ 3/16
+
+[n, RB] = 126/997 = 0.13 ≈ 2/16
+
+[n, B] = 62/997 = 0.06 ≈ 1/16
+
+[n, R] = 63/997 = 0.06 ≈ 1/16
+
+Les résultats théoriques sont conformes aux résultats expérimentaux, la proposition des apprenants est correcte………………………………………………...(0.25 pt)
+
+(3.5 pts)
+
+5 - Troisième croisement :
+
+- La fleur à corolle de forme anormale et de couleur rouge est double homozygote pour les deux gènes, donc produit un seul type de gamète (n R 100%)........(0.25 pt)
+
+- La fleur, hétérozygote pour le gène responsable de la forme de la corolle, produit deux types de gamètes (N B 50% et n B 50%).............................................(0.25 pt)
+
+Echiquier de croisement :
+
+| P \ F1 | N B 1/2 | n B 1/2 |
+| --- | --- | --- |
+| n R 1/1 | (N n // B R) [N, RB] 1/2 | (n n // B R) [n, RB] 1/2 |
+
+La descendance : [N, RB] 50% ; [n, RB] 50% ...........................................(0.25 pt)
+
+(0.75 pt)
+
+### Exercice 2 : (3 points)
+
+1 - Les parents I1 et I2 sont sains et ont un enfant malade (II3). L'allèle responsable de la maladie est récessif.
+
+(0.5 pt)
+
+2 - I2 : $X^{N}X^{m}$ femme saine et a un garçon malade…………….……….…….….(0.25 pt)
+
+II1 : $X^{N}X^{N}$ ou $X^{N}X^{m}$ (porteuse de la maladie), sa mère est hétérozygote $X^{N}X^{m}$ et son père est sain $X^{N}Y$.………………………………………..………..…..….(0.5 pt)
+
+(0.75 pt)
+
+3 - Échiquier : (0.5 pt)
+
+| Père I1 \ Mère I2 | $X^{N}$ 1/2 | $X^{m}$ 1/2 |
+| --- | --- | --- |
+| $X^{N}$ 1/2 | $X^{N}X^{N}$ [N] 1/4 | $X^{N}X^{m}$ [N] 1/4 |
+| Y 1/2 | $X^{N}Y$ [N] 1/4 | $X^{m}Y$ [m] 1/4 |
+
+Donc la probabilité pour qu'un enfant à naitre des parents I1, I2 soit malade est 1/4……..…….(0.25 pt)
+
+(0.75 pt)
+
+4 - La présence de deux fragments de taille respective égale à 1,8 kb et 1,3 kb chez l'enfant à naitre II4 montre l’existence des deux allèles du gène……….…….(0.5 pt)
+
+- le gène est lié au chromosome sexuel X, donc l’enfant à naitre sera une fille porteuse de la maladie, son génotype est $X^{N}X^{m}$ mais son phénotype est normal………………………………………………………..…………….….(0.5 pt)
+
+(1 pt)
+
+### Exercice 3 : (5 points)
+
+1 - a- Dans la zone des oyats, le nombre d’escargots avec coquilles à bandes sombres est presque 3 fois le nombre d’escargots avec coquilles à bandes claires..(0.25 pt)
+
+- Dans la zone de la plage, le nombre d’escargots avec coquilles à bandes claires est 9 fois le nombre d’escargots avec coquilles à bandes sombres………..(0.25 pt)
+
+(0.5 pt)
+
+b- L'aménagement de la dune en plage a entrainé l’augmentation du nombre d’escargots avec coquilles à bandes claires et la diminution du nombre d’escargots avec coquilles à bandes sombres.
+
+(0.5 pt)
+
+2 - Dans la zone des oyats, les escargots dont la coquille est à bandes claires sont les plus consommés car ils sont facilement repérables par les grives. (les escargots dont la coquille est à bandes sombres ont l’avantage de survie)..…………...(0.5 pt)
+
+- Dans la zone de la plage (où il y a le panicaut de sable, le chou maritime et le pourpier) les escargots dont la coquille est à bandes sombres sont les plus consommés car ils sont facilement repérables par les grives. (les escargots dont la coquille est à bandes claires ont l’avantage de survie) …………………...….(0.5 pt)
+
+(1 pt)
+
+3 - fig a : Dans la zone des oyats, la fréquence de l'allèle B diminue progressivement jusqu'à devenir minoritaire à la dixième génération (environ 0.1), alors que dans la zone de la plage la fréquence de l'allèle B augmente jusqu'à devenir majoritaire à la dixième génération (environ 0.94)…………………………………..………. (0.5 pt)
+
+- fig b : Dans la zone des oyats, la fréquence de l'allèle N augmente progressivement jusqu'à devenir majoritaire à la dixième génération (environ 0.92), alors que dans la zone de la plage la fréquence de l'allèle N diminue jusqu'à devenir minoritaire à la dixième génération (environ 0.1)……….………………...… (0.5 pt)
+
+(1 pt)
+
+4 - Dans la zone des oyats :
+
+- L'allèle B est minoritaire et l'allèle N est majoritaire dans la population d'escargots.………………………………………………………………….. (0.25 pt)
+
+- Cause : les grives consomment les individus dont la coquille est à bandes claires, facilement repérables.………………………………………..…………… (0.25 pt)
+
+- Facteur de variation : sélection favorable pour les individus ayant des coquilles à bandes sombres qui arrivent à se camoufler et par conséquent survivent et se reproduisent entre eux .……………………………………………………..(0.25 pt)
+
+- Résultat : propagation préférentielle de l'allèle N à travers les générations ce qui aboutit à l'augmentation de la fréquence du phénotype [N].………… .…… (0.25 pt)
+
+- Dans la zone de la plage :
+
+- L'allèle B est majoritaire et l'allèle N est minoritaire dans la population d'escargots ……………………………………………………………………………….(0.25 pt)
+
+- Cause : les grives consomment les individus dont la coquille est à bandes sombres facilement repérables.……………………………………………………… (0.25 pt)
+
+- Facteur de variation : sélection favorable pour les individus ayant des coquilles à bandes claires qui arrivent à se camoufler et par conséquent survivent et se reproduisent entre eux .…………………………………………….………..(0.25 pt)
+
+- Résultat : propagation préférentielle de l'allèle B à travers les générations ce qui aboutit à l'augmentation du phénotype [B].………………………..…..…… (0.25 pt)
+
+(2 pts)

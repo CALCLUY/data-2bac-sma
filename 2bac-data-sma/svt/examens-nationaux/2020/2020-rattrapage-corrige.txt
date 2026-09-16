@@ -1,0 +1,180 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2020 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية
+الدورة الاستدراكية 2020 - عناصر الإجابة –
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية (أ) (خيار فرنسية)
+مدة الإنجاز : 2 — المعامل : 3
+RR 36F
+
+## Partie I : Restitution des Connaissances (5 pts)
+
+Question | Eléments de réponse | Barème
+
+I - 1. Cellule diploïde : une cellule contenant des chromosomes par paires dont chaque chromosome a son homologue. ............................................. ................ ...... ... . (0.5 pt)
+
+- Crossing-over : phénomène d’échange de fragments de chromatides entre deux chromosomes homologues au cours de la prophase I de la méiose. ... .. ...... (0.5 pt)
+
+2. Deux caractéristiques d’un cycle chromosomique diplophasique :
+
+- Seul les gamètes sont haploïdes (n)............................................................. (0.5 pt)
+
+- La fécondation suit immédiatement la méiose. .......................................... (0.5 pt)
+
+NB : accepter d’autres caractéristiques d’un cycle diplophasique.
+
+(2 pts)
+
+II - (1 ; d) ; (2 ; a) ; (3 ; c) ; (4 ; b). ........ ...... ........... ................................... ........ (0.5 pt x 4) — (2 pts)
+
+III - (1 ; b) ; (2 ; d) ; (3 ; c) ; (4 ; a). ................... ............................... ... .......... ..... (0.5 pt x 4) — (1 pt)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 : (5 pts)
+
+1 - La formule chromosomique du mâle : 2n = 3AA + XY………..……….…...(0,25 pt)
+
+- La formule chromosomique des gamètes mâle : n = 3A + X et n = 3A + Y (2x0,25 pt)
+
+(0,75 pt)
+
+2 - a- Brassage interchromosomique ……………………..…………………… (0,25 pt)
+
+Justification : les deux gènes sont portés par des chromosomes différents...(0,25 pt)
+
+b- Brassage intrachromosomique…………..……………………………… (0,25 pt)
+
+Justification : les deux gènes sont portés par le même chromosome X….... (0,25 pt)
+
+(1 pt)
+
+3 - Interprétation chromosomique du croisement :
+
+Phénotype : ♀ [bw+, j+] × ♂ [bw, j]
+
+Génotype : bw+//bw , $X^{j+}X^{j}$ × bw//bw , $X^{j}Y$
+
+Gamètes : (bw+/ $X^{j+}$) ¼ ; (bw+/ $X^{j}$) ¼ ; (bw/ $X^{j+}$) ¼ ; (bw/ $X^{j}$) ¼ — et — (bw/ $X^{j}$) 1/2 ; (bw/ Y) 1/2
+
+Echiquier de croisement :
+
+| γ♂ \ γ♀ | (bw+/ $X^{j+}$) ¼ | (bw+/ $X^{j}$) ¼ | (bw/ $X^{j+}$) ¼ | (bw/ $X^{j}$) ¼ |
+| --- | --- | --- | --- | --- |
+| bw/ $X^{j}$ 1/2 | bw+//bw $X^{j+}X^{j}$ ♀ [bw+, j+] 1/8 | bw+//bw $X^{j}X^{j}$ ♀ [bw+, j] 1/8 | bw//bw $X^{j+}X^{j}$ ♀ [bw, j+] 1/8 | bw//bw $X^{j}X^{j}$ ♀ [bw, j] 1/8 |
+| bw/ Y 1/2 | bw+//bw $X^{j+}Y$ ♂ [bw+, j+] 1/8 | bw+//bw $X^{j}Y$ ♂ [bw+, j] 1/8 | bw//bw $X^{j+}Y$ ♂ [bw, j+] 1/8 | bw//bw $X^{j}Y$ ♂ [bw, j] 1/8 |
+
+On obtient les résultats théoriques suivants :
+
+♀+♂ [bw+, j+] ¼ ; ♀+♂ [bw+, j] ¼ ; ♀+♂ [bw, j+] ¼ ; ♀+♂ [bw, j] ¼
+
+(0,5 pt ; 0,5 pt ; 0,5 pt ; 0,25 pt)
+
+4-a - Le pourcentage des phénotypes parentaux (86,56%) est largement supérieur au pourcentage des phénotypes recombinés (13,44%), donc les deux gènes responsables de la couleur du corps et de la forme des ailes sont liés. ………………………………………………………………………………...(0,5 pt)
+
+- les deux gènes sont portés par le chromosome sexuel X puisqu’il y a une différence phénotypique entre les mâles et les femelles de la génération F2.…………………………………………………………………………….…. (0,5 pt)
+
+(1 pt)
+
+4-b - D’après le pourcentage des phénotypes recombinés chez les mâles, la distance entre les deux gènes est 13.44 cM, ce qui correspond à la distance indiquée sur le chromosome X (figure b du document 1). ……………………………………(0,5 pt)
+
+(0,5 pt)
+
+### Exercice 2 : (4 pts)
+
+1-a - L'allèle responsable de la maladie est récessif.
+
+Justification : des parents sains (I1 et I2) ont eu des enfants malades (II3, II8)..(0,25)
+
+- Le gène responsable de la maladie est porté par un autosome………….….. (0,25)
+
+Justification :
+
+ Le gène responsable de la maladie n'est pas porté par le chromosome Y. Puisqu’il y a présence des femelles malades (II8 et III2)…………………………….. (0,25)
+
+ Le gène responsable de la maladie n'est pas porté par le chromosome X. Puisque les femelles malades (II8 ou III2) sont issues d’un père sain……………… (0,25)
+
+(1 pt)
+
+1-b - Les génotypes des individus : …………………………………….…….(4x0,25)
+
+| II2 | II5 | III2 | III3 |
+| --- | --- | --- | --- |
+| H//h | H//H ou H//h | h//h | H//H ou H//h |
+
+(1 pt)
+
+2 -  La femme III2 donne un seul type de gamètes h/. ……………………... (0,25 pt)
+
+ Il y a une probabilité de ½ (50%) pour le père III3 qu’il soit homozygote H//H et une probabilité de ½ (50%) qu’il soit hétérozygote H//h. ……………… (0,25 pt)
+
+ Le couple donne naissance à un enfant malade si le père III3 est hétérozygote H//h. selon l’échiquier de croisement suivant : ………..…………..……. (0,5 pt)
+
+| γ♀ \ γ♂ | h/ 50% | H/ 50% |
+| --- | --- | --- |
+| h/ | h//h [h] 50% | H//h [H] 50% |
+
+la probabilité pour laquelle le couple III2 et III3 donne naissance à un enfant malade est de ½ x 50% = 25% ……………………..…………………….……...…. (0,25 pt)
+
+(1,25 pt)
+
+3 - Le génotype du fœtus est h//h …………………………………….…...…(0,25 pt)
+
+- Le fœtus aura un phénotype malade [h]. …………….……..…….………(0,25 pt)
+
+Les résultats de l’électrophorèse montrent que le génotype du père III3 est hétérozygote, donc ce couple a 50% de risque d’avoir un enfant malade...(0,25 pt)
+
+(0,75 pt)
+
+### Exercice 3 : (6 pts)
+
+1 - Réalisation d’un histogramme et d’un polygone de fréquence corrects selon l’échelle proposée dans l’exercice.
+
+(2 pts)
+
+2 -
+
+| Classes | Centre des classes (xi) | fi | xi × fi | xi - X̅ | (xi - X̅)² | fi × (xi - X̅)² |
+| --- | --- | --- | --- | --- | --- | --- |
+| [1-2[ | 1,5 | 1 | 1,5 | -2,95 | 8,7025 | 8,7025 |
+| [2-3[ | 2,5 | 2 | 5 | -1,95 | 3,8025 | 7,605 |
+| [3-4[ | 3,5 | 4 | 14 | -0,95 | 0,9025 | 3,61 |
+| [4-5[ | 4,5 | 7 | 31,5 | 0,05 | 0,0025 | 0,0175 |
+| [5-6[ | 5,5 | 3 | 16,5 | 1,05 | 1,1025 | 3,3075 |
+| [6-7[ | 6,5 | 2 | 13 | 2,05 | 4,2025 | 8,405 |
+| [7-8[ | 7,5 | 1 | 7,5 | 3,05 | 9,3025 | 9,3025 |
+| Total | | 20 | 89 | | | 40,95 |
+
+Tableau d’application correct du calcul des paramètres statistiques ….. (6x0,25 pt)
+
+Moyenne arithmétique : X̅ = 4,45 mm ……………….…...….……….….…….(0,25 pt)
+
+Ecart type : σ = 1,43 mm …………….……………...…..…….....…………. (0,25 pt)
+
+(2 pts)
+
+3-a + La moyenne arithmétique de la population descendante E2 est supérieure à celle de la population mère E1. ……………….………………………………….. (0,5 pt)
+
++ L’écart type de la population descendante E2 est inférieur à celui de la population mère E1. ……………….…………………………………..….…….……….. (0,5 pt)
+
+Donc la sélection été efficace.
+
+(1 pt)
+
+3-b + La population descendante E2 est homogène. ……………………….….. (0,25 pt)
+
++ La moyenne arithmétique et l’écart type de la population descendante E2 sont identiques à ceux de la population P2 ………………………………….…… (0,5 pt)
+
++ la population P2 ayant une vision normale est de race pure. ……...….…. (0,25 pt)
+
+Donc la sélection artificielle au niveau de la descendance E2 serait inefficace.
+
+(1 pt)

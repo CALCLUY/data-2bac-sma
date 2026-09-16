@@ -1,0 +1,211 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2024 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية - الدورة العادية 2024
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) (خيار فرنسية)
+مدة الإنجاز : 2h — المعامل : 3
+عناصر الإجابة — NR 36F
+
+Question | Eléments de réponse | Barème
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I - 1. Définitions (Accepter toute définition correcte, à titre d’exemple) :
+
+a. Méiose : Succession de deux divisions (réductionnelle et équationnelle) de cellules diploïdes aboutissant à la formation de cellules haploïdes …............….(0.5 pt)
+
+b. Caryotype : Représentation de l’ensemble des chromosomes métaphasiques d’une cellule, organisés et classés selon différents critères dont la taille et la position du centromère ……………………………...........................................… (0.5 pt)
+
+2. a. Différences entre brassage intrachromosomique et brassage interchromosomique (accepter deux différences parmi) : ………….…..……(0.25 pt ×2)
+
+- Le brassage intrachromosomique se déroule pendant la prophase I alors que le brassage interchromosomique se déroule en anaphase I.
+
+- Le brassage intrachromosomique résulte du crossing-over, alors que le brassage interchromosomique résulte de la séparation aléatoire des chromosomes homologues.
+
+- Le brassage intrachromosomique concerne les chromosomes homologues, alors que le brassage interchromosomique concerne les paires de chromosomes.
+
+b. Caractéristiques d’une cellule en anaphase I (accepter deux caractéristiques telles que) :
+
+- Séparation des chromosomes homologues sans clivage des centromères. ………..…(0.25 pt)
+
+- Formation de deux lots chromosomiques haploïdes et chaque chromosome est bichromatidien…………………………………………………………………... (0.25 pt)
+
+(2 pts)
+
+II - (1 ; b) ; (2 ; b) ; (3 ; a) ; (4 ; d) ………………………..……..…........(0.5 pt × 4) — (2 pts)
+
+III - a : Faux ; b : Vrai ; c : Faux ; d : Faux …………….………….……..(0.25 pt ×4) — (1 pt)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 : (5 pts)
+
+1 - Mode de transmission des deux gènes étudiés :
+
++ Premier croisement :
+
+- Les deux gènes sont portés par des autosomes………………………..……..….(0.25 pt)
+
+- L’allèle responsable des soies normales est dominant et l’allèle responsable des soies courtes est récessif …………………………………………………………..…..(0.25 pt)
+
+- L’allèle responsable des yeux rouges est dominant et l’allèle responsable des yeux marron est récessif ……………………….….……………………………………….…..(0.25 pt)
+
+Justification : La génération F1 est homogène à soies normales et aux yeux rouges et le croisement réciproque a donné les mêmes résultats ……………………….……(0.25 pt)
+
++ Deuxième croisement :
+
+Les deux gènes sont indépendants. ………………………………………...……. (0.25 pt)
+
+Justification : Le deuxième croisement est un croisement-test qui a donné une génération F2 composée de 4 phénotypes de proportions égales. ………………………….... (0.25 pt)
+
+(1.5 pt)
+
+2 - L’interprétation chromosomique du deuxième croisement :
+
+F1 ♀ × ♂ Individu double homozygote
+
+Phénotypes : [S ; B] × [s ; b]
+
+Génotypes : (S//s ; B//b) × (s//s ; b//b) (0.25 pt)
+
+Gamètes : ¼ S/B/ ; ¼ S/b/ ; ¼ s/B/ ; ¼ s/b/ — et — s/b/ 1 (0.5 pt)
+
+Échiquier de croisement (0.5 pt)
+
+| γ♂ \ γ F1 ♀ | S/B/ ¼ | S/b/ ¼ | s/B/ ¼ | s/b/ ¼ |
+| --- | --- | --- | --- | --- |
+| s/b/ 1 | S//s ; B//b [S,B] ¼ | S//s ; b//b [S,b] ¼ | s//s ; B//b [s,B] ¼ | s//s ; b//b [s,b] ¼ |
+
+Génération F2 : [S , B] ¼ ; [S , b] ¼ ; [s , B] ¼ ; [s , b] ¼ ………………..……(0.25 pt)
+
+(1.5 pt)
+
+3 - a. Les gènes "eb" et "ss" sont liés car (Accepter tout raisonnement correct tel) :
+
+- Le croisement 4 est un croisement-test qui a donné une génération F’2, composée seulement de deux phénotypes parentaux. ……………………………………. (0.25 pt)
+
+- L’absence de phénotypes recombinés dans la descendance (F’2) ne permet pas de calculer la distance entre les deux gènes étudiés. ……………………………………….....(0.25 pt)
+
+b. Le croisement qui permet de calculer la distance entre le gène "eb" et le gène "ss" :
+
+♀ F’1 (à soies normales et à corps gris) x ♂ (à soies courtes et à corps noir) ………….…………………………………………………………………..…… (0.5 pt)
+
+Les génotypes des parents :
+
+- La femelle F’1 : (S E // s e) - le mâle à soies courtes et à corps noir : (s e // s e) ..........(0.25 pt×2)
+
+(1.5 pt)
+
+4 - Le pourcentage des phénotypes recombinés attendu correspond à la distance entre les deux gènes (eb) et (ss) : 70 cM - 58 cM = 12 cM ce qui correspond à 12% …………………………..… (0.25 pt)
+
+- Le pourcentage des phénotypes parentaux attendu est égale à : 100% – 12 % = 88% …………..……………………….…………..…………..… (0.25 pt)
+
+(0.5 pt)
+
+### Exercice 2 : (5 pts)
+
+1 - Mode de transmission de cette maladie (Accepter toute justification logique) :
+
+- Les parents I1 et I2 sont sains et ont eu un enfant atteint (II3), donc l’allèle responsable de la maladie est récessif…………………………………………………………..... (0.5 pt)
+
+- Présence d’un homme atteint (III5) dont le père (II5) est sain et ne porte pas l’allèle morbide, donc le gène responsable de la maladie n’est pas porté par un autosome et non plus par le chromosome Y, donc le gène étudié est porté par le chromosome X. .. (0.5 pt)
+
+(1 pt)
+
+2 - Confirmation de la réponse à la question 1 (Accepter toute réponse correcte) :
+
+- Les individus III1 et III4 sont hétérozygotes et sains → l’allèle morbide est récessif. ……………………………………………………………………………………..(0.5 pt)
+
+- Chez les hommes (III2 et III5) le gène responsable de la maladie est représenté par un seul allèle → Il est porté par le chromosome X ………………………..……….. (0.5 pt)
+
+(1 pt)
+
+3 - Génotype des individus :
+
+II4 : $X^{F}X^{f}$ femme saine qui a un garçon atteint ………….……............................. (0.5 pt)
+
+III1 : $X^{F}X^{f}$ femme saine portant les deux allèles ................................................... (0.5 pt)
+
+III5 : $X^{f}Y$ homme atteint……………………………………………………….....(0.5 pt)
+
+(1.5 pt)
+
+4 - La probabilité pour que le couple (III2 × III3) donne naissance à un garçon atteint :
+
+- Le père III2 est sain, son génotype est : $X^{F}Y$. ………………………………… (0.25 pt)
+
+- Pour avoir un garçon atteint, la mère III3 doit être hétérozygote avec un génotype : $X^{F}X^{f}$…………………………….…………………………………………….……… (0.25 pt)
+
+- La probabilité qu’elle soit hétérozygote est de 1/2 car elle est saine et issue d’une mère hétérozygote…………………………………………………………………...... (0.25 pt)
+
+- L’échiquier de croisement dans ce cas : ……………………………..…..…..(0.5 pt)
+
+| γ♂ III2 \ γ♀ III3 | $X^{F}$ 1/2 | $X^{f}$ 1/2 |
+| --- | --- | --- |
+| $X^{F}$ 1/2 | $X^{F}X^{F}$ ♀ [F] 1/4 | $X^{F}X^{f}$ ♀ [F] 1/4 |
+| Y 1/2 | $X^{F}Y$ ♂ [F] 1/4 | $X^{f}Y$ ♂ [f] 1/4 |
+
+- La probabilité pour que le couple (III2 × III3) donne naissance à un garçon atteint est : 1/4 X 1/2 = 1/8 ……………………………………………………………….… (0.25 pt)
+
+(1.5 pt)
+
+### Exercice 3 : (5 pts)
+
+1 - Représentation des polygones des deux populations :
+
+- Respect de l’échelle des deux axes (0.5 pt), polygones corrects (0.5 pt) pour chaque population.
+
+[Figure — graphe : Nombre de plants (10, 20, 30, 40, 50, 60) en fonction des Classes (16, 18, 20, 22, 24, 26, 28, 30, 32) — Population statistique P, Population statistique P’]
+
+(1.5 pt)
+
+2 - Déduction :
+
+- P : population homogène → distribution unimodale des fréquences…………. (0.25 pt)
+
+- P’ : population homogène → distribution unimodale des fréquences …………(0.25 pt)
+
+(0.5 pt)
+
+3 - Tableau d’application correct du calcul des paramètres statistiques (0.25 pt pour chaque colonne excepté les deux premières colonnes)…………………………….…….. (1 pt)
+
+| Classes (xi) | fi | fi.xi | (xi - X̄) | (xi - X̄)² | fi(xi - X̄)² |
+| --- | --- | --- | --- | --- | --- |
+| 16 | 24 | 384 | - 3.72 | 13.8384 | 332.1216 |
+| 17 | 30 | 510 | - 2.72 | 7.3984 | 221.952 |
+| 18 | 36 | 648 | - 1.72 | 2.9584 | 106.5024 |
+| 19 | 40 | 760 | - 0.72 | 0.5184 | 20.736 |
+| 20 | 45 | 900 | 0.28 | 0.0784 | 3.528 |
+| 21 | 38 | 798 | 1.28 | 1.6384 | 62.2592 |
+| 22 | 30 | 660 | 2.28 | 5.1984 | 155.952 |
+| 23 | 26 | 598 | 3.28 | 10.7584 | 279.7184 |
+| 24 | 11 | 264 | 4.28 | 18.3184 | 201.5024 |
+| Total | 280 | 5522 | | | 1384.272 |
+
+Moyenne arithmétique : X̄ = 19.72 ……………………..…………………..….(0.25 pt)
+
+Ecart type : σ = 2.22 ………………………………………….……….…….... (0.25 pt)
+
+NB : Accepter des valeurs ± 0.01
+
+(1.5 pt)
+
+4 - Population P : CV = 2.22/19.72 = 0.11 → Bonne homogénéité. ……..…… (0.25 pt ×2)
+
+- Population P’ : CV = 2.14 / 27.66 = 0.077 → Excellente homogénéité. …… (0.25 pt ×2)
+
+(1 pt)
+
+5 - La variété T2 est la plus adaptée au climat sec. …………………..…………..…. (0.25 pt)
+
+Justification : Les deux variétés sont cultivées dans les mêmes conditions de sécheresse et on a obtenu une moyenne arithmétique, un mode et un degré d’homogénéité plus élevés chez P’ ……………………………………….…………….………………….… (0.25 pt)
+
+(0.5 pt)

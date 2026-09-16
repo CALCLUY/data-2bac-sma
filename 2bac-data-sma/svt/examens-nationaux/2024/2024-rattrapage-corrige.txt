@@ -1,0 +1,223 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2024 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية - الدورة الاستدراكية 2024
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) (خيار فرنسية)
+مدة الإنجاز : 2h — المعامل : 3
+عناصر الإجابة — RR 36F
+
+Question | Eléments de réponse | Barème
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I - 1. Accepter toute définition correcte, à titre d’exemple :
+
+a. Variable : Un caractère quantitatif mesurable, pouvant être représenté par différentes valeurs.…..................................................................................................................(0.5 pt)
+
+b. Sélection artificielle : Technique qui consiste à prendre des individus qui possèdent un phénotype désiré et les faire croiser entre eux dans le but d’améliorer un caractère génétique quantitatif…………………………………....……………………………………. (0.5 pt)
+
+2. Accepter toute réponse correcte, à titre d’exemple :
+
+a. Deux caractéristiques de la population statistique de race pure :
+
+- Distribution unimodale des fréquences………………………………………. (0.25 pt)
+
+- Inefficacité de la sélection artificielle dans cette population……………….….(0.25 pt)
+
+b. Deux intérêts de l’établissement du polygone de la distribution des fréquences d’un caractère dans une population statistique :
+
+- Illustrer la variation quantitative ……………………………..………….……(0.25 pt)
+
+- Illustrer l’efficacité de la sélection artificielle…………….…………….…….(0.25 pt)
+
+(2 pts)
+
+II - (1 , d) ; (2 , a) ; (3 , b) ; (4 , c)………………………………………… (0.5×4) — (2 pts)
+
+III - (a , vrai) ; (b , faux) ; (c , faux) ; (d , faux)……...…………………………….….(0.25×4) — (1 pt)
+
+## Partie II : Raisonnement scientifique et communication graphique et écrite (15 pts)
+
+### Exercice 1 : (5 pts)
+
+1 - Les formules chromosomiques :
+
+- Figure « a » : 2n=6 ou 2n= 3AA → présence de trois couples de chromosomes…..(0.5 pt)
+
+- Figure « b » : n=3 ou n= 3A → présence de trois chromosomes chacun en un seul exemplaire. ....................................................................................................................(0.5 pt)
+
+- Figure « c » : n=3 ou n= 3A → présence de trois chromosomes chacun en un seul exemplaire. ....................................................................................................................(0.5 pt)
+
+(1.5 pt)
+
+2 - Schéma légendé d’une cellule à la métaphase II (accepter tout schéma correcte qui comprend les éléments suivants) :
+
+- Nombre, position et aspect des chromosomes correctes : ……….(0.5 pt)
+
+- Titre du schéma et légende :…………………………………….. (0.5 pt)
+
+(1 pt)
+
+3 - Segment correspondant à chaque figure :
+
+- Figure « a » : segment CD → cellule diploïde avec des chromosomes bichromatidiens ……………………………..………………………………..………………………..(0.5 pt)
+
+- Figure « b » : segment EF → cellule haploïde avec des chromosomes bichromatidiens……………………………………..………………………………..(0.5 pt)
+
+- Figure « c » : segment GH → cellule haploïde avec des chromosomes monochromatidiens ………………………………………………………………………………….…… (0.5 pt)
+
+(1.5 pt)
+
+4 - Accepter 4 combinaisons parmi (donner 0.25 pt pour deux combinaisons correctes) :
+
+(1, 2, 3) ; (1’, 2’, 3’) ; (1’, 2, 3) ; (1, 2’, 3’) ; (1, 2’, 3) ; (1’, 2, 3’) ; (1, 2, 3’) ; (1’, 2’, 3).
+
+(0.5 pt)
+
+5 - Rôles de la méiose :
+
+- Réduction chromatique des cellules de l’état diploïde « 2n » à l’état haploïde « n » lors de la formation des gamètes………………………………….………………..…….(0.25 pt)
+
+- Diversification génétique des gamètes par brassage chromosomique…………….(0.25 pt)
+
+(0.5 pt)
+
+### Exercice 2 : (5 pts)
+
+1 - La relation de dominance entre les allèles des trois gènes étudiés :
+
+- La génération F1 est homogène avec un phénotype [corps gris ; ailes normales] donc :
+
+→ l’allèle responsable de la couleur grise du corps est dominant et l’allèle responsable de la couleur black du corps est récessif ………………………………………....….(0.25 pt)
+
+→ l’allèle responsable de la forme normale des ailes est dominant et l’allèle responsable de la forme vestigiale des ailes est récessif ………………………………….....….(0.25 pt)
+
+- Le croisement réciproque du croisement 3 donne une génération uniforme à phénotype [corps gris ; yeux rouges] donc :
+
+→ l’allèle responsable de la couleur rouge des yeux est dominant et l'allèle responsable de la couleur framboise est récessif..............................................................................(0.25 pt)
+
+(0.75 pt)
+
+2 - a. Le gène responsable de la couleur du corps et le gène responsable de la forme des ailes sont liés car : le croisement 2 est un croisement-test qui a donné une génération F2 composée de deux phénotypes parentaux de proportions supérieures à celles des deux phénotypes recombinés……......................................................................................................…..(0.5 pt)
+
+b. Le gène responsable de la couleur du corps et le gène responsable de la couleur des yeux sont indépendants car :
+
++ Pour le caractère "couleur des yeux" : la génération F’1 est hétérogène et le croisement réciproque donne une génération uniforme → le gène responsable est porté par le chromosome sexuel X ……………………………………..…………………...…...(0.25 pt)
+
++ Pour le caractère "couleur du corps" : la génération F’1 est homogène, de même pour la génération issue du croisement réciproque → le gène responsable est porté par un autosome. ….………………..…………………………………..…………………………..….(0.25 pt)
+
+(1 pt)
+
+3 - Le phénomène qui explique l’apparition des phénotypes recombinés dans chacune des deux générations F2 et F’2 :
+
+- La génération F2 : brassage intrachromosomique (ou crossing-over) → les deux gènes sont liés…………………………………………………….………………….………. (0.25 pt ×2)
+
+- La génération F’2 : brassage interchromosomique → les deux gènes sont indépendants ……………….……………..………….………………………….………….….. (0.25 pt ×2)
+
+(1 pt)
+
+4 - Proportions des phénotypes attendus :
+
+♀ × ♂
+
+- Phénotypes : [R ; N] × [r ; n]
+
+- Génotypes (0.25 pt) : $X^{R}X^{r}$ N//n × $X^{r}$Y n//n
+
+- Gamètes (0.25 pt) : $X^{R}$/N ¼ ; $X^{R}$/n ¼ ; $X^{r}$/N ¼ ; $X^{r}$/n ¼ — et — $X^{r}$/n ½ ; Y/n ½
+
+- Echiquier de croisement (0.25 pt) :
+
+| γ♂ \ γ♀ | $X^{R}$/N ¼ | $X^{R}$/n ¼ | $X^{r}$/N ¼ | $X^{r}$/n ¼ |
+| --- | --- | --- | --- | --- |
+| $X^{r}$/n ½ | $X^{R}X^{r}$ N//n ♀ [R ; N] 1/8 | $X^{R}X^{r}$ n//n ♀ [R ; n] 1/8 | $X^{r}X^{r}$ N//n ♀ [r ; N] 1/8 | $X^{r}X^{r}$ n//n ♀ [r ; n] 1/8 |
+| Y/n ½ | $X^{R}$Y N//n ♂ [R ; N] 1/8 | $X^{R}$Y n//n ♂ [R ; n] 1/8 | $X^{r}$Y N//n ♂ [r ; N] 1/8 | $X^{r}$Y n//n ♂ [r ; n] 1/8 |
+
+Les proportions attendus de ce croisement sont : ¼ [R ; N] ; ¼ [R ; n] ; ¼ [r ; N] ; ¼ [r ; n]........................................................(0.25 pt)
+
+(1 pt)
+
+5 - La carte factorielle des trois gènes étudiés :
+
+- Le gène responsable du caractère "couleur du corps" et le gène responsable du caractère "forme des ailes" sont liés donc ils sont portés par un autosome. La distance entre ces deux gènes est : (270 + 275) ÷ (270+275+1327+1351) x 100 = 16.90 cM……...(0.25 pt)
+
+- Le gène responsable du caractère "couleur des yeux" est porté par le chromosome sexuel X………………………………………………………………………..…………….(0.25 pt)
+
+- Réalisation d’une carte factorielle avec respect de l’échelle donnée :……………....(0.75 pt)
+
+(1.25 pt)
+
+### Exercice 3 : (5 pts)
+
+1 - Le mode de transmission des deux maladies : (Accepter tout raisonnement correct)
+
+ Pour la maladie de Usher de type IB :
+
+- Les parents I1 et I2 sont sains et ont eu des enfants (II1 et II2) atteints, donc l'allèle morbide est récessif ………………………….....................……………………….…...……..(0.25 pt)
+
+- La fille II2 est atteinte et son père I1 est sain, donc le gène responsable de la maladie n'est pas porté par le chromosome X………………………………………………………(0.25 pt)
+
+- Le garçon II1 est atteint et son père I1 est sain, donc le gène responsable de la maladie n'est pas porté par le chromosome Y..….............................................................................. (0.25 pt)
+
+- Donc le gène responsable de cette maladie est porté par un autosome. ………….. (0.25 pt)
+
+ Pour la maladie de Gardner :
+
+- Les parents I3 et I4 sont atteints et ont une fille saine donc l'allèle morbide est dominant………………………………….............................……………………..... (0.25 pt)
+
+- La fille II6 est saine et son père I3 est atteint, donc le gène responsable de la maladie n'est pas porté par le chromosome X…………………………………………………..…..(0.25 pt)
+
+- Le gène responsable de la maladie n'est pas porté par le chromosome Y : présence des femmes atteintes……….…………………………………......................……….….(0.25 pt)
+
+- Donc le gène responsable de cette maladie est porté par un autosome. ………….(0.25 pt)
+
+(2 pts)
+
+2 - Les génotypes des individus II4 et II5 : (Accepter toute justification correcte)
+
+ Pour l’individu II4 :
+
+- H//h → il est sain et a des enfants atteints……………… (0.25 pt)
+
+- g//g → il est sain et la maladie est dominant….………...(0.25 pt)
+
+=> H//h g//g ………………………………..……....(0.25 pt)
+
+ Pour l’individu II5 :
+
+- H//h → elle est saine et a des enfants atteints…………..…(0.25 pt)
+
+- G//g → elle est atteinte et a des enfants sains..….…...…...(0.25 pt)
+
+=> H//h G//g…………..……….……………………...(0.25 pt)
+
+(1.5 pt)
+
+3 - La probabilité pour que le couple II4 et II5 donne naissance à un enfant atteint par les deux maladies :
+
+♂ II4 × ♀ II5
+
+- Phénotypes (0.25 pt) : [H, g] × [H, G]
+
+- Génotypes : (H//h ; g//g) × (H//h ; G//g)
+
+- Gamètes (0.5 pt) : ½ H/g/ ; ½ h/g/ — et — ¼ H/G/ ; ¼ H/g/ ; ¼ h/G/ ; ¼ h/g/
+
+- Échiquier de croisement (0.5 pt)
+
+| γ II4 \ γ II5 | H/G/ ¼ | H/g/ ¼ | h/G/ ¼ | h/g/ ¼ |
+| --- | --- | --- | --- | --- |
+| H/g/ ½ | (H//H ; G//g) [H, G] 1/8 | (H//H ; g//g) [H, g] 1/8 | (H//h ; G//g) [H, G] 1/8 | (H//h ; g//g) [H, g] 1/8 |
+| h/g/ ½ | (H//h ; G//g) [H, G] 1/8 | (H//h ; g//g) [H, g] 1/8 | (h//h ; G//g) [h, G] 1/8 | (h//h ; g//g) [h, g] 1/8 |
+
+La probabilité pour que le couple II4 et II5 donne naissance à un enfant atteint par les deux maladies est 1/8 ........................................................................................................(0.25 pt)
+
+(1.5 pt)

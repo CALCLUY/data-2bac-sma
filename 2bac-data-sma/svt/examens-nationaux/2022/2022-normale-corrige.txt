@@ -1,0 +1,211 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2022 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية - الدورة العادية 2022
+المادة : علوم الحياة والأرض
+الشعبة والمسلك : شعبة العلوم الرياضية - مسلك العلوم الرياضية (أ) خيار فرنسية
+مدة الإنجاز : 2 — المعامل : 3
+عناصر الإجابة — NR 36F
+
+## Partie I : Restitution des Connaissances (5 pts)
+
+Question | Eléments de réponse | Barème
+
+I - 1.
+
+- Variable quantitative : est une variable dont les valeurs sont exprimées par des nombres...……………………………………………………… (0.5 pt)
+
+- Caractère héréditaire quantitatif à variation continue : caractère mesurable (qu’on peut représenter par des nombres) qui accepte des nombres illimités à l’intérieur du domaine de variation ……………………………………………………………..……..…(0.5 pt)
+
+2.
+
+a- Paramètres de position : ils permettent le positionnement des valeurs moyennes de la variable autour desquelles se répartissent les autres valeurs. …..………….…………………………………………………...… (0.5 pt)
+
+b- L’intervalle de confiance $[\bar{X}-\sigma , \bar{X}+\sigma]$ : il indique que 68% de l’échantillon des individus sont centrés autour de la moyenne plus ou moins l’écart-type. ……………………………………….………...…… (0.5 pt)
+
+(2 pts)
+
+II - (1 ; a) ; (2 ; a) ; (3 ; b) ; (4 ; d) ……………………………….......(0.5 pt x 4) — (2 pts)
+
+III - (a, faux) - (b, faux) - (c, vrai) – (d, faux) .......................................... (0.25 pt x4) — (1 pt)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 : (3.25 pts)
+
+1 - Les parents I1 et I2 sont sains et ont eu un enfant malade (II1), donc l'allèle responsable de la maladie est récessif.
+
+(0.5 pt)
+
+2 - Génotype des individus :
+
+II1 : m//m : homme malade et l’allèle responsable de la maladie est récessif donc homozygote...................... .................................................................... ........(0.25 pt)
+
+II4 : N//N ou N//m car il est sain et ses deux parents sont sains (hétérozygotes), il peut recevoir l’allèle morbide de l’un de ses deux parents ……… …… …..(0.25 pt)
+
+II5 : N//N ou N//m car l’allèle morbide est récessif et c’est possible qu’elle soit porteuse de cet allèle (Accepter la réponse N//N, car il est très probable qu’elle soit homozygote puisqu’elle n’a aucune personne malade dans sa famille).(0.25 pt)
+
+(0.75 pt)
+
+3 - Calcul de la probabilité pour que II4 soit porteur de l’allèle morbide :
+
+| Père I1 \ Mère I2 | N/ 1/2 | m/ 1/2 |
+| --- | --- | --- |
+| N/ 1/2 | N//N [N] 1/3 | N//m [N] 1/3 |
+| m/ 1/2 | N//m [N] 1/3 | m//m |
+
+Puisque II4 n’est pas malade donc la probabilité qu’il soit porteur de l’allèle morbide est : 1/3 + 1/3 = 2/3………………………………..…...…..(0.25 pt)
+
+- On sait que la probabilité que II5 soit hétérozygote est 1/30
+
+- Si les 2 parents sont hétérozygotes la probabilité pour que leur enfant soit malade est de 1/4. (Voir échiquier de croisement) ………………..(0.25 pt)
+
+| Père II4 \ Mère II5 | N/ 1/2 | m/ 1/2 |
+| --- | --- | --- |
+| N/ 1/2 | N//N [N] 1/4 | N//m [N] 1/4 |
+| m/ 1/2 | N//m [N] 1/4 | m//m [m] 1/4 |
+
+Donc la probabilité pour que le fœtus III1 de ce couple soit malade est de : 2/3 x 1/30 x 1/4 = 1/180. ….…..(0.25 pt)
+
+(1 pt)
+
+4 - II4 et II5 portent l’allèle normal et l’allèle muté, ils sont donc hétérozygotes. Leur génotype est N//m. ………………………………………………………...(0.25 pt)
+
+- L’enfant malade II1 porte les deux allèles mutés, il est donc homozygote. Son génotype est m//m…………………………………………………….…….(0.25 pt)
+
+- Le fœtus III1 porte les deux allèles normaux, il est donc homozygote et son génotype est N//N …....................... ............................ ..................................(0.25 pt)
+
+Déduction : L’enfant à naître sera sain………………… …… ….. …… .. …. (0.25 pt)
+
+(1 pt)
+
+### Exercice 2 : (11.75 pts)
+
+I - 1. Les deux photos sont prises au moment de la prophase I de la méiose……(0.5 pt)
+
+Justification : Appariement des chromosomes homologues (formation des tétrades)………………………………………………………………….…..(0.5 pt)
+
+(1 pt)
+
+2. La formule chromosomique du moustique mâle : 2n = 6 = 4A + XY, ou (2n = 6 = 2AA + XY)…………………… ……………………………………………(0.25 pt)
+
+La formule chromosomique du moustique femelle : 2n = 6 = 4A + XX, ou (2n = 6 = 2AA + XX) …………………………………………………..……….……(0.25 pt)
+
+(0.5 pt)
+
+3. - le cycle chromosomique : ……………………………………………..….(0.75 pt)
+
+[Figure — schéma : Diplophase, Méiose, γ mâles, γ femelles, Haplophase, Fécondation, Zygote]
+
+- Type du cycle : Diplophasique....................................................................(0.25 pt)
+
+(1 pt)
+
+II - 4. - Les deux parents sont de lignées pures selon la première loi de Mendel …………………………………………………………………….……..…(0.25 pt)
+
+- L’allèle responsable de la couleur grise du corps est dominant (G) et l’allèle responsable de la couleur noire du corps est récessif (n)............................. (0.25 pt)
+
+- L’allèle responsable de la couleur prune des yeux est dominant (P) et l’allèle responsable de la couleur claire des yeux est récessif (c)............................ (0.25 pt)
+
+(0.75 pt)
+
+5. - Les deux gènes étudiés sont liés..……….………………….……………..(0.25 pt)
+
+- Justification : la génération F’2, issue d’un croisement-test, est composée de quatre phénotypes à proportion différentes, les phénotypes parentaux sont plus fréquents (71 %) que les phénotypes recombinés (29 %)………..………(0.5 pt)
+
+(0.75 pt)
+
+6. L’interprétation chromosomique du deuxième croisement :
+
+F1 × individu homozygote
+
+Phénotypes (0.25 pt) : [G, P] × [n, c]
+
+Génotypes (0.25 pt) : (G P // n c) × (n c // n c)
+
+Gamètes (0.25 pt) : G P 35.2% ; n c 35.8% ; n P 14.5% ; G c 14.5% — et — n c 100%
+
+Échiquier de croisement (0.75 pt)
+
+| γ \ γ F1 | G P 35.2% | n c 35.8% | n P 14.5% | G c 14.5% |
+| --- | --- | --- | --- | --- |
+| n c 100% | (GP // nc) [G,P] 35.2% | (nc // nc) [n,c] 35.8% | (nP // nc) [n,P] 14.5% | (Gc // nc) [G,c] 14.5% |
+
+Descendance F'2 : [G,P] 35.2% ; [n,c] 35.8% ; [n,P] 14.5% ; [G,c] 14.5% (0.25 pt)
+
+(1.75 pt)
+
+7. Réalisation de la carte factorielle : ..........................................................(0.25 pt x 4)
+
+- calcul du % des recombinés (P = 29%) ;
+
+- détermination de la distance en cM (d = 29 cM) ;
+
+- respect de l’échelle ;
+
+- localisation exacte des deux gènes sur le chromosome.
+
+(1 pt)
+
+III - 8.a
+
+$Le\ phénotype\ résistant\ [Ace^{R}]\ correspondant\ au\ génotype\ (Ace^{R}//Ace^{R}) = 66\ individus$
+
+$Le\ phénotype\ sensible\ [Ace^{S}]\ correspondant\ aux\ génotypes\ (Ace^{S}//Ace^{S})\ et\ (Ace^{S}//Ace^{R}) = 350\ individus$
+
+On se trouve dans le cas de dominance et la population obéit à la loi de Hardy-Weinberg.
+
+Soit : $f(Ace^{R}) = q$ , $f(Ace^{S}) = p$
+
+$q^{2} = \frac{66}{416} = 0,158 \rightarrow q = \sqrt{0,158} = 0,397 \approx 0,4$ ………………….…..(0.5 pt)
+
+p = 1 – 0,4 = 0,6 ………………………………..……..(0.5 pt)
+
+(1 pt)
+
+8.b
+
+$f(Ace^{R}//Ace^{S}) = 2pq = 2 \times 0,4 \times 0,6 = 0,48$ et $f(Ace^{S}//Ace^{S}) = p^{2} = 0,36$ … … … … … … … … … … … … … … … … … … … … … … … … … … … . … … … … (0.25 pt)
+
+Donc :
+
+- le nombre des hétérozygotes : 0,48 × (350 + 66) ≈ 200……………..…..(0.25 pt)
+
+- le nombre des homozygotes : 0,36 × (350 + 66) ≈ 150……………….....(0.25 pt)
+
+(0.75 pt)
+
+9. La fréquence de l’allèle $Ace^{R}$ est nettement élevée dans la zone traitée (de 0 à 18 km depuis la côte), elle dépasse 0,8 …… ………………………… .……….(0.5 pt)
+
+Dans la zone non traitée la fréquence diminue progressivement en s'éloignant de la zone traitée. Elle atteint 0,2 à 60 km de la côte …… ……………… .…. …..(0.5 pt)
+
+(1 pt)
+
+10. Les points de différence :
+
+- Pour la souche R92 la dose d’insecticide devient mortelle à 4.10⁻² et la fréquence de mortalité atteint 100% à une dose de 3.10⁻¹ mg/L………. ……(0.25 pt)
+
+- Pour la souche S la dose devient mortelle à 9.10⁻⁴ mg/L et la fréquence de mortalité atteint 100% à une dose de 8.10⁻³ mg/L ........................ ..(0.25 pt)
+
+- Pour la souche R96a la dose d’insecticide devient mortelle à 6.10⁻³ et la fréquence de mortalité atteint 100% à une dose de 9.10⁻² mg/L..…(0.25 pt)
+
+Déduction
+
+- La souche R96a est moins résistante que celle de R92 dont elle est issue et plus résistante que la souche S ………… ……………………….. ……….. .(0.25 pt)
+
+(1 pt)
+
+11. L’hypothèse vérifiée est l’hypothèse 1 : il s’agit bien d’une sélection avantageuse de la souche qui porte l’allèle $Ace^{S}$……………… …… ……......... ……..(0.5 pt)
+
+Justification
+
+L’apparition de la souche R96a, plus sensible à l’insecticide à partir de la souche initiale homozygote ($Ace^{R}//Ace^{R}$) indique qu’il y a apparition d’un allèle plus sensible aux insecticides (S) par mutation suivi d’une multiplication des moustiques porteurs de cet allèle au dépend des moustiques les plus résistants car les larves de ces moustiques n’arrivent pas à l’âge adulte pour se reproduire, elles sont victimes de parasites et de prédation (sélection désavantageuse)….(0.75 pt)
+
+(1.25 pt)
