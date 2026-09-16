@@ -1,0 +1,179 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: La variation et la génétique des populations
+Sujet: Génétique des populations - Cours (Partie 4)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Génétique des populations  Cours (Partie 4)
+Professeur : Mr BAHSINA Najib
+
+1/11
+
+## Sommaire
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-3/ La dérive génétique et son effet sur les populations
+
+#### 4-4/ La migration et son effet sur les populations
+
+#### V- Le concept biologique de l’espèce
+
+#### 5-1/ La classification des êtres vivants
+
+#### 5-2/ Les critères de la définition des espèces
+
+#### 5-3/ Bilan
+
+* * *
+
+2/11
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-3/ La dérive génétique et son effet sur les populations
+
+##### Dérive génétique par effet fondateur
+
+[Figure — image : schéma de la dérive génétique par effet fondateur]
+
+3/11
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-3/ La dérive génétique et son effet sur les populations
+
+##### Bilan
+
+La dérive génétique correspond à la variation aléatoire des fréquences alléliques d’une génération à une autre suite au choix aléatoire des individus ou des gamètes participant à la reproduction.
+
+Elle se produit de façon plus marquée lorsque l’effectif de la population est faible.
+
+Elle conduit à la disparition ou à la fixation de certains allèles.
+
+[Figure — image : évolution des fréquences alléliques par dérive génétique selon l’effectif de la population]
+
+4/11
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-4/ La migration et son effet sur les populations
+
+La migration ou flux génique correspond aux échanges d’individus (d’allèles) entre populations de même espèce, géographiquement séparées.
+
+Il existe plusieurs modèles de migration :
+
+##### Modèle unidirectionnel (continent-île)
+
+Le document suivant montre un modèle de migration unidirectionnelle d’individus d’une population à une autre :
+
+[Figure — image : modèle de migration unidirectionnelle (continent-île)]
+
+1. Calculer les fréquences alléliques dans la population d'origine et la population réceptrice avant et après la migration (remplir le tableau suivant)
+
+[Figure — image : tableau des fréquences alléliques avant et après la migration]
+
+2. Déterminer l’effet de la migration des individus sur les deux populations.
+
+5/11
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-4/ La migration et son effet sur les populations
+
+##### Modèle multidirectionnel (modèle insulaire)
+
+Dans ce modèle la migration s’effectue de manière analogue entre les différentes populations :
+
+[Figure — image : modèle de migration multidirectionnelle (modèle insulaire)]
+
+Selon ce modèle il y a une convergence vers l’homogénéité génétique entre les populations.
+
+Les différences de fréquences alléliques diminuent avec les générations et finissent par disparaître.
+
+6/11
+
+### V- Le concept biologique de l’espèce
+
+#### 5-1/ La classification des êtres vivants
+
+La classification scientifique des espèces est une méthode scientifique qui essaie de classer et regrouper les êtres vivants selon leur ressemblance.
+
+Le principe est de former des groupes dans lesquels on réunit toutes les espèces qui possèdent au moins un caractère en commun.
+
+Par exemple, tous les animaux possédant une colonne vertébrale peuvent être classés dans le groupe des vertébrés et ceux qui n'en possèdent pas dans le groupe des invertébrés.
+
+Dans le système de classification classique des êtres vivants, il y a sept  étages , appelés  rangs taxinomiques  ou  taxons  :
+
+[Figure — image : les sept rangs taxinomiques de la classification classique]
+
+Linné (naturaliste) a répertorié, nommé et classé de manière systématique l'essentiel des espèces vivantes connues à son époque (1707-1778).
+
+En effet toutes les espèces sont nommées en latin, selon le système binominal inventé par Linné : un nom de genre suivi d’un qualificatif d’espèce. Ex: Homo sapiens.
+
+L'espèce est donc l'unité de base de la classification du vivant.
+
+7/11
+
+### V- Le concept biologique de l’espèce
+
+#### 5-2/ Les critères de la définition des espèces
+
+##### Les critères morphologiques
+
+Ils reposent sur le nombre de caractères communs partagés entre les individus.
+
+On estime que deux individus qui se ressemblent, ont plus de chance d’appartenir à la même espèce que deux individus qui ne se ressemblent pas.
+
+Mais l’utilisation de ce critère a ses limites :
+
+- Le dimorphisme sexuel
+- Les stades de  développement
+
+[Figure — image : exemple de dimorphisme sexuel]
+
+[Figure — image : exemple de stades de développement]
+
+8/11
+
+### V- Le concept biologique de l’espèce
+
+#### 5-2/ Les critères de la définition des espèces
+
+##### Les critères biologiques
+
+L’interfécondité :
+
+Deux individus capables de se reproduire pour donner une descendance fertile appartiennent à la même espèce.
+
+Les études  génétiques :
+
+Si on ne retrouve pas de gènes communs entre ces deux populations, on peut estimer qu’elles ne se reproduisent pas entre elles. Ce sont donc deux espèces différentes.
+
+9/11
+
+### V- Le concept biologique de l’espèce
+
+#### 5-2/ Les critères de la définition des espèces
+
+##### Les critères écologiques
+
+Deux populations qui n’ont pas la même période de floraison ne peuvent pas se reproduire. Elles forment donc deux espèces différentes.
+
+10/11
+
+### V- Le concept biologique de l’espèce
+
+#### 5-3/ Bilan
+
+La définition précise de la notion d’espèce est donc très délicate.
+
+Les spécialistes utilisent souvent plusieurs critères qu’ils essaient d’adapter à chaque type d’organisme.
+
+Le critère génétique restant celui auquel on a le plus recours.
+
+11/11

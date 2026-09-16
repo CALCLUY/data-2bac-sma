@@ -1,0 +1,227 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: La variation et la génétique des populations
+Sujet: Génétique des populations - Cours (Partie 1)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Génétique des populations  Cours (Partie 1)
+Professeur : Mr BAHSINA Najib
+
+1/14
+
+## Sommaire
+
+### I- Introduction
+
+### II- Notion d’équilibre des populations
+
+#### 2-1/ Signification biologique de la population
+
+#### 2-2/ Notion de pool génétique
+
+* * *
+
+2/14
+
+### I- Introduction
+
+Si la génétique mendélienne s’intéresse à l’étude de la transmission des caractères héréditaires chez des individus où les croisements sont contrôlés par l’expérimentateur.
+
+La génétique des populations vise à étudier cette transmission au sein d’une population (groupe d’individus) et ceci à travers le calcul des fréquences des gènes et des génotypes, et l’étude des facteurs susceptibles de modifier ces fréquences au cours des générations.
+
+- Quelle est la signification biologique de la population ?
+- Comment calculer les fréquences alléliques, génotypiques et phénotypiques ?
+- Quels sont les facteurs influençant la variabilité génétique des populations ?
+
+3/14
+
+### II- Notion d’équilibre des populations
+
+#### 2-1/ Signification biologique de la population
+
+[Figure — image : population d’individus d’une même espèce dans un même espace géographique]
+
+Une population est un ensemble d’individus appartenant à la même espèce vivant dans le même espace géographique et pouvant se croiser entre eux.
+
+La population est une structure dynamique qui se caractérise par :
+
+- Entrée de nouveaux individus (naissances et migration vers la population).
+- Perte d’individus : les décès et la migration des individus hors de l’aire de répartition de la population.
+- Diversité phénotypique des individus.
+
+4/14
+
+### II- Notion d’équilibre des populations
+
+#### 2-2/ Notion de pool génétique
+
+##### Définition
+
+Le pool génétique (ou pool génique) correspond à l'ensemble des allèles d'un ou de plusieurs gènes possédés par les individus d’une population.
+
+Pour décrire le pool génétique d’une population, on doit calculer les fréquences alléliques et génotypiques.
+
+5/14
+
+### II- Notion d’équilibre des populations
+
+#### 2-2/ Notion de pool génétique
+
+##### Calcul des fréquences phénotypiques, génotypiques et alléliques
+
+Fréquences phénotypiques :
+
+$$f([A])=\frac{nombre\ d'individus\ porteurs\ du\ phénotype\ [A]}{nombre\ totale\ des\ individus\ (N)}\qquad f([a])=\frac{nombre\ d'individus\ porteurs\ du\ phénotype\ [a]}{nombre\ totale\ des\ individus\ (N)}$$
+
+Fréquence génotypique :
+
+$$f(AA)=\frac{n(AA)}{N}=D\qquad f(Aa)=\frac{n(Aa)}{N}=H\qquad f(aa)=\frac{n(aa)}{N}=R$$
+
+n(AA) = nombre d’individus ayant le génotype A//A
+
+n(Aa) = nombre d’individus ayant le génotype A//a
+
+n(aa) = nombre d’individus ayant le génotype a//a
+
+N = le nombre total des individus (n(AA) + n(Aa) + n(aa))
+
+Fréquences alléliques :
+
+$$f(A)=p=\frac{n(aA)+2n(AA)}{2N}=\frac{H}{2}+D\qquad f(a)=q=\frac{n(aA)+2n(aa)}{2N}=\frac{H}{2}+R$$
+
+6/14
+
+### II- Notion d’équilibre des populations
+
+#### 2-2/ Notion de pool génétique
+
+##### Application
+
+On considère la population représentée par la figure suivante :
+
+[Figure — image : population d’individus avec leurs génotypes].
+
+7/14
+
+### II- Notion d’équilibre des populations
+
+#### 2-3/ Loi de Hardy-Weinberg et conditions de son application
+
+##### Énoncé de la loi de Hardy-Weinberg
+
+En 1908, un mathématicien (Hardy) et un médecin (Weinberg) ont formulé une loi, appelée loi de Hardy-Weinberg:
+
+Dans une population théorique idéale, de taille infinie et en équilibre génétique,
+
+les fréquence génotypiques et alléliques restent stables d’une génération à une autre.
+
+La population théorique idéale selon la loi de Hardy– Weinberg. présente les caractéristiques suivantes :
+
+- population d’organisme diploïdes
+- reproduction sexuée
+- abscence de chevauchement entre les générations.
+- son nombre est infini
+- fermée génétiquement (pas de migration).
+- ses individus ont la même capacité de se reproduire et la capacité de donner des descendants capables de vivre.
+- la population est panmictique (les couples se forment au hasard (panmixie),
+
+8/14
+
+### II- Notion d’équilibre des populations
+
+#### 2-3/ Loi de Hardy-Weinberg et conditions de son application
+
+##### Démonstration de la loi de Hardy-Weinberg
+
+Soit une population P0 de drosophiles constituée de :
+
+[Figure — image : composition génotypique de la population P0 de drosophiles]
+
+1. Calculer les fréquences génotypiques et alléliques dans la population P0
+
+2. Quelles sont les fréquences génotypiques et alléliques dans la population P1 issue de la reproduction des individus de la population P0 ?
+
+[Figure — image : échiquier de croisement des gamètes de la population P0]
+
+9/14
+
+### II- Notion d’équilibre des populations
+
+#### 2-3/ Loi de Hardy-Weinberg et conditions de son application
+
+##### Bilan
+
+Quand les fréquences génotypiques et alléliques restent constantes d’une génération à une autre, on dit que cette population est en équilibre.
+
+Dans ce cas les fréquences génotypiques sont déterminées à partir des fréquences alléliques comme suit :
+
+$$f(AA)=p^{2}\qquad f(Aa)=2pq\qquad f(aa)=q^{2}$$
+
+Avec :
+
+$$f(AA)+f(Aa)+f(aa)=p^{2}+2pq+q^{2}=(p+q)^{2}=1$$
+
+[Figure — image : illustration récapitulative de l’équilibre de Hardy-Weinberg]
+
+10/14
+
+### II- Notion d’équilibre des populations
+
+#### 2-4/ Test de l’équilibre d’une population (Khi deux ou khi carré)
+
+Pour déterminer si une population naturelle est en équilibre à un instant « t » on va la comparer à une population théorique idéale.
+
+Cette comparaison est facile pour des caractères codominants, pour lesquels le calcul des fréquences alléliques est possible.
+
+On applique dans cette comparaison un test nommé test de khi 2 ($\chi^{2}$).
+
+Les étapes de test de khi 2 :
+
+1. Calcul des fréquences alléliques réelles parmi les N individus échantillonnés.
+
+soit :     $p=f(A) ; q=f(a)$
+
+2. Calcul des effectifs génotypiques attendus dans une population théorique idéale qui aurai le même effectif et les mêmes fréquences alléliques que la population étudiée.
+
+soit:
+
+$$n'(AA)=p^{2}\times N\ ;\quad n'(Aa)=2pq\times N\ ;\quad n'(aa)=q^{2}\times N$$
+
+3. Comparaison des effectifs observés et des effectifs par un test statistique du khi Deux
+
+$$\chi^{2}=\sum\frac{\left(n_{i}-n_{i}'\right)^{2}}{n_{i}'}$$
+
+ni : effectifs observés = nombre d’individus ayant le génotype étudié
+
+ni’ : effectifs théoriques = nombre d’individus ayant le génotype étudié si la population était en équilibre de H-W.
+
+11/14
+
+### II- Notion d’équilibre des populations
+
+#### 2-4/ Test de l’équilibre d’une population (Khi deux ou khi carré)
+
+La valeur $\chi^{2}$ calculé ($\chi^{2}_{cal}$) est comparée à une valeur seuil, lue dans une table $\chi^{2}$ en fonction de 2 paramètres :
+
+- $\alpha$ : Risque d’erreur choisi par l’expérimentateur, est souvent égale à 5% (0.05)
+- ddl : Degré de liberté (ddl = le nombre de génotypes - nombre d'allèles)
+
+[Figure — image : table des valeurs seuils du khi deux]
+
+Si $\chi^{2}_{cal}$ est inférieur à $\chi^{2}_{seuil}$ : la population est en équilibre selon la loi de H-W.
+
+Si $\chi^{2}_{cal}$ est supérieur à $\chi^{2}_{seuil}$ : la population n’est pas en équilibre.
+
+12/14
+
+[Figure — image : application du test de khi deux]
+
+13/14
+
+[Figure — image : présentation récapitulative]
+
+14/14

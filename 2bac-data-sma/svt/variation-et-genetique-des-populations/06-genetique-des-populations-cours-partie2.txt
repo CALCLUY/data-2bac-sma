@@ -1,0 +1,98 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: La variation et la génétique des populations
+Sujet: Génétique des populations - Cours (Partie 2)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Génétique des populations  Cours (Partie 2)
+Professeur : Mr BAHSINA Najib
+
+1/6
+
+## Sommaire
+
+### III- Application de la loi de H-W
+
+#### 3-1/ Cas d’une maladie génétique dans une population humaine
+
+#### 3-2/ Cas des gènes liés au sexe
+
+* * *
+
+2/6
+
+### III- Application de la loi de H-W
+
+#### 3-1/ Cas d’une maladie génétique dans une population humaine
+
+La mucoviscidose est une maladie autosomique récessive dont la prévalence dans une population répondant à la loi de H-W est de 1/2500
+
+1. Calculer les fréquences génotypiques et alléliques dans cette population. (Utilisez M pour l’allèle normal et m pour l’allèle morbide).
+
+2. Déduire le nombre d’individus hétérozygotes dans cette population sachant qu’elle est constituée de 20000 personnes.
+
+3. Dans cette population panmictique, quelle est la probabilité qu'un enfant, issu de l’union entre deux individus sains soit malade, en l’absence de toute information sur les génotypes de ces individus ?
+
+3/6
+
+### III- Application de la loi de H-W
+
+#### 3-2/ Cas des gènes liés au sexe
+
+Chez la drosophile, la couleur des yeux est due à l’expression d’un gène porté par le chromosome sexuel X.
+
+l’allèle dominant S donne des yeux rouges et l’allèle récessif w donne des yeux blancs.
+
+On met dans une cage à population le même nombre de mâles et de femelles de drosophile.
+
+On considère:
+
+- à la génération G0 les fréquences des allèles S et w sont successivement p et q
+- ces fréquences sont égales chez les deux sexes
+- la population est en équilibre selon la loi de H-W
+
+1. Écrivez les différents génotypes des mâles et des femelles et déduisez les différents types de gamètes qui peuvent être produits dans la population.
+
+2. En s’aidant d’un échiquier de croisement, calculez les fréquences génotypiques des femelles et des mâles dans la génération G0+1 . Lesquels répondent à la loi de H.W
+
+3. Que déduisez-vous de l’application de cette loi dans le cas de la transmission des maladies dont le gène responsable est porté par un gonosome.
+
+4/6
+
+### III- Application de la loi de H-W
+
+#### 3-2/ Cas des gènes liés au sexe
+
+[Figure — image : échiquier de croisement des gamètes pour un gène lié au chromosome X]
+
+5/6
+
+### III- Application de la loi de H-W
+
+#### 3-2/ Cas des gènes liés au sexe
+
+##### Application
+
+Le favisme est une maladie liée à une anomalie de l’enzyme glucose-6 phosphate déshydrogénase (G6PD) qui entraîne des problèmes lors de l’ingestion de certaines substances (fèves en particulier).
+
+La figure (a) représente un arbre généalogique d’une famille dont certains membres sont atteints du favisme
+
+la figure (b) représente le nombre et les types d’allèles du gène responsable du favisme chez les membres de cette famille :
+
+[Figure — figures a et b, image : arbre généalogique d’une famille atteinte de favisme et nombre et types d’allèles chez ses membres]
+
+1. En exploitant les deux figures a et b, montrez que l’allèle responsable de la maladie est récessif et porté par le chromosome sexuel X.
+
+Le favisme est une maladie très répandue dans le monde, la fréquence de l’allèle responsable de cette maladie dans une population est de 1/20
+
+Sachant que cette population est soumise à la loi de H-W :
+
+2. Calculez la fréquence des hommes et des femmes malades. Que déduisez-vous ?
+
+3. Calculez la fréquence des femmes porteuses de la maladie. (utilisez les symboles M et m pour désigner les allèles du gène étudié).
+
+6/6

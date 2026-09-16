@@ -1,0 +1,152 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: La variation et la génétique des populations
+Sujet: Étude quantitative de la variation (La biométrie) - Cours (Partie 2)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Étude quantitative de la variation
+(La biométrie)  Cours (Partie 2)
+Professeur : Mr BAHSINA Najib
+
+1/11
+
+## Sommaire
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-1/ Les paramètres de position
+
+#### 3-2/ Les paramètres de dispersion
+
+* * *
+
+2/11
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-1/ Les paramètres de position
+
+##### Le mode
+
+Dans le cas d’une variation discontinue c’est la valeur de la variable qui correspond à la fréquence la plus élevée .
+
+Dans une variation continue, le mode est la valeur moyenne de la classe ayant la plus grande fréquence.
+
+Le mode permet de déterminer l’homogénéité de la distribution d’une variable :
+
+- Si le polygone de fréquence est unimodale, l’échantillon étudié est homogène
+- Si le polygone de fréquence est bimodale, ou plurimodale, l’échantillon étudié est hétérogène.
+
+[Figure — image : polygone de fréquences unimodal]
+
+[Figure — image : polygone de fréquences bimodal / plurimodal]
+
+3/11
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-1/ Les paramètres de position
+
+##### La moyenne arithmétique $\bar{X}$ (lire X barre)
+
+Elle nous renseigne sur la valeur centrale du variable tenant compte des effectifs. Elle est calculée par la suivante :
+
+$$\bar{X}=\frac{\sum_{i}^{1}\left(f_{i}x_{i}\right)}{n}$$
+
+Avec :
+
+- $x_{i}$ : la valeur de la variable (dans une variation discontinue) ou le centre de la classe (dans une variation continue).
+- $f_{i}$ : la fréquence de la variable.
+- $n$ : le nombre total d’individus dans la population étudiée.
+
+4/11
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-1/ Les paramètres de position
+
+##### Application 1
+
+Calculer $\bar{X}$ pour la distribution de nombre de nouveau nés chez les femelles de souris :
+
+[Figure — image : tableau de la distribution du nombre de nouveau-nés chez les femelles de souris]
+
+5/11
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-1/ Les paramètres de position
+
+##### Application 2
+
+Calculer $\bar{X}$ pour la distribution de la longueur des pinces :
+
+[Figure — image : tableau de la distribution de la longueur des pinces]
+
+6/11
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-2/ Les paramètres de dispersion
+
+##### La variance (V)
+
+La variance est un paramètre permettant de mesurer le degré de dispersion d’une distribution.
+
+La variance se calcule par la formule suivante :
+
+$$V=\frac{\sum_{i}^{1}f_{i}\left(x_{i}-\bar{X}\right)^{2}}{n}$$
+
+7/11
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-2/ Les paramètres de dispersion
+
+##### L’écart type (σ)
+
+$$\sigma=\sqrt{V}=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(x_{i}-\bar{X}\right)^{2}}{n}}$$
+
+Plus l’écart type est grand, plus les valeurs sont dispersées, et plus l’homogénéité de la population diminue
+
+L’écart type permet de définir ce qu’on appelle le domaine de confiance.
+
+8/11
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-2/ Les paramètres de dispersion
+
+##### L’écart type (σ)
+
+[Figure — image : domaine de confiance et écart type sur la courbe de distribution]
+
+9/11
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-2/ Les paramètres de dispersion
+
+##### Application 1
+
+Calculer l’écart type dans la distribution du nombre de nouveau nés chez les femelles de souris :
+
+[Figure — image : tableau de calcul de l’écart type, nombre de nouveau-nés]
+
+10/11
+
+### III- Les paramètres caractéristiques d’une distribution de fréquence
+
+#### 3-2/ Les paramètres de dispersion
+
+##### Application 2
+
+Calculer l’écart type dans la distribution de la longueur des pinces :
+
+[Figure — image : tableau de calcul de l’écart type, longueur des pinces]
+
+11/11

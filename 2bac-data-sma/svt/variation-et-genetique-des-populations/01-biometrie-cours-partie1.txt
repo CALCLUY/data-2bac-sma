@@ -1,0 +1,87 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: La variation et la génétique des populations
+Sujet: Étude quantitative de la variation (La biométrie) - Cours (Partie 1)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Étude quantitative de la variation
+(La biométrie)  Cours (Partie 1)
+Professeur : Mr BAHSINA Najib
+
+1/7
+
+## Sommaire
+
+### I- Introduction
+
+### II- Notion  de variation continue et variation discontinue
+
+#### 2-1/ Variation discontinue et sa représentation graphique
+
+#### 2-2/ Variation continue et sa représentation graphique
+
+* * *
+
+2/7
+
+### I- Introduction
+
+La génétique mendélienne s’intéresse à l’étude des caractères qualitatifs (la couleur, la forme, groupes sanguins …) qui sont faciles à distinguer.
+
+Cependant, il existe d’autres caractères dits quantitatifs (la taille, le poids, nombre des œufs pondues…) non soumis aux lois de Mendel et qui sont des caractères mesurables (en kg, en m, en l, ...), donc qui peuvent prendre différentes valeurs.
+
+La biométrie est la branche de la biologie qui s’intéresse à l’étude de la variation quantitative en appliquant des méthodes mathématiques et statistiques dans le but d’expliquer la distribution des caractères quantitatifs.
+
+3/7
+
+### II- Notions de variation continue et variation discontinue
+
+#### 2-1/ Variation discontinue et sa représentation graphique
+
+On s’intéresse à l’étude du nombre des nouveau-nés après chaque grossesse chez une population de 97 souris, et on obtient les résultats suivants :
+
+[Figure — image : tableau des effectifs du nombre de nouveau-nés chez une population de 97 souris]
+
+1. Déterminez le type de variation étudiée. Justifiez votre réponse
+2. Représentez graphiquement la répartition des fréquences sous forme de diagramme en bâtons et polygone de fréquences.
+
+4/7
+
+### II- Notions de variation continue et variation discontinue
+
+#### 2-1/ Variation discontinue et sa représentation graphique
+
+[Figure — image : diagramme en bâtons et polygone de fréquences]
+
+5/7
+
+### II- Notions de variation continue et variation discontinue
+
+#### 2-2/ Variation continue et sa représentation graphique
+
+Le Forficule ou Perce-oreille est un insecte de petite taille très répandu et inoffensif. Il possède un abdomen qui se termine par deux pinces.
+
+[Figure — image : le perce-oreille (Forficule)]
+
+Chez les mâles, la longueur des pinces est un caractère héréditaire variable (elle varie entre 2mm et 9mm).
+
+On a mesuré, chez une population P, la longueur des pinces chez 586 mâles. Le tableau du document 1 résume les résultats obtenus :
+
+[Figure — document 1, image : tableau de la longueur des pinces chez 586 mâles de la population P]
+
+1. Déterminez le type de variation étudiée. Justifiez votre réponse.
+2. Dressez l’histogramme et le polygone de fréquence de la distribution de la longueur des pinces chez les individus de la population P.
+
+6/7
+
+### II- Notions de variation continue et variation discontinue
+
+#### 2-2/ Variation continue et sa représentation graphique
+
+[Figure — image : histogramme et polygone de fréquence de la longueur des pinces]
+
+7/7

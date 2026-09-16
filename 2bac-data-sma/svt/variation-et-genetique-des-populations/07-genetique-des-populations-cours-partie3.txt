@@ -1,0 +1,143 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: La variation et la génétique des populations
+Sujet: Génétique des populations - Cours (Partie 3)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Génétique des populations  Cours (Partie 3)
+Professeur : Mr BAHSINA Najib
+
+1/10
+
+## Sommaire
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-1/ Les mutations et leur effets possibles sur les populations
+
+#### 4-2/ La sélection naturelle et son effet sur les populations
+
+* * *
+
+2/10
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-1/ Les mutations et leur effets possibles sur les populations
+
+##### Définition et classification
+
+Une mutation  est toute modification de quantité ou de la structure de l’information génétique  (gène et chromosomes).
+
+Une mutation peut être ponctuelle ou chromosomique.
+
+3/10
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-1/ Les mutations et leur effets possibles sur les populations
+
+##### Les mutations ponctuelles
+
+[Figure — image : types de mutations ponctuelles (délétion, insertion, substitution)]
+
+Ce sont des mutations induisant des modifications de la séquence nucléotidique d’un gène par délétion,
+
+insertion ou substitution.
+
+Ces mutations peuvent avoir diverses conséquences :
+
+- Modifier un ou plusieurs acides aminés de la protéine dans le cas d’une mutation faux sens
+- Arrêter la synthèse protéique dans le cas d’une mutation non sens qui fait apparaître un codon stop
+
+4/10
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-1/ Les mutations et leur effets possibles sur les populations
+
+##### Les mutations chromosomiques
+
+Ce sont des mutations induisant la modification du nombre ou de la structure des chromosomes, entraînant une maladie génétique ou la mort.
+
+5/10
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-1/ Les mutations et leur effets possibles sur les populations
+
+##### Effet des mutations sur les populations
+
+Considérons deux populations P1 et P2 dont un  individu a subi une mutation qui a modifié son génotype AA en Aa :
+
+1. Compléter le tableau et calculer les fréquences des 2 allèles avant et après la mutation.
+2. Déduire l’effet des mutations sur le pool génique des populations
+
+[Figure — image : tableau des effectifs génotypiques des populations P1 et P2 avant et après la mutation]
+
+6/10
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-2/ La sélection naturelle et son effet sur les populations
+
+##### Un exemple de sélection naturelle
+
+La phalène du bouleau est un papillon nocturne qui est caractérisé
+par deux sous-espèces :
+- Biston blatularia
+- Biston carbonaria
+Pendant le jour, les phalènes s’immobilisent sur les troncs d’arbres ; elles sont alors des proies faciles pour les oiseaux.
+
+[Figure — image : les deux sous-espèces de la phalène du bouleau sur des troncs d’arbres]
+
+7/10
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-2/ La sélection naturelle et son effet sur les populations
+
+##### Un exemple de sélection naturelle
+
+L’expérience suivante a été effectuée par un entomologiste britannique, H. Kettlewell (1955).
+
+Des phalènes des 2 phénotypes sont marqués d’une petite tache de peinture, puis lâchées :
+
+- dans un bois dont les arbres sont sombres car pollués par la suie (Birmingham).
+- dans un milieu rural (Dorset) dans un bois où les arbres sont clairs (car couverts de lichen).
+
+Au cours des nuits qui suivent le lâcher, les papillons survivants sont recapturés puis dénombrés.
+
+Les résultats sont présentés dans le tableau suivants :
+
+[Figure — image : tableau des résultats de l’expérience de Kettlewell (papillons lâchés et recapturés)]
+
+8/10
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-2/ La sélection naturelle et son effet sur les populations
+
+##### Définition de la sélection naturelle
+
+Tri effectué par les conditions de l’environnement en faveur des formes les plus aptes à survivre et à se reproduire.
+
+Les formes qui ne s’adaptent pas sont éliminées.
+
+9/10
+
+### IV- Les facteurs de la variabilité génétique des populations
+
+#### 4-2/ La sélection naturelle et son effet sur les populations
+
+##### Les différents types de sélection naturelle
+
+[Figure — image : les différents types de sélection naturelle]
+
+                                    Sélection directionnelle                 Sélection divergente                           Sélection stabilisante
+
+10/10

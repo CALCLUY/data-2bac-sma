@@ -1,0 +1,110 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: La variation et la génétique des populations
+Sujet: Étude quantitative de la variation (La biométrie) - Exercices
+Type: Exercices
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Étude quantitative de la variation
+(La biométrie)  Exercices
+Professeur : Mr BAHSINA Najib
+
+1/5
+
+### Exercice 1
+
+Répondre par "Vrai" ou "Faux"
+
+- Dans une variation continue, le variable prend des valeurs limitées exprimées par des nombres entiers : _________
+
+- Dans le cas d’une variation discontinue, on représente les résultats sous forme de diagramme en bâtons et le polygone de fréquence : _________
+
+- Dans une variation discontinue, le mode est la valeur moyenne de la classe ayant la plus grande fréquence : _________
+
+- Le mode désigne donc la valeur dominante c-à-d la valeur la plus représentée d’une variable dans la population étudiée : _________
+
+- Si le polygone de fréquence est bimodal, ou plurimodale, l’échantillon étudié est homogéne : _________
+
+- Plus l’écart type est grand, plus les valeurs sont dispersées, et plus l’homogénéité de la population diminue : _________
+
+- la sélection artificielle permet l’amélioration de la production animale et végétale quand elle est effectuée dans une population composée de deux ou de plusieurs races alors qu’elle reste inefficace dans une race pure : _________
+
+- La race pure : ensemble d’individus (population) de  phénotype différent , la sélection au sein de cette population est inefficace : _________
+
+2/5
+
+### II- Exercice 2
+
+1. Définir :
+
+- La biométrie :
+
+- La sélection artificielle
+
+2. Donner la formule complète de la moyenne arithmétique.
+
+3/5
+
+### III- Exercice 3
+
+Chez le tournesol _Helianthus annuus_, on a mesuré la variation de la masse sèche des akènes en cg dans un échantillon constitué de 350 akènes.
+
+Le document suivant montre les résultats obtenus :
+
+[Figure — image : tableau de la masse sèche des akènes de tournesol (350 akènes)]
+
+1. Réalisez l’histogramme et le polygone de fréquence de la distribution de la masse sèche des akènes en cg.
+
+Utilisez l’échelle : 1cm pour chaque classe et 1cm pour chaque 10 akènes.
+
+[Figure — image : tableau de la masse sèche des akènes (rappel)]
+
+[Figure — image : papier millimétré pour le tracé]
+
+2. Calculez la moyenne arithmétique, l’écart type et l’intervalle de confiance de cette distribution, en se basant sur un tableau d’application du calcul des paramètres statistiques.
+
+On donne :
+
+$$\sigma=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(\chi_{i}-\bar{X}\right)^{2}}{n}}\quad et\quad \bar{X}=\frac{\sum_{i}^{1}\left(f_{i}\chi_{i}\right)}{n}$$
+
+[Figure — image : exercice issu de l'examen national normale 2019]
+
+3. A partir de ce qui précède, déduisez les caractéristiques de cette variation chez le tournesol étudié. Justifiez votre réponse.
+
+4/5
+
+### IV- Exercice 4
+
+Afin de favoriser l'amélioration de la longueur du tube de la corolle chez Longiflora (plante angiosperme), on a eu recours à la technique de la sélection artificielle, qui consiste à isoler les individus caractérisés par des tubes de corolle longs et les soumettre à des croisements aléatoires entre eux.
+
+Pour mettre en évidence l'efficacité de cette sélection, on propose l'étude des données expérimentales suivantes :
+
+L'étude statistique de la distribution de la longueur du tube de la corolle dans la population mère (P1) de Longifiora, a permis l'établissement de l'histogramme de fréquence, du polygone de fréquence et le calcul des paramètres statistiques $\bar{X}$ et $\sigma$ :
+
+[Figure — image : histogramme et polygone de fréquence de la longueur du tube de la corolle chez la population P1]
+
+1. En exploitant le document ci-dessus :
+
+- a- Déterminez le type de variation étudiée.
+- b- Décrivez la distribution de fréquence dans cette population. Qu'en déduisez- vous ?
+
+Les individus caractérisés par des tubes de corolle dont la longueur est égale ou supérieure à 79mm sont isolés et croisés entre eux au hasard. On a obtenu de ces croisements une population fille (P2).
+
+Le tableau ci-dessous représente la distribution des fréquences de la longueur du tube de la corolle chez la population P2 :
+
+[Figure — image : tableau de distribution des fréquences chez la population P2]
+
+2. Calculer la moyenne arithmétique et l’écart-type de cette distribution. Utilisez un tableau d'application pour calculer ces paramètres.
+
+On donne :
+
+$$\sigma=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(\chi_{i}-\bar{X}\right)^{2}}{n}}\quad et\quad \bar{X}=\frac{\sum_{i}^{1}\left(f_{i}\chi_{i}\right)}{n}$$
+
+[Figure — image : exercice issu de l'examen national normale 2016]
+
+3. Comparer les paramètres statistiques $\bar{X}$ et $\sigma$ des deux populations P1 et P2. Qu'en déduisez-vous à propos de l'efficacité de la sélection artificielle effectuée ?
+
+5/5

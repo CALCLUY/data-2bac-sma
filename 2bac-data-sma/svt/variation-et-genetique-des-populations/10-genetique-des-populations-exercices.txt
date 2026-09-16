@@ -1,0 +1,113 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: La variation et la génétique des populations
+Sujet: Génétique des populations - Exercices
+Type: Exercices
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Génétique des populations – Exercices
+Professeur : Mr BAHSINA Najib
+
+1/7
+
+### I- Exercice 1
+
+1. Définissez :
+
+- La population :
+
+- La dérive génétique :
+
+2. Citez deux caractéristiques de la population théorique idéale ( population en équilibre selon la loi de Hardy-Weinberg) :
+
+2/7
+
+### II- Exercice 2
+
+Répondez par «Vrai» ou «Faux» :
+
+- Le pool génique d’une population est l’ensemble des génotypes et des caractères phénotypiques (des phénotypes) des individus qui lui appartiennent : ___________
+
+- Dans une population à effectif réduit, la dérive génétique réduit la diversité génétique : __________
+
+- Malgré leur trop faible probabilité, les mutations sont source de diversité génétique, au fil des générations : ___________
+
+- Les mutations qui affectent les cellules somatiques sont des mutations héréditaires : ___________
+
+3/7
+
+### III- Exercice 3
+
+Pour chacune des données suivantes. il y a une seule suggestion correcte :
+
+A- La sélection naturelle entraîne la modification génétique d'une population sous l'effet :
+
+1. des facteurs environnementaux.
+2. de la dérive génétique.
+3. des facteurs mutagènes.
+4. des croisements aléatoires.
+
+B- La mutation chromosomique est due à :
+
+- des modifications de la structure ou du nombre des chromosomes.
+- une substitution d’un seul nucléotide au niveau du chromosome.
+- une addition d’un seul nucléotide au niveau du chromosome.
+- une délétion d’un seul nucléotide au niveau du chromosome.
+
+C- Dans le cas d'une codominance non liée au sexe au sein d'une population donnée :
+
+- la fréquence des allèles est égale à la fréquence des génotypes.
+- la fréquence des phénotypes est égale à la fréquence des génotypes.
+- la fréquence des phénotypes est différente de la fréquence des génotypes.
+- la fréquence des allèles est égale à la fréquence des phénotypes.
+
+4/7
+
+### IV- Exercice 4
+
+Afin de connaître l’influence de quelques facteurs de variation sur la structure génétique d’une population, on propose les données suivantes :
+
+##### Donnée 1
+
+Dans les années 50 du siècle dernier, pendant des compagnes d’éradication des rats, un anticoagulant puissant appelé la Warfarine a été utilisé comme pesticide. Suite à cette compagne, l'existence de rats mutants résistants à ce pesticide a été enregistrée dans plusieurs pays.
+
+Pour montrer l'origine de la variation génétique au sein d'une population de rats, on a déterminé la séquence nucléotidique au niveau d’une partie du gène VKOR1 et la séquence des acides aminés qui en résulte chez les rats sensibles et chez deux groupes de rats résistants à la Warfarine.
+
+Le document 1 représente les résultats obtenus :
+
+[Figure — document 1, image : séquences nucléotidiques du gène VKOR1 et séquences d’acides aminés chez les rats sensibles et résistants]
+
+1. En exploitant les données du document 1, comparez la séquence des nucléotides des parties du gène VKOR1et la séquence d’acides aminés chez les rats résistants à la Warfarine avec celles des rats sensibles à la Warfarine. Déduisez le type de la mutation.
+
+5/7
+
+### IV- Exercice 4
+
+##### Donnée 2
+
+Chez les rats sensibles, la Warfarine inhibe l'action de la protéine VKOR1 qui intervient dans la production de la vitamine K nécessaire à la coagulation du sang.
+
+Il résulte de cette inhibition une hémorragie mortelle.
+
+La Warfarine n'a pas d'effet sur la protéine VKOR1 chez les rats résistants qui, pour survivre, consomment de grandes quantités d’aliments riches en vitamine K.
+
+2. En exploitant ce qui précède, montrez la cause de la résistance des rats à la Warfarine.
+
+6/7
+
+### IV- Exercice 4
+
+##### Donnée 3
+
+Pour expliquer l'évolution du pourcentage des rats résistants à la Warfarine au sein de la population, un suivi de cette évolution dans une région du pays de Galles, a permis d’obtenir les résultats présentés dans le document suivant :
+
+[Figure — image : évolution du pourcentage des rats résistants à la Warfarine dans une région du pays de Galles]
+
+3. Décrivez l’évolution du pourcentage des rats résistants à la Warfarine avant, pendant et après la compagne d’éradication des rats ?
+
+4. En se basant sur ce qui précède, expliquez la relation entre la mutation et le rôle de la sélection naturelle dans la variation de la structure génétique de la population des rats dans la région étudiée.
+
+7/7
