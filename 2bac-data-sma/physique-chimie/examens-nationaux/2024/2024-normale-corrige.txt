@@ -1,0 +1,157 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2024 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2024 - عناصر الإجابة
+NR 31
+المادة: الفيزياء والكيمياء
+شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+مدة الإنجاز: 4h
+المعامل: 7
+
+[Document officiel : عناصر الإجابة (éléments de réponse) accompagnés du barème. Les tableaux du PDF sont reproduits ici sous forme de listes « Question — Elément de réponse — Barème », suivies des références au cadre de référence.]
+
+## Exercice 1 : Chimie (7 points)
+
+Partie 1
+- 1-1 : Equation de la réaction du dosage (une seule flèche) — 0,25
+- 1-2 : Démonstration — 0,75
+- 1-3 : VB = VBE/2 ; pKA = 4,8 — 0,5
+- 1-4 : CA = 3,4.10-2 mol.L-1 — 0,5
+- 1-5 : n = 3 ; C3H7COOH — 0,5 + 0,25
+- 2-1 : Démonstration — 0,75
+- 2-2-1 : Vérification — 0,5
+- 2-2-2 : pK'A = 3,8 — 0,5
+
+Partie 2
+- 1 : réponse d- — 0,5
+- 2 : Méthode ; C2 = 0,2 mol.L-1 — 2 × 0,25
+- 3 : I = 2F.V.(C2 − K.C1)/((1 + K).teq) ; I = 0,1 A — 0,5 + 0,25
+- 4 : Δm = 46,7 mg — 0,75
+
+Référence des questions dans le cadre de référence :
+- Ecrire l'équation de réaction de dosage (en utilisant une seule flèche).
+- Définir le taux d'avancement final d'une réaction et le déterminer à partir de données expérimentales.
+- Repérer et exploiter le point d'équivalence.
+- Ecrire et utiliser l'expression de la constante d'acidité KA associée à l'équation de la réaction d'un acide avec l'eau. Justifier le choix de l'indicateur coloré adéquat pour repérer l'équivalence.
+- Donner et utiliser l'expression littérale du quotient de réaction Qr à partir de l'équation de la réaction.
+- Savoir que le produit ionique de l'eau, Ke, est la constante d'équilibre associée à l'équation de la réaction d'autoprotolyse de l'eau.
+- Déterminer la nature d'une solution aqueuse (acide ou basique ou neutre) à partir de la valeur de son pH.
+- Déterminer le pH d'une solution aqueuse.
+- Schématiser une pile (schéma conventionnel, schéma).
+- Déterminer le sens de déplacement des porteurs de charges dans une pile en utilisant le critère d'évolution spontanée.
+- Etablir la relation entre les quantités de matière des espèces formées ou consommées, l'intensité du courant et la durée de fonctionnement de la pile.
+- Utiliser cette relation pour déterminer d'autres grandeurs (quantité d'électricité…).
+
+## Exercice 2 : Ondes + Transformations nucléaires (4 points)
+
+Partie 1
+- 1 : Démonstration — 0,5
+- 2 : Vérification — 0,5
+- 3-1 : Méthode ; d' = 1,83.10-4 m — 0,25 + 0,25
+- 3-2-1 : λ2 = 0,8 μm — 0,25
+- 3-2-2 : L = 2.α.λ.D/d ; LB = 8.10-3 m — 0,5 + 0,25
+
+Partie 2
+- 1 : réponse d- — 0,25
+- 2-1 : El/A (210/84 Po) = 7,83 MeV/nucléon — 0,25
+- 2-2 : E = 8,54.10¹⁸ MeV — 0,25
+- 3-1 : t1/2 = 138 jours — 0,25
+- 3-2 : t1 = 276 jours — 0,5
+
+Référence des questions dans le cadre de référence :
+- Savoir que la lumière a un aspect ondulatoire, en se basant sur le phénomène de diffraction.
+- Connaître l'influence de la dimension de l'ouverture ou de l'obstacle sur le phénomène de diffraction.
+- Exploiter un document ou une figure de diffraction dans le cas des ondes lumineuses.
+- Connaître et exploiter la relation λ = c/ν.
+- Connaître les limites des longueurs d'onde dans le vide, du spectre visible et les couleurs correspondantes.
+- Savoir que la fréquence d'une radiation monochromatique ne change pas lorsqu'elle passe d'un milieu transparent à un autre.
+- Savoir que les milieux transparents sont plus ou moins dispersifs.
+- Connaître et exploiter la relation n = c/v.
+- Définir un noyau radioactif.
+- Connaître et exploiter les deux lois de conservation.
+- Définir les radioactivités α, β+, β− et l'émission γ.
+- Ecrire l'équation d'une réaction nucléaire en appliquant les deux lois de conservation.
+- Reconnaître le type de radioactivité à partir de l'équation d'une réaction nucléaire.
+- Connaître et exploiter la loi de décroissance radioactive et exploiter sa courbe correspondante.
+- Savoir que 1 Bq est égal à une désintégration par seconde.
+- Définir la constante de temps τ et la demi-vie t1/2.
+- Exploiter les relations entre λ, τ et t1/2.
+- Définir et calculer le défaut de masse et l'énergie de liaison.
+- Définir et calculer l'énergie de liaison par nucléon et l'exploiter.
+- Utiliser les différentes unités de masse, d'énergie et les relations entre ces unités.
+
+## Exercice 3 : Electricité (4 points)
+
+Partie 1
+- 1-1 : u1 = (C2/C1).u2 — 0,25
+- 1-2 : Démonstration — 0,5
+- 1-3 : A = C1.E/(C1+C2) ; 1/τ = (C1+C2)/(R0.C1.C2) — 0,25 + 0,25
+- 2-1 : (2) correspond à u2 — 0,25
+- 2-2 : C2 = 10 μF ; R0 = 120 Ω — 0,25 + 0,25
+- 2-3 : Ee = 2,4.10-4 J — 0,25
+
+Partie 2
+- 1 : φ = π/4 rad ; Z = 40 Ω — 0,25 + 0,25
+- 2 : P = 0,318 W ; r = 8,26 Ω — 0,25 + 0,25
+- 3-1 : méthode ; C = 26,6 μF — 0,25 + 0,25
+- 3-2 : I = 0,15 A — 0,25
+
+Référence des questions dans le cadre de référence :
+- Connaître et exploiter la relation i = dq/dt pour un condensateur en convention récepteur.
+- Connaître et exploiter la relation q = C.u.
+- Connaître la capacité d'un condensateur, son unité F et ses sous-multiples μF, nF et pF.
+- Déterminer la capacité d'un condensateur graphiquement et par calcul.
+- Connaître la capacité du condensateur équivalent des montages en série et en parallèle, et l'intérêt de chaque montage.
+- Etablir l'équation différentielle et vérifier sa solution lorsque le dipôle RC est soumis à un échelon de tension.
+- Déterminer l'expression de la tension uC(t) aux bornes du condensateur lorsque le dipôle RC est soumis à un échelon de tension, et en déduire l'expression de l'intensité du courant dans le circuit et l'expression de la charge du condensateur.
+- Connaître le rôle de l'excitateur et du résonateur.
+- Connaître et exploiter l'expression φ = 2π.τ/T de la phase d'une grandeur par rapport à une autre.
+- Connaître et exploiter l'expression de l'impédance Z = U/I du circuit.
+- Connaître l'unité de l'impédance (Ω).
+- Reconnaître le phénomène de résonance électrique et ses caractéristiques.
+- Connaître la puissance instantanée dans le régime alternatif sinusoïdal.
+- Etablir et exploiter l'expression de la puissance moyenne P = U.I.cos φ.
+- Connaître le facteur de puissance.
+
+## Exercice 4 : Mécanique (5 points)
+
+Partie 1
+- 1-1 : M.R.U.V. ; θ̈ = 40 rad.s-2 — 0,25 + 0,25
+- 1-2 : at = 2 m.s-2 ; an = 845 m.s-2 — 0,25 + 0,25
+- 1-3 : Démonstration — 0,5
+- 2-1 : v(t1) = 6,5 m.s-1 — 0,25
+- 2-2 : dv/dt = g − (λ/m).v² — 0,25
+- 2-3 : VL = 10 m.s-1 ; λ = 10-2 (S.I.) — 0,25 + 0,25
+
+Partie 2
+- 1 : Démonstration — 0,25
+- 2-1 : ẍ + (K/m).x = 0 — 0,5
+- 2-2 : Xm = 2 cm ; φ = −π/6 rad ; K = 25 N.m-1 — 0,25 + 0,25 + 0,25
+- 2-3 : ΣF⃗ext = −0,5.cos(5π.t − π/6).i⃗ — 0,25
+- 2-4-1 : Démonstration — 0,5
+- 2-4-2 : Em = 10 mJ — 0,25
+
+Référence des questions dans le cadre de référence :
+- Connaître l'expression de l'accélération angulaire et son unité.
+- Connaître et exploiter les expressions des deux composantes aN et aT en fonction des grandeurs angulaires.
+- Connaître et appliquer la relation fondamentale de la dynamique dans le cas de la rotation autour d'un axe fixe pour établir l'équation différentielle du mouvement et la résoudre.
+- Connaître l'unité du moment d'inertie.
+- Connaître et exploiter les caractéristiques du mouvement de rotation uniformément varié et ses équations horaires.
+- Appliquer la deuxième loi de Newton et la relation fondamentale de la dynamique dans le cas de la rotation à un système mécanique composé de deux solides, l'un en mouvement de translation rectiligne et l'autre en rotation autour d'un axe fixe, pour établir les équations différentielles du mouvement et déterminer des grandeurs cinématiques et des grandeurs dynamiques.
+- Exploiter la courbe pour déterminer : la vitesse limite ; le temps caractéristique ; le régime initial et le régime permanent.
+- Appliquer la deuxième loi de Newton pour établir l'équation différentielle du mouvement du centre d'inertie d'un solide en chute verticale avec frottement.
+- Connaître et appliquer la méthode d'Euler pour la résolution approchée d'une équation différentielle.
+- Connaître les caractéristiques de la force de rappel exercée par un ressort sur un solide en mouvement.
+- Exploiter les courbes xG(t), vG(t) et aG(t).
+- Appliquer la deuxième loi de Newton à un système oscillant (corps solide-ressort) pour établir l'équation différentielle du mouvement et vérifier sa solution dans les cas où le système oscillant est en position horizontale ou inclinée ou verticale.
+- Déterminer la nature du mouvement du système oscillant (corps solide-ressort) et écrire les équations xG(t), ẋ et ẍ et les exploiter.
+- Connaître et exploiter l'expression de la période propre et la fréquence propre du système oscillant (corps solide-ressort).
+- Connaître et exploiter l'expression de l'énergie potentielle élastique.
+- Connaître et exploiter l'expression de l'énergie mécanique d'un système solide-ressort.
+- Exploiter la conservation et la non-conservation de l'énergie mécanique d'un système solide-ressort.
