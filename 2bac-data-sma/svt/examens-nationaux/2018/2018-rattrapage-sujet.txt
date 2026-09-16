@@ -1,0 +1,174 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2018 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية – خيار فرنسية
+الدورة الاستدراكية 2018 - الموضوع -
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية : مسلك العلوم الرياضية (أ) – خيار فرنسية
+مدة الإنجاز : 2 — المعامل : 3
+RS36F
+
+L’utilisation d’une calculatrice non programmable est autorisée
+
+## Partie I : Restitution des connaissances (5 points)
+
+I – Répondez, sur votre feuille de rédaction, aux questions suivantes :
+
+a – Définissez les deux termes suivants :
+
+- La fécondation (0.5 pt)
+
+- L’hybridation (0.5 pt)
+
+b – Citez deux rôles de la méiose dans la transmission de l’information génétique lors de la reproduction sexuée. (0.5 pt)
+
+c – Citez l’énoncé de la 3ème loi de Mendel. (0.5 pt)
+
+II – Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte.
+
+Recopiez, sur votre feuille de rédaction, les couples ci-dessous et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+(1,…..) (2,…..) (3,…..) (4,…..)
+
+1) Au cours de la phase G1 de l'interphase précédant la méiose, chaque chromosome est formé :
+
+a - d'une chromatide spiralisée ;
+
+b - d'une chromatide non spiralisée ;
+
+c - de deux chromatides non spiralisées ;
+
+d- de deux chromatides spiralisées.
+
+2) Chez une cellule mère contenant 2q d'ADN, au cours de l'anaphase I de la méiose, la quantité d'ADN passe :
+
+a - de 2q à q ;
+
+b- de 4q à 2q ;
+
+c- de 2q à 4q ;
+
+d- de 4q à q.
+
+3) Dans le cas d'un test-cross, l'individu de phénotype dominant, dont on cherche à connaitre le génotype est croisé avec :
+
+a - un individu homozygote dominant ;
+
+b - un individu homozygote récessif ;
+
+c - un individu hétérozygote dominant ;
+
+d - un individu hétérozygote récessif.
+
+4) Dans le cas de deux gènes liés, et à l'issu d'un test-cross, on obtient une génération composée de :
+
+a - phénotypes parentaux et de phénotypes recombinés à proportions égales ;
+
+b - phénotypes recombinés en proportions supérieures à celles des phénotypes parentaux ;
+
+c - phénotypes recombinés en proportions inférieures à celles des phénotypes parentaux ;
+
+d - 100 ℅ de phénotypes recombinés.
+
+III – Le tableau ci-dessous comporte deux groupes : Le groupe 1 présente les modifications que connaissent le nombre et l’aspect des chromosomes, alors que le groupe 2 présente quelques phases au cours desquelles ont lieu ces modifications.
+
+Recopiez, sur votre feuille de rédaction, les couples ci-dessous et adressez à chaque numéro du groupe 1 la lettre qui lui correspond du groupe 2. (1 pt)
+
+(1,…..) (2,…..) (3,…..) (4,…..)
+
+| Groupe 1 | Groupe 2 |
+| --- | --- |
+| 1. Des paires de chromosomes homologues individualisés sous forme de tétrades | a. Métaphase I |
+| 2. Les centromères des chromosomes homologues sont situés de part et d'autre de la plaque équatoriale | b. Prophase I |
+| 3. Des chromosomes individualisés à deux chromatides | c. Télophase II |
+| 4. Des chromosomes non homologues à une seule chromatide | d. Métaphase II |
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (5 points)
+
+Pour mettre en évidence le rôle de la méiose et de la fécondation dans le maintien de la stabilité du caryotype (formule chromosomique) et dans la diversité des phénotypes au cours des générations, ainsi que l'étude du mode de transmission de quelques maladies héréditaires chez l'Homme, on propose les données suivantes :
+
+I - Le cycle de développement chez l’Homme (document 1) connait l'alternance de deux phénomènes : la méiose responsable de la formation des gamètes mâles (Spermatozoïdes) ou femelles (ovocytes), et la fécondation responsable de la formation d’un œuf ou zygote. Cet œuf subit une succession de mitoses pour donner un nouvel individu.
+
+[Figure — Document 1, image : cycle de développement chez l’Homme — Femelle mâture, Ovaire, Cellule b, Mâle mâture, Testicule, Cellule a, Cellule c, Fusion des 2 noyaux mâle et femelle, Phase à 4 cellules, Morula, Embryon]
+
+1- Déterminez la formule chromosomique des cellules a, b et c. (0.75 pt)
+
+2- Réalisez le cycle chromosomique de l’Homme, et déterminez son type (1.25 pt)
+
+II - La ß-thalassémie se caractérise par une anomalie de synthèse de la chaîne ß de l'hémoglobine. Le document 2 représente deux arbres généalogiques de deux familles dont certains membres sont atteints de cette maladie.
+
+[Figure — Document 2, image : deux arbres généalogiques — légende : Homme malade, Femme malade, Homme sain, Femme saine — générations I, II, III (1 à 11), IV (1 à 12) — NB : Pour simplifier, on a numéroté les individus de la même génération des deux familles de façon ascendante.]
+
+3- En exploitant le document 2 :
+
+a- Déterminez, en justifiant votre réponse, le mode de transmission de cette maladie (0.75 pt).
+
+b- Donnez les génotypes des individus I1, III2 et III6. (1 pt)
+
+Utilisez le symbole N ou n pour l'allèle responsable du phénotype normal et le symbole T ou t pour l'allèle responsable de la maladie.
+
+4 - a - Calculez, en justifiant votre réponse, la probabilité pour que chacun des deux individus IV8 et IV9 soit hétérozygote. (0.5 pt).
+
+b- Dans le cas du mariage des individus IV8 et IV9, calculez, en vous aidant d’un échiquier de croisement, la probabilité d'avoir un enfant thalassémique. (0.75 pt)
+
+### Exercice 2 : (5 points)
+
+Pour mettre en évidence le degré d'efficacité de la sélection artificielle dans la sélection des races pures, on propose les données suivantes :
+
+Un agriculteur veut se spécialiser dans la production d’une espèce de plantes à fleurs à bulbes qui se vend bien chez les fleuristes.
+
+Après avoir semé les graines de cette espèce, il obtient une population (P1) dont 1/3 des fleurs sont difficiles à vendre car leur tige florale est trop courte. Ceci l'a poussé à étudier la variation de la longueur de la tige florale chez les individus de cette population.
+
+La courbe (1) du document ci-dessus représente le polygone de fréquence de la longueur de la tige florale chez les individus de la population (P1).
+
+[Figure — Document 1, image : Courbe 1, Courbe 2, Courbe 3 — Nombre de fleurs (10, 30, 50, 70, 90, 110) en fonction de la Longueur des tiges florales (cm) : 0, 10, 20, 30, 40, 50, 60, 70, 80, 90]
+
+1 - Décrivez la distribution des fréquences de la longueur des tiges florales chez la population (P1). Que déduisez-vous concernant cette distribution ? (1 pt)
+
+Pour obtenir une variété de plantes ayant des fleurs à tige longue, il réalise une autofécondation des fleurs de la population (P1) dont la longueur de la tige florale est comprise entre 65 cm et 70 cm, il obtient ainsi des graines dont la germination donne une population (P2).
+
+La courbe (2) du document ci-dessus représente le polygone de fréquence de la longueur de la tige florale chez les individus de la population (P2).
+
+2 – a - Décrivez la distribution des fréquences de la longueur des tiges florales chez la population (P2). Que déduisez-vous en ce qui concerne la sélection pratiquée par l'agriculteur ? (1.5 pt)
+
+b – Déterminez si les résultats obtenus après la sélection sont en accord avec votre déduction en réponse à la question 1. (1 pt)
+
+En opérant de la même manière l'agriculteur réalise une autofécondation des fleurs de la population (P2) dont la longueur de la tige florale est comprise entre 75 cm et 80 cm. Il obtient des graines dont la germination donne une population (P3). La courbe (3) du document ci-dessus représente le polygone de fréquence de la longueur de la tige florale chez les individus de la population (P3).
+
+3 – D’après votre réponse à la question 2 et en exploitant la courbe (3) du document ci-dessus, montrez, en justifiant votre réponse, les limites de la sélection pratiquée par l'agriculteur pour augmenter la taille des tiges des fleurs. (1.5 pt)
+
+### Exercice 3 : (5 points)
+
+Afin de connaître l’influence de quelques facteurs de variation sur la structure génétique d’une population, on propose les données suivantes :
+
+I - Dans les années 50 du siècle dernier, pendant des compagnes d’éradication des rats, un anticoagulant puissant appelé la Warfarine a été utilisé comme pesticide. Suite à cette compagne, l'existence de rats mutants résistants à ce pesticide a été enregistrée dans plusieurs pays.
+
+Pour montrer l'origine de la variation génétique au sein d'une population de rats, on a déterminé la séquence nucléotidique au niveau d’une partie du gène VKOR1 et la séquence des acides aminés qui en résulte chez les rats sensibles et chez deux groupes de rats résistants à la Warfarine. Le document 1 représente les résultats obtenus.
+
+[Figure — Document 1, image : tableau des séquences — Numéros des triplets 119 … 124 … 129 ; Partie du gène VKOR1 chez les rats sensibles ; Séquence des acides aminés chez les rats sensibles ; Partie du gène VKOR1 chez le groupe 1 des rats résistants ; Séquence des acides aminés chez le groupe 1 des rats résistants ; Partie du gène VKOR1 chez le groupe 2 des rats résistants ; Séquence des acides aminés chez le groupe 2 des rats résistants] [CONTENT_IMAGE_UNREADABLE]
+
+1 - En exploitant les données du document 1, comparez la séquence des nucléotides des parties du gène VKOR1 et la séquence d’acides aminés chez les rats résistants à la Warfarine avec celles des rats sensibles à la Warfarine. Déduisez le type de la mutation. (1.25 pt)
+
+Chez les rats sensibles, la Warfarine inhibe l'action de la protéine VKOR1 qui intervient dans la production de la vitamine K nécessaire à la coagulation du sang. Il résulte de cette inhibition une hémorragie mortelle. La Warfarine n'a pas d'effet sur la protéine VKOR1 chez les rats résistants qui, pour survivre, consomment de grandes quantités d’aliments riches en vitamine K.
+
+2 - En exploitant ce qui précède, montrez la cause de la résistance des rats à la Warfarine. (1 pt)
+
+II - Pour expliquer l'évolution du pourcentage des rats résistants à la Warfarine au sein de la population, un suivi de cette évolution dans une région du pays de Galles, a permis d’obtenir les résultats présentés dans le document 2.
+
+[Figure — Document 2, image : % des rats résistants (0, 20, 40, 60, 80, 100) en fonction des Années 1976, 1977, 1978 — Compagne d’éradication des rats par la warfarine]
+
+3- Décrivez l’évolution du pourcentage des rats résistants à la Warfarine avant, pendant et après la compagne d’éradication des rats ? (1 pt)
+
+4- En se basant sur ce qui précède, expliquez la relation entre la mutation et le rôle de la sélection naturelle dans la variation de la structure génétique de la population des rats dans la région étudiée. (1.75 pts)
+
+ـــــــــــــــ FIN ـــــــــــــــ
