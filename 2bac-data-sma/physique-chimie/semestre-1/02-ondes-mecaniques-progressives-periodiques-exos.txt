@@ -1,0 +1,104 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Ondes mécaniques progressives périodiques
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 2 (Les ondes mécaniques progressives périodiques)
+Professeur : Mr El GOUFIFA Jihad
+
+## V– Exercices
+
+### 5-1/ Exercice 1
+
+À l'aide d'un vibreur S, on crée des ondes progressives sinusoïdales de fréquence f à la surface de l'eau :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img20.jpg)
+
+Les pointe A et B sont distants d'une distance d = 6,0 cm.
+
+1) Représenter sur la figure la longueur d'onde.
+
+2) Déterminer précisément cette longueur d'onde.
+
+3) Sachant que la fréquence des vibrations vaut f =17Hz, calculer la célérité de l'onde.
+
+4) On dispose un petit morceau de liège (supposés ponctuels) au point M (SM = 8,5 cm). Comparer le mouvement du vibreur avec petit morceau de liège.
+
+### 5-2/ Exercice 2
+
+Pour déterminer la vitesse de propagation du son dans l'air, on a réalisé le montage expérimental de la figure (1), dans lequel les deux microphones sont séparés par une distance $d$.
+
+Les deux signaux représentés dans la figure (2) représentent la tension entre les bornes de chaque microphone pour une distance $d_{1} = 41 c m$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img13.bmp)
+
+La sensibilité horizontale utilisée pour les deux entrées est : $0 , 1 m s / d i v$
+
+- Déterminer à partir de figure (2) la période $T$ de l'onde sonore émise par le haut parleur.
+
+On déplace horizontalement le microphone $R_{2}$ selon la ligne $\Delta$ jusqu'à ce que les deux signaux soient de nouveau en phase pour la première fois et la distance entre $R_{1}$ et $R_{2}$ soit : $d_{2} = 61 , 5 c m$.
+
+- Déterminer la valeur de longueur $\lambda$ de l'onde sonore.
+- Calculer la vitesse $V$ de propagation de l'onde sonore dans l'air.
+
+### 5-3/ Exercice 3
+
+Une plaque verticale $P$ lié à un vibreur de fréquence $N = 50 H z$ provoque des ondes rectilignes progressives et sinusoïdales sur la surface libre de l'eau dans une cuve à ondes qui se propages sans réflexion ni amortissement.
+
+La figure (1) représente l'aspect de la surface libre de l'eau à un instant donnée pour $d = 15 m m$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img16.bmp)
+
+1. Préciser en utilisant la figure (1) la valeur de $\lambda$
+
+1. Déduire la valeur de $V$, la vitesse de propagation de l'onde à la surface de l'eau.
+
+On considère le point $M$ du milieu de propagation (figure 1).
+
+1. Calculer la valeur de $\tau$, le retard temporel de vibration de $M$ par rapport à celui de la source $S$.
+
+On multiple la fréquence du vibreur $\left(\right. N ' = 2 N \left.\right)$ et la longueur de l'onde devient $\lambda ' = 3 m m$.
+
+1. Calculer, dans ce cas, la valeur $V '$ de la vitesse de propagation de l'onde à la surface de l'eau.
+
+1. L'eau est-il un milieu dispersif ? Justifier votre réponse.
+
+On règle de nouveau la fréquence du vibreur sur la valeur $N = 50 H z$ et on pose dans la cuve à onde deux plaques verticales formant un obstacle contenant une ouverture de largeur $a$ (figure 2) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img17.bmp)
+
+1. Représenter en justifiant votre réponse l'aspect de la surface de l'eau après que l'onde dépasse l'obstacle dans chacun des cas suivants : $a = 4 m m$ et $a = 10 m m$.
+
+### 5-4/ Exercice 4
+
+Pour déterminer la valeur approximative de la célérité $V_{p}$ d'une onde ultrasonore dans le pétrole liquide, on réalise l'expériance suivante :
+
+Dans une cuve contenant du pétrole, on fixe à l'une de ses éxtrimités deux émeeurs $E_{1}$ et $E_{2}$ qui sont reliés à un générateur GBF.
+
+A l'instante $t_{0} = 0$, les deux émettent chacun une onde ultrasonore, une se propage dans l'air et l'autre dans le pétrole.
+
+A l'autre extrémité de la cuve, on place deux récepteurs $R_{1}$ et $R_{2}$, l'un dans l'air et l'autre dans le pétrole.
+
+Les récepteurs sont à une distance L des émetteurs. (voir figure 1)
+
+On visualise sur l'écran d'un oscilloscope les deux signaux reçus par $R_{1}$ et $R_{2}$. (voir figure 2)
+
+Données :
+
+- Les deux ondes parcourent la même distance : $L = 1 , 84 m$
+- La célérité des ultrasons dans l'air : $V_{a i r} = 340 m . s^{- 1}$
+- La sensibilité horizontale de l'oscilloscope : $2 m s / d i v$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img15.png)
+
+1) Les ondes ulrasonores, sont-elles longitudinales ou transversales ? justifier
+
+2) On exploitant la figure 2, déterminer la valeur du retard temporel entre les deux ondes reçues
+
+3) Montrer que l'expression de $\tau$ s'écrit sous la forme : $\tau = L \left(\right. \frac{1}{V_{a i r}} - \frac{1}{V_{p}} \left.\right)$
+
+4) Trouver la valeur approchée de la célérité $V_{p}$

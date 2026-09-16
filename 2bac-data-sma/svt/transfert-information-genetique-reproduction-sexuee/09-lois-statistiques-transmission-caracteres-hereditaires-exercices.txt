@@ -1,0 +1,115 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes - Exercices
+Type: Exercices
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes  Exercices
+Professeur : Mr BAHSINA Najib
+
+1/6
+
+### I- Exercice 1
+
+Pour chacune des données suivantes, il y’a une seule suggestion correcte.
+
+A- Dans le cas d'un test-cross, l'individu de phénotype dominant, dont on cherche à connaître le génotype est croisé avec :
+
+1. Un individu homozygote dominant.
+2. Un individu homozygote récessif.
+3. Un individu hétérozygote dominant.
+4. Un individu hétérozygote récessif.
+
+B- Chez une cellule mère contenant 2q d'ADN, au cours de l'anaphase I de la méiose, la quantité d'ADN passe :
+
+1. De 2q à q.
+2. De 4q à 2q.
+3. De 2q à 4q.
+4. De 4q à q.
+
+C- Dans le cas de deux gènes liés, et à l’issue d'un test-cross, on obtient une génération composée de :
+
+1. Phénotypes parentaux et de phénotypes recombinés à proportions égales.
+2. Phénotypes recombinés en proportions supérieures à celles des phénotypes parentaux.
+3. Phénotypes recombinés en proportions inférieures à celles des phénotypes parentaux.
+4. 100 ℅ de phénotypes recombinés.
+
+2/6
+
+### II- Exercice 2
+
+1. Définissez les deux termes suivants :
+
+La fécondation :
+
+L’hybridation :
+
+2. Citez deux rôles de la méiose dans la transmission de l’information génétique lors de la reproduction sexuée.
+
+Rôle 1 :
+
+Rôle 2 :
+
+3. Citez l’énoncé de la 3ème loi de Mendel.
+
+3/6
+
+### III- Exercice 3
+
+On cherche à comprendre le mode de transmission d’un allèle mutant chez le Diamant Mandarin (espèce d’oiseau): Un aviculteur (éleveur d’oiseaux) a réalisé deux croisements entre des individus de phénotypes suivants: un phénotype sauvage à face grise et un phénotype mutant à face noire (Utiliser les symboles B et b pour les deux allèles sauvage et mutant).
+
+Le document suivant représente les résultats obtenus pour chaque croisement :
+
+[Figure — image : résultats des deux croisements chez le Diamant Mandarin]
+
+En utilisant les résultats du premier croisement :
+
+1. Déterminez le mode de transmission du caractère "couleur de la face" chez ces oiseaux.
+
+2. Déduisez le génotype des individus ayant le phénotype sauvage et des individus ayant le phénotype mutant.
+
+3. Donnez 1’interpretation chromosomique du premier et du deuxième croisement. Justifiez votre réponse par un échiquier de croisement.
+
+4/6
+
+### VI- Exercice 4
+
+Dans le cadre de l’étude de la transmission de certains caractères héréditaires chez la drosophile, et de certains facteurs intervenant dans la diversité génétique, on propose les données suivantes :
+
+##### Donnée 1
+
+On réalise un croisement entre des femelles sans bande grise sur le thorax et aux yeux rouges et des mâles avec une bande grise sur le thorax et aux yeux bruns.
+
+La génération F1 issue de ce croisement est composée de drosophiles sans bande grise sur le thorax et aux yeux rouges.
+
+1. Que déduisez-vous des résultats de ce croisement ?
+
+2. Sachant que les deux gènes étudiés ne sont pas liés au sexe, donnez les génotypes des individus de la génération F1 dans le cas où ces deux gènes sont indépendants, et dans le cas ou ils sont liés.
+
+Utilisez les symboles suivants :
+
+- B et b pour les allèles du gène responsable de la présence ou l’absence d’une bande grise sur le thorax.
+- R et r pour les allèles du gène responsable de la couleur des yeux.
+
+5/6
+
+### VI- Exercice 4
+
+##### Donnée 2
+
+Le document 1 présente l’emplacement relatif de quelques gènes (loci) de la drosophile, sur les chromosomes 2 et 3 :
+
+[Figure — document 1, image : emplacement relatif de quelques gènes (loci) de la drosophile sur les chromosomes 2 et 3]
+
+3. En vous basant sur le document 1 :
+
+1. Donnez le génotype à garder parmi les génotypes proposés dans la réponse à la question 2. Justifiez votre réponse.
+2. Déterminez la distance qui sépare les deux gènes étudiés.
+
+4. Déterminez la proportion des phénotypes attendus suite à un croisement entre des femelles de la génération F1 et des mâles doubles récessifs, en vous aidant d’un échiquier de croisement.
+
+6/6

@@ -1,0 +1,73 @@
+---
+Chapitre: Chapitre 2 : Suites numériques
+Séance: Séance 2-1-1 : Suites numériques - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 2-1-1 : Suites numériques - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+#### 1-1/ Suite majorée - Suite minorée - Suite bornée
+
+Définition 1
+
+On dit que la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est majorée s'il existe un réel $M$ tel que : $\left(\forall n \in I\right) u_{n} \leq M$.
+
+On dit que la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est minorée s'il existe un réel $m$ tel que : $\left(\forall n \in I\right) u_{n} \geq m$.
+
+On dit que la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est bornée si elle est à la fois majorée et minorée.
+
+#### 1-2/ Monotonie d'une suite numérique
+
+Définition 2
+
+On dit que la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est croissante si : $\left(\forall n \in I\right) u_{n + 1} - u_{n} \geq 0$
+
+On dit que la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est décroissante si : $\left(\forall n \in I\right) u_{n + 1} - u_{n} \leq 0$
+
+On dit que la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est constante si : $\left(\forall n \in I\right) u_{n + 1} - u_{n}$
+
+Remarque
+
+Si la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est croissante alors : $\left(\forall n \in I\right) u_{n} \geq u_{n_{0}}$
+
+Si la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est décroissante alors : $\left(\forall n \in I\right) u_{n} \leq u_{n_{0}}$
+
+#### 1-3/ Suite arithmétique
+
+Définition 3
+
+On dit que la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est arithmétique s'il existe un réel $r$ (indépendant de $n$) tel que : $\left(\forall n \in I\right) u_{n + 1} - u_{n} = r$
+
+Le nombre $r$ est appelé la raison de la suite $\left(u_{n}\right)_{n \geq n_{0}}$.
+
+Propriété 1
+
+Si la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est une suite arithmétique de raison $r$ alors pour tout $\left(n , p\right) \in I^{2}$ ou a :
+
+$$u_{n} = u_{p} + \left(n - p\right) r$$
+
+et
+
+$$u_{p} + u_{p + 1} + . . . . + u_{n} = \frac{n - p + 1}{2} \left(u_{p} + u_{n}\right)$$
+
+#### 1-4/ Suite géométrique
+
+Définition 4
+
+On dit que la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est géométrique s'il existe un réel $q$ (indépendant de $n$) tel que : $\left(\forall n \in I\right) u_{n + 1} = q u_{n}$
+
+Le nombre $r$ est appelé la raison de la suite $\left(u_{n}\right)_{n \geq n_{0}}$.
+
+Propriété 2
+
+Si la suite $\left(u_{n}\right)_{n \geq n_{0}}$ est une suite géométrique de raison $q \in \mathbb{R} \star - \left\{1\right\}$ alors pour tout $\left(n , p\right) \in I^{2}$ ou a :
+
+$$u_{n} = u_{p} \times q^{n - p}$$
+
+et
+
+$$u_{p} + u_{p + 1} + . . . . + u_{n} = u_{p} \frac{1 - q^{n - p + 1}}{1 - q}$$

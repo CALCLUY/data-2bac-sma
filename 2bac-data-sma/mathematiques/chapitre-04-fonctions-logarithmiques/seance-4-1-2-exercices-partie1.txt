@@ -1,0 +1,101 @@
+---
+Chapitre: Chapitre 4 : Fonctions logarithmiques
+Séance: Séance 4-1-2 : Fonctions logarithmiques - Partie 1 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 4-1-2 : Fonctions logarithmiques - Partie 1 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 2-1/ Exercice 1-1
+
+1. Résoudre dans $\mathbb{R}$ l'équation :
+
+$$10 X^{3} - 7 X^{2} - 4 X + 1 = 0$$
+
+2. En déduire dans $\mathbb{R}$ les solutions de ce qui suit :
+
+$$10 \left(ln x\right)^{3} - 7 \left(ln x\right)^{2} - 4 ln x + 1 = 0 \\ \\ 10 \left(ln x\right)^{3} - 7 \left(ln x\right)^{2} - 4 ln x + 1 > 0$$
+
+#### 2-2/ Exercice 1-2
+
+On considère la fonction numérique $f$ définie par : $f \left(x\right) = ln \left|\sqrt{x} - 1\right|$
+
+Et soit $\mathcal{C}_{f}$ sa courbe représentative dans un repère orthonormé $\left(O ; \overset{\rightarrow}{i} ; \overset{\rightarrow}{j}\right)$.
+
+1. Déterminer $D_{f}$ le domaine de définie de $f$.
+
+2. Calculer les limites $\underset{x \rightarrow + \infty}{lim} f \left(x\right)$ et $\underset{x \rightarrow 1^{+}}{lim} f \left(x\right)$.
+
+3. Calculer $\underset{x \rightarrow 0^{+}}{lim} \frac{f \left(x\right)}{x}$ puis interpréter graphiquement le résultat obtenu.
+
+4. Calculer $f ' \left(\right. x \left.\right)$ pour tout $x \in D_{f} - \left\{0\right\}$ puis dresser le tableau de variations de $f$.
+
+5. Montrer que $\mathcal{C}_{f}$ admet un point d'inflexion $I$ dont on déterminera les coordonnées.
+
+6. Déterminer $A$ le point d'intersection de la courbe $\mathcal{C}_{f}$ avec l'axe des abscisses et différent de $O$.
+
+7. Étudier les branches infinies de la courbe $\mathcal{C}_{f}$.
+
+8. Tracer la courbe $\mathcal{C}_{f}$.
+
+#### 2-3/ Exercice 1-3
+
+Soit $f$ la fonction définie sur $\left[\right. 0 ; + \infty \left[\right.$ par $\left\{\begin{matrix} f \left(x\right) = x \left(ln x\right)^{2} - \left(x - 1\right)^{2} ; x \neq 0 \\ f \left(0\right) = - 1 \end{matrix}\right$ ;
+
+1. Montrer que $f$ est continue sur $\left[\right. 0 ; + \infty \left[\right.$.
+
+2. Étudier la dérivabilité de $f$ à droite de $0$.
+
+3. Calculer les limites $\underset{x \rightarrow + \infty}{lim} f \left(x\right)$ et $\underset{x \rightarrow + \infty}{lim} \frac{f \left(x\right)}{x}$, et donner une interprétation géométrique
+
+4. Montrer que $\left(\forall x > 0\right) ; ln x \leq x - 1$
+
+5. Calculer $f ' \left(x\right)$ et $f ' ' \left(x\right)$ et vérifier que $f ' \left(1\right) = 0$
+
+6. Déduire le signe de $f ' \left(x\right)$, puis dresser le tableau de variation de $f$.
+
+7. Construire la courbe da la fonction $f$.
+
+#### 2-4/ Exercice 1-4
+
+##### Partie 1
+
+Soit $g$ la fonction définie par $g \left(x\right) = x - \left(1 + x\right) ln \left(1 + x\right)$.
+
+1. Déterminer $D_{g}$ et calculer $\underset{x \rightarrow + \infty}{lim} g \left(x\right)$ et $\underset{x \rightarrow - 1^{+}}{lim} g \left(x\right)$.
+
+2. Calculer $g ' \left(\right. x \left.\right)$ et donner le tableau de variation de $g$.
+
+3. Déduire le signe de $g \left(\right. x \left.\right)$ (remarquer que $g \left(\right. 0 \left.\right) = 0$).
+
+##### Partie 2
+
+On considère la fonction $f$ définie sur $\left[\right. - 1 , + \infty \left[\right.$ par :
+
+$$\left\{\begin{matrix} f \left(x\right) = \frac{x}{ln \left(1 + x\right)} ; x \neq 0 e t x \neq - 1 \\ f \left(0\right) = 1 e t f \left(- 1\right) = 0 \end{matrix}\right$$
+
+1. Montrer $f$ que au point $0$ et à droite de $- 1$.
+
+2. Étudier la dérivabilité de $f$ à droite de $- 1$.
+
+3. Montrer que $\left(\forall x \geq 0\right) ; x - \frac{x^{2}}{2} \leq ln \left(1 + x\right) \leq x - \frac{x^{2}}{2} + \frac{x^{3}}{3}$.
+
+4. Étudier la dérivabilité de $f$ à droite de $0$.
+
+Soit $x$ un réel de $\left]\right. - 1 ; 0 \left[\right.$, et on considère la fonction $\varphi$ définie sur $\left]\right. - 1 ; 0 \left[\right.$ par :
+
+$$\varphi \left(t\right) = t^{2} \left(x - ln \left(1 + x\right)\right) - x^{2} \left(t - ln \left(1 + t\right)\right)$$
+
+5. Montrer que $\left(\exists c \in \left]\right. x ; 0 \left[\right.\right) \frac{x - ln \left(1 + x\right)}{x^{2}} = \frac{1}{2 \left(1 + c\right)}$, et étudier la dérivabilité de $f$ à gauche de $0$.
+
+6. Montrer que $\underset{x \rightarrow + \infty}{lim} f \left(x\right) = + \infty$, et étudier la branche infinie de $\left(\mathcal{C}_{f}\right)$ au voisinage de $+ \infty$.
+
+7. Montrer que $\left(\forall x \in \left]\right. - 1 ; + \infty \left[\right. - \left\{0\right\}\right) ; f ' \left(x\right) = \frac{- g \left(x\right)}{\left(1 + x\right) \left(ln \left(1 + x\right)\right)^{2}}$.
+
+8. Dresser le tableau de variation de $f$.
+
+9. Étudier la position de $\left(\mathcal{C}_{f}\right)$ par apport à $\left(\Delta\right) y = x$, et construire la courbe $\left(\mathcal{C}_{f}\right)$.

@@ -1,0 +1,132 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Circuit RLC série en régime sinusoïdal forcé (SM)
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 13 (Circuit RLC série en régime sinusoïdal forcé)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+Le circuit représenté sur la figure suivante contient :
+
+- Un générateur GBF délivrant au circuit une tension sinusoïdale $u_{A B} \left(t\right) = 3 \sqrt{2} . cos \left(2 \pi . N . t\right)$ exprimée en $V$ et de fréquence $N$ réglable.
+- Un conducteur ohmique de résistance $R_{1}$.
+- Une bobine (b) d'inductance $L = 0 , 18 H$ et de résistance $r = 5 \Omega$.
+- Un condensateur de capacité $C_{1}$.
+- Un ampèremètre.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s13/img8.jpg)
+
+Le coefficient de qualité de ce circuit est $Q = 7$, la largeur de la bande passante à $- 3 d B$ est $14 , 3 H z$.
+
+À la résonance, l'ampèremètre indique la valeur $I_{0} = 1 , 85 . 10^{2} m A$.
+
+1. Déterminer la fréquence des oscillations électriques à la résonance.
+
+1. Trouver la valeur de $R_{1}$ et celle de $C_{1}$.
+
+1. Calculer la puissance électrique moyenne, consommée par effet joule, dans le circuit quand la fréquence prend l'une des valeurs limitant la bande passante.
+
+### 5-2/ Exercice 2
+
+Un dipôle (R,L,C) série soumis à une tension excitatrice de fréquence variable, d'amplitude $10 \sqrt{2} V$ présente une résonance d'intensité de valeur $I_{0} = 0 , 1 A$ à la fréquence $N_{0} = 1000 H z$.
+
+1. Quelle relation existe-t-il entre $L$, $C$ et $N_{0}$ ?
+
+1. Calculer la valeur de la capacité $C$ connaissant l'inductance $L = 47 m H$.
+
+1. Que vaut l'impédance du dipôle à la résonance ?
+
+1. Quelle caractéristique du circuit peut-on déduire ?
+
+1. Calculer le facteur de qualité $Q$ du circuit. Ce dernier est-il sélectif ?
+
+### 5-3/ Exercice 3
+
+On considère le montage électrique suivant, où le générateur applique aux bornes du dipôle $\left(\right. A B \left.\right)$ une tension alternative sinusoïdale de la forme $u \left(\right. t \left.\right) = U_{m} cos \left(\right. 2 \pi . N . t + \varphi_{u} \left.\right)$ de tension maximale constante et de fréquence $N$ réglable :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s13/img9.jpg)
+
+L'intensité instantanée $i \left(\right. t \left.\right)$ dans le dipôle est noté $i \left(\right. t \left.\right) = I_{m} cos \left(2 \pi . N . t\right)$.
+
+On visualise au deux entrées de l'oscilloscope $Y_{1}$ et $Y_{2}$ les tensions $u \left(\right. t \left.\right)$ et $u_{R} \left(\right. t \left.\right)$ en utilisant la même sensibilité verticale des deux entrée $Y_{1}$ et $Y_{2}$ : $1 V / d i v$ et la sensibilité horizontale $2 m s / d i v$ avec $Y_{1}$ correspond à la tension $u \left(\right. t \left.\right)$ et $Y_{2}$ correspond la tension $u_{R} \left(\right. t \left.\right)$.
+
+On fixe la fréquence $N$ à la valeur $N_{1}$ et la capacité $C$ du condensateur à la valeur $C_{1}$.
+
+La résistance du conducteur ohmique est $R = 100 \Omega$.
+
+On obtient l'oscillogramme suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s13/img10.jpg)
+
+1. Représenter sur le schéma les liaisons oscilloscope-circuit pour visualiser $u \left(\right. t \left.\right)$ et $u_{R} \left(\right. t \left.\right)$.
+
+1. En utilisant l'oscillogramme, déterminer :
+
+- (a) La période $T$ et la pulsation des oscillations.
+- (b) La tension maximale $U_{m}$ et l'intensité maximale du courant $I_{m}$.
+- (c) $\varphi_{u / i}$ le déphasage de la tension $u \left(\right. t \left.\right)$ par rapport à l'intensité $i \left(\right. t \left.\right)$ et écrire l'expression de $u \left(\right. t \left.\right)$.
+
+À l'aide d'un voltmètre, on mesure la tension aux bornes de la bobine et après aux bornes du condensateur. On obtient successivement $U_{L} = 3 , 3 \sqrt{2} V$ et $U_{C} = 1 , 568 \sqrt{2} V$.
+
+1. Calculer l'impédance $Z$ du circuit $\left(\right. R , L , C \left.\right)$.
+
+1. Calculer l'impédance $Z_{L}$ aux bornes de la bobine, $Z_{C}$ aux bornes du condensateur et $Z_{R}$ aux bornes du conducteur ohmique. Quelle est votre conclusion ?
+
+1. Calculer les valeurs de l'inductance $L$ de la bobine et de la capacité $C$ du condensateur
+
+1. Calculer les deux grandeurs : $\left(U_{L} - U_{C}\right)^{2}$ et $U^{2} - \left(U_{R}\right)^{2}$ et les comparer et déduire la relation suivante : $Z = \sqrt{\left(Z_{R}\right)^{2} + \left(Z_{L} - Z_{C}\right)^{2}}$
+
+### 5-4/ Exercice 4
+
+Un dipôle $R L C$ est constitué d'un condensateur de capacité $C$, une bobine de résistance $r_{0}$ et d'induction $L = 0 , 25 H$ et un conducteur ohmique de résistance $r = 180 \Omega$.
+
+Pour étudier le comportement de ce dipôle, on applique à l'aide d'un générateur de basse fréquence (GBF) entre ses bornes $A$ et $B$ une tension alternative sinusoïdale de valeur instantanée : $u \left(t\right) = U \sqrt{2} cos 2 πNt$
+
+La valeur efficace de cette tension est maintenue constante $U = 24 V$ et sa fréquence est réglable :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s13/img13.jpg)
+
+L'intensité instantanée du courant dans ce circuit est : $i \left(t\right) = I \sqrt{2} cos \left(2 πNt + \varphi\right)$
+
+Une étude expérimentale a permis de suivre l'impédance $Z$ du circuit en fonction de la fréquence $N$. Les résultats obtenus ont abouti au diagramme suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s13/img14.jpg)
+
+1. Choisir les propositions correctes dans ce qui suit :
+
+A- La grandeur qui, à la résonance, prend une valeur maximale est :
+
+- l'intensité de courant.
+- la tension $u_{A B}$.
+- la puissance moyenne consommée par le dipôle $A B$.
+
+B- La grandeur qui s'annule à la résonance est :
+
+- l'impédance du circuit.
+- le déphasage entre la tension $u_{A B} \left(t\right)$ et l'intensité $i \left(t\right)$.
+
+C- Dans la zone passante de la résonance, l'intensité efficace du courant électrique vérifie la condition :
+
+- $I \geq I_{0} \sqrt{2}$
+- $I \leq I_{0} \sqrt{2}$
+- $I \geq \frac{I_{0}}{\sqrt{2}}$
+
+($I_{0}$ : intensité efficace du courant à la résonance).
+
+1. Déterminer la résistance $r_{0}$.
+
+1. Déterminer la capacité $C$.
+
+1. Exprimer l'intensité $i \left(t\right)$ lorsque la fréquence $N$ fixée sur $50 H z$.
+
+Lorsqu'on fixe la fréquence $N$ sur la valeur $140 H z$, l'impédance du circuit prend le double de la valeur qu'elle prenait à la fréquence $50 H z$, et la puissance moyenne qu'il consomme représente $25 \%$ de la puissance moyenne maximale.
+
+1. Déterminer numériquement l'intensité $i \left(t\right)$ sachant qu'elle est en retard de phase sur la tension $u \left(t\right)$.

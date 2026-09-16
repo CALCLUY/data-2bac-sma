@@ -1,0 +1,145 @@
+---
+Type: Examen National
+Année: 2010
+Session: Normale
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2010 – عناصر الإجابة - مادة : الرياضيات
+NR25
+
+[NOTE D'EXTRACTION : ce corrigé officiel est rédigé en arabe avec une police non standard ;
+la couche texte du PDF restitue l'arabe de façon corrompue. Le contenu mathématique latin
+récupérable est transcrit ci-dessous ; les passages explicatifs en arabe illisibles sont
+signalés par [FORMULA_IMAGE_UNREADABLE].]
+
+## Exercice 1 (3,5 points)
+
+**I**
+
+0,25 — 1) [FORMULA_IMAGE_UNREADABLE] (commutativité et associativité)
+
+0,25 — 2) élément neutre : $e$
+
+0,25 — 3) a- $\left(I \setminus \{1\} , \ast\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — b- $\left(I \setminus \{1\}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 4) $a \ast (b \times c) = (a \ast b) \times (a \ast c)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — $\left(I , \ast , \times\right)$ corps commutatif
+
+**II**
+
+0,25 — $A^{2} = \begin{pmatrix} 4 & 4 & 0 \\ 4 & 4 & 0 \\ 0 & 0 & 0 \end{pmatrix}$
+
+0,25 — $A^{3} = O$
+
+0,5 — $A^{2} \neq O$ et $A^{3} = O$ [FORMULA_IMAGE_UNREADABLE] (donc $A$ non inversible)
+
+## Exercice 2 (3,5 points)
+
+0,25 — 1) Les racines carrées sont $2 - i$ et $-2 + i$
+
+0,25 — Les solutions de l'équation sont : $1 + 2i$ et $-1 + 3i$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 3) on obtient : $d = -ic + i + \dfrac{1}{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — on obtient : $\ell = -ic + \dfrac{1}{2} - i$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — on obtient : $\dfrac{\ell - c}{a - c} = -i$ [FORMULA_IMAGE_UNREADABLE]
+
+puis on en déduit que :
+
+0,25 — le triangle $ACL$ est isocèle en $C$
+
+0,25 — le triangle $ACL$ est rectangle en $C$
+
+## Exercice 3 (3 points)
+
+1 — 1) On trouve $m \equiv 2\ [5]$ ou $m \equiv 3\ [5]$
+
+0,25 — 2) On a : $n^{2} \equiv -1\ [p]$ donc $n^{2(2k+1)} \equiv -1\ [p]$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — On a $n^{2} \equiv -1\ [p]$ donc $p \mid n^{2k} + 1$ et d'après le théorème de Bézout [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — D'après le théorème de Fermat on a : $p - 1 = 4k + 2$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — Des questions précédentes on déduit que : $p \mid 1 + 1$ et $p$ est un nombre premier impair, ce qui est contradictoire.
+
+## Exercice 4 (6,25 points)
+
+**I**
+
+0,25 — 1) $\lim\limits_{x \to +\infty} f(x) = 0$
+
+0,25 — 2) $f$ croissante sur l'intervalle $\left[0 , \dfrac{2}{\ ?\ }\right]$ et décroissante sur $\left[\dfrac{2}{\ ?\ } , +\infty\right[$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — tableau de variations de $f$
+
+0,25 — 3) équation de la demi-tangente
+
+0,25 — construction de $(C)$
+
+0,25 — 4) on obtient $a = 12 - \dfrac{e}{\ ?\ }$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — l'aire du domaine plan est : $\left(18 - \dfrac{e}{\ ?\ }\right)\,cm^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+**II**
+
+0,25 — 1) [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — On a : $x^{n} e^{-\sqrt{x}} \leq x^{n} e^{-\ ?\ }$ et on obtient $\lim\limits_{x \to +\infty} f_{n}(x) = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 2) $f_{n}$ croissante sur $\left[0 , 2n^{2}\right]$ et décroissante sur $\left[2n^{2} , +\infty\right[$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — tableau de variations de $f_{n}$
+
+0,25 — 3) On a : $f_{n}(0) = 0 < 1$ et $f_{n}(1) = 4e^{-1} > 1$ et $f_{n}$ est continue et strictement monotone sur $\left[0 , 1\right]$
+
+0,25 — 4) On a : $f_{n}(u_{n}) = 1 \Leftrightarrow 4 u_{n}^{n} e^{-\sqrt{u_{n}}} = 1$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — On a : $f_{n+1}(u_{n}) < 1 = f_{n+1}(u_{n+1})$ et $f_{n+1}$ strictement croissante sur $\left]0 , 1\right[$ donc la suite $\left(u_{n}\right)_{n \geq 2}$ est strictement croissante
+
+0,25 — la suite $\left(u_{n}\right)_{n \geq 2}$ est strictement croissante et majorée par $1$ donc convergente
+
+0,25 — 5) On a $0 < \ell \leq 1$ et $\left(u_{n}\right)_{n \geq 2}$ strictement croissante donc $\ell \geq u_{2} > 0$
+
+0,25 — On a : $f_{n}(u_{n}) = 1$ équivaut à $\ln 4 + n \ln u_{n} - \sqrt{u_{n}} = 0$ et puisque $0 < u_{n} < 1$
+
+0,25 — On a : $\dfrac{\ln 4}{n} + \ln u_{n} = \dfrac{\sqrt{u_{n}}}{n}$ [FORMULA_IMAGE_UNREADABLE] et la fonction $x \mapsto \ln x$ est continue sur $\left]0 , 1\right]$ et $\lim\limits_{n \to +\infty} u_{n} = \ell$ ; quand $n$ tend vers $+\infty$ on obtient $\ln \ell = 0$
+
+Toute autre méthode correcte est acceptée.
+
+## Exercice 5 (3,75 points)
+
+0,25 — 1) La fonction $F$ est impaire
+
+0,25 — 2) [FORMULA_IMAGE_UNREADABLE]
+
+La fonction $\varphi$ est une primitive de la fonction $t \mapsto \dfrac{1}{\ln\left(1 + t^{2}\right)}$ sur l'intervalle $\left]0 , +\infty\right[$
+
+ou la fonction $t \mapsto \dfrac{1}{\ln\left(1 + t^{2}\right)}$ est continue sur l'intervalle $\left]0 , +\infty\right[$
+
+et les fonctions $u : x \mapsto 2x$ et $v : x \mapsto x$ sont dérivables sur $\mathbb{R}^{*}$ et $u\left(\mathbb{R}^{*}\right) \subset \mathbb{R}^{*}$ et $v\left(\mathbb{R}^{*}\right) \subset \mathbb{R}^{*}$
+
+Toute autre méthode correcte est acceptée.
+
+0,25 — On a $F'(x) = \dfrac{2}{\ln\left(1 + 4x^{2}\right)} - \dfrac{1}{\ln\left(1 + x^{2}\right)}$
+
+0,25 — la fonction est strictement décroissante sur l'intervalle $\left]0 , \ ?\ \right[$ et strictement croissante sur $\left]\ ?\ , +\infty\right[$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — 3) On a : $F(x) = \varphi(2x) - \varphi(x)$ où $\varphi$ est une primitive de la fonction $t \mapsto \dfrac{1}{\ln\left(1 + t^{2}\right)}$ sur l'intervalle $\left]0 , +\infty\right[$ puis on applique le théorème des accroissements finis
+
+0,25 — La fonction $t \mapsto \dfrac{1}{\ln\left(1 + t^{2}\right)}$ est strictement décroissante sur $\left[x , 2x\right]$
+
+On trouve : $\lim\limits_{x \to 0^{+}} F(x) = +\infty$ et $\lim\limits_{x \to +\infty} F(x) = +\infty$ et $\lim\limits_{x \to +\infty} \dfrac{F(x)}{x} = 0$
+
+0,25 accordé pour chaque limite — 0,25 accordé pour chaque inégalité
+
+On a $(x \leq 1) \Rightarrow F(x) \geq x$ et $\left(x \geq \dfrac{e}{2}\right) \Rightarrow F(x) \leq x$ et il existe un nombre unique $\alpha$ de l'intervalle $\left]1 , \dfrac{e}{2}\right[$ tel que $F(\alpha) = \alpha$

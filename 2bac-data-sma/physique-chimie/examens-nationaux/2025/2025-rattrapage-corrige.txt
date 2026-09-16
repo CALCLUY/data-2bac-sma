@@ -1,0 +1,326 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2025 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+Correction de l'examen national de Physique Chimie
+Filière Sciences Mathématiques – Session rattrapage 2025
+Direction provinciale : Mohammedia
+
+Question | Réponse | Barème
+
+## Exercice 1 : Chimie
+
+Partie 1 : Etude d'une solution aqueuse d'acide éthanoïque
+
+1- $CH_3COOH_{(aq)} + HO^-_{(aq)} \rightarrow CH_3COO^-_{(aq)} + H_2O_{(\ell)}$ — 0,25
+
+2-
+
+| Équation chimique | $AH_{(aq)} + HO^-_{(aq)} \rightarrow A^-_{(aq)} + H_2O_{(\ell)}$ | | | |
+|---|---|---|---|---|
+| État | Avancement | Quantité de matière en mol | | |
+| Initial | 0 | $C_A.V_A$ | $C_B.V_B$ | 0 (En excès) |
+| Final | $x_f$ | $C_A.V_A - x_f$ | $C_B.V_B - x_f$ | $x_f$ |
+
+Pour $V_B < V_{BE}$ ; $HO^-$ est le réactif limitant ; donc : $C_B.V_B - x_f = 0$
+
+D'où : $x_f = C_B.V_B$ ;
+
+D'autre part, à l'équivalence : $C_A.V_A = C_B.V_{BE}$ ;
+
+D'après le tableau d'avancement : $[AH] = \dfrac{C_A.V_A - x_f}{V_A + V_B}$ ; donc : $[AH] = \dfrac{C_B.(V_{BE} - V_B)}{V_A + V_B}$
+
+Et $[A^-] = \dfrac{x_f}{V_A + V_B} = \dfrac{C_B.V_B}{V_A + V_B}$ ; Alors : $\dfrac{[A^-]}{[AH]} = \dfrac{V_B}{V_{BE} - V_B}$ — 0,5
+
+3- Pour $V_B = \dfrac{V_{BE}}{2}$ ; on a : $\dfrac{[A^-]}{[AH]} = 1$ ; d'où : $\log\left(\dfrac{[A^-]}{[AH]}\right) = 0$
+
+Graphiquement : $\dfrac{V_{BE}}{2} = 5\ mL$ ; Alors : $V_{BE} = 10\ mL$ — 0,5
+
+4- À l'équivalence, $C_A.V_A = C_B.V_{BE}$ ; Donc : $C_A = \dfrac{C_B.V_{BE}}{V_A}$
+
+A.N : $C_A = \dfrac{10^{-2} \times 10}{10}$
+
+Alors : $C_A = 10^{-2}\ mol.L^{-1}$
+
+D'autre part : $\dfrac{C_0}{C_A} = 100$ ; donc : $C_0 = 100.C_A$ ; $C_0 = 100 \times 10^{-2}$
+
+Alors : $C_0 = 1\ mol.L^{-1}$
+
+On a : $C_0 = \dfrac{X.m(S_0)}{M(AH).V_0} = \dfrac{X.\rho_{eau}.d.V_0}{M(AH).V_0}$ ; donc : $X = \dfrac{C_0.M(AH)}{\rho_{eau}.d}$ ; $X = \dfrac{1 \times 60}{1000 \times 1,01}$
+
+$X = 0,06$ ; soit : $X° = 6°$ — 0,75
+
+5-1- On a : $pH = pK_A + \log\left(\dfrac{[A^-]}{[AH]}\right)$ ; donc : $pH = -\log K_A + \log\left(\dfrac{V_B}{V_{BE} - V_B}\right)$
+
+Alors : $pH = \log\left(\dfrac{V_B}{K_A.(V_{BE} - V_B)}\right)$ ; A.N : $pH = \log\left(\dfrac{1,2}{1,58.10^{-5}.(10 - 1,2)}\right)$ ; $pH = 3,94$ — 0,5
+
+5-2- On a : $pK_A = -\log(K_A)$ ; $pK_A = -\log(1,58.10^{-5})$ ; $pK_A = 4,80$
+
+Or $pH < pK_A$ ; Alors : $CH_3COOH$ prédomine dans le mélange. — 0,25
+
+6-1- À l'équivalence $n_i(AH) = n_{éq}(A^-)$ et on a : $[A^-]_{éq} = C_{éq}$
+
+Donc : $C_A.V_A = C_{éq}.(V_A + V_{BE})$ ; Alors : $C_{éq} = \dfrac{C_A.V_A}{V_A + V_{BE}}$ — 0,5
+
+6-2- On a : $K_A = \dfrac{[CH_3COO^-]_{éq}.[H_3O^+]_{éq}}{[CH_3COOH]_{éq}}$ ; À l'équivalence : $[OH^-]_{éq} = [CH_3COOH]_{éq}$
+
+Donc : $K_A = \dfrac{C_{éq}.[H_3O^+]_{éq}}{[OH^-]_{éq}}$ ; d'où : $K_A = \dfrac{C_{éq}.[H_3O^+]^2_{éq}}{K_e}$ ; $[H_3O^+]_{éq} = \sqrt{\dfrac{K_A.K_e}{C_{éq}}}$
+
+Alors : $pH_E = -\dfrac{1}{2}.\log\left(\dfrac{K_A.K_e.(V_A + V_{BE})}{C_A.V_A}\right)$
+
+A.N : $pH_E = -\dfrac{1}{2}.\log\left(\dfrac{1,58.10^{-5}.10^{-14}.(10 + 10)}{10^{-2} \times 10}\right)$ ; $pH_E = 8,25$ — 0,5
+
+Partie 2 : Suivi temporel d'une réaction d'estérification
+
+1- Ethanoate d'éthyle — 0,5
+
+2- Or $\theta_1 < \theta_2$, donc le temps nécessaire pour atteindre l'état final dans l'expérience (a) sera plus grand que le temps nécessaire pour atteindre l'état final dans l'expérience (b). Alors la courbe (2) correspond à l'expérience (a). — 0,5
+
+On a : $r_a = \dfrac{n_E}{n_0} \times 100$ ; A.N : $r_a = \dfrac{0,8}{1,2} \times 100$ ; alors : $r_a = 67\ \%$
+
+3- On a : $v(t) = \dfrac{1}{V}.\dfrac{dx}{dt}$ et on a : $n_E = x$ ; donc : $v(t) = \dfrac{1}{V}.\dfrac{dn_E}{dt}$ ;
+
+Alors : $v(0) = \dfrac{1}{V}.\left(\dfrac{\Delta n_E}{\Delta t}\right)_0$ ; A.N : $v(0) = \dfrac{1}{138.10^{-3}} \times \dfrac{0,4 - 0}{5 - 0}$
+
+$v(0) = 0,58\ mol.L^{-1}.min^{-1}$ — 0,5
+
+4- On a : $K = \dfrac{[C_4H_8O_2]_{éq}.[H_2O]_{éq}}{[C_2H_4O_2]_{éq}.[C_2H_6O]_{éq}}$ ; donc : $K = \left(\dfrac{n_E}{n_0 - n_E}\right)^2$ ; A.N : $K = \left(\dfrac{0,8}{1,2 - 0,8}\right)^2$ ; $K = 4$ — 0,5
+
+5- On a : $r_c = \dfrac{x_{éq}}{x_{max}}$ ; donc : $r_c = \dfrac{x_{éq}}{n_{0c}(CH_3COOH)}$ ; d'où : $x_{éq} = r_c.n_{0c}(C_2H_4O_2)$
+
+D'autre part : $K' = \dfrac{x^2_{éq}}{(n_{0c}(C_2H_4O_2) - x_{éq}).(n_{0c}(C_2H_6O) - x_{éq})}$ ;
+
+et on a : $n_{0c}(C_2H_6O) = 2.n_{0c}(C_2H_4O_2)$
+
+Donc : $K' = \dfrac{(r_c.n_{0c}(C_2H_4O_2))^2}{(n_{0c}(C_2H_4O_2) - r_c.n_{0c}(C_2H_4O_2)).(2.n_{0c}(C_2H_4O_2) - r_c.n_{0c}(C_2H_4O_2))}$
+
+D'où : $K' = \dfrac{r_c^2}{(1 - r_c).(2 - r_c)}$ ; alors : $K' = \dfrac{r_c^2}{r_c^2 - 3r_c + 2}$ ; $K' = \dfrac{0,846^2}{0,846^2 - (3 \times 0,846) + 2}$ ; $K' \approx 4$ — 0,75
+
+6- Or $K' = K$ donc la constante d'équilibre ne dépend pas de la composition initiale — 0,5
+
+## Exercice 2 : Datation d'une roche volcanique
+
+1- Un noyau radioactif : C'est un noyau instable qui se transforme spontanément en un autre noyau, plus stable, en émettant un ou plusieurs particules $(\alpha; \beta^+ ou\ \beta^-)$ et un rayonnement $\gamma$. — 0,25
+
+2- $^{40}_{19}K \rightarrow\ ^{40}_{18}Ar + ^A_Z X$ ; D'après les lois de Soddy :
+
+$\begin{cases} 40 = 40 + A \\ 19 = 18 + Z \end{cases}$ ; d'où : $\begin{cases} A = 0 \\ Z = +1 \end{cases}$ Alors : $^{40}_{19}K \rightarrow\ ^{40}_{18}Ar + ^0_{+1}e$ — 0,25
+
+3- On a : $N(^{40}_{18}Ar) = 0,11\left(N_0(^{40}_{19}K) - N(^{40}_{19}K)\right)$ et $r = \dfrac{N(^{40}_{18}Ar)}{N(^{40}_{19}K)}$
+
+Donc : $r = \dfrac{0,11(N_0(^{40}_{19}K) - N(^{40}_{19}K))}{N(^{40}_{19}K)}$ ; D'où : $r = \dfrac{11}{100}.\left(\dfrac{N_0(^{40}_{19}K)}{N(^{40}_{19}K)} - 1\right)$
+
+$100.r = \dfrac{11.N_0(^{40}_{19}K)}{N(^{40}_{19}K)} - 11$ ; par suite : $11 + 100.r = \dfrac{11.N_0(^{40}_{19}K)}{N(^{40}_{19}K)}$
+
+Alors : $N(^{40}_{19}K) = \dfrac{11.N_0(^{40}_{19}K)}{11 + 100.r}$ — 0,5
+
+4- On a : $N(^{40}_{19}K) = \dfrac{11}{11 + 100.r}.N_0(^{40}_{19}K)$ et on a : $N(^{40}_{19}K) = N_0(^{40}_{19}K).e^{-\frac{Ln2}{t_{1/2}}.t}$
+
+Donc : $\dfrac{11}{11 + 100.r}.N_0(^{40}_{19}K) = N_0(^{40}_{19}K).e^{-\frac{Ln2}{t_{1/2}}.t_a}$ ; D'où : $Ln\left(\dfrac{11}{11 + 100.r}\right) = -\dfrac{Ln2}{t_{1/2}}.t_a$
+
+Alors : $t_a = Ln\left(\dfrac{11 + 100.r}{11}\right).\dfrac{t_{1/2}}{Ln2}$ ; $t_a = Ln\left(\dfrac{11 + 100 \times 0,4}{11}\right).\dfrac{1,25.10^9}{Ln2}$ ;
+
+$t_a = 2,77.10^9\ ans$ — 0,5
+
+## Exercice 3 : Détermination du diamètre d'un fil et la longueur d'onde d'une onde
+
+1- d- Le phénomène de diffraction est réalisable avec la lumière blanche — 0,5
+
+2- On a : $\tan(\theta) = \dfrac{L}{2D}$ Pour les petits angles : $\tan(\theta) \simeq \theta$ ; Donc : $\theta = \dfrac{L}{2D}$ Or $\theta = \dfrac{\lambda}{d}$ ; Donc : $\dfrac{L}{2D} = \dfrac{\lambda_0}{d}$ ;
+
+Alors : $d = \dfrac{2D.\lambda_0}{L}$ A.N : $d = \dfrac{2 \times 1,5 \times 633 \times 10^{-9}}{3,4 \times 10^{-2}}$ ; soit : $d = 5,59.10^{-5}\ m$ — 0,5
+
+3- On a : $\theta = \dfrac{L'}{2D}$ ; $\theta = \dfrac{3 \times 10^{-2}}{2 \times 1,5}$ ; Alors : $\theta = 10^{-2}\ rad$
+
+On a : $\theta = \dfrac{\lambda}{d}$ ; donc : $\lambda = d.\theta$ et on a : $\lambda = \dfrac{c}{\nu}$ ; Alors : $\nu = \dfrac{c}{d.\theta}$
+
+A.N : $\nu = \dfrac{3.10^8}{5,59.10^{-5} \times 10^{-2}}$ ; $\nu = 5,37.10^{14}\ Hz$ — 0,25 / 0,25
+
+4- d- la couleur de la lumière correspondante ne change pas. — 0,5
+
+## Exercice 4 : Electricité
+
+Partie 1 : Réponse d'un dipôle RL à un échelon de tension
+
+1-1- D'après la loi d'additivité des tensions : $u_L + u_R = E$ ;
+
+Donc $r.i + L\dfrac{di}{dt} + u_R = E$ ; D'où : $r.u_R + L\dfrac{du_R}{dt} + R.u_R = R.E$
+
+$\dfrac{du_R}{dt} + \dfrac{R + r}{L}u_R = \dfrac{R.E}{L}$ — 0,25
+
+1-2- On a : $u_R = U_p.(1 - e^{-t/\tau})$ ; donc : $\dfrac{du_R}{dt} = \dfrac{1}{\tau}.U_p.e^{-t/\tau}$
+
+D'où : $\dfrac{1}{\tau}.U_p.e^{-t/\tau} + U_p.\dfrac{R+r}{L} - U_p.\dfrac{R+r}{L}.e^{-t/\tau} = \dfrac{R.E}{L}$
+
+Pour que cette égalité soit vérifiée à chaque instant, il faut que : $\begin{cases} U_p.\dfrac{R+r}{L} = \dfrac{R.E}{L} \\ \dfrac{1}{\tau} - \dfrac{R+r}{L} = 0 \end{cases}$
+
+Alors : $U_p = \dfrac{R.E}{R+r}$ et $\tau = \dfrac{L}{R+r}$ — 0,25 / 0,25
+
+2- On a : $u_R = U_p.(1 - e^{-t/\tau})$ ; Donc : $u_R - U_p = U_p.e^{-t/\tau}$ ;
+
+D'où : $Ln(u_R - U_p) = Ln(U_p) - \dfrac{1}{\tau}.t$
+
+D'autre part $Ln(u_R - U_p) = f(t)$ est une fonction affine d'équation : $Ln(u_R - U_p) = \alpha t + \beta$
+
+Par identification : $\begin{cases} Ln(U_p) = \beta \\ -\dfrac{1}{\tau} = \alpha \end{cases}$ ; Donc : $\begin{cases} U_p = e^{\beta} \\ \tau = -\dfrac{1}{\alpha} \end{cases}$ ; D'où : $\begin{cases} \dfrac{R.E}{R+r} = e^{\beta} \\ \dfrac{L}{R+r} = -\dfrac{1}{\alpha} \end{cases}$
+
+Alors : $\begin{cases} r = R.(E.e^{-\beta} - 1) \\ L = -\dfrac{R+r}{\alpha} \end{cases}$ ; Graphiquement : $\beta = 2,3$ et $\alpha = \dfrac{\Delta Ln(u_R - U_p)}{\Delta t}$
+
+$\alpha = \dfrac{0 - 2,3}{1,92.10^{-3}}$ ; $\alpha = -1198\ s^{-1}$
+
+$r = 10 \times (12 \times e^{-2,3} - 1)$ ; Alors : $r = 2\ \Omega$
+
+$L = -\dfrac{10 + 2}{-1198}$ ; $L = 0,01\ H$ — 0,25 / 0,25
+
+3- On a : $E_m(t) = \dfrac{1}{2}.L.\left(\dfrac{u_R}{R}\right)^2$ ; Donc : $E_{m;max} = \dfrac{1}{2}.L.\left(\dfrac{U_p}{R}\right)^2$
+
+D'où : $\dfrac{1}{2}.L.\left(\dfrac{U_p.(1 - e^{-t/\tau})}{R}\right)^2 = 0,8.\dfrac{1}{2}.L.\left(\dfrac{U_p}{R}\right)^2$
+
+Par suite : $(1 - e^{-t/\tau})^2 = 0,8$ ; Donc : $1 - e^{-t/\tau} = \sqrt{0,8}$ ;
+
+d'où : $e^{-t/\tau} = 1 - \sqrt{0,8}$ ; $t = \tau.Ln\left(\dfrac{1}{1 - \sqrt{0,8}}\right)$ ; Alors : $t = \dfrac{L}{R+r}.Ln\left(\dfrac{1}{1 - \sqrt{0,8}}\right)$
+
+$t = \dfrac{0,01}{10 + 2}.Ln\left(\dfrac{1}{1 - \sqrt{0,8}}\right)$ ; $t = 1,87.10^{-3}\ s$ soit : $t = 1,87\ ms$ — 0,5
+
+Partie 2 : Les oscillations électriques libres dans un circuit LC idéal
+
+1- On a : $u_L(t) = U_{Lm}.\cos\left(\dfrac{t}{\sqrt{LC}} + \varphi\right)$ ; donc : $u_L(0) = U_{Lm}.\cos(\varphi)$
+
+D'autre part, d'après la loi d'additivité des tensions : $u_L(0) + u_C(0) = 0$
+
+Le condensateur est initialement chargé, donc : $u_C(0) = E$ ; d'où : $u_L(0) = -E$
+
+Par suite : $U_{Lm}.\cos(\varphi) = -E$ ; Or $U_{Lm} > 0$ ; Donc : $U_{Lm} = E$
+
+et $\cos(\varphi) = -1$ ; alors : $\varphi = \pi\ rad$ — 0,25 / 0,25
+
+2- Graphiquement : $U_{Lm} = 10\ V$ ; alors : $E = 10\ V$
+
+La résistance de la bobine est négligeable, donc : $E_{m;max} = E_{e;max}$ ;
+
+D'où : $E_{m;max} = \dfrac{1}{2}.C.E^2$ ; Alors : $C = \dfrac{2 \times E_{m;max}}{E^2}$ ; $C = \dfrac{2 \times 2 \times 10^{-3}}{10^2}$ ; $C = 4.10^{-5}\ F$
+
+Soit : $C = 40\ \mu F$ — 0,25 / 0,25
+
+On a : $T_0 = 2\pi\sqrt{LC}$ ; Donc : $\dfrac{T_0}{2} = \pi\sqrt{LC}$ ; Graphiquement : $\dfrac{T_0}{2} = 2\pi.10^{-3}\ s$
+
+D'où : $\pi\sqrt{LC} = 2\pi.10^{-3}$ ; par suite : $LC = 4.10^{-6}$ ; Alors : $L = \dfrac{4.10^{-6}}{C}$
+
+$L = \dfrac{4.10^{-6}}{4.10^{-5}}$ ; $L = 0,1\ H$ — 0,25
+
+Partie 3 : Qualité de la modulation d'amplitude
+
+1- On a : $u_1(t) = s(t) + U_0$ ; Donc : $u_1(t) = S_m\cos(2\pi ft) + U_0$
+
+D'où : $u(t) = K.(S_m\cos(2\pi ft) + U_0).P_m\cos(2\pi Ft)$
+
+$u(t) = K.P_m.U_0\left(\dfrac{S_m}{U_0}\cos(2\pi ft) + 1\right).\cos(2\pi Ft)$
+
+Alors : $U_{min} = K.P_m.U_0\left(1 - \dfrac{S_m}{U_0}\right)$ ; $U_{max} = K.P_m.U_0\left(1 + \dfrac{S_m}{U_0}\right)$ — 0,25 / 0,25
+
+2- On a : $m = \dfrac{S_m}{U_0}$ ; $U_{min} = K.P_m.U_0(1 - m)$ et $U_{max} = K.P_m.U_0(1 + m)$
+
+Donc : $U_{max} - U_{min} = 2.K.P_m.U_0.m$ et $U_{max} + U_{min} = 2.K.P_m.U_0$
+
+Alors : $m = \dfrac{U_{max} - U_{min}}{U_{max} + U_{min}}$ ; Graphiquement : $\begin{cases} U_{max} = 5V \\ U_{min} = 1V \end{cases}$ ; $m = \dfrac{5-1}{5+1}$ ; $m = 0,67$
+
+$F \gg f$ et $m < 1$ ; Alors bonne modulation — 0,25 / 0,25
+
+3- On a : $U_{max} + U_{min} = 2.K.P_m.U_0$ ; alors : $K = \dfrac{U_{max} + U_{min}}{2.P_m.U_0}$ ; $K = \dfrac{5+1}{2 \times 10 \times 1}$ ;
+
+$K = 0,3\ V^{-1}$ — 0,25
+
+## Exercice 4 : Mécanique
+
+Partie 1 : Détermination de la composition de l'oxyde de fer magnétique
+
+1-1- Système étudié : $\{l'ion\ Fe^{\alpha+}\}$ ; $\vec{F}_e$ : force électrostatique
+
+Dans un référentiel terrestre considéré galiléen, on applique la deuxième loi de Newton : $\vec{F}_e = m.\vec{a}$
+
+Projection sur (OX) : $\alpha.e.E_x = m.a_x$ ;
+
+donc : $\dfrac{\alpha.e.U}{d} = m.\dfrac{dv}{dt}$ ; D'où : $v(t) = \dfrac{\alpha.e.U}{m.d}.t$ avec $v(0) = 0$
+
+par suite : $x(t) = \dfrac{\alpha.e.U}{2.m.d}.t^2$ avec $x(0) = 0$ — 0,25 / 0,25
+
+1-2- L'ion $Fe^{\alpha+}$ arrive au point O' à l'instant $t_d$ avec une vitesse $v_0$
+
+Donc : $d = \dfrac{\alpha.e.U}{2.m.d}.t_d^2$ ; d'où : $t_d = \sqrt{\dfrac{2.m.d^2}{\alpha.e.U}}$ ; par suite : $v_0 = \sqrt{\dfrac{\alpha^2e^2U^2}{m^2d^2} \times \dfrac{2.m.d^2}{\alpha.e.U}}$
+
+Alors : $v_0 = \sqrt{\dfrac{2\alpha.e.U}{m}}$ — 0,5
+
+2-1- En utilisant la règle de la main droite $\odot \vec{B}$ — 0,25
+
+2-2- Système étudié : $\{l'ion\ Fe^{\alpha+}\}$ ; $\vec{F}_m$ : force magnétique
+
+Dans un référentiel terrestre considéré galiléen, on applique la deuxième loi de Newton : $\vec{F}_m = m.\vec{a}$ ; donc :
+
+$\alpha.e.\vec{v}_0 \wedge \vec{B} = m.\vec{a}$ ; d'où : $\vec{a} \perp \vec{v}_0$
+
+Alors le mouvement de $Fe^{\alpha+}$ est uniforme.
+
+D'autre part : $\vec{a} = a_T\vec{u} + a_N\vec{n}$ ; Donc : $\vec{a} = \dfrac{dv_0}{dt}\vec{u} + \dfrac{v_0^2}{R}\vec{n}$
+
+Or $\dfrac{dv_0}{dt} = 0$ ; donc : $\alpha.e.v_0.B = \dfrac{m.v_0^2}{R}$ ; Alors : $R = \dfrac{m.v_0}{\alpha.e.B}$
+
+$R = \sqrt{\dfrac{m^2}{\alpha^2.e^2.B^2}.\dfrac{2\alpha.e.U}{m}}$ ; Finalement : $R = \sqrt{\dfrac{2.m.U}{\alpha.e.B^2}}$
+
+Alors le mouvement de $Fe^{\alpha+}$ est circulaire uniforme. — 0,75
+
+2-3- On a : $R = \sqrt{\dfrac{2.m.U}{\alpha.e.B^2}}$ ; donc : $R^2 = \dfrac{2.m.U}{\alpha.e.B^2}$ ; D'où : $\alpha = \dfrac{2.m.U}{R^2.e.B^2}$
+
+Pour $R_1 = 3,1\ cm$ ; $\alpha_1 = \dfrac{2 \times 9,269.10^{-26} \times 10}{3,1.10^{-2} \times 1,6.10^{-19} \times 0,2^2}$ ; $\alpha_1 = 3$ ; $Fe^{3+}$
+
+Pour $R_2 = 3,8\ cm$ ; $\alpha_2 = \dfrac{2 \times 9,269.10^{-26} \times 10}{3,8.10^{-2} \times 1,6.10^{-19} \times 0,2^2}$ ; $\alpha_2 = 2$ ; $Fe^{2+}$ — 0,75
+
+Partie 2 : Mouvement d'un pendule pesant d'une horloge murale
+
+1- On a : $E_m = E_c + E_{pp}$
+
+On a : $E_C = \dfrac{1}{2}J_\Delta(\dot{\theta})^2$ ; $E_C = \dfrac{m}{12}.(l^2 + 6X^2).(\dot{\theta})^2$
+
+et $E_{pp} = -mgh + cte$
+
+Pour $h = 0$ ; $E_{pp} = cte = 0$ ; $E_{pp} = -mgh$
+
+On a : $\cos(\theta) = \dfrac{h}{X}$ ; Donc : $h = X.\cos(\theta)$ ;
+
+d'où : $E_{pp} = -m.g.X.\cos(\theta)$
+
+Pour $\theta$ faible ; $\cos(\theta) = 1 - \dfrac{\theta^2}{2}$ ; Alors : $E_{pp} = m.g.X.\left(\dfrac{\theta^2}{2} - 1\right)$
+
+Alors : $E_m = \dfrac{m}{12}.(l^2 + 6X^2).(\dot{\theta})^2 + m.g.X.\left(\dfrac{\theta^2}{2} - 1\right)$ — 0,5
+
+2- L'énergie mécanique se conserve, donc $\dfrac{dE_m}{dt} = 0$ ;
+
+Donc : $\dfrac{dE_m}{dt} = \dfrac{m}{6}.(l^2 + 6X^2).\ddot{\theta}.\dot{\theta} + m.g.X\dot{\theta}.\theta = 0$ ;
+
+D'où : $\dfrac{m}{6}.(l^2 + 6X^2).\dot{\theta}.\left(\ddot{\theta} + \dfrac{6.m.g.X}{m.(l^2 + 6X^2)}\theta\right) = 0$ ;
+
+Alors : $\ddot{\theta} + \dfrac{6.g.X}{l^2 + 6X^2}\theta = 0$ — 0,5
+
+3-1- On a : $\theta(t) = \theta_m\cos\left(\dfrac{2\pi}{T_0}t + \varphi\right)$ ; Donc : $\ddot{\theta} = -\left(\dfrac{2\pi}{T_0}\right)^2\theta$ ; D'où : $\ddot{\theta} + \left(\dfrac{2\pi}{T_0}\right)^2\theta = 0$
+
+Par identification avec l'équation différentielle : $\left(\dfrac{2\pi}{T_0}\right)^2 = \dfrac{6.g.X}{l^2 + 6X^2}$
+
+D'où : $\dfrac{2\pi}{T_0} = \sqrt{\dfrac{6.g.X}{l^2 + 6X^2}}$ ; $\dfrac{T_0}{2\pi} = \sqrt{\dfrac{l^2 + 6X^2}{6.g.X}}$ ; Alors : $T_0 = 2\pi\sqrt{\dfrac{l^2}{6.g.X} + \dfrac{X}{g}}$ — 0,5
+
+3-2-1 Graphiquement pour $T_0 = 1s$, deux positions sont possibles $X_1 = 5\ cm$ et $X_2 = 20\ cm$, mais $X_2 > \dfrac{l}{2}$ ; Alors $X = 5\ cm$ — 0,5
+
+3-2-2 À l'instant $t = 0$ ; $\theta(0) = \theta_m.\cos(\varphi) = \theta_m$ ; Donc : $\cos(\varphi) = 1$ ;
+
+alors : $\varphi = 0$ ; $\theta(t) = \theta_m\cos\left(\dfrac{2\pi}{T_0}t\right)$ ; D'où : $\dot{\theta}(t) = -\theta_m\dfrac{2\pi}{T_0}\sin\left(\dfrac{2\pi}{T_0}t\right)$
+
+(S) passe par sa position d'équilibre à l'instant $t = \dfrac{3}{4}T_0$ dans le sens positif.
+
+Donc : $v\left(\dfrac{3}{4}T_0\right) = -X.\theta_m\dfrac{2\pi}{T_0}\sin\left(\dfrac{2\pi}{T_0}.\dfrac{3}{4}T_0\right)$ ; D'où : $v\left(\dfrac{3}{4}T_0\right) = -X.\theta_m\dfrac{2\pi}{T_0}\sin\left(\dfrac{3\pi}{2}\right)$
+
+$v\left(\dfrac{3}{4}T_0\right) = -5.10^{-2}.\dfrac{\pi}{15}\dfrac{2\pi}{1}\sin\left(\dfrac{3\pi}{2}\right)$ ; Alors : $v\left(\dfrac{3}{4}T_0\right) = 6,7.10^{-2}\ m.s^{-1}$ — 0,5
+
+Réalisé par : Pr. M. BNOUMARZOUK
+Www.AdrarPhysic.Fr

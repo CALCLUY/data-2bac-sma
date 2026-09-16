@@ -1,0 +1,298 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2018 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية – خيار فرنسية
+الدورة العادية 2018 - الموضوع -
+NS 30 F
+المادة: الفيزياء والكيمياء
+الشعبة أو المسلك: شعبة العلوم الرياضية "أ" و"ب" – خيار فرنسية
+مدة الإنجاز: 4
+المعامل: 7
+
+L'usage de la calculatrice scientifique non programmable est autorisé.
+
+Le sujet comporte 4 exercices : un exercice de chimie et trois exercices de physique.
+
+Chimie (7 points):
+- Réaction de l'eau avec un acide et avec un ester,
+- Electrolyse de l'eau.
+
+Physique (13 points):
+- Exercice 1 : Les transformations nucléaires (3,25 points)
+  - Radioactivité α du radium,
+  - Mouvement d'une particule α dans un champ magnétique uniforme.
+- Exercice 2 : L'électricité (5 points)
+  - Réponse d'un dipôle RC à un échelon de tension,
+  - Réponse d'un dipôle RL à un échelon de tension,
+  - Oscillateur RLC en régime forcé.
+- Exercice 3 : La mécanique (4,75 points)
+  - Mouvement d'un corps solide dans l'air et dans un liquide,
+  - Mouvement d'un pendule élastique.
+
+## Chimie (7 points)
+
+L'eau est une espèce chimique dont le rôle est primordial en chimie des solutions aqueuses. Dans cet exercice on étudiera :
+- une solution aqueuse d'un acide,
+- l'hydrolyse d'un ester,
+- l'électrolyse de l'eau.
+
+1- Etude d'une solution aqueuse d'un acide HA :
+
+On prépare une solution aqueuse SA d'acide 2-méthylpropanoïque, noté HA, de volume V et de concentration molaire C = 10-2 mol.L-1. On désigne par A- la base conjuguée de HA.
+
+La mesure du pH de SA donne pH = 3,44.
+
+1-1- (0,5) Ecrire l'équation chimique modélisant la réaction de l'acide HA avec l'eau.
+
+1-2- (0,5) Calculer le taux d'avancement final de la réaction et déduire l'espèce chimique prédominante du couple HA(aq) / A-(aq).
+
+1-3- (0,5) Trouver l'expression du pKA du couple HA(aq) / A-(aq) en fonction de C et de pH. Vérifier que pKA = 4,86.
+
+1-4- On prend un volume VA = 20 mL de la solution aqueuse SA auquel on ajoute progressivement un volume VB d'une solution aqueuse (SB) d'hydroxyde de sodium Na+(aq) + HO-(aq) de concentration molaire CB = C avec VB < 20 mL.
+
+1-4-1- (0,25) Ecrire l'équation modélisant la réaction chimique qui se produit (cette réaction est considérée totale).
+
+1-4-2- (0,75) Trouver la valeur du volume VB de la solution (SB) ajouté lorsque le pH du mélange réactionnel prend la valeur pH = 5,50.
+
+2- Hydrolyse d'un ester :
+
+Le 2-méthylpropanoate d'éthyle de formule semi-développée (CH3)2CH−CO−O−CH2−CH3 est un ester à odeur de fraise. L'hydrolyse de cet ester, noté E, conduit à la formation d'un acide et d'un alcool.
+
+On réalise deux mélanges équimolaires de l'ester E et d'eau. Le volume de chaque mélange est V0.
+
+Les courbes (1) et (2) de la figure ci-contre représentent l'évolution au cours du temps, de la quantité de matière de l'ester E à une même température. L'une des deux courbes est obtenue en réalisant cette hydrolyse sans catalyseur.
+
+[Figure : n(mmol) en fonction de t(min) ; courbes (1) et (2), tangente (T) ; repères 350, 400, 450, 510, 0.]
+
+2-1- (0,75) Ecrire, en utilisant les formules semi-développées, l'équation modélisant la réaction qui se produit.
+
+2-2- (0,5) Déterminer graphiquement le temps de demi-réaction dans le cas de la transformation correspondant à la courbe (1).
+
+2-3- (0,5) Indiquer, en justifiant la réponse, la courbe correspondant à la réaction d'hydrolyse sans catalyseur.
+
+2-4- (0,5) En utilisant la courbe (2), déterminer en mol.L-1.min-1 la vitesse volumique de réaction à l'instant t1 = 5 min ((T) représente la tangente à la courbe (2) au point d'abscisse t1). On prend le volume du mélange réactionnel V0 = 71 mL.
+
+3- Electrolyse de l'eau :
+
+On introduit un volume d'eau acidifiée dans un électrolyseur. On surmonte chaque électrode en graphite d'un tube à essai, rempli d'eau, destiné à récupérer le gaz formé, puis on réalise le montage représenté sur le schéma ci-dessous.
+
+[Schéma : électrolyseur avec eau acidifiée, interrupteur K, ampèremètre A, générateur.]
+
+Après la fermeture de l'interrupteur K, on ajuste l'intensité du courant électrique sur la valeur I = 0,2 A. On prend cet instant comme origine des dates (t = 0).
+
+Données :
+- Les couples Ox/Red qui participent à l'électrolyse sont : O2(g) / H2O(ℓ) et H+(aq) / H2(g) ;
+- Volume molaire dans les conditions de l'expérience : Vm = 24 L.mol-1 ;
+- NA = 6,02.1023 mol-1 ; e = 1,6.10-19 C.
+
+3-1- (0,75) Parmi les affirmations suivantes combien y en a-t-il d'exactes ?
+a- L'anode est l'électrode liée au pôle positif du générateur.
+b- Une transformation forcée s'effectue dans le sens inverse d'une transformation spontanée.
+c- Au cours du fonctionnement d'un électrolyseur, il se produit une réduction à l'anode.
+d- Le courant électrique sort de l'électrolyseur par la cathode.
+
+3-2- (0,75) Ecrire l'équation de la réaction qui se produit au niveau de l'anode.
+
+3-3- (0,5) Trouver l'expression du volume de dioxygène formé à un instant t, en fonction de I, Vm, NA, e et t. Calculer sa valeur à l'instant t = 8 min.
+
+## Physique (13 points)
+
+### Exercice 1 : Transformations nucléaires (3,25 points)
+
+On se propose dans cet exercice d'étudier la radioactivité α du radium ainsi que le mouvement d'une particule α dans un champ magnétique uniforme.
+
+1- C'est en 1898 que Marie et Pierre Curie annoncèrent la découverte de deux éléments radioactifs : le polonium et le radium. Le radium 226/88 Ra qui se transforme en radon 222/86 Rn, est considéré comme l'un des exemples historiques de la radioactivité α. L'activité d'un échantillon radioactif était alors calculée par rapport au radium considéré comme étalon. Elle fut exprimée en curie (Ci) pendant des années, avant d'utiliser le Becquerel (Bq) comme unité.
+
+Le curie (1 Ci) est l'activité d'un échantillon d'un gramme (1 g) de radium 226.
+
+Données :
+- Masse molaire du radium : M = 226 g.mol-1 ; Constante d'Avogadro : NA = 6,02.1023 mol-1 ;
+- Energie de liaison du noyau de radium : El(226/88 Ra) = 1,7311.103 MeV ;
+- Energie de liaison du noyau de radon : El(222/86 Rn) = 1,7074.103 MeV ;
+- Energie de liaison du noyau de l'hélium : El(4/2 He) = 28,4 MeV ;
+- Constante radioactive du radium : λ = 1,4.10-11 s-1 ; 1 an = 365,25 jours ;
+
+1-1- (0,5) Donner la définition de l'énergie de liaison d'un noyau.
+
+1-2- (0,5) Choisir la proposition juste parmi les propositions suivantes :
+a- Le radium et le radon sont deux isotopes.
+b- Le noyau du radium est constitué de 88 neutrons et de 138 protons.
+c- Après une durée égale à 3.t1/2 (t1/2 demi-vie du radium), il reste 12,5% des noyaux initiaux.
+d- La relation entre la demi-vie et la constante radioactive est : t1/2 = λ.ln2.
+
+1-3- (0,5) Montrer que 1 Ci = 3,73.1010 Bq.
+
+1-4- (0,25) Quelle serait, en Becquerel (Bq), en Juin 2018, l'activité d'un échantillon de masse 1 g de radium dont l'activité en Juin 1898 était de 1 Ci.
+
+1-5- (0,5) Calculer, en MeV, l'énergie E produite par la désintégration d'un noyau de radium.
+
+2- La particule α émise arrive au trou O avec une vitesse horizontale V⃗0 et pénètre dans une zone où règne un champ magnétique B⃗ uniforme, perpendiculaire au plan vertical (π), d'intensité B = 1,5 T. Cette particule dévie et heurte un écran au point M (voir schéma ci-contre).
+
+[Schéma : plan (π), champ B⃗, vitesse V⃗0 au point O, écran, point M.]
+
+L'intensité du poids de la particule α, de charge q = +2e, est négligeable devant celle de la force de Lorentz qui s'exerce sur celle-ci.
+
+2-1- (0,5) Par application de la deuxième loi de Newton, déterminer la nature du mouvement de la particule α dans la zone où règne le champ B⃗.
+
+2-2- (0,5) Exprimer la distance OM en fonction de m(α), e, B et V0. Calculer sa valeur.
+
+On donne : - Masse de la particule α : m(α) = 6,6447.10-27 kg ;
+- V0 = 1,5.107 m.s-1 ; e = 1,6.10-19 C.
+
+### Exercice 2 : Electricité (5 points)
+
+Cet exercice se propose d'étudier :
+- la réponse d'un dipôle RC à un échelon de tension ;
+- la réponse d'un dipôle RL à un échelon de tension ;
+- la résonance en intensité d'un circuit RLC série.
+
+#### I- Réponse d'un dipôle RC à un échelon de tension
+
+On réalise le montage représenté sur le schéma de la figure 1. Ce montage comporte :
+- un générateur de tension G de force électromotrice E ;
+- un conducteur ohmique de résistance R = 2 kΩ ;
+- un condensateur de capacité C initialement déchargé ;
+- un interrupteur K.
+
+A l'instant t = 0 on ferme K. On note uC la tension aux bornes du condensateur.
+
+La courbe de la figure 2 représente les variations de duC/dt en fonction de uC.
+
+[Figure 1 : G (E), K, R, C (uC), courant i. Figure 2 : duC/dt (V.s-1) en fonction de uC(V) ; repères 0, 14, 5.104.]
+
+1- (0,25) Etablir l'équation différentielle vérifiée par uC.
+
+2- (0,25) Déterminer la valeur de E et vérifier que C = 10 nF.
+
+3- (0,5) On définit le rendement énergétique de la charge du condensateur par ρ = Ee/Eg avec Ee l'énergie emmagasinée par le condensateur jusqu'au régime permanent et Eg = C.E2 l'énergie fournie par le générateur G.
+Déterminer la valeur de ρ.
+
+#### II- Réponse d'un dipôle RL à un échelon de tension
+
+On réalise le montage, représenté sur le schéma de la figure 3, comportant :
+- un générateur de f.e.m. E = 6 V ;
+- deux conducteurs ohmiques de résistance R1 et R2 = 2 kΩ ;
+- une bobine (b) d'inductance L et de résistance r = 20 Ω ;
+- un interrupteur K ;
+- une diode D idéale de tension seuil uS = 0.
+
+[Figure 3 : E, K, R1, bobine (b), diode D, R2, courant i. Figure 4 : i(mA) en fonction de t(ms) avec la tangente (T) à t = 0 ; repères 5, 10, 20, 0.]
+
+1- On ferme l'interrupteur K à l'instant de date t = 0. Un système d'acquisition informatisé adéquat permet de tracer la courbe représentant l'évolution de l'intensité du courant i(t) dans le circuit (figure 4). La droite (T) représente la tangente à la courbe à t = 0.
+
+1-1- (0,25) Etablir l'équation différentielle vérifiée par i(t).
+
+1-2- (0,5) Déterminer la valeur de la résistance R1 et vérifier que la valeur de l'inductance de la bobine est L = 0,3 H.
+
+1-3- (0,5) Lorsque le régime permanent est établi, calculer la tension aux bornes de la bobine.
+
+2- Le régime permanent étant atteint, on ouvre K. On prend l'instant d'ouverture de K comme nouvelle origine des dates (t = 0).
+
+2-1- (0,5) Quelle est la valeur de l'intensité du courant juste après l'ouverture de K ? justifier la réponse.
+
+2-2- (0,25) En se basant sur l'équation différentielle vérifiée par i(t) lors de la rupture du courant, déterminer à l'instant t = 0, la valeur de di(t)/dt et celle de la tension aux bornes de la bobine.
+
+3- (0,5) Justifier le rôle de la branche du circuit formé par la diode et le conducteur ohmique de résistance R2 dans le circuit au moment de l'ouverture de l'interrupteur K.
+
+#### III- Oscillateur RLC en régime forcé
+
+On réalise un circuit RLC série comprenant :
+- un générateur délivrant une tension alternative sinusoïdale u(t) de tension efficace constante et de fréquence N réglable ;
+- un conducteur ohmique de résistance R3 = 1980 Ω ;
+- la bobine (b) précédente ;
+- un condensateur de capacité C1.
+
+L'étude expérimentale a permis de tracer la courbe représentant les variations de l'impédance Z du dipôle RLC en fonction de la fréquence N (figure 5).
+
+On prendra : √2 = 1,4 et π2 = 10.
+
+[Figure 5 : Z(kΩ) en fonction de N(kHz) ; repères 0 ; 0,25 ; 0,5 ; 1 ; 2.]
+
+1- (0,75) Déterminer la fréquence de résonance.
+
+2- (0,5) Calculer la capacité C1 du condensateur.
+
+3- (0,25) On note I0 la valeur maximale de l'intensité efficace I du courant dans le circuit. Pour I = I0/√2, trouver la relation entre l'impédance Z du circuit, R3 et r.
+Déduire graphiquement la largeur de la bande passante à -3dB.
+
+### Exercice 3 : Mécanique (4,75 points)
+
+Les deux parties I et II sont indépendantes
+
+#### Partie I : Etude du mouvement d'un corps solide dans l'air et dans un liquide
+
+On trouve dans les piscines des plongeoirs à partir desquels chutent les baigneurs pour plonger dans l'eau.
+
+Dans cette partie de l'exercice, on étudiera le mouvement d'un baigneur dans l'air et dans l'eau.
+
+On modélise le baigneur par un corps solide (S) de masse m et de centre d'inertie G.
+
+On étudie le mouvement du centre G dans un repère R(O, k⃗) lié à un référentiel terrestre supposé galiléen (figure 1).
+
+Données : m = 80 kg ; intensité de la pesanteur : g = 10 m.s-2. On prend √2 = 1,4.
+
+[Figure 1 : plongeoir, solide (S), hauteur h, axe (O, k⃗), G, surface de l'eau.]
+
+1- Etude du mouvement du centre G dans l'air
+
+A l'instant de date t0, pris comme origine des dates (t0 = 0), le baigneur se laisse chuter sans vitesse initiale d'un plongeoir. On considère qu'il est en chute libre durant son mouvement dans l'air. A la date t0 le centre d'inertie G coïncide avec l'origine O du repère R(O, k⃗) (zG = 0) et est situé à une hauteur h = 10 m au-dessus de la surface de l'eau (figure 1).
+
+1-1- (0,25) Etablir l'équation différentielle régissant la vitesse vz du centre d'inertie G.
+
+1-2- (0,5) Déterminer le temps de chute tc de G dans l'air puis en déduire sa vitesse ve d'entrée dans l'eau.
+
+2- Etude du mouvement vertical du centre d'inertie G dans l'eau
+
+Le baigneur arrive avec la vitesse ve, de direction verticale, à l'entrée dans l'eau. Lorsqu'il est dans l'eau, il suit une trajectoire verticale où il est soumis à l'action de :
+- son poids P⃗,
+- la force de frottement fluide : f⃗ = −λ.v⃗ où λ est le coefficient de frottement fluide (λ = 250 kg.s-1) et v⃗ le vecteur vitesse de G à un instant t,
+- la poussée d'Archimède : F⃗ = (m/d).g⃗ où g est l'intensité de la pesanteur et d = 0,9 la densité du baigneur.
+
+On considère l'instant d'entrée de (S) dans l'eau comme nouvelle origine des dates (t = 0).
+
+2-1- (0,5) Etablir l'équation différentielle vérifiée par la vitesse vz de G. On posera τ = m/λ.
+
+2-2- (0,5) Déduire l'expression de la vitesse limite vℓz en fonction de τ, g et d. Calculer sa valeur.
+
+2-3- (0,5) La solution de l'équation différentielle est vz(t) = A + B.e−t/τ, où A et B sont des constantes.
+Exprimer A en fonction de vℓz et B en fonction de vℓz et ve.
+
+2-4- (0,25) Déterminer l'instant tr auquel le mouvement du baigneur change de sens. (Le baigneur n'atteint pas le fond de la piscine).
+
+#### Partie II : Etude du mouvement d'un pendule élastique
+
+Le pendule élastique étudié est constitué d'un solide (S), de masse m et de centre d'inertie G, attaché à l'extrémité d'un ressort à spires non jointives, de masse négligeable, de longueur à vide ℓ0 et de raideur K. L'autre extrémité du ressort est fixée à un support fixe au point P.
+
+Le solide (S) peut glisser sans frottement sur une tige (T) inclinée d'un angle α par rapport à la verticale et solidaire au point P (figure 2).
+
+On étudie le mouvement du centre d'inertie G dans le repère orthonormé R(O, i⃗, j⃗) lié à un référentiel terrestre considéré comme galiléen. On repère la position de G à un instant t par l'abscisse x sur l'axe (O, i⃗).
+
+A l'équilibre, G est confondu avec l'origine O du repère (xG = 0) (figure 2).
+
+On prendra : π2 = 10.
+
+[Figure 2 : point P, tige (T), ressort, solide (S), G, axes (O, i⃗, j⃗), abscisse x, y. Figure 3 : ax(m.s-2) en fonction de x. Figure 4 : Ec(mJ) en fonction de x ; repères 0 ; 1,25 ; 2.]
+
+1- (0,25) Exprimer ℓe, la longueur du ressort à l'équilibre, en fonction de ℓ0, m, K, α et g l'intensité de la pesanteur.
+
+2- On déplace (S) de sa position d'équilibre d'une distance xm, dans le sens positif, et on le lâche à l'instant de date t = 0 sans vitesse initiale.
+
+La courbe de la figure 3 représente la variation de l'accélération ax du centre d'inertie G en fonction de l'abscisse x avec −xm ≤ x ≤ xm.
+
+2-1- (0,5) Etablir, en appliquant la deuxième loi de Newton, l'équation différentielle vérifiée par l'abscisse x(t).
+
+2-2- (0,5) La solution de l'équation différentielle s'écrit sous la forme : x(t) = xm.cos((2π/T0).t + φ).
+Trouver l'expression numérique de x(t).
+
+3- On choisit comme référence de l'énergie potentielle de pesanteur (Epp(O) = 0) le plan horizontal auquel appartient G à l'équilibre et comme référence de l'énergie potentielle élastique (Epe(O) = 0) l'état où le ressort est allongé à l'équilibre.
+
+3-1- (0,5) Trouver, à un instant t, l'expression de l'énergie potentielle Ep = Epp + Epe de l'oscillateur en fonction de x et de K.
+
+3-2- (0,5) La courbe de la figure 4 représente les variations de l'énergie cinétique de l'oscillateur en fonction de x.
+En se basant sur la conservation de l'énergie mécanique, déterminer la valeur de la raideur K. Déduire la valeur de la masse m.

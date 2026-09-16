@@ -1,0 +1,122 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Devoirs
+Sujet: Semestre 2 Devoir 2 Modèle 1 - SVT 2Bac SM
+Type: Devoir
+Source: 
+---
+
+SVT : 2 Bac SM
+Semestre 2 Devoir 2 Modèle 1
+Professeur : Mr BAHSINA Najib
+
+1/6
+
+### I- Restitution des connaissances (9 pts)
+
+#### 1-1/ Exercie 1 (3 pts)
+
+1. Donnez l'énoncé de la loi de Hardy-Weinberg :
+
+2. Citez quatre caractéristiques de la population théorique idéale :
+
+2/6
+
+### I- Restitution des connaissances (9 pts)
+
+#### 1-2/ Exercie 2 (3 pts)
+
+A- Selon la loi de Hardy-Weinberg, la stabilité des fréquences des deux allèles d’un caractère héréditaire quantitatif, dans une population naturelle, implique que :
+
+1. la population est en déséquilibre, d’une génération à l’autre, pour ce caractère.
+2. la population est idéale en équilibre, d’une génération à l’autre, pour ce caractère.
+3. les croisements entre les individus de la population sont réalisés d'une façon préférentielle.
+4. les croisements sont réalisés entre des individus appartenant à des générations différentes.
+
+B- Au sein d’une population soumise à la loi de Hardy-Weinberg et dans le cas d’un gène porté par le chromosome X la fréquence des génotypes est :
+
+1. égale à la fréquence des allèles chez le mâle et chez la femelle.
+2. égale à la fréquence des allèles chez le mâle.
+3. égale à la fréquence des allèles chez la femelle.
+4. indépendante de la fréquence des allèles chez le mâle et chez la femelle.
+
+C- Le pool génétique d’une population est l’ensemble des allèles :
+
+1. qui occupent les locus des différents gènes de ses individus.
+2. dominants qui occupent les locus des différents gènes de ses individus.
+3. mutés qui occupent les locus des différents gènes de ses individus.
+4. létaux qui occupent les locus des différents gènes de ses individus.
+
+D- La sélection naturelle est un mécanisme qui :
+
+1. conduit à une transmission d’allèles de façon préférentielle d’une génération à l’autre.
+2. est indépendant des conditions de survie et de fécondité des individus d’une population.
+3. s’applique à l’individu et non à l’ensemble des individus d’une population.
+4. produit un brassage héréditaire à l’origine de l’homogénéité des individus de la population.
+
+3/6
+
+### I- Restitution des connaissances (9 pts)
+
+#### 1-3/ Exercie 3 (3 pts)
+
+Le tableau ci-dessous comporte deux groupes :
+
+- Le groupe 1 représente des mutations chromosomiques.
+- Le groupe 2 présente leurs caractéristiques.
+
+Reliez chaque élément du groupe 1 à l'élément qui lui correspond du groupe 2 :
+
+| Groupe 1 | Groupe 2 |
+| --- | --- |
+| Duplication | perte d’un fragment de chromosome. |
+| Translocation | échange de morceaux entre deux chromosomes non homologues. |
+| Inversion | présence en double exemplaire d’un fragment de chromosome. |
+| Délétion | cassure sur le même chromosome et recollement après inversion du fragment. |
+
+4/6
+
+### II- Raisonnement scientifique et communication écrite et graphique (11 pts)
+
+#### 2-1/ Exercice 4 (11 pts)
+
+Pour mettre en évidence l'action de l’un des facteurs de la variation génétique de la population sur sa structure génétique on propose l'exploitation des données suivantes :
+
+##### Donnée 1
+
+On a constaté à 1 échelle mondiale, que des concentrations d insecticides initialement très efficaces contre les moustiques, dans une zone donnée, perdaient cette efficacité au cours du temps, ce qui a conduit à utiliser des doses croissantes d insecticides. Ceci est dû à l’apparition d’une résistance aux insecticides chez les moustiques.
+
+Le gène de résistance aux insecticides nommé (Ace),chez le moustique, possède deux allèles : l’allèle R est responsable de la résistance aux insecticides et l’allèle S est responsable de la sensibilité aux insecticides.
+
+Dans une région non traitée par les insecticides on a recensé, chez une population donnée, les nombres des différents génotypes liés à ce gène.
+
+Le tableau suivant résume les résultats obtenus :
+
+[Figure — image : tableau des effectifs des différents génotypes du gène Ace]
+
+1. Calculez la fréquence p de l’allèle S et la fréquence q de l’allèle R.
+
+2. Déterminez les nombres théoriques des trois génotypes en considérant que cette population est en équilibre selon la loi de Hardy-Weinberg.
+
+5/6
+
+### II- Raisonnement scientifique et communication écrite et graphique (11 pts)
+
+#### 2-1/ Exercice 4 (11 pts)
+
+##### Donnée 2
+
+Afin de déterminer l’action de l’utilisation excessive des insecticides sur les populations des moustiques dans la région côtière de Montpellier en France, qui a connu un traitement continu par les insecticides entre 1968 et 2002, on a recensé puis déterminé la fréquence des moustiques résistants, dans cette région et dans ses environs, avant traitement par les insecticides (en 1968) et après traitement (en 2002).
+
+Le document suivant résume les résultats obtenus :
+
+[Figure — image : fréquence des moustiques résistants avant (1968) et après (2002) traitement]
+
+On signale qu’en 1993, on a constaté, dans la région côtière de Montpellier, l apparition d une nouvelle souche de moustiques résistante aux insecticides.
+
+3. Décrivez l’évolution de la fréquence des moustiques résistants aux insecticides avant et après le traitement.
+
+4. Expliquez la relation entre l’utilisation excessive des insecticides et la variation de la fréquence des moustiques résistants aux insecticides.
+
+6/6

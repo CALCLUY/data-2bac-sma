@@ -1,0 +1,81 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvements plans : Particule chargée dans un champ électrique (SM)
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Bac SM
+
+Séance 19-C (Mouvements plans : Particule chargée dans un champ électrique)
+
+Professeur : Mr EL GOUFIFA Jihad
+
+## I- Mouvement d'une particule chargée dans un champs électrique uniforme
+
+### 1-1/ Le champ électrique uniforme
+
+Un champ électrique est dit uniforme s'il est constant en direction, en sens et en valeur : les lignes de champs sont alors toutes parallèles.
+
+Les lignes de champ entre les plaques sont parallèles entre elles et perpendiculaires aux plans des plaques.
+
+Le vecteur champ électrique $\overset{\rightarrow}{E}$ est orienté dans sens des potentielles décroissants (il est dirigé de la plaque ayant le plus grand potentiel vers celle ayant le plus petit potentiel).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img10.gif)
+
+### 1-2/ Déviation d'une particule chargée dans un champ électrique uniforme
+
+On utilise un tube de crookes qui contient un canon d'électrons qui permet d'obtenir un faisceau d'électrons ayant la même vitesse et à l'intérieur duquel il y'a un champ électrique uniforme.
+
+Les électrons entrent dans le champ électrique avec une vitesse $\overset{\rightarrow}{v_{0}}$ perpendiculaire à $\overset{\rightarrow}{E}$.
+
+On constate expérimentalement que la trajectoire du faisceau d'électrons est parabolique.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img11.png)
+
+### 1-3/ Étude du mouvement d'une particule chargée dans un champ électrique uniforme
+
+#### Les équations horaires du mouvement
+
+En négligeant le poids, l'électron n'est soumis dans le champ électrique qu'à l'action de la force électrique : $\overset{\rightarrow}{F} = q \overset{\rightarrow}{E} = - e \overset{\rightarrow}{E}$
+
+$\overset{\rightarrow}{F}$ et $\overset{\rightarrow}{E}$ ont des sens contraires.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img12.png)
+
+$\sum_{}^{} F = m \overset{\rightarrow}{a_{G}} = - e . \overset{\rightarrow}{E} \\ \\ \Rightarrow \left{\begin{matrix} a_{x} = 0 \\ a_{y} = \frac{e . E}{m} \end{matrix}\right \\ \\ \Rightarrow \left{\begin{matrix} v_{x} = v_{0} \\ v_{y} = \frac{e . E}{m} t \end{matrix}\right \\ \\ \Rightarrow \left{\begin{matrix} x = v_{0} t \\ y = \frac{1}{2} \frac{e . E}{m} t^{2} \end{matrix}\right \\$
+
+#### L'équations de la trajectoire
+
+$\left{\begin{matrix} x = v_{0} t \\ y = \frac{1}{2} \frac{e . E}{m} t^{2} \end{matrix}\right \\ \\ \Rightarrow t = \frac{x}{v_{0}} \\ \\ \Rightarrow \overline{\left.\right) y = \frac{1}{2} \frac{e . E}{m . \left(v_{0}\right)^{2}} x^{2} } \\$
+
+#### Coordonnées du point de sortie de l'électron du champ électrique
+
+$S$ est le point de sortie de l'électron $x_{S} = \mathcal{l}$.
+
+En remplaçant dans $y$ on obtient : $y_{S} = \frac{e . E}{2 m} \frac{\mathcal{l}^{2}}{\left(v_{0}\right)^{2}}$
+
+#### Vitesse de l'électron lorsqu'il quitte le champ électrique
+
+Le temps mis par l'électron pour arriver au point $S$ est $t = \frac{\mathcal{l}}{v_{0}}$
+
+Donc $V_{S} \left{\begin{matrix} V_{S_{x}} = v_{0} \\ V_{S_{y}} = \frac{e . E}{m} . \frac{\mathcal{l}}{v_{0}} \end{matrix}\right \\ \\ \Rightarrow t g \alpha = \frac{V_{S_{y}}}{V_{S_{x}}} = \frac{e . E . \mathcal{l}}{m . \left(v_{0}\right)^{2}}$
+
+#### Déflexion électrique
+
+Après sa sortie du champ électrique l'électron a un mouvement rectiligne uniforme jusqu'à ce qu'il rencontre l'écran au point P :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img13.bmp)
+
+$\left{\begin{matrix} t g \alpha = \frac{e . E}{m} . \frac{\mathcal{l}}{\left(v_{0}\right)^{2}} \\ y_{S} = \frac{1}{2} \frac{e . E}{m} \frac{\mathcal{l}^{2}}{\left(v_{0}\right)^{2}} \end{matrix}\right \\ \\ \Rightarrow x = \frac{y_{S}}{t g \alpha} = \frac{\mathcal{l}}{2}$
+
+On appelle déflexion électrique la distance $D_{e}$ entre le point d'impact $O '$ de la particule avec l'écran en absence du champ électrique et le point d'impact $P$ de la particule avec l'écran en présence du champ électrique.
+
+$t g \alpha = \frac{y_{S}}{x} = \frac{D_{e}}{D} \\ \\ \Rightarrow D_{e} = \frac{y_{S} . D}{x} = \frac{e . E}{m} \frac{\mathcal{l} . D}{\left(v_{0}\right)^{2}}$
+
+Et on a $E = \frac{U}{d}$
+
+Donc : $D_{e} = \frac{e . \mathcal{l} . D}{m . d . \left(v_{0}\right)^{2}} \times U = K \times U$
+
+La déflexion électrique est proportionnelle à la tension entre les plaques.

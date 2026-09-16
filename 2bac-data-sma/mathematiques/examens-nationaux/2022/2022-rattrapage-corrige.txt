@@ -1,0 +1,114 @@
+---
+Type: Examen National
+Année: 2022
+Session: Rattrapage
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية — الدورة الاستدراكية 2022 – عناصر الإجابة –
+مسلك العلوم الرياضية – أ و ب - خيار فرنسية — المادة : الرياضيات
+RR 24F — المعامل : 9 — مدة الإنجاز : 4
+
+## EXERCICE 1 — Eléments de réponses — Barème
+
+A- 1- Inégalité — 0.25
+
+2- a) Double inégalité — 0.25
+
+b) Déduction de la double inégalité — 0.5
+
+c) Calcul de la limite — 0.5
+
+B- 1- a) Continuité à droite en $0$ — 0.5
+
+b) Vérification de l'égalité — 0.25
+
+c) Déduction de la dérivabilité de la fonction $f$ à droite en $0$ et du nombre dérivé à droite en $0$ — 0.5
+
+2- a) Calcul de $f'(x)$ — 0.5
+
+b) Démonstration de l'inégalité $f'(x) \leq -2e^{-x}$ — 0.5
+
+c) $f$ est strictement décroissante sur $I$ — 0.25
+
+3- a) L'inégalité — 0.25
+
+b) Déduction — 0.5
+
+4- a) Calcul de la limite — 0.5
+
+b) Déduction — 0.5
+
+5- a) Calcul de limite ………………………….. — 0.25
+Interprétation graphique ……………………………….. — 0.25
+
+b) T.V — 0.25
+
+c) Position relative de $(C)$ avec sa demi-tangente — 0.25
+
+d) Représentation graphique — 0.5
+
+C- 1- a) $g$ est une bijection de $\left[0 , 1\right]$ vers $J = \left[\dfrac{e^{-1} - e^{-2}}{1} ; e\right]$ [FORMULA_IMAGE_UNREADABLE] — 0.5
+
+b) Existence et unicité de $\alpha$ — 0.25×2
+
+2- a) $\left|I_{k} - J_{k}\right| \leq \displaystyle\int_{x_{k}}^{x_{k+1}} \left|f(t) - f\left(x_{k}\right)\right|\,dt$ puis application de l'inégalité des accroissements finis — 0.5
+
+b) Déduction de l'inégalité — 0.5
+
+3- a) Démonstration de l'inégalité — 0.5
+
+b) Déduction de la limite — 0.25
+
+## EXERCICE 2 — Eléments de réponses — Barème
+
+I- 1- a) Le calcul du discriminant — 0.25
+
+b) Détermination de $z_{1}$ et $z_{2}$ — 0.25×2
+
+2- Formes exponentielles de $z_{1}$ et $z_{2}$ — 0.25×2
+
+II- 1- Equivalence — 0.5
+
+2- a) Calcul de $c$ et de $d$ — 0.25×2
+
+b) Calcul de $2(p - r)$ et de $2(q - r)$ — 0.25×2
+
+c) L'égalité — 0.25
+
+d) Le triangle $PQR$ est équilatéral ………….. — 0.25
+Justification ……………. — 0.25
+
+## EXERCICE 3 — Eléments de réponses — Barème
+
+1- a) $\varphi$ homomorphisme — 0.5
+
+b) $\varphi(\mathbb{R}) = G$ …………………………………………………. — 0.25
+$\left(G , \times\right)$ groupe commutatif ………………………………… — 0.25
+
+c) Détermination de $J$ — 0.5
+
+d) Détermination de l'inverse de $M(a)$ dans le groupe $\left(G , \times\right)$ — 0.5
+
+e) Résolution de l'équation — 0.5
+
+2- a) Démonstration de l'égalité $M(a) \times I = M(a) \times J$ — 0.25
+
+b) Déduction — 0.5
+
+c) Vérification — 0.25
+
+## EXERCICE 4 — Indications de solutions — Barème
+
+1- $137$ premier — 0.5
+
+2- Algorithme d'Euclide — 0.5
+
+3- a) Théorème de BEZOUT ou toute autre méthode juste — 0.5
+
+b) Théorème de FERMAT — 0.5
+
+c) Application de 2- — 0.5
+
+4- $S = \left\{1 + 137k \ : \ k \in \mathbb{Z}\right\}$ — 0.5

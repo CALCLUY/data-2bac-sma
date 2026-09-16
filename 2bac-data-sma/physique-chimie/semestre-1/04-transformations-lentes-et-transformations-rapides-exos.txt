@@ -1,0 +1,74 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Transformations lentes et transformations rapides
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 4 (Transformations lentes et transformations rapides)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+Le fer est attaqué par les acides.
+
+Lorsque l'on place un clou en fer de 1,5 g dans 50 mL d'une solution acide (ions $H^{+}$ à $2 , 0 m o l . L^{- 1}$), on observe un dégagement gazeux de dihydrogène $\left(\right. H_{2} \left.\right)$ et la formation d'ions fer II $\left(\right. F e^{2 +} \left.\right)$.
+
+1. Écrire l'équation bilan de la réaction et indiquer les couples mise en jeu.
+2. Faire le bilan des espèces présentes à l'état initial.
+3. Le clou a-t-il été entièrement détruit ?
+4. Indiquer avec précision les quantités de matières présentes dans la solution lorsque la réaction est terminée.
+5. Quel est le volume de dihydrogène dégagé par cette réaction ?
+6. Quelle est la concentration en ions fer II et en ions $H^{+}$ lorsque la réaction est terminée ?
+
+On prendra un volume molaire pour les gaz de $24 L . m o l^{- 1}$. $M \left(\right. F e \left.\right) = 55 , 8 g / m o l$
+
+### 5-2/ Exercice 2
+
+Nous mélangeons à 25°C, un volume $V_{1} = 10 m L$ de l'eau oxygénée $H_{2} O_{2}$ acidifié de concentration molaire $C_{1} = 0 . 5 m o l / L$ et un volume $V_{2} = 20 m L$ d'iodure de potassium $\left(\right. K^{+} + I^{-} \left.\right)$ de concentration molaire $C_{2} = 0 . 8 m o l / L$.
+
+1. Déterminer les deux couples qui interviennent dans la réaction et écrire la demi-équation de chaque couple.
+2. Déduire l'équation bilan.de la réaction d'oxydoréduction.
+3. Quelle est l'évolution du mélange qui se produit que nous pouvons distingué à l'œil nu.
+4. Dresser le tableau d'évolution de la réaction.
+5. Calculer l'avancement maximal $x_{m a x}$, et déduire le réactif limitant.
+6. Déduire la quantité de matière de la diode formée à la fin de l'expérience.
+7. Nous répétons l'expérience précèdent toute en gardant la même température et en augmentant la concentration de la solution iodure de potassium à $C '_{2} = 1 m o l / L$. Qu'arrivera-t-il à la durée de la réaction ?
+8. Que se passerait-il-si nous mettons le premier mélange dans l'eau glacée ?
+
+### 5-3/ Exercice 3
+
+On plonge une lame de zinc de masse $m = 2 g$ dans Line solution d'acide chlorhydrique $\left(\right. \left(H^{+}\right)_{\left(a q\right)} + \left(C l^{-}\right)_{\left(a q\right)} \left.\right)$ en excès.
+
+Au cours de la réaction il y a formation des ions $Z n^{2 +}$ et production d'un gaz qui donne une détonation en présence d'une flamme.
+
+1. Écrire les demi-équations redox et l'équation bilan entre l'acide chlorhydrique et le zinc.
+2. Dresser le tableau d'avancement de la réaction, et déterminer l'avancement maximal.
+3. Calculer le volume de dihydrogène libéré à la fin de réaction.
+4. Calculer la masse $m '$ du chlorure de zinc formé à la fin de la réaction.
+
+On donne : $V_{m} = 25 L . m o l^{- 1} ; M \left(\right. Z n \left.\right) = 64 , 5 g . m o l^{- 1} ; M \left(\right. C l \left.\right) = 35 , 5 g . m o l^{- 1}$
+
+### 5-4/ Exercice 4
+
+Pour une solution de diiode $I_{2 \left(\right. aq \left.\right)}$, on verse un volume $V_{ox} = 20 m L$ dans un bécher avec l'empois d'amidon ; on obtient alors une solution bleu foncé (l'empois d'amidon est un indicateur coloré permettant de visualiser le passage de l'équivalence : avant l'équivalence la solution est bleue et après l'équivalence la solution est incolore).
+
+Dans une burette graduée, on introduit une solution de thiosulfate de sodium $\left(\right. 2 N \left(a^{+}\right)_{\left(a q\right)} + S_{2} \left(\left(O_{3}\right)^{2 -}\right)_{\left(a q\right)} \left.\right)$ où la concentration des ions thiosulfate est $C_{r e d} = 0 , 2 m o l . L^{- 1}$.
+
+On fait couler cette solution dans le bécher jusqu'à disparition de la couleur bleu foncé : on verse un volume $V_{r e d} = 24 , 2 m L$ de solution titrante.
+
+La disparition de la couleur bleue foncé démontre la disparition totale du diiode $I_{2 \left(\right. aq \left.\right)}$ dans le bécher.
+
+1. Écrire l'équation de la réaction du dosage sachant que les couples d'oxydo-réduction mis en œuvre sont $\left(I_{2 \left(\right. aq \left.\right)}\right)/\left(\left(I^{-}\right)_{\left(\right. aq \left.\right)}\right)$ et $\left(S_{4} \left(\left(O_{6}\right)^{2 -}\right)_{\left(\right. aq \left.\right)}\right)/\left(S_{2} \left(\left(O_{3}\right)^{2 -}\right)_{\left(\right. aq \left.\right)}\right)$.
+2. Préciser lors de cette équation chimique quelle est l'espèce oxydante et l'espèce réductrice.
+3. Définir l'équivalence d'un dosage.
+4. À l'aide d'un tableau d'avancement déterminer la relation que l'on peut écrire à l'équivalence.
+5. Calculer la concentration de diiode dans la solution dosée.
+6. En déduire la masse de diiode $I_{2}$ dans le volume $V = 200 m L$ de solution.
+7. À l'équivalence, déterminer la concentration de toutes les espèces chimiques présentes dans le mélange.
+
+Données : masse molaire de diiode $I_{2}$ : $M \left(\right. I_{2} \left.\right) = 253 , 8 g . m o l^{- 1}$.

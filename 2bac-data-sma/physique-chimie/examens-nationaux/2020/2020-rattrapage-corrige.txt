@@ -1,0 +1,299 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2020 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+[Note : correction détaillée (13 pages) ; le texte a été reconstitué à partir de l'extraction du PDF, les formules étant restituées en notation linéaire.]
+
+## Exercice 1 : Chimie (6,5 points)
+
+### Partie I : Pile diiode-zinc
+
+1- Le sens d'évolution spontanée du système :
+Le quotient de réaction dans l'état initial :
+Qr,i = [I-]i² . [Zn2+]i / [I2]i
+Qr,i = (5,0.10-2)² × 0,10 / 0,1 ⟹ Qr,i = 2,5.10-3
+Qr,i < K = 1046
+Selon le critère d'évolution d'un système chimique, le système évolue spontanément dans le sens direct (1), sens de formation de I- et Zn2+.
+
+2- L'équation de la réaction qui se produit au niveau de la cathode :
+Au niveau de la cathode se produit la réduction de I2 :
+I2(aq) + 2e- ⇄ 2I-(aq)
+
+3- Montrons que nC(I2) = 7 mmol :
+L'équation de la réaction de dosage :
+I2(aq) + 2S2O32-(aq) ⟶ 2I-(aq) + S4O62-(aq)
+La relation d'équivalence : Cr.VE / 2 = nR(I2)  (nversé(S2O32-) = 2.nR(I2))
+n0(I2) [initial] = nR(I2) [restant] + nC(I2) [consommé]
+⟹ nC(I2) = n0(I2) − nR(I2)
+nC(I2) = C1.V − Cr.VE / 2
+A.N : nC(I2) = 0,10 × 100.10-3 − (0,30 × 20.10-3)/2 = 7.10-3 mol ⟹ nC(I2) = 7 mmol
+
+4- Expression de Δt en fonction de I0, F et nC(I2) :
+D'après le tableau d'avancement :
+n(e-) = 2x et nC(I2) = x ⟹ n(e-) = 2.nC(I2)
+Q = I0.Δt et Q = F.n(e-) ⟹ F.n(e-) = I0.Δt ⟹ Δt = F.n(e-)/I0
+⟹ Δt = 2F.nC(I2)/I0
+A.N : Δt = 2 × 9,65.104 × 7.10-3 / 70.10-3 ⟹ Δt = 1,93.104 s
+
+5- Calcul de [Zn2+] :
+D'après le tableau d'avancement : [Zn2+] = (C0.V + x)/V = C0 + x/V
+n(e-) = 2.nC(I2) ⟹ 2x = 2.nC(I2) ⟹ x = nC(I2)
+[Zn2+] = C0 + nC(I2)/V
+A.N : [Zn2+] = 0,1 + 7.10-3/100.10-3 ⟹ [Zn2+] = 0,17 mol.L-1
+
+### Partie II : Réactions acido-basiques
+
+1- L'équation modélisant la réaction du dosage :
+CnH2n+1COOH(aq) + HO-(aq) ⟶ CnH2n+1COO-(aq) + H2O(l)
+
+2- Détermination de CA :
+La relation d'équivalence : CA.VA = CB.VBE ⟹ CA = CB.VBE / VA
+A.N : CA = 0,10 × 10,0 / 10,0 ⟹ CA = 0,10 mol.L-1
+Déduction de la formule chimique de l'acide :
+M(CnH2n+1COOH) = 12n + (2n+1) × 1 + 12 + 16 × 2 + 1 = 14n + 46
+CA = m/(M.V) ⟹ M = m/(CA.V) ⟹ 14n + 46 = m/(CA.V) ⟹ n = m/(14.CA.V) − 46/14
+n = 2,3/(14 × 0,10 × 0,5) − 46/14 = 0
+La formule chimique de l'acide est HCOOH.
+
+3-1- Détermination de τ :
+τ = xf / xmax
+D'après le tableau d'avancement : xéq = [H3O+]éq.V = 10-pH.V et xmax = CA.V
+τ = 10-pH.V / (CA.V) ⟹ τ = 10-pH / CA
+A.N : τ = 10-2,38 / 0,10 = 0,042 < 1 ⟹ τ = 4,2 %
+On déduit que la réaction est limitée.
+
+3-2- La valeur du rapport [HCOO-]éq / [HCOOH]éq :
+D'après le tableau d'avancement : [H3O+]éq = [HCOO-]éq = xéq/V = 10-pH
+[HCOOH]éq = (CA.V − xéq)/V = CA − xéq/V = CA − 10-pH
+[HCOO-]éq / [HCOOH]éq = 10-pH / (CA − 10-pH) = 10-2,38 / (0,10 − 10-2,38)
+⟹ [HCOO-]éq / [HCOOH]éq = 4,4.10-2
+
+3-3- Vérification de la valeur du pKA :
+pH = pKA1 + log([HCOO-]éq/[HCOOH]éq) ⟹ pKA1 = pH − log([HCOO-]éq/[HCOOH]éq)
+A.N : pKA1 = 2,38 − log(4,2.10-2) ⟹ pKA1 = 3,74
+
+4- Expression du pH en fonction de pKA1 et pKA2 :
+Pour le couple HCOOH/HCOO- : pH = pKA1 + log([HCOO-]éq/[HCOOH]éq)
+Pour le couple CH3COOH/CH3COO- : pH = pKA2 + log([CH3COO-]éq/[CH3COOH]éq)
+Le tableau de variation de la réaction de HCOOH avec CH3COO- donne :
+[HCOOH]éq = [CH3COO-]éq = (C1.V1 − xéq)/V ; [HCOO-]éq = [CH3COOH]éq = xéq/V
+pH = pKA1 + log([HCOO-]éq/[HCOOH]éq) ⟹ log([HCOO-]éq/[HCOOH]éq) = pH − pKA1
+pH = pKA2 + log([HCOOH]éq/[HCOO-]éq) = pKA2 − log([HCOO-]éq/[HCOOH]éq)
+pH = pKA2 − (pH − pKA1) ⟹ 2pH = pKA1 + pKA2 ⟹ pH = (pKA1 + pKA2)/2
+Déduction de pKA2 :
+pKA2 = 2pH − pKA1 = 2 × 4,25 − 3,74 ⟹ pKA2 = 4,76
+
+## Exercice 2 : Ondes (2,5 points) - Transformations nucléaires (2,25 points)
+
+### I - Propagation des ondes mécaniques et des ondes électromagnétiques
+
+1- Le nombre d'affirmations justes : 1
+
+2-1- L'affirmation juste est :
+Lors de la diffraction d'une onde mécanique progressive périodique, sa fréquence ne change pas.
+
+2-2- Le son émis par un haut-parleur est une onde : mécanique, longitudinale.
+
+3-1- Le schéma du montage de diffraction : voir schéma.
+
+3-2- La valeur de a :
+D'après la figure : tan θ = ℓ1/(2D) ; tan θ ≈ θ ⟹ θ = ℓ1/(2D)
+On a : θ = λ1/a ⟹ ℓ1/(2D) = λ1/a
+c = λ1.f1 ⟹ λ1 = c/f1
+a = 2D.c / (ℓ1.f1)
+A.N : a = 2 × 1,6 × 3.108 / (8.10-2 × 4,76.1014) = 2,52.10-5 m ⟹ a = 25,2 μm
+
+3-3- Comment varie la largeur de la tache centrale ?
+D'après la relation ℓ/(2D) = λ/a ⟹ ℓ = 2λD/a.
+Puisque D = cte et a = cte, plus la valeur de λ augmente, plus la largeur ℓ de la tache centrale augmente.
+λ1 = c/f1 = 3.108 / 4,76.1014 = 6,30.10-7 m = 630 nm
+On remarque que λ2 = 450 nm < λ1, donc la largeur de la tache centrale diminue.
+
+### II - L'activité du polonium
+
+1- L'équation de désintégration du polonium 210 :
+210/84 Po ⟶ A/Z X + 4/2 He
+Lois de Soddy : 210 = A + 4 et 84 = Z + 2 ⟹ A = 206 et Z = 82 ⟹ A/Z X = 206/82 Pb
+210/84 Po ⟶ 206/82 Pb + 4/2 He
+
+2-1- Calcul de l'énergie |E1| :
+E1 = [m(206/82 Pb) + m(4/2 He) − m(210/84 Po)].c²
+E1 = (205,930 + 4,00151 − 209,9374) u.c² = −0,00589 u.c²
+E1 = −0,00589 × 931,5 MeV.c-2 . c² = −5,487 MeV
+|E1| ≈ 5,49 MeV
+
+2-2- Déduction de l'énergie |E2| :
+N = m / m(210/84 Po)   (1)
+|E2| = N.|E1| ⟹ |E2| = m.|E1| / m(210/84 Po)
+A.N : |E2| = 10.10-9 kg... = (10.10-3 g) / (209,9374 × 1,6605.10-27) × 5,49 × 1,6.10-13 ⟹ |E2| ≈ 2,52.1010 J
+
+3- Détermination de t1/2 :
+La loi de décroissance radioactive : a = a0.e-λt ⟹ a/a0 = e-λt ⟹ −λ.t = ln(a/a0)
+(ln2/t1/2).t = −ln(a/a0) ⟹ t1/2 = −ln2 / ln(a/a0) × Δt
+A.N : t1/2 = −ln2 / ln(95/100) × (245 + 37/60) × 1/24 ⟹ t1/2 = 138,3 jours
+
+4- Calcul de la masse maximale mmax :
+D'après la relation (1) : N = m/m(210/84 Po) et Nmax = mmax/m(210/84 Po)
+amax = λ.Nmax ⟹ amax = λ.mmax/m(210/84 Po) ⟹ mmax = amax.m(210/84 Po)/λ
+mmax = amax.m(210/84 Po).t1/2 / ln2
+A.N : mmax = 740 × 209,9374 × 1,6605.10-27 × 103 × 138,3 × 24 × 3600 / ln2
+⟹ mmax = 4,45.10-9 g
+
+## Exercice 3 : Electricité (5,5 points)
+
+### Partie I
+
+1- Réponse d'un dipôle RC à un échelon de tension ascendant
+
+1-1-1- L'équation différentielle vérifiée par i(t) :
+Loi d'additivité des tensions : uR + uC = E
+R.i + uC = E ⟹ d(R.i)/dt + duC/dt = 0 ⟹ R.di/dt + (1/C).i = 0
+R.C.di/dt + i = 0
+
+1-1-2- L'expression de i(t) :
+i(t) = A.e-t/τ ⟹ di/dt = −(A/τ).e-t/τ
+On remplace dans l'équation différentielle :
+−R.C.(A/τ).e-t/τ + A.e-t/τ = 0 ⟹ A.e-t/τ (−R.C/τ + 1) = 0
+−R.C/τ + 1 = 0 ⟹ τ = R.C
+On détermine A en utilisant les conditions initiales :
+uR(0) + uC(0) = E ⟹ R.i(0) + uC(0) = E
+uC(0) = 0 ⟹ i(0) = E/R
+i(0) = A ⟹ A = E/R
+i(t) = (E/R).e-t/(R.C)
+
+1-2-1- La courbe de capacité C1 :
+On a τ = R.C : plus la valeur de C augmente, plus celle de τ augmente.
+On a C2 > C1 ⟹ τ2 > τ1 : la courbe (b) correspond à C1.
+[Note : l'énoncé indique C2 < C1 ; la correction raisonne avec C2 > C1.]
+
+1-2-2- Montrons que i = 2,2 mA à t = τ :
+i(τ) = (E/R).e-τ/(R.C) ⟹ i(τ) = i(0).e-1
+Graphiquement i(0) = 6 mA
+i(τ) = 6.e-1 ⟹ i(τ) = 2,2 mA
+
+1-2-3- Montrons que C1 = 4 μF :
+Ce = C1 + C2 ⟹ C1 = Ce − C2
+D'après la courbe (b) : τ2 = 6 ms avec τ2 = R.C2
+D'après la courbe (a) : τ1 = 4 ms avec τ1 = R.C1
+τ2/τ1 = R.C2/(R.C1) = C2/C1 ⟹ C2 = (6/4).C1 = (3/2).C1
+Ce = C1 + C2 ⟹ C1 + (3/2).C1 = Ce ⟹ (5/2).C1 = Ce ⟹ C1 = (2/5).Ce = (2/5) × 10 ⟹ C1 = 4 μF
+
+1-2-4- La valeur de R et de E :
+τ1 = R.C1 ⟹ R = τ1/C1
+A.N : R = 4.10-3 / 4.10-6 ⟹ R = 103 Ω
+i(0) = E/R ⟹ E = i(0).R
+A.N : E = 6.10-3 × 103 ⟹ E = 6 V
+
+2- Décharge d'un condensateur dans une bobine
+
+2-1- L'équation différentielle vérifiée par uR1 :
+D'après la loi d'additivité des tensions :
+ub + uR1 + uC1 = 0 ⟹ dub/dt + duR1/dt + duC1/dt = 0
+L.d²i/dt² + duR1/dt + (1/C1).i = 0
+Loi d'Ohm : uR1 = R1.i ⟹ i = uR1/R1
+d²i/dt² = (1/R1).d²uR1/dt²
+(L/R1).d²uR1/dt² + duR1/dt + uR1/(R1.C1) = 0 ⟹ d²uR1/dt² + (R1/L).duR1/dt + uR1/(L.C1) = 0
+
+2-2- La valeur de R1 :
+A t = 0 : ub(0) + uR1(0) + uC1(0) = 0
+uR1(0) = 0 et uC1(0) = E ⟹ ub(0) = −E
+ub = L.di/dt = (L/R1).duR1/dt
+(L/R1).duR1/dt = −E ⟹ R1 = −(L/E).duR1/dt
+R1 = −(0,1/6) × ((0 + 0,2)/(0 − 0,5.10-3)) ⟹ R1 = 6,67 Ω
+
+### Partie II : Etude d'un signal modulé en amplitude
+
+1- La valeur de N1 et N2 :
+N1 = F − f = 105 − 103 ⟹ N1 = 9,9.104 Hz
+N2 = F + f = 105 + 103 ⟹ N2 = 1,01.105 Hz
+
+2- Expression du taux de modulation m :
+m = Sm / U0
+
+3-1- La détermination graphique de m :
+m = (USmax − USmin)/(USmax + USmin)
+USmin = 0,5 V et USmax = 2 V
+m = (2 − 0,5)/(2 + 0,5) = 2/3 ⟹ m ≈ 0,67
+
+3-2- Les valeurs des tensions U0 et Um :
+D'après la figure 5 : Sm = 2 V
+m = Sm/U0 ⟹ U0 = Sm/m = 2/(2/3) ⟹ U0 = 3 V
+USmax = A(m + 1) ⟹ k.U0.Um(m + 1) = USmax
+Um = USmax / (k.U0(m + 1)) = 2 / (0,1 × 3 × (2/3 + 1)) ⟹ Um = 4 V
+
+## Exercice 4 : Mécanique (3,25 points)
+
+### Partie I : Mouvement de chute verticale d'une bille dans un liquide visqueux
+
+1- L'équation différentielle :
+Système étudié : {la bille}
+Bilan des forces : P⃗ le poids ; F⃗ la poussée d'Archimède ; f⃗ la force de frottement fluide.
+Application de la deuxième loi de Newton dans un repère lié à la Terre supposé galiléen :
+Σ F⃗ext = m.a⃗G ⟺ P⃗ + F⃗ + f⃗ = m.a⃗G
+Projection sur l'axe Oz :
+P − F − f = m.az ⟺ ρS.V.g − ρ.V.g − 6πη.r.v = ρS.V.dv/dt
+dv/dt + (6πη.r)/(ρS.V).v = (1 − ρ/ρS).g
+dv/dt + 6πη.r/(ρS.(4/3).π.r3).v = (1 − ρ/ρS).g
+dv/dt + 9η/(2ρS.r²).v = (1 − ρ/ρS).g
+On pose : 1/τ = 9η/(2ρS.r²) ⟹ τ = 2ρS.r²/(9η)
+dv/dt + (1/τ).v = (1 − ρ/ρS).g
+
+2- L'expression de la viscosité :
+Quand la bille atteint sa vitesse limite, l'équation différentielle s'écrit :
+(1/τ).vlim = (1 − ρ/ρS).g ⟹ 9η/(2ρS.r²).vlim = (1 − ρ/ρS).g
+⟹ η = (2ρS.r².g)/(9.vlim) . (1 − ρ/ρS)
+A.N : η = 2 × 4490 × (6,3.10-3)² × 9,81 / (9 × 1) × (1 − 860/4490) ⟹ η = 0,314 Pa.s
+
+3- Calcul de z(t) à t = 7τ :
+On a : z(t) = vlim.[t + τ(e-t/τ − 1)]
+z(7τ) = vlim.[7τ + τ(e-7 − 1)] ≈ τ.vlim.[7 + (e-1 − 1)]
+(1/τ).vlim = (1 − ρ/ρS).g ⟹ τ = vlim / ((1 − ρ/ρS).g)
+z(7τ) = vlim² / ((1 − ρ/ρS).g) . [7 + (e-1 − 1)]
+A.N : z(7τ) = 1² / ((1 − 860/4490) × 9,81) × [7 + (e-1 − 1)] = 0,803 m ⟹ z(7τ) = 80,3 cm
+Explication :
+La bille atteint sa vitesse limite alors que sa cote vaut z(7τ) = 80,3 cm.
+On a z(7τ) < h, donc la bille atteint sa vitesse limite avant d'arriver au fond du tube.
+Ce tube est donc convenable pour la mesure expérimentale de vlim.
+
+### Partie II : Mouvement d'un projectile dans le champ de pesanteur
+
+1- Les équations horaires :
+Système étudié : {le projectile}
+Bilan des forces : P⃗ le poids.
+Application de la deuxième loi de Newton dans le repère R(O, i⃗, j⃗) lié à la Terre supposé galiléen :
+P⃗ = m.a⃗G ⟺ m.g⃗ = m.a⃗G ⟺ a⃗G = g⃗
+Projection sur les axes Ox et Oy :
+ax = 0 et ay = −g ⟹ ax = dvx/dt , ay = dvy/dt
+Intégration : vx = C1 ; vy = −g.t + C2
+D'après les conditions initiales :
+v⃗0 : C1 = v0x = v0.cosα ; C2 = v0y = v0.sinα ; OG⃗0 : C3 = x0 = 0 ; C4 = y0 = 0
+vx = dx/dt = v0.cosα ; vy = dy/dt = −g.t + v0.sinα
+Intégration : x(t) = v0.cosα.t ; y(t) = −(1/2).g.t² + v0.sinα.t
+
+2- L'équation de la trajectoire :
+On élimine le temps entre les deux équations horaires :
+x = v0.cosα.t ⟹ t = x/(v0.cosα)
+y = −(1/2).g.(x/(v0.cosα))² + v0.sinα.(x/(v0.cosα)) ⟹ y = −g.x²/(2v0².cos²α) + x.tanα
+
+3-1- Les valeurs de l'angle α pour atteindre la cible A :
+yA = −g.xA²/(2v0².cos²α) + xA.tanα
+100 = −(10/(2 × 100²)) × 400² × (1/cos²α) + 400.tanα
+⟹ −80(1 + tan²α) + 400.tanα − 100 = 0
+tan²α − 5.tanα + 2,25 = 0
+√Δ = √(5² − 4 × 2,25) = 4
+tanα1 = (5 − 4)/2 = 0,5 ⟹ α1 = tan-1(0,5) ⟹ α1 = 26,56 °
+tanα2 = (5 + 4)/2 = 4,5 ⟹ α2 = tan-1(4,5) ⟹ α2 = 77,47 °
+
+3-2- L'équation de la parabole de sûreté (c) :
+D'après l'équation de la trajectoire :
+y = −g.x²/(2v0².cos²α) + x.tanα = −(g.x²/(2v0²)).(1 + tan²α) + x.tanα
+y = −(g.x²/(2v0²)).tan²α + x.tanα − g.x²/(2v0²)
+dy/d(tanα) = −(g.x²/v0²).tanα + x = 0 ⟹ tanα = v0²/(g.x)
+On remplace tanα dans l'équation de la trajectoire :
+y = −(g.x²/(2v0²)).(v0²/(g.x))² + x.(v0²/(g.x)) − g.x²/(2v0²)
+y = −v0²/(2g) + v0²/g − (g/(2v0²)).x²
+⟹ y(x) = −(g/(2v0²)).x² + v0²/(2g)

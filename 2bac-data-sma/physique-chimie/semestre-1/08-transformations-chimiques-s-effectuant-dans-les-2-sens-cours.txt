@@ -1,0 +1,163 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Transformations chimiques s'effectuant dans les 2 sens
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 8 (Transformations chimiques s'effectuant dans les 2 sens)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Réactions Acido-Basiques
+
+### 1-1/ Définition de Bronsted
+
+On appelle acide de Bronsted toute espèce chimique capable de céder un proton $H^{+}$ pendant une transformation chimique.
+
+On appelle base de Bronsted toute espèce chimique capable de capter un proton $H^{+}$ pendant une transformation chimique.
+
+### 1-2/ Notion de couple acide-base
+
+Un couple Acide/Base (noté A/B) est constitué d'um acide A et de sa base conjuguée B qui sont généralement liés par la demi-équation :
+
+$\overline{\left.\right)A \rightleftarrows H^{+} + B}$
+
+#### Example
+
+L'acide $C H_{3} C O O H$ et sa base conjuguée $C H_{3} C O O^{-}$ sont liés par la demi-équation :
+
+$\overline{\left.\right)C H_{3} C O O H \rightleftarrows C H_{3} C O O^{-} + H^{+}}$
+
+Le couple acide-base correspondant est :
+
+$\overline{\left.\right)C H_{3} C O O H / C H_{3} C O O^{-}}$
+
+### 1-3/ Exemples de quelques couples acide-base
+
+On donne dans le tableau suivant l'exemple de quelques couples acide-base :
+
+| Couple acide/base | Acide | Base conjuguée | Demi-équation de réaction |
+|---|---|---|---|
+| $C H_{3} C O O H / C H_{3} C O O^{-}$ | $C H_{3} C O O H$ | $C H_{3} C O O^{-}$ | $C H_{3} C O O H \rightleftharpoons / C H_{3} C O O^{-} + H^{+}$ |
+| $N H_{4}^{+} / N H_{3}$ | $N H_{4}^{+}$ | $N H_{3}$ | $N H_{4}^{+} \rightleftarrows / N H_{3} + H^{+}$ |
+| $H_{3} O^{+} / H_{2} O$ | $H_{3} O^{+}$ | $H_{2} O$ | $H_{3} O^{+} \rightleftarrows / H_{2} O + H^{+}$ |
+
+### 1-4/ Réactions acido-basiques
+
+Au cours d'une réaction acido-basique, il y'a échange d'un proton $H^{+}$ entre deux couples acide-base : $A_{1} / B_{1}$ et $A_{2} / B_{2}$.
+
+L'équation de la réaction entre l'acide $A_{1}$ du 1er couple et la base $B_{2}$ du 2ème couple s'écrit :
+
+$\overline{\left.\right) A_{1} \rightleftarrows B_{1} + H^{+} \\ B_{2} + H^{+} \rightleftarrows A_{2} \\ - - - - - - - - \\ A_{1} + B_{2} \rightleftarrows B_{1} + A_{2}}$
+
+## II- Définition du pH d'une solution aqueuse
+
+### 2-1/ Définition du pH
+
+Les propriétés acido-basique d'une solution aqueuse dépendent de la concentration des ions oxonium $H_{3} O^{+}$ liée au pH de la solution par la relation suivante :
+
+$\overline{\left.\right)p H = - l o g \left[\right. H_{3} O^{+} \left]\right.}$ $\overline{\left.\right)pH = - log \left[\right. H_{3} O^{+} \left]\right.} \Leftrightarrow \overline{\left.\right) \left[\right. H_{3} O^{+} \left]\right. = 10^{- pH}}$
+
+- Le pH est une grandeur sans unité.
+- $\left[\right. H_{3} O^{+} \left]\right.$ est exprimée en mol/L dans la relation de pH.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s6/img1.jpg)
+
+### 2-2/ Mesure du pH
+
+On peut avoir une indication de la valeur du pH en utilisant un papier pH qui prend une couleur plus ou moins rougeâtre selon l'acidité de la solution :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s6/img3.jpg)
+
+Pour mesurer le pH d'une solution de façon précise on utilise le pH-mètre qui se compose d'une sonde de mesure reliée à un voltmètre électronique gradué en unité de pH :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s6/img2.png)
+
+On doit étalonner le pH-mètre avant toute mesure.
+
+## III- Avancement d'une réaction chimique
+
+### 3-1/ Avancement final et avancement maximal
+
+L'avancement d'une réaction est la quantité de matière $x$ des réactifs qui disparaît ou des produits qui se forment selon les coefficients stœchiométriques.
+
+L'avancement maximal $x_{m a x}$ est l'avancement qui correspond à la disparition du réactif limitant.
+
+L'avancement final $x_{f}$ est la valeur de l'avancement qui correspond à l'état final d'une réaction limitée.
+
+### 3-2/ Taux d'avancement final d'une réaction chimique
+
+Le taux d'avancement final d'une réaction chimique est le quotient de l'avancement final par l'avancement maximal :
+
+$\overline{\left.\right)\tau = \frac{x_{f}}{x_{m a x}}}$
+
+Le taux d'avancement est une grandeur sans unité.
+
+- Si $\tau = 1 \Rightarrow \left(\right. x_{f} = x_{m a x} \left.\right)$ donc la réaction est totale.
+- Si $\tau < 1 \Rightarrow \left(\right. x_{f} < x_{m a x} \left.\right)$ donc la réaction est limitée.
+
+### 3-3/ Détermination expérimentale du taux d'avancement final (Exercice)
+
+On introduit dans un bécher un volume $V = 500 c m^{3}$ d'eau distillée et on lui ajoute un volume $V = 1 c m^{3}$ d'une solution d'acide éthanoïque pure.
+
+On mesure de le pH du mélange à l'aide d'un pH mètre et on obtient : $p H = 3 , 1$
+
+La réaction de l'acide éthanoïque avec l'eau s'écrit :
+
+$\overline{\left.\right)C H_{3} C O O H_{\left(\right. aq \left.\right)} + H_{2} O_{\left(\right. l \left.\right)} \rightarrowtail CH_{3} COO_{\left(\right. aq \left.\right)}^{-} + H_{3} O_{\left(\right. aq \left.\right)}^{+}}$
+
+La densité de l'acide éthanoïque : $d = 1 , 05$
+
+La masse volumique de l'eau : $\rho_{e a u} = 1 g . c m^{- 3}$
+
+La masse molaire de la molécule d'acide éthanoïque : $M \left(\right. C H_{3} C O O H \left.\right) = 60 g . m o l^{- 1}$
+
+1. Déterminer la quantité de matière initiale de l'acide éthanoïque.
+2. Dresser le tableau d'avancement de la réaction puis déterminer la valeur de l'avancement maximal.
+3. Déterminer la valeur de l'avancement final. Quelle est votre conclusion ?
+4. Calculer le taux d'avancement final de la réaction.
+
+## IV- Équilibre chimique d'un système chimique
+
+### 4-1/ Notion d'équilibre dynamique
+
+Les ions éthanoate $C H_{3} C O O^{-}$ réagissent avec les ions oxoniums $H_{3} O^{+}$ et cette réaction est aussi une réaction limitée.
+
+$\overline{\left.\right)C H_{3} C O O^{-} + H_{3} O^{+} \rightarrow C H_{3} C O O H + H_{2} O}$
+
+C'est la réaction inverse de celle de l'acide éthanoïque avec l'eau.
+
+Ces deux réactions se produisent en même temps et conduisent à un équilibre chimique qu'on symbolise par deux flèches :
+
+$\overline{\left.\right)C H_{3} C O O^{-} + H_{3} O^{+} \rightleftarrows C H_{3} C O O H + H_{2} O}$
+
+Lorsque l'équilibre chimique est atteint, les quantités de matière des réactifs et des produits ne varient pas et le système n'évolue plus.
+
+C'est ce qu'on appelle : état d'équilibre dynamique.
+
+On constate ceci à partir du tableau d'avancement :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s6/img4.bmp)
+
+Lorsque l'équilibre dynamique est atteint la réaction apparait comme s'elle n'évolue plus.
+
+### 4-2/ Interprétation microscopique de l'état d'équilibre d'un système
+
+On considère le système chimique : $A + B \rightleftarrows C + D$
+
+A l'état initial le système contient les espèces chimiques A et B, la réaction se produit dans le sens (1) avec la vitesse $v_{1}$.
+
+Au cours du temps l'avancement augmente, par conséquence :
+
+- Les quantités des espèces A et B ainsi que les chocs entre elles diminuent donc diminution de $v_{1}$.
+- Les espèces C et D apparaissent et la réaction se produit dans le sens (2) avec la vitesse $v_{2}$, leur quantité ainsi que les chocs entre elles augmentent donc augmentation de $v_{2}$.
+
+Lorsque les deux vitesses $v_{1}$ et $v_{2}$ s'égalisent, le système n'évolue plus : C'est l'état d'équilibre dynamique.
+
+Au niveau macroscopique le système ne semble pas évoluer
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s6/img5.bmp)

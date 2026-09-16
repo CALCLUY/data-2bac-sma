@@ -1,0 +1,167 @@
+---
+Type: Examen National
+Année: 2013
+Session: Rattrapage
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2013 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة الفرنسية
+RS25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte cinq exercices indépendants deux à deux.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- Le premier exercice se rapporte aux structures algébriques.
+- Le deuxième exercice se rapporte au calcul des probabilités
+- Le troisième exercice se rapporte aux nombres complexes.
+- Le quatrième exercice se rapporte à l'analyse.
+- Le cinquième exercice se rapporte à l'analyse.
+
+L'USAGE DES CALCULATRICES NON PROGRAMMABLES EST AUTORISÉ
+L'usage de la couleur rouge n'est pas permis
+
+## Exercice 1 : (3,5 points) — les parties I et II sont indépendantes
+
+**I-** Pour tout $x$ et $y$ de l'intervalle $G = \left]1 , 2\right[$ on pose :
+
+$$x \ast y = \frac{2\left(x - 1\right)\left(y - 1\right) + \ldots}{\left(x - 1\right)\left(y - 1\right) + \ldots}$$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- Montrer que $\ast$ est une loi de composition interne dans $G$
+
+2- On rappelle que $\left(\mathbb{R}^{*}_{+} , \times\right)$ est un groupe commutatif.
+
+On considère l'application $f$ de $\mathbb{R}^{*}_{+}$ vers $G$ définie par : $f(x) = \dfrac{2x + 1}{x + 1}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — a) Montrer que $f$ est un isomorphisme de $\left(\mathbb{R}^{*}_{+} , \times\right)$ dans $\left(G , \ast\right)$
+
+0,5 — b) En déduire que $\left(G , \ast\right)$ est un groupe commutatif dont on déterminera l'élément neutre.
+
+**II-** On rappelle que $\left(M_{3}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire dont le zéro est $O = \begin{pmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{pmatrix}$
+
+et l'unité est $I = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$ et que $\left(M_{3}(\mathbb{R}) , + , \cdot\right)$ est un espace vectoriel réel
+
+et on pose : $A = \begin{pmatrix} 0 & 3 & 2 \\ 0 & 0 & 1 \\ 0 & 0 & 0 \end{pmatrix}$
+
+0,5 — 1- a) Vérifier que : $A^{3} = O$ et en déduire que $A$ est un diviseur de zéro dans l'anneau $\left(M_{3}(\mathbb{R}) , + , \times\right)$
+
+0,5 — b) Vérifier que : $\left(A + I\right)\left(A^{2} - A + I\right) = I$ [FORMULA_IMAGE_UNREADABLE] en déduire que la matrice $A + I$ admet un inverse dans $\left(M_{3}(\mathbb{R}) , + , \times\right)$ que l'on déterminera.
+
+0,75 — 2- Pour tout $a$ et $b$ de $\mathbb{R}$ on pose : $M(a , b) = aI + bA$ et l'on considère l'ensemble $E = \left\{ M(a , b) \ / \ (a , b) \in \mathbb{R}^{2} \right\}$
+
+Montrer que $\left(E , + , \cdot\right)$ est un espace vectoriel réel dont on déterminera une base.
+
+## Exercice 2 : (3 points)
+
+Une urne contient 3 boules rouges et 4 boules noires indiscernables au toucher.
+
+**I-** On tire au hasard successivement et avec remise quatre boules de l'urne, et on considère la variable aléatoire $X$ égale au nombre de boules noires tirées.
+
+1 — 1- Déterminer la loi de probabilité de la variable aléatoire $X$
+
+0,5 — 2- Calculer $E(X)$ l'espérance mathématique de la variable aléatoire $X$
+
+**II-** On réalise l'expérience aléatoire suivante en trois étapes :
+
+Étape 1 : On tire une boule de l'urne, on marque sa couleur et on la remet dans l'urne.
+
+Étape 2 : On ajoute dans l'urne 5 boules de même couleur que la boule tirée à l'étape 1
+
+Étape 3 : On tire successivement et sans remise 3 boules de l'urne qui contient alors 12 boules après l'étape 2
+
+On considère les évènements suivants :
+
+$N$ "la boule tirée à l'étape 1 est noire"
+
+$R$ "la boule tirée à l'étape 1 est rouge"
+
+$E$ "toutes les boules tirées à l'étape 3 sont noires"
+
+0,5 — 1) Montrer que : $p\left(E / N\right) = \dfrac{12}{55}$
+
+0,5 — 2) Calculer $p(E)$
+
+0,5 — 3) Calculer la probabilité de l'événement $R$ sachant que $E$ est réalisé.
+
+## Exercice 3 : (3,5 points)
+
+**I-** Soit $a$ un nombre complexe différent de $1$
+
+On considère dans l'ensemble $\mathbb{C}$ l'équation : $(E) : 2z^{2} - 2\left(1 + a\right) z + \left(1 + a^{2}\right) = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1) Montrer que : $z_{1} = \dfrac{1}{2}\left(1 + a + i\left(1 - a\right)\right)$ [FORMULA_IMAGE_UNREADABLE] et $z_{2} = \dfrac{1}{2}\left(1 + a - i\left(1 - a\right)\right)$ [FORMULA_IMAGE_UNREADABLE] sont les deux solutions de l'équation $(E)$
+
+2) On prend $a = e^{i\theta}$ avec $0 < \theta < \pi$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a- Montrer que : $1 - a = -2i \sin\left(\frac{\theta}{2}\right) e^{i\frac{\theta}{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — b- En déduire la forme trigonométrique de $z_{1}$ et $z_{2}$
+
+**II -** Le plan complexe étant rapporté à un repère orthonormé direct $\left(O , \overrightarrow{u} , \overrightarrow{v}\right)$
+
+On admet que $\operatorname{Re}(a) \neq 0$ et on considère les points $A(a)$, $B(i)$, $C(-i)$ et $B'(1)$
+
+0,5 — 1) Déterminer en fonction de $a$, les affixes des points $J$ et $K$ milieux respectifs de $[AC]$ et $[AB]$
+
+2) Soit $r_{1}$ la rotation de centre $J$ et d'angle $\frac{\pi}{2}$ et $r_{2}$ la rotation de centre $K$ et d'angle $-\frac{\pi}{2}$
+
+On pose $C' = r_{1}(C)$ et $A' = r_{2}(A)$ et soient $c'$ l'affixe de $C'$ et $a'$ l'affixe de $A'$
+
+0,5 — Montrer que : $a' = z_{1}$ et $c' = z_{2}$
+
+0,5 — 3) Calculer $\dfrac{a' - c'}{a - 1}$ [FORMULA_IMAGE_UNREADABLE] et en déduire que la droite $\left(AB'\right)$ est une hauteur du triangle $A'B'C'$
+
+## Exercice 4 : (8,25 points)
+
+1- Soit $f$ la fonction numérique définie sur $\left[0 , +\infty\right[$ par : $f(x) = \dfrac{1}{\sqrt{1 + x^{2} \ln^{2} x}}$ [FORMULA_IMAGE_UNREADABLE] , $f(0) = 1$
+
+0,5 — a) Montrer que $f$ est continue à droite au point $0$, puis calculer $\lim\limits_{x \to +\infty} f(x)$
+
+0,5 — b) Étudier la dérivabilité de $f$ à droite au point $0$ (On pourra utiliser le résultat $\lim\limits_{x \to 0^{+}} x \ln^{2} x = 0$)
+
+0,5 — c) Montrer que $f$ est dérivable sur $\left]0 , +\infty\right[$ et que : $\left(\forall x > 0\right) \ ; \ f'(x) = \dfrac{-x \ln x \left(1 + \ln x\right)}{\left(1 + x^{2} \ln^{2} x\right)^{\frac{3}{2}}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — d) Donner le tableau de variation de la fonction $f$
+
+2- Soit $F$ la fonction numérique définie sur $\left[0 , +\infty\right[$ par : $F(x) = \displaystyle\int_{0}^{x} f(t)\,dt$
+
+et soit $\left(C_{F}\right)$ la courbe représentative de $F$ dans un repère orthonormé $\left(O ; \overrightarrow{i} , \overrightarrow{j}\right)$
+
+0,25 — a) Déterminer une primitive de la fonction $x \mapsto \dfrac{1}{x \ln x}$ sur l'intervalle $\left]e , +\infty\right[$
+
+0,5 — b) Montrer que : $\left(\forall t \geq e\right) \ ; \ 1 + t^{2} \ln^{2} t \leq 2t^{2} \ln^{2} t$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — c) Montrer que : $\left(\forall x \geq e\right) \ ; \ \displaystyle\int_{e}^{x} \frac{1}{\sqrt{1 + t^{2} \ln^{2} t}}\,dt \geq \frac{1}{\sqrt{2}} \left(\ln(\ln x) - \ln(\ln e)\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — d) En déduire que : $\lim\limits_{x \to +\infty} F(x) = +\infty$ et $\lim\limits_{x \to +\infty} \dfrac{F(x)}{x} = 0$
+
+0,5 — e) Montrer que $\left(C_{F}\right)$ admet deux points d'inflexions dont on déterminera les abscisses.
+
+1 — f) Construire $\left(C_{F}\right)$ (on prend $F(1) \simeq 0,5$ et $F\left(\dfrac{1}{e}\right) \simeq 0,4$)
+
+3- Pour tout $x$ de $\left[0 , +\infty\right[$ on pose : $\varphi(x) = x + F(x)$
+
+0,75 — a) Montrer que $\lim\limits_{x \to +\infty} \varphi(x) = +\infty$ et étudier les variations de $\varphi$
+
+0,5 — b) Montrer que pour tout entier naturel $n$, l'équation $\varphi(x) = n$ admet une seule solution $\alpha_{n}$ dans l'intervalle $\left[0 , +\infty\right[$
+
+0,5 — c) Montrer que : $\left(\forall n \in \mathbb{N}\right) \ ; \ \alpha_{n} \leq n$ puis calculer : $\lim\limits_{n \to +\infty} \alpha_{n}$
+
+0,5 — 4- a) Montrer que : $\left(\forall n \geq 1\right) \ ; \ 0 \leq F(n) - F\left(\alpha_{n}\right) \leq \left(n - \alpha_{n}\right) f\left(\alpha_{n}\right)$ [FORMULA_IMAGE_UNREADABLE] (On pourra utiliser le théorème des accroissements finis)
+
+0,5 — b) Calculer : $\lim\limits_{n \to +\infty} \dfrac{\alpha_{n}}{n}$
+
+## Exercice 5 : (1,75 points)
+
+Pour tout entier naturel non nul $n$ on pose : $u_{n} = \left(\dfrac{\arctan n}{\arctan\left(n + 1\right)}\right)^{n^{2}}$ [FORMULA_IMAGE_UNREADABLE] et $v_{n} = \ln\left(u_{n}\right)$
+
+0,25 — 1- Vérifier que : $\left(\forall n \geq 1\right) \ ; \ v_{n} = n^{2}\left(\ln\left(\arctan n\right) - \ln\left(\arctan\left(n + 1\right)\right)\right)$
+
+0,5 — 2- En utilisant le théorème des accroissements finis, montrer que : $\left(\exists c \in \left]n , n + 1\right[\right) \ ; \ v_{n} = \dfrac{-n^{2}}{\left(1 + c^{2}\right) \arctan c}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 3- Montrer que : $\left(\forall n \geq 1\right) \ ; \ \dfrac{-n^{2}}{\left(1 + n^{2}\right) \arctan n} \leq v_{n} \leq \dfrac{-n^{2}}{\left(1 + \left(n + 1\right)^{2}\right) \arctan\left(n + 1\right)}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 4- Calculer : $\lim\limits_{n \to +\infty} u_{n}$
+
+FIN

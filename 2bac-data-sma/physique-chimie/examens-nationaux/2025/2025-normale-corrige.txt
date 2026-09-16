@@ -1,0 +1,474 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2025 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+المملكة المغربية — وزارة التربية الوطنية والتعليم الأولي والرياضة
+المركز الوطني للتقويم والامتحانات
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية
+الدورة العادية 2025 — التصحيح
+
+NS 30F
+المادة : الفيزياء والكيمياء
+مدة الإنجاز : 4h
+الشعبة : شعبة العلوم الرياضية (أ) و (ب) - خيار فرنسية
+المعامل : 7
+
+Le corrigé que vous tenez entre vos mains est le résultat du travail des professeurs suivants :
+Aziz Chafiki (Azemmour) • Oussama Benchouk (Tetouan)
+Said El Omrani (LM6E) • Mohamed El Founani (Agadir)
+
+L'usage de la calculatrice scientifique non programmable est autorisé. La formule littérale doit être donnée avant l'application numérique et le résultat accompagné de son unité. Les exercices peuvent être traités selon le choix du candidat. Le sujet comporte cinq exercices : un exercice de chimie et quatre exercices de physique.
+
+Exercice 1 (7 points) :
+- Électrolyse d'une solution de chlorure d'or.
+- Étude d'une solution aqueuse d'éthanoate de sodium.
+
+Exercice 2 (2 points) : l'écoulement silencieux de l'eau dans une conduite cylindrique.
+
+Exercice 3 (1,5 points) : La désintégration du radium 226.
+
+Exercice 4 (4,25 points) :
+- Détermination de la capacité d'un condensateur et de l'inductance d'une bobine.
+- Oscillations forcées dans un circuit RLC série.
+
+Exercice 5 (5,25 points) : Le saut élastique.
+
+## Exercice 1 : Chimie
+
+Les parties 1 et 2 sont indépendantes
+
+### Partie 1 : Électrolyse d'une solution de chlorure d'or
+
+1- La proposition juste est :
+
+c- Lors de l'électrolyse, le courant électrique entre dans l'électrolyseur par $E_1$ donc l'or se dépose sur $E_2$. — 0,25
+
+2- La réaction qui se produit au niveau de la cathode est :
+
+$$Au^{p+}_{(aq)} + pe^- \longrightarrow Au_{(s)}$$ — 0,5
+
+3- On a le tableau d'avancement suivant :
+
+| $Au^{p+}$ | $+\ pe^-$ | $\longrightarrow$ | $Au$ | $n(e^-)$ |
+|---|---|---|---|---|
+| $n_0$ | | | 0 | 0 |
+| $n_0 - x$ | | | $x$ | $px$ |
+
+On sait que : $m = nM$, donc :
+
+$$m(Au) = n(Au) \times M(Au) = xM(Au)$$
+
+Et d'autre part :
+
+$$n(e^-) = px = \frac{It}{F} \iff x = \frac{It}{pF}$$
+
+Par suite :
+
+$$m(Au) = \frac{IM(Au)}{pF}t$$ — 0,5
+
+4- On sait que $m(Au) = f(t)$ est une fonction linéaire, c'est-à-dire $m = \alpha t$, et d'après la figure ci-contre, on peut calculer la pente :
+
+$$\alpha = \frac{\Delta m}{\Delta t} \overset{A.N}{=} \frac{0,65 \times 10^{-3}}{2,4} \approx 2,72 \times 10^{-4}\ g/s$$
+
+Par suite :
+
+$$\alpha = \frac{IM(Au)}{pF} \iff p = \frac{IM(Au)}{\alpha F} \overset{A.N}{=} \frac{0,4 \times 197}{2,72 \times 10^{-4} \times 9,65 \times 10^4} \approx 3$$
+
+[Figure — graphe : $m(mg)$ en fonction de $t(s)$]
+
+Donc le symbole de l'ion de l'or est : $Au^{3+}$. — 1
+
+### Partie 2 : Étude d'une solution aqueuse d'éthanoate de sodium
+
+1-1- La réaction chimique est décrite selon le tableau d'avancement suivant :
+
+| $CH_3COO^-$ | $+\ H_2O$ | $\rightleftharpoons$ | $CH_3COOH$ | $+\ HO^-$ |
+|---|---|---|---|---|
+| $CV$ | Excès | | 0 | 0 |
+| $CV - x_{eq}$ | Excès | | $x_{eq}$ | $x_{eq}$ |
+
+L'expression de la conductivité est :
+
+$$\sigma = \lambda_{Na^+}[Na^+] + \lambda_{CH_3COO^-}[CH_3COO^-] + \lambda_{HO^-}[HO^-]$$
+
+Et d'après le tableau d'avancement :
+
+$$[HO^-] = \frac{x_{eq}}{V},\quad [Na^+] = C \quad\text{et}\quad [CH_3COO^-] = \frac{CV - x_{eq}}{V} = C - [HO^-]$$
+
+Par suite :
+
+$$\sigma = \lambda_{Na^+}C + \lambda_{CH_3COO^-}C - \lambda_{CH_3COO^-}\frac{x_{eq}}{V} + \lambda_{HO^-}\frac{x_{eq}}{V}$$
+
+Or : $x_{eq} = \tau x_m = \tau CV$, alors :
+
+$$\sigma - C(\lambda_{Na^+} + \lambda_{CH_3COO^-}) = \tau C(\lambda_{HO^-} + \lambda_{CH_3COO^-})$$
+
+Par suite :
+
+$$\tau = \frac{\sigma - C(\lambda_{Na^+} + \lambda_{CH_3COO^-})}{C(\lambda_{HO^-} + \lambda_{CH_3COO^-})} \overset{A.N}{=} \frac{\sigma - 0,1 \times 10^3(5 \times 10^{-3} + 4,1 \times 10^{-3})}{10^2(19,9 \times 10^{-3} - 4,1 \times 10^{-3})}$$
+
+$$\tau = \frac{\sigma - 0,91}{1,58}$$
+
+Par application numérique on trouve : $\tau = 7,91 \times 10^{-5}$, il s'agit donc d'une réaction limitée.
+
+1-2- Établissons l'expression de la constante $pK_A$ du couple $CH_3COOH/CH_3COO^-$ :
+
+On sait que :
+
+$$K_A = \frac{[CH_3COO^-][H_3O^+]}{[CH_3COOH]} \quad\text{et}\quad [H_3O^+] = \frac{K_e}{[HO^-]}$$
+
+Et d'après le tableau d'avancement :
+
+$$[CH_3COOH] = [HO^-] = \frac{x_{eq}}{V} = \tau C$$
+
+$$[CH_3COO^-] = \frac{CV - x_{eq}}{V} = C(1 - \tau)$$
+
+D'où :
+
+$$K_A = \frac{C(1-\tau)K_e}{\tau^2C^2} = \frac{(1-\tau)K_e}{\tau^2C}$$
+
+Par suite : $pK_A = -\log K_A = -\log\left(\frac{(1-\tau)K_e}{\tau^2C}\right)$
+
+Donc par application numérique :
+
+$$pK_A = \log\left(\frac{\tau^2C}{(1-\tau)K_e}\right) \overset{A.N}{=} 4,8$$
+
+2-1- Calculons la concentration de la solution $S_1$ :
+
+$$C_1 = \frac{n}{V_1} = \frac{m_1}{V_1M(CH_3COONa)} \overset{A.N}{=} 0,2\ mol/L$$
+
+2-2- On sait d'après ce qui précède que :
+
+$$K_A = \frac{(1 - \tau_1)K_e}{\tau_1^2C_1}$$
+
+Or la réaction est très limitée : $1 - \tau_1 \approx 1$, d'où :
+
+$$K_A = \frac{K_e}{\tau_1^2C_1} \iff \tau_1 = \sqrt{\frac{K_e}{K_AC_1}} \overset{A.N}{=} 5,62 \times 10^{-5}$$
+
+On remarque que $\tau_1 < \tau$ et $C_1 > C$, le taux d'avancement augmente avec la dilution.
+
+3-1- L'équation de la réaction qui se produit dans $S'$ est :
+
+$$CH_3COO^-_{(aq)} + H_3O^+_{(aq)} \longrightarrow CH_3COOH_{(aq)} + H_2O_{(l)}$$
+
+3-2- On a le tableau d'avancement suivant :
+
+| $CH_3COO^-$ | $+\ H_3O^+$ | $\longrightarrow$ | $CH_3COOH$ | $+\ H_2O$ |
+|---|---|---|---|---|
+| $C_0V_0$ | $C_AV_A$ | | 0 | Excès |
+| $C_0V_0 - x_m$ | $C_AV_A - x_m$ | | $x_m$ | Excès |
+
+On remarque que $H_3O^+$ ne réagit pas totalement alors $CH_3COO^-$ est le réactif limitant :
+
+$$x_m = C_0V_0 \iff C_0 = \frac{x_m}{V_0}$$
+
+et $n(H_3O^+) = C_AV_A - x_m \iff x_m = C_AV_A - n(H_3O^+)$
+
+À l'équivalence $H_3O^+$ est consommée totalement avec $HO^-$ ajouté d'où : $n(H_3O^+) = C_BV_{BE}$ alors :
+
+$$C_0 = \frac{x_m}{V_0} = \frac{C_AV_A - C_BV_{BE}}{V_0}$$
+
+Et par suite :
+
+$$m = C_0V_0M = (C_AV_A - C_BV_{BE})M \overset{A.N}{=} (0,1 \times 30 \times 10^{-3} - 0,1 \times 12 \times 10^{-3}) \times 82 = 0,1476\ g$$
+
+3-3- On sait que $m_0 = 164\ mg$ or la masse calculée est $m = 147,6\ mg$, donc :
+
+$$p = \frac{m}{m_0} \approx 90\ \%$$
+
+L'éthanoate de sodium dans le sachet n'est pas pur.
+
+## Exercice 02 : (Les ondes)
+
+1-1- Calculons $v_0$, on sait que :
+
+$$v_0 = \frac{L}{t_1} \overset{A.N}{=} \frac{1}{667 \times 10^{-3}} \approx 1500\ m/s$$
+
+1-2- Pour la longueur d'onde $\lambda$, on a :
+
+$$\lambda = v_0T = \frac{v_0}{N} \overset{A.N}{=} \frac{1500}{50 \times 10^3} = 3\ cm$$
+
+2-1- Trouvons l'expression du retard temporel $\tau = t_1 - t_2$ :
+
+Avec :
+
+$$v = \frac{L}{t_2} \iff t_2 = \frac{L}{v_0 + v_e} \quad\text{et}\quad t_1 = \frac{L}{v_0}$$
+
+Par suite :
+
+$$\tau = \frac{L}{v_0} - \frac{L}{v_0 + v_e} = L\left(\frac{1}{v_0} - \frac{1}{v_0 + v_e}\right) = \frac{Lv_e}{v_0(v_0 + v_e)}$$
+
+2-2- Calculons $v_e$ :
+
+$$\tau = \frac{Lv_e}{v_0(v_0 + v_e)} \iff v_e = \frac{\tau v_0(v_0 + v_e)}{L} \iff v_e = \frac{\tau v_0^2}{L - \tau v_0} \iff v_e \overset{A.N}{=} 0,63\ m/s$$
+
+2-3- Trouvons le diamètre de la conduite pour que $v_e$ atteigne une vitesse silencieuse, donnée par la formule empirique de Croquelois $v_s = \sqrt{0,02\ d}$, donc :
+
+$$v_e = v_s \iff 0,02\ d = v_e^2 \iff d = \frac{v_e^2}{0,02} \iff d \overset{A.N}{=} \frac{0,63^2}{0,02} \approx 19,9\ mm$$
+
+On peut prendre donc un diamètre de 20 mm.
+
+## Exercice 03 : (Physique nucléaire)
+
+1- L'équation de désintégration du radium 226 est :
+
+$$^{226}_{88}Ra \longrightarrow\ ^A_ZRn + ^4_2He$$
+
+D'après la loi de Soddy :
+
+$$\begin{cases} A = 226 - 4 = 222 \\ Z = 88 - 2 = 86 \end{cases}$$
+
+L'équation finale est donc : $^{226}_{88}Ra \longrightarrow\ ^{222}_{86}Rn + ^4_2He$
+
+2-1- Calculons $N_0$ le nombre d'atomes à l'instant $t = 0$ :
+
+$$N_0 = \frac{m_0}{M}N_A \overset{A.N}{=} \frac{6,02 \times 10^{23}}{226} = 2,66 \times 10^{21}$$
+
+2-2- On sait que la loi de décroissance radioactive est donnée par :
+
+$$N(t) = N_0\exp(-\lambda t) \quad\text{où}\quad \lambda = \frac{\ln 2}{t_{1/2}}$$
+
+Alors :
+
+$$N(t) = N_0\exp\left(-\frac{\ln 2}{t_{1/2}}t\right) = N_0(e^{\ln 2})^{-t/t_{1/2}}$$
+
+$$N(t) = N_0\left(\frac{1}{2}\right)^{t/t_{1/2}}$$
+
+2-3- Calculons l'énergie libérée E pendant la durée $\Delta t$ :
+
+On sait que : $E = N_d|\Delta E|$, ainsi :
+
+$$\Delta E = \Delta mc^2 = (m(Rn) + m(He) - m(Ra))c^2$$
+
+$$\overset{A.N}{=} (221,9703 + 4,0015 - 225,9770) \times 931,5\ MeV = 4,84\ MeV$$
+
+Et le nombre des noyaux désintégrés est :
+
+$$N_d = N_0 - N_0\left(\frac{1}{2}\right)^{3t_{1/2}/t_{1/2}} = \frac{7}{8}N_0$$
+
+D'où :
+
+$$E = \frac{7}{8} \times 2,66 \times 10^{21} \times 4,84 \times 1,6 \times 10^{-13} = 1,8 \times 10^9\ J$$
+
+## Exercice 04 : (Électricité)
+
+Les parties 1 et 2 sont indépendantes
+
+### Partie 1 : Détermination de la capacité d'un condensateur et de l'inductance d'une bobine
+
+[Figure — schéma : Interrupteur en position (1) : $C_2$, $u_{C2}$, $C_1$, $u_{C1}$, $R$, $u_R$, $E$, $i$ — Interrupteur en position (2) : $C_2$, $L$]
+
+1-1- Cherchons l'équation différentielle :
+
+D'après la loi d'additivité des tensions, appliquée au circuit de la figure ci-dessus :
+
+$$u_{C1} + u_{C2} + u_R = E$$
+
+Avec $q = C_1u_{C1} = C_2u_{C2}$ et $i = C_2\dfrac{du_{C2}}{dt}$ :
+
+$$\frac{C_2}{C_1}u_{C2} + u_{C2} + RC_2\frac{du_{C2}}{dt} = E$$
+
+$$u_{C2}\left(\frac{C_2 + C_1}{C_1}\right) + RC_2\frac{du_{C2}}{dt} = E$$
+
+$$\frac{du_{C2}}{dt} + \frac{C_2 + C_1}{RC_1C_2}u_{C2} = \frac{E}{RC_2}$$
+
+Puisque les deux condensateurs sont en série d'où : $C_e = \dfrac{C_1C_2}{C_2 + C_1}$, l'équation différentielle devient :
+
+$$\frac{du_{C2}}{dt} + \frac{u_{C2}}{RC_e} = \frac{E}{RC_2}$$
+
+1-2- Cherchons l'expression de A et de $\tau$ tel que :
+
+$$u_{C2} = A(1 - e^{-t/\tau}) \implies \frac{du_{C2}}{dt} = \frac{A}{\tau}e^{-t/\tau}$$
+
+En remplaçant dans l'équation différentielle, on trouve :
+
+$$\frac{A}{\tau}e^{-t/\tau} + \frac{A}{RC_e} - \frac{A}{RC_e}e^{-t/\tau} = \frac{E}{RC_2}$$
+
+$$Ae^{-t/\tau}\left(\frac{1}{\tau} - \frac{1}{RC_e}\right) + \frac{A}{RC_e} = \frac{E}{RC_2}$$
+
+Par identification :
+
+$$\frac{1}{\tau} - \frac{1}{RC_e} = 0 \iff \tau = RC_e$$
+
+$$\frac{A}{RC_e} = \frac{E}{RC_2} \iff A = \frac{EC_e}{C_2} = \frac{EC_1}{C_1 + C_2}$$
+
+Par suite :
+
+$$u_{C2} = \frac{EC_1}{C_1 + C_2}\left[1 - \exp\left(-\frac{t}{RC_e}\right)\right]$$
+
+1-3- Déterminons l'expression de $u_R = Ri$ :
+
+$$u_R = RC_2\frac{du_{C2}}{dt} = RC_2\frac{A}{\tau}e^{-t/\tau} = \frac{RC_2C_1}{RC_e(C_1 + C_2)}Ee^{-t/\tau}$$
+
+On trouve alors $u_R = Ee^{-t/\tau}$.
+
+1-4- On a $\ln u_R = \ln(Ee^{-t/\tau}) = \ln E - \dfrac{t}{\tau}$, d'où $\ln u_R$ est une fonction linéaire, donc elle correspond à la courbe (b), c'est-à-dire la courbe (a) est celle de $\ln(E - u_{C2})$.
+
+1-5- On observe que $\ln u_R(0) = 2,2 \iff E = e^{2,2} \approx 9\ V$. Et on a la pente de la droite $\ln u_R$ est $-\tau^{-1}$, donc :
+
+$$\tau^{-1} = -\frac{\Delta\ln u_R}{\Delta t} = -\frac{2,2 - 0}{0 - 9 \times 10^{-3}} = 244,44\ s^{-1}$$
+
+Donc : $\tau = 4,1\ ms$. On sait d'autre part que :
+
+$$E - u_{C2} = E - \frac{EC_e}{C_2}(1 - e^{-t/\tau})$$
+
+[Figure — graphe : $\ln(u_R)$ ; $\ln(E - u_{C2})$ en fonction de $t(ms)$, courbes (a) et (b)]
+
+Par suite :
+
+$$\ln(E - u_{C2}) = \ln\left(\frac{C_2E - C_eE}{C_2} + \frac{EC_e}{C_2}e^{-t/\tau}\right)$$
+
+Lorsque $t \to \infty$, on trouve :
+
+$$\ln(E - u_{C2})_\infty = \ln\left(E\frac{C_2 - C_e}{C_2}\right) = \ln\left(E\left(1 - \frac{C_1}{C_1 + C_2}\right)\right) = \ln\left(\frac{EC_2}{C_1 + C_2}\right) = 1,1$$
+
+Alors on conclut que :
+
+$$\frac{EC_2}{C_1 + C_2} = e^{1,1} \iff e^{1,1}(C_1 + C_2) = EC_2 \iff C_1e^{1,1} = C_2(E - e^{1,1}) \iff C_1 = C_2\left(\frac{E}{e^{1,1}} - 1\right)$$
+
+Et par application numérique on trouve : $C_1 = 4\ \mu F$.
+
+2-1- D'après la loi d'additivité des tensions appliquée au circuit :
+
+$$u_{C2} + u_L = 0 \iff \frac{d^2u_L}{dt^2} + \frac{d^2u_{C2}}{dt^2} = 0 \iff \frac{d^2u_L}{dt^2} + \frac{1}{C_2}\frac{di}{dt} = 0$$
+
+Or $u_L = L\dfrac{di}{dt}$, alors l'équation différentielle est :
+
+$$\frac{d^2u_L}{dt^2} + \frac{1}{LC_2}u_L = 0$$
+
+2-2- On sait que : $T_0 = 2\pi\sqrt{LC_2} \iff T_0^2 = 4\pi^2LC_2$, donc
+
+$$L = \frac{T_0^2}{4\pi^2C_2} \overset{A.N}{=} \frac{(2 \times 10^{-3})^2}{4\pi^2 \times 2 \times 10^{-6}} = 50\ mH$$
+
+2-3- À $t = 1,5\ ms$ on a $u_L = 0$, donc $u_{C2} = 0$ et :
+
+$$E(1,5) = 0\ J$$
+
+[Figure — graphe : $u_L(V)$ en fonction de $t(ms)$]
+
+### Partie 2 : Oscillations forcées dans un circuit RLC série
+
+1- Les signaux $u_R$ et $u(t)$ du GBF sont en phase $\Delta\varphi = 0$, donc le circuit est en résonance.
+
+2- On sait que $T_0 = 2\pi\sqrt{LC} \iff C = \dfrac{T_0^2}{4\pi^2L} \overset{A.N}{=} 0,5\ \mu F$. On a $Z = \dfrac{U_m}{I_m}$ et en résonance : $Z = R + r$, alors :
+
+$$r + R = \frac{U_m}{U_{Rm}/R} \iff r = R\left(\frac{U_m}{U_{Rm}} - 1\right) \overset{A.N}{=} 10\ \Omega$$
+
+## Exercice 05 : (Mécanique)
+
+### Partie 1 : Chute verticale du sportif
+
+1-1- Établissons l'équation différentielle vérifiée par $v$ :
+
+Système étudié : {Sportif (S)}.
+
+Bilan des forces : $\vec{P}$ : Poids de (S) et $\vec{f}$ : Force de frottement fluide.
+
+Par application de la 2ème loi de Newton, on a : $\vec{P} + \vec{f} = m\vec{a}$
+
+Et par projection sur $\vec{k}$, on trouve :
+
+$$mg - f = m\frac{dv}{dt}$$
+
+$$mg - \lambda v^n = m\frac{dv}{dt}$$
+
+$$\frac{dv}{dt} + \frac{\lambda}{m}v^n = g$$
+
+1-2- D'après l'équation différentielle qui précède :
+
+$$\frac{dv}{dt} + \frac{\lambda}{m}v^n = g \iff \frac{\lambda}{m}v^n = g - \frac{dv}{dt}$$
+
+$$\iff \ln\left(\frac{\lambda}{m}v^n\right) = \ln\left(g - \frac{dv}{dt}\right)$$
+
+$$\iff \ln\left(\frac{\lambda}{m}\right) + \ln(v^n) = \ln\left(g - \frac{dv}{dt}\right)$$
+
+Par suite, on obtient :
+
+$$n\ln(v) = -\ln\left(\frac{\lambda}{m}\right) + \ln\left(g - \frac{dv}{dt}\right) \iff n\ln(v) = \ln\left(\frac{m}{\lambda}\right) + \ln\left(g - \frac{dv}{dt}\right)$$
+
+1-3-1- En régime permanent, on sait que $\dfrac{dv}{dt} = 0$, alors graphiquement $v_l = 32\ m/s$.
+
+1-3-2- Montrons que $n = 2$, pour cela on prend 2 points de la courbe ci-contre $v_1$ et $v_2$, alors :
+
+$$\begin{cases} n\ln v_1 = \ln\frac{m}{\lambda} + \ln\left(g - \frac{dv}{dt}\Big|_1\right) \\ n\ln v_2 = \ln\frac{m}{\lambda} + \ln\left(g - \frac{dv}{dt}\Big|_2\right) \end{cases}$$
+
+[Figure — graphe : $\frac{dv}{dt}(m/s^2)$ en fonction de $v(m/s)$]
+
+Par suite :
+
+$$n\ln v_2 - n\ln v_1 = \ln\left(g - \frac{dv}{dt}\Big|_2\right) - \ln\left(g - \frac{dv}{dt}\Big|_1\right)$$
+
+$$n \overset{A.N}{=} \frac{\ln(9,8) - \ln(9,8 - 6)}{\ln 32 - \ln 20}$$
+
+$$n = 2$$
+
+1-3-3- D'après la question 1-2, en régime permanent on a :
+
+$$n\ln v_l = \ln\frac{m}{\lambda} + \ln g \iff \ln\frac{m}{\lambda} = \ln\frac{v_l^n}{g} \iff \lambda = \frac{mg}{v_l^n} \iff \lambda \overset{A.N}{=} 0,67\ Kg/m$$
+
+1-3-4- Déterminons la valeur de la vitesse $v_2$ et de $a_3$, par la méthode d'Euler :
+
+$$v_2 = a_1\Delta t + v_1 = 9,77 \times 0,2 + 1,96 = 3,91\ m/s$$
+
+$$v_3 = a_2\Delta t + v_2 = 9,67 \times 0,2 + 3,91 = 5,84\ m/s$$
+
+Donc l'accélération est :
+
+$$a_3 = g - \frac{\lambda}{m}v_3^2 \overset{A.N}{=} 9,8 - \frac{0,67}{70} \times 5,84^2 = 9,47\ m/s^2$$
+
+### Partie 2 : Étude théorique de la phase de freinage
+
+2-1- Établissons l'expression de l'énergie potentielle :
+
+$$E_p = E_{pe} + E_{pp}$$
+
+Or $E_{pe} = \frac{1}{2}k\Delta l^2 + Cte$, lorsque $\Delta l = 0$, alors $E_{pe} = 0 \iff Cte = 0$, ainsi : $\Delta l = l - l_0 = z - L/2$, par suite :
+
+$$E_{pe} = \frac{1}{2}k(z - L/2)^2.$$
+
+D'autre part : $E_{pp} = -mgz + Cte'$ (Car z est dirigé vers le bas). Lorsque $z = L/2$, alors $E_{pp} = 0 \iff Cte' = mgL/2$, finalement : $E_{pp} = -mg(z - L/2)$.
+
+[Figure — schéma : $l$, $\Delta l$, $O'$, $G$, $z$, $L/2$]
+
+L'expression finale de l'énergie potentielle est donc :
+
+$$E_p = \frac{1}{2}k\left(z - \frac{L}{2}\right)^2 - mg\left(z - \frac{L}{2}\right)$$
+
+2-2-2- D'après la loi de conservation de l'énergie mécanique, on a : $E_m(0) = E_m(\Delta l_{max})$, c'est-à-dire :
+
+$$\frac{1}{2}mv_0^2 + \frac{1}{2}k\left(z_0 - \frac{L}{2}\right)^2 - mg\left(z_0 - \frac{L}{2}\right) = \frac{1}{2}mv^2 + \frac{1}{2}k\left(z_m - \frac{L}{2}\right)^2 - mg\left(z_m - \frac{L}{2}\right)$$
+
+Or $z_0 = L/2$ et $d = \Delta l_{max} = z_m - L/2$. Alors :
+
+$$\frac{1}{2}mv_0^2 = \frac{1}{2}kd^2 - mgd \iff mv_0^2 = kd^2 - 2mgd$$
+
+2-2-3- Cherchons l'expression de d, pour cela, on résout l'équation d'inconnue d trouvée dans la question précédente :
+
+$$kd^2 - 2mgd - mv_0^2 = 0 \quad\text{de discriminant :}\quad \Delta = 4m^2g^2 + 4kmv_0^2$$
+
+D'où :
+
+$$d_{1,2} = \frac{2mg \pm \sqrt{4m^2g^2 + 4kmv_0^2}}{2k}$$
+
+La solution acceptable physiquement est :
+
+$$d = \frac{mg}{k} + \sqrt{\frac{m^2g^2}{k^2} + \frac{mv_0^2}{k}}$$
+
+2-3- Pour que le sportif ne touche pas le sol, il faut que : $d + l_0 + L < h$, alors :
+
+$$d_{max} + l_0 + L = h \iff d_{max} = h - L - l_0 \iff d_{max} \overset{A.N}{=} 40,3\ m$$
+
+D'où, d'après l'équation :
+
+$$kd^2 - 2mgd - mv_0^2 = 0 \iff k_{min} = \frac{2mgd_{min} + mv_0^2}{d_{min}^2} \iff k_{min} \overset{A.N}{=} 51,28\ N/m$$
+
+[Figure — schéma : $l_0$, $d = \Delta l_{max}$, $L$, $h$]
+
+## Fin d'épreuve
+
+Pour toute remarque contactez-nous sur : elf12med@gmail.com

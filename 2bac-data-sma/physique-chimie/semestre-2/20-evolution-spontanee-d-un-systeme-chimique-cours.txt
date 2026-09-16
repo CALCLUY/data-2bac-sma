@@ -1,0 +1,80 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Évolution spontanée d'un système chimique
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 20 (Évolution spontanée d'un système chimique)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Quotient de la réaction et constante d'équilibre
+
+### 1-1/ Quotient de la réaction
+
+Le quotient de réaction $Q_{r}$ pour une réaction d'équation :
+
+$\alpha A_{\left(\right. a q \left.\right)} + \beta B_{\left(\right. a q \left.\right)} \rightleftarrows \gamma C_{\left(\right. a q \left.\right)} + \delta D_{\left(\right. a q \left.\right)}$
+
+s'écrit dans un état donné du système :
+
+$Q_{r} = \frac{\left[C\right]_{}^{\gamma} . \left[D\right]_{}^{\delta}}{\left[A\right]_{}^{\alpha} . \left[B\right]_{}^{\beta}}$
+
+L'expression de $Q_{r}$ ne fait intervenir que les concentrations des espèces dissoutes, exprimées en $m o l . L^{- 1}$
+
+$Q_{r}$ n'a pas d'unité.
+
+### 1-2/ Constante d'équilibre
+
+À l'équilibre les concentrations molaires des espèces chimiques deviennent constantes et le quotient de la réaction prend une valeur constante qui s'appelle la constante d'équilibre : $K = Q_{r , \acute{e} q}$
+
+$K = Q_{r , \acute{e} q} = \frac{\left[C\right]_{\acute{e} q}^{\gamma} . \left[D\right]_{\acute{e} q}^{\delta}}{\left[A\right]_{\acute{e} q}^{\alpha} . \left[B\right]_{\acute{e} q}^{\beta}}$
+
+La constante d'équilibre dépend uniquement de la température.
+
+Le taux d'avancement final d'une réaction à température donnée dépend de la constante d'équilibre (plus cette constante est grande, plus le taux d'avancement est grand), mais dépend aussi dépend des conditions initiales.
+
+### 1-3/ Application
+
+On considère un mélange de volume V qui contient les ions $S_{2} O_{3_{\left(a q\right)}}^{2 -}$, les ions $S_{4} O_{6_{\left(a q\right)}}^{2 -}$ et le diiode $I_{2_{\left(a q\right)}}$ et $I_{\left(a q\right)}^{-}$.
+
+Ce système est le siège de la réaction chimique suivante :
+
+$I_{2_{\left(a q\right)}} + 2 S_{2} O_{3_{\left(a q\right)}}^{2 -} \rightleftarrows 2 I_{\left(a q\right)}^{-} + S_{4} O_{6_{\left(a q\right)}}^{2 -}$
+
+On donne la concentration molaire initiale de chaque espèce dans le mélange :
+
+$\left[I_{2}\right] = 0 , 2 m o l . L^{- 1} \\ \left[I_{}^{-}\right] = 0 , 5 m o l . L^{- 1} \\ \left[S_{2} O_{3}^{2 -}\right] = 0 , 3 m o l . L^{- 1} \\ \left[S_{4} O_{6}^{2 -}\right] = 0 , 02 m o l . L^{- 1}$
+
+On a :
+
+$Q_{r , i} = \frac{\left[I_{}^{-}\right]_{i}^{2} \times \left[S_{4} O_{6}^{2 -}\right]_{i}}{\left[I_{2}\right]_{i} \times \left[S_{2} O_{3}^{2 -}\right]_{i}^{2}} \approx 0 , 28$
+
+Tableau d'avancement :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s20/img1.PNG)
+
+Valeur de $Q_{r}$ à l'instant $t$ où $\left[I_{2}\right]_{t} = 0 , 15 m o l . L^{- 1}$ :
+
+$\left[I_{2}\right]_{t} = 0 , 2 - \frac{x}{V} = 0 , 15 m o l . L^{- 1} \\ \Rightarrow \frac{x}{V} = 0 , 05 m o l . L^{- 1} \\ \Rightarrow Q_{r , t} = \frac{\left[I_{}^{-}\right]_{t}^{2} \times \left[S_{4} O_{6}^{2 -}\right]_{t}}{\left[I_{2}\right]_{t} \times \left[S_{2} O_{3}^{2 -}\right]_{t}^{2}} \\ Q_{r , t} = \frac{\left(0 , 5 + 2 \times 0 , 05\right)^{2} \times \left(0 , 02 + 0 , 05\right)}{\left(0 , 2 - 0 , 05\right) \times \left(0 , 3 - 2 \times 0 , 05\right)^{2}} \\ Q_{r , t} = 4 , 2$
+
+## II- Critère d'évolution d'un système chimique
+
+Un système chimique va évoluer de façon que Qr tend vers la valeur de la constante d'équilibre K :
+
+On en distingue trois cas :
+
+- $K = Q_{r}$ : Le système est en équilibre et n'évolue dans aucun sens : la composition du système ne varie plus.
+- $K > Q_{r}$ : L'évolution spontanée se produit dans le sens direct (1) (sens de consommation des réactifs).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s20/img2.PNG)
+
+- $K < Q_{r}$ : L'évolution spontanée se produit dans le sens inverse (2) (sens de consommation des Produits).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s20/img3.PNG)
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s20/img4.PNG)

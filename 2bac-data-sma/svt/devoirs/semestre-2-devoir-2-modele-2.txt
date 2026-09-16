@@ -1,0 +1,173 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Devoirs
+Sujet: SVT 2Bac SM - Semestre 2 Devoir 2 Modèle 2
+Type: Devoir
+Source: 
+---
+
+SVT : 2 Bac SM
+Semestre 2 Devoir 2 Modèle 2
+Professeur : Mr BAHSINA Najib
+
+1/8
+
+### I- Restitution des connaissances (7 pts)
+
+#### 1-1/ Exercie 1 (4 pts)
+
+1. Définir :
+
+La population :
+
+La dérive génétique :
+
+2. Répondre par « Vrai » ou « Faux » :
+
+a- Le pool génique d’une population est l’ensemble des génotypes et des caractères phénotypiques (des phénotypes) des individus qui lui appartiennent : _________
+
+b- Dans une population à effectif réduit, la dérive génétique réduit la diversité génétique : _________
+
+c- Malgré leur trop faible probabilité, les mutations sont source de diversité génétique au fil des générations : _________
+
+d- Les mutations qui affectent les cellules somatiques sont des mutations héréditaires : _________
+
+3. Citer deux caractéristiques de la population théorique idéale (population en équilibre selon la loi de Hardy-Weinberg).
+
+2/8
+
+### I- Restitution des connaissances (7 pts)
+
+#### 1-2/ Exercie 2 (3 pts)
+
+Pour chacune des données suivantes, il y a une seule suggestion correcte :
+
+A- La sélection naturelle entraîne la modification génétique d'une population sous l'effet:
+
+1. des facteurs environnementaux.
+2. de la dérive génétique.
+3. des facteurs mutagènes.
+4. des croisements aléatoires.
+
+B- La mutation chromosomique est due à :
+
+1. des modifications de la structure ou du nombre des chromosomes.
+2. une substitution d’un seul nucléotide au niveau du chromosome.
+3. une addition d’un seul nucléotide au niveau du chromosome.
+4. une délétion d’un seul nucléotide au niveau du chromosome.
+
+C- Dans le cas d'une codominance non liée au sexe au sein d'une population donnée:
+
+1. la fréquence des allèles est égale à la fréquence des génotypes.
+2. la fréquence des phénotypes est égale à la fréquence des génotypes.
+3. la fréquence des phénotypes est différente de la fréquence des génotypes.
+4. la fréquence des allèles est égale à la fréquence des phénotypes.
+
+3/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (13 pts)
+
+#### 2-1/ Exercice 3 (5 pts)
+
+En vue d’étudier le mode de transmission de la myopathie de Duchenne, maladie héréditaire liée au chromosome sexuel X et caractérisée par la dégénérescence des fibres musculaires chez l'Homme; on propose ce qui suit:
+
+Le document 1 présente l’arbre généalogique d'une famille dont un des enfants est atteint de la myopathie de Duchenne :
+
+[Figure — document 1, image : arbre généalogique d'une famille touchée par la myopathie de Duchenne]
+
+1. Déterminez à partir de cet arbre si l'allèle responsable de cette maladie est dominant ou récessif
+
+2. Écrivez en justifiant votre réponse le génotype des individus I2, et II1.
+
+Utilisez le symbole « N » ou « n » pour l’allèle responsable du phénotype normal et le symbole « M » ou « m » pour l’allèle responsable de la maladie.
+
+3. Déduisez, à partir d'un échiquier de croisement, la probabilité pour que le fœtus II4 soit atteint de cette maladie.
+
+4/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (13 pts)
+
+#### 2-1/ Exercice 3 (5 pts)
+
+Afin de s'assurer que leur enfant attendu (II4) sera atteint ou non de la myopathie de Duchenne, un médecin a proposé aux parents I1 et I2 de faire un diagnostic prénatal.
+
+Le document 2 présente les étapes de la technique adoptée dans l'analyse de l'ADN. Cette technique permet de détecter le fragment d’ADN du gène responsable de cette maladie :
+
+[Figure — document 2, image : étapes de la technique d'analyse de l'ADN]
+
+Le document 3 présente les résultats obtenus chez quelques membres de cette famille après photographie du gel d'agarose :
+
+[Figure — document 3, image : résultats de l'électrophorèse sur gel d'agarose]
+
+4. En exploitant le document 3, déterminez si l'enfant attendu (II4) sera, ou non, atteint de la myopathie de Duchenne. Justifiez votre réponse.
+
+5/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (13 pts)
+
+#### 2-2/ Exercice 4 (8 pts)
+
+Afin de mettre en évidence l'effet de quelques facteurs de variation sur la structure génétique d’une population d’escargots de Théba pisana, on propose les données suivantes :
+
+##### Donnée 1
+
+Chez les escargots de Théba pisana, un gène à deux allèles codominants contrôle l'aspect de la coquille: l’allèle B responsable des bandes claires (fig a du document 1) et l’allèle N responsable des bandes sombres (fig b du document 1). Ces escargots colonisent les différents végétaux des dunes littorales :
+
+[Figure — document 1, image : escargots de Théba pisana à bandes claires (a) et à bandes sombres (b)]
+
+Dans une région littorale, et pour répondre à la demande touristique, une partie de la dune a été aménagée en plage.
+
+Entre 1960 et 2007, une étude de l'évolution du peuplement (végétal et animal) de cette dune a permis d’obtenir les résultats suivants :
+
+Le document 2 présente la couverture végétale de la dune : figure (a) en 1960 et figure (b) en 2007 où la dune est désormais subdivisée en 2 zones; la zone des oyats où le développement des oyats s'est poursuivi de façon normale et la zone de la plage où se sont développés d’autres végétaux à cause de la fréquentation des visiteurs :
+
+[Figure — document 2, image : couverture végétale de la dune en 1960 (a) et en 2007 (b)]
+
+Le document 3 présente le nombre d'individus de chaque phénotype des escargots de Théba pisana dans la zone des oyats et dans la zone de la plage en 2007 :
+
+[Figure — document 3, image : nombre d'individus de chaque phénotype dans les deux zones en 2007]
+
+1. Comparez, dans chaque zone, le nombre des escargots pour chaque phénotype.
+
+2. A partir des données précédentes, déduisez l’effet de l’aménagement de la dune sur le nombre des escargots de chaque phénotype.
+
+6/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (13 pts)
+
+#### 2-2/ Exercice 4 (8 pts)
+
+##### Donnée 2
+
+Des oiseaux, comme la grive du bord de mer, se nourrissent des escargots de Théba pisana (figure a du document 4).
+
+Des études ont permis de déterminer le pourcentage des escargots consommés, par cet oiseau, selon le type de leur coquille dans les deux zones étudiées.
+
+La figure (b) du document 4 présente les résultats obtenus :
+
+[Figure — document 4, image : la grive du bord de mer (a) et pourcentages des escargots consommés selon le type de coquille (b)]
+
+Remarque: le nombre des oiseaux de la grive du bord de mer est identique dans les deux zones.
+
+3. Pour chacune des deux zones (zone des oyats et zone de la plage) comparez les pourcentages des escargots consommés puis expliquez l’origine de la différence observée.
+
+7/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (13 pts)
+
+#### 2-2/ Exercice 4 (8 pts)
+
+##### Donnée 3
+
+Pour mettre en évidence les facteurs qui agissent sur l'évolution de la fréquence des allèles B et N responsables de la couleur des bandes des coquilles de la population d'escargots de Théba pisana, dans la zone des oyats et dans la zone de la plage, on a simulé cette évolution grâce à un outil numérique dans lequel on a appliqué la pression de sélection exercée par la grive pour les deux allèles.
+
+La figure (a) du document 5 représente l'évolution de la fréquence de l'allèle B responsable des bandes claires et la figure (b) du même document représente l'évolution de la fréquence de l'allèle N responsable des bandes sombres, dans la population des escargots dans les deux zones étudiées :
+
+[Figure — document 5, image : évolution de la fréquence de l'allèle B (a) et de l'allèle N (b) dans les deux zones]
+
+4. Décrivez l'évolution de la fréquence de l’allèle B d’une part et de l’allèle N d’autre part dans les deux zones étudiées.
+
+5. A partir de ce qui précède et de vos connaissances, montrez comment agit le facteur de variation génétique intervenant sur les fréquences des deux allèles B et N chez les populations d’escargots de Théba pisana, dans la zone des oyats et dans la zone de la plage.
+
+8/8

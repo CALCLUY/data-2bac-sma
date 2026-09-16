@@ -1,0 +1,223 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2023 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية - الدورة الاستدراكية 2023
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) (خيار فرنسية)
+مدة الإنجاز : 2h — المعامل : 3
+عناصر الإجابة — RR 36F
+
+## Partie I : Restitution des connaissances (5 pts)
+
+Question | Eléments de réponse | Barème
+
+I - 1. Accepter toute définition correcte, à titre d’exemple :
+
+- Translocation chromosomique : anomalie chromosomique de structure résultante de la soudure d’un chromosome ou d’un fragment de chromosome à un autre chromosome. (0.5 pt)
+
+- Brassage intrachromosomique : brassage des allèles résultant d’un échange réciproque de fragments entre les chromatides des chromosomes homologues (enjambement, crossing-over), qui se produit pendant la prophase I de la méiose ……… ………. …. …… ……. (0.5 pt)
+
+(1 pt)
+
+2. a. Accepter deux exemples d’anomalies chromosomiques affectant le nombre de chromosomes chez l’Homme tel que : ……………………………………….……. (0.5 pt)
+
+- Syndrome de Klinefelter ;
+
+- Syndrome de Turner ;
+
+- Syndrome de Down (trisomie 21).
+
+b. Accepter deux caractéristiques de la télophase II tel que : ……………………. (0.5 pt)
+
+- Décondensation des chromosomes ;
+
+- Réapparition des nucléoles et de l’enveloppe nucléaire ;
+
+- Cytodiérèse (division du cytoplasme) ;
+
+- Disparition du fuseau de division.
+
+(1 pt)
+
+II - (1 ; d) ; (2 ; a) ; (3 ; b) ; (4 ; c)……………………….……….……..(0.5 pt x4) — (2 pts)
+
+III - Technique 1 : Analyse du sang maternel (Dosage des marqueurs sériques)
+
+- Technique 2 : Echographie
+
+- Technique 3 : Réalisation du caryotype de l’embryon
+
+- Technique 4 : Analyse d’ADN de l’embryon (0.25 pt x4)
+
+(1 pt)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 : (5 pts)
+
+1 - (0.25 pt x4)
+
+| Cellule | Formule chromosomique | Justification |
+| --- | --- | --- |
+| (a1) | 2n = 54 | cellule germinale mère qui va subir la méiose |
+| (a2) | n = 27 | cellule qui résulte de la méiose |
+| (b1) | 2n = 54 | cellule germinale mère qui augmente la taille sans subir la méiose |
+| (b2) | 2n = 54 | cellule germinale mère qui va subir la méiose |
+
+(1 pt)
+
+2 - Cycle chromosomique de l’escargot « Helix pomatia » : …………..(0.75 pt)
+
+[Figure — schéma du cycle chromosomique : Phase diploïde, Méiose, Gamètes, Gamètes, Fécondation, Zygote, Phase haploïde]
+
+- Type du cycle : Cycle diplophasique..................................................................(0.25 pt)
+
+(1 pt)
+
+3 - a. Accepter toute justification correcte telle : Le 3ème croisement entre des individus à coquilles sans bandes a donné une génération contenant des individus à coquille avec bandes, donc l’allèle responsable du phénotype « sans bande » est dominant alors que l’allèle responsable du phénotype « avec bandes » est récessif.
+
+(0.5 pt)
+
+b. Génotypes des parents P1 et P2 avec justification : (0.5 pt x2)
+
+| Parents | Génotypes | Justification (accepter toute justification correcte) |
+| --- | --- | --- |
+| P1 | a//a | Il a un phénotype récessif. |
+| P2 | S//a | Il est hétérozygote d’après les résultats du 3ème croisement. (descendants hétérogènes) |
+
+(1 pt)
+
+4 - ● Le génotype de la génération F1 est : (R S // B a) car elle est issue du croisement entre deux lignées pures : P3 [R,S] et P4 [B,a]………………………… ….. ……….. …. …. (0.25 pt)
+
+● Le pourcentage des phénotypes recombinés est : 3.5%.................................(0.25 pt)
+
+● L’interprétation chromosomique du croisement F1 x P5 :
+
+F1 × P5
+
+Phénotypes : [RB,S] × [J,a]
+
+Génotypes : (R S // B a) × (J a // J a) (0.5 pt)
+
+Gamètes (0.25 pt) : R S 48.25% ; B a 48.25% ; R a 1.75% ; B S 1.75% — et — J a 100%
+
+Echiquier de croisement : (0.25 pt)
+
+| γ P5 \ γ F1 | R S 48.25% | B a 48.25% | R a 1.75% | B S 1.75% |
+| --- | --- | --- | --- | --- |
+| J a 100% | (R S // J a) [RJ, S] 48.25% | (B a // J a) [BJ, a] 48.25% | (R a // J a) [RJ, a] 1.75% | (B S // J a) [BJ, S] 1.75% |
+
+Descendance : [RJ,S] 48.25% ; [BJ,a] 48.25% ; [RJ,a] 1.75% ; [BJ,S] 1.75% …… (0.25 pt)
+
+(1.5 pt)
+
+### Exercice 2 : (5 pts)
+
+1 - Type de variation : il s’agit d’une variation continue. ………………..……..(0.25 pt)
+
+Justification : la variable peut prendre n’importe quelle valeurs dans son intervalle de variation…………………………………………………………………..……..(0.25 pt)
+
+(0.5 pt)
+
+2 - Réalisation des polygones de fréquences correctes selon l’échelle proposée.
+
+[Figure — graphe : Nombre de plantes (0, 10, 20, 30, 40, 50, 60) en fonction du Centre de classes (cm) : 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14, 14.5, 15 — courbes P1 et P2]
+
+(1 pt)
+
+3 - Description :
+
+La population P1 : La distribution des fréquences est unimodale. La longueur de la barbe des épis varie entre 10.5 cm et 13 cm……………………………………………………..(0.25 pt)
+
+La population P2 : La distribution des fréquences est unimodale. La longueur de la barbe des épis varie entre 12 cm et 15 cm………………………………….………………..…..(0.25 pt)
+
+Déduction : Les deux populations P1 et P2 sont homogènes. ………………………...(0.25 pt)
+
+(0.75 pt)
+
+4 - On donne 0.25 pt pour chaque colonne juste à l’exception des 2 premières colonnes (1 pt)
+
+| (xi) | (𝑓𝑖) | 𝑓𝑖.𝑥𝑖 | 𝑥𝑖 − X̅ | (𝑥𝑖 − X̅)² | 𝑓𝑖(𝑥𝑖 − X̅)² |
+| --- | --- | --- | --- | --- | --- |
+| 10.5 | 20 | 210 | -1.03 | 1.0609 | 21.218 |
+| 11 | 24 | 264 | -0.53 | 0.2809 | 6.7416 |
+| 11.5 | 30 | 345 | -0.03 | 0.0009 | 0.027 |
+| 12 | 25 | 300 | 0.47 | 0.2209 | 5.5225 |
+| 12.5 | 12 | 150 | 0.97 | 0.9409 | 11.2908 |
+| 13 | 8 | 104 | 1.47 | 2.1609 | 17.2872 |
+| Total | 119 | 1373 | | | 62.0871 |
+
+- Moyenne arithmétique : X̅ = 11.35 cm …………….………… ………. .…..….(0.25 pt)
+
+- Ecart type : σ = 0.7233 cm …...…………………… …………… ……….…. (0.25 pt)
+
+- Intervalle de confiance : [10.08 ; 12.25] ……………… ……………… .….. (0.25 pt)
+
+Remarque : Accepter des valeurs ± 0.01
+
+(1.75 pt)
+
+5 - Comparaison :
+
+Le mode et la moyenne de la distribution de la longueur de la barbe des épis chez P1 sont inférieurs à ceux de P2. Alors que l’écart-type de P2 est inférieur à celui de P1……. (0.5 pt)
+
+Déduction :
+
+Puisque le PMG de P2 est supérieur à celui de P1, on peut déduire que ces deux variables évoluent dans le même sens (plus la longueur de la barbe des épis augmente chez l’orge plus la masse des grains augmente)……………………….…………………… …….. … (0.5 pt)
+
+(1 pt)
+
+### Exercice 3 : (5 pts)
+
+1 - a. Description (accepter toute description correcte tel que) :
+
+- De 1969 à 1989 : le nombre d’éléphants dans la population a diminué de 35000 à 2500 et le pourcentage des femelles sans défenses a augmenté de 10 à 38. ……….… (0.25 pt)
+
+- De 1989 à 1993 : le nombre d’éléphants dans la population a augmenté de 2500 à 6000 et le pourcentage des femelles sans défenses a diminué de 38 à 29………….. …(0.25 pt)
+
+(0.5 pt)
+
+b. Explication : .…………………………………………………………………….. (0.5 pt)
+
+Création du parc → arrêt de braconnage des éléphants avec défenses → avantage pour la nutrition et la reproduction sexuée → augmentation du nombre des individus avec défenses et diminution des individus sans défenses.
+
+Déduction : ……………………………………………………………………. …(0.5 pt)
+
+- Le facteur de variation responsable de cette évolution : la sélection naturelle.
+
+(1 pt)
+
+2 - a. Dans la population du parc Addo, le pourcentage des femelles sans défenses en 2015 est 98% deux fois supérieur que celui des femelles sans défenses en 1931 qui est de 50%. (0.5 pt)
+
+b. Dans le parc du sud Luangwa, la sélection naturelle a favorisé les individus ayant les défenses. Mais, après la création du parc Addo, c’est le pourcentage des femelles sans défenses qui a augmenté dans la population ce qui signifie que la population du parc Addo n’a pas subi l’action du même facteur de variation qui est la sélection naturelle.
+
+(0.75 pt)
+
+3 - La fréquence des individus ayant le phénotype [d] (éléphants sans défenses) est :
+
++ Chez les mâles : f[d] = f($X^{d}Y$) = q = 0.93 ……………… ……. ………. …(0.25 pt)
+
++ Chez les femelles : f[d] = f($X^{d}X^{d}$) = q² = (0.93)² = 0.8649 ……… …… …… (0.25 pt)
+
+- La fréquence des individus ayant le phénotype [D] (éléphants avec défenses) est :
+
++ Chez les mâles : f[D] = f($X^{D}Y$) = p = 0.07 ………………………. …….. (0.25 pt)
+
++ Chez les femelles : f[D] = f($X^{D}X^{D}$) + f($X^{D}X^{d}$) = p² + 2pq = 0.1351 ……… (0.25 pt)
+
+(1 pt)
+
+4 - Explication de la structure génétique de la population du parc Addo :
+
+- Taille réduite de la population d’éléphants lors de la création du parc → l’échantillonnage aléatoire des gamètes lors de la reproduction sexuée a permis l’augmentation de l’effectif des individus sans défenses dans la population → augmentation de la fréquence de l’allèle « d » responsable du phénotype « sans défenses » et diminution de la fréquence de l’allèle « D » responsable du phénotype « avec défenses ». ……………………………………….… (1 pt)
+
+- C’est la dérive génétique favorisée par l’effet du goulot d’étranglement. ………… (0.25 pt)
+
+(1.25 pt)

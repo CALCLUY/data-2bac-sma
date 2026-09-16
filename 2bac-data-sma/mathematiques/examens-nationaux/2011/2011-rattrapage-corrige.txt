@@ -1,0 +1,109 @@
+---
+Type: Examen National
+Année: 2011
+Session: Rattrapage
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2011 – عناصر الإجابة - مادة : الرياضيات
+RR25 — المعامل : 9 — مدة الإنجاز : 4
+
+[NOTE D'EXTRACTION : ce corrigé officiel est un barème de notation. Il n'indique que les
+étapes attendues et leur cotation, sans développement mathématique détaillé.]
+
+## Premier exercice
+
+1- a) …………… 0,5
+$\ast$ commutative ……………… 0,25
+associative …………………… 0,25
+
+b) L'élément neutre ………. 0,5
+
+c) $\left(I , \ast\right)$ est un groupe ……………………. 0,5
+
+2- application de la propriété caractéristique de sous-groupe ……………………. 0,5
+
+3- a) homomorphisme ………. 0,5
+
+b) $\varphi(H) = K$ et l'image …………. 0,5
+
+c) …………
+
+## Deuxième exercice
+
+1- a) …………………………. 0,25
+
+b) …………………………. 0,5
+
+2- a) …………………………….. 0,75
+
+b) …………………………….. 0,5
+
+c) …………………………….. 0,5
+
+## Troisième exercice
+
+**Première partie :**
+
+1- …… 0,5
+
+2- …… 0,5
+
+3- a) …… 0,5
+
+b) résolution de l'équation ……… 0,5
+
+**Deuxième partie :**
+
+1- Isocèle ………………… 0,25 ; rectangle en $A$ ……………. 0,25
+
+2- a) …………………………. 0,5
+
+b) …………………….. 0,5
+
+c) déduction …………… 0,5
+
+## Quatrième exercice
+
+1- ………………………. 1
+
+2- a) T.V de la fonction ………..……. 0,25
+
+b) La fonction est une bijection ……………… 0,5
+Le T.V de la bijection réciproque ………. 0,25
+
+3- Pour $(C)$ …………………. 0,25
+Pour $(C')$ ………………….. 0,5
+
+4- a) Calcul de l'intégrale ……….. 0,5
+
+b) L'aire du domaine …………….. 0,5
+
+5- a) Existence et unicité de la solution …………… 0,25
+
+b) Valeur de $x_{1}$ …………… 0,25
+limite de la suite ………. 0,25
+
+6- a) Pour chaque inégalité …………… 0,25
+
+b) ………………………………. 0,5
+
+c) Pour chaque limite ……………… 0,25
+
+## Cinquième exercice
+
+1- ……………………………. 0,5
+
+2- La suite est strictement décroissante …………. 0,5
+la suite est minorée ………… 0,25
+
+3- a) ……………………………. 0,5
+
+b) ……………………………. 0,5
+
+4- a) ……………………………. 0,5
+
+b) ……………………………. 0,5
+
+c) ……………………………. 0,75

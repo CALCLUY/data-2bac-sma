@@ -1,0 +1,293 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2022 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+[Note : correction détaillée de tierce partie (11 pages) ; le texte a été reconstitué à partir de l'extraction du PDF, les formules étant restituées en notation linéaire.]
+
+## Exercice 1 : Chimie (7 points)
+
+### Partie I : Etude de quelques réactions de l'acide salicylique
+
+1- Etude d'une solution aqueuse d'acide salicylique
+
+1-1-1- Définition du taux d'avancement final :
+C'est le quotient de l'avancement final par l'avancement maximal ; il représente le pourcentage des molécules qui ont réagi dans une réaction chimique.
+
+1-1-2- Montrons que la réaction de l'acide avec l'eau est limitée :
+τ = xéq/xmax avec xéq = [H3O+].V et xmax = C.V
+τ = [H3O+].V/(C.V) = [H3O+]/C ⟺ τ = 10-pH/C
+A.N : τ = 10-1,8/0,25 = 0,063 ⟹ τ = 6,3 %
+τ < 1 : la réaction est limitée.
+Equation de la réaction : AH(aq) + H2O(l) ⇄ A-(aq) + H3O+(aq)
+
+1-2- Détermination de α(AH) :
+α(AH) = nf(AH)/n0(AH) = (C.V − xéq)/(C.V) = 1 − xéq/(C.V)
+xéq = [H3O+].V = 10-pH.V
+α(AH) = 1 − 10-pH/C = 1 − 10-1,8/0,25 = 0,9366 ⟹ α(AH) = 93,66 %
+α(A-) = 6,34 %
+On a α(AH) > α(A-) donc l'acide est prédominant.
+
+1-3- Vérification de la valeur du pKA :
+KA = [A-]éq.[H3O+]éq / [AH]éq
+[A-]éq = [H3O+]éq = xéq/V et [AH]éq = (C.V − xéq)/V = C − [H3O+]éq
+KA = [H3O+]éq² / (C − [H3O+]éq) = 10-2pH/(C − 10-pH)
+pKA = −log(10-2pH/(C − 10-pH)) = −log(10-2×1,8/(0,25 − 10-1,8)) = 2,969 ⟹ pKA ≃ 3
+
+2- Titrage d'une solution d'acide salicylique
+
+2-1- Equation de la réaction du dosage :
+AH(aq) + HO-(aq) ⇄ A-(aq) + H2O(l)
+
+2-2- Calcul de la constante d'équilibre K :
+K = [A-]éq / ([AH]éq.[HO-]éq) × [H3O+]éq/[H3O+]éq = ([A-]éq.[H3O+]éq/[AH]éq) × 1/([H3O+]éq.[HO-]éq)
+K = KA/Ke ⟹ K = 10-pKA/Ke
+A.N : K = 10-3/10-14 ⟹ K = 1011
+
+2-3- Vérification de l'indication de l'étiquette :
+CA.VA = CB.VBE ⟹ CA = CB.VBE/VA = 0,12 × 9,0/15,0 = 7,2.10-2 mol.L-1
+C0 = 10.CA et C0 = m/(M.V) ⟺ 10.CA = m/(M.V) ⟺ m = 10.CA.M.V
+m = 10 × 7,2.10-2 × 138 × 50.10-3 = 4,968 g
+m ≃ 5 g : l'indication de l'étiquette est vérifiée.
+
+2-4-1- Vérification de la concentration de (Na+(aq) + A-(aq)) :
+A l'équivalence, on a la disparition totale de l'acide AH.
+CA.VA − xE = 0 et CB.VBE − xE = 0 ⟹ CA.VA = CB.VBE = xE
+[A-]éq = xE/(VA + VBE) = CB.VBE/(VA + VBE)
+A.N : [A-]éq = [Na+]éq = 0,12 × 9,0/(15 + 9) = 4,5.10-2 mol.L-1
+
+2-4-2- pH de la solution :
+KA = [A-]éq.[H3O+]éq / [AH]éq
+A l'équivalence : [AH]éq = [HO-]éq
+KA = [A-]éq.[H3O+]éq²/Ke
+[H3O+]éq² = KA.Ke/[A-]éq ⟹ [H3O+]éq = √(KA.Ke/[A-]éq)
+pH = −log√(KA.Ke/[A-]éq) = (1/2).(pKA + pKe + log[A-]éq)
+pH = (1/2).[3 + 14 + log(4,5.10-2)] ⟺ pH ≃ 7,83
+
+2-4-3- L'indicateur le mieux adapté pour ce dosage :
+Le rouge de phénol est l'indicateur coloré convenable puisque 6,8 ≤ pHE = 7,8 ≤ 8,4.
+
+### Partie II : Cadmiage d'une pièce métallique
+
+1- L'équation de la réaction au niveau de l'anode :
+Cd(s) ⇄ Cd2+(aq) + 2e-
+
+2- L'expression de la masse m :
+n(e-) = 2x et n(e-) = I.Δt/F ⟹ I.Δt/F = 2x ⟹ x = I.Δt/(2F)
+n(Cd) = m/M(Cd) = x ⟹ m = M(Cd).x ⟺ m = I.Δt.M(Cd)/(2F)
+m = 2,50 × 30 × 60 × 112,4 / (2 × 9,65.104) ⟺ m = 2,62 g
+
+3- Calcul de l'épaisseur e :
+m' = ρ.V et V = L.ℓ.e ⟹ m' = ρ.L.ℓ.e
+m' = m/2 ⟹ m = 2ρ.L.ℓ.e
+e = m/(2ρ.L.ℓ)
+A.N : e = 2,62 g / (2 × 8,7 g.cm-3 × 10 cm × ℓ) = 1,67.10-3 cm
+e = 16,7.10-6 m ⟺ e = 16,7 μm
+
+## Exercice 2 : Propagation d'une onde mécanique (2 points)
+
+1- Le nombre d'affirmations justes : 0 (aucune affirmation n'est vraie).
+
+2- Détermination de la vitesse de propagation :
+La période T se lit sur la figure 2 : T = 4 s
+La longueur d'onde : λ = d = 20 m
+v = λ/T ⟹ v = 20/4 ⟺ v = 5 m.s-1
+
+3- Représentation de l'allure de l'élongation yN(t) :
+yN(t) = yM(t − τ)
+Le point N reprend le même mouvement que le point M avec un retard temporel τ = MN/v ⟹ τ = 10/5 = 2 s
+
+4- Détermination de l'angle qui délimite la zone touchée par le phénomène :
+α = 2θ avec l'écart angulaire θ = λ/a = d/a
+α = 2.d/a ⟹ α = 2 × 20/20 ⟹ α = 2 rad
+
+## Exercice 3 : Radioactivité du césium 137 (1,5 points)
+
+1- Le nombre d'affirmations justes : 1
+a- Tous les noyaux radioactifs sont instables. Vrai
+
+2- L'équation de désintégration du césium 137 :
+137/55 Cs ⟶ 137/56 Ba + A/Z X
+Lois de conservation : 137 = 137 + A et 55 = 56 + Z ⟹ A = 0 et Z = −1 ⟺ A/Z X = 0/−1 e
+Le type de cette désintégration est β-, et l'équation s'écrit :
+137/55 Cs ⟶ 137/56 Ba + 0/−1 e
+
+3-1- Calcul de |ΔE| libérée par l'ensemble des noyaux :
+Soit Elib l'énergie libérée par un seul noyau : |ΔE| = N.Elib
+a = λ.N = (ln2/t1/2).N ⟹ N = a.t1/2/ln2
+|ΔE| = (a.t1/2/ln2).Elib
+Elib = |m(137/56 Ba) + m(0/−1 e) − m(137/55 Cs)|.c²
+Elib = |136,87511 + 0,00055 − 136,87692| × 931,5 MeV.c-2.c²
+Elib = 1,17369 MeV
+|ΔE| = 200 × 30 × 365,25 × 24 × 3600 / ln2 × 1,17369 ≃ 3,21.1011 MeV
+
+3-2- Détermination de l'instant t :
+500 Bq/kg = a/m ⟹ a = 500 Bq/kg × 0,2 kg = 100 Bq
+a = a0.e-λt1 ⟹ eλt1 = a0/a ⟹ λ.t1 = ln(a0/a) ⟹ t1 = (ln(a0/a)/ln2).t1/2
+t1 = (ln(200/100)/ln2) × 30 ⟺ t1 = 30 ans
+On remarque que a = a0/2, donc t1 = t1/2 = 30 ans d'après la définition de la demi-vie.
+
+## Exercice 4 : Electricité
+
+### Expérience 1 : Décharge d'un condensateur
+
+1-1- L'équation différentielle vérifiée par uC(t) :
+Loi d'additivité des tensions : uR + uC = 0 ⟺ R1.i + uC = 0
+i = dq/dt = C.duC/dt
+R1.C.duC/dt + uC = 0
+duC/dt + uC/(R1.C) = 0
+
+1-2- Détermination des constantes k et τ :
+uC(t) = k.e-t/τ ⟹ duC/dt = −(k/τ).e-t/τ
+On remplace dans l'équation différentielle :
+−(k/τ).e-t/τ + (1/(R1.C)).k.e-t/τ = 0 ⟺ k.e-t/τ(1/(R1.C) − 1/τ) = 0 ⟹ τ = R1.C
+D'après les conditions initiales à t = 0 : uC(0) = E ⟹ k = E
+La solution s'écrit : uC(t) = E.e-t/τ
+
+1-3- Montrons que t = τ/2 :
+Ee = (1/2).C.uC² = (1/2).C.(E.e-t/τ)² = (1/2).C.E².e-2t/τ
+dEe/dt = (1/2).C.E².(−2/τ).e-2t/τ = −(C.E²/τ).e-2t/τ
+Equation de la tangente à Ee(t) en t = 0 :
+y = (dEe/dt)|t=0 .(t − 0) + Ee(0) = −(C.E²/τ).t + (1/2).C.E² ⟹ y = (1/2).C.E².(1 − 2t/τ)
+La tangente coupe l'axe des abscisses : y = 0 ⟹ 1 − 2t/τ = 0 ⟹ t = τ/2
+
+1-4- La valeur de C et de E :
+τ = R1.C avec t = τ/2 ⟹ R1.C = 2t ⟹ C = 2t/R1
+D'après la figure 2 : t = 0,5 ms
+A.N : C = 2 × 0,5.10-3/100 = 10-5 F ⟹ C = 10 μF
+Ee(0) = (1/2).C.E² ⟹ E = √(2Ee(0)/C)
+D'après la figure 2 : Ee(0) = 180 μJ
+A.N : E = √(2 × 180.10-6 / 10.10-6) = 6 V
+
+1-5- L'énergie dissipée par effet Joule :
+|Ej| = |Ee(0,9τ) − Ee(0)| = Ee(0) − Ee(0,9τ)
+|Ej| = (1/2).C.E² − (1/2).C.E².e-1,8 = (1/2).C.E².(1 − e-1,8)
+|Ej| = (1/2) × 10 × 6² × (1 − e-1,8) ⟺ |Ej| = 150,25 μJ
+
+### Expérience 2 : Oscillations forcées dans un circuit RLC
+
+2-1- Schéma du montage permettant de visualiser u(t) et uR2(t) : voir schéma.
+
+2-2-a- Détermination de la fréquence N :
+T = 0,5 ms.div-1 × 8 div = 4 ms
+N = 1/T ⟹ N = 1/4.10-3 = 250 Hz
+
+2-2-b- Détermination de l'impédance Z :
+Um = Z.Im et UR2m = R2.Im ⟹ Z = (Um/UR2m).R2
+Um = 2 V.div-1 × 4 div = 8 V ; UR2m = 2 V.div-1 × 2 div = 4 V
+A.N : Z = (8/4) × 20 ⟺ Z = 40 Ω
+
+2-2-c- Détermination de Δφ = φ2 − φ1 :
+u(t) est en avance de phase par rapport à uR2(t), donc le déphasage Δφ < 0.
+Δφ = −2π.τ/T avec τ = 0,5 ms.div-1 × 1 div = 0,5 ms
+Δφ = −2π × 0,5 ms / 4 ms = −π/4
+
+2-3- La puissance électrique moyenne consommée :
+Pmoy = U.I.cosφ avec U = Z.I ⟹ Pmoy = (U²/Z).cosφ
+Pmoy = U.I.cosφ = (Um/√2).(Im/√2).cosφ = (Um.Im/2).cosφ
+UR2m = R2.Im ⟹ Im = UR2m/R2
+Pmoy = (Um.UR2m/(2R2)).cosφ
+A.N : Pmoy = 8 × 4/(2 × 20) × cos(−π/4) = 0,566 W
+
+### Expérience 3 : Démodulation d'amplitude d'une onde
+
+3-1- Rôle de ce constituant : éliminer l'onde porteuse afin d'obtenir le signal modulant décalé (détection d'enveloppe).
+
+3-2- Vérification :
+Pour une bonne détection d'enveloppe il faut : TP << τ = R3.C < TS ⟺ 1/NP << R3.C < 1/NS
+TP = 1/NP = 1/(160.103) = 6,25.10-6 s = 6,25 μs
+TS = 1/NS = 1/(10.103) = 10-4 s = 100 μs
+τ = R3.C = 2000 × 10.10-6 = 2.10-2 s = 20000 μs
+On remarque que τ > TS : les valeurs de C et R3 ne permettent pas au constituant de bien jouer son rôle.
+
+## Exercice 5 : Mécanique
+
+### Partie I : Mouvement d'un jouet sur une gouttière
+
+1- Tronçon AB :
+
+1-1- Calcul de la durée tAB :
+Le solide (S) est soumis à deux forces : P⃗ son poids et R⃗ la réaction (frottements négligeables).
+Deuxième loi de Newton : Σ F⃗ext = m.a⃗G ⟺ P⃗ + R⃗ = m.a⃗G
+Projection sur l'axe Ox : m.g.sinα + 0 = m.a1 ⟹ a1 = g.sinα
+Le mouvement de G est rectiligne uniformément accéléré :
+x(t) = (1/2).a1.t² (v0 = 0, x0 = 0) ⟹ x = (1/2).g.sinα.t²
+Au point B : AB = (1/2).g.sinα.tB²
+tB = √(2AB/(g.sinα)) = √(2 × 1,6/(10 × sin30°)) = 0,8 s
+
+1-2- La valeur de la vitesse vB :
+v = dx/dt = g.sinα.t
+vB = g.sinα.tB = 10 × sin(30°) × 0,8 = 4 m.s-1
+
+2- Tronçon BC : intensité de f
+Deuxième loi de Newton : P⃗ + f⃗ + R⃗N = m.a⃗G
+Projection sur l'axe Ox : −f = m.a2 ⟹ a2 = −f/m
+Equation de la vitesse : v = a2.t + vB
+Au point C : vC = 0 ⟹ 0 = −(f/m).tC + vB ⟹ f = m.vB/tC
+A.N : f = 50.10-3 × 4/0,5 ⟹ f = 0,4 N
+
+3- Tronçon CD :
+
+3-1-1- L'expression de R :
+Deuxième loi de Newton : P⃗ + R⃗ = m.a⃗G
+Projection sur l'axe de Frenet (M, n⃗) :
+m.g.cosθ − R = m.v²/r ⟺ R = m.g.cosθ − m.v²/r
+R = m(g.cosθ − v²/r)
+v²/r = (r.θ̇)²/r = r.θ̇²
+R = m(g.cosθ − r.θ̇²)
+
+3-1-2- L'expression de l'accélération angulaire θ̈ :
+Projection sur l'axe de Frenet (M, u⃗) :
+m.g.sinθ + 0 = m.dv/dt ⟺ g.sinθ = d(r.θ̇)/dt = r.θ̈ ⟺ θ̈ = g.sinθ/r
+
+3-2- Déduction de l'expression de R en fonction de m, g et θ :
+θ̇² = (2g/r)(1 − cosθ)
+R = m[g.cosθ − r.(2g/r)(1 − cosθ)] = m(g.cosθ − 2g + 2g.cosθ)
+R = m.g(3cosθ − 2)
+
+3-3- La valeur de θ pour laquelle (S) quitte la gouttière :
+Quand (S) quitte la gouttière : R = 0
+m.g(3cosθ − 2) = 0 ⟺ cosθ = 2/3 ⟺ θ = cos-1(2/3) ⟺ θ = 48,2°
+
+### Partie II : Mise en orbite d'un satellite géostationnaire autour de la Terre
+
+1- Phase de décollage de la navette spatiale
+Deuxième loi de Newton : P⃗ + F⃗ = M.a⃗
+Projection sur l'axe Oz : F − P = M.a ⟺ a = (F − M.g0)/M ⟺ a = F/M − g0
+Mouvement rectiligne uniformément varié :
+z(t) = (1/2).a.t² ⟹ z(t) = (1/2).(F/M − g0).t²
+d = z(t1) = (1/2) × (1,16.107/7,3.105 − 9,8) × 6² ⟺ d = 109,63 m
+
+2- Phase de la mise en orbite basse du satellite
+
+2-1- L'expression de la vitesse vS :
+Deuxième loi de Newton : F⃗T/S = m.a⃗
+Projection sur l'axe (S, n⃗) : FT/S = m.an
+FT/S = G.MT.m/d1² et an = vS²/d1
+G.MT.m/d1² = m.vS²/d1 ⟺ vS² = G.MT/d1 ⟺ vS = √(G.MT/d1)
+A.N : vS = √(6,67.10-11 × 6,0.1024 / (6580.103)) = 7798,76 m.s-1
+
+2-2- La durée TS :
+vS = r.ω avec r = d1 et ω = 2π/TS
+vS = 2π.d1/TS ⟺ TS = 2π.d1/vS = 2π.d1.√(d1/(G.MT)) = 2π.√(d1³/(G.MT))
+TS² = 4π².d1³/(G.MT) ⟺ TS²/d1³ = 4π²/(G.MT) = Cte
+D'où la troisième loi de Kepler.
+
+3- Phase de transfert du satellite en satellite géostationnaire
+
+3-1- Le point où la vitesse est minimale :
+Selon la loi des aires, les aires balayées par le segment reliant le centre de la Terre au satellite pendant la même durée sont égales : AA' > BB' donc vA > vB.
+La vitesse est minimale au voisinage de B.
+
+3-2-1- Montrons l'expression de h :
+D'après la 3ème loi de Kepler : T²/(RT + h)³ = 4π²/(G.MT)
+(RT + h)³ = (G.MT/(4π²)).T²
+RT + h = ∛(T².G.MT/(4π²)) ⟺ h = ∛(T².G.MT/(4π²)) − RT
+
+3-2-2- Calcul de la vitesse du satellite géostationnaire :
+D'après 2-1 : v = √(G.MT/(RT + h)) avec RT + h = ∛(T².G.MT/(4π²))
+v = ∛(2π.G.MT/T)
+v = ∛(2π × 6,67.10-11 × 6,0.1024 / (23,9345 × 3600)) ⟺ v = 3078,77 m.s-1

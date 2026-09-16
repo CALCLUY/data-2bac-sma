@@ -1,0 +1,184 @@
+---
+Chapitre: Chapitre 4 : Fonctions logarithmiques
+Séance: Séance 4-1-1 : Fonctions logarithmiques - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 4-1-1 : Fonctions logarithmiques - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+### I- Fonction logarithme népérien
+
+#### 1-1/ Définition de la fonction ln
+
+Définition 1
+
+La primitive de la fonction $x \rightarrowtail \frac{1}{x}$ sur $\left]\right. 0 ; + \infty \left[\right.$ et qui s'annule en $1$ est appelée la fonction logarithme népérienne.
+
+On la note $ln$.
+
+Remarques
+
+Le domaine de définition de la fonction $ln$ est $\left]\right. 0 ; + \infty \left[\right.$, et $ln \left(\right. 1 \left.\right) = 0$.
+
+La fonction $ln$ est dérivable sur $\left]\right. 0 ; + \infty \left[\right.$ et de plus :
+
+$$\left(\forall x \in \left]\right. 0 ; + \infty \left[\right.\right) ln ' \left(x\right) = \frac{1}{x}$$
+
+On rappelle que toute fonction continue sur un intervalle admet une primitive définie sur cet intervalle.
+
+Applications
+
+Déterminer le domaine de définition de chacune des fonctions suivantes :
+
+$$f \left(x\right) = ln \left(x + 4\right) - ln \left(25 - x^{2}\right) \\ \\ g \left(x\right) = ln \left(x^{2} - 8 x + 7\right) \\ \\$$
+
+#### 1-2/ Monotonie de la fonction ln
+
+Proposition 1
+
+La fonction ln est strictement croissante sur $\left]\right. 0 ; + \infty \left[\right.$.
+
+On a alors :
+
+Pour tout $\left(x , y\right) \in \left(\left]\right. 0 ; + \infty \left[\right.\right)^{2}$ :
+
+$ln x < ln y \Leftrightarrow x < y$ et $ln x = ln y \Leftrightarrow x = y$
+
+Pour tout $x \in \left]\right. 0 ; + \infty \left[\right.$ :
+
+$ln x = 0 \Leftrightarrow x = 1$ et $ln x > 0 \Leftrightarrow x > 1$ et $ln x < 0 \Leftrightarrow x < 1$
+
+Applications
+
+1. Résoudre dans $\mathbb{R}$ les équations et les inéquations suivantes :
+
+$$\overline{\left.\right)1} ln \left(2 x - 3\right) = ln \left(4 - x\right) \\ \\ \overline{\left.\right)2} ln \left(x^{2} + x\right) = ln \left(- 2 x - 2\right) \\ \\ \overline{\left.\right)3} ln \left(3 x^{2} + 4 x + 2\right) = 0 \\ \\ \overline{\left.\right)4} ln \left(4 x - 5\right) > ln \left(2 x + 3\right)$$
+
+#### 1-3/ Propriétés algébriques
+
+Proposition 2
+
+Pour deux réels strictement positifs $x$ et $y$ on a : $ln \left(x y\right) = ln x + ln y$ (Propriété fondamentale)
+
+De cette propriété fondamentale on peut déduire les propriétés algébriques de la Proposition 3.
+
+Proposition 3
+
+1- Pour tout réel strictement positif $x$, on a : $ln \left(\frac{1}{x}\right) = - ln x$
+
+2- Pour tout $\left(x , y\right) \in \left(\left]\right. 0 ; + \infty \left[\right.\right)^{2}$, on a : $ln \left(\frac{x}{y}\right) = ln x - ln y$
+
+3- Pour tout $n \in \mathbb{N} \star$, et pour tous réels strictement positifs $x_{1} , x_{2} , . . . . , x_{n}$, on a :
+
+$$ln \left(x_{1} x_{2} , . . . . x_{n}\right) = ln \left(x_{1}\right) + ln \left(x_{2}\right) + . . . + ln \left(x_{n}\right)$$
+
+C'est-à-dire :
+
+$$ln \left(\prod_{k = 1}^{n} x_{k}\right) = \sum_{k = 1}^{n} ln \left(x_{k}\right)$$
+
+4- Pour tout $x \in \left]\right. 0 ; + \infty \left[\right.$, et pour tout $r \in \mathbb{Q}$, on a : $ln \left(x^{r}\right) = r ln x$
+
+Remarques
+
+1- Soit $a$ et $b$ deux réels strictement négatifs.
+
+On a alors $a b > 0$ et $\frac{a}{b} > 0$.
+
+Il s'ensuit donc : $ln \left(a b\right) = ln \left|a\right| + ln \left|b\right|$ et $ln \left(\frac{a}{b}\right) = ln \left|a\right| - ln \left|b\right|$
+
+2- On a pour tout $x \in \left]\right. 0 ; + \infty \left[\right.$ et pour tout entier $n \geq 2$ :
+
+$ln \left(\sqrt{x}\right) = \frac{1}{2} ln x$ et $ln \left(\sqrt[n]{x}\right) = \frac{1}{n} ln x$
+
+#### 1-4/ Limites usuelles
+
+Proposition 4
+
+$$\underset{x \rightarrow + \infty}{lim} ln \left(x\right) = + \infty \\ \\ \underset{x \rightarrow 0^{+}}{lim} ln \left(x\right) = - \infty$$
+
+#### 1-5/ Tableau de variations de la fonction ln
+
+Proposition 5
+
+La fonction ln est une bijection de l'intervalle $\left]\right. 0 ; + \infty \left[\right.$ vers $\mathbb{R}$.
+
+L'équation $ln \left(\right. x \left.\right) = 1$ admet une unique solution dans $\left]\right. 0 ; + \infty \left[\right.$. On la note $e$ :
+
+$$ln \left(x\right) = 1 \Leftrightarrow x = e$$
+
+Remarques
+
+À l'aide de la calculatrice, on trouve comme valeur approchée de e : 2,718281828
+
+On a pour tout $r \in \mathbb{Q}$ : $l n \left(e^{r}\right) = r$
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : https://www.alloschool.com/files/premium/maths/2bac-sm/s4/img1.jpg)
+
+#### 1-6/ Courbe de la fonction ln
+
+Proposition 6
+
+Soit $\mathcal{C}$ la courbe représentative de la fonction ln dans un repère orthonormé. Alors :
+
+La courbe $\mathcal{C}$ admet l'axe des ordonnées comme asymptote.
+
+La courbe $\mathcal{C}$ admet une branche parabolique de direction l'axe des abscisses : $\underset{x \rightarrow + \infty}{lim} \frac{ln x}{x} = 0$
+
+La courbe $\mathcal{C}$ est concave sur $\left]\right. 0 ; + \infty \left[\right.$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : https://www.alloschool.com/files/premium/maths/2bac-sm/s4/img2.jpg)
+
+#### 1-7/ Limites fondamentales
+
+Proposition 7
+
+On a :
+
+$$\underset{x \rightarrow 0^{+}}{lim} x ln x = 0 ; \underset{x \rightarrow 1}{lim} \frac{ln x}{x - 1} = 1 ; \underset{x \rightarrow 0}{lim} \frac{ln \left(1 + x\right)}{x} = 1$$
+
+On a pour tout $r \in \mathbb{Q}_{+}^{\star}$ :
+
+$$\underset{x \rightarrow + \infty}{lim} \frac{ln x}{x^{r}} = 0 ; \underset{x \rightarrow 0^{+}}{lim} x^{r} ln x = 0$$
+
+Applications
+
+Calculer les limites suivantes :
+
+$$\overline{\left.\right)1} \underset{x \rightarrow 0^{+}}{lim} \sqrt[3]{x} ln x = \\ \\ \overline{\left.\right)2} \underset{x \rightarrow 0^{+}}{lim} \frac{ln x}{\sqrt[5]{x}} = \\ \\ \overline{\left.\right)3} \underset{x \rightarrow + \infty}{lim} x ln \left(\frac{x - 1}{x + 1}\right) = \\ \\ \overline{\left.\right)4} \underset{x \rightarrow + \infty}{lim} \frac{ln \left(x^{2017} + x + 1\right)}{x} = \\ \\ \overline{\left.\right)5} \underset{x \rightarrow 0^{+}}{lim} \frac{ln x}{ln x + 3} =$$
+$$\overline{\left.\right)6} \underset{x \rightarrow - \infty}{lim} \sqrt{x^{2} ln \left(1 + \frac{4}{x^{2}}\right)} = \\ \\ \overline{\left.\right)7} \underset{x \rightarrow + \infty}{lim} \frac{ln x}{ln \left|x^{2} - 1\right|} = \\ \\ \overline{\left.\right)8} \underset{x \rightarrow 3}{lim} \frac{2 x}{x - 3} ln \left(\frac{x}{3}\right) = \\ \\ \overline{\left.\right)9} \underset{x \rightarrow + \infty}{lim} \frac{\sqrt[6]{ln \left(x^{2} + 3\right)}}{\sqrt[7]{x \sqrt{x} + 1}} =$$
+
+#### 1-8/ Dérivée logarithmique
+
+Proposition 8
+
+Soit $u$ une fonction dérivable sur un intervalle $I$ de $\mathbb{R}$ telle que $\left(\forall x \in I\right) , u \left(x\right) \neq 0$.
+
+Alors la fonction $x \rightarrowtail ln \left|u \left(x\right)\right|$ est dérivable sur $I$, et on a : $\left(ln \left|u \left(x\right)\right|\right) ' = \frac{u ' \left(x\right)}{u \left(x\right)}$
+
+Applications
+
+Déterminer les dérivées des fonctions suivantes :
+
+$$\overline{\left.\right)1} f \left(x\right) = ln \left|ln x\right| \\ \\ \overline{\left.\right)2} g \left(x\right) = x . \sqrt[3]{ln x - 2} \\ \\ \overline{\left.\right)3} h \left(x\right) = ln \left|cos x\right| \\ \\ \overline{\left.\right)4} k \left(x\right) = ln \left(\frac{1}{2 - ln x}\right)$$
+
+Définition 2
+
+Soit $u$ une fonction dérivable sur un intervalle $I$ telle que $\left(\forall x \in I\right) , u \left(x\right) \neq 0$.
+
+La fonction $\frac{u '}{u}$ est appelée la dérivée logarithmique de la fonction $u$ sur l'intervalle $I$.
+
+Proposition 9
+
+Soit $u$ une fonction dérivable sur un intervalle $I$ telle que $\left(\forall x \in I\right) , u \left(x\right) \neq 0$.
+
+Les primitives de la fonction $x \rightarrowtail \frac{u ' \left(x\right)}{u \left(x\right)}$ sur $I$ sont les fonctions $x \rightarrowtail ln \left|u \left(x\right)\right| + \lambda$ avec $\lambda \in \mathbb{R}$.
+
+Applications
+
+Dans chacun des cas suivants, déterminer les primitives de la fonction $f$ sur l'intervalle $I$ :
+
+$$\overline{\left.\right)1} f \left(x\right) = \frac{sin \left(2 x\right)}{5 + sin^{2} x} ; I = \mathbb{R} \\ \\ \overline{\left.\right)2} f \left(x\right) = \frac{x - 3}{x^{2} - 6 x} ; I = \mathbb{R}_{-}^{\star} \\ \\ \overline{\left.\right)3} f \left(x\right) = \frac{ln x}{x \left(ln^{2} \left(x\right) - 1\right)} ; I = \left]\right. e ; + \infty \left[\right. \\ \\ \overline{\left.\right)4} f \left(x\right) = \frac{5 x + 7}{2 x - 4} ; I = \left]\right. 2 ; + \infty \left[\right.$$

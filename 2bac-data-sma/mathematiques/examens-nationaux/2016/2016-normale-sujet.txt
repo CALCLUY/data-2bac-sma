@@ -1,0 +1,178 @@
+---
+Type: Examen National
+Année: 2016
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2016 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة الفرنسية
+NS 25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte 5 exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+  - Le premier exercice se rapporte aux structures algébriques …(3.5 pts)
+  - Le deuxième exercice se rapporte à l'arithmétique……….......(3 pts)
+  - Le troisième exercice se rapporte aux nombres complexes ….(3.5 pts)
+  - Le quatrième exercice se rapporte à l'analyse……………......(7 pts)
+  - Le cinquième exercice se rapporte à l'analyse………….……(3 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 : (3,5 points)
+
+On rappelle que $\left(M_{3}(\mathbb{R}) , + , \times\right)$ est un anneau unitaire d'unité $I = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$ et que $\left(\mathbb{C} , + , \times\right)$ est un corps commutatif.
+
+Pour tout $(x , y)$ de $\mathbb{R}^{2}$ on pose : $M(x , y) = \begin{pmatrix} x + y & 0 & -2y \\ 0 & 0 & 0 \\ y & 0 & x - y \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE] et $E = \left\{ M(x , y) \ ; \ (x , y) \in \mathbb{R}^{2} \right\}$
+
+0,5 — 1- Montrer que $E$ est un sous-groupe du groupe $\left(M_{3}(\mathbb{R}) , +\right)$
+
+0,5 — 2- Vérifier que : $\left(\forall (x , y) \in \mathbb{R}^{2}\right) \left(\forall (x' , y') \in \mathbb{R}^{2}\right) : M(x , y) \times M(x' , y') = M\left(xx' - yy' , xy' + yx'\right)$
+
+3- On pose : $E^{*} = E - \left\{ M(0 , 0) \right\}$ et on considère l'application $\varphi : \mathbb{C}^{*} \to E$ qui au nombre complexe $z = x + iy$ associe la matrice $M(x , y)$ de $E$, avec $(x , y) \in \mathbb{R}^{2}$
+
+0,25 — a) Montrer que $\varphi$ est un homomorphisme de $\left(\mathbb{C}^{*} , \times\right)$ vers $\left(E , \times\right)$
+
+0,75 — b) En déduire que $\left(E^{*} , \times\right)$ est un groupe commutatif d'élément neutre $M(1 , 0)$.
+
+0,5 — 4- Montrer que $\left(E , + , \times\right)$ est un corps commutatif.
+
+5- On pose : $A = \begin{pmatrix} 0 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{pmatrix}$
+
+0,5 — a) Calculer $A \times M(x , y)$ pour $M(x , y) \in E$
+
+0,5 — b) En déduire qu'aucun élément de $E$ n'admet de symétrique dans $\left(M_{3}(\mathbb{R}) , \times\right)$
+
+## EXERCICE 2 : (3 points)
+
+### Première partie :
+
+Soit $(a , b)$ dans $\mathbb{N}^{*} \times \mathbb{N}^{*}$ tel que le nombre premier $173$ divise $a^{3} + b^{3}$
+
+0,25 — 1- Montrer que : $a^{171} \equiv -b^{171} \ [173]$ [FORMULA_IMAGE_UNREADABLE] (remarquer que : $171 = 3 \times 57$)
+
+0,25 — 2- Montrer que : $173$ divise $a$ si et seulement si $173$ divise $b$
+
+0,25 — 3- On suppose que $173$ divise $a$. Montrer que $173$ divise $a + b$
+
+4- On suppose que $173$ ne divise pas $a$.
+
+0,5 — a) En utilisant le théorème de FERMAT, montrer que : $a^{172} \equiv b^{172} \ [173]$
+
+0,5 — b) Montrer que : $a^{171}\left(a + b\right) \equiv 0 \ [173]$
+
+0,5 — c) En déduire que $173$ divise $a + b$
+
+### Deuxième partie :
+
+On considère dans $\mathbb{N}^{*} \times \mathbb{N}^{*}$ l'équation suivante : $(E) \quad x^{3} + y^{3} = 173\left(xy + 1\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+Soit $(x , y)$ un élément de $\mathbb{N}^{*} \times \mathbb{N}^{*}$ solution de $(E)$, on pose : $x + y = 173 k$ avec $k \in \mathbb{N}^{*}$
+
+0,25 — 1- Vérifier que : $k\left(\ldots\right)^{2} - \ldots = k - 1 \ldots xy$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 2- Montrer que $k = 1$ puis résoudre l'équation $(E)$.
+
+## EXERCICE 3 : (3,5 points)
+
+Le plan complexe est rapporté à un repère orthonormé direct $\left(O , \overrightarrow{u} , \overrightarrow{v}\right)$.
+
+On considère dans le plan complexe deux points $M_{1}$ et $M_{2}$ tels que les points $O$, $M_{1}$ et $M_{2}$ sont distincts deux à deux et non alignés.
+
+Soient $z_{1}$ et $z_{2}$ les affixes respectives des points $M_{1}$ et $M_{2}$ et soit $M$ le point dont l'affixe $z$ vérifie la relation : $z = \dfrac{2 z_{1} z_{2}}{z_{1} + z_{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- a) Montrer que : $\dfrac{z - z_{1}}{z - z_{2}} = -\dfrac{z_{1}}{z_{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) En déduire que le point $M$ appartient au cercle circonscrit au triangle $OM_{1}M_{2}$
+
+0,5 — 2- Montrer que si $z_{2} = \overline{z_{1}}$ alors $M$ appartient à l'axe des réels.
+
+3- On suppose que $M_{2}$ est l'image de $M_{1}$ par la rotation de centre $O$ et de mesure d'angle $\theta$ où $\theta$ est un réel de l'intervalle $\left]0 , \pi\right[$
+
+0,5 — a) Calculer $z_{2}$ en fonction de $z_{1}$ et de $\theta$
+
+0,5 — b) Montrer que le point $M$ appartient à la médiatrice du segment $\left[M_{1}M_{2}\right]$
+
+4- Soit $\theta$ un réel donné de l'intervalle $\left]0 , \pi\right[$.
+
+On suppose que $z_{1}$ et $z_{2}$ sont les deux solutions de l'équation : $t^{2} - 6\left(1 + e^{i\theta}\right) t + \ldots e^{i\theta} = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a) Sans calculer $z_{1}$ et $z_{2}$ vérifier que : $z = \dfrac{2 e^{i\theta}}{1 + e^{i\theta}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Donner en fonction de $\theta$, la forme trigonométrique du nombre complexe $z$.
+
+## EXERCICE 4 : (7 points)
+
+### Première partie :
+
+0,5 — 1- En appliquant le théorème des accroissements finis à la fonction $t \mapsto e^{t}$, montrer que pour tout réel strictement positif $x$, il existe un réel $c$ compris entre $0$ et $x$ tel que : $\dfrac{e^{x} - 1}{x} = e^{c}$ [FORMULA_IMAGE_UNREADABLE]
+
+2- En déduire que :
+
+0,25 — a) $\left(\forall x > 0\right) \ ; \ 1 - x < e^{-x}$
+
+0,25 — b) $\left(\forall x > 0\right) \ ; \ 1 + x < e^{x}$
+
+0,25 — c) $\left(\forall x > 0\right) \ ; \ 0 < \ln\left(\dfrac{x e^{x}}{e^{x} - 1}\right) < x$ [FORMULA_IMAGE_UNREADABLE]
+
+### Deuxième partie :
+
+On considère la fonction numérique $f$ définie sur $\left[0 , +\infty\right[$ par : $f(x) = \dfrac{x e^{x}}{e^{x} - 1}$ [FORMULA_IMAGE_UNREADABLE] si $x > 0$ et $f(0) = 1$
+
+et soit $(C)$ la courbe représentative de $f$ dans le plan muni d'un repère orthonormé $\left(O , \overrightarrow{i} , \overrightarrow{j}\right)$.
+
+0,5 — 1- a) Montrer que la fonction $f$ est continue à droite en $0$.
+
+0,5 — b) Montrer que : $\lim\limits_{x \to +\infty} \dfrac{f(x)}{x} = 0$ [FORMULA_IMAGE_UNREADABLE] puis interpréter graphiquement le résultat obtenu.
+
+0,25 — 2- a) Montrer que : $\left(\forall x \geq 0\right) \quad -x \leq -1 + \dfrac{x^{2}}{2} \ldots e^{-x}$ [FORMULA_IMAGE_UNREADABLE]
+
+(On pourra utiliser le résultat de la question 2-a) de la première partie)
+
+0,5 — b) En déduire que : $\left(\forall x \geq 0\right) \quad -\dfrac{x^{2}}{2} \leq e^{-x} - 1 + x - \dfrac{x^{3}}{6} \leq \dfrac{x^{2}}{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 3- a) Vérifier que : $\left(\forall x > 0\right) \quad \dfrac{f(x) - 1}{x} = \dfrac{e^{x} - 1 - x \ldots}{x^{2}} f(x)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b) En déduire que : $\lim\limits_{x \to 0^{+}} \dfrac{f(x) - 1}{x} = \dfrac{1}{2}$ puis interpréter le résultat obtenu.
+
+0,75 — 4- a) Montrer que $f$ est dérivable en tout point de $\left]0 , +\infty\right[$ et que : $\left(\forall x > 0\right) \quad f'(x) = \dfrac{e^{x}\left(e^{x} - 1 - x\right)}{\left(e^{x} - 1\right)^{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) En déduire que la fonction $f$ est strictement croissante sur $\left]0 , +\infty\right[$.
+
+(On pourra utiliser le résultat de la question 2-b) de la première partie)
+
+### Troisième partie :
+
+On considère la suite numérique $\left(u_{n}\right)_{n \geq 0}$ définie par : $u_{0} > 0$ et $u_{n+1} = \ln\left(f\left(u_{n}\right)\right)$ pour $n \in \mathbb{N}$
+
+0,5 — a) Montrer que pour tout entier naturel $n$ on a : $u_{n} > 0$
+
+0,5 — b) Montrer que la suite $\left(u_{n}\right)_{n \geq 0}$ est strictement décroissante et en déduire qu'elle est convergente.
+
+(On pourra utiliser le résultat de la question 2-c) de la première partie)
+
+0,5 — c) Montrer que $0$ est l'unique solution de l'équation : $\ln\left(f(x)\right) = x$ puis déterminer la limite de la suite $\left(u_{n}\right)_{n \geq 0}$
+
+## EXERCICE 5 : (3 points)
+
+On considère la fonction numérique $F$ définie sur l'intervalle $I = \left]0 , +\infty\right[$ par : $F(x) = \displaystyle\int_{x}^{\ln 2} \frac{1}{\sqrt{e^{t} - 1}}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- a) Étudier le signe de $F(x)$ pour tout $x$ de $I$
+
+0,5 — b) Montrer que la fonction $F$ est dérivable sur l'intervalle $I$ et calculer $F'(x)$ pour tout $x$ de $I$.
+
+0,25 — c) Montrer que la fonction $F$ est strictement croissante sur l'intervalle $I$
+
+0,5 — 2- a) En utilisant la technique de changement de variable en posant : $u = \sqrt{e^{t} - 1}$, montrer que pour tout $x$ de $I$ on a : $\displaystyle\int_{x}^{\ln 2} \frac{1}{\sqrt{e^{t} - 1}}\,dt = 2 \arctan\left(\sqrt{e^{x} - 1}\right) \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Calculer $\lim\limits_{x \to 0^{+}} F(x)$ et $\lim\limits_{x \to +\infty} F(x)$
+
+0,25 — 3- a) Montrer que la fonction $F$ est une bijection de l'intervalle $I$ dans un intervalle $J$ que l'on déterminera.
+
+0,5 — b) Déterminer $F^{-1}$ la bijection réciproque de $F$.
+
+FIN

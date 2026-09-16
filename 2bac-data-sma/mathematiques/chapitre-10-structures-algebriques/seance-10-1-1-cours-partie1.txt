@@ -1,0 +1,297 @@
+---
+Chapitre: Chapitre 10 : Structures algébriques
+Séance: Séance 10-1-1 : Structures algébriques - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 10-1-1 : Structures algébriques - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+### I- Loi de composition interne
+
+#### 1-1/ Introduction
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s10/img1.jpg)
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s10/img2.jpg)
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s10/img3.jpg)
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s10/img4.jpg)
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s10/img5.jpg)
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s10/img6.jpg)
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s10/img7.jpg)
+
+#### 1-2/ Définition d'une loi de composition interne
+
+##### Définition 1
+
+On appelle loi de composition interne sur un ensemble $E$, toute application de $E \times E$ dans $E$.
+
+Traditionnellement, on utilise la notation $x \star y$ pour désigner l'image d'un couple $\left(\right. x ; y \left.\right) \in E \times E$ par une loi $\star$ plutôt qu'une notation fonctionnelle.
+
+On note $\left(E ; \star\right)$ un ensemble $E$ muni d'une loi de composition interne $\ll \star \gg$.
+
+##### Applications
+
+Pour tous $x$ et $y$ de $\mathbb{R} - \left{\frac{1}{2}\right}$, on pose : $x \star y = x + y - 2 x y$.
+
+1. Montrer que $\star$ est une loi de composition interne sur $\mathbb{R} - \left{\frac{1}{2}\right}$.
+
+Sur l'intervalle $I = \left]\right. - 1 ; 1 \left[\right.$, on définit la relation $\bot$ par : $\left(\forall \left(x ; y\right) \in I^{2}\right) x \bot y = \frac{x + y}{1 + x y}$
+
+2. La relation $\bot$ est-elle une loi de composition interne sur $I$ ? Justifier.
+
+On considère l'ensemble $E = \left{f_{1} , f_{2} , f_{3} , f_{4}\right}$ où les fonctions $f_{i} \left(i \in \left{1 ; 2 ; 3 ; 4\right}\right)$ des fonctions numériques définies de $\mathbb{R} \star$ vers $\mathbb{R} \star$ par :
+
+$$f_{1} : x \rightarrowtail x ; f_{2} : x \rightarrowtail - x ; f_{3} : x \rightarrowtail \frac{1}{x} ; f_{4} : x \rightarrowtail - \frac{1}{x}$$
+
+3. Dresser la table de $\left(E ; \circ\right)$.
+
+4. Montrer que $\circ$ (composition des fonctions) est une loi de composition interne sur $E$.
+
+#### 1-3/ Partie stable - Loi induite
+
+##### Définition 2
+
+Soit $\left(\right. E ; \star \left.\right)$ un ensemble muni d'une loi de composition interne et $F$ une partie de $E$.
+
+On dit que $F$ est stable par $\star$ si : $\left(\forall \left(x ; y\right) \in F^{2}\right) x \star y \in F$
+
+La loi de composition interne alors définie sur $F$ par $F^{2} \rightarrow F \\ \left(\right. x ; y \left.\right) \rightarrowtail x \star y$ est appelée loi induite par $\star$ sur $F$.
+
+##### Applications
+
+On considère l'ensemble $S = \left{x^{2} + y^{2} / \left(x ; y\right) \in \mathbb{N}^{2}\right}$
+
+1. Montrer que $S$ est une partie stable de $\left(\mathbb{N} ; \times\right)$.
+
+2. L'ensemble $S$ est-il stable pour l'addition dans $\mathbb{N}$ ? Justifier.
+
+On considère les ensembles $A = \left{3^{n} \times 2^{m} / \left(n ; m\right) \in \mathbb{N}^{2}\right}$ et $B = \left{n^{2} / n \in \mathbb{N}\right}$
+
+3. Étudier la stabilité de $A$ pour l'addition et la multiplication dans $\mathbb{N}$.
+
+4. Étudier la stabilité de $B$ pour l'addition et la multiplication dans $\mathbb{N}$.
+
+On considère l'ensemble $G = \begin{Bmatrix} \begin{bmatrix} 1 & 0 & 0 \\ a & 1 & 0 \\ b & c & 1 \end{bmatrix} / \left(a ; b ; c\right) \in \mathbb{R}^{3} \end{Bmatrix}$
+
+5. Montrer que $G$ est une partie stable de $\left(\mathbb{M}_{3} \left(\mathbb{R}\right) ; \times\right)$
+
+### II- Propriétés d'une loi de composition interne
+
+#### 2-1/ Associativité - Commutativité
+
+##### Définition 3
+
+Soit $\left(E ; \star\right)$ un ensemble muni d'une loi de composition interne.
+
+On dit que la loi $\star$ est associative dans $\left(E ; \star\right)$ si :
+
+$$\left(\forall \left(a ; b ; c\right) \in E^{3}\right) \left(a \star b\right) \star c = a \star \left(b \star c\right)$$
+
+On dit que la loi $\star$ est commutative dans $\left(E ; \star\right)$ si :
+
+$$\left(\forall \left(a ; b\right) \in E^{2}\right) a \star b = b \star a$$
+
+##### Remarques
+
+La loi $\star$ n'est pas commutative dans $\left(E ; \star\right)$ signifie que :
+
+$$\left(\exists \left(a ; b\right) \in E^{2}\right) a \star b \neq b \star a$$
+
+La loi $\star$ n'est pas associative dans $\left(E ; \star\right)$ signifie que :
+
+$$\left(\exists \left(a ; b ; c\right) \in E^{3}\right) \left(a \star b\right) \star c \neq a \star \left(b \star c\right)$$
+
+Si la loi $\star$ est associative dans $\left(E ; \star\right)$, alors on peut supprimer les parenthèses et écrire :
+
+$$\left(a \star b\right) \star c = a \star \left(b \star c\right) = a \star b \star c$$
+
+##### Applications
+
+Étudier la commutativité et l'associativité de la loi de composition interne $T$ définie sur $E = \mathbb{Z} \times \mathbb{Z}$ par :
+
+$$\left(a ; b\right) T \left(x ; y\right) = \left(a x ; a y + b x\right)$$
+
+#### 2-2/ L'élément neutre
+
+##### Définition 5
+
+Soit $\left(E ; \star\right)$ un ensemble muni d'une loi de composition interne.
+
+Un élément $e$ de $\left(E ; \star\right)$ est dit neutre si : $\left(\forall x \in E\right) e \star x = x \star e = x$
+
+##### Remarques
+
+- Si la loi $\star$ est commutative dans $\left(E ; \star\right)$, alors une des relations de la définition 5 suffit.
+
+On peut prendre alors soit $\left(\forall x \in E\right) e \star x = x$, ou bien $\left(\forall x \in E\right) x \star e = x$.
+
+- Si $S$ est une partie stable de $\left(E ; \star\right)$, et si $e$ est neutre dans $\left(E ; \star\right)$, alors cela n'implique pas que $e$ est neutre dans $\left(S ; \star\right)$.
+
+À titre d'exemple : Prenons $E = \mathbb{Z} / 6 \mathbb{Z}$ et $S = \left{\bar{0} ; \bar{2} ; \bar{4}\right}$
+
+$\bar{1}$ est neutre dans $E$ et $\bar{4}$ est neutre dans $S$.
+
+##### Applications
+
+On munit l'ensemble $\mathbb{Z}$ d'une loi de composition interne $\star$ définie par :
+
+$$\left(\forall \left(x ; y\right) \in \mathbb{Z}^{2}\right) x \star y = x + y - 3$$
+
+1. Montrer que $\left(\mathbb{Z} ; \star\right)$ admet un élément neutre.
+
+On considère l'ensemble : $A = \begin{Bmatrix} \begin{bmatrix} \alpha & \beta \\ 0 & \alpha \end{bmatrix} / \left(\alpha ; \beta\right) \in \mathbb{R}^{2} \end{Bmatrix}$
+
+2. Montrer que $\times$ est une loi de composition interne sur $A$.
+3. Est-ce-que $\left(A ; \times\right)$ admet un élément neutre ? Justifier.
+
+##### Proposition 1
+
+Soit $\left(E ; \star\right)$ un ensemble muni d'une loi de composition interne.
+
+Si $e$ et $e '$ sont deux éléments neutres pour la loi $\star$ dans $E$, alors $e = e '$.
+
+Autrement dit : un élément neutre pour une loi de composition interne, lorsqu'il existe, est unique.
+
+#### 2-3/ Symétrique d'un élément
+
+##### Définition 6
+
+Soit $\left(E ; \star\right)$ un ensemble muni d'une loi de composition interne et possédant un élément neutre $e$.
+
+Un élément $a \in E$ est dit symétrisable (ou inversible) pour $\star$ s'il existe un élément $a ' \in E$ tel que $a \star a ' = a ' \star a = e$
+
+Un tel élément $a '$ (s'il existe) est appelé un symétrique (ou inverse) de $a$ pour $\star$.
+
+##### Remarques
+
+Si $a '$ est un symétrique de $a$ pour la loi $\star$, alors $a$ est un symétrique de $a '$ pour la même loi.
+
+Si la loi $\star$ est commutative, alors on peut se contenter de l'une des relations $a \star a ' = e$ ou $a ' \star a = e$.
+
+Si $a '$ est un symétrique de $a$ pour la loi $\star$, on dit alors que $a$ et $a '$ sont symétriques dans $\left(E ; \star\right)$.
+
+##### Proposition 2
+
+Soit $\left(E ; \star\right)$ un ensemble muni d'une loi de composition interne associative et possédant un élément neutre $e$.
+
+Si un élément $a \in E$ est symétrisable, alors, le symétrique de $a$ est unique.
+
+##### Remarques
+
+Le symétrique d'un élément $a$ se note :
+
+* $a^{- 1}$ pour une loi notée multiplicativement et s'appelle inverse de $a$.
+* $- a$ pour une loi notée additivement et s'appelle opposé de $a$.
+
+Lorsque $f$ est une bijection de $E$ dans $E$, il n'y a donc pas ambiguïté dans la notation $f^{- 1}$, il s'agit aussi bien de son application réciproque que de son inverse pour la loi $\circ$.
+
+##### Proposition 3
+
+Soit $\left(E ; \star\right)$ un ensemble muni d'une loi de composition interne associative et possédant un élément neutre $e$.
+
+Si $a$ et $b$ sont deux éléments symétrisables, alors $a \star b$ est aussi symétrisable et son symétrique est $\left(a \star b\right) ' = b ' \star a '$, où $a '$ et $b '$ sont respectivement les symétriques de $a$ et $b$.
+
+##### Applications
+
+On munit $\mathbb{R}$ d'une loi de composition interne définie comme suit :
+
+$$\left(\forall \left(x ; y\right) \in \mathbb{R}^{2}\right) x \star y = x + y + \frac{1}{2} x y$$
+
+1. Montrer que la loi $\star$ est associative.
+
+2. Montrer que $\star$ admet un élément neutre que l'on déterminera.
+
+3. Déterminer les éléments symétrisables pour la loi $\star$.
+
+4. Montrer que le symétrique de $- 1$ est $2$, et que le symétrique de $6$ est $- 3$.
+
+#### 2-4/ Élément régulier d'une loi de composition interne
+
+##### Définition 7
+
+Soit $\left(E ; \star\right)$ un ensemble muni d'une loi de composition interne.
+
+Un élément $a \in E$ est dit régulier ou simplifiable si, et seulement si :
+
+$$\left(\forall \left(x ; y\right) \in E^{2}\right) \left{\begin{matrix} a \star x = a \star y \Rightarrow x = y \overline{\left.\right)1} \\ x \star a = y \star a \Rightarrow x = y \overline{\left.\right)2} \end{matrix}\right$$
+
+##### Remarque
+
+Si la loi $\star$ est commutative dans E, alors l'une des implications $\overline{\left.\right)1}$ ou $\overline{\left.\right)2}$ suffit pour que l'élément a soit régulier dans $\left(E ; \star\right)$..
+
+##### Applications
+
+On considère l'ensemble $\mathbb{N} \star$ muni de la loi de composition interne définie par $a \land b = c$, où $c$ est le plus grand commun diviseur des entiers $a$ et $b$.
+
+Est-ce-que tout élément de $\mathbb{N} \star$ est régulier dans $\left(\mathbb{N} \star ; \land\right)$ ? Justifier.
+
+### III- Morphismes
+
+#### 3-1/ Définition d'un morphisme
+
+##### Définition 8
+
+Soit $\left(E ; \star\right)$ et $\left(F ; T\right)$ deux ensembles munis de lois de composition interne, et soit $f$ une application de $E$ dans $F$.
+
+On dit que $f$ est un morphisme de $\left(E ; \star\right)$ dans $\left(F ; T\right)$ lorsque :
+
+$$\left(\forall \left(x ; y\right) \in E^{2}\right) f \left(x \star y\right) = f \left(x\right) T f \left(y\right)$$
+
+##### Définition 9
+
+Un morphisme s'appelle aussi un homomorphisme.
+
+Un endomorphisme de $\left(E ; \star\right)$ est un morphisme de $\left(E ; \star\right)$ dans lui-même.
+
+Un isomorphisme est un morphisme bijectif.
+
+Un automorphisme est un endomorphisme bijectif.
+
+##### Applications
+
+Soit $f_{a}$ l'application définie de $\mathbb{R}^{2}$ dans $\mathbb{R}^{2}$ par $\left(\forall \left(x ; y\right) \in \mathbb{R}^{2}\right) f_{a} \left(x ; y\right) = \left(a x ; \frac{y}{a}\right)$ (où $a \in \mathbb{R} \star$)
+
+1. Montrer que $f_{a}$ est une application bijective.
+
+Soit $\mathcal{F}$ l'ensemble des applications $f_{a}$ quand $a$ varie sur $\mathbb{R} \star$.
+
+2. Déterminer l'application $f_{a '} \circ f_{a}$ où $\left(a ; a '\right) \in \left(\mathbb{R} \star\right)^{2}$.
+
+3. En déduire que la composition des applications $\circ$ est une loi de composition interne sur $\mathcal{F}$.
+
+On considère l'application :
+
+$$h : \mathbb{R} \star \rightarrow \mathcal{F} \\ a \rightarrowtail f_{a}$$
+
+4. Montrer que $h$ est un morphisme de $\left(\mathbb{R} \star ; \times\right)$ dans $\left(\mathcal{F} ; \circ\right)$.
+
+#### 3-2/ Propriétés d'un morphisme
+
+##### Proposition 4
+
+Soit $f$ un morphisme de $\left(E ; \star\right)$ dans $\left(F ; T\right)$.
+
+1- $f \left(E\right)$ est une partie stable de $\left(F ; T\right)$.
+
+2- Si la loi $\star$ est associative dans $\left(E ; \star\right)$, alors la loi $T$ est associative dans $\left(f \left(E\right) ; T\right)$.
+
+3- Si la loi $\star$ est commutative dans $\left(E ; \star\right)$, alors la loi $T$ est commutative dans $\left(f \left(E\right) ; T\right)$.
+
+4- Si la loi $\star$ admet un élément neutre $e$ dans $\left(E ; \star\right)$, alors $f \left(e\right)$ est un élément neutre dans $\left(f \left(E\right) ; T\right)$.
+
+5- Si la loi $\star$ admet un élément neutre $e$ dans $\left(E ; \star\right)$, et un élément $x$ admet un symétrique $x '$ dans $\left(E ; \star\right)$, alors $f \left(x\right)$ admet un symétrique dans $\left(f \left(E\right) ; T\right)$ qui est $f \left(x '\right)$.
+
+##### Corollaire
+
+Si $f$ est un isomorphisme de $\left(E ; \star\right)$ dans $\left(F ; T\right)$ (c'est-à-dire morphisme bijectif), alors $f$ transfère les propriétés de la loi $\star$ dans $\left(E ; \star\right)$ vers la loi $T$ de $\left(F ; T\right)$, et va ainsi conserver toutes les propriétés liées à cette loi.
+
+On exprime ce résultat en disant que $\left(E ; \star\right)$ et $\left(F ; T\right)$ ont la même structure.

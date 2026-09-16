@@ -1,0 +1,186 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2018 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية – خيار فرنسية
+الدورة الاستدراكية 2018 - عناصر الإجابة -
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية : مسلك العلوم الرياضية (أ) – خيار فرنسية
+مدة الإنجاز : 2 — المعامل : 3
+RR36F
+
+## Partie I : Restitution des connaissances (5 points)
+
+Question | Eléments de réponses | Barème
+
+I - a- Accepter toute définition correcte, à titre d’exemple :
+
+- La fécondation : Phénomène au cours duquel deux gamètes haploïdes, mâle et femelle, fusionnent donnant ainsi un œuf diploïde…........… (0.5 pt)
+
+- L’hybridation : Croisement de deux individus génétiquement différents, dans le but d'obtenir une descendance ayant les caractères héréditaires des deux parents. ……….….....................................…………………… (0.5 pt)
+
+b- Deux rôles correctes, notamment : ...................................(0.25 x 2 = 0.5 pt)
+
+- Réduction chromatique : de 2n à n.
+
+- Brassage interchromosomique des allèles aboutissant à l'apparition de nouvelles combinaisons génétiques.
+
+- Brassage intrachromosomique des allèles aboutissant à l'apparition de nouvelles combinaisons génétiques.
+
+c- Enoncé de la 3ème loi de Mendel (loi de disjonction des couples d’allèles) : Dans le cas d'un dihybridisme et lors de la formation des gamètes, il y'a une disjonction indépendante des couples d'allèles ………...……………..… (0.5 pt)
+
+(2 pts)
+
+II - (1 ; b) ; (2 ; b) ; (3 ; b) ; (4 ; c) …………………....……….…….…..0.5 x 4 — (2 pts)
+
+III - (1, b) - (2, a) - (3, d) – (4, c) ...................................................................0.25 x 4 — (1 pt)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (5 points)
+
+1 - Nombre de chromosomes :
+
+- Cellule a : n = 23 chromosomes (haploïde). …...........................(0.25 pt)
+
+- Cellule b : n = 23 chromosomes (haploïde). …..............................(0.25 pt)
+
+- Cellule c (œuf) : 2n = 46 chromosomes (diploïde). …..................(0.25 pt)
+
+(0.75 pt)
+
+2 - Réalisation d’un cycle chromosomique correct ……………………..…..(1 pt)
+
+[Figure — schéma : Diplophase, Méiose, Haplophase, Fécondation]
+
+Cycle diplophasique………………………….....…………………..…. (0.25 pt)
+
+(1.25 pt)
+
+3 - a- Accepter tout raisonnement logique :
+
+- Maladie récessive : l’individu IV4 (ou IV6 ou IV10 ou IV11) est malade et issu de deux parents sains (descendance malade issue de parents sains……(0.25 pt)
+
+- Maladie non liée au sexe :
+
+* Non liée au chromosome Y : l’individu IV6 ou IV10 est atteint et issu d’un père sain……………………………………...........…………..……… (0.25 pt)
+
+* Non liée au chromosome X : l’individu II1 (ou III9 ou III11) est sain et issu d’une mère malade…………………………………….......………....… (0.25 pt)
+
+(0.75 pt)
+
+b- Le génotype des individus :
+
+I1 : t//t
+
+III2 : N//t
+
+III6 : N//N ou N//t………………………………....... ………… …….(0.25 x 4)
+
+(1 pt)
+
+4 - a- l’homme IV8 et la femme IV9 sont sains, et chacun d’eux a un frère atteint de β-thalassémie, donc leurs parents sont hétérozygotes N//t……...……… (0.25 pt)
+
+La probabilité pour que chacun des deux individus soit hétérozygote est 2/3……………………………………………...……….……………….(0.25 pt)
+
+(0.5 pt)
+
+b- la probabilité pour que les deux individus IV8 et IV9, s’ils sont hétérozygotes, donnent un individu atteint de la maladie est ¼. Justification : l’échiquier de croisement.
+
+| Gamètes | N/ ½ | t/ ½ |
+| --- | --- | --- |
+| N/ ½ | N//N [N] ¼ | N//t [N] ¼ |
+| t/ ½ | N//t [N] ¼ | t//t [t] ¼ |
+
+………………………………………….………………………………(0.25 pt)
+
+La probabilité pour que chacun des deux individus soit porteur de la maladie est 2/3, donc la probabilité d’apparition d’un fils atteint de β-thalassémie est :
+
+2/3 x 2/3 x 1/4 = 1/9 ……………...................................................……..(0.5 pt)
+
+(0.75 pt)
+
+### Exercice nº 2 : (5 pts)
+
+1 - Description du polygone de fréquences de la longueur de la tige florale chez la population (P1) :
+
+- Polygone de fréquence unimodal……............................................….. (0.25 pt)
+
+- Mode m1 = 47,5 cm……...................................................................….. (0.25 pt)
+
+- Dispersion de la longueur de la tige florale entre 20 cm et 75 cm. .….. (0.25 pt)
+
+Déduction : la population (P1) est homogène. …….........................….. (0.25 pt)
+
+(1 pt)
+
+2 - a. Description du polygone de fréquences de la longueur de la tige florale chez la population (P2) :
+
+- Polygone de fréquence unimodal……............................................….. (0.25 pt)
+
+- Mode m2 = 68 cm……......................................................................….. (0.25 pt)
+
+- Dispersion de la longueur de la tige florale entre 40 cm et 90 cm. .….. (0.25 pt)
+
+- Déduction : La sélection pratiquée par le producteur est efficace, et a permis d’obtenir une population homogène (P2) caractérisée par des individus à tige florale plus longue en comparaison avec celle des individus de la population (P1)…………….............................… …..……………………………..(0.75 pt)
+
+(1.5 pt)
+
+b. Puisque la sélection pratiquée par l'agriculteur est efficace, on déduit que la population (P1) est hétérogène…………………………………............... (0.5 pt)
+
+- Contrairement à la déduction faite à la question n°1 la population est formée de deux races ou plus .............................................................................(0.5 pt)
+
+(1 pt)
+
+3 - Les populations (P2) et (P3) ont le même mode et la même variation de la longueur de la tige florale. ….................................................................... (0.5 pt)
+
+- La sélection pratiquée par l'agriculteur sur la population (P2) est inefficace. ................................................................................................................ (0.5 pt)
+
+- L'agriculteur ne peut pas améliorer la longueur de la tige de ces fleurs...(0.5 pt)
+
+(1.5 pt)
+
+### Exercice nº 3 : (5 pts)
+
+1 - Chez les rats résistants (groupe 1), en comparaison avec les rats sensibles à la Warfarine, on constate une substitution de la base azotée A par la base azotée T au niveau du triplet 120, ce qui entraine une substitution de l’acide aminé Leu par l’acide aminé Gln au niveau de l'acide aminé 120.............................. (0.5 pt)
+
+- Chez les rats résistants (groupe 2), en comparaison avec les rats sensibles à la Warfarine, on constate une substitution de la base azotée A par la base azotée T au niveau du triplet 128, ce qui entraine une substitution de l’acide aminé Leu par l’acide aminé Gln au niveau de l'acide aminé 128.............................. (0.5 pt)
+
+Déduction : Mutation par substitution (mutation ponctuelle)................. (0.25 pt)
+
+(1.25 pt)
+
+2 - La résistance des rats à la warfarine est due à :
+
+- La mutation qui a entrainé la synthèse d’une protéine VKOR1 insensible à la warfarine……………………………………………...……………….. (0.5 pt)
+
+- Les rats résistants à la warfarine consomment de grandes quantités d’aliments riches en vitamines K pour survivre…………………………………... (0.5 pt)
+
+(1 pt)
+
+3 - Avant la compagne d'éradication des rats, le pourcentage des rats résistants n’a pas dépassé 2% dans la population …................................................ (0.25 pt)
+
+- Pendant la compagne d'éradication des rats, le pourcentage des rats résistants au pesticide s’est multiplié par 30 pour atteindre 60% environ............... (0.25 pt)
+
+- Peu de temps après la compagne d'éradication des rats le pourcentage des rats résistants a augmenté pour atteindre 98%. …………………..…….….. (0.25 pt)
+
+- Environ 2 ans après le programme d'éradication, le pourcentage des rats résistants a diminué pour atteindre environ 35% ............................. ......... (0.25 pt)
+
+(accepter des pourcentages approximatifs des valeurs proposées)
+
+(1 pt)
+
+4 - La mutation a entrainé l’apparition des rats résistants à la warfarine parmi les rats sensibles à ce pesticide dans la population…………..………..... (0.25 pt)
+
+- L’utilisation de la warfarine pendant la compagne d'éradication des rats a favorisé la multiplication des rats résistants : sélection préférentielle des rats résistants …………...………………………………………….…….... (0.75 pt)
+
+- L’arrêt du traitement à la Warfarine a défavorisé les rats résistants à ce pesticide en comparaison aux rats sensibles qui se sont multipliés : sélection préférentielle des rats sensibles…….….………………….…….……..(0.75 pt)
+
+(1.75 pts)

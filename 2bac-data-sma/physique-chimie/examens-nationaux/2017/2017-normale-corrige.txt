@@ -1,0 +1,374 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2017 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+2ème année Sciences Mathématiques — Physique-chimie
+Correction du sujet de l'examen national du Baccalauréat — Session normale : 2017
+KACHICHE MUSTAPHA - Madariss MARIA - TEMARA
+
+[NOTE : corrigé détaillé rédigé par un enseignant (et non les éléments de réponse officiels). Les formules du document d'origine sont des images ; elles ont été restituées en notation linéaire fidèle aux étapes du corrigé.]
+
+## - Chimie -
+
+### Partie I :
+
+1- Détermination du pKA du couple HCOOH / HCOO- par dosage :
+
+1-1- Equation chimique de la réaction du dosage :
+
+HCOOH(aq) + HO-(aq) → HCOO-(aq) + H2O(l)
+
+1-2- * Détermination graphique du volume VBE versé à l'équivalence : VBE = 20 mL.
+
+* Calcul de la concentration C : On applique la relation à l'équivalence :
+
+C.VA = CB.VBE ⇒ C = CB.VBE/VA ; A.N : C = 0,1×20/50 = 0,04 mol.L-1
+
+1-3- Vérification de p = 80% :
+
+- Expression de p :
+
+p = macide/msolution = n.M(HCOOH)/(ρsol.V0) = C0.M(HCOOH)/(ρeau.d)
+
+Or d'après la relation de dilution : C0.V0 = C.VS ⇒ C0 = C.VS/V0
+
+Finalement : p = C.VS.M(HCOOH)/(V0.ρeau.d)
+
+A.N : p = 0,04×1×46/(2.10-3×1000×1,15) = 0,8 = 80%
+
+1-4- * Détermination de l'espèce prédominante :
+
+- Lorsque VB = 16 mL alors pH = 4,4.
+- Tableau d'avancement :
+
+| Equation de la réaction | HCOOH(aq) + HO-(aq) → HCOO-(aq) + H2O(l) | | | |
+| --- | --- | --- | --- | --- |
+| Etat du système | Avancement x (mol) | n(HCOOH) | n(HO-) | n(HCOO-) |
+| Etat initial | 0 | C.VA | CB.VB | 0 |
+| Etat intermédiaire | x | C.VA − x | CB.VB − x | x |
+| Etat équivalence | xE | C.VA − xE | CB.VB − xE | xE |
+
+En se servant de ce tableau ; on obtient pour x < xE :
+
+[H3O+] = 10-pH = 10-4,4 ≈ 4.10-5 mol.L-1
+x = CB.VB − ... ⇒ n(HCOO-) ≈ 1,6.10-3 mol ⇒ [HCOO-] = 1,6.10-3/((50+16).10-3) ≈ 2,42.10-2 mol.L-1
+[HCOOH] = (C.VA − x)/(VA + VB) = (0,04×50.10-3 − 1,6.10-3)/(66.10-3) ≈ 6.10-3 mol.L-1
+
+On remarque que [HCOO-] > [HCOOH], donc l'espèce prédominante est HCOO-.
+
+* Déduction du pKA du couple HCOOH / HCOO- :
+
+pKA = −Log(KA) = −Log([H3O+]×[HCOO-]/[HCOOH])
+
+A.N : pKA = −Log(10-4,4 × 2,42.10-2/6.10-3) = −Log(1,61.10-4) ≈ 3,8
+
+2- Détermination du pKA du couple HCOOH / HCOO- par conductimétrie :
+
+2-1- Equation chimique de la réaction entre HCOOH et l'eau :
+
+HCOOH(aq) + H2O(l) ⇄ HCOO-(aq) + H3O+(aq)
+
+2-2- Expression de l'avancement final xf :
+
+- Expression de la conductivité de la solution (S) : σ = λ(H3O+)×[H3O+] + λ(HCOO-)×[HCOO-] … (1)
+- En se servant du tableau : [H3O+] = [HCOO-] = xf/V1 … (2)
+- (1) et (2) donnent : σ = (λ(H3O+) + λ(HCOO-)).xf/V1, qui conduit à :
+
+xf = σ.V1/(λ(H3O+) + λ(HCOO-))
+
+2-3- Taux d'avancement final τ :
+
+xm = C.V1 ⇒ τ = xf/xm = σ/((λ(H3O+) + λ(HCOO-)).C)
+
+A.N : τ = 0,1/((3,50.10-2 + 5,46.10-3)×0,04×103) ≈ 0,062 = 6,2%
+
+2-4- Expression du pKA du couple HCOOH / HCOO- :
+
+pKA = −Log(KA) = −Log([H3O+]×[HCOO-]/[HCOOH])
+
+avec [HCOO-] = [H3O+] = C.τ et [HCOOH] = C.(1 − τ)
+
+⇒ pKA = −Log(C.τ2/(1 − τ))
+
+A.N : pKA = −Log(0,04×(0,062)2/(1 − 0,062)) ≈ 3,79
+
+### Partie II :
+
+1- La proposition juste est : b) Le temps de demi-réaction diminue en utilisant un catalyseur.
+
+2- * Equation chimique de la réaction entre l'acide méthanoïque et le propan-1-ol :
+
+HCOOH + CH3−CH2−CH2−OH ⇄ HCOO−CH2−CH2−CH3 + H2O
+
+| Equation de la réaction | acide + alcool ⇄ ester + eau | | | |
+| --- | --- | --- | --- | --- |
+| Etat du système | Avancement x (mol) | n(acide) | n(alcool) | n(ester) = n(eau) |
+| Etat initial | 0 | n1 = 0,2 | n2 = 0,2 | 0 |
+| Etat intermédiaire (à t1) | x1 | 0,2 − x1 | 0,2 − x1 | x1 |
+| Etat final | xf | 0,2 − xf | 0,2 − xf | xf |
+
+* Le composé organique formé est : méthanoate de propyle.
+
+3- L'état d'équilibre n'est pas encore atteint à t1 :
+
+- A t1, la quantité de matière d'acide restante est nr(acide) = m/M = 6,9/46 = 0,15 mol.
+- D'après le tableau : nr(acide) = 0,2 − x1 = 0,15 ⇒ x1 = 0,05 mol
+- On a aussi xmax = 0,2 mol et xf = τ.xmax = 0,67×0,2 = 0,134 mol
+- On remarque que x1 = 0,05 mol < xf = 0,134 mol
+- On conclut que l'état d'équilibre n'est pas encore atteint à t1.
+
+## - Physique -
+
+### LES ONDES :
+
+1- Diffraction d'une lumière monochromatique :
+
+1-1- La proposition juste est : c) ν = c/λ = 3.108/633.10-9 ≈ 4,739.1014 Hz
+
+1-2- Expression de la largeur a :
+
+- D'après la figure 1 ; on a : tan θ ≈ θ = (ℓ/2)/D et θ = λ/a
+- On en déduit que : a = 2.λ.D/ℓ
+
+A.N : a = 2×633.10-9×1,5/(3,4.10-2) ≈ 558.10-7 m = 55,8 μm
+
+1-3- * Ecart angulaire : θ = λ/a = 0,633/55,8 = 1,13.10-2 rad
+
+* Largeur de la tache centrale : tan θ ≈ θ = (ℓ'/2)/D' ⇒ ℓ' = 2.θ.D'
+
+A.N : ℓ' = 2×1,13.10-2×3 = 6,8.10-2 m = 6,8 cm
+
+2- Etude de la radiation émise par le laser :
+
+2-1- Calcul de l'énergie du photon : E = h.ν
+
+A.N : E = 6,63.10-34×4,739.1014/1,6022.10-19 ≈ 1,96 eV
+
+2-2- Détermination des niveaux d'énergie En et Ep :
+
+En − Ep = 1,96 eV ⇒ En = Ep + 1,96 eV
+
+Si Ep = 18,37 eV alors En = 18,37 + 1,96 = 20,33 eV (n'est pas un niveau d'énergie)
+
+Si Ep = 18,70 eV alors En = 18,70 + 1,96 = 20,66 eV, c'est le niveau d'énergie E6.
+
+L'émission de la radiation rouge émise par le laser est due au passage de l'atome du Néon Ne du niveau d'énergie E6 = 20,66 eV au niveau d'énergie E2 = 18,70 eV.
+
+### L'ELECTRICITE :
+
+1- Charge d'un condensateur et sa décharge dans un conducteur ohmique :
+
+1-1- Montrons que C = 20 nF :
+
+- On sait que la charge q du condensateur est liée à la tension uAB entre ses bornes A et B par la relation : q = C.uAB
+- D'après la figure 2, q est une fonction linéaire de uAB et C représente le coefficient directeur de la droite :
+
+C = Δq/ΔuAB = 0,02.10-6/1 = 2.10-8 F = 20 nF
+
+1-2- Durée Δt nécessaire pour que uAB = 6 V c.-à-d. q = 0,12 μC (figure 2) :
+
+q(t) = I0.Δt ⇒ Δt = q(t)/I0 ; A.N : Δt = 0,12.10-6/0,1.10-6 = 1,2 s
+
+1-3-1- Equation différentielle vérifiée par la tension uAB(t) :
+
+D'après la figure : uAB = uR
+
+En respectant les conventions : uAB = q/C et uR = −R.i avec i = dq/dt
+
+Alors : duAB/dt = (1/C).dq/dt = i/C = −uAB/(R.C) ⇒ duAB/dt + (1/(R.C)).uAB = 0
+
+1-3-2- Recherche de U0 et de R :
+
+- La solution est de la forme : uAB(t) = U0.e−α.t
+- On aura : ln(uAB) = ln(U0) − α.t
+- D'après la figure 3 ; ln(U0) = 2,5 ⇒ U0 = e2,5 = 12,2 V
+- (−α) représente le coefficient directeur de la droite de la figure 3 :
+
+α = −Δln(uAB)/Δt = −(−2,5/(5.10-5 − 0)) = 5.104 s-1
+
+- uAB(t) = U0.e−α.t ⇒ duAB/dt = −α.uAB ⇒ duAB/dt + α.uAB = 0
+- En identifiant cette dernière équation avec l'équation différentielle ; on déduit que :
+
+α = 1/(R.C) donc R = 1/(α.C) ; A.N : R = 1/(5.104×20.10-9) ≈ 103 Ω
+
+1-3-3- Détermination de la date t1 :
+
+E(t1) = 0,37.E(0) ⇒ (1/2).C.uAB2(t1) = 0,37×(1/2).C.uAB2(0) ⇒ U02.e−2α.t1 = 0,37×U02
+
+⇒ t1 = −ln(0,37)/(2.α)
+
+A.N : t1 = −ln(0,37)/(2×5.104) = 9,94.10-6 s ≈ 10 μs
+
+2- Décharge du condensateur dans une bobine :
+
+2-1- Equation différentielle vérifiée par la tension uR0(t) :
+
+- D'après la loi d'additivité des tensions entre A et B : −uAB = uR0 + ub
+- En respectant les conventions : uAB = q/C ; uR0 = R0.i ; ub = r.i + L.di/dt avec i = dq/dt = uR0/R0
+
+Alors : −q/C = R0.i + r.i + L.di/dt ⇒ L.di/dt + (r + R0).i + q/C = 0
+
+⇒ (L/R0).d2uR0/dt2 + ((r + R0)/R0).duR0/dt + uR0/(R0.C) = 0
+
+2-2-1- Détermination de la valeur de r :
+
+Lorsqu'on insère le générateur en série pour entretenir les oscillations électriques ; alors l'équation différentielle vérifiée par la tension uR0(t) devient :
+
+(L/R0).d2uR0/dt2 + ((r + R0 − K)/R0).duR0/dt + uR0/(R0.C) = 0
+
+La tension uR0(t) est sinusoïdale, cela impose (r + R0 − K)/R0 = 0 ⇒ K = r + R0 ou r = K − R0
+
+A.N : r = 20 − 12 = 8 Ω
+
+2-2-2- Recherche de L et de Ucmax :
+
+- L'énergie magnétique Em représentée dans la figure 5 est périodique de période Te = 0,25 ms
+- La tension sinusoïdale uR0(t) est de période T = 2×Te = 0,5 ms
+- On a la relation : T = 2π.√(L.C) ⇒ L = T2/(4π2.C)
+
+A.N : L = (0,5.10-3)2/(4×10×20.10-9) ≈ 0,312 H
+
+- L'énergie du circuit se conserve au cours du temps : ET = Em + Ee = 1 μJ ; et d'après la figure 5 :
+
+(1/2).C.Ucmax2 = 1.10-6 J ⇒ Ucmax = √(2.10-6/20.10-9) = 10 V
+
+3- Réception d'une onde électromagnétique :
+
+3-1- La proposition juste est : d) Dans une antenne réceptrice, l'onde électromagnétique engendre un signal électrique de même fréquence.
+
+3-2- Pour recevoir l'onde de fréquence N0 ; il faut : N0 = 1/(2π.√(L0.C0))
+
+A.N : N0 = 1/(2π.√(0,781.10-3×20.10-9)) ≈ 0,04.106 Hz = 40 kHz, ce qui est le cas.
+
+3-3- Pour avoir une bonne détection d'enveloppe :
+
+- Première condition : fp >> fs, vérifiée car 40 kHz >> 4 kHz
+- Deuxième condition doit être vérifiée : Tp < τ << Ts, avec τ = R.(C + Cx)
+
+⇒ 1/fp < R.(C + Cx) << 1/fs ⇒ 1/(R.fp) − C < Cx << 1/(R.fs) − C
+
+A.N : 1/(103×40.103) − 20.10-9 < Cx << 1/(103×4.103) − 20.10-9
+
+⇒ Cx ∈ ]5 nF ; 230 nF[
+
+### LA MECANIQUE
+
+#### PARTIE I : Etude du mouvement de chute de deux corps
+
+1- Etude de la chute d'un corps avec frottement :
+
+1-1- Equation différentielle du mouvement vérifiée par la composante vAy :
+
+- Système à étudier : {corps (A)}
+- Repère d'étude R(O ; i⃗, j⃗) supposé galiléen ;
+- Bilan des forces extérieures :
+  * Poids du corps : P⃗
+  * Force de frottement fluide : f⃗ = −k.v⃗A
+- 2ème loi de Newton : P⃗ + f⃗ = m.a⃗G
+- Projection de cette relation vectorielle sur l'axe Oy : Py + fy = m.ay … (*)
+- Expressions : Py = −P = −m.g , fy = −k.vAy et ay = dvAy/dt
+- La relation (*) devient : −m.g − k.vAy = m.dvAy/dt
+- Finalement l'équation différentielle est : dvAy/dt + (1/τ).vAy + g = 0 avec τ = m/k
+
+1-2- * Détermination de la constante τ : On trace la tangente à la courbe à l'instant t = 0 (voir la figure 2) ; on trouve : τ = 0,1 s
+
+* Déduction de k : τ = m/k ⇒ k = m/τ ; A.N : k = 0,5/0,1 = 5 kg.s-1
+
+1-3- Détermination de la vitesse vAy(ti) à l'instant ti :
+
+- La formule d'Euler s'écrit : vi = v(i−1) + a(i−1).Δt … (1)
+- L'équation différentielle donne : a(i−1) = −g − (1/τ).v(i−1) ⇒ v(i−1) = −τ.(g + a(i−1)) … (2)
+- En portant (2) dans (1) ; on aura l'expression : vi = −τ.(g + a(i−1)) + a(i−1).Δt
+
+A.N : vi = −0,1×(10 − 4,089) + (−4,089×0,01) ≈ −0,632 m.s-1
+
+2- Etude du mouvement du projectile :
+
+2-1- Etablissement des équations horaires :
+
+- Système à étudier : {corps (B)}
+- Repère d'étude R(O ; i⃗, j⃗) supposé galiléen ;
+- Bilan des forces extérieures : Poids du corps P⃗
+- 2ème loi de Newton : P⃗ = m.a⃗G
+- Projection sur Ox et Oy :
+
+Px = m.ax ⇒ 0 = m.ax ⇒ ax = dvx/dt = 0
+Py = m.ay ⇒ −m.g = m.ay ⇒ ay = dvy/dt = −g
+
+- Par intégration, en tenant compte des conditions initiales (t = 0) :
+
+vx = v0.cos(α) ; vy = −g.t + v0.sin(α)
+
+- Par intégration, en tenant compte des conditions initiales (t = 0) :
+
+xB(t) = v0.cos(α).t ; yB(t) = −(1/2).g.t2 + v0.sin(α).t + hP
+
+- A.N : xB(t) = 20.cos(α).t ; yB(t) = −5.t2 + 20.sin(α).t + 1,8
+
+2-2- Expressions des coordonnées du sommet S :
+
+- Au sommet S, dy/dx = 0 ⇒ (dy/dt)×(dt/dx) = 0 ⇒ vy = 0 (car vx = v0.cos(α) ≠ 0)
+- vy(tS) = −g.tS + v0.sin(α) = 0 ⇒ tS = v0.sin(α)/g ; où tS est l'instant de passage de GB par S ;
+- En portant tS dans les expressions x(tS) et y(tS) ; on obtient alors :
+
+xS = v02.sin(2α)/(2g) ; yS = v02.sin2(α)/(2g) + hP
+
+- A.N : xS = 20.sin(2α) ; yS = 20.sin2(α) + 1,8
+
+2-3- Détermination de l'angle α pour que GA = GB = S :
+
+hF = yB(tS) + yA(tS) avec yB(tS) = 20.sin2(α) + 1,8 et yA(tS) = vlim.tS = ... = 2.sin(α)
+
+D'où l'équation suivante : 20.sin2(α) + 2.sin(α) − 16,7 = 0
+
+ayant pour solution : sin(α) = 0,865 ⇒ α ≈ 60°
+
+#### Partie II : Etude du mouvement d'un pendule pesant
+
+1- Expression de l'énergie potentielle de pesanteur Epp :
+
+On sait que : Epp(z) = m.g.(z − z0) = m.g.G0H = m.g.(G0O − HO)
+
+Epp = m.g.(L/2 − (L/2).cos θ) = (m.g.L/2).(1 − cos θ) ; avec cos θ ≈ 1 − θ2/2
+
+⇒ Epp = m.g.L.θ2/4
+
+2- Equation différentielle du mouvement :
+
+- Energie mécanique : Em = Ec + Epp
+
+Em = (1/2).JΔ.θ̇2 + m.g.L.θ2/4 avec JΔ = (1/3).m.L2 ⇒ Em = (1/6).m.L2.θ̇2 + m.g.L.θ2/4
+
+- Pas de frottement, alors il y a conservation de cette énergie : dEm/dt = 0
+
+(1/6).m.L2.(2.θ̇.θ̈) + (m.g.L/4).(2.θ.θ̇) = 0 ⇒ θ̇.((1/3).m.L2.θ̈ + (m.g.L/2).θ) = 0 (θ̇ ≠ 0)
+
+⇒ θ̈ + (3g/(2L)).θ = 0
+
+3-1- Détermination de g :
+
+- D'après le graphe de la figure 2, l'énergie cinétique Ec = f(t) est une fonction périodique de période T = 0,6 s, et liée à la période T0 = 2×T = 1,2 s
+- D'après l'équation différentielle : T0 = 2π.√(2L/(3g)) ⇒ g = 8π2.L/(3.T02)
+
+A.N : g = 8×10×0,53/(3×1,22) ≈ 9,81 m.s-2
+
+3-2- Recherche de l'amplitude θm :
+
+Epp max = m.g.L.θm2/4 = 9.10-3 J ⇒ θm = √(4×9.10-3/(m.g.L)) = √(36.10-3/(0,1×9,81×0,53))
+
+A.N : θm ≈ 0,26 rad = 15°
+
+3-3- Détermination de φ :
+
+- Graphiquement : Ec(t = 0) = 0,5.10-2 J.
+- Expression de l'énergie cinétique :
+
+Ec(t) = (1/2).JΔ.θ̇2 = (1/6).m.L2.θ̇2 = (m.L2.θm2.2π2/(3.T02)).sin2((2π/T0).t + φ)
+
+⇒ sin(φ) = √(3.T02.Ec(0)/(2π2.m.L2.θm2))
+
+A.N : sin(φ) = √(3×1,22×0,5.10-2/(2×10×0,1×0,532×0,262)) ≈ 0,759 ⇒ φ ≈ 0,84 rad = 48°

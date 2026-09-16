@@ -1,0 +1,181 @@
+---
+Type: Examen National
+Année: 2024
+Session: Rattrapage
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — الدورة الاستدراكية 2024 — المركز الوطني للتقويم والامتحانات
+- الموضوع -
+شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية) — المادة : الرياضيات
+RS 25 — المعامل : 9 — مدة الإنجاز : 4h
+
+CONSIGNES :
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte cinq exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- L'exercice1 se rapporte à l'analyse ………..………..… (6.5 pts)
+- L'exercice2 se rapporte à l'analyse ………..………..… (3.5 pts)
+- L'exercice3 se rapporte aux nombres complexes......…. (3.5 pts)
+- L'exercice4 se rapporte aux structures algébriques…... (3.5 pts)
+- L'exercice5 se rapporte à l'arithmétique ………...…..... (3 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 : (6.5 points)
+
+Soit $n$ un entier naturel supérieur ou égal à 2.
+On considère la fonction numérique $f_{n}$ définie sur $\left[0 , +\infty\right[$ par :
+$f_{n}(0) = 0$ et $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f_{n}(x) = x - x^{n}\ln x$ [FORMULA_IMAGE_UNREADABLE]
+
+Et on note $\left(C_{n}\right)$ sa courbe représentative dans un repère orthonormé.
+
+0.25 — 1-a) Montrer que $f_{n}$ est continue à droite en $0$
+
+0.75 — b) Montrer que : $\lim\limits_{x \to +\infty} f_{n}(x) = -\infty$ et $\lim\limits_{x \to +\infty}\dfrac{f_{n}(x)}{x} = -\infty$ [FORMULA_IMAGE_UNREADABLE] puis interpréter graphiquement le résultat obtenu.
+
+0.5 — c) Montrer que $f_{n}$ est dérivable à droite en $0$ et que son nombre dérivé à droite en $0$ est égal à $1$
+
+0.5 — d) Montrer que $f_{n}$ est dérivable sur $\left]0 , +\infty\right[$ et que :
+$\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f_{n}'(x) = 1 - x^{n-1} - nx^{n-1}\ln x$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — e) Montrer que $f_{n}$ est strictement croissante sur $\left]0 ; 1\right[$ et strictement décroissante sur $\left]1 , +\infty\right[$
+
+0.5 — 2-a) Montrer que pour tout entier $n \geq 2$, on a : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f_{n}(x) \geq f_{n+1}(x)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) En déduire la position relative des deux courbes $\left(C_{n}\right)$ et $\left(C_{n+1}\right)$
+
+0.5 — 3-a) Montrer que pour tout $n \geq 2$, il existe un unique réel $\alpha_{n} \in \left]1 ; 2\right[$ tel que : $f_{n}\left(\alpha_{n}\right) = 0$
+(On prendra $\ln 2 \simeq 0{,}7$)
+
+0.25 — b) Vérifier que : $\alpha_{n} = \left(\dfrac{1}{\ln \alpha_{n}}\right)^{\frac{1}{n-1}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — c) En déduire que pour tout $n \geq 2$, $f_{n+1}\left(\alpha_{n}\right) = \alpha_{n}\left(1 - \alpha_{n}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — d) Montrer que la suite $\left(\alpha_{n}\right)_{n \geq 2}$ ainsi définie est strictement décroissante.
+
+0.25 — e) En déduire que la suite $\left(\alpha_{n}\right)_{n \geq 2}$ est convergente.
+
+4- On pose : $\ell = \lim\limits_{n \to +\infty} \alpha_{n}$
+
+0.25 — a) Montrer que : $1 \leq \ell \leq 2$
+
+0.5 — b) Montrer que pour tout $n \geq 2$, $\dfrac{\ln\left(\ln\left(\alpha_{n}\right)\right)}{\ln\left(\alpha_{n}\right)} = 1 - n$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — c) On suppose que $\ell \neq 1$. Calculer $\lim\limits_{n \to +\infty}\dfrac{\ln\left(\ln\left(\alpha_{n}\right)\right)}{\ln\left(\alpha_{n}\right)}$ en fonction de $\ell$
+
+0.5 — d) En déduire la valeur de la limite $\ell$
+
+## EXERCICE 2 : (3.5 points)
+
+0.25 — 1-a) Calculer l'intégrale : $\displaystyle\int_{0}^{1}\dfrac{1}{1 + x^{2}}\,dx$
+
+0.5 — b) Pour tout entier $n \geq 1$, on pose : $u_{n} = \displaystyle\sum_{k=1}^{k=n}\dfrac{n}{n^{2} + k^{2}}$
+Montrer que la suite $\left(u_{n}\right)_{n \geq 1}$ est convergente puis déterminer sa limite.
+
+0.25 — 2- Montrer que : $\displaystyle\int_{0}^{1}\dfrac{1}{\left(1 + x^{2}\right)^{2}}\,dx \leq \dfrac{\pi}{4}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 3-a) Montrer que : $\left(\forall x \in \left[0 , 1\right]\right) \ ; \ 0 \leq e^{x} - 1 \leq e\,x$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) En déduire que : $\left(\forall x \in \left[0 , 1\right]\right) \ ; \ 0 \leq e^{x} - 1 - x \leq \dfrac{e}{2}x^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+4- Pour tout entier $n \geq 1$, on pose : $w_{n} = \displaystyle\sum_{k=1}^{k=n}\left(e^{\frac{n}{n^{2} + k^{2}}} - 1\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — a) Montrer que pour tout entier $n \geq 1$, on a : $0 \leq w_{n} - u_{n} \leq \dfrac{e}{2}\displaystyle\sum_{k=1}^{k=n}\left(\dfrac{n}{n^{2} + k^{2}}\right)^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) Montrer que la fonction : $x \mapsto \dfrac{1}{\left(1 + x^{2}\right)^{2}}$ est strictement décroissante sur $\left[0 , 1\right]$
+
+0.25 — c) En déduire que pour tout entier $n \geq 1$ et pour tout entier $k \in \left\{1 , 2 , ...... , n\right\}$, on a :
+$\left(\dfrac{n}{n^{2} + k^{2}}\right)^{2} \leq \dfrac{1}{n}\displaystyle\int_{\frac{k-1}{n}}^{\frac{k}{n}}\dfrac{1}{\left(1 + x^{2}\right)^{2}}\,dx$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 5-a) Montrer que pour tout entier $n \geq 1$, on a : $0 \leq w_{n} - u_{n} \leq \dfrac{e}{2n}$
+
+0.5 — b) En déduire que la suite $\left(w_{n}\right)_{n \geq 1}$ est convergente et déterminer sa limite.
+
+## EXERCICE 3 : (3.5 points)
+
+Soit $m \in \mathbb{C}^{*}$
+
+### Partie I :
+
+On considère dans $\mathbb{C}$ l'équation d'inconnue $z$
+$(E) : z^{2} - 2\left(i + m\right)z + m^{2}\left(1 + i\right) = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — 1- a) Vérifier que le discriminant de l'équation $(E)$ est $\left(m - i\right)^{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) Résoudre dans $\mathbb{C}$ l'équation $(E)$
+
+2- Soient $z_{1}$ et $z_{2}$ les deux solutions de $(E)$
+
+0.5 — Mettre sous la forme exponentielle $\dfrac{z_{1}}{z_{2}}$ dans le cas où $m = re^{i\theta}$ ($r \in \mathbb{R}^{*}$, $\theta \in \mathbb{R}$)
+
+### Partie II :
+
+Le plan complexe est rapporté à un repère orthonormé direct $\left(O , \overrightarrow{e_{1}} , \overrightarrow{e_{2}}\right)$
+
+On pose $z_{1} = m$ et $z_{2} = m\left(1 + i\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+Soit $M_{1}$ le point d'affixe $z_{1}$, $M_{2}$ le point d'affixe $z_{2}$ et $M_{3}(z_{3})$ l'image du point $O$ par la rotation de centre $M_{2}$ et d'angle $\left(-\dfrac{\pi}{2}\right)$ et $M_{4}(z_{4})$ l'image du point $M_{1}$ par l'homothétie de centre $O$ et de rapport $k$ ($k \in \mathbb{R}^{*} - \left\{1\right\}$)
+
+0.75 — 1- Calculer $z_{3}$ en fonction de $m$ et $z_{4}$ en fonction de $m$ et $k$
+
+0.75 — 2- Donner la forme algébrique de $\dfrac{z_{3} - z_{1}}{z_{4} - z_{1}} \div \dfrac{z_{4} - z_{2}}{z_{3} - z_{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.75 — 3- En déduire que les points $M_{1}$, $M_{2}$, $M_{3}$ et $M_{4}$ sont cocycliques si et seulement si $k = -2$ [FORMULA_IMAGE_UNREADABLE]
+
+## EXERCICE 4 : (3.5 points)
+
+On munit l'ensemble $\mathbb{C}$ des nombres complexes de la loi de composition interne $*$ définie par :
+$\left(\forall (x , y , x' , y') \in \mathbb{R}^{4}\right) \ ; \ \left(x + iy\right) * \left(x' + iy'\right) = xy' + y'x + iyy'$ [FORMULA_IMAGE_UNREADABLE]
+
+### Partie I :
+
+0.25 — 1- a) Vérifier que : $1 * 2i = 2i$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) Montrer que la loi de composition interne $*$ n'est pas commutative.
+
+0.5 — 2- Montrer que la loi $*$ est associative.
+
+0.25 — 3- a) Vérifier que : $1 * \left(1 + 2i\right) = 2i$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) En déduire que $\left(\mathbb{C} , *\right)$ n'est pas un groupe.
+
+4- Soit $E$ le sous-ensemble de $\mathbb{C}$ défini par $E = \left\{x + yi \ / \ x \in \mathbb{R} \text{ et } y \in \mathbb{R}^{*}\right\}$
+
+0.25 — a) Montrer que $E$ est stable dans $\left(\mathbb{C} , *\right)$
+
+0.5 — b) Montrer que $\left(E , *\right)$ est un groupe non commutatif.
+
+### Partie II :
+
+On considère les sous-ensembles de $E$ définis par : $F = \left\{yi \ / \ y \in \mathbb{R}^{*}\right\}$ et $G = \left\{x + i \ / \ x \in \mathbb{R}\right\}$
+
+0.5 — 1- Montrer que $F$ est un sous-groupe de $\left(E , *\right)$
+
+2- On considère l'application $\varphi$ définie de $\mathbb{R}$ vers $\mathbb{C}$ par : $\left(\forall x \in \mathbb{R}\right) \ ; \ \varphi(x) = x + i$
+
+0.25 — a) Montrer que : $\varphi(\mathbb{R}) = G$
+
+0.25 — b) Montrer que $\varphi$ est un homomorphisme de $\left(\mathbb{R} , +\right)$ vers $\left(\mathbb{C} , *\right)$
+
+0.25 — c) En déduire que $\left(G , *\right)$ est un groupe commutatif.
+
+## EXERCICE 5 : (3 points)
+
+0.5 — 1- En utilisant l'algorithme d'Euclide, déterminer l'entier $u \in \left\{1 , 2 , ... , 22\right\}$ tel que : $10u \equiv 1 \ [23]$
+
+2- Soient $m$ un entier naturel et $q$ et $r$, respectivement, le quotient et le reste de la division euclidienne de $m$ par $10$
+
+0.5 — a) Montrer que : $m \equiv 10\left(q + ur\right) \ [23]$ [FORMULA_IMAGE_UNREADABLE]
+
+0.75 — b) Montrer que : $23$ divise $m \Leftrightarrow 23$ divise $\left(q + ur\right)$
+
+3- On considère dans $\mathbb{N}$ le système $(S) : \begin{cases} x \equiv 1 \ [23] \\ x \equiv 2 \ [10] \end{cases}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.75 — a) Montrer que si $x$ est une solution du système $(S)$ alors il existe $q \in \mathbb{N}$ tel que $x = 10q + 2$ et $23$ divise $\left(q + 7\right)$
+
+0.5 — b) Résoudre dans $\mathbb{N}$ le système $(S)$
+
+FIN

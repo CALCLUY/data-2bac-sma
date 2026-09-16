@@ -1,0 +1,549 @@
+---
+Type: Examen National
+Année: 2014
+Session: Normale
+Nature: Corrigé
+Source: 
+---
+
+ROYAUME DU MAROC
+Correction — Baccalauréat Sciences Mathématiques
+Session : Normal 2014
+Mathématiques
+Série : Baccalauréat Sciences Mathématiques A & B
+MTM-Group (MathsForBac) — Option SM A & B
+
+## Exercice 1 : (3 pts)
+
+$n \in \mathbb{N}$, et $a_n = \underbrace{33\ldots3}_{n}1$.
+
+**1 - Montrons que $a_1$ et $a_2$ sont premiers entre eux : (0.5 pt)**
+
+On a $a_1 = 31$ et 31 est un nombre premier et on a : $a_2 = 331$, et 331 ne divise pas les nombres premiers dont les carrés sont inférieurs ou égaux à 331 (c'est-à-dire : 2-3-7-11-13 et 17). Donc 331 est un nombre premier.
+
+D'où $a_1$ et $a_2$ sont premiers entre eux.
+
+**2 - Montrons que $(\forall n \in \mathbb{N}^{\star}) : 3a_n + 7 = 10^{n+1}$ : (0.5 pt)**
+
+On a :
+$$(\forall n \in \mathbb{N}^{\star}) : a_n = 1 + 3 \times 10 + 3 \times 10^2 + \ldots + 3 \times 10^n$$
+$$= 1 + 3\left(10 + 10^2 + \ldots + 10^n\right)$$
+$$= 1 + 3\left(10 \times \frac{10^n - 1}{10 - 1}\right)$$
+$$= 1 + 3\left(\frac{10^{n+1} - 10}{9}\right)$$
+$$= 1 + \left(\frac{10^{n+1} - 10}{3}\right) = \frac{10^{n+1} - 7}{3}$$
+
+d'où $(\forall n \in \mathbb{N}^{\star}) : 3a_n + 7 = 10^{n+1}$.
+
+**3 - Montrons que : $(\forall k \in \mathbb{N}) : 10^{30k+2} \equiv 7\ [31]$ : (0.75 pt)**
+
+On a 31 est un nombre premier, et on sait que 10 ne divise pas 31 donc :
+$31 \wedge 10 = 1$, et 31 est premier. Donc d'après le théorème de Fermat on a :
+
+$$10^{31-1} \equiv 1\ [31] \Rightarrow 10^{30} \equiv 1\ [31]$$
+$$\Rightarrow (10^{30})^k \equiv 1^k\ [31] \quad (\forall k \in \mathbb{N})$$
+$$\Rightarrow 10^{30k} \equiv 1\ [31] \quad (\forall k \in \mathbb{N})$$
+$$\Longrightarrow 10^{30k+2} \equiv 100\ [31] \quad (\forall k \in \mathbb{N}) \qquad (1)$$
+
+D'une autre part on a $100 \equiv 7\ [31]$ (2)
+
+De (1) et (2) on déduit que : $(\forall k \in \mathbb{N})\ 10^{30k+2} \equiv 7\ [31]$.
+
+**4 - Montrons que $(\forall k \in \mathbb{N}) : 3a_{30k+1} \equiv 0\ [31]$, puis on déduit que 31 divise $a_{30k+1}$ (0.75 pt)**
+
+On a $\forall k \in \mathbb{N} : 30k + 1 \in \mathbb{N}^{\star}$
+
+Donc d'après la question 2) on a : $3a_{30k+1} + 7 = 10^{30k+2}$
+
+et d'après la question 3) on a : $10^{30k+2} \equiv 7\ [31]$ donc : $3a_{30k+1} + 7 \equiv 7\ [31]$
+
+c'est-à-dire $3a_{30k+1} \equiv 0\ [31]$
+
+et puisque 31 divise $3a_{30k+1}$, et $31 \wedge 3 = 1$, d'après le théorème de Gauss on a : 31 divise $a_{30k+1}$
+
+d'où $(\forall k \in \mathbb{N}) : 3a_{30k+1} \equiv 0\ [31]$, puis on déduit que 31 divise $a_{30k+1}$. D'où 31 divise $a_{30k+1}$.
+
+**5 - Montrons que l'équation $a_n x + 31y = 1$ n'admet pas de solutions dans $\mathbb{Z}^2$ : (0.5 pt)**
+
+Supposons que $\exists (x, y) \in \mathbb{Z}^2$ tel que : $a_n x + 31y = 1$
+
+Soit $n \in \mathbb{N}^{\star}$ tel que $n \equiv 1\ [30]$, alors $(\exists k \in \mathbb{Z})$ tel que : $n = 30k + 1$
+
+On sait que 31 divise $a_{30k+1}$ $(\forall k \in \mathbb{Z})$
+
+Alors 31 divise $a_n$ car $n = 30k + 1$ c'est-à-dire $(\exists k' \in \mathbb{Z})$ tel que : $a_n = 31k'$
+
+En remplaçant $a_n$ par $31k'$ dans l'équation $a_n x + 31y = 1$ on obtient :
+
+$$31k'x + 31y = 1 \Leftrightarrow 31(k'x + y) = 1 \Rightarrow 31 \text{ divise } 1 \text{ car } (k'x + y) \in \mathbb{Z} \Rightarrow \text{Absurde}$$
+
+D'où si $n \equiv 1\ [30]$ alors l'équation $a_n x + 31y = 1$ n'admet pas de solutions dans $\mathbb{Z}^2$.
+
+## Exercice 2 : (3.5 pts)
+
+$$\forall (a, b) \in \mathbb{R}^2;\ M(a, b) = \begin{pmatrix} a & a - b \\ b & a + b \end{pmatrix} \qquad E = \{M(a, b) / (a; b) \in \mathbb{R}^2\}$$
+
+**1 - Montrons que $E$ est un sous-groupe du groupe $(\mathcal{M}_2(\mathbb{R}), +)$ : (0.5 pt)**
+
+On a : $I = M(1, 0) \in E \Rightarrow E \neq \emptyset$
+
+$$(\forall (M(a, b), M(c, d)) \in E^2);\ M(a, b) - M(c, d) = \begin{pmatrix} a & a - b \\ b & a + b \end{pmatrix} - \begin{pmatrix} c & c - d \\ d & c + d \end{pmatrix}$$
+$$= \begin{pmatrix} a - c & a - b - c + d \\ b - d & a + b - c - d \end{pmatrix} = \begin{pmatrix} a - c & (a - c) - (b - d) \\ b - d & (a - c) + (b - d) \end{pmatrix} = M(a - c, b - d) \in E$$
+
+D'où $E$ est un sous-groupe de $(\mathcal{M}_2(\mathbb{R}), +)$.
+
+**2 - (0.75 pt)**
+
+On a :
+$$J^2 = \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix} \times \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix} = \begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix}$$
+
+et on a : $1 + 0 \neq 2$. Donc : $J = M(1, 0) \in E$ et $J^2 \notin E$
+
+D'où $E$ est une partie non stable de $(\mathcal{M}_2(\mathbb{R}), \times)$.
+
+**3 - a) (0.5 pt)**
+
+On a :
+$$\left(\forall ((a, b), (c, d)) \in \left(\mathbb{R}^2 \setminus \{(0, 0)\}\right)^2\right);\ \varphi((a + bi) \times (c + di)) = \varphi(ac - bd + i(ad + bc)) = M(ac - bd, ad + bc)$$
+
+et on a :
+$$\varphi(a + bi) * \varphi(c + di) = M(a, b) * M(c, d) = \begin{pmatrix} a & a - b \\ b & a + b \end{pmatrix} \times \begin{pmatrix} 1 & -1 \\ 0 & 1 \end{pmatrix} \times \begin{pmatrix} c & c - d \\ d & c + d \end{pmatrix}$$
+$$= \begin{pmatrix} a & -b \\ b & a \end{pmatrix} \times \begin{pmatrix} c & c - d \\ d & c + d \end{pmatrix} = \begin{pmatrix} ac - bd & ac - ad - bc - bd \\ ad + bc & bc - bd + ac + ad \end{pmatrix} = M(ac - bd, ad + bc)$$
+
+Donc : $(\forall ((a, b), (c, d)) \in \mathbb{R}^2 \setminus \{(0, 0)\});\ \varphi((a + bi) \times (c + di)) = \varphi(a + bi) * \varphi(c + di)$
+
+d'où $\varphi$ est un homomorphisme de $(\mathbb{C}^{\star}, \times)$ vers $(\mathcal{M}_2(\mathbb{R}), *)$.
+
+**b) (0.25 pt)**
+
+$$M(a, b) \in E^{*} \Leftrightarrow (a, b) \neq (0, 0) \Leftrightarrow a + bi \in \mathbb{C}^{\star} \Leftrightarrow \varphi(a + bi) \in \varphi(\mathbb{C}^{\star}) \Leftrightarrow M(a, b) \in \varphi(\mathbb{C}^{\star})$$
+
+Donc : $M(a, b) \in E^{*} \Leftrightarrow M(a, b) \in \varphi(\mathbb{C}^{\star})$
+
+D'où $\varphi(\mathbb{C}^{\star}) = E^{\star}$.
+
+**c) (0.5 pt)**
+
+On a : $(\mathbb{C}^{\star}, \times)$ est un groupe commutatif, et $\varphi$ est un isomorphisme de $(\mathbb{C}^{\star}, \times)$ vers $(\mathcal{M}_2(\mathbb{R}), *)$.
+
+Donc $(\varphi(\mathbb{C}^{\star}), \star)$ est un groupe commutatif, et on a : $\varphi(\mathbb{C}^{\star}) = E^{\star}$.
+
+D'où $(E^{\star}, \star)$ est un groupe commutatif.
+
+**4 - (0.5 pt)**
+
+On a : $(\forall (A, B, C) \in E^3),\ A \star (B + C) = A \times N \times (B + C) = A \times N \times B + A \times N \times C = A \star B + A \star C$.
+
+D'où $(\forall (A, B, C) \in E^3),\ A \star (B + C) = A \star B + A \star C$.
+
+**5 - (0.5 pt)**
+
+On a d'après la question 1) $(E, +)$ est un groupe d'unité 0 et d'après la question 3.c) on a $(E, \star)$ est un groupe commutatif ; d'après la question 4) la loi $\star$ est distributive sur la loi $+$.
+
+Donc $(E, +, \star)$ est un corps commutatif.
+
+## Exercice 3 : (3.5 pts)
+
+$$(E) : z^2 - \sqrt{2}e^{i\theta}z + e^{2i\theta} = 0$$
+
+**1 - a) (0.25 pt)**
+
+On a :
+$$\Delta = \left(\sqrt{2}e^{i\theta}\right)^2 - 4e^{2i\theta} = 2e^{2i\theta} - 4e^{2i\theta} = -2e^{2i\theta} = \left(\sqrt{2}ie^{i\theta}\right)^2$$
+
+Donc : $\Delta = \left(\sqrt{2}ie^{i\theta}\right)^2$.
+
+**b) (0.75 pt)**
+
+Puisque $\Delta \neq 0$ l'équation $(E)$ admet deux solutions $z_1$ et $z_2$ :
+
+$$z_1 = \frac{\sqrt{2}e^{i\theta} - \sqrt{2}ie^{i\theta}}{2} = \left[1, -\frac{\pi}{4}\right] \times [1, \theta] = \left[1, \theta - \frac{\pi}{4}\right]$$
+
+$$z_2 = \frac{\sqrt{2}e^{i\theta} + \sqrt{2}ie^{i\theta}}{2} = \left[1, \frac{\pi}{4}\right] \times [1, \theta] = \left[1, \theta + \frac{\pi}{4}\right]$$
+
+**2 - a) (0.5 pt)**
+
+On a : $\left(\overrightarrow{OA}, \overrightarrow{T_1T_2}\right) \equiv \operatorname{Arg}\left(\dfrac{\operatorname{aff}(\overrightarrow{T_1T_2})}{\operatorname{aff}(\overrightarrow{OA})}\right) \quad (2\pi)$
+
+et
+$$\frac{e^{i\left(\theta - \frac{\pi}{4}\right)} - e^{i\left(\theta + \frac{\pi}{4}\right)}}{\sqrt{2}e^{i\theta}} = \frac{-2i\sin\frac{\pi}{4}}{\sqrt{2}} = -i = \left[1, -\frac{\pi}{2}\right]$$
+
+c'est-à-dire $\left(\overrightarrow{OA}, \overrightarrow{T_1T_2}\right) \equiv -\dfrac{\pi}{2} \ (2\pi)$
+
+Les deux droites $(OA)$ et $(T_1T_2)$ sont perpendiculaires.
+
+**b) (0.25 pt)**
+
+On a : $\left(\overrightarrow{OA}, \overrightarrow{OK}\right) \equiv \operatorname{Arg}\left(\dfrac{\operatorname{aff}(\overrightarrow{OK})}{\operatorname{aff}(\overrightarrow{OA})}\right) \quad (2\pi)$
+
+et
+$$\frac{\operatorname{aff}(\overrightarrow{OK})}{\operatorname{aff}(\overrightarrow{OA})} = \frac{e^{i\left(\theta - \frac{\pi}{4}\right)} + e^{i\left(\theta + \frac{\pi}{4}\right)}}{2\sqrt{2}e^{i\theta}} = \frac{\cos\frac{\pi}{4}}{\sqrt{2}} = \frac{1}{2} = \left[\frac{1}{2}, 0\right]$$
+
+Donc les points $O$, $A$ et $K$ sont alignés.
+
+**c) (0.25 pt)**
+
+On a $(OA)$ et $(T_1T_2)$ perpendiculaires, et $K$ est le milieu du segment $[T_1T_2]$, et $K \in (OA)$.
+
+Donc : $(OA)$ est la médiatrice du segment $[T_1T_2]$.
+
+**3 - a) (0.25 pt)**
+
+$$r(M) = M' \Leftrightarrow (z_{M'} - z_{T_1}) = e^{i\frac{\pi}{2}}(z_M - z_{T_1})$$
+$$\Leftrightarrow \left(z' - e^{i\left(\theta + \frac{\pi}{4}\right)}\right) = e^{i\frac{\pi}{2}}\left(z - e^{i\left(\theta + \frac{\pi}{4}\right)}\right)$$
+$$\Leftrightarrow z' = i\left(z - e^{i\left(\theta + \frac{\pi}{4}\right)}\right) + e^{i\left(\theta + \frac{\pi}{4}\right)}$$
+$$\Leftrightarrow z' = iz + (1 - i)e^{i\left(\theta + \frac{\pi}{4}\right)}$$
+$$\Leftrightarrow z' = iz + \left(\sqrt{2}e^{-i\frac{\pi}{4}}\right)e^{i\left(\theta + \frac{\pi}{4}\right)}$$
+
+Donc $z' = iz + \sqrt{2}e^{i\theta}$.
+
+**b) (0.5 pt)**
+
+$$r(I) = B \Leftrightarrow z_B = \sqrt{2}e^{i\theta} + iz_I \Leftrightarrow b = \sqrt{2}e^{i\theta} + i$$
+
+Donc $b = \sqrt{2}e^{i\theta} + i$.
+
+**c) (0.25 pt)**
+
+$$\frac{z_B - z_A}{z_I - z_J} = \frac{\sqrt{2}e^{i\theta} + i - \sqrt{2}e^{i\theta}}{1 - (-1)} = \frac{1}{2}i \in i\mathbb{R} \Rightarrow \arg\left(\frac{z_B - z_A}{z_I - z_J}\right) \equiv \frac{\pi}{2}\ [2\pi] \Rightarrow \left(\overrightarrow{JI}, \overrightarrow{AB}\right) \equiv \frac{\pi}{2}\ [2\pi] \Rightarrow (IJ) \perp (AB)$$
+
+Donc les droites $(AB)$ et $(IJ)$ sont perpendiculaires.
+
+**4 - (0.25 pt)**
+
+$$\overrightarrow{AC} = -\vec{v} \Leftrightarrow \operatorname{aff}(\overrightarrow{AC}) = \operatorname{aff}(-\vec{v}) \Leftrightarrow z_C - z_A = -i \Leftrightarrow z_C = z_A - i \Leftrightarrow z_C = \sqrt{2}e^{i\theta} - i$$
+
+Donc $z_C = \sqrt{2}e^{i\theta} - i$.
+
+**5 - (0.25 pt)**
+
+$$\frac{z_B + z_C}{2} = \frac{\sqrt{2}e^{i\theta} + i + \sqrt{2}e^{i\theta} - i}{2} = \frac{2\sqrt{2}e^{i\theta}}{2} = \sqrt{2}e^{i\theta} = z_A$$
+
+Donc $A$ est le milieu du segment $[BC]$.
+
+## Problème : (8 pts)
+
+### Partie I
+
+On considère la fonction $f$ définie sur $[0, +\infty[$ par : $f(x) = \dfrac{-x\ln x}{1 + x^2}$ ; $x > 0$ et $f(0) = 0$.
+
+**1 - a) (0.5 pt)**
+
+On a la fonction $\ln$ est continue sur $]0, +\infty[$ et on a la fonction $x \mapsto \dfrac{-x}{1 + x^2}$ est continue sur $\mathbb{R}$ (fonction rationnelle définie sur $\mathbb{R}$) donc elle est définie sur $]0, +\infty[$.
+
+D'où la fonction $f$ est continue sur $]0, +\infty[$ comme produit de deux fonctions continues.
+
+• Étudions la continuité de la fonction $f$ à droite de 0 :
+
+On a :
+$$\lim_{x \to 0^+} \frac{-x\ln x}{1 + x^2} = \lim_{x \to 0^+} x\ln x \times \lim_{x \to 0^+} \frac{-1}{1 + x^2} = 0 \times (-1) = 0 = f(0)$$
+
+Donc $f$ est continue à droite de 0. On a $f$ continue sur $]0, +\infty[$ et continue à droite de 0, donc $f$ est continue sur $[0, +\infty[$.
+
+**b) Étudions le signe de la fonction $f$ sur $[0, +\infty[$ : (0.25 pt)**
+
+On a $(\forall x \in ]0, +\infty[)$ ; $f(x) = \left(\dfrac{-x}{1 + x^2}\right)\ln x$
+
+On remarque que $(\forall x \geq 0)$ ; $\left(\dfrac{-x}{1 + x^2}\right) \leq 0$.
+
+Donc le signe de $f$ sur $]0, +\infty[$ est l'opposé du signe de $\ln x$ :
+- si $x = 1$ alors $\ln x = 0$
+- si $x > 1$ alors $\ln x > 0$
+- si $x < 1$ alors $\ln x < 0$
+
+Tableau de signe :
+
+| $x$ | 0 | | 1 | | $+\infty$ |
+|---|---|---|---|---|---|
+| $f(x)$ | 0 | $+$ | 0 | $-$ | |
+
+**2 - a) (0.25 pt)**
+
+$$(\forall x \in ]0, +\infty[)\ ;\ f\left(\frac{1}{x}\right) = \frac{\frac{-1}{x}\ln\left(\frac{1}{x}\right)}{1 + \left(\frac{1}{x}\right)^2} = \frac{\frac{-1}{x}(-\ln x)}{\frac{x^2 + 1}{x^2}} = \frac{1}{x}(\ln x)\left(\frac{x^2}{1 + x^2}\right) = \frac{x\ln x}{1 + x^2} = -f(x)$$
+
+Donc $(\forall x > 0)$ ; $f\left(\dfrac{1}{x}\right) = -f(x)$.
+
+**b) (0.25 pt)**
+
+On a la fonction $\ln$ est dérivable sur $]0, +\infty[$ et on a la fonction $x \mapsto \dfrac{-x}{1 + x^2}$ est dérivable sur $\mathbb{R}$ (fonction rationnelle dérivable sur $\mathbb{R}$) donc elle est dérivable sur $]0, +\infty[$.
+
+D'où la fonction $f$ est dérivable sur $]0, +\infty[$ comme produit de deux fonctions dérivables.
+
+**c) (0.5 pt)**
+
+On a la fonction $\ln$ est continue sur $[0, +\infty[$, donc $f$ est continue sur $[0; 1]$.
+
+Et on a la fonction $\ln$ est dérivable sur $]0, +\infty[$, donc $f$ est dérivable sur $]0; 1[$.
+
+Donc d'après le théorème des accroissements finis :
+
+$$\exists \alpha \in ]0; 1[\ ;\ \frac{f(1) - f(0)}{1 - 0} = f'(\alpha) \Rightarrow \exists \alpha \in ]0; 1[\ ;\ f'(\alpha) = 0$$
+
+car $f(1) - f(0) = 0$.
+
+**d) (0.5 pt)**
+
+Soit $x$ un nombre réel strictement positif.
+
+On a : $x > 0 \Rightarrow \dfrac{1}{x} > 0$, et les fonctions $f$, $x \mapsto \dfrac{1}{x}$ et $x \mapsto -f(x)$ sont dérivables sur $]0, +\infty[$.
+
+Donc $x \mapsto f\left(\dfrac{1}{x}\right)$ est dérivable sur $]0, +\infty[$. Donc :
+
+$$f\left(\frac{1}{x}\right) = -f(x) \Rightarrow \left(f\left(\frac{1}{x}\right)\right)' = (-f(x))'$$
+$$\Rightarrow \frac{-1}{x^2}\left(f'\left(\frac{1}{x}\right)\right) = -f'(x)$$
+$$\Rightarrow \frac{-1}{\alpha^2}\left(f'\left(\frac{1}{\alpha}\right)\right) = -f'(\alpha) \quad \text{car } \alpha > 0$$
+$$\Rightarrow f'\left(\frac{1}{\alpha}\right) = 0 \quad \text{car } f'(\alpha) = 0$$
+
+### Partie II
+
+**1 - a) (0.5 pt)**
+
+Il suffit de montrer que : $(\forall t \geq 1)$ ; $\dfrac{1}{2} \leq \dfrac{t^2}{1 + t^2}$ et $\dfrac{t^2}{1 + t^2} \leq 1$
+
+On a :
+$$\frac{t^2}{1 + t^2} - \frac{1}{2} = \frac{2t^2 - 1 - t^2}{2(1 + t^2)} = \frac{t^2 - 1}{2(1 + t^2)} = \frac{(t - 1)(t + 1)}{2(1 + t^2)}$$
+
+On remarque que : $(\forall t \geq 1)$ ; $(t - 1) \geq 0$
+
+Donc : $(\forall t \geq 1)$ ; $\dfrac{(t-1)(t+1)}{2(1+t^2)} \geq 0$
+
+C'est-à-dire : $(\forall t \geq 1)$ ; $\dfrac{t^2}{1+t^2} - \dfrac{1}{2} \geq 0$, c'est-à-dire : $(\forall t \geq 1)$ ; $\dfrac{t^2}{1+t^2} \geq \dfrac{1}{2}$
+
+De même on a : $1 - \dfrac{t^2}{1+t^2} = \dfrac{1 + t^2 - t^2}{1 + t^2} = \dfrac{1}{1+t^2}$
+
+On remarque que : $(\forall t \geq 1)$ ; $\dfrac{1}{1+t^2} \geq 0$
+
+C'est-à-dire : $(\forall t \geq 1)$ ; $1 - \dfrac{t^2}{1+t^2} \geq 0$, c'est-à-dire : $(\forall t \geq 1)$ ; $1 \geq \dfrac{t^2}{1+t^2}$
+
+D'où $(\forall t \geq 1)$ ; $1 \geq \dfrac{t^2}{1+t^2} \geq \dfrac{1}{2}$.
+
+**b) (1 pt)**
+
+Soient $t \geq 1$ et $x \geq 1$. D'après la question précédente on a : $1 \geq \dfrac{t^2}{1+t^2} \geq \dfrac{1}{2}$
+
+On multiplie les membres par le nombre positif $\dfrac{\ln t}{t}$ on obtient :
+
+$$\frac{1}{2}\left(\frac{\ln t}{t}\right) \leq \left(\frac{t^2}{1+t^2}\right)\frac{\ln t}{t} \leq \frac{\ln t}{t}$$
+
+Donc : $\dfrac{1}{2}\displaystyle\int_1^x \left(\frac{\ln t}{t}\right)dt \leq \int_1^x \left(\frac{t^2}{1+t^2}\right)\frac{\ln t}{t}\,dt \leq \int_1^x \left(\frac{\ln t}{t}\right)dt$
+
+• Calculons l'intégrale $\displaystyle\int_1^x \left(\frac{\ln t}{t}\right)dt$ en utilisant une intégration par parties :
+
+$$\int_1^x \left(\frac{\ln t}{t}\right)dt = \int_1^x (\ln t)'(\ln t)\,dt = \left[(\ln t)^2\right]_1^x - \int_1^x (\ln t)(\ln t)'\,dt = (\ln x)^2 - \int_1^x \left(\frac{\ln t}{t}\right)dt$$
+
+$$\Rightarrow 2\int_1^x \left(\frac{\ln t}{t}\right)dt = (\ln x)^2 \Rightarrow \int_1^x \left(\frac{\ln t}{t}\right)dt = \frac{(\ln x)^2}{2}$$
+
+On multiplie tous les membres par $-1$ puis en ajoutant $F(1)$ on aura :
+
+$$F(1) - \frac{(\ln x)^2}{2} \leq F(1) - \int_1^x \left(\frac{t^2}{1+t^2}\right)\frac{\ln t}{t}\,dt \leq F(1) - \frac{(\ln x)^2}{4}$$
+$$F(1) - \frac{(\ln x)^2}{2} \leq \int_0^1 f(t)\,dt + \int_1^x f(t)\,dt \leq F(1) - \frac{(\ln x)^2}{4}$$
+$$F(1) - \frac{(\ln x)^2}{2} \leq \int_0^x f(t)\,dt \leq F(1) - \frac{(\ln x)^2}{4}$$
+
+Donc : $F(1) - \dfrac{(\ln x)^2}{2} \leq F(x) \leq F(1) - \dfrac{(\ln x)^2}{4}$
+
+**c) (1 pt)**
+
+On a : $\displaystyle\lim_{x \to +\infty}(\ln x)^2 = +\infty$
+
+Donc : $\displaystyle\lim_{x \to +\infty} F(1) - \frac{(\ln x)^2}{4} = -\infty$
+
+Donc on aura : $F(x) \leq F(1) - \dfrac{(\ln x)^2}{4}$
+
+D'après le théorème de comparaison des limites on a : $\displaystyle\lim_{x \to +\infty} F(x) = -\infty$
+
+et de plus : $F(1) - \dfrac{(\ln x)^2}{2} \leq F(x) \leq F(1) - \dfrac{(\ln x)^2}{4}$
+
+On multiplie tous les membres par le nombre positif $\dfrac{1}{x}$ on aura :
+
+$$\frac{F(1)}{x} - \frac{1}{2}\left(\frac{(\ln x)^2}{x}\right) \leq \frac{F(x)}{x} \leq \frac{F(1)}{x} - \frac{1}{4}\left(\frac{(\ln x)^2}{x}\right)$$
+
+• Calculons la limite $\displaystyle\lim_{x \to +\infty}\frac{(\ln x)^2}{x}$ :
+
+$$\lim_{x \to +\infty}\left(\frac{(\ln x)^2}{x}\right) = \lim_{x \to +\infty}\left(\frac{\left(\ln \sqrt{x}^2\right)^2}{(\sqrt{x})^2}\right) = \lim_{x \to +\infty}\left(\frac{2\ln\sqrt{x}}{\sqrt{x}}\right)^2 = 4\lim_{x \to +\infty}\left(\frac{\ln\sqrt{x}}{\sqrt{x}}\right)^2 = 4\lim_{\substack{y \to +\infty \\ y = \sqrt{x}}}\left(\frac{\ln y}{y}\right)^2 = 4 \times 0^2 = 0$$
+
+Donc on a :
+$$\lim_{x \to +\infty}\frac{F(1)}{x} - \frac{1}{2}\left(\frac{(\ln x)^2}{x}\right) = \lim_{x \to +\infty}\frac{F(1)}{x} - \frac{1}{4}\left(\frac{(\ln x)^2}{x}\right) = 0$$
+
+D'où $\displaystyle\lim_{x \to +\infty}\frac{F(x)}{x} = 0$
+
+Alors $(\mathcal{C}_f)$ admet une branche parabolique de direction l'axe des abscisses au voisinage de $+\infty$.
+
+**2 - a) (0.5 pt)**
+
+On a $f$ est continue sur l'intervalle $[0, +\infty[$ donc $F$ est la fonction primitive de la fonction $f$ sur $[0, +\infty[$ qui s'annule en 0.
+
+On a $f$ continue sur l'intervalle $[0, +\infty[$ et $0 \in [0, +\infty[$ donc $F$ est dérivable sur $[0, +\infty[$, et sa fonction dérivée est la fonction $f$.
+
+Donc : $\forall x \in [0, +\infty[\ ;\ F'(x) = f(x) = \dfrac{-x\ln x}{1+x^2}$.
+
+**b) Tableau de variation de la fonction $F$ (0.25 pt)**
+
+$\forall x \geq 0$ ; $F'(x) = f(x)$
+
+| $x$ | 0 | | 1 | | $+\infty$ |
+|---|---|---|---|---|---|
+| $f(x)$ | 0 | $+$ | 0 | $-$ | |
+| $F(x)$ | 0 | ↗ | $F(1)$ | ↘ | $-\infty$ |
+
+### Partie III
+
+**1 - a) (0.5 pt)**
+
+On considère la fonction $\phi$ définie sur $]0, +\infty[$ par : $\phi(t) = \dfrac{1}{e} + t\ln t$
+
+On a $\phi$ est dérivable sur $]0, +\infty[$ comme somme de deux fonctions dérivables sur $]0, +\infty[$.
+
+Donc $\forall t > 0$ ; $\phi'(t) = 1 + \ln t$.
+
+On a :
+- $t = \dfrac{1}{e} \Longrightarrow \phi'(t) = 0$
+- $t > \dfrac{1}{e} \Longrightarrow \phi'(t) > 0$
+- $t < \dfrac{1}{e} \Longrightarrow \phi'(t) < 0$
+
+| $x$ | 0 | | $\frac{1}{e}$ | | $+\infty$ |
+|---|---|---|---|---|---|
+| $\phi'(t)$ | | $-$ | 0 | $+$ | |
+| $\phi(t)$ | $\frac{1}{e}$ | ↘ | 0 | ↗ | $+\infty$ |
+
+D'après le tableau de variation, 0 est une valeur minimale de la fonction $\phi$ sur $]0, +\infty[$.
+
+Donc $\forall t > 0$ ; $\phi(t) \geq 0$
+
+D'où $\forall t > 0$ ; $\dfrac{1}{e} \geq -t\ln t$.
+
+**b) (0.25 pt)**
+
+Soit $t \in ]0, +\infty[$, on a : $-t\ln t \leq \dfrac{1}{e}$
+
+On multiplie les deux membres de l'inégalité par le nombre positif $\dfrac{1}{1+t^2}$ on trouve :
+
+$$\frac{-t\ln t}{1+t^2} \leq \frac{1}{e(1+t^2)}$$
+
+Puisque $\dfrac{1}{1+t^2} \leq 1$, alors $\forall t > 0$ ; $\dfrac{-t\ln t}{1+t^2} \leq \dfrac{1}{e(1+t^2)} \leq \dfrac{1}{e}$
+
+Et pour $t = 0$ on a $f(0) = 0 \leq \dfrac{1}{e}$.
+
+Donc $\forall t \geq 0$ ; $f(t) \leq \dfrac{1}{e}$.
+
+**c) (0.25 pt)**
+
+Soit $x$ un nombre réel strictement positif :
+
+$$(t \geq 0) \Rightarrow f(t) \leq \frac{1}{e} \Rightarrow \int_0^x f(t)\,dt \leq \int_0^x \frac{1}{e}\,dt \Rightarrow F(x) \leq \frac{1}{e}x \Rightarrow F(x) \leq \frac{1}{e}x \leq x \Rightarrow F(x) < x\ ;\ (\forall x > 0)$$
+
+D'où $(\forall x > 0)$ ; $F(x) < x$.
+
+**2 - a) (0.5 pt)**
+
+En utilisant le raisonnement par récurrence. On considère la proposition $(P_n)$ suivante :
+
+$(P_n) : u_n \in ]0, 1[$
+
+Pour $n = 0$ on a $u_0 \in ]0, 1[$ donc $(P_0)$ est vraie.
+
+Supposons que $(P_n)$ est vraie et montrons que $(P_{n+1})$ est vraie :
+
+$$(P_n) \text{ vraie} \Rightarrow u_n \in ]0, 1[ \Rightarrow 0 < u_n < 1 \Rightarrow F(0) < F(u_n) < F(1)$$
+
+(l'ordre n'est pas changé car $F$ est strictement croissante sur $[0, 1]$)
+
+$$\Rightarrow 0 < F(u_n) < F(1) \Rightarrow 0 < u_{n+1} < F(1) \Rightarrow 0 < u_{n+1} < F(1) < 1$$
+
+car $\forall x > 0$ ; $F(x) < x$
+
+$$\Rightarrow 0 < u_{n+1} < 1 \Rightarrow u_{n+1} \in ]0, 1[ \Longrightarrow (P_{n+1}) \text{ est vraie}$$
+
+Donc d'après le raisonnement par récurrence on a : $(\forall n \in \mathbb{N})$ ; $(P_n)$ est vraie.
+
+D'où $(\forall n \in \mathbb{N})$ ; $u_n \in ]0, 1[$.
+
+**b) (0.5 pt)**
+
+On a : $(\forall x > 0)$ ; $F(x) < x$, et $(\forall n \in \mathbb{N})$ ; $u_n \in ]0, 1[$
+
+C'est-à-dire : $(\forall n \in \mathbb{N})$ ; $u_n > 0$
+
+Donc : $(\forall n \in \mathbb{N})$ ; $F(u_n) < u_n$.
+
+C'est-à-dire : $(\forall n \in \mathbb{N})$ ; $u_{n+1} < u_n$.
+
+Donc $(u_n)_{n \in \mathbb{N}}$ est une suite décroissante. Et puisqu'elle est minorée par 0, la suite $(u_n)_{n \in \mathbb{N}}$ est convergente.
+
+**c) (0.5 pt)**
+
+On a $(u_n)_{n \in \mathbb{N}}$ est une suite récurrente définie par : $u_{n+1} = F(u_n)$
+
+Et on a $F$ continue sur l'intervalle $[0, +\infty[$, de plus $(u_n)_{n \in \mathbb{N}}$ est convergente donc sa limite vérifie : $F(l) = l$
+
+D'autre part on a : $(\forall x > 0)$ ; $F(x) < x$, et $F(0) = \displaystyle\int_0^0 f(t)\,dt = 0$
+
+Donc l'unique solution de l'équation $F(l) = l$ est 0.
+
+D'où $\displaystyle\lim_{n \to +\infty} u_n = 0$.
+
+## Exercice 5 : (2 pts)
+
+**1 - a) (0.5 pt)**
+
+On pose la fonction $u$ définie sur $\mathbb{R}^{\star}$ par : $x \mapsto \dfrac{-1}{x}$, et la fonction $v$ définie sur $\mathbb{R}^{\star}$ par : $x \mapsto e^x$.
+
+On a $u$ est continue sur $\mathbb{R}^{\star}$ et $v$ est continue sur $\mathbb{R}^{\star}$ donc $v \circ u$ est continue sur $\mathbb{R}^{\star}$ (car $u(\mathbb{R}^{\star}) \subseteq \mathbb{R}$).
+
+Donc $x \mapsto e^{\frac{-1}{x}}$ est continue sur $]0, +\infty[$.
+
+Et puisque $x \mapsto \dfrac{1}{x^2}$ est continue sur $]0, +\infty[$,
+
+donc la fonction $x \mapsto \dfrac{1}{x^2}e^{\frac{-1}{x}}$ est continue sur $]0, +\infty[$ comme produit de deux fonctions continues sur $]0, +\infty[$.
+
+**b) (0.25 pt)**
+
+On a :
+$$\lim_{x \to 0^+} g(x) = \lim_{x \to 0^+}\frac{1}{x^2}e^{\frac{-1}{x}} = \lim_{x \to 0^+}\left(\frac{2}{2x^2}e^{\frac{-1}{2x}}\right)^2 = \lim_{x \to 0^+}4\left(\frac{1}{2x^2}e^{\frac{-1}{2x}}\right)^2 = \lim_{t \to +\infty}\left(\frac{1}{\frac{e^t}{t}}\right)^2,\ \left(t = \frac{1}{2x}\right) = 4\lim_{u \to +\infty}\left(\frac{1}{u}\right)^2 = 0 = g(0)$$
+
+Donc $g$ est continue à droite de 0.
+
+**c) (0.25 pt)**
+
+On a :
+$$\lim_{x \to 0^-} g(x) = \lim_{x \to 0^-}\frac{1}{x^2}e^{\frac{-1}{x}} = \lim_{u \to -\infty}\left(\frac{1}{\frac{e^u}{u}}\right)^2,\ \left(u = \frac{1}{2x}\right) = +\infty \neq g(0)$$
+
+Donc $g$ n'est pas continue à gauche de 0. Donc $g$ n'est pas continue en 0.
+
+**2 - a) Calculons $L(x)$ pour tout $x \in \mathbb{R}^{\star +}$ (0.25 pt)**
+
+$$L(x) = \int_0^x g(t)\,dt = \int_0^x \left(\frac{1}{t^2}e^{\frac{-1}{t}}\right)dt = \int_0^x \left(e^{\frac{-1}{t}}\right)' dt = \int_0^x \left(t^2 g(t)\right)' dt = \left[t^2 g(t)\right]_0^x = x^2 g(x) - 0^2 g(0) = x^2 g(x) = e^{\frac{-1}{x}}$$
+
+Donc $L(x) = e^{\frac{-1}{x}}$.
+
+**b) (0.25 pt)**
+
+On a : la fonction $L(x)$ est la composée de deux fonctions continues $\varphi$ et $\psi$ définies sur $\mathbb{R}^{\star}$ respectivement par : $x \mapsto \dfrac{-1}{x}$ et $x \mapsto e^x$.
+
+On a $\varphi(\mathbb{R}^{\star}) \subseteq \mathbb{R}$.
+
+Donc la fonction $x \mapsto e^{\frac{-1}{x}}$ est continue sur $]0, +\infty[$.
+
+**c) (0.25 pt)**
+
+On a : $\displaystyle\lim_{x \to 0^+} L(x) = \lim_{x \to 0^+} e^{\frac{-1}{x}} = \lim_{u \to -\infty} e^u = 0$
+
+**3 - a) (0.5 pt)**
+
+$$S_n = \frac{1}{n}\left(\left(\frac{1}{1}\right)^2 e^{\frac{-n}{1}} + \left(\frac{1}{2}\right)^2 e^{\frac{-n}{2}} + \cdots + \left(\frac{1}{n-1}\right)^2 e^{\frac{-n}{n-1}}\right)$$
+$$= \frac{1}{n}\sum_{k=1}^{n-1}\left(\frac{n}{k}\right)^2 e^{\frac{-n}{k}}\ ;\ n \geq 1$$
+$$= \frac{1}{n}\sum_{k=1}^{n-1}\frac{1}{\left(\frac{k}{n}\right)^2}e^{\frac{-1}{\left(\frac{k}{n}\right)}}\ ;\ n \geq 1$$
+$$= \frac{1}{n}\sum_{k=1}^{n-1} g\left(\frac{k}{n}\right)\ ;\ n \geq 1$$
+$$= \frac{1}{n}\left(\sum_{k=1}^{n-1} g\left(\frac{k}{n}\right) + g\left(\frac{0}{n}\right)\right) = \frac{1}{n}\sum_{k=0}^{n-1} g\left(\frac{k}{n}\right)\ ;\ n \geq 1$$
+
+Donc $(\forall n \geq 1)$ ; $S_n = \dfrac{1}{n}\displaystyle\sum_{k=0}^{n-1} g\left(\frac{k}{n}\right)$.
+
+**b) (0.5 pt)**
+
+On a $S_n = \dfrac{1}{n}\displaystyle\sum_{k=0}^{n-1} g\left(\frac{k}{n}\right) = \frac{1-0}{n}\sum_{k=0}^{n-1} g\left(0 + \frac{k(1-0)}{n}\right)$
+
+Puisque $g$ est continue sur $[0, 1]$ alors la suite $(S_n)_{n \geq 1}$ est convergente et on a :
+
+$$\lim_{n \to +\infty} S_n = \int_0^1 g(t)\,dt = L(1) = \frac{1}{e}$$
+
+D'où $\displaystyle\lim_{n \to +\infty} S_n = \frac{1}{e}$.
+
+FIN

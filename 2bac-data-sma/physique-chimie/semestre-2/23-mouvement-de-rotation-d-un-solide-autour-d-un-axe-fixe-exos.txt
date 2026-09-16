@@ -1,0 +1,92 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvement de rotation d'un solide autour d'un axe fixe
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 23 (Mouvement de rotation d'un solide autour d'un axe fixe)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+On considère un corps $S$ de masse $m = 0 , 25 k g$ capable de glisser sans frottement sur un plan incliné d'un angle $\alpha = 30 \circ$ par rapport à la ligne horizontale.
+
+Le corps $S$ est fixé par extrémité inférieure à un fil inextensible de masse négligeable et enroulé sur un cylindre homogène de rayon $r = 5 c m$ capable de tourner sans frottement autour d'un axe horizontal et fixe $\Delta$.
+
+On donne : $J_{\Delta} = 2 , 5 . 10^{- 3} K g . m^{2}$ et $g = 10 m . s^{- 2}$.
+
+On libère le corps $S$ du point $A$ sans vitesse initiale et il glisse sans frottement sur le plan incliné provoquant la rotation du cylindre.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s23/img7.bmp)
+
+1. Déterminer l'accélération du corps $S$ et en déduire la nature de son mouvement.
+
+2. Déterminer la vitesse $v_{1}$ du corps $S$ au point $O$ sachant que $O A = 2 m$.
+
+Au point $O$ le fil se détache du cylindre à un instant $t = 0$ et le corps $S$ tombe au point $C$ d'une altitude $O D = 75 c m$.
+
+3. Donner les équations horaires du mouvement du centre d'inertie du corps $S$ dans le repère $\left(\right. O , x , y \left.\right)$.
+
+4. En déduire la durée de chute du corps $S$ et la distance $D C$.
+
+Lorsque le fil se détache du cylindre, ce dernier est soumis à un couple résistant de moment constant $\mathcal{M}_{\Delta} = - 7 , 5 . 10^{- 2} N . m$, et il s'arrête de tourner après avoir effectué plusieurs tours.
+
+5. Déterminer l'accélération angulaire $\overset{\cdot\cdot}{\theta}$ du cylindre.
+
+6. Quel est le nombre de tours effectué par le cylindre durant le freinage.
+
+### 5-2/ Exercice 2
+
+On considère une poulie à double gorge de rayons $R_{1} = 10 c m$ et $R_{2} = 20 c m$ qui peut tourner sans frottement autour d'un axe fixe.
+
+Les deux corps $S_{1}$ et $S_{2}$ sont suspendus par deux fils inextensibles enroulés sur les poulies comme l'indique la figure :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s23/img8.bmp)
+
+$g = 10 m . s^{- 2}$
+Moment d'inertie de la poulie à double gorge : $J_{\Delta} = 2 . 10^{- 2} K g . m^{2}$
+
+1. Déterminer l'expression de $m_{2}$ en fonction de $m_{1}$, $R_{1}$ et $R_{2}$ pour que la poulie reste en équilibre.
+
+On utilise par la suite $m_{1} = 1 k g$ et $m_{2} = 0 , 7 k g$ et on libère le système sans vitesse initiale à un instant $t = 0$.
+
+2. Déterminer le sens du mouvement.
+
+3. Montrer que l'accélération angulaire du système des deux poulies $\left{P_{1} + P_{2}\right}$ est :
+
+$\overset{\cdot\cdot}{\theta} = \frac{g \left(m_{2} R_{2} - m_{1} R_{1}\right)}{m_{1} \left(R_{1}\right)^{2} + m_{2} \left(R_{2}\right)^{2} + J_{\Delta}}$
+
+4. Calculer sa valeur.
+
+5. Quel est le nombre de tours effectués par le système des deux poulies $\left{P_{1} + P_{2}\right}$ pendant la durée $t = 2 s$ ?
+
+### 5-3/ Exercice 3
+
+Une poulie $\left(\right. P \left.\right)$ de rayon $R = 8 c m$ et de moment d'inertie $J = 96 . 10^{- 5} K g . m^{2}$ est mobile autour de l'axe horizontal $\left(\Delta\right)$ passant par son centre.
+
+On enroule sur la gorge de cette poulie un fil inextensible de masse négligeable.
+
+A l'extrémité libre du fil, on accroche un solide $\left(\right. S \left.\right)$ de masse $m = 0 , 1 K g$. Le solide $\left(\right. S \left.\right)$ supposé ponctuel se trouve à une hauteur $h = 4 , 4 m$ au-dessus du sol.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s23/img9.bmp)
+
+On abandonne le système à lui-même sans vitesse initiale à l'instant $t_{0} = 0 s$.
+
+1. Montrer que le mouvement de $\left(\right. S \left.\right)$ est rectiligne uniformément varié. Calculer son accélération.
+
+Une seconde après le début du mouvement, le fil supportant le solide $\left(\right. S \left.\right)$ se détache de la poulie.
+
+2. Avec quelle vitesse et au bout de combien de temps le solide $\left(\right. S \left.\right)$ atteint-il le sol ?
+
+3. Quelle est la nature du mouvement ultérieure de la poulie (après détachement du fil ?
+
+4. Écrire l'équation horaire de ce mouvement. On prendra comme origine des abscisses angulaires la position du rayon $O_{1} A$ à l'instant de date $t_{0} = 0 s$.
+
+On applique à la poulie un couple de freinage de moment $\mathcal{M}_{f}$ constant. La poulie s'arrête après avoir effectué 10 tours en mouvement de rotation uniformément retardé.
+
+5. Calculer le moment du couple de freinage.

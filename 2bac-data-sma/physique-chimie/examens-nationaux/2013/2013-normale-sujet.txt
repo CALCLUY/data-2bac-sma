@@ -1,0 +1,328 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2013 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2013 - الموضوع - مادة : الفيزياء والكيمياء - شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+NS31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+L'utilisation de la calculatrice programmable ou l'ordinateur n'est pas autorisée
+
+Le sujet est composé d'un exercice de chimie et de trois exercices de physique
+
+| CHIMIE (7 points) | Le thème | les points |
+| --- | --- | --- |
+| Première partie | De la transformation chimique non totale à la transformation totale | 4,5 |
+| Deuxième partie | Des transformations spontanées aux transformations forcées | 2,5 |
+
+| PHYSIQUE (13 points) | | |
+| --- | --- | --- |
+| Exercice 1 | De la dispersion de la lumière à la diffraction | 2,25 |
+| Exercice 2 | De l'énergie solaire à l'énergie électrique | 5 |
+| Exercice 3 – 1ère Partie | De la chute libre à la chute avec frottement | 3,25 |
+| Exercice 3 – 2ème Partie | De l'orbite circulaire basse à l'orbite circulaire haute | 2,5 |
+
+## CHIMIE (7 points) Les deux parties sont indépendantes
+
+### PREMIERE PARTIE (4,5 points) : De la transformation chimique non totale à la transformation totale
+
+Les transformations chimiques peuvent être totales ou non totales. Les chimistes utilisent plusieurs méthodes pour suivre quantitativement les transformations chimiques au cours du temps et les contrôler pour augmenter leur rendement ou diminuer leur vitesse pour limiter leurs effets.
+
+Parfois le chimiste change l'un des réactifs pour obtenir le même produit avec plus d'efficacité.
+
+Données
+
+| Le composé organique | Masse volumique ρ (g.mL-1) | Masse molaire M (g.mol-1) |
+| --- | --- | --- |
+| (A) | 0,956 | M(A) = 88,0 |
+| (B) | 0,810 | M(B) = 88,0 |
+| (AN) | 0,966 | M(AN) = 158,0 |
+
+L'acide A : CH3-CH2-CH2-C(=O)-OH
+L'alcool B : CH3-CH(CH3)-CH2-CH2-OH
+Anhydride butanoïque (AN)
+
+[FORMULA_IMAGE_UNREADABLE] (formules semi-développées de (A), (B) et de l'anhydride butanoïque données en image)
+
+#### 1. suivi temporel d'une transformation chimique
+
+On mélange dans un erlenmeyer un volume VA = 11 mL de l'acide (A) de formule : [formule ci-dessus]
+
+Et 0,12 mol de l'alcool (B) de formule : [formule ci-dessus]
+
+On ajoute au mélange quelques gouttes d'acide sulfurique concentré et quelques pierres ponces.
+
+Après chauffage, il se forme un composé (E) de masse molaire M(E) = 158 g.mol-1.
+
+Le graphe x = f(t) donne l'évolution de l'avancement x de la réaction en fonction du temps t, (fig1).
+
+La droite (Δ) représente la tangente à la courbe x = f(t) à l'instant t = 0.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig1 : x(mol) en fonction de t(min) ; graduations t de 0 à 100 min, x de 0,01 à 0,08 mol ; tangente à t=0)
+
+1.1- Donner la définition du temps de demi-réaction et déterminer sa valeur. (0,5)
+
+1.2- Calculer graphiquement la valeur de la vitesse volumique v(0) à l'instant t = 0. (0,25)
+
+#### 2. Rendement de la réaction
+
+2.1- Écrire, en utilisant les formules semi-développées, l'équation de la synthèse du composé (E) à partir de l'acide (A) et l'alcool (B) et donner le nom du composé (E) suivant la nomenclature officielle. (1)
+
+2.2- Calculer la quantité de matière initiale de l'acide (A). (0,75)
+
+2.3- Calculer la valeur de la constante d'équilibre K associée à l'équation de synthèse du composé (E). (0,5)
+
+2.4- On mélange 0,12 mol de l'acide (A) et 0,24 mol de l'alcool (B) :
+
+a- calculer l'avancement finale de la réaction qui a lieu. (0,5)
+
+b- calculer le rendement de la réaction. (0,25)
+
+#### 3. Contrôle de l'évolution du système chimique
+
+On peut améliorer également le rendement de la réaction précédente en remplaçant l'acide (A) par l'anhydride butanoïque (AN).
+
+On mélange un volume VB = 13 mL de l'alcool (B) et un volume VAN = 14 mL de l'anhydride butanoïque, On obtient une masse m(E) du composé (E).
+
+3.1- Écrire l'équation de la réaction dans ce cas en utilisant les formules semi-développées. (0,25)
+
+3.2- Calculer la masse m(E). (0,75)
+
+### Deuxième partie (2,5 points) : Des transformations spontanées aux transformations forcées
+
+Au cours des transformations spontanées, le système chimique évolue vers l'état d'équilibre en produisant de l'énergie électrique ; alors qu'au cours des transformations forcées le système chimique s'éloigne de l'état d'équilibre en consommant de l'énergie qu'il reçoit du milieu extérieur.
+
+Données : Constante de Faraday : F = 96500 C.mol-1
+
+Ahmed et Myriam ont réalisé la pile électrique de schéma conventionnel suivant
+
+− Zn(s)/Zn2+ // Cu2+/Cu(s) +
+
+et l'ont montée dans le circuit représenté dans la figure 2 qui comprend un panneau solaire, deux ampèremètres et un interrupteur K.
+
+- Le becher 1 contient 150 mL d'une solution de sulfate de cuivre (Cu2+ + SO42-) de concentration en ions Cu2+ : [Cu2+]i = 1,0.10-2 mol.L-1.
+
+- Le becher 2 contient 150 mL d'une solution de sulfate de zinc (Zn2+ + SO42-) de concentration en ions Zn2+ : [Zn2+]i = 1,0.10-2 mol.L-1.
+
+[FORMULA_IMAGE_UNREADABLE] (fig 2 : becher 1 avec plaque de cuivre, becher 2 avec plaque de zinc, panneau solaire, deux ampèremètres A, interrupteur K positions (1) et (2), borne COM)
+
+#### 1- la transformation spontanée
+
+A l'instant t = 0, Myriam a basculé l'interrupteur K dans la position 1 ; L'ampèremètre indique alors le passage d'un courant d'intensité constante.
+
+1.1- Préciser l'électrode qui joue le rôle de la cathode. (0,25)
+
+1.2- Calculer la quantité d'électricité Q qui passe dans le circuit pour que la concentration des ions Cu2+ dans le bécher 1 soit [Cu2+] = 2,5.10-3 mol.L-1. (0,5)
+
+#### 2- La transformation forcée
+
+Lorsque la concentration des ions Cu2+ est devenue [Cu2+] = 2,5.10-3 mol.L-1, Ahmed a basculé à l'instant t = 0 l'interrupteur K dans la position 2 pour recharger la pile ; Il constate que le panneau solaire fait passer dans le circuit un courant électrique continu d'intensité constante I = 15,0 mA.
+
+2.1- Indiquer l'électrode qui joue le rôle de la cathode. (0,25)
+
+2.2- Écrire l'équation bilan de la réaction qui a lieu. (0,75)
+
+2.3- Calculer la durée Δt nécessaire pour que la concentration des ions Zn2+ devienne [Zn2+]t = 5,0.10-3 mol.L-1 (0,75)
+
+## PHYSIQUE (13 points)
+
+### EXERCICE 1 (2,25 points) : De la dispersion de la lumière à la diffraction
+
+La fréquence d'une radiation lumineuse ne dépend pas du milieu de propagation ; elle dépend uniquement de la fréquence de la source. La vitesse de propagation d'une onde lumineuse dans un milieu transparent et elle est toujours plus petite que la vitesse de sa propagation dans le vide et sa valeur dépend du milieu de propagation. On constate aussi que l'onde lumineuse se diffracte lorsqu'elle traverse une fente de largeur relativement faible.
+
+L'objectif de cet exercice est d'étudier le phénomène de dispersion et celui de la diffraction.
+
+Données : La vitesse de propagation d'une onde lumineuse dans l'air est approximativement égale à sa vitesse de propagation dans le vide c = 3,00.10^8 m.s-1.
+
+| Couleur de la radiation | rouge (R) | violet (V) |
+| --- | --- | --- |
+| La longueur d'onde dans l'air en μm | 0,768 | 0,434 |
+| L'indice de réfraction du verre | 1,51 | 1,52 |
+
+#### 1. Dispersion de la lumière
+
+Un faisceau parallèle de lumière blanche arrive au point I de la surface d'un demi-disque en verre ; on observe sur l'écran (fig1) les sept couleurs du spectre allant du rouge R au violet V.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig1 : demi-disque en verre, air, rayon incident en I, angle i, écran, rayons R et V)
+
+1.1- Exprimer la longueur d'onde λR de la radiation rouge dans le verre en fonction de l'indice de réfraction nR du verre et de λ0R (longueur d'onde dans l'air de ce rayonnement). (0,5)
+
+1.2- L'indice de réfraction n d'un milieu transparent pour une radiation monochromatique de longueur d'onde λ0 dans l'air est modélisé par la relation : n = A + B/λ0² dont A et B sont des constantes qui dépendent du milieu.
+
+Calculer la valeur de A et celle de B pour le verre utilisé. (0,5)
+
+#### 2. Diffraction de la lumière
+
+On réalise l'expérience de la diffraction d'une lumière monochromatique de longueur d'onde λ dans l'air émise par un dispositif laser, en utilisant une fente de largeur a comme l'indique la figure 2. On mesure la largeur d de la tache centrale pour différentes valeurs de la largeur a de la fente et on représente graphiquement d = f(1/a) ; on obtient alors la courbe indiquée dans la figure 3.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig2 : Laser, fente de largeur a, écran à D = 1,5 m, tache centrale de largeur d)
+
+[FORMULA_IMAGE_UNREADABLE] (Fig3 : d.10-3 m en fonction de (1/a).10-3 m-1 ; abscisses 0 à 4, ordonnées 2, 4, 6)
+
+2.1- Trouver l'expression de d en fonction de λ, a et D, sachant que θ = λ/a. (θ petit exprimé en rad) (0,5)
+
+2.2- A l'aide de la figure 3, déterminer la valeur de λ. (0,5)
+
+### EXERCICE 2 (5 points) : De l'énergie solaire à l'énergie électrique
+
+On peut transformer l'énergie solaire en énergie électrique et la stocker dans des batteries d'accumulateurs ou dans des condensateurs et l'utiliser au besoin.
+
+L'objectif de cet exercice est l'étude de la charge d'un condensateur au moyen d'un panneau solaire, puis au moyen d'un échelon de tension ascendant.
+
+Pour comparer l'évolution de la tension aux bornes du condensateur au cours de sa charge à l'aide d'un panneau solaire et à l'aide d'un échelon de tension ascendant, Ahmed et Myriam ont réalisé les deux expériences suivantes :
+
+#### 1. Charge d'un condensateur au moyen d'un panneau solaire
+
+Le panneau solaire se comporte, lorsqu'il est exposé au soleil, comme un générateur donnant un courant d'intensité constante i = I0 tant que la tension entre ses bornes est inférieure à une tension maximale umax = 2,25 V.
+
+Myriam a réalisé le montage représenté dans la figure 1, comportant un panneau solaire et un condensateur de capacité C = 0,10 F et un conducteur ohmique de résistance R = 10 Ω et un interrupteur K.
+
+A l'aide d'un dispositif d'acquisition, Myriam a visualisé la tension uc aux bornes du condensateur en basculant l'interrupteur trois fois successives ; Elle obtient le graphe représenté dans la figure 2 qui comprend trois parties (a), (b) et (c) selon la position de l'interrupteur.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig1 : panneau solaire, interrupteur K positions 1, 2, 3, condensateur C (charge q, tension uc), résistance R, courant i, entrée du dispositif d'acquisition)
+
+[FORMULA_IMAGE_UNREADABLE] (Fig2 : uc(V) en fonction de t(s) ; graduations 0 à 7 s et 0,5 à 2,5 V ; parties a, b, c ; Umax)
+
+1.1- Associer chacune des parties du graphe à la position correspondante de l'interrupteur K. Déduire, en exploitant le graphe, la valeur de l'intensité I0 au cours de la charge. (0,5)
+
+1.2- Trouver l'expression de l'équation différentielle vérifiée par la charge q du condensateur :
+
+a- au cours de la charge ;
+
+c- au cours de la décharge. (0,5)
+
+1.3- L'expression de la tension uc au cours de la décharge s'exprime par la fonction uc = Umax.e^(−(t−3)/τ) avec τ la constante du temps du circuit utilisé.
+
+En déduire l'expression de l'intensité i(t) et dessiner, sans échelle, l'allure de la courbe représentant i(t) en respectant les conventions et l'origine du temps (figures 1 et 2). (0,5)
+
+#### 2. Charge d'un condensateur au moyen d'un échelon de tension ascendant
+
+Ahmed a réalisé le montage représenté dans la figure 3. Pour charger le condensateur précédent de capacité C il a utilisé un générateur donnant une tension constante U0 = 2,25 V.
+
+A l'instant t = 0, il ferme le circuit ; alors le condensateur se charge à travers la résistance R0 = 50 Ω.
+
+A l'aide d'un dispositif d'acquisition, il visualise l'évolution de la tension uc aux bornes du condensateur. Il obtient la courbe représentée dans la figure 4.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig3 : générateur U0, interrupteur K, résistance R0, condensateur C (uc), courant i, مدخل (entrée))
+
+[FORMULA_IMAGE_UNREADABLE] (Fig4 : uc(V) en fonction de t(s) ; graduations 0 à 24 s et 0,5 à 3,0 V)
+
+2.1- Établir l'équation différentielle que vérifie la tension uc au cours de la charge du condensateur. (0,5)
+
+2.2- La solution de l'équation différentielle s'écrit sous la forme uc = A.e^(−t/τ) + B avec τ la constante de temps du circuit utilisé.
+
+A l'aide de la courbe (fig4), calculer la valeur des deux constantes A et B. (0,5)
+
+2.3- Trouver l'expression de l'intensité du courant i(t) en fonction du temps au cours de la charge ; Et dessiner, sans échelle, l'allure de la courbe représentant i(t) en respectant les conventions et l'origine du temps t. (0,5)
+
+2.4- Calculer la valeur de la résistance R0 que doit utiliser Ahmed pour que son condensateur se charge totalement pendant la même durée de la charge totale du condensateur de Myriam, sachant que la durée de la charge totale est de l'ordre de 5τ. (0,25)
+
+#### 3. Oscillations dans un circuit RLC
+
+Ahmed a ajouté au montage représenté dans la figure 3 un conducteur ohmique de résistance R et une bobine d'inductance L et de résistance négligeable ; Il obtient le montage de la figure 5.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig5 : générateur U0, interrupteur K positions 1 et 2, résistances R0 et R, bobine L, condensateur C (uc), مدخل (entrée))
+
+3.1- A la fin de la charge du condensateur, Ahmed règle la résistance R sur la valeur R = 0 Ω.
+
+A l'instant t = 0, il bascule l'interrupteur K à la position (2) ; Il obtient alors la courbe représentée par la figure 6.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig6 : uc(V) en fonction de t(s) ; graduations 1, 2, 3 s et −3 à 3 V)
+
+a- Établir dans ce cas l'équation différentielle vérifiée par la tension uc aux bornes du condensateur. (0,5)
+
+b- La solution de l'équation différentielle s'écrit sous la forme uc = U0.cos((2π/T0).t). Trouver l'expression de T0 et Calculer la valeur de l'inductance L de la bobine. (0,5)
+
+c- En considérant la conservation de l'énergie, calculer l'intensité maximale du courant dans le circuit. (0,25)
+
+3.2- Ahmed règle la résistance R sur la valeur R ≠ 0 ; Il obtient un régime pseudopériodique dont la tension uc vérifie l'équation différentielle :
+
+d²uc/dt² + (R/L).(duc/dt) + (1/LC).uc = 0
+
+Trouver l'expression dET/dt en fonction de R.i² et ET (ET représente l'énergie totale du dipôle à l'instant t). (0,25)
+
+### EXERCICE 3 (5,75 points) Les deux parties sont indépendantes
+
+#### Première partie (3,25 points) : de l'étude de la chute libre à la chute avec frottement
+
+Newton a supposé que tous les corps ont même mouvement de chute quelque soit leur masses. Pour vérifier cette hypothèse Newton a réalisé l'expérience de chute dans un tube vide en utilisant des corps de masse et de forme différentes et en déduit que ce sont les forces de frottement fluides qui sont responsables de la différence des vitesses de chute des corps vers la Terre.
+
+Ahmed et Myriam ont décidé de vérifier expérimentalement la déduction de Newton, pour cela ils ont utilisé deux billes en verre (a) et (b) ayant le même volume V et la même masse m.
+
+Ils abandonnent les deux billes au même instant t = 0 et sans vitesse initiale d'une même hauteur h du sol (fig 1).
+
+- Ahmed a lâché la bille (a) dans l'air ;
+- Myriam a lâché la bille (b) dans un tube transparent contenant de l'eau de hauteur h (fig 1).
+
+[FORMULA_IMAGE_UNREADABLE] (fig 1 : axe y vertical, origine O, tube d'eau, le sol)
+
+A l'aide d'un dispositif convenable Ahmed et Myriam ont obtenu les résultats suivants :
+
+- La bille (a) atteint le sol à l'instant ta = 0,41 s ;
+- La bille (b) atteint le sol à l'instant tb = 1,1 s.
+
+Données : accélération de la pesanteur g = 9,80 m.s-2 ; m = 6,0.10-3 kg ; V = 2,57.10-6 m3 ; la masse volumique de l'eau ρ = 1000 kg.m-3.
+
+On suppose que la bille (a) n'est soumise au cours de sa chute dans l'air qu'à son poids.
+
+La bille (b) est soumise au cours de sa chute dans l'eau à :
+
+- Son poids d'intensité P = mg ;
+- La poussée d'Archimède d'intensité FA = ρ.g.V ;
+- La force de frottement fluide d'intensité f = K.v² avec K une constante positive et v vitesse du centre d'inertie de la bille.
+
+1- Étude du mouvement de la bille (a) dans l'air
+
+1.1- Établir l'équation différentielle que vérifie la vitesse du centre d'inertie de la bille (a) au cours de la chute. (0,5)
+
+1.2- Calculer la valeur de la hauteur h. (0,25)
+
+2- Étude du mouvement de la bille (b) dans l'eau
+
+Myriam a enregistré à l'aide d'un dispositif convenable l'évolution de la vitesse de la bille (b) au cours du temps ; Elle a obtenu le graphe représenté dans la figure 2.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig 2 : v(m.s-1) en fonction de t(s) ; graduations 0 à 1,2 s et 0,2 à 1 m.s-1 ; valeur limite 0,85)
+
+2.1- Établir l'équation différentielle vérifiée par la vitesse du centre d'inertie de la bille (b) au cours de sa chute dans l'eau en fonction des données du texte. (0,5)
+
+2.2- A l'aide du graphe de la figure 2, déterminer la valeur de la constante K. (0,75)
+
+2.3- Trouver l'expression de l'accélération a0 du centre d'inertie de la bille (b) à l'instant t = 0 en fonction de g, V, ρ et m. Déterminer le temps caractéristique du mouvement de la bille (b). (0,5)
+
+3- la différence entre les durées de chute
+
+Ahmed et Myriam ont répété leur expérience dans les conditions précédentes mais cette fois la hauteur d'eau dans le tube est H = 2h. Ahmed et Myriam ont libéré des deux billes (a) et (b) sans vitesse initiale au même instant t = 0 du même hauteur H = 2h.
+
+a- Exprimer Δt qui sépare l'arrivée des deux billes (a) et (b) au sol en fonction de ta, tb, g, h et v. (1)
+
+b- Calculer la valeur de Δt (0,75)
+
+#### Deuxième partie (2,5 points) : de l'orbite circulaire basse à l'orbite circulaire haute
+
+Johannes Kepler (1571-1630) a posé les trois lois qui permettent de décrire le mouvement des planètes et celui des satellites naturels.
+
+Le mouvement des satellites artificiels autour de la Terre hors de l'atmosphère est géré par les lois de Kepler.
+
+Le transfert d'un satellite artificiel terrestre (S) sur une orbite circulaire basse de rayon r1 vers une orbite circulaire haute de rayon r2 se fait en passant par une orbite elliptique tangente aux deux orbites circulaires comme l'indique la figure 3. Le centre O de la Terre constitue l'un des foyers de la trajectoire elliptique.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig 3 : Terre, orbites circulaires, orbite elliptique, points A, P, E, vecteur u⃗)
+
+Données : r1 = 6700 km ; r2 = 42200 km ; constante de gravitation universelle G = 6,67.10-11 S.I
+
+Masse de la Terre MT = 6,0.10^24 kg ; On rappelle la propriété de l'ellipse de foyer O et O' et de demi-grand axe a : OM + O'M = 2a avec M un point appartenant à l'ellipse.
+
+On suppose que le satellite artificiel (S) est ponctuel et n'est soumis qu'à l'attraction de la Terre et que la Terre effectue un tour complet autour de son axe de rotation en 24 h.
+
+On étudie le mouvement de (S) dans le repère géocentrique.
+
+1. En utilisant l'équation aux dimensions, déterminer la dimension de la constante G. (0,5)
+
+2- On note T1 et T2 les périodes respectives de (S) sur l'orbite circulaire basse et l'orbite circulaire haute. Exprimer T1 en fonction de r1, r2 et T2. Calculer la valeur de T1 sachant (S) est géostationnaire sur l'orbite circulaire haute. (1)
+
+3- On considère le point E qui appartient au petit axe de la trajectoire elliptique défini par OE⃗ = OE.u⃗ et ‖u⃗‖ = 1. Donner l'expression du vecteur accélération a⃗S de (S) au point E en fonction de G, M et OE. Calculer aS au point E. (0,5)

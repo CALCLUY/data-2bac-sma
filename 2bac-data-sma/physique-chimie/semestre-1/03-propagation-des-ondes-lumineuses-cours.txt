@@ -1,0 +1,173 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Propagation des ondes lumineuses
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 3 (Propagation d'une onde lumineuse)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- La lumière, un phénomène ondulatoire
+
+### 1-1/ Diffraction de la lumière
+
+#### Expérience
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img1.bmp)
+
+La lumière se propage en ligne droite dans un milieu transparent homogène.
+
+Lorsqu'un rayon lumineux rencontre une fente fine, la lumière ne se propage plus en une ligne droite, elle est diffractée par la fente dans un plan perpendiculaire à son axe. On obtient des tâches sur l'écran.
+
+#### Définition de la diffraction
+
+La diffraction est le phénomène au cours duquel une onde qui traverse une petite ouverture ou rencontre un petit objet change de direction sans modification des propriétés de l'onde (la fréquence, la période et la longueur d'onde).
+
+Ce phénomène est d'autant plus important lorsque la fente $a$ est faible.
+
+De cette expérience on peut déduire que la lumière a un aspect ondulatoire, c'est une onde électromagnétique qui se propage dans les milieux transparents et le vide.
+
+### 1-2/ La lumière est une onde
+
+La lumière n'a pas besoin d'un milieu matériel pour se propager.
+
+La lumière ne se propage pas dans les milieux opaques (bois, pierre...).
+
+La lumière est une onde électromagnétique (correspond à la propagation simultanée d'un champ électrique et magnétique) qui se propage dans le vide et dans les milieux transparents (air, eau, verre...).
+
+## II- Caractéristiques d'une onde lumineuse
+
+### 2-1/ Lumière monochromatique et polychromatique
+
+#### Onde lumineuse monochromatique
+
+La lumière monochromatique est celle qui ne peut pas être décomposée par le prisme, à titre d'exemple le rayonnement laser.
+
+Une onde lumineuse monochromatique est une onde progressive sinusoïdale caractérisée par :
+
+- Périodicité temporelle : caractérisée par aa fréquence $\nu$ ou la période $T$ imposées par la source de l'onde $\overline{\left.\right)\nu = \frac{1}{T}}$.
+- Périodicité spatiale : caractérisée par la longueur d'onde $\lambda$ et la vitesse $V$ qui dépend du milieu dans lequel l'onde se propage $\overline{\left.\right)V = \frac{\lambda}{T} = \lambda . \nu}$.
+
+#### Onde lumineuse polychromatique
+
+L'onde lumineuse polychromatique est composée d'un ensemble de lumières monochromatiques de fréquences différentes (composée de plusieurs radiations donc de plusieurs couleurs).
+
+Exemple: Lumière blanche
+
+### 2-2/ Célérité de la lumière
+
+Dans le vide et pratiquement dans l'air, toutes les radiations lumineuses se propagent avec la même célérité $C = 3 , 00 . 10^{8} m / s$, quelque soit leur fréquence.
+
+Dans les milieux transparents (comme le verre ou l'eau...) la célérité $\nu$ de la lumière est inférieure à c et différente d'un milieu à l'autre
+
+Exemples :
+
+- $\nu_{e a u} = 2 , 25 . 10^{8} m / s$
+- $\nu_{verre} = 2 . 10^{8} m / s$
+
+### 2-3/ Indice de réfraction
+
+L'indice de réfraction d'un milieu est le rapport des célérités : $\overline{\left.\right)n = \frac{C}{\nu}}$
+
+Exemples :
+
+- $\overline{\left.\right)n_{eau} = \frac{c}{\nu_{eau}} = \frac{3 . 10^{8}}{2 , 25 . 10^{8}} = 1 , 33}$
+- $\overline{\left.\right)n_{verre} = \frac{c}{\nu_{verre}} = \frac{3 . 10^{8}}{2 . 10^{8}} = 1 , 5}$
+
+### 2-4/ Fréquence et longueur d'onde
+
+Une onde lumineuse (radiation lumineuse) est une onde progressives sinusoïdale caractérisée par sa longueur d'onde dans le vide $\lambda$ (exprimée en mètres).
+
+Celle-ci est reliée à la période de l'onde T ou à sa fréquence ν par l'intermédiaire de la célérité :
+
+$\overline{\left.\right)C = \frac{\lambda_{0}}{T} = \lambda_{0} . \nu}$
+
+- $\lambda_{0}$ : longueur d'onde dans le vide (m)
+- $T$ : période (s)
+- $\nu$ : fréquence (Hz)
+- $C$ : célérité (m/s)
+
+### 2-5/ Domaine des radiations lumineuses
+
+Les valeurs des longueurs d'onde λ des radiations lumineuses nous permettent de les classer en différents domaines :
+
+- Si $400 n m < \lambda < 800 n m$, la radiation appartient au domaine des radiations visibles (En effet l'oeil n'est sensible qu'à ce domaine de longueur d'onde, et nous permet de voir toutes les couleurs)
+- Si $\lambda < 400 n m$, la radiation appartient au domaine des ultraviolets.
+- Si $\lambda > 800 n m$, la radiation appartient au domaine des infrarouges.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img2.bmp)
+
+## III- Diffraction d'une onde lumineuse monochromatique
+
+### 3-1/ Expérience
+
+On utilise un LASER (Light Amplification by Simulated Emission of Radiation) émettant une lumière de longueur d'onde λ.
+
+On dispose une fente fine verticale de largeur a dans le trajet lumineux et l'on observe sur un écran, situé à une distance D de la fente la diffraction. Avec L largeur la tâche centrale.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img3.bmp)
+
+#### Influence de la largeur de la fente a
+
+Plus la fente est fine et étroite, plus la lumière s'étale et plus la taille de la tâche centrale de la figure de diffraction est grande.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img13.jpg)
+
+#### Influence de la longueur d'onde λ
+
+Quand la longueur d'onde de la lumière incidente diminue, la largeur de la tache centrale diminue.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img14.jpg)
+
+#### Influence de la distance D entre la fente et l'écran
+
+Lorsque D augmente, la largeur L de la tache augmente aussi.
+
+### 3-2/ Écart angulaire
+
+On appelle écart angulaire θ, l'angle, exprimé en radian, entre la droite passant par le milieu de la tache centrale et celle passant par le milieu de la première zone d'extinction.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img4.bmp)
+
+$\overline{\left.\right)t a n \theta \approx \theta \left(\right. r a d \left.\right) = \frac{L}{2 . D}}$
+
+## IV- Phénomène de dispersion de la lumière par un prisme
+
+### 4-1/ Relations caractéristiques du prisme
+
+Un prisme est formé d'un milieu transparent limité par deux faces planes. Il est caractérisé par son angle au sommet A et par son indice de réfraction n.
+
+[FORMULA_IMAGE_UNREADABLE] (figures : s3/img5.bmp, s3/img6.bmp)
+
+$\overline{\left.\right)n_{a i r} . sin \left(\right. i \left.\right) = n . sin \left(\right. r \left.\right) \\ n . sin \left(\right. r ' \left.\right) = n_{a i r} . sin \left(\right. i ' \left.\right) \\ A = r + r ' \\ D = i + i ' + A}$
+
+### 4-2/ Dispersion de la lumière
+
+La dispersion de la lumière blanche est sa décomposition en radiations monochromatiques (prisme) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img7.bmp)
+
+La dispersion d'une radiation monochromatique modifie seulement sa trajectoire :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s3/img8.bmp)
+
+### 4-3/ Interprétation de la dispersion
+
+Le prisme est constitué de deux surfaces de séparation. La première est la surface air-verre, appelée face d'entrée du prisme et la seconde est la surface verre-air, appelée face de sortie.
+
+Le rayon lumineux incident subit une première réfraction sur la face d'entrée et une deuxième réfraction sur la face de sortie.
+
+La lumière incidente est blanche elle est constituée d'une somme de radiations lumineuses. Toutes les radiations arrivent avec le même angle d'incidence i.
+
+L'indice du prisme dépend de la fréquence (couleur de radiation) ou de la longueur d'onde dans le vide de la radiation
+
+Selon la deuxième loi de la réfraction : $\sin(i) = n . \sin(r)$, le trajet d'une radiation dépend de l'indice du prisme.
+
+Donc chaque radiation possède un angle de réfraction différent alors chaque radiation est déviée différemment.
+
+[FORMULA_IMAGE_UNREADABLE] (figures : s3/img12.png, s3/img11.jpg)

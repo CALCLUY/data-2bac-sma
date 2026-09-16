@@ -1,0 +1,108 @@
+---
+Type: Examen National
+Année: 2012
+Session: Normale
+Nature: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2012 – عناصر الإجابة - مادة : الرياضيات
+NR25 — المعامل : 9 — مدة الإنجاز : 4
+
+Répartir la note selon les étapes de la résolution
+
+## EXERCICE 1 — 3,5 pts
+
+**I-** 1) Calcul de $A - I$ ……. 0,25 pts
+Calcul de $A^{2}$ ……..…. 0,5 pts
+
+2) $A^{-1} = A - I$ [FORMULA_IMAGE_UNREADABLE] …..……. 0,5 pts
+
+**II-** 1) Vérification …….. 0,25 pts
+
+2) $\ast$ Loi de composition interne …… 0,5 pts
+
+3) a) $\varphi$ homomorphisme ………... 0,25 pts
+$\varphi$ bijective …………….... 0,25 pts
+
+b) $\left(I , \ast\right)$ groupe commutatif ….. 0,25 pts
+
+c) $\Gamma$ sous-groupe de $\left(I , \ast\right)$ ….. 0,75 pts (0,25 pts pour $\Gamma \neq \varnothing$ ; 0,25 pts pour $\Gamma$ partie stable et 0,25 pts pour l'appartenance du symétrique à $\Gamma$)
+
+## EXERCICE 2 — 3,5 pts
+
+**I-** 1) Détermination des deux racines …. 0,75 pts
+
+2) a) Vérification de $z_{1} z_{2} = a^{2}\left(i - 1\right)$ …. 0,25 pts
+
+b) $z_{1} z_{2} \in \mathbb{R} \Leftrightarrow \arg a \equiv \dfrac{3\pi}{8} \left[\dfrac{\pi}{2}\right]$ …… 0,5 pts
+
+**II-** 1) a) $A$, $D$ et $M$ sont alignés $\Leftrightarrow \left(ic - 1\right)\overline{z} + \left(\overline{ic} - 1\right)z = 2ic$ ….. 0,5 pts
+
+b) $(AD) \perp (OM) \Leftrightarrow \left(ic - 1\right)\overline{z} - \left(\overline{ic} - 1\right)z = 0$ ……. 0,5 pts
+
+2) a) $\left(1 - i\right)h + \dfrac{i}{c}\overline{h} = \ldots$ [FORMULA_IMAGE_UNREADABLE] ……. 0,75 pts
+
+b) $(CH) \perp (BH)$ …… 0,25 pts
+
+## EXERCICE 3 — 3 pts
+
+1) a) Détermination du PGCD …… 0,25 pts
+Existence des solutions de $(E)$ ….. 0,25 pts
+
+b) Résolution de l'équation $(E)$ … 0,75 pts (dont 0,25 pts pour les étapes de la résolution)
+
+2) $n^{4k} \equiv 1 \ [5]$ …… 0,5 pts
+
+3) a) $n^{x} \equiv n^{y} \ [5]$ …… 0,5 pts (dont 0,25 pts pour le cas $n \equiv 0 \ [5]$)
+
+b) $n^{x} \equiv n^{y} \ [10]$ …… 0,5 pts (dont 0,25 pts pour $n^{x} \equiv n^{y} \ [2]$)
+
+4) les nombres $n^{x}$ et $n^{y}$ ont le même chiffre des unités … 0,25 pts
+
+## EXERCICE 4 — 5,5 pts
+
+1) Calcul des deux limites …. 0,5 pts (0,25 pts pour chaque limite)
+
+2) a) Branche infinie au voisinage de $+\infty$ …. 0,5 pts
+
+b) Asymptote oblique ….. 0,25 pts
+Position relative ……. 0,25 pts
+
+3) Calcul de $f_{n}'(x)$ ………..… 0,25 pts
+Variations de $f_{n}$ ………..… 0,25 pts
+Tableau des variations de $f_{n}$ …. 0,25 pts
+
+4) Construction de la courbe $\left(C_{3}\right)$ …. 0,75 pts
+
+5) a) $\dfrac{e}{n} \leq \ln n$ …………………… 0,25 pts
+
+b) Existence et unicité de $x_{n}$ …….. 0,25 pts
+Existence et unicité de $y_{n}$ …….. 0,75 pts
+
+c) $\lim\limits_{n \to +\infty} y_{n} = 0$ et $\lim\limits_{n \to +\infty} x_{n} = +\infty$ ….. 0,5 pts (0,25 pts pour chaque limite)
+
+6) a) Continuité de $g$ à droite en $0$ ……... 0,25 pts
+
+b) Vérification ………………………. 0,25 pts
+
+c) Déduction de $\lim\limits_{n \to +\infty} \dfrac{x_{n}}{\ln n} = 1$ …. 0,25 pts
+
+## EXERCICE 5 — 4,5 pts
+
+1) Les deux inégalités … ………… …. 0,25 pts
+
+2) a) $F(x) = \dfrac{2}{x^{2}} \displaystyle\int_{0}^{x} \frac{t}{1 + 2t}\,dt$ ………………….. … 0,5 pts
+
+b) $\left(\forall x \in \left]0 , 1\right]\right) \ , \ \dfrac{1}{1 + 2x} \leq F(x) \leq 1$ ………… ….. 0,5 pts
+Déduction de la continuité de $F$ à droite en $0$ ….. 0,25 pts
+
+3) Utilisation de l'intégration par parties …………... 0,75 pts
+
+4) a) Calcul de $F'(x)$ ………………………….... 0,5 pts
+
+b) Encadrement de $F'(x)$ …………………..… 0,75 pts
+
+c) $-\dfrac{4}{3} \leq \dfrac{F(x) - F(0)}{x} \leq -\dfrac{4}{3\left(1 + 2x\right)^{2}}$ ……………. …. 0,75 pts
+
+d) Dérivabilité de $F$ à droite en $0$ …………... 0,25 pts

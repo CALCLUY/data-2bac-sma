@@ -1,0 +1,90 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: B- Aspects énergétiques (Pendule pesant et de torsion)
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 26B (Aspects énergétiques – Pendule pesant et de torsion)
+Professeur : Mr EL GOUFIFA Jihad
+
+## III- Exercices
+
+### 3-1/ Exercice 1
+
+Une tige $A B$ homogène de masse $m$ et de longueur $A B = \mathcal{l} = 60 , 0 c m$ pouvant tourner dans un plan vertical autour d'un axe $\left(\Delta\right)$ horizontal fixe passant par son extrémité A.
+
+Le moment d'inertie de cette tige par rapport à l'axe $\left(\Delta\right)$ est $J_{\Delta} = \frac{1}{3} m . \mathcal{l}^{2}$.
+
+On repère à chaque instant la position du pendule pesant par l'abscisse angulaire orienté $\theta \left(\overset{\rightarrow}{k} ; \overset{\rightarrow}{A B}\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-2/img5.jpg)
+
+On choisit le plan horizontal contenant le point $G_{0}$ position du centre d'inertie $G$ de la tige à l'équilibre comme état de référence de l'énergie potentielle de pesanteur $\left(E_{p} = 0\right)$.
+
+On admet dans le cas de faible amplitude que $1 - cos \theta \approx \frac{\theta^{2}}{2} \left(\right. r a d \left.\right)$, et on prend $g = 9 , 80 m . s^{- 2}$.
+
+1. Montrer que l'expression de l'énergie potentielle de pesanteur du pendule pesant peut s'écrire sous la forme : $E_{P} = m . g . \frac{\mathcal{l}}{2} \left(\right. 1 - cos \theta \left.\right)$.
+
+2. Dans le cas de faible amplitude, écrire l'expression de l'énergie mécanique à un instant $t$ en fonction de $m$, $\mathcal{l}$, $g$, $\theta$ et $\frac{d \theta}{d t}$.
+
+3. En déduire l'équation différentielle vérifiée par l'abscisse angulaire dans le cas de faible amplitude.
+
+On lance la tige $A B$ à partir de sa position d'équilibre avec une vitesse initiale. Elle acquiert dans chaque cas une énergie mécanique donnée :
+
+- dans le cas 1 : $E_{m} = E_{m_{1}}$
+- dans le cas 2 : $E_{m} = E_{m_{2}}$
+
+Le diagramme suivant donne l'évolution de l'énergie potentielle $E_{p}$ et de l'énergie mécanique $E_{m}$ du pendule pesant dans chaque cas :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-2/img6.jpg)
+
+4. Déterminer à l'aide du diagramme, la nature du mouvement du pendule dans chaque cas.
+
+5. Préciser à partir du diagramme, la valeur maximale de l'abscisse angulaire $\theta$ du pendule dans le cas 1. En déduire la masse de la tige.
+
+Dans le deuxième cas, l'énergie cinétique du pendule pesant varie entre une valeur minimale $E_{C_{m i n}}$ et une valeur maximale $E_{C_{m a x}}$.
+
+6. Trouver les valeurs de $E_{C_{m i n}}$ et $E_{C_{m a x}}$.
+
+### 3-2/ Exercice 2
+
+On considère un pendule de torsion constitué d'un fil de torsion et d'une barre homogène de moment d'inertie $J_{\Delta}$.
+
+On écarte la barre de sa position d'équilibre d'un angle $\theta_{m} = \frac{\pi}{10} r a d$ par rapport à la position d'équilibre $\theta = 0$, et on la libère sans vitesse initiale à l'instant $t_{0} = 0$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-2/img7.jpg)
+
+Les amortissements sont négligeables.
+
+1. Montrer que le mouvement de la barre est un mouvement oscillatoire sinusoïdale.
+
+2. Montrer que $\left(\overset{\cdot}{\theta}\right)_{m} = \frac{2 \pi}{T_{0}} . \theta_{m}$ où $T_{0}$ désigne la période propre du mouvement du pendule.
+
+3. Sachant que $T_{0} = 0 , 2 s$, et la constante de torsion $C = 1 , 2 N . m . r a d^{- 1}$, calculer l'énergie cinétique maximale du pendule de torsion.
+
+### 3-3/ Exercice 3
+
+On étudie le mouvement d'un pendule de torsion dans un repère lié à un référentiel terrestre supposé galiléen.
+
+On repère la position de la tige MN à chaque instant par l'abscisse angulaire orientée $\theta = \left(\right. \overset{\rightarrow}{G M_{0}} ; \overset{\rightarrow}{G M} \left.\right)$ comme l'indique la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-2/img7.jpg)
+
+On prend pour état de référence de l'énergie potentielle de torsion $E_{p t} = 0$ pour $\theta = 0$, et on prend $\pi^{2} = 10$.
+
+Le pendule effectue des oscillations d'amplitude $\theta_{m} = \frac{\pi}{4} r a d$. L'étude expérimentale a permis d'obtenir la courbe suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-2/img8.jpg)
+
+1. En appliquant la relation fondamentale de la dynamique dans le cas de la rotation, établir l'équation différentielle du mouvement du pendule.
+
+La solution de cette équation différentielle s'écrit sous la forme $\theta \left(t\right) = \theta_{m} . cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right)$ où $T_{0}$ est la période propre du pendule.
+
+2. Montrer que l'expression numérique de la vitesse angulaire s'écrit sous la forme $\overset{\cdot}{\theta} \left(t\right) = 4 . sin \left(1 , 6 . \pi . t + \frac{7 \pi}{6}\right)$.
+
+3. Déterminer la valeur de la constante de torsion $C$.
+
+4. Déterminer la valeur de l'énergie mécanique de l'oscillateur et en déduire la valeur de son énergie potentielle à l'origine des dates $\left(\right. t_{0} = 0 \left.\right)$.

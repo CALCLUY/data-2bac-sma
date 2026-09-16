@@ -1,0 +1,144 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Transformations forcées (Électrolyse)
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 25 (Transformations forcées (Électrolyse))
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+L'électrolyse permet d'obtenir des gaz d'une grande pureté. On réalise l'électrolyse d'une solution concentrée de chlorure de sodium $\left(N a_{\left(a q\right)}^{+} + C l_{\left(a q\right)}^{-}\right)$ en utilisant deux électrodes en graphite.
+
+On obtient un dégagement de dichlore au voisinage de l'une des électrodes, et dégagement de dihydrogène au voisinage de l'autre électrode, de plus que le milieu réactionnel devient basique au cours de la transformation chimique.
+
+La figure suivante représente le dispositif expérimental utilisé pour réaliser cette électrolyse :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s25/img6.bmp)
+
+Données :
+
+- Le faraday : $\mathcal{F} = 9 , 65 . 10^{4} C . m o l^{- 1}$
+- Le volume molaire dans les conditions de l'expérience : $V_{m} = 25 , 0 L / m o l$
+
+Les espèces chimiques présentes dans l'électrolyseur sont le graphite $C$, l'eau $H_{2} O$, les ions chlorure $C l^{-}$, les ions sodium $N a^{+}$. Le graphite est inerte.
+
+Les couples d'oxydoréduction susceptibles d'intervenir sont : $N a^{+} / N a$, $C l_{2} / C l^{-}$, $O_{2} / H_{2} O$ et $H_{2} O / H_{2}$
+
+1. Compléter la figure.
+
+2. Écrire l'équation (ou les demi-équations) modélisant la réaction ayant lieu au voisinage de chaque électrode (les demi-équations possibles).
+
+3. En se basant sur les observations expérimentales, écrire l'équation bilan modélisant la transformation ayant lieu au cours de l'électrolyse.
+
+4. Identifier le gaz 1 et le gaz 2.
+
+Le générateur alimente le circuit électrique par un courant d'intensité constante $I = 1 , 5 A$ pendant une durée $\Delta t = 80 m i n$.
+
+5. Calculer la quantité d'électricité $Q$ débitée au cours de cette durée.
+
+6. Déterminer le volume du dichlore $C l_{2}$ produit au cours de la durée de fonctionnement de l'électrolyseur.
+
+### 5-2/ Exercice 2
+
+Parmi les applications de l'électrolyse, on trouve la couverture des métaux par une fine couche d'un métal afin de les protéger de la corrosion ou de les embellir.
+
+L'objectif de cette partie de l'exercice est d'étudier l'argenture d'une plaque de cuivre par électrolyse.
+
+Données :
+
+- Les couples mis en jeu : $A g_{\left(a q\right)}^{+} / A g_{\left(s\right)}$ et $O_{2} / H_{2} O$.
+- Le faraday : $\mathcal{F} = 9 , 65 . 10^{4} C . m o l^{- 1}$
+- Masse molaire atomique de l'argent : $M \left(\right. A g \left.\right) = 108 g . m o l^{- 1}$
+
+On plonge totalement une plaque de cuivre dans une solution de nitrate d'argent $A g_{\left(a q\right)}^{+} + N O_{3 \left(a q\right)}^{-}$ et on relie par un fil conducteur à l'une des deux bornes d'un générateur $G$. L'autre borne est reliée à une électrode de graphite comme l'indique la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s25/img7.bmp)
+
+Lors de la fermeture de l'interrupteur $K$, le générateur $G$ délivre au circuit un cornant électrique, d'intensité constante $I = 0 , 4 A$, pendant une durée $\Delta t = 70 m i n$.
+
+Le gaz dioxygène $O_{2}$ se dégage au niveau de l'électrode de graphite et le métal argent se dépose uniformément sur la plaque de cuivre.
+
+On considère que les ions nitrate ne réagissent pas au cours de l'électrolyse.
+
+- Choisissez, parmi les réponses proposées, la réponse juste sans aucune explication ni justification.
+
+A- Au cours de l'argenture par électrolyse :
+
+1. La plaque de cuivre représente l'anode, elle est reliée à la borne négative du générateur $G$.
+2. La plaque de cuivre représente l'anode, elle est reliée à la borne positive du générateur $G$.
+3. La plaque de cuivre représente la cathode, elle est reliée à la borne négative du générateur $G$.
+4. La plaque de cuivre représente la cathode, elle est reliée à la borne positive du générateur $G$.
+
+B- L'équation chimique de la réaction à l'électrode de graphite s'écrit sous la forme :
+
+1. $A g_{\left(a q\right)}^{+} + e^{-} \rightleftarrows A g_{\left(s\right)}$
+2. $2 O_{\left(a q\right)}^{2 -} \rightleftarrows O_{2 \left(g\right)} + 4 e^{-}$
+3. $6 H_{2} O_{\left(l\right)} \rightleftarrows O_{2 \left(g\right)} + 4 H_{3} O_{\left(a q\right)}^{+} + 4 e^{-}$
+4. $C u_{\left(s\right)} \rightleftarrows C u_{\left(a q\right)}^{2 +} + 2 e^{-}$
+
+C- La masse $m \left(\right. A g \left.\right)$ de l'argent déposé sur la plaque de cuivre pendant la durée $\Delta t$ est :
+
+1. $m \left(\right. A g \left.\right) = 30 m g$
+2. $m \left(\right. A g \left.\right) = 1 , 9 g$
+3. $m \left(\right. A g \left.\right) = 0 , 5 g$
+4. $m \left(\right. A g \left.\right) = 1 , 9 m g$
+
+D- Le volume de dioxygène dégagé pendant la durée $\Delta t$ sachant que le volume molaire dans les conditions de l'expérience est $V_{m} = 22 , 4 L / m o l$ est :
+
+1. $V \left(O_{2}\right) = 1 , 9 L$
+2. $V \left(O_{2}\right) = 6 , 5 m L$
+3. $V \left(O_{2}\right) = 97 , 49 m L$
+4. $V \left(O_{2}\right) = 389 , 96 m L$
+
+### 5-3/ Exercice 3
+
+C'est par oxydation que le cuivre se recouvre de « vert de gris ». La couche obtenue donne un aspect particulier aux statues, mais elle est constituée d'un sel soluble qui est toxique. L'électrolyse du cuivre consiste dans ce cas à déposer une fine couche d'étain sur toute la surface du récipient. Ce procédé est appelé étamage. L'électrolyte est constitué de sulfate d'étain, $S n_{\left(a q\right)}^{2 +} + S \left(O_{4}\right)_{\left(a q\right)}^{2 -}$ et de différents additifs. Le récipient à étamer constitue une électrode, l'autre étant de l'étain $S n_{\left(s\right)}$ pur.
+
+On considère le schéma du montage suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s25/img8.bmp)
+
+1. Indiquer sur ce schéma le sens du courant électrique dans le circuit ainsi que le sens de circulation des porteurs de charge dans les conducteurs métalliques et dans la solution.
+
+2. L'électrolyse est-elle une transformation spontanée ? Justifier la réponse.
+
+On étudie les réactions aux électrodes en considérant que le solvant n'intervient pas.
+
+3. La réaction se produisant à l'électrode $A$ reliée à la borne négative du générateur est-elle une oxydation ou une réduction ? Justifier. En déduire le nom de chaque électrode.
+
+4. Écrire l'équation de la réaction ayant lieu à l'électrode $A$. Le récipient à recouvrir doit-il constituer cette électrode ? Justifier.
+
+5. Écrire l'équation de la réaction ayant lieu à l'autre électrode $B$.
+
+6. En déduire l'équation de la réaction globale de cette électrolyse. Comment évolue la concentration en ions étain $S n_{\left(a q\right)}^{2 +}$ dans la solution au cours de la réaction ?
+
+L'intensité du courant électrique $I = 250 m A$ est maintenue constante pendant toute la durée $\Delta t$ de l'électrolyse.
+
+7. Donner l'expression de la quantité d'électricité $Q$ qui a traversé le circuit au cours de l'électrolyse.
+
+8. En s'aidant éventuellement d'un tableau d'avancement, établir la relation entre la quantité d'électrons $n \left(e^{-}\right)$ échangée et la quantité d'étain $n_{S n}$ déposé sur le récipient.
+
+9. Donner la relation entre la quantité d'électricité $Q$ et la quantité d'électrons $n \left(e^{-}\right)$ échangés aux électrodes.
+
+10. Montrer alors que la durée de l'électrolyse peut être exprimée, en fonction de la masse $m_{S n}$ déposée, par la relation : $\Delta t = \frac{2 . m_{S n} . F}{I . M \left(S n\right)}$.
+
+On veut étamer une casserole cylindrique, de diamètre $D = 15 c m$, de hauteur $H = 7 , 0 c m$, et d'épaisseur négligeable. Le dépôt d'étain doit être réalisé sur les faces interne et externe et sur une épaisseur $e = 20 µ m$.
+
+11. Calculer la valeur de $V$ en $c m^{3}$.
+
+12. La masse volumique de l'étain est $\rho = 7 , 30 g . c m^{- 3}$. Calculer la masse d'étain nécessaire.
+
+13. Calculer la durée minimale de l'électrolyse pour réaliser ce dépôt.
+
+Données :
+
+- Masse molaire de l'étain : $M \left(\right. S n \left.\right) = 119 g . m o l^{- 1}$
+- Constante de Faraday : $F = 9 , 65 . 10^{4} C . m o l^{- 1}$
+- Le couple $\left(S n_{\left(a q\right)}^{2 +} / S n_{\left(s\right)}\right)$

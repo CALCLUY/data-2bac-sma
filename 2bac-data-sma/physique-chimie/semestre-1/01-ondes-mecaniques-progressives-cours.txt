@@ -1,0 +1,145 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Ondes mécaniques progressives
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 1 (Les ondes mécaniques progressives)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Définitions
+
+### 1-1/ Onde mécanique
+
+C'est le phénomène de propagation d'une perturbation dans un milieu matériel sans transport de la matière, mais avec le transport de l'énergie.
+
+### 1-2/ Milieu matériel élastique
+
+(compressible et expansible) S'il est capable de reprendre sa forme initiale après avoir subit le passage d'une onde.
+
+## II- Types d'ondes
+
+### 2-1/ Onde transversale
+
+Une onde est dite transversale si la direction de la perturbation du milieu est perpendiculaire à la direction de propagation d'onde.
+
+[FORMULA_IMAGE_UNREADABLE] (figures : s1/img1.bmp, s1/img3.bmp)
+
+#### Exemple
+
+L'onde le long d'une corde ou à la surface de l'eau.
+
+### 2-2/ Onde longitudinale
+
+Une onde est dite longitudinale si la direction de la perturbation du milieu est alignée avec la direction de la propagation de l'onde.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img2.bmp)
+
+#### Exemple
+
+L'onde le long d'un ressort ou l'onde sonore.
+
+## III- L'onde mécanique progressive
+
+L'onde mécanique progressive est une succession entretenue des signaux mécaniques qui se propagent dans un milieu supposé infini.
+
+Nous pouvons générer une onde mécanique progressive par la vibration entretenue d'une source.
+
+#### Exemple
+
+En faisant tomber l'eau successivement à la surface libre d'une eau, goutte par goutte, à l'aide d'un robinet on obtient une onde mécanique progressive.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img4.bmp)
+
+## IV- L'onde sonore
+
+### 4-1/ Expériences
+
+[FORMULA_IMAGE_UNREADABLE] (figures : s1/img5.jpg, s1/img6.jpg)
+
+### 4-2/ Observations
+
+#### Expérience 1
+
+On observe l'absence de son Après le vidage de l'air, on conclut que le son ne se propage pas dans le vide mais il nécessite un milieu matériel pour se propager.
+
+#### Expérience 2
+
+Lorsqu'on frappe le diapason, la balle se déplace horizontalement, ce qui indique que la direction de perturbation et celle de propagation sont alignées, donc le son est une onde longitudinale.
+
+### 4-3/ Conclusion
+
+Le son est une onde mécanique progressive longitudinale se propage dans les milieux matériels (solide et liquide et gaz) et ne se propage pas dans le vide, et il se propage grâce à une compression et une dilatation du milieu de propagation.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img7.bmp)
+
+## V- Propriétés des ondes mécaniques
+
+### 5-1/ Dimension d'onde
+
+Une onde mécanique se propage à partir de la source dans toutes les directions qui lui sont offertes :
+
+- L'onde à une dimension : se propage selon un axe depuis sa source, à titre d'exemple le ressort.
+- L'onde à deux dimensions : se propage selon deux axes depuis sa source, comme l'onde à la surface de l'eau.
+- L'onde à trois dimensions : se propage selon trois axes (L'espace $(x, y, z)$) depuis sa source, par exemple l'onde sonore.
+
+### 5-2/ Superposition d'ondes
+
+Lorsque plusieurs ondes de propagent dans la même région, elles se propagent en conservant leur intégrité, c-à-d leurs amplitudes s'ajoutent algébriquement, puis elles s'éloignent sans être altérées.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img8.bmp)
+
+## VI- Vitesse de propagation d'une onde
+
+### 6-1/ Définition
+
+La vitesse de propagation d'une onde (nommée célérité) est égale à la distance parcourue au temps mis à la parcourir.
+
+Elle est donné par la relation suivante : $V = \dfrac{d}{\Delta t}$
+
+$V$ est la célérité de l'onde (m/s)
+$d$ est la distance parcourue (m)
+$\Delta t$ est la durée du parcours (s)
+
+### 6-2/ Facteurs influençant la célérité de propagation
+
+Pour un milieu homogène, la célérité d'une onde est constante et indépendante de la forme de la perturbation. Tandis qu'elle dépend de la nature du milieu : son élasticité, son inertie et de sa température.
+
+#### Influence de l'élasticité du milieu
+
+La célérité d'une onde augmente avec l'élasticité du milieu de propagation.
+
+Exemple: La célérité d'une onde le long d'une corde augmente avec l'augmentation de sa tension.
+
+#### Influence de l'inertie du milieu
+
+L'inertie d'un milieu ou d'un système représente la résistance que ce milieu ou ce système oppose lorsqu'on cherche à le mettre en mouvement.
+
+La célérité d'une onde dans un milieu dépend de son inertie. Plus l'inertie du milieu est grande et plus la célérité de l'onde se propageant dans ce milieu est faible.
+
+Par exemple, l'inertie d'une corde est représentée par sa masse linéique (masse par unité de longueur).
+
+La célérité d'une onde le long d'une corde est donnée par : $V = \sqrt{\dfrac{F}{\mu}}$
+
+où $F$ est la tension de la corde et $\mu$ sa masse linéique.
+
+Pour l'onde sonore, la célérité augmente avec la densité du milieu de propagation : $V_{gaz} < V_{liquide} < V_{solide}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img9.jpg)
+
+Pour les gaz, la célérité du son augmente avec la température du milieu.
+
+## VII- Notion de retard
+
+Au cours de la propagation d'une onde mécanique non amortie, tous les points du milieu de propagation subissent la même perturbation que la source $S$ mais avec un retard $\tau_{M} = \dfrac{SM}{V}$ tel que:
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s1/img10.jpg)
+
+En général : Le retard d'un point $M'$ par rapport un point $M$ est donné par : $\tau = \dfrac{MM'}{V}$
+
+La relation entre l'élongation d'un point $M$ du milieu de propagation et celle de la source est : $y_{M}(t) = y_{S}(t - \tau)$ avec : $\tau = \dfrac{SM}{\nu}$

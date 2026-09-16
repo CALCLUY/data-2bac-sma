@@ -1,0 +1,153 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2019 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية – خيار فرنسية
+الدورة الاستدراكية 2019
+– الموضوع –
+
+RS 36F
+المادة : علوم الحياة والأرض
+مدة الإنجاز : 2 س
+الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) – خيار فرنسية
+المعامل : 3
+
+L'utilisation d'une calculatrice non programmable est autorisée
+
+## Partie I : Restitution des connaissances (5 points)
+
+I - Définissez : la sélection artificielle ; la race pure. (1 pt)
+
+II – Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte.
+
+Recopiez, sur votre feuille de rédaction, les couples ci-dessous et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+(1,…..) (2,…..) (3,…..) (4,…..)
+
+1- Le brassage intrachromosomique est un phénomène qui :
+
+a- se produit au cours de l'anaphase I de la méiose ;
+b- résulte de la migration aléatoire des chromosomes homologues ;
+c- résulte de l'échange de fragments entre chromatides de chromosomes homologues ;
+d- se produit au cours de la fécondation.
+
+2- Dans le cas de deux gènes liés, le pourcentage de recombinaison est :
+
+a- toujours supérieur à 50 % ;
+b- toujours égal à 50 % ;
+c- inférieur à 50 % ;
+d- indépendant de la distance qui sépare les deux gènes.
+
+3- Les phénotypes recombinés obtenus lors d'un croisement test (back-cross) portant sur deux gènes liés sont :
+
+a- majoritaires ;
+b- minoritaires ;
+c- équiprobables aux phénotypes parentaux ;
+d- absents.
+
+4- La dérive génétique est un phénomène qui :
+
+a- touche essentiellement les populations de petit effectif ;
+b- touche essentiellement les populations de grand effectif ;
+c- augmente la diversité génétique de la population ;
+d- n'a aucun effet sur les fréquences alléliques.
+
+III - Répondez par vrai ou faux aux propositions suivantes : (1 pt)
+
+a- La mutation est la seule source de nouveaux allèles dans une population.
+b- Les migrations n'ont aucun effet sur le pool génétique d'une population.
+c- La sélection naturelle agit sur les phénotypes des individus d'une population.
+d- Dans une population panmictique idéale, les fréquences alléliques restent constantes d'une génération à l'autre.
+
+IV - Réalisez un schéma annoté d'un chromosome à deux chromatides. (1 pt)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (7 points)
+
+I - L'algue verte Derbesia marina et l'algue Halicystis ovalis ont été longtemps considérées comme deux espèces différentes, jusqu'à ce que des études montrent qu'elles correspondent à deux stades du cycle de développement d'une même espèce.
+
+Les thalles de Derbesia (filamenteux) produisent par méiose des zoïdes flagellés. Ces zoïdes germent et donnent des thalles vésiculeux de Halicystis. Les thalles de Halicystis produisent des gamètes mâles et femelles qui fusionnent deux à deux et donnent un zygote. Le zygote germe et donne un nouveau thalle de Derbesia.
+
+Le document 1 représente les étapes du cycle de développement de cette algue.
+
+[Figure — Document 1 : cycle de développement — Thalle de Derbesia ; Méiose ; Zoïdes ; Germination ; Thalle de Halicystis ; Gamète mâle et gamète femelle ; Fécondation ; Zygote ; Germination]
+
+1 - En exploitant le document 1 :
+
+a- Réalisez le cycle chromosomique de cette algue et déterminez son type. (1 pt)
+
+b- Déterminez la phase dominante de ce cycle. Justifiez votre réponse. (0.5 pt)
+
+II – Chez le Muflier (Antirrhinum majus), on étudie la transmission de deux caractères héréditaires : la forme de la corolle (corolle normale ou corolle en forme de cloche) et la couleur de la corolle (rouge, rose ou blanche).
+
+• Premier croisement : entre des plantes de race pure à corolle normale rouge et des plantes de race pure à corolle en cloche blanche. On obtient une génération F1 constituée à 100 % de plantes à corolle normale rose.
+
+• Deuxième croisement : entre les plantes de la génération F1. On obtient une génération F2 constituée de :
+- 370 plantes à corolle normale rose ;
+- 189 plantes à corolle normale rouge ;
+- 187 plantes à corolle normale blanche ;
+- 126 plantes à corolle en cloche rose ;
+- 63 plantes à corolle en cloche rouge ;
+- 62 plantes à corolle en cloche blanche.
+
+2 - En exploitant les résultats du premier croisement, déterminez le mode de transmission des deux caractères étudiés. (1.5 pt)
+
+NB : Utilisez les symboles (N et c) pour les allèles responsables de la forme de la corolle et les symboles (R et B) pour les allèles responsables de la couleur de la corolle.
+
+3 - A partir des résultats du deuxième croisement, montrez que les deux gènes étudiés sont indépendants. (1.5 pt)
+
+4 - Donnez l'interprétation chromosomique du deuxième croisement en utilisant un échiquier de croisement. (2.5 pts)
+
+### Exercice 2 : (3 points)
+
+La myopathie de Duchenne est une maladie héréditaire grave caractérisée par une dégénérescence progressive des muscles. Pour déterminer le mode de transmission de cette maladie, on propose les données suivantes :
+
+Le document 2 représente l'arbre généalogique d'une famille dont certains membres sont atteints de la myopathie de Duchenne.
+
+[Figure — Document 2 : arbre généalogique — générations I, II, III ; légende : individu sain, individu malade]
+
+1 – En exploitant le document 2, montrez que l'allèle responsable de la maladie est récessif et porté par le chromosome sexuel X. (1 pt)
+
+NB : Utilisez les symboles (M) et (m).
+
+2 – Donnez les génotypes possibles des individus II 2 et II 3. (0.5 pt)
+
+Pour préciser le génotype de certains membres de cette famille, on a réalisé l'électrophorèse de l'ADN de quelques individus, après traitement par une enzyme de restriction. Le document 3 présente les résultats obtenus : l'allèle normal donne un fragment de 1.8 kb, alors que l'allèle muté donne un fragment de 1.3 kb.
+
+[Figure — Document 3 : profil électrophorétique de l'ADN des individus étudiés — bandes à 1.8 kb et 1.3 kb]
+
+3 – En exploitant le document 3, déterminez le génotype exact des individus étudiés. (0.75 pt)
+
+4 – Déterminez la probabilité pour que le couple (III 1 x III 2) donne naissance à un garçon atteint de la myopathie de Duchenne. Justifiez votre réponse par un échiquier de croisement. (0.75 pt)
+
+### Exercice 3 : (5 points)
+
+Les escargots de l'espèce Theba pisana présentent des coquilles de couleur variable. La couleur de la coquille est déterminée par un gène possédant deux allèles codominants : l'allèle B responsable de la coquille claire (blanche) et l'allèle N responsable de la coquille foncée (bandée). Les individus hétérozygotes présentent une coquille de couleur intermédiaire.
+
+On a étudié une population de ces escargots vivant sur une dune littorale comportant deux zones : une zone couverte d'oyats (végétation dense, sol sombre) et une zone de plage nue (sable clair). Le document 4 présente les fréquences des phénotypes dans chacune des deux zones.
+
+[Figure — Document 4 : tableau/histogramme des fréquences phénotypiques dans la zone des oyats et dans la zone de la plage]
+
+1 – A partir du document 4, comparez la répartition des phénotypes dans les deux zones étudiées. (1 pt)
+
+2 – Calculez les fréquences alléliques de B et de N dans chacune des deux zones. (1.5 pt)
+
+On donne : $f(B) = p$ ; $f(N) = q$ ; $p + q = 1$ et $p^2 + 2pq + q^2 = 1$
+
+Des observations ont montré que la grive, principal prédateur de ces escargots, repère plus facilement les escargots dont la couleur de la coquille contraste avec celle du milieu. Le document 5 présente le nombre de coquilles vides retrouvées près des sites de prédation dans chacune des deux zones.
+
+[Figure — Document 5 : nombre de coquilles vides par phénotype dans chaque zone]
+
+3 – En exploitant le document 5, expliquez les résultats obtenus dans la question 1. (1.5 pt)
+
+4 – A partir de ce qui précède, dégagez le rôle de la sélection naturelle dans l'évolution du pool génétique de cette population. (1 pt)
+
+------- FIN -------

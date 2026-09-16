@@ -1,0 +1,287 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2021 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+[Note : correction détaillée de tierce partie (10 pages, WWW.SVT-ASSILAH.COM) ; le texte a été reconstitué à partir de l'extraction du PDF, les formules étant restituées en notation linéaire.]
+
+# Correction d'examen de physique chimie session normale 2021 — Option sciences mathématiques
+
+## Exercice 1 : Chimie
+
+### Partie I : Acide formique
+
+1- Quantité de matière d'acide méthanoïque :
+n1 = mi/M = ρ × 0,5 × V1 / M(HCOOH) ⟹ n1 = 1,22 × 0,5 × 6,00.10-3 / 46,0 = 7,96.10-5 mol
+n1 = 7,96.10-2 mmol
+
+2- L'hydrogénocarbonate de sodium
+
+2-1- Equation de la réaction :
+HCO3-(aq) + HCOOH(aq) ⟶ CO2 + H2O(l) + HCOO-(aq)
+
+2-2- Masse d'hydrogénocarbonate de sodium :
+La réaction est totale : n1 = ni(HCO3-)
+ni(HCO3-) = ni(NaHCO3) = m/M(NaHCO3) ⟹ m = ni(NaHCO3).M(NaHCO3)
+m = n1.M(NaHCO3) ⟹ m = 7,96.10-5 × 84,0 = 6,69.10-3 g ⟹ m = 6,69 mg
+
+3- Solution S2
+
+3-1- Pourcentage de molécules d'acide méthanoïque ayant réagi :
+τ = N(HCOO-)/N(HCOOH) = n(H3O+)/n1 = 10-pH.V / n1 = 10-2,43 × 10-3 / 7,96.10-5 = 4,66.10-2 ⟹ τ = 4,67 %
+La réaction de l'acide méthanoïque avec l'eau est limitée, l'équation s'écrit :
+HCOOH(aq) + H2O(l) ⇄ HCOO-(aq) + H3O+(aq)
+
+3-2- pKA du couple HCOOH/HCOO- :
+KA = [HCOO-]éq.[H3O+]éq / [HCOOH]éq
+D'après le tableau d'avancement : [HCOO-]éq = [H3O+]éq = xéq/V2 = 10-pH
+[HCOOH]éq = (n1 − xéq)/V2 = n1/V2 − xéq/V2 = C2 − 10-pH
+KA = [H3O+]éq² / [HCOOH]éq = 10-2pH / (C2 − 10-pH)
+pKA = −log KA = −log(10-2pH / (C2 − 10-pH))
+A.N : pKA = −log(10-2×2,43 / (7,96.10-5/10-3 − 10-2,43)) ⟹ pKA = 3,74
+
+4- Solution S3
+
+4-1- pH de la solution S3 :
+La concentration de l'acide méthanoïque dans S3 : C3(V2 + Veau) = C2.V2
+C3 = C2.V2/(V2 + Veau) = 7,96.10-2 × 25.10-3 / ((25 + 50).10-3) = 2,65.10-2 mol.L-1
+Expression de KA :
+KA = 10-2pH' / (C3 − 10-pH') ⟹ KA.C3 − KA.10-pH' − 10-2pH' = 0
+On pose x = 10-pH', on obtient : x² + KA.x − KA.C3 = 0
+x1 = (−KA + √(KA² + 4KA.C3))/2 > 0
+x1 = (−10-3,74 + √(10-2×3,74 + 4 × 10-3,74 × 2,65.10-2))/2
+x1 = 2,11.10-3 mol.L-1 ⟹ pH' = −log x1 = −log(2,11.10-3) = 2,68
+
+4-2- Réaction de S3 avec l'hydroxyde de sodium :
+
+4-2-1- Equation de la réaction :
+HCOOH(aq) + HO-(aq) ⟶ HCOO-(aq) + H2O(l)
+
+4-2-2- pH du mélange :
+D'après le tableau d'avancement le réactif limitant est HO- et l'avancement maximal est :
+xmax = Cb.Vb = 0,1 × 7,5.10-3 = 7,5.10-4 mol
+pH = pKA + log([HCOO-]/[HCOOH]) = pKA + log(xmax/(C2.Va − xmax)) = pKA + log(Cb.Vb/(C2.Va − Cb.Vb))
+pH = 3,74 + log(7,5.10-4 / (7,96.10-2 × 10.10-3 − 7,5.10-4)) ⟹ pH = 4,95
+
+### Partie II : Etude de la pile plomb-fer
+
+1- Nombre d'affirmations fausses : 4
+
+2- Equation bilan de la réaction :
+Pb2+(aq) + Fe(s) ⟶ Fe2+(aq) + Pb(s)
+
+3- Quotient de la réaction à l'instant t1 :
+L'expression du quotient de réaction :
+Qr,t = [Fe2+]t / [Pb2+]t = ([Fe2+]i.V + x) / ([Pb2+]i.V − x)
+La quantité de plomb déposée à l'instant t1 : nd(Pb) = x = md/M(Pb) = 2,07.10-3/207 = 10-5 mol
+Qr,t = (4,0.10-2 × 0,1 + 10-5) / (1,0.10-3 × 0,1 − 10-5) ⟹ Qr,t = 44,55
+
+4- Détermination de t1 :
+D'après le tableau d'avancement : n(e-) = 2x et n(e-) = Q/F = I.t1/F
+2x = I.t1/F ⟹ t1 = 2xF/I = 2md.F/(I.M(Pb))
+t1 = 2 × 2,07.10-3 × 9,65.104 / (2.10-3 × 207) ⟹ t1 = 965 s
+t1 = 16 min 5 s
+
+## Exercice 2 : Ondes
+
+1- Type d'ondes ultrasonores :
+Les ondes ultrasonores sont longitudinales car la direction de propagation est parallèle à la direction de la perturbation.
+
+2- Distance parcourue pendant une période :
+Va = d/T = d.N ⟹ d = Va/N = 340/40.103 = 8,5.10-3 m ⟹ d = 8,5 mm
+
+3- Expression de Δt :
+Δt = ta − tb
+Va = D/ta ⟹ ta = D/Va
+Vh = D/th ⟹ th = D/Vh
+Avec th = tb on obtient : Δt = ta − tb = D/Va − D/Vh ⟹ Δt = D(1/Va − 1/Vh)
+
+4- Pureté de l'huile :
+La courbe Δt = f(D) est linéaire, son équation s'écrit Δt = K.D
+K = (Δt2 − Δt1)/(D2 − D1) = (0,8 − 0,4).10-3 s / (0,4 − 0,2) m = 2.10-3 m-1.s
+Δt = D(1/Va − 1/Vh) et Δt = K.D ⟹ 1/Va − 1/Vh = K
+1/Vh = 1/Va − K = (1 − K.Va)/Va
+Vh = Va/(1 − Va.K) ⟹ Vh = 340/(1 − 340 × 2.10-3) ⟹ Vh = 1062,5 m.s-1
+Vh ∉ [1595 m.s-1 ; 1600 m.s-1] donc l'huile n'est pas pure.
+
+## Exercice 3 : Nucléaire
+
+1- Le nombre d'affirmations justes est : 1
+
+2- Fission nucléaire
+
+2-1- Equation de la réaction nucléaire :
+10/5 B + 1/0 n ⟶ A/Z Li + 4/2 He
+D'après les lois de conservation de Soddy :
+10 + 1 = A + 4 et 5 + 0 = Z + 2 ⟹ A = 7 et Z = 3
+10/5 B + 1/0 n ⟶ 7/3 Li + 4/2 He
+
+2-2- Comparaison de la stabilité des deux noyaux :
+ε(4/2 He) = Eℓ(α)/4 = 28,295244/4 = 7,07 MeV/nucléon
+ε(7/3 Li) = Eℓ(7/3 Li)/7 = [3 × 1,007276 + (7 − 3) × 1,008665 − 7,016005] × 931,5 / 7
+ε(7/3 Li) = 5,38 MeV/nucléon
+On a ε(4/2 He) > ε(7/3 Li), donc le noyau He est plus stable que Li.
+
+2-3- L'énergie libérée |ΔE| :
+|ΔE| = |Δm.c²| = |m(7/3 Li) + m(4/2 He) − m(10/5 B) − m(1/0 n)|.c²
+|ΔE| = |7,016005 + 4,001506 − 10,02938 − 1,008665| × 931,5
+|ΔE| = 3,81 MeV
+
+## Exercice 4 : Electricité
+
+1- Charge d'un condensateur et sa décharge dans une bobine
+
+1-1- Expression de l'énergie emmagasinée dans le condensateur :
+Ee = (1/2).C0.uC² avec uC = q/C0
+Ee = q²/(2C0)
+
+1-2- La valeur de C0 :
+La courbe √Ee = f(t) est linéaire, son équation s'écrit √Ee = K.t avec K le coefficient directeur :
+K = Δ√Ee/Δt = (10-2 − 0)/(2 − 0) = 5.10-3 (S.I)
+On remplace q = I0.t dans l'expression de Ee :
+Ee = q²/(2C0) = (I0.t)²/(2C0) ⟹ √Ee = I0.t/√(2C0)
+I0/√(2C0) = K ⟹ √(2C0) = I0/K ⟹ 2C0 = (I0/K)² ⟹ C0 = (1/2).(I0/K)²
+C0 = (1/2) × (10.10-6/5.10-3)² = 2.10-6 F ⟹ C0 = 2 μF
+
+1-3-1- Energie dissipée par effet Joule entre t = 0 et t1 :
+EJoule = |ΔET| = ET(t = 0) − ET(t1)
+A t = 0 : i(0) = 0 donc Em = 0 ; uC = UAB donc Ee = (1/2).C0.UAB²
+A t = t1 : i(t1) = imax ⟹ di/dt = 0 donc uC + uL = 0
+uC(t1) = −uL(t1) = −L.di/dt (= 0) − r.imax = −r.imax
+ET(t1) = (1/2).C0.r².imax² + (1/2).L.imax²
+EJoule = (1/2).C0.UAB² − (1/2).L.imax² − (1/2).C0.r².imax²
+EJoule = (1/2) × 2.10-6 × 40² − (1/2) × 8,6.10-3 × 0,4² − (1/2) × 2.10-6 × 12² × 0,4²
+EJoule ≃ 8,9.10-4 J
+
+1-3-2- Entre les instants t1 et t2 :
+D'après la figure 3, la valeur absolue |i| de l'intensité du courant augmente donc l'énergie emmagasinée dans la bobine augmente, alors que l'énergie emmagasinée dans le condensateur diminue : le condensateur se décharge entre t1 et t2.
+
+2- Modulation et démodulation d'amplitude
+
+2-1- La courbe correspondant au signal modulant ou modulé :
+La courbe (a) correspond au signal modulant (ou informatif) u1(t).
+La courbe (b) correspond au signal modulé us(t).
+
+2-2-1- Les fréquences fS et FP :
+fS = 1/TS = 1/(5 × 40 × 10-6) = 5000 Hz ⟹ fS = 5 kHz
+FP = 1/TP = 1/((5 × 40/36) × 10-6) = 180 000 Hz ⟹ FP = 180 kHz
+
+2-2-2- Le taux de modulation m :
+m = (Smax − Smin)/(Smax + Smin) = (2 − 0,4)/(2 + 0,4) ⟹ m = 0,67
+
+2-3- Démodulation
+
+2-3-1- La valeur de C :
+Selon l'expression de la période propre : T0 = 2π√(L.C) avec N0 = 1/T0 ⟹ 2π√(L.C) = 1/N0
+4π².L.C = 1/N0² ⟹ C = 1/(4π².L.N0²)
+C = 1/(4 × 10 × 8,6.10-3 × (180.103)²) = 8,97.10-11 F ⟹ C ≈ 90 pF
+
+2-3-2- L'intervalle des valeurs de C' :
+T0 << τ < Ti ⟺ 1/N0 << R'C' < 1/Ni ⟺ 1/(R'.N0) << C' < 1/(R'.Ni)
+1/(100.103 × 180.103) << C' < 1/(100.103 × 5.103)
+5,55.10-11 F << C' < 2.10-9 F ⟺ 0,055 nF << C' < 2 nF
+
+## Exercice 5 : Mécanique
+
+### Partie I : Mouvement d'une luge
+
+1- Première phase :
+
+1-1- La valeur de ath :
+Système étudié : {la luge}
+Bilan des forces : P⃗ le poids de la luge ; R⃗ la réaction du plan incliné.
+Application de la deuxième loi de Newton :
+Σ F⃗ext = m.a⃗G ⟺ P⃗ + R⃗ = m.a⃗G
+Projection sur l'axe Ax :
+Px + Rx = m.ax ⟺ m.g.sinα = m.ath ⟹ ath = g.sinα
+ath = 10 × 0,2 ⟹ ath = 2 m.s-2
+
+1-2- La distance parcourue :
+x = (1/2).ath.t² + v0.t + x0 avec x0 = 0 et V = ath.t + V0
+On remplace t = (V − V0)/ath dans x :
+x = (1/2).ath.((V − V0)/ath)² + V0.(V − V0)/ath
+Avec V = V1, x = d et V0 = VA :
+d = (V1² − VA²)/(2.ath) ⟹ d = (25² − 5²)/(2 × 2) ⟹ d = 150 m
+
+1-3-1- La valeur de aexp :
+La courbe Vexp = f(t) est linéaire : Vexp = K.t avec K son coefficient directeur qui représente l'accélération :
+K = aexp = ΔVexp/Δt = (15 − 5)/(10 − 0) ⟹ aexp = 1 m.s-2
+
+1-3-2- L'expression de μ :
+Le contact se fait avec frottement : R⃗ = R⃗T + R⃗N
+On applique la deuxième loi de Newton :
+Σ F⃗ext = m.a⃗exp ⟺ P⃗ + R⃗ = m.a⃗exp ⟺ P⃗ + R⃗T + R⃗N = m.a⃗exp
+Projection sur l'axe Ax :
+m.g.sinα − RT = m.aexp ⟹ RT = m.g.sinα − m.aexp = m.ath − m.aexp
+RT = m(ath − aexp)
+Projection sur l'axe Ay :
+−m.g.cosα + RN = 0 ⟹ RN = m.g.cosα
+μ = RT/RN = m(ath − aexp)/(m.g.cosα) ⟹ μ = (ath − aexp)/(g.cosα)
+sinα = 0,2 ⟹ α = sin-1(0,2) ≈ 11,54°
+μ = (2 − 1)/(10 × cos(11,54°)) ⟹ μ = 0,1
+
+2- Deuxième phase :
+
+2-1- L'équation différentielle :
+Système étudié : {la luge}
+Bilan des forces : P⃗ le poids de la luge ; f⃗ la force de frottement fluide.
+Application de la deuxième loi de Newton :
+Σ F⃗ext = m.a⃗G ⟺ P⃗ + f⃗ = m.a⃗G
+Projection sur l'axe Cz :
+P − f = m.az ⟹ m.g − k.vz = m.az ⟹ az + (k/m).vz = g
+dvz/dt + (k/m).vz = g
+On pose : 1/τ = k/m ⟹ τ = m/k
+En régime permanent : vz = vℓ ⟹ dvz/dt = 0, on remplace dans l'équation différentielle : vℓ/τ = g
+vℓ = g.τ ⟹ vℓ = m.g/k
+L'équation différentielle s'écrit : dvz/dt + (1/τ).vz = vℓ/τ
+
+2-2- Profondeur atteinte par la luge :
+vz(t) = vℓ(1 − e-t/τ)
+z(t) = vℓ(t + τ.e-t/τ) + C
+z(t = 0) = 0 ⟹ vℓ(0 + τ.e0) + C = 0 ⟹ C = −τ.vℓ
+z(t) = vℓ(t + τ.e-t/τ − τ)
+Avec vℓ = g.τ = 10 × 0,1 = 1 m.s-1 et τ = m/k = 20/200 = 0,1 s
+z(t) = t + 0,1.e-t/τ − 0,1 = t + 0,1(e-t/τ − 1)
+A t = 41τ la profondeur h atteinte par la luge depuis le point C :
+z(41τ) = h = 41τ + 0,1(e-41 − 1) ≈ 41τ − 0,1 = 41 × 0,1 − 0,1 ⟹ h = 4 m
+
+### Partie II : Mouvement du faisceau de protons dans un champ électrostatique
+
+1- Les équations horaires x(t) et y(t) :
+Système étudié : {le proton}
+Bilan des forces : F⃗ la force électrostatique.
+Application de la deuxième loi de Newton :
+Σ F⃗ext = m.a⃗ ⟺ F⃗ = m.a⃗
+q.E⃗ = m.a⃗ ⟹ a⃗ = (e/m).E⃗
+A t = 0 : v⃗0 (v0x = v0.cosα ; v0y = v0.sinα) et (x0 = 0 ; y0 = 0)
+Projection sur Ox et Oy :
+ax = 0 ; ay = (e/m).Ey = −e.E/m = −e.U0/(m.d)
+ax = dvx/dt = 0 ; ay = dvy/dt = −e.U0/(m.d)
+⟹ vx = dx/dt = v0.cosα ; vy = dy/dt = −(e.U0/(m.d)).t + v0.sinα
+⟹ x(t) = v0.cosα.t ; y(t) = −(e.U0/(2m.d)).t² + v0.sinα.t
+
+2- L'équation de la trajectoire :
+x = v0.cosα.t ⟹ t = x/(v0.cosα)
+y = −(e.U0/(2m.d)).(x/(v0.cosα))² + v0.sinα.(x/(v0.cosα))
+y = −(e.U0/(2m.d.v0².cos²α)).x² + tanα.x
+
+3- La valeur de U0 :
+Les coordonnées du point S sont xS = L et yS = 0 ; on remplace dans l'équation de la trajectoire :
+−(e.U0/(2m.d.(v0.cosα)²)).L² + tanα.L = 0
+⟹ e.U0.L/(2m.d.(v0.cosα)²) = tanα
+U0 = 2m.d.(v0.cosα)².tanα/(e.L) = 2m.d.v0².sinα.cosα/(e.L)
+U0 = m.d.v0².sin2α/(e.L)
+U0 = 1,67.10-27 × 7.10-2 × (4,5.105)².sin(2 × 30°) / (1,6.10-19 × 20.10-2) ⟹ U0 = 640,67 V
+
+4- La distance minimale dmin :
+On a : d/2 = yS + dmin ⟹ dmin = d/2 − yS
+On a : ay = −e.U0/(m.d) et vy = ay.t + v0.sinα
+Au sommet de la trajectoire S : vys = 0, c'est-à-dire ay.tS + v0.sinα = 0 ⟹ tS = −v0.sinα/ay
+yS = (1/2).ay.tS² + v0.sinα.tS
+yS = (1/2).ay.(−v0.sinα/ay)² + v0.sinα.(−v0.sinα/ay) = (1/2).(v0.sinα)²/ay − (v0.sinα)²/ay
+yS = −(v0.sinα)²/(2ay) = −(v0.sinα)²/(2 × (−e.U0/(m.d))) ⟹ yS = m.d.(v0.sinα)²/(2.e.U0)
+yS = 1,67.10-27 × 7.10-2 × [4,5.105.sin(30°)]² / (2 × 1,6.10-19 × 640,67) = 2,89.10-2 m ⟹ yS = 2,89 cm
+dmin = d/2 − yS ⟹ dmin = 7/2 − 2,89 ⟹ dmin = 0,61 cm

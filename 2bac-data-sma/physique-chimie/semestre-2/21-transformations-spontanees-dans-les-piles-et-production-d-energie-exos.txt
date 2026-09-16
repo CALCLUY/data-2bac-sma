@@ -1,0 +1,106 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Transformations spontanées dans les piles et production d'énergie
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 21 (Transformations spontanées dans les piles et production d'énergie)
+Professeur : Mr El GOUFIFA Jihad
+
+[Note : l'ordre des exercices est celui de la page source, qui présente l'exercice 5-3 avant 5-1.]
+
+## V- Exercices
+
+### 5-3/ Exercice 3
+
+À l'aide d'un pont salin au chlorure de potassium, on réalise la pile dont la réaction associée est :
+
+$S n + P b^{2 +} \rightleftarrows P b + S n^{2 +}$
+
+La constante d'équilibre de cette réaction est $K = 1 , 47$.
+
+Les concentrations initiales en ions $S n^{2 +}$ et $P b^{2 +}$ sont :
+
+$\left(\left[\right. S n^{2 +} \left]\right.\right)_{0} = 2 . 10^{- 2} m o l . L^{- 1} \\ \\ \left(\left[\right. P b^{2 +} \left]\right.\right)_{0} = 10^{- 2} m o l . L^{- 1}$.
+
+1. Schématiser avec toutes précisions nécessaires cette pile.
+2. Préciser en le justifiant la polarité des deux électrodes.
+3. Donner le symbole de cette pile.
+4. Quel est le rôle du pont salin ? Peut-on le remplacer par un fil conducteur en cuivre ?
+
+On relie les deux électrodes de cette pile à un résistor.
+
+5. Préciser en justifiant le sens dans lequel va évolué spontanément la réaction précédente ? En déduire l'équation de la réaction spontanée qui se produit dans la pile.
+
+À partir de l'instant initial $\left(\right. t = 0 \left.\right)$, on relie les deux électrodes de cette pile à un conducteur ohmique et on laisse la pile fonctionner suffisamment longtemps jusqu'à l'instant où les ions $S n^{2 +}$ sont consommés.
+
+6. Déterminer à cet instant les valeurs des concentrations $\left(\left[\right. S n^{2 +} \left]\right.\right)_{f}$ et $\left(\left[\right. P b^{2 +} \left]\right.\right)_{f}$.
+
+Partant des conditions initiales de la question précédente (6), on ajoute quelques millilitres d'eau distillée dans le compartiment où il y'a les ions $S n^{2 +}$.
+
+7. La pile re-débite-t-elle du courant ? Si oui, dans quel sens ? Justifier.
+
+### 5-1/ Exercice 1
+
+On réalise une pile en utilisant le matériel et les produits suivants :
+
+- un bêcher contenant le volume $V_{1} = 20 m L$ d'une solution aqueuse de nitrate d'argent $A g_{\left(\right. a q \left.\right)}^{+} + N \left(O_{3}^{-}\right)_{\left(\right. a q \left.\right)}$ de concentration molaire $C_{1} = 1 , 0 . 10^{- 1} m o l . L^{- 1}$.
+- un bêcher contenant le volume $V_{2} = 20 m L$ d'une solution aqueuse de nitrate de cuivre $C u_{\left(\right. a q \left.\right)}^{2 +} + 2 N \left(O_{3}^{-}\right)_{\left(\right. a q \left.\right)}$ de concentration molaire $C_{2} = 5 , 0 . 10^{- 1} m o l . L^{- 1}$.
+- un fil de cuivre ; un fil d'argent.
+- un pont salin contenant une solution aqueuse saturée de nitrate de potassium $K_{\left(\right. a q \left.\right)}^{+} + N \left(O_{}^{-}\right)_{\left(\right. a q \left.\right)}$.
+
+On relie les électrodes de la pile à un conducteur ohmique en série avec un ampèremètre, et on observe le passage d'un courant électrique dans le circuit extérieur de la pile.
+
+1. Calculer la valeur du quotient de la réaction Qr,i dans l'état initial du système chimique.
+
+2. En déduire le sens spontané de l'évolution de ce système.
+
+On fait fonctionner la pile pendant une longue durée jusqu'ce qu'il s'épuise.
+
+3. Déterminer la valeur de la quantité d'électricité qui traverse le conducteur ohmique depuis le début de fonctionnement de la pile jusqu'à son épuisement, sachant que le réactif limitant est l'ion $A g^{+}$.
+
+Données :
+
+- Constante de Faraday : $F = 96500 C . m o l^{- 1}$
+- Constante d'équilibre associée à l'équation : $2 A g_{\left(\right. a q \left.\right)}^{+} + C u_{\left(s\right)} \rightleftarrows 2 A g_{\left(s\right)} + C u_{\left(\right. a q \left.\right)}^{2 +}$ est $K = 2 , 2 . 10^{15}$.
+
+### 5-2/ Exercice 2
+
+On réalise la pile Cuivre – Aluminium en reliant deux demi-piles par un pont salin de chlorure d'ammonium $\left(\right. N H_{4}^{+} + C l^{-} \left.\right)$.
+
+La première demi-pile est constituée d'une lame de cuivre partiellement immergée dans une solution aqueuse de sulfate de cuivre II $\left(C u^{2 +} + S O_{4}^{2 -}\right)$ de concentration $C_{0}$ et de volume $V = 50 m L$.
+
+La deuxième demi-pile est constituée d'une lame d'aluminium partiellement immergée dans une solution aqueuse de chlorure d'aluminium $\left(\right. A l^{3 +} + C l^{-} \left.\right)$ de même concentration $C_{0}$ et de même volume $V = 50 m L$.
+
+On branche entre les pôles de la pile un conducteur Ohmique $\left(\right. D \left.\right)$, un ampèremètre et un interrupteur $K$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s21/img6.bmp)
+
+À l'instant $t = 0$ on ferme le circuit, un courant électrique d'intensité constante $I$ circule alors dans le circuit.
+
+La courbe suivante représente la variation de la concentration $\left[\right. C u^{2 +} \left]\right.$ des ions cuivre II existant dans la première demi-pile en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s21/img7.bmp)
+
+1. En utilisant le critère d'évolution spontanée, déterminer le sens d'évolution du système chimique constituant la pile.
+
+2. Donner la représentation conventionnelle de la pile étudiée.
+
+3. Exprimer la concentration $\left[\right. C u^{2 +} \left]\right.$ à un instant $t$ en fonction de $t$, $C_{0}$, $I$, $V$ et $F$.
+
+4. En déduire la valeur de l'intensité $I$ du courant électrique qui passe dans le circuit.
+
+La pile est entièrement usée à une date $t_{c}$.
+
+5. Déterminer, en fonction de $t_{c}$, $F$, $I$ et $M$, la variation $\Delta m$ de la masse de la lame d'aluminium lorsque la pile est entièrement usée.
+
+6. Calculer $\Delta m$.
+
+Données :
+
+- Constante de Faraday : $F = 96500 C . m o l^{- 1}$
+- Masse molaire atomique de l'élément aluminium : $M = 27 g . m o l^{- 1}$.
+- Constante d'équilibre associée à l'équation : $2 A l_{\left(\right. a q \left.\right)}^{3 +} + 3 C u_{\left(s\right)} \rightleftarrows 2 A l_{\left(s\right)} + 3 C u_{\left(\right. a q \left.\right)}^{2 +}$ est $K = 10^{- 20}$.

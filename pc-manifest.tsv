@@ -1,0 +1,43 @@
+section	num	slug	title	element
+semestre-1	01	ondes-mecaniques-progressives	Ondes mécaniques progressives	119785
+semestre-1	02	ondes-mecaniques-progressives-periodiques	Ondes mécaniques progressives périodiques	119788
+semestre-1	03	propagation-des-ondes-lumineuses	Propagation des ondes lumineuses	119791
+semestre-1	04	transformations-lentes-et-transformations-rapides	Transformations lentes et transformations rapides	119794
+semestre-1	05	suivi-temporel-d-une-transformation-chimique-vitesse-de-reaction	Suivi temporel d'une transformation chimique - Vitesse de réaction	119797
+semestre-1	06	decroissance-radioactive	Décroissance radioactive	119800
+semestre-1	07	noyaux-masse-et-energie	Noyaux, masse et énergie	119803
+semestre-1	08	transformations-chimiques-s-effectuant-dans-les-2-sens	Transformations chimiques s'effectuant dans les 2 sens	119806
+semestre-1	09	etat-d-equilibre-d-un-systeme-chimique	État d'équilibre d'un système chimique	119809
+semestre-1	10	dipole-rc	Dipôle RC	119812
+semestre-1	11	dipole-rl	Dipôle RL	120828
+semestre-1	12	oscillations-libres-d-un-circuit-rlc-serie	Oscillations libres d'un circuit RLC série	121144
+semestre-1	13	circuit-rlc-serie-en-regime-sinusoidal-force-sm	Circuit RLC série en régime sinusoïdal forcé (SM)	121151
+semestre-1	14	ondes-electromagnetiques-et-modulation-d-amplitude	Ondes électromagnétiques et modulation d'amplitude	122787
+semestre-1	15	transformations-liees-a-des-reactions-acide-base	Transformations liées à des réactions acide-base	121488
+semestre-1	16	dosage-acido-basique	Dosage acido-basique	121973
+semestre-2	17	lois-de-newton	Lois de Newton	123277
+semestre-2	18a	chute-libre-d-un-corps-solide	A- Chute libre d'un corps solide	124267
+semestre-2	18b	chute-verticale-avec-frottement	B- Chute verticale avec frottement	123712
+semestre-2	19a	mouvements-plans-projectile-dans-le-champ-de-pesanteur	Mouvements plans : Projectile dans le champ de pesanteur	123821
+semestre-2	19b	mouvements-plans-particule-chargee-dans-un-champ-magnetique	Mouvements plans : Particule chargée dans un champ magnétique	124306
+semestre-2	19c	mouvements-plans-particule-chargee-dans-un-champ-electrique-sm	Mouvements plans : Particule chargée dans un champ électrique (SM)	124313
+semestre-2	20	evolution-spontanee-d-un-systeme-chimique	Évolution spontanée d'un système chimique	124367
+semestre-2	21	transformations-spontanees-dans-les-piles-et-production-d-energie	Transformations spontanées dans les piles et production d'énergie	124374
+semestre-2	22	mouvement-des-satellites-et-des-planetes	Mouvement des satellites et des planètes	124707
+semestre-2	23	mouvement-de-rotation-d-un-solide-autour-d-un-axe-fixe	Mouvement de rotation d'un solide autour d'un axe fixe	124714
+semestre-2	24a	oscillateurs-mecaniques-pendule-elastique	A- Oscillateurs mécaniques (Pendule élastique)	127901
+semestre-2	24b	oscillateurs-mecaniques-pendule-pesant-simple-et-de-torsion	B- Oscillateurs mécaniques (Pendule pesant, simple et de torsion)	128056
+semestre-2	25	transformations-forcees-electrolyse	Transformations forcées (Électrolyse)	124928
+semestre-2	26a	aspects-energetiques-pendule-elastique	A- Aspects énergétiques (Pendule élastique)	128049
+semestre-2	26b	aspects-energetiques-pendule-pesant-et-de-torsion	B- Aspects énergétiques (Pendule pesant et de torsion)	128063
+semestre-2	27	atome-et-mecanique-de-newton	Atome et mécanique de Newton	128168
+semestre-2	28	reactions-d-esterification-et-d-hydrolyse	Réactions d'estérification et d'hydrolyse	128267
+semestre-2	29	controle-de-l-evolution-d-un-systeme-chimique	Contrôle de l'évolution d'un système chimique	128311
+devoirs-sm	s1-d1	devoir-1-semestre-1	Devoir 1 - Semestre 1 (SM)	119862
+devoirs-sm	s1-d2	devoir-2-semestre-1	Devoir 2 - Semestre 1 (SM)	121131
+devoirs-sm	s1-d3	devoir-3-semestre-1	Devoir 3 - Semestre 1 (SM)	122346
+devoirs-sm	s2-d1	devoir-1-semestre-2	Devoir 1 - Semestre 2 (SM)	124459
+devoirs-spc	s1-d1	devoir-1-semestre-1	Devoir 1 - Semestre 1 (SPC)	119865
+devoirs-spc	s1-d2	devoir-2-semestre-1	Devoir 2 - Semestre 1 (SPC)	121131
+devoirs-spc	s1-d3	devoir-3-semestre-1	Devoir 3 - Semestre 1 (SPC)	122353
+devoirs-spc	s2-d1	devoir-1-semestre-2	Devoir 1 - Semestre 2 (SPC)	124459

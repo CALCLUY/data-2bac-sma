@@ -1,0 +1,440 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2018 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+2ème année Sciences Mathématiques — Physique-chimie
+Correction du sujet de l'examen national du Baccalauréat — Session normale : 2018
+KACHICHE MUSTAPHA - Madariss MARIA - TEMARA
+
+[NOTE : corrigé détaillé rédigé par un enseignant (et non les éléments de réponse officiels). Les formules du document d'origine sont des images ; elles ont été restituées en notation linéaire fidèle aux étapes du corrigé.]
+
+## - Chimie -
+
+1- Etude d'une solution aqueuse d'un acide HA :
+
+1-1- Equation chimique de la réaction :
+
+HA(aq) + H2O(l) ⇄ A-(aq) + H3O+(aq)
+
+1-2- * Taux d'avancement final τ :
+
+τ = xf/xm = [H3O+]/C = 10-pH/C
+
+A.N : τ = 10-3,44/10-2 ≈ 0,0363 = 3,63%
+
+* Espèce chimique prédominante :
+
+C = [A-] + [HA] et τ = [A-]/C ⇒ [HA]/[A-] = (1 − τ)/τ
+
+A.N : [HA]/[A-] = (1 − 0,0363)/0,0363 ≈ 26,5 c.-à-d. [HA] >> [A-] ⇒ HA est l'espèce prédominante.
+
+1-3- * Expression de pKA :
+
+pKA = −Log(KA) = −Log([H3O+]×[A-]/[HA]) … (1)
+
+[H3O+] = [A-] = 10-pH … (2) et [HA] = C − [H3O+] = C − 10-pH … (3)
+
+On remplace (2) et (3) dans (1), on aura : pKA = −Log(10-2.pH/(C − 10-pH))
+
+* Valeur de pKA : pKA = −Log(10-2×3,44/(10-2 − 10-3,44)) ≈ 4,86
+
+1-4-1- Equation chimique de la réaction :
+
+HA(aq) + HO-(aq) → A-(aq) + H2O(l)
+
+1-4-2- Valeur de VB pour lequel pH = 5,50 :
+
+- Tableau d'avancement :
+
+| Equation de la réaction | HA(aq) + HO-(aq) → A-(aq) + H2O(l) | | | |
+| --- | --- | --- | --- | --- |
+| Etat du système | Avancement x (mol) | n(HA) | n(HO-) | n(A-) |
+| Etat initial | 0 | C.VA | C.VB | 0 |
+| Etat final | xmax | C.VA − xmax | C.VB − xmax | xmax |
+
+- Pour VB < VBE = 20 mL : le réactif limitant est l'espèce HO- ; donc : C.VB − xmax = 0 ou xmax = C.VB
+
+- On sait que : pH = pKA + Log([A-]/[HA]) ⇒ [A-]/[HA] = 10^(pH − pKA) … (1)
+
+- D'autre part : [A-]/[HA] = xmax/(C.VA − xmax) = C.VB/(C.VA − C.VB) = VB/(VA − VB) … (2)
+
+- Les deux relations (1) et (2) conduisent à écrire : VB = VA.10^(pH − pKA)/(1 + 10^(pH − pKA))
+
+- A.N : VB = 20×10^(5,50 − 4,86)/(1 + 10^(5,50 − 4,86)) ≈ 16,3 mL
+
+2- Hydrolyse d'un ester :
+
+2-1- Equation chimique de la réaction :
+
+(CH3)2CH−CO−O−CH2−CH3 + H2O ⇄ (CH3)2CH−COOH + CH3−CH2−OH
+
+| Equation de la réaction | Ester + H2O ⇄ Acide + Alcool | | | |
+| --- | --- | --- | --- | --- |
+| Etat du système | Avancement x (mol) | n(ester) | n(H2O) | n(acide) = n(alcool) |
+| Etat initial | 0 | n0(E) | n0(E) | 0 |
+| Etat intermédiaire (t1/2) | x(t1/2) | n0(E) − x(t1/2) | n0(E) − x(t1/2) | x(t1/2) |
+| Etat final | xf | n0(E) − xf | n0(E) − xf | xf |
+
+2-2- Temps de demi-réaction de la transformation (1) :
+
+- Cherchons la quantité de matière restante nt1/2(E) de l'ester E à l'instant t1/2 :
+
+nt1/2(E) = n0(E) − x(t1/2) avec x(t1/2) = xf/2 et xf = n0(E) − nf(E)
+
+- Donc on peut écrire : nt1/2(E) = (n0(E) + nf(E))/2
+
+- Graphiquement, on trouve : n0(E) = 600 mmol et nf(E) = 400 mmol
+
+- A.N : nt1/2(E) = (600 + 400)/2 = 500 mmol
+
+On repère la quantité 500 mmol sur l'axe vertical, et par projection on trouve le temps de demi-réaction : t1/2 ≈ 7 min
+
+2-3- Courbe correspondant à la réaction sans catalyseur :
+
+La courbe (1) correspond à la réaction d'hydrolyse sans catalyseur, car l'équilibre est atteint après écoulement de 45 min, contrairement à l'écoulement uniquement de 25 min pour atteindre l'équilibre en utilisant un catalyseur correspondant à la courbe (2).
+
+2-4- Vitesse volumique de réaction à t1 = 5 min :
+
+- Par définition : v(t) = (1/V0).dx(t)/dt avec x(t) = n0(E) − nt(E)
+
+- L'expression devient : v(t) = −(1/V0).dn(E)/dt
+
+- A t1 = 5 min : v(5 min) ≈ −(1/71.10-3)×Δn(E)/Δt = −(1/71.10-3)×((400 − 550).10-3/(10 − 0))
+
+v(5 min) ≈ 0,21 mol.L-1.min-1
+
+3- Electrolyse de l'eau :
+
+3-1- Les affirmations exactes : a) L'anode est liée à la borne positive du générateur ; b) Une transformation forcée s'effectue dans le sens inverse d'une transformation spontanée ; d) Le courant électrique sort par la cathode de l'électrolyseur. (soit 3 affirmations exactes)
+
+3-2- Equation de la réaction à l'anode :
+
+A l'anode, il se produit une réaction d'oxydation de l'espèce H2O :
+
+2H2O(l) ⇄ O2(g) + 4H+(aq) + 4e-
+
+3-3- * Expression du volume de O2 formé à l'instant t :
+
+- En se basant sur le tableau d'avancement, on trouve : n(O2) = x et n(e-) = 4.x avec n(e-) = I.Δt/(NA.e)
+
+donc V(O2) = x.Vm = I.Δt.Vm/(4.NA.e)
+
+- A.N : V = 0,2×8×60×24/(4×6,02.1023×1,6.10-19) ≈ 5,6.10-3 L = 5,6 mL
+
+## - Physique -
+
+### Exercice 1 : Transformations nucléaires
+
+1- Radioactivité α du radium 226/88 Ra :
+
+1-1- Définition : L'énergie de liaison d'un noyau atomique est l'énergie qu'il faut fournir au noyau pour le dissocier en ses nucléons.
+
+1-2- La proposition juste : c) Après une durée égale à 3.t1/2 ; il reste 12,5% (= 100/23 %) des noyaux initiaux. (On applique la relation : N(n.t1/2) = (1/2)n × N0)
+
+1-3- Montrons que 1 Ci ≈ 3,73.1010 Bq :
+
+- La curie 1 Ci est l'activité de 1 g de radium 226 ;
+
+1 Ci = A(m = 1 g) = λ.N(m = 1 g) = λ.(m/M).NA
+
+- A.N : 1 Ci = 1,4.10-11×(1/226)×6,02.1023 ≈ 3,73.1010 Bq
+
+1-4- L'activité d'un échantillon en Juin 2018 :
+
+- En Juin 1898 : A(t0 = 0) = 1 Ci = 3,73.1010 Bq
+- En Juin 2018 : A(t) = A(t0 = 0).e−λ.Δt avec Δt = 2018 − 1898 = 120 ans
+
+- A.N : A(t) = 3,73.1010×e^(−1,4.10-11×120×365,25×24×3600) ≈ 3,54.1010 Bq
+
+1-5- Calcul de l'énergie produite par la désintégration d'un noyau du radium 226 :
+
+- L'équation de désintégration est : 226/88 Ra → 222/86 Rn + 4/2 He
+
+- L'énergie libérée est : |ΔE| = El(226/88 Ra) − El(4/2 He) − El(222/86 Rn)
+
+- A.N : |ΔE| = 1,7311.103 − 28,4 − 1,7074.103 ≈ 4,7 MeV
+
+2- Mouvement de α dans un champ magnétique uniforme :
+
+2-1- Nature du mouvement de la particule α :
+
+* Expression de l'accélération : La particule α est soumise uniquement à la force de Lorentz : F⃗ = 2e.v⃗ ∧ B⃗
+
+Par application de la 2ème loi de Newton dans un référentiel galiléen : m(α).a⃗ = 2e.v⃗ ∧ B⃗
+
+On en déduit : a⃗ = (2e/m(α)).v⃗ ∧ B⃗ ; cette relation montre que le vecteur accélération est perpendiculaire au vecteur vitesse v⃗.
+
+* Energie cinétique de la particule α :
+
+On a : dEc/dt = P(puissance) = F⃗.v⃗ = 0 car F⃗ est perpendiculaire à v⃗
+
+Cela prouve que l'énergie cinétique de la particule est constante, et par suite le mouvement est uniforme.
+
+* Le mouvement de α est plan : Posons B⃗ = B.k⃗ alors a⃗ = (2eB/m(α)).v⃗ ∧ k⃗ ce qui montre que la composante az de l'accélération est nulle (az = 0), et par intégration et application des conditions initiales on en déduit que z = 0.
+
+Donc le mouvement de α se fait dans le plan (π).
+
+* Le mouvement de α est circulaire : Dans le repère de Frenet M(u⃗, n⃗) ; la composante tangentielle de l'accélération est nulle : a = an avec an = 2eB.v0/m(α) et an = v02/ρ où ρ est le rayon de courbure.
+
+On écrit alors : 2eB.v0/m(α) = v02/ρ ou bien ρ = m(α).v0/(2eB) = Cte
+
+Donc le mouvement est circulaire et uniforme, et le rayon est : OM = R = m(α).v0/(2eB)
+
+- A.N : OM = 6,6447.10-27×1,5.107/(2×1,6.10-19×1,5) ≈ 0,207 m = 20,7 cm
+
+### Exercice 2 : Electricité
+
+#### I- Réponse d'un dipôle RC à un échelon de tension :
+
+1- Equation différentielle vérifiée par la tension uc :
+
+D'après la figure 1 : uR + uC = E … (1)
+
+En respectant les conventions : uR = R.i = R.dq/dt = R.C.duC/dt
+
+La relation (1) devient : R.C.duC/dt + uC = E ou bien duC/dt + uC/(R.C) = E/(R.C)
+
+2- * Détermination de E :
+
+- L'équation de la fonction duC/dt = f(uC) est de la forme : duC/dt = A.uC + B
+- L'équation différentielle peut s'écrire : duC/dt = −uC/(R.C) + E/(R.C)
+- Lorsque duC/dt = 0 alors uC = E et graphiquement (figure 2) on trouve E = 6 V
+
+* Vérification de C = 10 nF :
+
+- On pose A = −1/(R.C) le coefficient directeur de la droite
+
+Alors −1/(R.C) = −5.104/6 ... ⇒ C = −1/(R.A) = 10-8 F = 10 nF
+
+3- Détermination de la valeur du rendement ρ :
+
+- Par définition : ρ = Ee/Eg
+- En régime permanent uC(∞) = E alors Ee = (1/2).C.uC2 = (1/2).C.E2 et Eg = C.E2
+- Donc : ρ = Ee/Eg = ((1/2).C.E2)/(C.E2) = 0,50 = 50%
+
+#### II- Réponse d'un dipôle RL à un échelon de tension :
+
+1-1- Equation différentielle vérifiée par i(t) :
+
+- D'après la loi d'additivité des tensions : ub + uR1 = E … (1)
+- En respectant les conventions : ub = L.di/dt + r.i et uR1 = R1.i
+
+Alors (1) s'écrit : L.di/dt + (r + R1).i = E ou bien di/dt + ((r + R1)/L).i = E/L
+
+1-2- * Détermination de R1 :
+
+- Au régime permanent (t → ∞, di/dt = 0) : (r + R1).imax = E
+- Finalement : R1 = E/imax − r
+- A.N : R1 = 6/50.10-3 − 20 = 100 Ω
+
+* Vérification de L = 0,3 H :
+
+- La constante de temps du circuit RL : τ = L/(r + R1)
+- On en déduit que : L = τ×(r + R1) avec τ = 2,5 ms (figure 4)
+- A.N : L = 2,5.10-3×(20 + 100) = 0,3 H
+
+1-3- Calcul de ub au régime permanent :
+
+- ub(∞) = E − uR1(∞) = E − R1.imax
+- A.N : ub(∞) = 6 − 100×0,05 = 1 V
+
+2-1- Valeur de i juste après l'ouverture de l'interrupteur K :
+
+L'intensité i(t) est une fonction continue : i(t = 0) = imax = 50 mA
+
+2-2- * Valeur de di(t)/dt à t = 0 :
+
+- D'après la loi d'additivité des tensions : ub + uR1 + uR2 = 0
+- En respectant les conventions : ub = L.di(t)/dt + r.i , uR1 = R1.i et uR2 = R2.i
+
+Alors : L.di/dt + (r + R1 + R2).i = 0 ou bien (di(t)/dt)t=0 = −((r + R1 + R2)/L).imax
+
+- A.N : (di(t)/dt)t=0 = −((20 + 100 + 2000)/0,3)×50.10-3 = −3,53.102 A.s-1
+
+* Calcul de ub à l'ouverture de l'interrupteur K :
+
+- L'expression est : ub(0) = L.(di(t)/dt)t=0 + r.imax
+- A.N : ub(0) = 0,3×(−3,53.102) + 20×0,05 ≈ −105 V
+
+3- Rôle de la branche : C'est pour éviter l'apparition des étincelles aux bornes de l'interrupteur au moment de son ouverture ; qui sont dues à la surtension aux bornes de la bobine : ub(0) ≈ −105 V !!
+
+#### III – Oscillateur RLC en régime forcé :
+
+1- Fréquence de résonance N0 :
+
+- A la résonance l'impédance Z du circuit RLC est minimale ;
+- D'après la figure 5 ; on trouve : N0 = 0,5 kHz = 500 Hz
+
+2- Capacité C1 du condensateur :
+
+- A la résonance ; la relation est vérifiée : L.C1.(2π.N0)2 = 1
+- On en déduit que : C1 = 1/(4π2.L.N02)
+- A.N : C1 = 1/(4×10×0,3×5002) ≈ 3,3.10-7 F = 0,33 μF
+
+3- * Relation entre Z, r et R3 :
+
+- Pour I = I0/√2 on a : U = Z.I = Z.I0/√2
+- A la résonance I = I0 on a : U = Z0.I0 = (r + R3).I0
+- Des deux relations on trouve : Z = (r + R3).√2
+
+* Déduction graphique de ΔN :
+
+- Calcul de Z lorsque I = I0/√2 : Z = (20 + 1980)×√2 ≈ 2828 Ω ≈ 2,8 kΩ
+
+- En exploitant la courbe de la fonction Z = f(N) ; on trouve : Nmin ≈ 0,2 kHz et Nmax ≈ 1,25 kHz
+
+d'où : ΔN = Nmax − Nmin ≈ 1,25 − 0,2 = 1,05 kHz
+
+### Exercice 3 : Mécanique
+
+#### PARTIE I : Etude du mouvement d'un corps solide
+
+1- Etude du mouvement du centre G dans l'air :
+
+1-1- Equation différentielle régissant la vitesse vz du centre d'inertie G :
+
+- Système à étudier : {Le baigneur (S)}
+- Repère d'étude R(O ; k⃗) supposé galiléen ;
+- Bilan des forces extérieures : Poids du corps seulement car la chute est libre : P⃗
+- 2ème loi de Newton : P⃗ = m.a⃗G
+- Projection sur l'axe Oz : Pz = m.az … (*)
+- Expression : Pz = P = m.g et az = dvz/dt
+- La relation (*) devient : m.g = m.dvz/dt
+- Finalement l'équation différentielle est : dvz/dt = g … (1)
+
+1-2- * Temps de chute tc :
+
+En intégrant l'équation (1) : vz(t) = g.t … (2) (vz(0) = 0)
+En intégrant l'équation (2) : z(t) = (1/2).g.t2 … (3) (z(0) = 0)
+
+Le temps de chute tc correspond à : z(tc) = h
+
+Donc : (1/2).g.tc2 = h ⇒ tc = √(2h/g)
+
+- A.N : tc = √(2×10/10) ≈ 1,4 s
+
+* Vitesse ve d'entrée dans l'eau :
+
+- La relation (2) donne : vz(tc) = g.tc
+- A.N : ve = vz(tc) = 10×1,4 = 14 m.s-1
+
+2- Etude du mouvement vertical du centre G dans l'eau :
+
+2-1- Equation différentielle régissant la vitesse vz du centre d'inertie G :
+
+- Système à étudier : {Le baigneur (S)}
+- Repère d'étude R(O ; k⃗) supposé galiléen ;
+- Bilan des forces extérieures :
+  * Poids du corps : P⃗ = m.g⃗ = m.g.k⃗
+  * Force de frottement fluide : f⃗ = −λ.v⃗G = −λ.vz.k⃗
+  * Poussée d'Archimède : F⃗ = −(m/d).g⃗ = −(m/d).g.k⃗
+- 2ème loi de Newton : m.a⃗G = F⃗ + f⃗ + P⃗
+- Projection sur l'axe Oz : m.az = Fz + fz + Pz … (*)
+- Expressions : Fz = −(m/d).g ; fz = −λ.vz ; Pz = P = m.g et az = dvz/dt
+- La relation (*) devient : m.dvz/dt = −(m/d).g + (−λ.vz) + m.g
+- ou bien : dvz/dt + (λ/m).vz = g.(1 − 1/d)
+- Finalement l'équation différentielle est : dvz/dt + (1/τ).vz = g.(1 − 1/d) avec τ = m/λ
+
+2-2- * Expression de la vitesse limite vℓz :
+
+- Au régime permanent : dvz/dt = 0 et vz = vℓz
+- L'équation différentielle devient : (1/τ).vℓz = g.(1 − 1/d)
+- Finalement la vitesse limite est : vℓz = τ.g.(1 − 1/d)
+
+* Calcul de la vitesse limite vℓz :
+
+- A.N : vℓz = (80/250)×10×(1 − 1/0,9) ≈ −0,36 m.s-1
+
+2-3- Expressions de A et B :
+
+- La solution de l'équation différentielle est : vz(t) = A + B.e−t/τ
+- En portant cette solution dans l'équation différentielle on obtient : A = τ.g.(1 − 1/d) ou A = vℓz
+- vz(0) = A + B = ve ⇒ B = ve − vℓz
+
+2-4- Instant de retour tr :
+
+- C'est l'instant où le baigneur s'arrête pour rebrousser chemin : vz(tr) = 0
+- On a aussi : vz(tr) = vℓz + (ve − vℓz).e−tr/τ
+- Des deux relations : vℓz + (ve − vℓz).e−tr/τ = 0
+- Finalement on aboutit à l'expression : tr = −τ.ln(−vℓz/(ve − vℓz))
+- A.N : tr = −(80/250)×ln(0,36/(14 + 0,36)) ≈ 1,18 s
+
+#### PARTIE II : Etude du mouvement d'un pendule élastique
+
+1- Expression de la longueur ℓe :
+
+A l'équilibre : T⃗0 + P⃗ + R⃗ = 0⃗, et par projection sur l'axe Ox incliné, on aura :
+
+T0x + Px + Rx = 0, Alors : −K.Δℓéq + m.g.cos(α) + 0 = 0 avec Δℓéq = ℓe − ℓ0
+
+d'où : ℓe = ℓ0 + m.g.cos(α)/K
+
+2-1- Equation différentielle vérifiée par l'abscisse x(t) du centre d'inertie G :
+
+- Système à étudier : {solide (S)}
+- Repère d'étude R(O ; i⃗ ; j⃗) supposé galiléen ;
+- Bilan des forces extérieures :
+  * Poids du solide (S) : P⃗
+  * Action du ressort : T⃗
+  * Action du plan incliné : R⃗
+- La 2ème loi de Newton donne : P⃗ + T⃗ + R⃗ = m.a⃗G ;
+- Projection sur l'axe Ox : Px + Tx + Rx = m.ax
+
+⇒ m.g.cos(α) − K.(Δℓéq + x) + 0 = m.ẍ
+
+⇒ (m.g.cos(α) − K.Δℓéq = 0) − K.x = m.ẍ
+
+⇒ ẍ + (K/m).x = 0
+
+2-2- Expression numérique de x(t) :
+
+- L'expression de l'abscisse : x(t) = xmax.cos((2π/T0).t + φ)
+- D'après la figure 3 : xmax = 3×0,5 = 1,5 cm
+- L'équation différentielle peut s'écrire : ẍ = −(K/m).x ou ax = −(K/m).x
+- L'équation de la droite (figure 3) : ax = A.x
+- En comparant les deux équations ; on identifie le coefficient directeur :
+
+−K/m = A = Δax/Δx = (−1,25 − 0)/(0,5.10-2 − 0) = −250 s-2
+
+- Or on sait que : 2π/T0 = √(K/m) = √(−A) ; A.N : 2π/T0 = √250 = 15,8 rad.s-1 ≈ 5π rad.s-1
+
+- D'une part d'après la condition initiale x(0) = xmax
+D'autre part x(0) = xmax.cos(2π×0/T0 + φ) = xmax.cos(φ)
+D'où cos(φ) = 1 ⇒ φ = 0
+
+- Finalement : x(t) = 1,5.10-2.cos(5π.t) (x en m, t en s)
+
+3-1- Expression de l'énergie potentielle Ep :
+
+- L'énergie potentielle totale est : Ep = Epp + Epe … (*)
+- L'énergie potentielle de pesanteur est : Epp = m.g.z + C ; l'axe Oz est orienté vers le haut. Or à z = 0 on a Epp = 0 donc C = 0 ; d'où Epp = m.g.z avec z = −x.cos(α)
+
+Donc Epp = −m.g.x.cos(α) … (1)
+
+- L'énergie potentielle élastique est : Epe = (1/2).K.Δℓ2 + C' avec Δℓ = x + Δℓéq
+
+Or lorsque Δℓ = Δℓéq on a Epe = 0 donc C' = −(1/2).K.Δℓéq2 ; d'où Epe = (1/2).K.(x + Δℓéq)2 − (1/2).K.Δℓéq2
+
+En développant cette expression on aura : Epe = (1/2).K.x2 + K.x.Δℓéq … (2)
+
+- On porte (1) et (2) dans (*), on aura : Ep = −m.g.cos(α).x + K.Δℓéq.x + (1/2).K.x2
+
+On peut simplifier cette expression car (−m.g.cos(α) + K.Δℓéq) = 0 (équilibre) :
+
+Finalement on aboutit à l'expression finale : Ep = (1/2).K.x2
+
+3-2- * Valeur de la raideur K :
+
+- L'énergie mécanique se conserve au cours du mouvement de G : Em = Ec + Ep = Cte
+- Lorsque x = xmax : Ec(xmax) = 0 ⇒ Em(xmax) = Ep(xmax) = (1/2).K.xmax2
+- Lorsque x = 0 : Ep(0) = 0 ⇒ Em(0) = Ec(0) = 9 mJ = 9.10-3 J (voir figure 4)
+
+- Em(xmax) = Em(0) ⇒ (1/2).K.xmax2 = 9.10-3 ⇒ K = 2×9.10-3/(1,5.10-2)2 = 80 N.m-1
+
+* Valeur de la masse m :
+
+On a trouvé que : K/m = 250 s-2 ⇒ m = K/250 = 80/250 = 0,32 kg = 320 g

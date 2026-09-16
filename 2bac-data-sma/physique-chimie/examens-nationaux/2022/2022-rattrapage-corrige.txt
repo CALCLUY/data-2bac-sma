@@ -1,0 +1,93 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2022 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+[Note : document officiel « عناصر الإجابة » (éléments de réponse et barème, RR 30F, 4 pages). Il ne contient pas de solution rédigée mais les réponses attendues et leur barème.]
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية
+الدورة الاستدراكية 2022 — عناصر الإجابة
+RR 30F
+المادة: الفيزياء والكيمياء
+مسلك العلوم الرياضية – أ و ب – خيار فرنسية
+مدة الإنجاز: 4 — المعامل: 7
+
+## Exercice 1 : Chimie (7 points)
+
+Question | Eléments de réponse | Barème
+1-1 | Vérification. | 0,5
+1-2 | Démonstration. | 0,75
+1-3 | Méthode ; τ = 1,5 % (pour pH = 2,98). | 2 × 0,25
+1-4 | Diagramme de prédominance ; l'espèce acide qui prédomine. | 2 × 0,25
+2-1 | Schéma légendé du montage. | 0,75
+2-2 | Equation de la réaction du dosage. | 0,25
+2-3-1 | c. | 0,5
+2-3-2 | Vérifiée + justification. | 0,25 + 0,25
+2-4 | Méthode ; pH = 5,1. | 2 × 0,25
+3-1 | Courbe (2) avec justification. | 0,5
+3-2 | Fausse avec justification. | 0,5
+3-3 | Méthode ; v = 0,4 mol.L-1.min-1. | 0,25 + 0,25
+3-4 | Méthode ; t = 21 min. | 0,5 + 0,25
+
+Références du cadre de référence : écrire l'équation de la réaction modélisant une transformation acido-basique et identifier les deux couples intervenants ; déterminer le pH d'une solution aqueuse ; calculer l'avancement final de la réaction d'un acide avec l'eau, connaissant la concentration et le pH, et le comparer à l'avancement maximal ; définir le taux d'avancement final et le déterminer à partir de données expérimentales ; écrire et utiliser l'expression de la constante d'acidité KA ; connaître pKA = −log KA ; exploiter le diagramme de prédominance et de distribution ; écrire l'équation de réaction de dosage ; connaître le dispositif expérimental d'un dosage acido-basique ; exploiter la courbe ou les résultats du dosage ; dresser le tableau d'avancement et l'exploiter ; déterminer l'influence des facteurs cinétiques ; exploiter les courbes d'évolution ; connaître l'expression de la vitesse volumique de réaction ; connaître l'influence de la concentration et de la température ; déterminer graphiquement la vitesse volumique ; définir et déterminer le temps de demi-réaction t1/2 ; donner et utiliser l'expression du quotient de réaction Qr.
+
+## Exercice 2 : Ondes (2 points)
+
+Question | Eléments de réponse | Barème
+1 | 1 affirmation juste. | 0,5
+2 | v = 16 m.s-1. | 0,25
+3 | λ = 64 cm. | 0,5
+4-1 | Représentation. | 0,5
+4-2 | xM = −5 mm. | 0,25
+
+Références : définir une onde mécanique et sa célérité ; onde transversale / longitudinale ; onde progressive ; relation yM(t) = yS(t − τ) ; exploiter la relation entre retard temporel, distance et célérité ; reconnaître une onde progressive périodique et sa période ; définir onde progressive sinusoïdale, période, fréquence, longueur d'onde ; connaître et exploiter λ = v.T.
+
+## Exercice 3 : Transformations nucléaires (1,5 points)
+
+Question | Eléments de réponse | Barème
+1 | 1 affirmation juste. | 0,5
+2 | Equation de désintégration avec type. | 0,25
+3-1 | Méthode ; t = 1,5.104 ans. | 0,5
+3-2 | E = 1,37.1011 MeV. | 0,25
+
+Références : connaître et exploiter les deux lois de conservation ; définir les radioactivités α, β−, β+ et l'émission γ ; écrire l'équation d'une réaction nucléaire ; reconnaître le type de radioactivité ; loi de décroissance radioactive et sa courbe ; 1 Bq = une désintégration par seconde ; définir la constante de temps τ et la demi-vie t1/2 ; diagramme (N,Z) ; calculer l'énergie libérée ; applications de la radioactivité.
+
+## Exercice 4 : Electricité (4,5 points)
+
+Question | Eléments de réponse | Barème
+1-1-1 | Equation différentielle. | 0,25
+1-1-2 | i(t = 0-) = 0 ; i(t = 0+) = E/(R + r). | 2 × 0,25
+1-2 | C0 = 2,5.10³ F. | 0,5
+1-3 | Méthode ; n = 6400. | 2 × 0,25
+2 | Méthode suivie. | 0,75
+3-1 | Schéma. | 0,5
+3-2 | Equation différentielle. | 0,25
+3-3 | Méthode ; L = 0,4 H. | 2 × 0,25
+3-4 | Vraie + justification. | 0,25 + 0,5
+
+Références : relation i = dq/dt en convention récepteur ; q = C.u ; capacité d'un condensateur, unité F et sous-multiples μF, nF, pF ; détermination graphique et par calcul de la capacité ; condensateur équivalent en série et en parallèle ; établir l'équation différentielle et vérifier sa solution pour un dipôle RC soumis à un échelon de tension ; expression de uC(t), i(t) et q(t) ; continuité de uC et discontinuité de i à t = 0 ; énergie électrique emmagasinée ; expression u = r.i + L.di/dt ; courbes des trois régimes ; expression de la période propre ; équation différentielle avec amortissement ; rôle du dispositif d'entretien des oscillations (compenser l'énergie dissipée par effet Joule) ; équation différentielle d'un circuit RLC entretenu avec uG(t) = k.i(t).
+
+## Exercice 5 : Mécanique (5 points)
+
+Partie I
+Question | Eléments de réponse | Barème
+I-1-1 | θ̈ = m.R.g/(JΔ + m.R²). | 0,5
+I-1-2 | Méthode ; JΔ = 1,95.10-3 kg.m². | 2 × 0,25
+I-1-3 | Méthode ; n = 637. | 2 × 0,25
+I-2-1 | Démonstration. | 0,5
+I-2-2 | τ = (JΔ + mR²)/k ; vérification. | 2 × 0,25
+I-2-3 | θ̇ℓ = m.R.g/k. | 0,25
+
+Partie II
+Question | Eléments de réponse | Barème
+II-1-1 | Equation différentielle. | 0,25
+II-1-2 | K = 50 N.m-1. | 0,5
+II-1-3 | xm = 5,1 cm ; φ = −π/6. | 2 × 0,25
+II-2-1 | Justification. | 0,25
+II-2-2 | Vérification. | 0,25
+II-2-3 | 1 affirmation juste. | 0,5
+
+Références : appliquer la deuxième loi de Newton pour établir l'équation différentielle du mouvement d'un solide en chute verticale avec frottement ; relation fondamentale de la dynamique en rotation autour d'un axe fixe ; repérage par l'abscisse angulaire ; accélération angulaire et son unité ; exploiter les diagrammes θ(t), θ̇(t) et θ̈(t) ; mouvement de rotation uniformément varié et ses équations horaires ; exploiter la courbe vG = f(t) pour déterminer la vitesse limite vℓ, le temps caractéristique τ, le régime initial et le régime permanent ; appliquer la deuxième loi de Newton et la RFD à un système composé d'un solide en translation et d'un solide en rotation ; appliquer la deuxième loi de Newton à un système oscillant (solide-ressort) ; période propre et fréquence propre ; exploiter xG(t), vG(t) et aG(t) ; force de rappel ; oscillations libres ; amortissement, ses types et régimes ; pseudo-période voisine de la période propre en amortissement faible ; détermination des constantes à partir des conditions initiales ; amortissement solide et fluide ; conservation et non-conservation de l'énergie mécanique.

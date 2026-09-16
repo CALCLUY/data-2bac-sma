@@ -1,0 +1,35 @@
+---
+Chapitre: Chapitre 12 : Calcul de probabilités
+Séance: Séance 12-3 : Calcul de probabilités - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 12-3 : Calcul de probabilités - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+Soit $n$ un entier supérieur ou égal à 4.
+
+On considère trois urnes $U_{1}$, $U_{2}$ et $U_{3}$ tels que :
+
+* L'urne $U_{1}$ contient une boule rouge et $\left(n - 1\right)$ boules noires.
+* L'urne $U_{2}$ contient deux boules rouges et $\left(n - 2\right)$ boules noires.
+* L'urne $U_{3}$ contient trois boules rouges et $\left(n - 3\right)$ boules noires.
+
+On considère l'expérience aléatoire suivante :
+
+On choisit au hasard une urne par les trois urnes et on y tire simultanément deux boules.
+
+On considère la variable aléatoire $X$ égale au nombre de boules rouges tirées de l'urne.
+
+1. Déterminer les valeurs prises par $X$.
+
+2. Montrer que $P \left(X = 2\right) = \frac{8}{3 n \left(n - 1\right)}$
+
+3. Montrer que $P \left(X = 1\right) = \frac{4 n \left(3 n - 7\right)}{3 n \left(n - 1\right)}$
+
+4. En déduire la loi de probabilité de $X$.
+
+5. Sachant qu'on a obtenu deux boules rouges, quelle est la probabilité que le tirage a été effectué dans l'urne $U_{3}$ ?

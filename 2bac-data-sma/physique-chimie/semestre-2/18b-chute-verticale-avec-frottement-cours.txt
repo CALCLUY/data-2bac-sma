@@ -1,0 +1,130 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: B- Chute verticale avec frottement
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Bac SM-SPC
+
+Séance 18-B (Chute verticale avec frottement)
+
+Professeur : Mr EL GOUFIFA Jihad
+
+## I- Chute verticale avec frottement
+
+### 1-1/ Les forces agissantes
+
+Tous corps immergé dans un fluide est soumis à trois forces :
+
+$\overset{\rightarrow}{P}$ : La force de pesanteur (poids du corps).
+
+$\overset{\rightarrow}{F_{A}}$ : La poussée d'Archimède.
+
+$\overset{\rightarrow}{f}$ : La force de frottement fluide exercée par le fluide.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img1.bmp)
+
+### 1-2/ La force de pesanteur
+
+Dans le champ de pesanteur terrestre, tous les solides sont soumis à une force exercée par la terre, c'est le poids du corps.
+
+Le vecteur poids est le produit de la masse $m$ du solide et le vecteur champ de pesanteur terrestre $\overset{\rightarrow}{g}$
+
+$\overline{\left.\right)\overset{\rightarrow}{ P} = m \overset{\rightarrow}{g} }$
+
+### 1-3/ La force de frottement fluide
+
+On modélise l'ensemble de forces de frottement entre le solide et le fluide par une seule force $\overset{\rightarrow}{f}$, c'est la force de frottement fluide.
+
+Il existe plusieurs types de forces de frottement fluide :
+
+- Si le solide est petit et sa vitesse est faible : $\overset{\rightarrow}{f} = - h . v . \overset{\rightarrow}{k}$
+- Si le solide est grand et sa vitesse est grande : $\overset{\rightarrow}{f} = - h . v^{2} . \overset{\rightarrow}{k}$
+
+Généralement la force de frottement fluide est de sens opposé à celui du vecteur vitesse et d'intensité : $\overset{\rightarrow}{f} = - h . v^{n} . \overset{\rightarrow}{k}$
+
+$h$ est le coefficient de frottement fluide en $K g . s^{- 1}$, il dépend de la forme et le volume du solide, ainsi la nature du fluide et sa viscosité.
+
+### 1-4/ La poussée d'Archimède
+
+Tout solide immergé dans un fluide est soumis à l'action d'une force exercée par ce fluide.
+
+Cette force est appelée poussée d'Archimède, notée $\overset{\rightarrow}{F_{a}}$.
+
+La poussée d'Archimède est égale à l'opposée du vecteur poids du volume du fluide déplacé :
+
+$\overline{\left.\right)\overset{\rightarrow}{ F_{a}} = - \overset{\rightarrow}{P_{f}} = - m_{f} \overset{\rightarrow}{g} }$
+
+Avec $m_{f} = \rho_{f} . V$, la masse du fluide déplacé, $\rho_{f}$ la masse volumique du fluide et $V$ son volume déplacé.
+
+D'où les caractéristiques suivantes :
+
+- La direction : Verticale
+- Le sens : Vers le haut
+- La norme : $F_{a} = \rho_{f} . V . g$
+
+### 1-5/ L'équation différentielle vérifiée par la vitesse
+
+On applique alors la deuxième loi de Newton :
+
+$\sum_{}^{} \overset{\rightarrow}{F} = \overset{\rightarrow}{P} + \overset{\rightarrow}{F_{A}} + \overset{\rightarrow}{f} = m \overset{\rightarrow}{a}$
+
+En projetant la relation vectorielle sur l'axe vertical (O,z) dirigé vers le bas :
+
+$P - F_{A} - f = m a \\ \\ m g - \rho V g - h v^{n} = m a = \frac{d v}{d t}$
+
+L'équation différentielle s'écrit sous la forme :
+
+$\overline{\left.\right) A - B v^{n} = \frac{d v}{d t} }$
+
+Avec : $A = g \left(1 - \frac{\rho V}{m}\right)$ et $B = \frac{h}{m}$.
+
+### 1-6/ Les régimes d'une chute verticale
+
+Au cours d'une chute verticale avec frottement, le mouvement du solide peut se décomposer en deux phase :
+
+1- Le régime initial ou transitoire, pendant lequel :
+
+- La vitesse $v$ augmente.
+- La valeur $f$ de la force de frottement fluide augmente.
+- L'accélération $a$ diminue.
+
+2- Le régime asymptotique ou permanent, pendant lequel
+
+- La vitesse $v$ est égale à une vitesse constante $v_{\mathcal{l}}$.
+- La valeur $f$ de la force de frottement fluide est constante.
+- L'accélération $a$ est nulle.
+
+$v_{\mathcal{l}} = \left(\frac{A}{B}\right)^{\frac{1}{n}} = \left[\frac{g}{k} \left(\rho - \rho_{f}\right) . V\right]^{\frac{1}{n}}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img2.jpg)
+
+## II- La méthode d'Euler pour la résolution approchée d'une équation différentielle
+
+La méthode d'Euler est une méthode itérative (c'est à dire qu'elle nécessite la répétition d'un même calcul), elle permet de savoir la vitesse de la bille à instant donné.
+
+Cette méthode comporte deux étapes de calcul.
+
+#### La 1ère étape
+
+Si on connaît la vitesse initiale $v_{0}$, on détermine la valeur de l'accélération initiale $a_{0}$ à partir de la relation : $a_{0} = A - B . \left(v_{0}\right)^{n}$
+
+#### La 2ème étape
+
+Si on connaît le pas de calcul $\Delta t = t_{i + 1} - t_{i}$, on détermine la vitesse $v_{i + 1}$ à l'instant $t_{i + 1}$ par la relation suivante :
+
+$v_{i + 1} = v_{i} + a_{i} \Delta t$
+
+Donc les deux relations intéressantes dans la méthode d'Euler sont : $a_{i} = A - B . \left(v_{i}\right)^{n}$ et $v_{i + 1} = v_{i} + a_{i} \Delta t$
+
+Initialement on connaît la valeur de la vitesse initiale $v_{0}$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img3.jpg)
+
+#### Remarque
+
+Le choix du pas du calcul a une grande importance dans la méthode d'Euler, car plus que sa valeur est petite plus les résultats théoriques sont proches des résultats expérimentaux.
+
+On prend généralement un pas de calcul égale à $\Delta t = \frac{\tau}{10}$, pour ne pas dépasser la vitesse limite du solide.

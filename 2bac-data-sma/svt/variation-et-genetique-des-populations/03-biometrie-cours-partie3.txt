@@ -1,0 +1,108 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: La variation et la génétique des populations
+Sujet: Étude quantitative de la variation (La biométrie) - Cours (Partie 3)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Étude quantitative de la variation
+(La biométrie)  Cours (Partie 3)
+Professeur : Mr BAHSINA Najib
+
+1/7
+
+## Sommaire
+
+### IV- Sélection et notion de race pure
+
+#### 4-1/ Sélection à partir d’un groupe hétérogène
+
+#### 4-2/ Sélection à partir d’un groupe homogène
+
+### V- Conclusion
+
+* * *
+
+2/7
+
+### IV- Sélection et notion de race pure
+
+#### 4-1/ Sélection à partir d’un groupe hétérogène
+
+La mesure de la masse des tomates d’une 1ère population P1 a permis de tracer le polygone de
+
+référence représenté dans le document 1 :
+
+[Figure — document 1, image : polygone de référence de la masse des tomates de la population P1]
+
+Dans un deuxième temps, on a isolé les tomates de la classe [195 ;205] qu’on a cultivées dans des conditions adéquates ce qui a permis d’obtenir une 2ème population P2 dont la distribution est représentée dans le polygone de fréquence du document 2 :
+
+[Figure — document 2, image : polygone de fréquence de la population P2]
+
+3/7
+
+### IV- Sélection et notion de race pure
+
+#### 4-2/ Sélection à partir d’un groupe homogène
+
+Dans une race de haricots, Wilhelm Johannsen a remarqué une différence au niveau de la taille des graines.
+
+Le tableau suivant représente les résultats d’étude biométrique de la masse des graines de haricot menée sur une population P de 1337 graines :
+
+[Figure — image : tableau de l’étude biométrique de la masse des graines de la population P (1337 graines)]
+
+1. Dresser l’histogramme et le polygone de fréquence de la distribution de la masse des graines de la population P.
+2. Déterminer le mode et calculez la moyenne arithmétique X.
+
+[Figure — image : tableau de l’étude biométrique de la masse des graines (rappel)]
+
+[Figure — image : papier millimétré pour le tracé]
+
+[Figure — image : tableau de l’étude biométrique de la masse des graines (rappel)]
+
+4/7
+
+### IV- Sélection et notion de race pure
+
+#### 4-2/ Sélection à partir d’un groupe homogène
+
+En 1913, Johannsen a isolé les graines d’haricot de la classe [21-25] (graines légères) et celles de la classe [86-90] (graines lourdes) puis il a cultivé séparément les graines de chaque classe.
+
+Après germination des graines et formation des plantes, il a laissé ces dernières s’autoféconder et a obtenu deux populations (P1 et P2) de graines dont les distributions sont résumées dans les tableaux suivants :
+
+[Figure — image : tableau de distribution de la population P1]
+
+[Figure — image : tableau de distribution de la population P2]
+
+1. Tracer, dans un même diagramme, le polygone des fréquences pour chaque population.
+
+[Figure — image : zone de tracé]
+
+1. Déduire le mode et calculer la moyenne arithmétique X dans chaque cas.
+2. Déduire de la comparaison de ces paramètres avec ceux de la population d’origine (population P).
+
+5/7
+
+### IV- Sélection et notion de race pure
+
+#### 4-2/ Sélection à partir d’un groupe homogène
+
+Dans une expérience similaire, Johannsen isole les grosses graines d’haricot des petites graines qu’il sème ensuite séparément. Après autofécondation, il a obtenu deux groupes de graines.
+
+- Les graines légères donnent une distribution identique à celle de la population P1
+- Les graines lourdes donnent une distribution identique à celle de la population P2
+
+[Figure — image : distributions obtenues après autofécondation]
+
+6/7
+
+### V- Conclusion
+
+La sélection artificielle est un processus dont le but est d’isoler les individus possédant un phénotype recherché et le génotype qui en est responsable
+
+La race pure est un ensemble d’individus (population) de même phénotype, la sélection au sein de cette population est inefficace, puisqu’on obtient chez la descendance après chaque croisement la même distribution des fréquences caractérisée par un mode constant, ce qui traduit son homogénéité.
+
+7/7

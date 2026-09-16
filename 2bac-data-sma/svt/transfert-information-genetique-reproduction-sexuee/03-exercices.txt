@@ -1,0 +1,91 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: Transfert de l’information génétique au cours de la reproduction sexuée - Exercices
+Type: Exercices
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Transfert de l’information génétique au cours de la reproduction sexuée  Exercices
+Professeur : Mr BAHSINA Najib
+
+1/6
+
+### I- Exercice 1
+
+Pour chacune des données suivantes, il y’a une seule suggestion correcte.
+
+A- Dans le cas de deux gènes liés le crossing-over, qui permet la diversité génétique des gamètes, se produit lors:
+
+1. De la prophase I d’une cellule mère des gamètes homozygote.
+2. De la prophase I d’une cellule mère des gamètes hétérozygote.
+3. De la prophase II d’une cellule mère des gamètes homozygote.
+4. De la prophase II d’une cellule mère des gamètes hétérozygote.
+
+B- La méiose donne :
+
+1. 4 cellules haploïdes à partir d’une cellule mère diploïde.
+2. 2 cellules diploïdes à partir d’une cellule mère diploïde.
+3. 4 cellules diploïdes à partir d’une cellule mère diploïde.
+4. 2 cellules haploïdes à partir d’une cellule mère diploïde.
+
+2/6
+
+### II- Exercice 2
+
+1. Définissez la notion suivante :
+
+- Brassage interchromosomique :
+
+2. Citez une différence entre l’anaphase I et l’anaphase II de la méiose.
+
+3/6
+
+### III- Exercice 3
+
+Le schéma suivant présente une phase de la méiose :
+
+[Figure — image : schéma d’une phase de la méiose, éléments numérotés 1 à 4]
+
+Écrivez devant chaque numéro le nom qui convient :
+
+1 :
+
+2 :
+
+3 :
+
+4 :
+
+4/6
+
+### IV- Exercice 4
+
+Reliez les modifications de nombre et de l’aspect des chromosomes (Groupe 1) aux phases qui leur correspondent (Groupe 2) :
+
+| Groupe 1 | Groupe 2 |
+| --- | --- |
+| Les paires de chromosomes homologues forment des tétrades dispersées dans le cytoplasme. | Métaphase I |
+| Les centromères des chromosomes homologues sont situés de part et d’autre du plan équatorial de la cellule. | Prophase I |
+| Les centromères des chromosomes à deux chromatides sont situés au niveau du plan équatorial de la cellule. | Télophase II |
+| Les chromosomes non dédoublés perdent leur condensation formant la chromatine. | Métaphase II |
+
+5/6
+
+### V- Exercice 5
+
+Pour mettre en évidence l’effet de certains phénomènes biologiques sur la transmission de l'information génétique lors de la formation des gamètes chez les êtres vivants diploïdes, on propose l’exploitation des données suivantes :
+
+Les figures du document ci-dessous représentent certaines phases d’un phénomène biologique chez une cellule animale dont la formule chromosomique est 2n=4 :
+
+[Figure — image : phases d’un phénomène biologique chez une cellule animale 2n=4, figures a et b]
+
+1. Identifiez, en justifiant votre réponse, les phases représentées par le document précédent et déduisez le phénomène biologique étudié.
+
+2. Réalisez le schéma de la deuxième possibilité de la disposition des chromosomes de la phase représentée par la figure b du document précédent.
+
+3. Déduisez le nom du phénomène responsable des deux possibilités en indiquant son effet sur la transmission de l'information génétique.
+
+6/6

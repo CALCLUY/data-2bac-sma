@@ -1,0 +1,132 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvement des satellites et des planètes
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 22 (Mouvement des satellites et des planètes)
+Professeur : Mr El GOUFIFA Jihad
+
+## VI- Exercices
+
+### 6-1/ Exercice 1
+
+On peut imaginer une base relais (pour le matériel comme pour les communications avec la Terre) sur Phobos, un des satellites de Mars.
+
+Dans cette première partie, nous allons étudier le mouvement de ce satellite.
+
+On supposera que tous les objets étudiés sont à répartition sphérique de masse.
+
+Données :
+
+- $G = 6 , 67 . 10^{- 11} N . m^{2} . k g^{- 2}$
+- Masse de Mars : $m_{M} = 6 , 42 . 10^{23} k g$
+- Distance entre le centre de Mars et celui de Phobos : $r = 9 , 38 . 10^{3} k m$
+- La masse de Phobos sera notée mP Période de rotation de Mars : $T_{M} = 24 h 37 m i n$
+
+On supposera que Phobos a un mouvement circulaire uniforme autour de Mars de vitesse v et on supposera que l'on travaille dans un référentiel galiléen centré sur Mars.
+
+1. Donner la définition d'un mouvement circulaire uniforme.
+
+2. Représenter le point d'application, la direction et le sens du vecteur accélération de Phobos sur un schéma.
+
+3. Donner l'expression (sans justification) de la norme du vecteur accélération de Phobos en fonction de $v$ et $r$.
+
+4. Appliquer la deuxième loi de Newton à ce satellite.
+
+5. En déduire que l'expression de sa vitesse de révolution autour de Mars est $\nu = \sqrt{G \frac{m_{M}}{r}}$
+
+6. Déterminer l'expression reliant $v$, $r$ et $T_{P}$ (période de révolution de Phobos autour de Mars).
+
+7. Montrer que : $\frac{T_{2}}{r_{3}} = 9 , 22 . 10^{- 13} s^{2} . m^{- 3}$. En déduire la valeur de $T_{P}$.
+
+8. Dans quel plan faut-il placer un satellite pour qu'il soit immobile par rapport à la base relais sur Mars ? Justifier votre réponse sans calcul, Quelle est la période $T_{S}$ de révolution d'un tel satellite ?
+
+### 6-2/ Exercice 2
+
+Zarke AL Yamama est un satellite marocain qui a pour fonction de surveiller les frontières du royaume, de communiquer et de télédétection. Ce satellite a été réalisé par les experts du centre royal de télédétection spatial avec l'aide d'experts internationaux.
+
+Le satellite a été mis en orbite le 10 décembre 2001 à une altitude $h$ de la surface de la Terre, il effectue environ 14 tours par jour autours de la Terre.
+
+On suppose que la trajectoire de $\left(\right. S \left.\right)$ est circulaire, et on étudie son mouvement dans le référentiel géocentrique :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img13.bmp)
+
+On suppose que la Terre a une symétrie sphérique de répartition de masse.
+
+On néglige les dimensions de $\left(\right. S \left.\right)$ devant la distance qui le sépare du centre de la Terre.
+
+Données :
+
+- La constante gravitationnelle : $G = 6 , 67 . 10^{- 11} \left(S I\right)$
+- Rayon de la Terre : $r_{T} = 6350 k m$
+- Intensité du champ de pesanteur à la surface de la Terre : $g_{o} = 9 , 8 m . s^{- 2}$.
+- L'altitude : $h = 1000 k m$.
+- $\overset{\rightarrow}{u_{T S}}$ : vecteur unitaire dirigé de $O$ vers $S$.
+
+1. Recopier le schéma de la figure et représenter dessus le vecteur vitesse $\overset{\rightarrow}{V_{S}}$ du satellite $\left(\right. S \left.\right)$ et la force d'attraction universelle appliquée par la Terre sur $\left(\right. S \left.\right)$.
+
+2. Donner l'expression vectorielle de la force exercée par la Terre sur $\left(\right. S \left.\right)$.
+
+3. Écrire dans la base de frenet, l'expression du vecteur accélération du mouvement de $\left(\right. S \left.\right)$.
+
+4. En appliquant la deuxième moi de Newton sur le centre d'inertie du satellite $\left(\right. S \left.\right)$, montrer que le mouvement de $\left(\right. S \left.\right)$ est circulaire uniforme.
+
+5. Écrire l'expression de $V_{S}$ en fonction de $g_{o}$, $r_{T}$ et $h$ et calculer sa valeur.
+
+6. Montrer que la masse de la Terre est $M_{T} \approx 6 . 10^{24} k g$.
+
+7. Montrer que le satellite $\left(\right. S \left.\right)$ n'est pas ixe par rapport à un observateur terrestre.
+
+Un satellite $\left(\right. S ' \left.\right)$ tourne autours de la Terre à la vitesse angulaire ω et apparaît ixe par rapport à un observateur terrestre et envoie des photos utilisées en météorologie.
+
+8. Démontrer la relation : $\omega^{2} . \left(\left(\right. r_{T} + z \left.\right)\right)^{3} = C t e$ ; avec $z$ la distance entre la surface de la Terre et le satellite.
+
+9. Trouver la valeur de $z$.
+
+### 6-3/ Exercice 3
+
+La planète Mars est l'une des planètes du système solaire qu'on peut détecter facilement dans le ciel à cause de sa luminosité et de sa couleur rouge. Il possède deux satellites naturels qui sont : Phobos et Deïmos :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img14.jpg)
+
+Les savants se sont intéressé à son étude depuis longtemps, et on envoyé plusieurs sondes spatiales pour son exploration ce qui a permis d'avoir d'importantes informations sur lui.
+
+Cet exercice propose la détermination de quelques grandeurs physiques concernant cette planète.
+
+Données :
+
+- Masse du Soleil : $M_{S} = 2 . 10^{30} k g$.
+- Rayon de Mars : $R_{M} = 6300 k m$.
+- La constante gravitationnelle : $G = 6 , 67 . 10^{- 11} \left(\right. S I \left.\right)$.
+- La période de la rotation de Mars autours du Soleil : $T_{M} = 687 j o u r s$ ; $1 j o u r = 86400 s$.
+- Intensité de la pesanteur à la surface de la Terre : $g_{o} = 9 , 8 N . k g^{- 1}$.
+
+On considère que Mars et le Soleil ont une symétrie sphérique de répartition de la masse.
+
+#### Détermination du rayon de la trajectoire de Mars et sa vitesse
+
+On considère que le mouvement de Mars dans le référentiel héliocentrique est circulaire, sa vitesse est $V$ et son rayon est $r$ (on néglige les dimensions de Mars devant les distances le séparant du centre du Soleil et on néglige aussi les autres forces exercées sur lui devant l'attraction universelle exercée par le Soleil).
+
+1. Représenter sur un schéma la force exercée par le Soleil sur Mars.
+
+2. Écrire en fonction de $G$, $M_{S}$, $M_{M}$ et $r$, l'expression de l'intensité $F_{S / M}$ de la force d'attraction universelle exercée par le Soleil sur Mars. ($M_{M}$ est la masse de Mars)
+
+3. En appliquant la deuxième loi de newton, montrer que le mouvement de Mars est circulaire uniforme.
+
+4. En appliquant la deuxième loi de newton, montrer que la relation entre la période et le rayon est : $\frac{\left(T_{M}\right)^{2}}{r^{3}} = \frac{4 \pi^{2}}{G . M_{S}}$. et que la valeur de $r$ est : $r \approx 2 , 3 . 10^{11} m$.
+
+5. Trouver la vitesse $V$.
+
+#### Détermination de la masse de Mars et l'intensité de la pesanteur à sa surface
+
+On considère que le satellite Phobos est en mouvement circulaire uniforme autours de Mars à la distance $z = 6000 k m$ de sa surface.
+
+La période de ce mouvement est $T_{P} = 460 m i n$ (on néglige les dimensions de Phobos devant les autres dimensions).
+
+6. En étudiant le mouvement de Phobos dans un référentiel dont l'origine est confondue avec le centre de Mars, et qu'on suppose galiléen, trouver la masse $M_{M}$ de Mars.
+
+7. Trouver l'intensité de la pesanteur $g_{o M}$ à la surface de Mars, et comparer la avec la valeur avec $g_{M e x p} = 3 , 8 N . k g^{- 1}$ mesurée à sa surface moyennant des appareils sophistiqués.

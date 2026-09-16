@@ -1,0 +1,190 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2020 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية
+الدورة الاستدراكية 2020 - الموضوع –
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية (أ) (خيار فرنسية)
+مدة الإنجاز : 2h — المعامل : 3
+RS 36F
+
+L’utilisation d’une calculatrice non programmable est autorisée
+
+## Partie I : Restitution des connaissances (5 points)
+
+I - Répondez, sur votre feuille de rédaction, aux questions suivantes :
+
+1- Définissez : - Cellule diploïde - Crossing-over. (1 pt)
+
+2- Citez deux caractéristiques d’un cycle chromosomique diplophasique. (1 pt)
+
+II – Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez, sur votre feuille de rédaction, les couples ci-dessous et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+(1,…..) (2,…..) (3,…..) (4,…..)
+
+1- D’une génération à l’autre, l’alternance de la méiose et la fécondation assure :
+
+a- la réduction de la quantité d’ADN ;
+
+b- la variation de la garniture chromosomique ;
+
+c- la réduction du nombre de gènes ;
+
+d- la diversité des caractères individuels.
+
+2- Pendant la méiose :
+
+a- l’appariement des chromosomes à deux chromatides s’effectue pendant la prophase I ;
+
+b- les chromosomes homologues forment une plaque équatoriale pendant la métaphase I ;
+
+c- les chiasmas aboutissent à un brassage interchromosomique ;
+
+d- la séparation aléatoire des chromosomes homologues aboutit à un brassage intrachromosomique.
+
+3- Une cellule à 2n chromosomes contenant une quantité d’ADN de 2Q pendant la phase G2 :
+
+a- sera à n chromosomes ayant une chromatide en prophase II ;
+
+b- sa quantité d'ADN sera de Q en prophase I ;
+
+c- sera à n chromosomes ayant deux chromatides en télophase I ;
+
+d- la quantité d'ADN de ses cellules filles sera de Q en télophase II.
+
+4- Dans un cycle de développement haplophasique :
+
+a- le gamétophyte est diploïde et donne des gamètes à n chromosomes ;
+
+b- le gamétophyte est haploïde et donne des gamètes à n chromosomes ;
+
+c- le sporophyte est diploïde et donne des gamètes à n chromosomes ;
+
+d- le sporophyte est haploïde et donne des gamètes à n chromosomes.
+
+III - Le tableau ci-dessous comporte deux groupes : Le groupe 1 présente des anomalies chromosomiques, alors que le groupe 2 présente leurs caractéristiques.
+
+Recopiez, sur votre feuille de rédaction, les couples ci-dessous et adressez à chaque numéro du groupe 1 la lettre qui lui correspond du groupe 2. (1 pt) (1,…..) (2,…..) (3,…..) (4,…..)
+
+| Groupe 1 | Groupe 2 |
+| --- | --- |
+| 1. Syndrome de Down | a. délétion d’une partie du chromosome 5. |
+| 2. Syndrome de Klinfelter | b. présence d’un chromosome 21 supplémentaire. |
+| 3. Syndrome de Turner | c. présence de 44 autosomes et un seul chromosome sexuel X. |
+| 4. Syndrome de Lejeune (cri du chat) | d. présence de 44 autosomes et trois chromosomes sexuels 2X et Y. |
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (5 points)
+
+Chez la drosophile on suit la transmission de trois gènes :
+
+- Un gène responsable de la couleur des yeux a deux allèles : un allèle dominant "bw+" responsable de la couleur rouge et un allèle récessif "bw" responsable de la couleur brune.
+
+- Un gène responsable de la couleur du corps a deux allèles : un allèle dominant "j+" responsable de la couleur grise et un allèle récessif "j" responsable de la couleur jaune.
+
+- Un gène responsable de la forme des ailes a deux allèles : un allèle dominant "cv+" responsable des ailes normales et un allèle récessif "cv" responsable des ailes veinless.
+
+La figure a du document 1 présente le caryotype d’une drosophile mâle et les figures b et c du même document illustrent l’emplacement de ces trois gènes sur les chromosomes.
+
+[Figure — Document 1, image : Figure a (Caryotype, chromosomes 2, 3, 4, X, Y), Figure b (Chromosome X — Corps jaune / Corps gris, Aile veinless / Aile normale, 0 — 13,44 cM), Figure c (Chromosome 2 — Œil brun / Œil rouge)]
+
+1- Déterminez la formule chromosomique du caryotype présenté dans le document 1 et la formule chromosomique des gamètes produits par cet individu. (0,75 pt)
+
+2- A partir de la disposition de ces trois gènes sur les chromosomes, donnez en justifiant votre réponse, le type de brassage chromosomique possible, lors de la formation des gamètes chez une femelle hétérozygote entre les gènes responsables :
+
+a- de la couleur du corps et de la couleur des yeux. (0,5 pt)
+
+b- de la couleur du corps et de la forme des ailes. (0,5 pt)
+
+3- En se basant sur un échiquier de croisement, déterminez pour les caractères, couleur des yeux et couleur du corps, les pourcentages des phénotypes attendus lors d’un croisement test entre une femelle double hétérozygote et un mâle double récessif. (1,75 pt)
+
+Pour vérifier le mode de transmission des deux caractères : la couleur du corps et la forme des ailes on a réalisé le croisement entre une femelle hétérozygote à corps gris et ailes normales et un mâle à corps gris et ailes normales. On a obtenu à la génération F2 les résultats expérimentaux présentés dans le document 2 :
+
+| Phénotypes | Corps gris et ailes normales [j+, cv+] | Corps gris et ailes veinless [j+, cv] | Corps jaune et ailes veinless [j, cv] | Corps jaune et ailes normales [j, cv+] |
+| --- | --- | --- | --- | --- |
+| Mâles | 1621 | 254 | 1625 | 250 |
+| Femelles | 3747 | 0 | 0 | 0 |
+
+Document 2
+
+4- A partir des résultats expérimentaux du document 2 :
+
+a- Montrez que les deux gènes responsables de la couleur du corps et de la forme des ailes sont liés et portés par le chromosome sexuel X. (1 pt)
+
+b- Vérifier si la distance entre les deux gènes correspond aux données de la figure b du document 1. (0,5 pt)
+
+### Exercice 2 : (4 points)
+
+La drépanocytose est une maladie héréditaire qui touche l’Homme. Une des mutations au niveau du gène qui gouverne la synthèse de l’hémoglobine provoque la déformation des globules rouges du sang et par la suite un appauvrissement en dioxygène au niveau des cellules du corps d’où l’apparition de la maladie. Ce gène se trouve sous forme de deux allèles (H/h). L’un de ces allèles est responsable de la synthèse de l’hémoglobine normale et l’autre est responsable de la synthèse de l’hémoglobine anormale.
+
+Afin d’étudier le mode de transmission de cette maladie chez une famille, on propose les données suivantes :
+
+Le document 1 présente l’arbre généalogique de la famille étudiée dont certains membres sont atteints par la drépanocytose.
+
+[Figure — Document 1, image : arbre généalogique — légende : Homme sain, Femme saine, Homme malade, Femme malade, Fœtus ; générations I (1, 2), II (1 à 7), III (1, 2, 3, 4), 8]
+
+1- En vous basant sur le document 1 :
+
+a- Déterminez le mode de transmission de la maladie. Justifiez votre réponse. (1 pt)
+
+b- Donnez les génotypes des individus II2, II5, III2 et III3. (1 pt)
+
+Utilisez le symbole H pour l’allèle dominant, et le symbole h pour l’allèle récessif.
+
+2- Déterminez la probabilité pour que le couple III2 et III3 donne naissance à un enfant malade. Justifiez votre réponse en utilisant l’échiquier de croisement. (1.25 pt)
+
+Pour déterminer les génotypes de quelques individus de cette famille, on procède à la technique d’électrophorèse qui vise à séparer les deux types d’allèles H et h, dans un champ électrique, comme le montre la figure (a) du document 2. Les résultats de cette électrophorèse, réalisés chez les individus II2, II5, III2 et le fœtus sont indiqués sur la figure (b) du même document.
+
+[Figure — Document 2, image : Figure a (Générateur de tension, Cathode, Anode, Dépôts, Papier imbibé de solution tampon conductrice, Solution tampon conductrice) ; Figure b (Dépôts, Cathode, Anode, Sens de migration, allèles H et h, individus II2, II5, III2, Fœtus)]
+
+3- En vous basant sur le document 2, déterminez le génotype et le phénotype du fœtus et précisez les conséquences sur la descendance de l’individu III3. Justifiez votre réponse. (0.75 pt)
+
+### Exercice 3 : (6 points)
+
+Afin d’étudier la variation du caractère « diamètre de l’œil » chez les poissons-chats (Ameirus melas), on propose les données suivantes :
+
+Donnée 1 : Un éleveur de poissons a mesuré le diamètre de l’œil chez un échantillon de 20 poissons-chats de même âge (Population E1). Les résultats obtenus sont représentés par le document 1.
+
+| Diamètre de l’œil en mm | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1,6 | 7,6 | 4,2 | 3,4 | 5,4 | 2,4 | 5,8 | 4,4 | 3,6 | 4,5 |
+| 4 | 6,4 | 6,2 | 3 | 5,6 | 4,3 | 4,8 | 2 | 4,6 | 3,8 |
+
+Document 1
+
+1- En se basant sur le document 1 et en utilisant des classes d’intervalle de 1 mm (de [1-2[ à [7-8[), réalisez sur votre feuille de rédaction l’histogramme de fréquence et le polygone de fréquence de la distribution du nombre des poissons en fonction du diamètre de l’œil en mm. (2 pts)
+
+Utilisez 1 cm pour chaque classe et 1 cm pour 1 poisson.
+
+2- Calculez la moyenne arithmétique, et l’écart type de cette distribution, en se basant sur un tableau d’application du calcul des paramètres statistiques. (2 pts)
+
+On donne :
+
+$$\bar{X}=\frac{\sum_{i}^{1}\left(f_{i}x_{i}\right)}{n}\qquad et \qquad \sigma=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(x_{i}-\bar{X}\right)^{2}}{n}}$$
+
+Donnée 2 : La comparaison du diamètre de l’œil de deux populations de poisson-chat de races pures, une population de poissons aveugles (P1) et une autre de poissons voyants (P2) ayant une vision normale, montre que le diamètre de l’œil des poissons voyants est six fois plus grand que celui des poissons aveugles. Le document 2 présente les paramètres statistiques calculés chez les deux populations.
+
+| Poisson-chat | Moyenne arithmétique | Ecart-type |
+| --- | --- | --- |
+| Population P1 | 1,22 mm | 0,2 mm |
+| Population P2 | 7,48 mm | 0,22 mm |
+
+Document 2
+
+Donnée 3 : Afin d’obtenir des poissons voyants l’éleveur a réalisé le croisement entre les individus de l’échantillon E1 ayant des yeux de diamètre supérieur à 6 mm. La descendance obtenue (E2) est homogène avec une moyenne arithmétique de 7,46 mm et un écart-type de 0,21 mm.
+
+3- En se basant sur les données 2 et 3 et vos réponses précédentes :
+
+a- Montrez que la sélection artificielle de cet éleveur est efficace. (1 pt)
+
+b- Montrez qu’une sélection artificielle au niveau de la descendance E2 serait inefficace. (1 pt)
+
+Fin

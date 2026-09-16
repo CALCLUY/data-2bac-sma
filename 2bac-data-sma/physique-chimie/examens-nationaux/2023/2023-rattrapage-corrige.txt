@@ -1,0 +1,125 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2023 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2023 - عناصر الإجابة
+RR 31
+المادة: الفيزياء والكيمياء
+شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+مدة الإنجاز: 4h
+المعامل: 7
+
+[Document officiel : عناصر الإجابة (éléments de réponse) accompagnés du barème. Les tableaux du PDF sont reproduits ici sous forme de listes « Question — Elément de réponse — Barème », suivies des références au cadre de référence.]
+
+## Exercice 1 : Chimie (7 points)
+
+Partie 1
+- 1-1 : Equation de la réaction (une seule flèche) — 0,25
+- 1-2 : Démonstration — 0,75
+- 1-3 : VBE = 20 mL ; KA = 1,6.10-4 — 0,25 + 0,25
+- 1-4 : CA = 0,04 mol.L-1 ; C0 = 20 mol.L-1 — 0,25 + 0,25
+- 1-5 : Vérification — 0,5
+- 2-1 : Equation de la réaction — 0,25
+- 2-2 : KA = CA.τ²/(1 − τ) — 0,5
+- 2-3 : τ = 6 % ; Déduction — 0,5 + 0,25
+
+Partie 2
+- 1 : Equation de la réaction ; Méthanoate de méthyléthyle (méthanoate de 1-méthyléthyle) — 0,25 + 0,25
+- 2-1 : Démonstration ; t1/2 = 3 min — 0,25 + 0,25
+- 2-2 : t'1/2 > t1/2 + justification — 0,25
+- 3-1 : K = r²/(1 − r)² — 0,5
+- 3-2 : r = 60 % ; Vérification — 0,25 + 0,25
+- 4 : Méthode ; n1 = 0,24 mol — 0,5 + 0,25
+
+Référence des questions dans le cadre de référence :
+- Ecrire l'équation de la réaction modélisant une transformation acido-basique et identifier les deux couples intervenants.
+- Calculer l'avancement final de la réaction d'un acide avec l'eau, connaissant la valeur de la concentration et du pH de la solution de cet acide, et le comparer à l'avancement maximal.
+- Définir le taux d'avancement final d'une réaction et le déterminer à partir de données expérimentales.
+- Ecrire et utiliser l'expression de la constante d'acidité KA associée à l'équation de la réaction d'un acide avec l'eau.
+- Ecrire l'équation de réaction de dosage (en utilisant une seule flèche).
+- Exploiter la courbe ou les résultats du dosage.
+- Dresser le tableau d'avancement d'une réaction et l'exploiter.
+- Exploiter les différentes courbes d'évolution de la quantité de matière d'une espèce chimique.
+- Définir le temps de demi-réaction t1/2. Déterminer le temps de demi-réaction graphiquement ou en exploitant des résultats expérimentaux.
+- Nommer les esters comportant cinq atomes de carbone au maximum.
+- Connaître les caractéristiques des réactions d'estérification et d'hydrolyse (lentes et limitées).
+- Savoir que le catalyseur est une espèce qui augmente la vitesse d'une réaction chimique sans modifier l'état d'équilibre du système.
+- Savoir que la présence de l'un des réactifs en excès ou l'élimination de l'un des produits déplace l'état d'équilibre du système dans le sens direct.
+- Déterminer la composition du mélange réactionnel à un instant donné. Calculer le rendement d'une transformation chimique.
+
+## Exercice 2 : Transformations nucléaires (2,5 points)
+
+- 1 : Equation de la désintégration ; Radioactivité β− — 0,25 + 0,25
+- 2 : ΔE = 0,282 MeV — 0,5
+- 3-1 : Démonstration — 0,5
+- 3-2 : Déduction — 0,25
+- 4-1 : ta ≈ 5,4.10⁸ ans — 0,5
+- 4-2 : Explication — 0,25
+
+Référence des questions dans le cadre de référence :
+- Connaître et exploiter les deux lois de conservation.
+- Définir les radioactivités α, β−, β+ et l'émission γ.
+- Ecrire l'équation d'une réaction nucléaire en appliquant les deux lois de conservation.
+- Reconnaître le type de radioactivité à partir de l'équation d'une réaction nucléaire.
+- Connaître et exploiter la loi de décroissance radioactive et exploiter sa courbe correspondante.
+- Définir la constante de temps τ et la demi-vie t1/2.
+- Calculer l'énergie libérée (produite) par une réaction nucléaire : Elibérée = |ΔE|.
+- Reconnaître quelques applications de la radioactivité.
+- Déterminer le radioélément convenable pour dater un événement donné.
+
+## Exercice 3 : Electricité (5 points)
+
+Partie 1
+- I-1 : Equation différentielle — 0,5
+- I-2 : E0 = 10 V — 0,25
+- I-3 : Démonstration — 0,25
+- I-4 : r = 10 Ω ; R0 = 40 Ω — 0,25 + 0,25
+
+Partie 2
+- II-1-1 : C = 5 μF — 0,25
+- 1-2 : Méthode ; dEt/dt = −R.i² — 0,5 + 0,25
+- 1-3 : Méthode ; ΔE = 0,31 mJ — 0,5 + 0,5
+- 2-1 : Schéma du montage — 0,5
+- 2-2 : Méthode ; Z = 300 Ω — 0,25 + 0,25
+- 2-3 : cos φ = 0,5 ; P = 1,33.10-2 W — 0,25 + 0,25
+
+Référence des questions dans le cadre de référence :
+- Etablir l'équation différentielle et vérifier sa solution lorsque le dipôle RL est soumis à un échelon de tension.
+- Reconnaître et représenter les courbes de variation, en fonction du temps, de l'intensité du courant i(t) passant dans la bobine et les grandeurs qui lui sont liées et les exploiter.
+- Connaître et exploiter l'expression de la constante de temps.
+- Connaître et exploiter l'expression de la période propre.
+- Connaître et exploiter l'expression de l'énergie totale du circuit.
+- Connaître comment brancher un oscilloscope et un système d'acquisition informatisé pour visualiser les différentes tensions.
+- Connaître et exploiter l'expression de l'impédance Z = U/I du circuit.
+- Connaître le facteur de puissance.
+- Etablir et exploiter l'expression de la puissance moyenne P = U.I.cos φ.
+
+## Exercice 4 : Mécanique (5,5 points)
+
+Partie 1
+- 1-1-1 : Méthode ; RT = 260,2 N — 0,25 + 0,25
+- 1-1-2 : Démonstration — 0,5
+- 1-2 : vℓ = 39,8 m.s-1 ; a0 = 0,663 m.s-2 — 0,25 + 0,25
+- 2 : vx = −38,34.t + 19,9 ; d = 5,16 m — 0,5 + 0,25
+
+Partie 2
+- 1-1 : v(t) = (e.U0/(m.d)).t ; x(t) = (1/2).(e.U0/(m.d)).t² — 0,25 + 0,25
+- 1-2 : Démonstration — 0,5
+- 1-3 : Vérification — 0,5
+- 2-1 : Sens de B⃗ — 0,25
+- 2-2 : Démonstration — 0,5
+- 2-3-1 : Vérification de l'expression — 0,25
+- 2-3-2 : Démonstration ; A = 37 — 0,5 + 0,25
+
+Référence des questions dans le cadre de référence :
+- Appliquer la deuxième loi de Newton pour établir l'équation différentielle du mouvement du centre d'inertie d'un système sur un plan horizontal ou incliné et déterminer les grandeurs cinématiques et dynamiques caractéristiques du mouvement.
+- Appliquer la deuxième loi de Newton pour établir l'équation différentielle du mouvement du centre d'inertie d'un solide en chute verticale avec frottement.
+- Connaître et exploiter les relations F⃗ = q.E⃗ et E = U/d.
+- Appliquer la deuxième loi de Newton dans le cas d'une particule chargée pour : établir les équations différentielles du mouvement ; établir les équations horaires du mouvement et les exploiter ; trouver l'équation de la trajectoire et l'exploiter pour calculer la déflexion électrostatique.
+- Connaître les caractéristiques de la force de Lorentz et la règle pour déterminer son sens.
+- Appliquer la deuxième loi de Newton dans le cas d'une particule chargée se trouvant dans un champ magnétique uniforme, avec B⃗ perpendiculaire à v⃗0, pour : déterminer la nature du mouvement ; calculer la déflexion magnétique.

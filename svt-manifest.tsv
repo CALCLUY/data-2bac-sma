@@ -1,0 +1,36 @@
+section	num	slug	title	element
+transfert	01	cours-partie1	Transfert de l’information génétique au cours de la reproduction sexuée - Cours (Partie 1)	120965
+transfert	02	cours-partie2	Transfert de l’information génétique au cours de la reproduction sexuée - Cours (Partie 2)	120967
+transfert	03	exercices	Transfert de l’information génétique au cours de la reproduction sexuée - Exercices	120969
+transfert	05a	lois-statistiques-transmission-caracteres-hereditaires-cours-partie1	Lois statistiques de la transmission des caractères héréditaires - Cours (Partie 1)	120971
+transfert	05b	lois-statistiques-transmission-caracteres-hereditaires-cours-partie2	Lois statistiques de la transmission des caractères héréditaires - Cours (Partie 2)	120973
+transfert	06	lois-statistiques-transmission-caracteres-hereditaires-cours-partie3	Lois statistiques de la transmission des caractères héréditaires - Cours (Partie 3)	120975
+transfert	07	lois-statistiques-transmission-caracteres-hereditaires-cours-partie4	Lois statistiques de la transmission des caractères héréditaires - Cours (Partie 4)	120977
+transfert	08	lois-statistiques-transmission-caracteres-hereditaires-cours-partie5	Lois statistiques de la transmission des caractères héréditaires - Cours (Partie 5)	120979
+transfert	09	lois-statistiques-transmission-caracteres-hereditaires-exercices	Lois statistiques de la transmission des caractères héréditaires - Exercices	120981
+transfert	10	heredite-humaine-cours-partie1	L’hérédité humaine - Cours (Partie 1)	120983
+transfert	11	heredite-humaine-cours-partie2	L’hérédité humaine - Cours (Partie 2)	120985
+transfert	12	heredite-humaine-cours-partie3	L’hérédité humaine - Cours (Partie 3)	120987
+transfert	13	heredite-humaine-cours-partie4	L’hérédité humaine - Cours (Partie 4)	120989
+transfert	14	heredite-humaine-exercices	L’hérédité humaine - Exercices	120991
+variation	01	biometrie-cours-partie1	Étude quantitative de la variation (La biométrie) - Cours (Partie 1)	121306
+variation	02	biometrie-cours-partie2	Étude quantitative de la variation (La biométrie) - Cours (Partie 2)	121308
+variation	03	biometrie-cours-partie3	Étude quantitative de la variation (La biométrie) - Cours (Partie 3)	121309
+variation	04	biometrie-exercices	Étude quantitative de la variation (La biométrie) - Exercices	121310
+variation	05	genetique-des-populations-cours-partie1	Génétique des populations - Cours (Partie 1)	121311
+variation	06	genetique-des-populations-cours-partie2	Génétique des populations - Cours (Partie 2)	121312
+variation	07	genetique-des-populations-cours-partie3	Génétique des populations - Cours (Partie 3)	121313
+variation	08	genetique-des-populations-cours-partie4	Génétique des populations - Cours (Partie 4)	121314
+variation	10	genetique-des-populations-exercices	Génétique des populations - Exercices	121315
+devoirs	s1-d1-m1	semestre-1-devoir-1-modele-1	Semestre 1 - Devoir 1 - Modèle 1	121071
+devoirs	s1-d1-m2	semestre-1-devoir-1-modele-2	Semestre 1 - Devoir 1 - Modèle 2	138482
+devoirs	s1-d2-m1	semestre-1-devoir-2-modele-1	Semestre 1 - Devoir 2 - Modèle 1	121072
+devoirs	s1-d2-m2	semestre-1-devoir-2-modele-2	Semestre 1 - Devoir 2 - Modèle 2	138569
+devoirs	s1-d3-m1	semestre-1-devoir-3-modele-1	Semestre 1 - Devoir 3 - Modèle 1	121073
+devoirs	s1-d3-m2	semestre-1-devoir-3-modele-2	Semestre 1 - Devoir 3 - Modèle 2	138570
+devoirs	s2-d1-m1	semestre-2-devoir-1-modele-1	Semestre 2 - Devoir 1 - Modèle 1	121316
+devoirs	s2-d1-m2	semestre-2-devoir-1-modele-2	Semestre 2 - Devoir 1 - Modèle 2	141240
+devoirs	s2-d2-m1	semestre-2-devoir-2-modele-1	Semestre 2 - Devoir 2 - Modèle 1	121318
+devoirs	s2-d2-m2	semestre-2-devoir-2-modele-2	Semestre 2 - Devoir 2 - Modèle 2	141239
+devoirs	s2-d3-m1	semestre-2-devoir-3-modele-1	Semestre 2 - Devoir 3 - Modèle 1	121319
+devoirs	s2-d3-m2	semestre-2-devoir-3-modele-2	Semestre 2 - Devoir 3 - Modèle 2	141115

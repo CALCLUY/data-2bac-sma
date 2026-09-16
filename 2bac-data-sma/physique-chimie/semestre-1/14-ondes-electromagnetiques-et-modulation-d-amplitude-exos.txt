@@ -1,0 +1,204 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Ondes électromagnétiques et modulation d'amplitude
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 14 (Ondes électromagnétiques et modulation d'amplitude)
+Professeur : Mr El GOUFIFA Jihad
+
+## VII- Exercices
+
+### 7-1/ Exercice 1
+
+Les ondes sonores audibles ont une faible fréquence, leur transmission à des longues distances nécessite qu'elles soient modulante à une onde électromagnétique de haute fréquence.
+
+#### Modulation
+
+On considéré le montage suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img1.jpg)
+
+Le générateur $\left(\left(\right. G B F \left.\right)\right)_{1}$ applique à l'entrée $E_{1}$ de la composante électronique $X$ une tension sinusoïdale $u_{1} \left(t\right) = P_{m} . cos \left(\frac{2 πt}{T_{P}}\right)$.
+
+Le générateur $\left(\left(\right. G B F \left.\right)\right)_{2}$ applique à l'entrée de la composante électronique $X$ une tension sinusoïdale $u_{2} \left(t\right) = U_{0} + S \left(t\right)$ avec $U_{0}$ la composante continue de la tension et $S \left(t\right) = S_{m} . cos \left(\frac{2 πt}{T_{S}}\right)$ la tension correspondante à l'onde qu'on désire transmettre.
+
+On visualise sur l'écran d'un oscilloscope la tension de sortie $u_{s} \left(t\right) = k . u_{1} \left(t\right) . u_{2} \left(t\right)$ avec $k$ constante positive caractérisant la composante $X$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img2.jpg)
+
+1. Montrer que l'expression de la de la tension s'écrit sous la forme $u_{S} \left(t\right) = A \left[1 + m cos \left(\frac{2 πt}{T_{S}}\right)\right] cos \left(\frac{2 πt}{T_{P}}\right)$ et préciser l'expression de $A$ et celle de $m$.
+
+1. Calculer la valeur de $m$ et déduire la qualité de la modulation.
+
+#### Démodulation
+
+La figure suivante représente le montage utilisé dans un dispositif de réception constitué de trois parties :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img3.jpg)
+
+1. Préciser le rôle de la partie 3 dans ce montage.
+
+1. Déterminer la valeur du produit $L . C$ pour que la sélection de l'onde soit bonne.
+
+1. Montrer que l'intervalle auquel doit appartenir la valeur de la résistance $R$ pour une bonne détection de l'enveloppe de la tension modulante dans ce montage est : $\frac{4 \pi^{2} L}{T_{P}} < < R < \frac{4 \pi^{2} L . T_{S}}{\left(T_{P}\right)^{2}}$
+
+1. Calculer les bornes de cet intervalle sachant que $L = 1 , 5 m H$.
+
+### 7-2/ Exercice 2
+
+#### Modulation
+
+Lors d'une séance de travaux pratiques, un élève réalise des expériences qui illustrent l'émission et la réception d'un signal sinusoïdal de fréquence $f_{m} = 500 H z$.
+
+Pour réaliser une modulation d'amplitude, les élèves utilisent un montage multiplieur (figure ci-dessous) agissant sur les tensions $u_{1} \left(t\right)$ et $u_{2} \left(t\right)$ dont les expressions sont :
+
+$u_{1} \left(t\right) = U_{0} + U_{m} . cos \left(2 \pi f_{m} t\right) \\ \\ u_{2} \left(t\right) = U_{P} . cos \left(2 \pi f_{P} t\right)$
+
+avec $U_{m} . cos \left(2 \pi f_{m} t\right)$ la tension modulante, $U_{0}$ une tension constante positive et $u_{2} \left(t\right)$ la tension porteuse.
+
+Ce montage délivre une tension de sortie $s \left(t\right)$ telle que $s \left(t\right) = k . u_{1} \left(t\right) . u_{2} \left(t\right)$ où $k$ est un coefficient caractéristique du multiplieur :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img4.bmp)
+
+1. Quelle est l'unité du coefficient $k$ ?
+
+La tension de sortie $s \left(t\right)$ peut se mettre sous la forme $s \left(t\right) = A \left[1 + m cos \left(2 \pi f_{m} t\right)\right] cos \left(2 \pi f_{P} t\right)$ avec $A = k . U_{0} . U_{P}$ et $m = \frac{U_{m}}{U_{0}}$ (taux de modulation).
+
+On veut éviter la surmodulation qui se produit lorsque l'amplitude du signal modulant est supérieure à $U_{0}$.
+
+1. Dans quel intervalle de valeurs doit se situer le taux de modulation $m$ pour réaliser une bonne modulation d'amplitude ?
+
+L'élève visualise la tension $s \left(t\right)$ à l'aide d'un oscilloscope, il obtient la courbe suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img5.bmp)
+
+Réglages de l'oscilloscope :
+
+- Balayage : $0 , 5 m s / d i v$
+- Sensibilité verticale : $0 , 5 V / d i v$
+
+1. Montrer que le taux de modulation $m$ peut s'exprimer selon la relation $m = \frac{S_{M} - S_{m}}{S_{M} + S_{m}}$.
+
+Les grandeurs $S_{M}$ et $S_{m}$ sont représentées sur courbe ci-dessus.
+
+1. À partir de la courbe ci-dessus, déduire une valeur numérique approchée de $m$.
+
+1. Vérifier que la fréquence de la porteuse utilisée est $f_{P} = 10 K H z$.
+
+#### Réception du signal modulé et démodulation
+
+La tension $s \left(t\right)$ est appliquée à une antenne qui émet alors un signal électromagnétique reproduisant les mêmes variations que $s \left(t\right)$.
+
+Un peu plus loin, l'élève place une antenne réceptrice servant à capter le signal.
+
+Cette antenne est reliée à un circuit électrique comportant plusieurs parties aux fonctions distinctes :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img6.bmp)
+
+On appelle $u_{f} \left(t\right)$ la tension mesurée en bout de chaîne.
+
+La partie n°1 est constituée d'une bobine d'inductance $L_{0} = 2 , 5 m H$ et d'un condensateur de capacité $C_{0}$ ajustable, l'ensemble constituant un dipôle $L_{0} C_{0}$ en dérivation.
+
+Ce dipôle oscille avec une fréquence propre dont l'expression est $f_{0} = \frac{1}{2 \pi \sqrt{L_{0} C_{0}}}$.
+
+On rappelle que la fréquence de la porteuse est $10 K H z$ et celle du signal modulant est $500 H z$.
+
+1. Quelle est la fonction de cette partie dans le montage ?
+
+1. Quelle valeur doit-on choisir pour $C_{0}$ pour que cette fonction soit effectivement remplie ?
+
+La partie n°2 comprend une diode, un conducteur ohmique de résistance $R$ et un condensateur de capacité $C$. Cet ensemble constitue ce que l'on appelle un détecteur de crête. Sa fonction est d'obtenir une tension proportionnelle à la tension $u_{1} \left(t\right)$ de la partie modulation.
+
+1. Quelle condition doit remplir la constante de temps du dipôle $R C$ pour obtenir une bonne démodulation ?
+
+1. Sachant que $C = 500 n F$, choisir parmi les valeurs suivantes, la valeur de $R$ qui vous paraît la mieux convenir pour remplir convenablement cette fonction : $20 \Omega ; 200 \Omega ; 2 , 0 K \Omega ; 20 K \Omega$.
+
+1. Quel est le rôle de la partie n°3 ?
+
+### 7-3/ Exercice 3
+
+#### Modulation d'amplitude
+
+Pour envoyer un signal on utilise le montage représenté dans la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img7.bmp)
+
+On applique à l'entrée $E_{1}$ une tension $v \left(t\right) = V_{m} . cos \left(2 πFt\right)$.
+
+Le signal à envoyer est $s \left(t\right) = S_{m} . cos \left(2 \pi f t\right)$, on lui ajoute une tension continue $U_{0}$ et on obtient $u \left(t\right) = s \left(t\right) + U_{0}$.
+
+On applique à l'entrée $E_{2}$ la tension $u \left(t\right)$, et à l'aide d'un système d'acquisition branché à la sortie $S$ on obtient la tension $u_{S} \left(t\right)$ représentée dans la suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img8.bmp)
+
+1. Pourquoi il est important de moduler un signal avant de le transmettre ?
+
+1. Comment s'appelle le composant électronique utilisé pour réaliser la modulation d'amplitude ? Quelle est son rôle ?
+
+1. Pourquoi faut-il ajouter une tension de décalage au signal à transmettre ?
+
+On obtient à la sortie du montage précédent la tension $u_{S} \left(t\right) = k . u \left(t\right) . v \left(t\right)$.
+
+1. Que représente $k$ ? Quelle est son unité ?
+
+1. Montrer que la tension $u_{S} \left(t\right)$ s'écrit sous la forme $u_{S} \left(t\right) = A \left[1 + m . cos \left(2 \pi f t\right)\right] cos \left(2 \pi F t\right)$. Déduire l'expression de $A$ et $m$.
+
+1. Quelles sont les conditions pour obtenir une bonne modulation ?
+
+1. En exploitant la figure précédente déterminer $f$ et $F$.
+
+#### Démodulation
+
+On utilise le montage de démodulation suivant qui se compose de trois parties (a), (b) et (c) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img9.bmp)
+
+1. Donner le nom du circuit représenté dans la partie (a) et préciser son rôle.
+
+1. Quelle le rôle de la diode dans ce montage ?
+
+1. Quelle est le rôle du circuit $R ' C '$ montés en parallèle ?
+
+1. Quelle est le rôle du circuit $R ' ' C ' '$ montés en série ?
+
+1. Assurez vous que le circuit $L C$ est réglé pour recevoir le signal envoyé lorsque $L = 62 m H$. (on donne $C = 1 n F$).
+
+1. Quelle le but de la démodulation ?
+
+1. Quelle est le rôle de chacune des parties (a), (b) et (c) dans le montage de démodulation ?
+
+On lie la tension modulé us à l'entrée d'un oscilloscope et la tension $s \left(t\right)$ à l'autre entrée de l'oscilloscope puis on utilise le mode XY, on obtient sur l'écran de l'oscilloscope un signal en forme d'un trapèze :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img10.jpg)
+
+1. En utilisant la méthode du trapèze déterminer la valeur du taux de modulation.
+
+1. Est-ce que la modulation est bonne ou non ?
+
+### 7-4/ Exercice 4
+
+La figure suivante représente le circuit de modulation d'amplitude utilisé pour transmettre un signal sinusoïdal $s \left(t\right) = S_{m} cos 2 πf . t$ à l'aide d'une onde porteuse de haute fréquence : $p \left(t\right) = P_{m} cos 2 \pi F . t$
+
+On donne $f = 1 k H z$ et $F = 20 k H z$.
+
+On applique, à l'entrée $E_{1}$ du multiplieur la tension $u_{1} \left(t\right) = s \left(t\right) + U_{0}$ et à l'entrée $E_{2}$ la tension $u_{2} \left(t\right) = p \left(t\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img44.jpg)
+
+La tension obtenue à la sortie est : $u_{S} \left(t\right) = k . u_{1} \left(t\right) . u_{2} \left(t\right)$
+
+Sur l'écran d'un oscilloscope bi-courbe, on obtient les tensions $u_{1} \left(t\right)$ et $u_{S} \left(t\right)$. Et en utilisant le mode $\left(\right. X — Y \left.\right)$ pour éliminer le temps, on visualise $u_{S} \left(t\right)$ en fonction de $u_{1} \left(t\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img45.jpg)
+
+1. Montrer que le coefficient de modulation défini par le rapport $m = \frac{S_{m}}{U_{0}}$ peut être exprimé par la relation suivante : $m = \frac{H - h}{H + h}$, $H$ étant la distance $C D$ et $h$ étant la distance $A B$.
+
+1. Calculer $m$. Que peut-on déduire ?
+
+1. Déterminer, en exploitant le graphe, la valeur de $S_{m}$ (amplitude du signal à transmettre).
+
+1. En déduire la valeur de la tension de décalage.

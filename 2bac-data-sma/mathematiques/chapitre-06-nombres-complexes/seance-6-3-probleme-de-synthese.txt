@@ -1,0 +1,37 @@
+---
+Chapitre: Chapitre 6 : Nombres complexes
+Séance: Séance 6-3 : Nombres complexes - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 6-3 : Nombres complexes - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+Le plan complexe est muni d'un repère orthonormé direct $\left(O ; \overset{\rightarrow}{u} ; \overset{\rightarrow}{v}\right)$.
+
+On considère l'application $r$ qui à chaque point $M \left(\right. z \left.\right)$ du plan, associe le point $M_{1} \left(\right. z_{1} \left.\right)$ tel que $z_{1} = \frac{1 + i \sqrt{3}}{2} z + \frac{\sqrt{3} + i}{2}$
+
+Et on considère l'application $h$ qui à chaque point $M \left(\right. z \left.\right)$ du plan, associe le point $M_{2} \left(\right. z_{2} \left.\right)$ tel que $z_{2} = - 2 z + 3 i$.
+
+Et on pose : $F = h \circ r$
+
+1. Déterminer la nature de chacune des applications $r$ et $h$ et déterminer les éléments caractéristiques de chacune d'elles.
+
+On considère les points $\Omega \left(i\right)$ et $A \left(a\right)$ où $a$ est un nombre complexe différent de $i$.
+
+On pose $B = F \left(A\right)$, $C = F \left(B\right)$ et $D = F \left(C\right)$.
+
+2. Montrer que si $M ' \left(\right. z ' \left.\right)$ est l'image du point $M \left(\right. z \left.\right)$ par l'application $F$, alors $z ' - i = 2 e^{i \frac{4 \pi}{3}} \left(z - i\right)$.
+
+3. Vérifier que $\Omega$ est l'unique point invariant par l'application $F$ (c'est-à-dire : $F \left(\Omega\right) = \Omega$)
+
+4. Déterminer en fonction du nombre $a$, les nombres complexes $b$, $c$ et $d$, affixes respectives des points $B$, $C$ et $D$.
+
+5. Montrer que les points $\Omega$, $A$ et $D$ sont alignés.
+
+6. Montrer que $\Omega$ est le barycentre du système pondéré $\left\{\left(B ; 4\right) ; \left(C ; 2\right) ; \left(D ; 1\right)\right\}$.
+
+7. Déterminer l'ensemble des points $A \left(\right. a \left.\right)$ pour que le point $D$ appartienne à l'axe réel.

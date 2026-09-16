@@ -1,0 +1,283 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2019 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+Modèle de correction d'examen national — session juillet 2019
+Physique-chimie — Sciences math A et B
+Prof : Marwane CHARGUI
+
+[NOTE : corrigé rédigé par un enseignant. Le PDF d'origine compose les formules en images/objets ; elles ont été restituées en notation linéaire fidèle aux étapes du document. Les sujets 2019 (normale sujet, normale corrigé, rattrapage sujet) sont des scans image non extractibles.]
+
+## Exercice 1 : Chimie
+
+### Partie 1
+
+1- Les coordonnées du point d'équivalence : pHE = 6,2 ; VAE = 10 mL
+
+2- A l'équivalence : nA = nB ⇒ CB.VB = CA.VAE ⇒ CA = CB.VB/VAE = 2.10-2 mol.L-1
+
+3- L'indicateur qui convient au dosage colorimétrique c'est le bleu de bromothymol, car 6 < pHE < 7,6.
+
+4- L'équation modélisant la réaction du dosage :
+
+CH3NH2 + H3O+ → CH3NH3+ + H2O
+
+5- Tableau d'avancement :
+
+| Equation de la réaction | CH3NH2 + H3O+ → CH3NH3+ + H2O | | | |
+| --- | --- | --- | --- | --- |
+| Etat du système | Avancement | n(CH3NH2) | n(H3O+) | n(CH3NH3+) |
+| Etat initial | 0 | CB.V | CA.VA | 0 (eau en excès) |
+| Etat intermédiaire | x | CB.V − x | CA.VA − x | x |
+| Etat final | xm | CB.V − xm | CA.VA − xm | xm |
+
+On a la relation entre pH et pKA : pH = pKA + log([CH3NH2]/[CH3NH3+])
+
+Pour VA < VAE le réactif limitant est les ions oxonium H3O+ donc xm = CA.VA
+
+n(CH3NH2) = CB.V − xm = CB.V − CA.VA
+
+A l'équivalence on a CB.V = CA.VAE donc n(CH3NH2) = CA.VAE − CA.VA = CA.(VAE − VA)
+
+et n(CH3NH3+) = xm = CA.VA
+
+alors : pH = pKA + log(CA.(VAE − VA)/(CA.VA)) = pKA + log((VAE − VA)/VA) = pKA + log(VAE/VA − 1)
+
+soit pH = pKA + log(1/y − 1) avec y = VA/VAE
+
+6- La valeur de y pour que pH = pKA :
+
+pH = pKA ⇒ log(1/y − 1) = 0 ⇒ 1/y − 1 = 1 ⇒ y = 1/2
+
+La valeur de pKA : on prend la valeur de pH quand VA = VAE/2 ; on trouve pH = 10,5 alors pKA = 10,5
+
+7-1- CH3NH2 + H2O ⇄ CH3NH3+ + HO-
+
+7-2- Le taux d'avancement de la réaction : τ = xf/xm
+
+Quand l'eau est en excès donc le réactif limitant est CH3NH2 et xm = C.V
+
+D'après le tableau d'avancement : xf = n(HO-) = [HO-].V = (Ke/[H3O+]).V = 10^(pH−14).V
+
+alors : τ = 10^(pH−14)/C = 10^(11,4−14)/(2.10-2) ≈ 12,5%
+
+On déduit que la réaction n'est pas totale.
+
+### Partie II
+
+1- La formule semi-développée de l'éthanoate de propyle : CH3−COO−CH2−CH2−CH3
+
+2-1- On a x(t1/2) = xf/2. Et d'après le tableau d'avancement : x = [CH3COO-].VT
+
+x(t1/2) = [CH3COO-]1/2.VT et xf = [CH3COO-]f.VT
+
+Donc [CH3COO-]1/2 = [CH3COO-]f/2 = 4/2 = 2 mmol.L-1
+
+Graphiquement on trouve : t1/2 (courbe 1) = 4,8 min
+
+2-2- On a t1/2 = 1,6 min : la courbe correspondante est (c), car t1/2(c) < t1/2(1).
+
+2-3- Expression de la vitesse volumique en fonction de la concentration [CH3COO-] :
+
+on a v = (1/VT).dx/dt et x = [CH3COO-].VT alors v = d[CH3COO-]/dt
+
+v = (2 − 3).10-3/(3,2 − 4,8) ... = 6,25.10-4 mol.L-1.min-1
+
+2-4- Expression du quotient de la réaction : Qr,t = [CH3COO-]t/[HO-]t
+
+D'après le tableau d'avancement : [CH3COO-]t = x/VT
+
+et [HO-]t = (C.V − 2x)/VT = C − 2.[CH3COO-]t
+
+donc : Qr,t = [CH3COO-]t/(C − 2.[CH3COO-]t)
+
+A t1/2 : Qr = 2.10-3/(5.10-3 − 2×2.10-3) ≈ 0,44
+
+2-5- Le rendement de la réaction : r = nexp/nth
+
+nexp = xf = [CH3COO-]f.VT et comme le mélange est équimolaire donc nth = xm = C.VT
+
+Alors : r = [CH3COO-]f.VT/(C.VT) = ... = 8.10-3/10-2 = 80%
+
+## Exercice 2 : Les ondes
+
+1- La courbe (1) représente l'aspect de la corde à l'instant t1.
+
+2- Réponse : b
+
+3-1- λ = 40 cm et T = 8.10-2 s ⇒ v = λ/T = 40.10-2/8.10-2 = 5 m.s-1
+
+3-2- Le retard temporel : τ = SM/v = 80.10-2/5 = 16.10-2 s
+
+4-1- Analyse dimensionnelle : [F] = M.L.T-2 ; [μ] = M.L-1 ; [v] = L.T-1 ⇒ [√(F/μ)] = √(M.L.T-2/(M.L-1)) = L.T-1 = [v] ✔
+
+4-2- La corde n'est pas un milieu dispersif, car la célérité ne dépend pas de la fréquence.
+
+4-3- On a v = √(F/μ) donc F = μ.v2 = μ.λ2.N2
+
+⇒ λ2 = F/(μ.N2) ⇒ ... λ = ... = 56,56 cm (calcul mené avec λ = v/N et v = √(F/μ))
+
+## Exercice 3 : Electricité
+
+### Étude du dipôle RC
+
+1-1- Selon la loi d'additivité des tensions : uR1 + uAB = E ⇒ R1.i + uAB = E
+
+Et i = dq/dt = Céq.duAB/dt = (C1.C2/(C1 + C2)).duAB/dt
+
+donc : R1.(C1.C2/(C1 + C2)).duAB/dt + uAB = E
+
+1-2- On a uAB(t) = U0 + (U0(0) − U0).e−α.t ... ; en portant la solution uAB(t) = U0.(1 − e−α.t) dans l'équation différentielle on obtient :
+
+α = (C1 + C2)/(R1.C1.C2) et U0 = E, avec uAB(0) = 0
+
+1-3-1- E = 24 V
+
+1-3-2- De R1.C1.C2/(C1 + C2) = τ avec les valeurs lues sur les graphes :
+
+τ = 0,2 ... ⇒ C1 = ... = 1,5.10-6 F et C2 = 4.10-6 F ... (valeurs obtenues en résolvant le système sur R1, C1, C2)
+
+1-4- On a uAB = uC1 + uC2 avec uC1 = C2.uAB/(C1 + C2) et q1 = C1.uC1
+
+Donc : q(t) = (C1.C2/(C1 + C2)).U0.(1 − e−α.t)
+
+### Étude des oscillations électriques
+
+2-1- Selon la loi d'additivité des tensions : u1 + u2 + ub = 0
+
+On dérive la loi : du1/dt + du2/dt + dub/dt = 0
+
+On a : du1/dt = i/C1 = uR2/(R2.C1) ; du2/dt ; ub = r.i + L.di/dt = (r/R2).du2/dt + (L/R2).d2u2/dt2
+
+Donc l'équation vérifiée par u2(t) est :
+
+(L/R2).d2u2/dt2 + ((r + R2)/R2).du2/dt + u2/(R2.C1) = 0
+
+soit : d2u2/dt2 + ((r + R2)/L).du2/dt + u2/(L.C1) = 0
+
+2-2- La valeur du condensateur C1 : T0 = 2π.√(L.C1) ⇒ C1 = T02/(4π2.L) = 2.10-6 F = 2 μF (avec T0 lue sur le graphe, T0 = 600 μs ... )
+
+2-3- Selon la loi d'additivité des tensions avec le générateur : u1 + u2 + ub = ug
+
+q/C + R2.dq/dt + L.d2q/dt2 + r.dq/dt = k.dq/dt
+
+⇒ L.d2q/dt2 + (R2 + r − k).dq/dt + q/C = 0
+
+Pour obtenir des oscillations entretenues il faut que R2 + r − k = 0 donc k = R2 + r = 42 Ω
+
+### Étude des oscillations forcées
+
+3-1- [Réponse graphique]
+
+3-2- A la résonance on a : UAB = Z.Im = (R + r).Im et UR = R.Im
+
+Donc : UAB/UR = (R + r)/R ⇒ r = R.(UAB/UR − 1) = 40×(15/... − 1) ... = 10 Ω (avec R = 40 Ω)
+
+3-3- La puissance moyenne dissipée : P = (R + r).I2 = (R + r).(Um/R)2/2 ... ≈ 0,25 W
+
+## Exercice 4 : Mécanique
+
+### Partie 1
+
+#### Situation A
+
+1- Le système est soumis à : P⃗ le poids du corps, R⃗ la réaction du plan incliné, T⃗ la tension du ressort.
+
+Par application de la 1ère loi de Newton : ΣF⃗ext = 0⃗ ⇒ P⃗ + R⃗ + T⃗ = 0⃗
+
+On projette sur l'axe Ox : Px + Rx + Tx = 0
+
+m.g.sin α − K.Δℓe = 0 ⇒ Δℓe = m.g.sin α/K
+
+2-1- L'expression de l'énergie potentielle :
+
+- énergie potentielle de pesanteur : Epp = m.g.z + C avec z(0) = 0 et Epp(0) = 0 ⇒ C = 0
+  Epp = m.g.z = m.g.x.sin α
+- énergie potentielle élastique : Epe = (1/2).K.Δℓ2 + C avec C = 0
+  Epe = (1/2).K.(Δℓe + x)2
+
+Donc : Ep = Epp + Epe = m.g.x.sin α + (1/2).K.(Δℓe + x)2
+
+= m.g.x.sin α + (1/2).K.x2 + K.Δℓe.x + (1/2).K.Δℓe2
+
+A l'équilibre on a m.g.sin α = K.Δℓe donc :
+
+Ep = (1/2).K.x2 + (1/2).K.Δℓe2 (à une constante près selon l'orientation)
+
+2-2- L'équation différentielle :
+
+Em = Ec + Ep = (1/2).m.(dx/dt)2 + (1/2).K.x2 + (1/2).K.Δℓe2
+
+dEm/dt = 0 ⇒ m.(dx/dt).(d2x/dt2) + K.x.(dx/dt) = 0
+
+Avec dx/dt ≠ 0 : m.d2x/dt2 + K.x = 0 ⇒ d2x/dt2 + (K/m).x = 0
+
+2-3- On trouve l'expression de la vitesse :
+
+V(t) = dx/dt = −Xm.(2π/T0).sin((2π/T0).t + φ)
+
+On détermine la valeur de φ : V(0) = 0 ⇒ sin(φ) = 0 ⇒ φ = 0
+
+Alors : V(t) = −Xm.(2π/T0).sin((2π/T0).t)
+
+Lorsque le corps passe par la position d'équilibre la vitesse prend une valeur maximale. Dans notre cas le corps va vers le sens positif donc V > 0 :
+
+V = Xm.(2π/T0) = d.√(K/m) ≈ 0,632 m.s-1
+
+#### Situation B
+
+1- Le système est soumis à P⃗ le poids du corps.
+
+Par application de la 2ème loi de Newton : P⃗ = m.a⃗G ⇒ a⃗G = g⃗
+
+On projette sur les axes du repère : ax = 0 ; ay = −g
+
+Par intégration : Vx = C1 ; Vy = −g.t + C'1
+
+en utilisant les conditions initiales, on trouve : C1 = V01.cos α1 ; C'1 = V01.sin α1
+
+donc : Vx = V01.cos α1 ; Vy = −g.t + V01.sin α1
+
+Par intégration : x1(t) = V01.cos α1.t + C ; y1(t) = −(1/2).g.t2 + V01.sin α1.t + C'
+
+en utilisant les conditions initiales : C = C' = 0
+
+donc : x1(t) = V01.cos α1.t ; y1(t) = −(1/2).g.t2 + V01.sin α1.t
+
+2- L'expression de l'équation de trajectoire :
+
+À partir de x1(t) = V01.cos α1.t on élimine le temps : t = x1/(V01.cos α1)
+
+On remplace t dans y1(t) : y1 = −(1/2).g.x12/(V012.cos2α1) + tan α1.x1
+
+3- Calcul de la portée xP1 :
+
+Au point P on a yP = 0 donc : −(1/2).g.xP2/(V012.cos2α1) + tan α1.xP = 0
+
+⇒ xP = 2.V012.cos2α1.tan α1/g = V012.sin(2α1)/g ≈ 34 cm
+
+On a xP1 > x1 (largeur de la cuve) donc le corps (S) tombe dans la cuve d'eau.
+
+### Partie II
+
+1-1- P0 = m.g0 et FT/S = G.MT.m/RT2
+
+on a P0 = FT/S donc g0 = G.MT/RT2
+
+1-2- MT = g0.RT2/G = 9,8×(6400.103)2/(6,67.10-11) ≈ 6.1024 kg
+
+2-1- Par application de la 2ème loi de Newton sur (S) :
+
+F⃗T/S = mS.a⃗S ⇒ a⃗S = G.MT/(RT + h)2 . n⃗
+
+On projette sur la normale : VS2/(RT + h) = G.MT/(RT + h)2 ⇒ VS2 = G.MT/(RT + h) … (1)
+
+Comme le mouvement de (S) est circulaire uniforme donc : VS = 2π.(RT + h)/TS … (2)
+
+D'après (1) et (2) on trouve : TS2 = 4π2.(RT + h)3/(G.MT)
+
+2-2- Calculons la masse de la Terre : MT = 4π2.(RT + h)3/(G.TS2) ≈ 6.1024 kg

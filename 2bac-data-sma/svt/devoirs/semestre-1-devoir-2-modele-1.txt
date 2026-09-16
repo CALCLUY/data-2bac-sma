@@ -1,0 +1,126 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Devoirs
+Sujet: SVT 2Bac SMA - Semestre 1 Devoir 2 Modèle 1
+Type: Devoir
+Source: 
+---
+
+SVT : 2 Bac SMA
+Semestre 1 Devoir 2 Modèle 1
+Professeur : Mr BAHSINA Najib
+
+1/6
+
+### I- Restitution des connaissances (10 pts)
+
+#### 1-1/ Exercie 1 (3 pts)
+
+1. Définissez :
+
+Cellule haploïde :
+
+Homozygote :
+
+Monohybridisme :
+
+Caractère lié au sexe :
+
+2. Citez deux caractéristiques de la méose :
+
+3. Citez deux caractéristiques d’un individu hétérozygote :
+
+2/6
+
+### I- Restitution des connaissances (10 pts)
+
+#### 1-2/ Exercie 2 (3 pts)
+
+Répondez par "Vrai" ou "Faux" :
+
+La division équationnelle s’accompagne d’une réduction du nombre de chromosome et de la quantité d’ADN : ___________
+
+Deux cellules de même formule chromosomique peuvent ne pas avoir la même quantité d’ADN : ___________
+
+Dans un cycle haplodiplophasique, la méiose aboutit à la formation de spores : ___________
+
+3/6
+
+### I- Restitution des connaissances (10 pts)
+
+#### 1-3/ Exercie 3 (4 pts)
+
+Pour chacune des données suivantes, il y’a une seule suggestion correcte :
+
+A- Dans le cas d'un monohybridisme avec une codominance, le croisement entre des parents hybrides pour le caractère étudié donne une génération formée de :
+
+1. Deux types de phénotypes dont les proportions sont 75% et 25%.
+2. Deux types de phénotypes dont les proportions sont 50% et 50%.
+3. Trois types de phénotypes dont les proportions sont 50%, 25% et 25%.
+4. Quatre types de phénotypes équiprobables.
+
+B- Dans le cas d'un monohybridisme, lorsque le croisement entre des parents de même phénotype pour le caractère étudié donne une génération hétérogène formée de deux types de phénotypes dont les proportions sont 50% et 50%. on peut déduire que:
+
+1. Il s'agit d'un cas de codominance.
+2. Les deux parents croisés appartiennent à la même race pure pour le caractère étudié.
+3. L’un des parents est hybride. l’autre est de race pure pour le caractère étudié.
+4. Les deux parents sont, tous les deux, homozygotes pour le caractère étudié.
+
+C- Dans le cas d'un monohybridisme. lorsque le croisement entre des parents de même phénotype pour le caractère étudié donne une génération hétérogène formée de 75% d'individus mâles et femelles avec le même phénotype des parents et de 25% d"individus mâles avec un phénotype différent de celui des parents, on peut déduire que :
+
+1. C’est une exception à la première loi de Mendel.
+2. Chacun des parents croisés est hétérozygote.
+3. Le caractère étudié est lié au sexe.
+4. Le caractère étudié est non lié au sexe (caractère autosomal).
+
+D- Chez les organismes diploïdes, la méiose est une étape dans la formation des gamètes. Parmi ses caractéristiques, on peut citer :
+
+1. La division réductionnelle aboutit à des cellules haploïdes après séparation des chromatides à l'anaphase I.
+2. La division réductionnelle aboutit à des cellules haploïdes après séparation des chromatides à l'anaphase II.
+3. Les deux divisions de la méiose aboutissent à des cellules haploïdes mais de quantités d’ADN différentes.
+4. Les deux divisions de la méiose aboutissent à des cellules haploïdes de même quantité d’ADN.
+
+4/6
+
+### II- Raisonnement scientifique et communication écrite et graphique (10 pts)
+
+#### 2-1/ Exercice 4 (6 pts)
+
+On croise  des drosophiles à ailes longues avec des drosophiles à ailes vestigiales (réduites).
+
+A la première génération, F1, toutes les mouches obtenues ont les ailes longues.
+
+En croisant entre elles les drosophiles à ailes longues de la F1 on obtient à la deuxième génération F2 pour 100 mouches comptées :
+
+- 77 drosophiles à ailes longues
+- 23 drosophiles à ailes vestigiales
+
+1. Comment peut on interpréter les résultats obtenus en F1 et F2 ?
+
+2. Comment procéder pour connaître le génotype des mouches à ailes longues de la F2 ?
+
+3. Qu’obtiendra-t-on à la F1 en croisant :
+
+$\alpha$ : les drosophiles à ailes vestigiales de la F2 entre elles ?
+
+$\beta$ : les drosophiles à ailes longues de la F2 entre elles ?
+
+5/6
+
+### II- Raisonnement scientifique et communication écrite et graphique (10 pts)
+
+#### 2-2/ Exercice 5 (4 pts)
+
+Une souris jaune croisée avec une souris jaune donne une descendance comprenant :
+
+- 2/3 de souris jaunes
+- 1/3 de souris noires
+
+Une souris jaune croisée avec une souris noire donne en nombre égal des souris jaunes et des souris noires.
+
+Une souris noire croisée avec une souris noire donne uniquement des souris noires.
+
+1. Interpréter les résultats du premier  et de deuxiéme  croisement.
+
+6/6

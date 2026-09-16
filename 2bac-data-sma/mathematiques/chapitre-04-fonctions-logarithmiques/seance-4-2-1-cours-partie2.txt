@@ -1,0 +1,65 @@
+---
+Chapitre: Chapitre 4 : Fonctions logarithmiques
+Séance: Séance 4-2-1 : Fonctions logarithmiques - Partie 2 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 4-2-1 : Fonctions logarithmiques - Partie 2 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+III- Fonction logarithme de base a
+3-1/ Définition et propriétés
+3-2/ Courbe de la fonction $log_{a}$
+3-3/ Logarithme décimal
+
+#### 3-1/ Définition et propriétés
+
+Définition 3
+
+Soit a un réel strictement positif et différent de 1.
+
+La fonction logarithme de base a est la fonction numérique, notée par $log_{a}$, définie sur $\left]\right. 0 ; + \infty \left[\right.$ par :
+
+$$log_{a} \left(x\right) = \frac{ln \left(x\right)}{ln \left(a\right)}$$
+
+Remarques
+
+1- La fonction logarithme de base e est la fonction logarithme népérien car pour tout réel x strictement positif :
+
+$$log_{e} \left(x\right) = \frac{ln \left(x\right)}{ln \left(e\right)} = ln \left(x\right)$$
+
+2- On a : $log_{a} \left(a\right) = 1$ et $log_{a} \left(1\right) = 0$ et $log_{a} \left(a^{r}\right) = r$ pour $r \in \mathbb{Q}$.
+
+3- Pour tout $x \in \mathbb{R}_{+}^{\star}$ : $log '_{a} \left(x\right) = \frac{1}{x . ln \left(a\right)}$
+
+* Si $a > 1$, alors la fonction $log_{a}$ est strictement croissante sur $\left]\right. 0 ; + \infty \left[\right.$.
+* Si $0 < a < 1$, alors la fonction $log_{a}$ est strictement décroissante $\left]\right. 0 ; + \infty \left[\right.$.
+
+Proposition 10
+
+Pour tous réels strictement positifs $x$ et $y$, et pour tout $r \in \mathbb{Q}$ on a :
+
+$$log_{a} \left(x y\right) = log_{a} \left(x\right) + log_{a} \left(y\right) \\ \\ log_{a} \left(x^{r}\right) = r . log_{a} \left(x\right) \\ \\ log_{a} \left(\frac{1}{x}\right) = - log_{a} \left(x\right) \\ \\ log_{a} \left(\frac{x}{y}\right) = log_{a} \left(x\right) - log_{a} \left(y\right)$$
+
+Pour tout $n \in \mathbb{N} \star$ et pour tous réels strictement positifs $x_{1} , x_{2} , . . . , x_{n}$, on a :
+
+$$log_{a} \left(x_{1} . x_{2} . . . . x_{n}\right) = log_{a} \left(x_{1}\right) + log_{a} \left(x_{2}\right) + . . . . + log_{a} \left(x_{n}\right)$$
+
+#### 3-2/ Courbe de la fonction $log_{a}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : https://www.alloschool.com/files/premium/maths/2bac-sm/s4/img3.jpg)
+
+#### 3-3/ Logarithme décimal
+
+Définition 4
+
+La fonction logarithme de base 10 est appelée la fonction logarithme décimal. On la note $log$.
+
+On a alors pour tout $x \in \mathbb{R}_{+}^{\star}$ :
+
+$$log \left(x\right) = log_{10} \left(x\right) = \frac{ln \left(x\right)}{ln \left(10\right)}$$

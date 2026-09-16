@@ -1,0 +1,119 @@
+---
+Chapitre: Chapitre 11 : Espaces vectoriels
+Séance: Séance 11-2 : Espaces vectoriels (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 11-2 : Espaces vectoriels (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 4-1/ Exercice 1
+
+On munit $\mathbb{R}_{+}^{\star}$ d'une loi de composition interne $\times$ et d'une loi de composition externe $\cdot$ comme suit :
+
+- La loi $\times$ est la multiplication usuelle dans $\mathbb{R}_{+}^{\star}$.
+
+- $\left(\forall \lambda \in \mathbb{R}\right) \left(\forall x \in \mathbb{R}_{+}^{\star}\right) \lambda \cdot x = x^{\lambda}$
+
+1. $\left(\mathbb{R}_{+}^{\star} ; \times ; \cdot\right)$ est-il un espace vectoriel réel ?
+
+#### 4-2/ Exercice 2
+
+On considère l'ensemble suivant :
+
+$$E = \begin{Bmatrix} M = \begin{bmatrix} a & c & b \\ b & a + c & b + c \\ c & b & a + c \end{bmatrix} / \left(a ; b ; c\right) \in \mathbb{R}^{3} \end{Bmatrix}$$
+
+On pose :
+
+$$I = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} ; J = \begin{bmatrix} 0 & 0 & 1 \\ 1 & 0 & 1 \\ 0 & 1 & 0 \end{bmatrix} ; K = \begin{bmatrix} 0 & 1 & 0 \\ 0 & 1 & 1 \\ 1 & 0 & 1 \end{bmatrix}$$
+
+1. Vérifier que $J^{2} = K$ et $K^{2} = J + K$ et $J K = K J = I + J$.
+
+2. Montrer que $\left(E ; + ; \cdot\right)$ est un espace vectoriel réel, et déterminer sa dimension.
+
+3. Montrer que $\left(E ; + ; \times\right)$ est un anneau commutatif.
+
+4. Déterminer $J^{- 1}$.
+
+#### 4-3/ Exercice 3
+
+##### Partie A
+
+On définit dans $\mathbb{C}$ une loi de composition interne $\star$ comme suit :
+
+Pour tout $\left(a ; b ; x ; y\right) \in \mathbb{R}^{4} , \left(a + i b\right) \star \left(x + i y\right) = a x + i \left(a y + b x\right)$
+
+1. Montrer que la loi $\star$ est commutative, associative et admettant un élément neutre qu'on déterminera.
+
+2. Déterminer $G$, ensemble des éléments symétrisables pour la loi $\star$ et montrer que $\left(G ; \star\right)$ est un groupe commutatif.
+
+Soit $H$ une partie de $\mathbb{C}$ telle que $H \neq \left\{0\right\}$.
+
+3. Montrer que si $\left(H ; \star\right)$ est groupe alors $H \subset G$.
+
+4. Montrer que l'ensemble $E$ définie par $E = \left\{e^{t} + i t e^{t} / t \in \mathbb{R}\right\}$ est un sous-groupe de $\left(G ; \star\right)$.
+
+5. Montrer que $\left(\forall z \in G\right) \bar{z} \in G$
+
+6. Montrer que l'application $f : z \rightarrowtail \bar{z}$ est un automorphisme de $\left(G ; \star\right)$.
+
+7. Montrer que $\star$ est distributive par rapport à l'addition dans $\mathbb{C}$.
+
+8. Montrer que $\left(\mathbb{C} ; + ; \star\right)$ est un anneau non intègre.
+
+9. Déterminer les diviseurs de zéro dans l'anneau $\left(\mathbb{C} ; + ; \star\right)$.
+
+##### Partie B
+
+On considère l'ensemble $\mathcal{E}$ suivant :
+
+$$\mathcal{E} = \begin{Bmatrix} M \left(a ; b\right) = \begin{bmatrix} a & - b \\ 0 & a \end{bmatrix} / \left(a ; b\right) \in \mathbb{R}^{2} \end{Bmatrix}$$
+
+1. Montrer que $\left(\mathcal{E} ; + ; \cdot\right)$ est un espace vectoriel réel et en déterminer une base.
+
+2. Montrer que $\mathcal{E}$ est stable dans $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; \times\right)$.
+
+3. Montrer que l'application $f : z = a + i b \rightarrowtail M \left(a ; b\right)$ est un isomorphisme de $\left(\mathbb{C} ; \star\right)$ dans $\left(\mathcal{E} ; \times\right)$.
+
+4. En déduire l'ensemble des matrices admettant un inverse dans $\left(\mathcal{E} ; \times\right)$.
+
+#### 4-4/ Exercice 4
+
+##### Partie A
+
+On munit $\mathbb{R}$ d'une loi de composition interne comme suit :
+
+$$\left(\forall \left(x ; y\right) \in \mathbb{R}^{2}\right) x \star y = x + y - e^{x y} + 1$$
+
+1. Montrer que la loi $\star$ est commutative dans $\mathbb{R}$.
+
+2. Montrer que la loi $\star$ admet un élément neutre qu'on déterminera.
+
+3. Sachant que l'équation $\left(E\right) : 3 + x - e^{2 x} = 0$ admet deux solutions réelles distinctes $\alpha$ et $\beta$, montrer que la loi $\star$ n'est pas associative.
+
+##### Partie B
+
+On rappelle que $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \times\right)$ est un anneau non commutatif d'élément unité $I = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$, et que $\left(\mathbb{C} \star ; \times\right)$ est un groupe commutatif.
+
+Pour tout $\left(x ; y\right) \in \mathbb{R}^{2}$, on pose : $M \left(x ; y\right) = \begin{bmatrix} x & - 2 y \\ \frac{y}{2} & x \end{bmatrix}$
+
+Soit : $F = \left(M \left(x ; y\right) / \left(x ; y\right) \in \mathbb{R}^{2}\right)$
+
+1. Montrer que $F$ est un sous-espace vectoriel de l'espace vectoriel réel $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \cdot\right)$.
+
+2. Montrer que $F$ est une partie stable de $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; \times\right)$.
+
+On considère l'application $\varphi$ de $\mathbb{C} \star$ dans $F$ est qui, à tout nombre complexe $z = x + i y$ avec $\left(x ; y\right) \in \mathbb{R}^{2}$, associe la matrice $M \left(x ; y\right)$.
+
+3. Montrer que l'application $\varphi$ est un morphisme de $\left(\mathbb{C} \star ; \times\right)$ dans $\left(F ; \times\right)$.
+
+On pose : $F \star = F - \left\{M \left(0 ; 0\right)\right\}$
+
+4. Montrer que $\varphi \left(\mathbb{C} \star\right) = F \star$
+
+5. Montrer que $\left(F \star ; \times\right)$ est un groupe commutatif.
+
+6. Montrer que $\left(F \star ; + ; \times\right)$ est un corps commutatif

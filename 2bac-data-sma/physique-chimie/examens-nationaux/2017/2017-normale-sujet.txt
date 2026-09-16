@@ -1,0 +1,305 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2017 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية - خيار فرنسية — 2017
+NS 03 F
+المادة: الفيزياء والكيمياء
+الشعبة أو المسلك: شعبة العلوم الرياضية (أ) و(ب) – خيار فرنسية
+مدة الإنجاز: 4
+المعامل: 7
+المركز الوطني للتقويم والامتحانات والتوجيه
+
+L'usage de la calculatrice scientifique non programmable est autorisé.
+
+Le sujet comporte 4 exercices : un exercice de chimie et trois exercices de physique.
+
+Chimie (7 points):
+- Etude d'une solution aqueuse d'acide méthanoïque.
+- Préparation d'un ester.
+
+Physique (13 points):
+- Les ondes (2,75 points) :
+  - Diffraction d'une lumière monochromatique,
+  - Niveaux d'énergie d'un atome.
+- L'électricité (5 points):
+  - Charge et décharge d'un condensateur.
+  - Réception d'une onde électromagnétique.
+- La mécanique (5,25 points):
+  - Etude du mouvement de chute de deux corps.
+  - Etude du mouvement d'un pendule pesant.
+
+## Chimie (7 points) :
+
+Les parties I et II sont indépendantes
+
+### Partie I : Etude d'une solution aqueuse d'acide méthanoïque
+
+L'acide méthanoïque HCOOH est une substance naturelle secrétée par les fourmis et les abeilles. On peut aussi le synthétiser dans les laboratoires pour être utilisé dans les industries de textile, cuir, teintures, insecticides...
+
+L'acide méthanoïque est à l'état liquide dans les conditions ordinaires.
+
+Cette partie a pour objectif :
+- la vérification du pourcentage massique p de l'acide méthanoïque dans une solution commerciale de cet acide.
+- la détermination de la valeur du pKA du couple HCOOH(aq) / HCOO-(aq) par deux méthodes différentes.
+
+L'étiquette d'un flacon d'une solution commerciale (S0) d'acide méthanoïque porte les informations suivantes :
+- Masse molaire : M(HCOOH) = 46 g.mol-1.
+- Densité : d = 1,15.
+- Pourcentage massique : p = 80%.
+
+Données :
+- p = 80%, signifie que 100 g de solution commerciale contient 80 g d'acide pur ;
+- Masse volumique de l'eau : ρe = 1 kg.L-1 ;
+- Les conductivités molaires ioniques : λ(H3O+) = 3,50.10-2 S.m2.mol-1 , λ(HCOO-) = 5,46.10-3 S.m2.mol-1 ;
+- L'expression de la conductivité σ d'une solution est : σ = Σi λXi.[Xi] où [Xi] est la concentration molaire effective de chaque espèce chimique ionique Xi présente dans la solution et λXi sa conductivité molaire ionique ;
+- On néglige l'influence des ions hydroxyde HO- sur la conductivité de la solution étudiée.
+
+On prépare une solution aqueuse (S) d'acide méthanoïque de concentration molaire C et de volume VS = 1 L en ajoutant le volume V0 = 2 mL de la solution commerciale (S0), de concentration molaire C0, à l'eau distillée.
+
+1- Détermination du pKA du couple HCOOH(aq) / HCOO-(aq) par dosage :
+
+On dose le volume VA = 50 mL de la solution (S) par une solution aqueuse (SB) d'hydroxyde de sodium Na+(aq) + HO-(aq) de concentration molaire CB = 0,1 mol.L-1, en suivant les variations du pH du mélange réactionnel en fonction du volume VB versé de la solution (SB).
+
+A partir des mesures obtenues, on a tracé la courbe (C1) représentant pH = f(VB) et la courbe (C2) représentant dpH/dVB = g(VB) (figure page 3/8).
+
+1-1- (0,5) Ecrire l'équation chimique modélisant la transformation ayant lieu lors du dosage.
+
+1-2- (0,75) Déterminer le volume VBE versé à l'équivalence et calculer la concentration C de la solution (S).
+
+1-3- (0,5) Vérifier que la valeur de p est celle indiquée sur l'étiquette.
+
+1-4- (0,75) En se basant sur le tableau d'avancement, déterminer l'espèce prédominante parmi les deux espèces HCOOH et HCOO- dans le mélange réactionnel après l'ajout du volume VB = 16 mL de la solution (SB). Déduire la valeur du pKA(HCOOH(aq) / HCOO-(aq)).
+
+[Figure (page 3/8) : courbes (C1) pH = f(VB) et (C2) dpH/dVB = g(VB) ; axe VB (mL), repères 2 ; 4 ; 42.]
+
+2- Détermination du pKA du couple HCOOH(aq) / HCOO-(aq) par conductimétrie :
+
+On prend un volume V1 de la solution (S) de concentration C = 4.10-2 mol.L-1, puis on mesure sa conductivité σ, on trouve : σ = 0,1 S.m-1.
+
+2-1- (0,25) Ecrire l'équation chimique modélisant la réaction de l'acide méthanoïque avec l'eau.
+
+2-2- (0,75) Trouver l'expression de l'avancement final xf de la réaction en fonction de σ, λ(H3O+), λ(HCOO-) et V1.
+
+2-3- (0,75) Montrer que le taux d'avancement final est τ = 6,2%.
+
+2-4- (0,75) Trouver l'expression du pKA(HCOOH(aq) / HCOO-(aq)) en fonction de C et τ. Calculer sa valeur.
+
+### Partie II : Préparation d'un ester
+
+Les esters sont des substances organiques, caractérisés par des arômes spécifiques. Ils sont utilisés dans l'industrie agroalimentaire, pharmaceutique... Ils peuvent être extraits de certaines substances naturelles comme ils peuvent être synthétisés aux laboratoires.
+
+On étudie dans cette partie la réaction de l'acide méthanoïque avec le propan-1-ol (C3H7OH).
+
+On donne la masse molaire : M(HCOOH) = 46 g.mol-1.
+
+En chauffant, à reflux, à une température constante, un mélange (S) contenant n1 = 0,2 mol d'acide méthanoïque et n2 = 0,2 mol de propan-1-ol, on obtient un composé organique et de l'eau. On choisit l'instant du début de la réaction comme origine des dates (t = 0).
+
+1- (0,5) Choisir la proposition juste parmi les affirmations suivantes :
+
+Au cours d'une réaction d'estérification :
+a- la quantité de matière de l'ester formé diminue en éliminant l'eau.
+b- le temps de demi-réaction diminue si on utilise un catalyseur.
+c- le quotient de réaction diminue.
+d- la vitesse volumique de la réaction augmente au cours de l'évolution temporelle du système.
+
+2- (0,75) Ecrire, en utilisant les formules semi-développées, l'équation chimique modélisant la réaction qui a lieu. Donner le nom du composé organique formé.
+
+3- (0,75) A un instant de date t1, la masse de l'acide restant est m = 6,9 g.
+Sachant que le rendement de cette réaction est r = 67%, montrer que l'état d'équilibre n'est pas encore atteint à cet instant.
+
+## Physique (13 points) :
+
+### Les ondes (2,75 points) :
+- Diffraction d'une lumière monochromatique,
+- Niveaux d'énergie d'un atome.
+
+On s'intéresse dans cet exercice à l'étude de certaines propriétés de la lumière rouge émise par un laser hélium-néon (He-Ne). Dans l'air, la longueur d'onde λ de cette lumière est λ = 633 nm.
+
+Données :
+- Célérité de la lumière dans l'air : c = 3.108 m.s-1 ;
+- Constante de Planck : h = 6,63.10-34 J.s ;
+- 1 eV = 1,6022.10-19 J ;
+- Pour les petits angles θ : tan θ ≈ θ où θ est exprimé en radian.
+
+1- Diffraction de la lumière monochromatique émise par le laser hélium-néon (He-Ne) :
+
+Pour déterminer la largeur a d'une fente d'un diaphragme, on utilise la lumière rouge monochromatique émise par le laser hélium-néon. Pour cela, on réalise l'expérience schématisée sur la figure 1.
+
+On éclaire la fente de largeur a par le faisceau laser et on observe des taches lumineuses sur un écran placé à une distance D de la fente. Ces taches sont séparées par des zones sombres. La largeur de la tache centrale est ℓ.
+
+[Figure 1 : Faisceau laser — Diaphragme — distance D — Ecran.]
+
+1-1- (0,5) Choisir la proposition juste parmi les affirmations suivantes :
+a- Dans le verre, la lumière se propage avec une vitesse plus grande que dans l'air.
+b- L'écart angulaire est θ = 2λ/a.
+c- La fréquence de la lumière émise par le laser hélium-néon est ν = 4,739.1014 Hz.
+d- L'écart angulaire est plus grand si on remplace la lumière rouge par une lumière violette.
+
+1-2- (0,75) Dans le cas des petits angles, établir l'expression de la largeur a en fonction de D, λ et ℓ.
+Pour une distance D = 1,5 m on mesure la largeur de la tache centrale et on trouve ℓ = 3,4 cm. Calculer a.
+
+1-3- (0,5) On modifie la distance entre la fente et l'écran en prenant D' = 3 m. Calculer la valeur de l'écart angulaire et celle de la largeur de la tache centrale.
+
+2- Etude de la radiation émise par le laser He-Ne :
+
+2-1- (0,5) Calculer, en électron-volt (eV), l'énergie du photon associée à la lumière rouge émise.
+
+2-2- (0,5) La figure 2 représente un diagramme simplifié des niveaux d'énergie de l'atome de néon.
+La radiation de longueur d'onde λ = 633 nm émise par le laser He-Ne est due au passage de l'atome du néon Ne du niveau d'énergie En au niveau d'énergie Ep.
+Déterminer En et Ep.
+
+[Figure 2 : diagramme des niveaux d'énergie E(eV) : 18,37 ; 18,70 ; 19,45 ; 20,29 ; 20,66.]
+
+### L'électricité (5 points) :
+
+Le condensateur, le conducteur ohmique et la bobine sont utilisés dans les circuits de divers montages électriques tels les circuits intégrés, les amplificateurs, les appareils d'émission et de réception...
+
+Cet exercice vise l'étude de :
+- la charge d'un condensateur et sa décharge dans un conducteur ohmique puis dans une bobine.
+- la réception d'une onde électromagnétique.
+
+On prendra : π2 = 10.
+
+1- Charge d'un condensateur et sa décharge dans un conducteur ohmique :
+
+On réalise le montage représenté sur le schéma de la figure 1. Ce montage comprend :
+- un générateur idéal de courant ;
+- un conducteur ohmique de résistance R ;
+- un condensateur de capacité C, initialement non chargé ;
+- un microampèremètre ;
+- un interrupteur K.
+
+On place l'interrupteur K en position (1) à un instant de date t = 0. Le microampèremètre indique I0 = 0,1 μA. Un système de saisie informatique convenable permet d'obtenir la courbe représentant les variations de la charge q du condensateur en fonction de la tension uAB entre ses bornes (figure 2).
+
+[Figure 1 : montage K, I0, R, C, positions (1) et (2), courant i, bornes A et B. Figure 2 : q(μC) en fonction de uAB(V). Figure 3 : ln(uAB) en fonction de t(10-5 s).]
+
+1-1- (0,25) Montrer que la capacité C du condensateur est C = 20 nF.
+
+1-2- (0,5) Déterminer la durée nécessaire pour que la tension aux bornes du condensateur prenne la valeur uAB = 6 V.
+
+1-3- Lorsque la tension aux bornes du condensateur prend la valeur uAB = U0, on place l'interrupteur K en position (2) à un instant choisi comme une nouvelle origine des dates (t = 0). La courbe de la figure 3 représente les variations de ln(uAB) en fonction du temps (uAB est exprimée en V).
+
+1-3-1- (0,25) Etablir l'équation différentielle vérifiée par la tension uAB(t).
+
+1-3-2- (1) Sachant que la solution de l'équation différentielle est de la forme : uAB(t) = U0.e−α.t où α est une constante positive. Trouver la valeur de U0 et celle de R.
+
+1-3-3- (0,5) Déterminer la date t1 où l'énergie emmagasinée par le condensateur est égale à 37% de sa valeur à t = 0.
+
+2- Décharge du condensateur dans une bobine :
+
+On recharge le condensateur précédent et on réalise le montage représenté sur la figure 4 qui comporte en plus de ce condensateur :
+- une bobine (b) d'inductance L et de résistance r ;
+- un conducteur ohmique de résistance R0 = 12 Ω ;
+- un interrupteur K.
+
+[Figure 4 : condensateur C, bobine (b) (L, r), R0, K, bornes A, B, Y, courant i. Figure 5 : Em(μJ) en fonction du temps.]
+
+On ferme le circuit et on visualise la tension uR0(t) aux bornes du conducteur ohmique. On observe des oscillations pseudopériodiques.
+
+2-1- (0,5) Etablir l'équation différentielle vérifiée par la tension uR0(t) entre les bornes du conducteur ohmique.
+
+2-2- Pour obtenir des oscillations électriques entretenues, on insère en série dans le circuit un générateur G délivrant une tension, selon la convention générateur, uG(t) = k.i(t) où k est un paramètre ajustable (k > 0). En ajustant le paramètre k sur la valeur k = 20 (exprimée dans le système d'unités international) la tension uR0(t) devient sinusoïdale.
+
+2-2-1- (0,25) Déterminer la valeur de r.
+
+2-2-2- (0,5) La courbe de la figure 5 représente l'évolution au cours du temps de l'énergie magnétique Em emmagasinée dans la bobine.
+Trouver la valeur de L et celle de Ucmax la tension maximale aux bornes du condensateur.
+
+3- Réception d'une onde électromagnétique :
+
+Pour capter une onde électromagnétique de fréquence N0 = 40 kHz modulée en amplitude, on utilise le dispositif simplifié représenté sur la figure 6.
+
+[Figure 6 : antenne — partie 1 (L0, C0) — partie 2 (D, C, R, M) — partie 3 (C2, R2).]
+
+3-1- (0,25) Choisir la proposition juste parmi les affirmations suivantes :
+a- La fréquence de l'onde porteuse est très petite devant celle de l'onde modulante.
+b- Le rôle de la partie 1 du dispositif est d'éliminer la composante continue.
+c- Le rôle des deux parties 2 et 3 du dispositif est de moduler l'onde.
+d- Dans une antenne réceptrice, l'onde électromagnétique engendre un signal électrique de même fréquence.
+
+3-2- (0,5) On associe un condensateur de capacité C0 avec une bobine d'inductance L0 = 0,781 mH dans le circuit d'accord.
+Peut-on recevoir l'onde de fréquence N0 = 40 kHz si C0 = C = 20 nF ? justifier la réponse.
+
+3-3- (0,5) Pour détecter l'enveloppe de l'onde modulée, on utilise le condensateur de capacité C = 20 nF et le conducteur ohmique de résistance R = 1 kΩ. Pour avoir une bonne détection d'enveloppe, on monte en parallèle avec le condensateur de capacité C un autre condensateur de capacité Cx.
+Trouver l'intervalle de valeurs de Cx sachant que la fréquence de l'information émise est Ni = 4 kHz.
+
+### Mécanique (5,25 points) :
+
+Les parties I et II sont indépendantes
+
+#### Partie I : Etude du mouvement de chute de deux corps
+
+Dans cette partie, on étudie le mouvement de chute de deux corps (A) et (B) dans le repère orthonormé R(O, i⃗, j⃗) lié à un référentiel terrestre supposé galiléen. Le point O est situé au niveau du sol (figure 1).
+
+On néglige la poussée d'Archimède devant les autres forces et on prend l'intensité de la pesanteur : g = 10 m.s-2.
+
+1- Etude de la chute d'un corps avec frottement :
+
+A un instant choisi comme origine des dates (t = 0), on lâche, sans vitesse initiale d'un point H, un corps solide (A) de masse mA = 0,5 kg et de centre d'inertie GA (figure 1).
+
+En plus de son poids, le solide (A) est soumis à une force de frottement fluide f⃗ = −k.v⃗A où v⃗A est le vecteur vitesse de GA à un instant t et k une constante positive (k > 0).
+
+1-1- (0,5) Montrer que l'équation différentielle du mouvement vérifiée par la composante vAy(t) selon l'axe (Oy) du vecteur vitesse v⃗A(t) s'écrit : dvAy/dt + (1/τ).vAy + g = 0 où τ représente le temps caractéristique du mouvement.
+
+1-2- (0,5) La courbe de la figure 2 représente l'évolution de vAy(t) au cours du temps.
+Déterminer τ et déduire la valeur de k.
+
+1-3- (0,5) Déterminer, en utilisant la méthode d'Euler, la vitesse vAy(ti) à un instant ti sachant que l'accélération à l'instant t(i−1) est aAy(t(i−1)) = −4,089 m.s-2 et que le pas de calcul est Δt = 0,01 s.
+
+[Figure 2 : vAy(m.s-1) en fonction de t(s) ; repères 0,2 ; 0,4 ; 0 ; -0,5 ; -1.]
+
+2- Etude du mouvement d'un projectile dans le champ de pesanteur :
+
+A l'instant où le centre d'inertie GA du corps (A) passe par le point F d'altitude hF = 18,5 m par rapport au sol, on lance un projectile (B), de masse mB et de centre d'inertie GB, d'un point P de coordonnées (0, hp) avec une vitesse initiale V⃗0 faisant un angle α (0 < α < π/2) avec l'horizontale (figure 1). On choisit cet instant comme nouvelle origine des dates (t = 0) pour le mouvement de (A) et celui de (B).
+
+On néglige les frottements pour le projectile (B) et on donne : hP = 1,8 m ; V0 = 20 m.s-1.
+
+[Figure 1 : axes x, y, points O, H, F (hF), P (hp), vecteurs i⃗, j⃗, V⃗0.]
+
+2-1- (0,5) Etablir les équations horaires xB(t) et yB(t) du mouvement de (B) en fonction de α et t.
+
+2-2- (0,5) Exprimer les coordonnées du point S, sommet de la trajectoire de (B), en fonction de α.
+
+3- (0,5) Les deux corps (A) et (B) se rencontrent au point S (on considère que GA coïncide avec GB en S). Déterminer l'angle α correspondant sachant que le corps (A) passe par F avec sa vitesse limite et que les mouvements de (A) et (B) s'effectuent dans le même plan (xOy).
+
+#### Partie II : Etude du mouvement d'un pendule pesant
+
+Cette partie vise la détermination de l'intensité de la pesanteur, en un lieu donné, ainsi que quelques grandeurs qui sont liées au mouvement d'un pendule pesant.
+
+Un pendule pesant est constitué d'une tige homogène OA de masse m, de centre d'inertie G et de longueur L pouvant effectuer un mouvement de rotation dans un plan vertical autour d'un axe horizontal (Δ) passant par son extrémité O (figure 1). Soit J le moment d'inertie du pendule par rapport à l'axe (Δ).
+
+On étudie le mouvement du pendule dans un repère lié à un référentiel terrestre supposé galiléen.
+
+On écarte la tige OA de sa position d'équilibre stable d'un petit angle θ0, dans le sens positif, puis on la lance avec une vitesse angulaire initiale θ̇0 à l'instant de date t = 0.
+
+On repère la position du pendule à un instant de date t par l'abscisse angulaire θ. Le centre G est confondu avec G0 quand le pendule passe par sa position d'équilibre stable (figure 1).
+
+On néglige tous les frottements et on choisit le plan horizontal passant par G0 comme état de référence de l'énergie potentielle de pesanteur (Epp = 0).
+
+Données :
+- La masse de la tige : m = 100 g ;
+- La longueur de la tige : L = 0,53 m ;
+- L'expression du moment d'inertie de la tige par rapport à l'axe (Δ) : J = (1/3).m.L2 ;
+- Pour les petits angles : cos θ ≈ 1 − θ2/2 où θ est exprimé en radian ;
+- On prendra : π2 = 10.
+
+[Figure 1 : axe (Δ), point O, tige OA, G, G0, sens positif +, axe z. Figure 2 : Ec(10-2 J) en fonction de t(s).]
+
+1- (0,5) Trouver l'expression de l'énergie potentielle de pesanteur du pendule pesant à un instant t, dans le cas des oscillations de faible amplitude, en fonction de θ, L, m et g intensité de la pesanteur.
+
+2- (0,5) Par une étude énergétique, montrer que l'équation différentielle du mouvement s'écrit : d2θ/dt2 + (3g/2L).θ = 0.
+
+3- La solution de l'équation différentielle s'écrit sous la forme : θ(t) = θm.cos((2π/T0).t + φ) où T0 est la période propre du pendule.
+
+La courbe de la figure 2 représente l'évolution de l'énergie cinétique du pendule étudié au cours du temps.
+
+3-1- (0,5) Déterminer la valeur de l'intensité de pesanteur g.
+
+3-2- (0,5) Trouver la valeur de l'amplitude θm du mouvement.
+
+3-3- (0,25) Déterminer la valeur de φ.

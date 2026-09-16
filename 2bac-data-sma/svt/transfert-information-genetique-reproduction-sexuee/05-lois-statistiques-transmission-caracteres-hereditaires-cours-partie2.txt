@@ -1,0 +1,181 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes - Cours (Partie 2)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes  Cours (Partie 2)
+Professeur : Mr BAHSINA Najib
+
+1/11
+
+## Sommaire
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-4/ La codominance
+
+#### 2-5/ La transmission d’un caractère lie à un gène létal
+
+#### 2-6/ La transmission d’un caractère lié au sexe
+
+* * *
+
+2/11
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-4/ La codominance
+
+##### Croisement des fleurs de la belle de nuit
+
+La belle de nuit (Mirabilis Jalapa) est une plante qui produit des fleurs qui sont fermées le jour et ouvertes la nuit.
+
+Pour comprendre le mode de transmission du caractère couleur de la fleur chez cette espèce,
+
+On réalise une fécondation croisée entre deux parents P de races pures (homozygotes).
+
+Sur les plants obtenus en F1 après germination des graines on laisse se réaliser l’autofécondation.
+
+Les fleurs obtenues en F2 répondent, en termes de phénotypes et de proportions, au schéma suivant :
+
+[Figure — image : croisement de la belle de nuit, phénotypes et proportions en F2]
+
+Analyse de 1er croisement.
+
+- On étudie un seul caractère (                                                            ) donc il s’agit d’un monohybridisme.
+
+- La génération F1 est homogène, donc les parents sont de race pure selon la première loi de Mendel, et le caractère est porté sur un chromosome autosome.
+
+- Puisque les individus de F1 ont  un phénotype  intermédiaire (                                                ), donc On a une codominance entre l’allèle responsable de la                                             (on le note           ),  et l’allèle responsable de la                                                              (on le note           )
+
+3/11
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-4/ La dominance incomplète ou codominance
+
+##### Interprétation des résultats du 1 croisement
+
+4/11
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-4/ La dominance incomplète ou codominance
+
+##### Interprétation des résultats du 1 croisement
+
+Échiquier de croisement :
+
+[Figure — image : échiquier de croisement]
+
+5/11
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-5/ La transmission d’un caractère lie à un gène létal
+
+##### Résultats du croisement chez la souris
+
+On croise deux lignes de souris jaunes.
+
+On obtient une descendance hétérogène formée de 202 souris jaunes + 98 souris grises.
+
+6/11
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-6/ La transmission d’un caractère lié au sexe
+
+##### La drosophile, un insecte au service de la génétique
+
+La drosophile est un insecte de quelques millimètres de long qui appartient à la grande famille des mouches.
+
+C’est un organisme modèle pour les recherches dans le domaine de la génétique. En effet, ses atouts sont multiples :
+
+- Sa facilite de manipulation (petite taille, élevage aisé).
+- Ses capacités reproductives impressionnantes: son cycle biologique extrêmement rapide, d'environ 12 jours, permet de suivre un grand nombre de générations, dans un espace limite, et dans un temps relativement bref.
+- Ses caractéristiques génétiques sans précédent: un petit génome facilement observable forme de quatre paires de chromosomes aisément identifiables.
+- L'existence de nombreux gènes présents aussi chez les organismes supérieurs, et notamment chez l'Homme.
+
+Le schéma suivant présente les principales différences entre le mâle et la femelle de la drosophile :
+
+[Figure — image : différences entre le mâle et la femelle de la drosophile]
+
+7/11
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-6/ La transmission d’un caractère lié au sexe
+
+##### Rôle de la méiose et la fécondation dans la stabilité du génome
+
+[Figure — image : rôle de la méiose et de la fécondation dans la stabilité du génome]
+
+8/11
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-6/ La transmission d’un caractère lié au sexe
+
+##### Transmission d’un caractère lié au sexe chez la drosophile
+
+Deux croisements ont été réalisés entre deux lignées pures de drosophiles, qui différent par la couleur des yeux : une souche sauvage qui a le phénotype yeux rouges et une souche mutante qui a le phénotype yeux blanches.
+
+1er croisement :
+
+Entre une femelle aux yeux rouges et un mâle aux yeux blancs.
+
+Les individus de la génération F1 obtenus sont tous de type sauvage aux yeux rouges.
+
+2ème croisement :
+
+Entre une femelle aux yeux blancs et un mâle aux yeux rouges.
+
+La génération F1 obtenue est composée de 50% de mâles aux yeux blancs et 50% de femelles aux yeux rouges.
+
+[Figure — image : les deux croisements réciproques chez la drosophile]
+
+Analyse 1er croisement :
+
+- On étudie un seul caractère (couleur des yeux) donc il s’agit d’un cas de monohybridisme.
+
+- On a F1 homogéne et les parents sont homozygotes alors la 1ere loi de Mendel s’applique.
+
+- Puisque les individus de F1 ont le phénotype (yeux rouges) alors :
+
+- _L’allèle responsable de couleur rouge est dominant (on le note R)_
+
+- _L’allèle responsable de couleur blanche est récessif (on le note b)_
+
+Analyse 2eme croisement : (croisement réciproque)
+
+- Le croisement a donné des résultats non conformes à la première loi de Mendel même si les parents sont de souches pures.
+
+- Les femelles de F1 héritent le phénotype de leurs pères , le gène responsable de la couleur des yeux est lié au sexe (porté par un chromosome sexuel )
+
+- Puisque le caractère étudié existe à la fois chez les mâles et les femelles, donc le gène étudié est porté par le chromosome X (chromosome sexuel en commun entre les ♂ et les ♀
+
+9/11
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-6/ La transmission d’un caractère lié au sexe
+
+##### Interprétation du 1er croisement
+
+10/11
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-6/ La transmission d’un caractère lié au sexe
+
+##### Interprétation du 2ème croisement (Croisement réciproque)
+
+[Figure — image : interprétation chromosomique du croisement réciproque]
+
+11/11

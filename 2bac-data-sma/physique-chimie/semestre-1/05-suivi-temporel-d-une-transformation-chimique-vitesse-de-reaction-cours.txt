@@ -1,0 +1,196 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Suivi temporel d'une transformation chimique - Vitesse de réaction
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 5 (Suivi temporel d'une transformation chimique – Vitesse de réaction)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Techniques du suivi temporel d'une transformation
+
+Pour effectuer le suivi temporel d'une transformation se déroulant à volume constant, on mesure à différents instants successifs la concentration d'un réactif ou d'un produit dans le milieu réactionnel, en pratiquant une des méthodes chimiques et physiques suivants :
+
+- Le dosage.
+- La conductimétrie.
+- La mesure de la pression.
+- La pH-métrie.
+
+## II- Suivi temporel d'une transformation
+
+### 2-1/ Méthode de dosage
+
+#### Définition
+
+Le dosage est l'action qui consiste à déterminer la quantité de matière, la fraction, ou la concentration d'une substance précise présente dans une autre ou dans un mélange.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img1.jpg)
+
+#### Expérience
+
+On réalise le mélange suivant :
+
+On verse, dans un bécher, un volume $V_{1} = 100 m l$ d'une solution d'iodure de potassium $\left(\right. K^{+} + I^{-} \left.\right)$ de concentration $C_{1} = 0 , 4 m o l / L$
+
+Puis on ajoute un volume $V_{2} = 100 m l$ d'une solution de peroxodisufate de potassium $\left(\right. 2 K^{+} + S_{2} \left(O_{8}\right)^{2 -} \left.\right)$ de concentration $C_{2} = 0 , 036 m o l / L$ acidifié par $1 m l$ d'acide sulfurique concentré.
+
+$\overline{\left.\right)S_{2} \left(O_{8}\right)^{2 -} + 2 e^{-} \rightarrow 2 \left(SO_{4}\right)^{2 -} \\ 2 I^{-} \rightarrow I_{2} + 2 e^{-}}$
+
+#### Dosage
+
+Pour savoir la quantité du diiode qui s'est formée à un instant donné on réalise le dosage de la manière suivante :
+
+On recueille après chaque trois minutes $10 m l$ du mélange réactionnel et on la trempe dans l'eau froide pour arrêter la réaction.
+
+Puis on dose le diode $I_{2}$ formé par une solution de thiosulfate de sodium $\left(\right. 2 N a^{+} + S_{2} \left(O_{3}\right)^{2 -} \left.\right)$ de concentration $C_{r} = 0 , 02 m o l / L$
+
+$\overline{\left.\right)2 S_{2} \left(O_{3}\right)^{2 -} + I_{2} \rightarrow \left(S_{4} O_{6}\right)^{2 -} + 2 I^{-}}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img2.jpg)
+
+On refait les opérations précédentes à différents instants, comme l'indique le tableau suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s5/img3.jpg)
+
+#### Exploitation
+
+Tableau d'avancement :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s5/img4.jpg)
+
+D'après le tableau d'avancement, la quantité du diiode formée à un instant t est égale à x : $n \left(I_{2}\right)_{t} = x$
+
+Donc le dosage nous permet de suivre l'évolution de la formation du diiode en fonction du temps et de déterminer l'avancement.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img2.bmp)
+
+Le tracé montre que la quantité du diiode formée augmente en fonction du temps.
+
+On peut déterminer les quantités de matières des autres constituants du mélange réactionnel en fonction du temps.
+
+par exemple : $\overline{\left.\right)n \left(\right. S_{2} \left(O_{8}\right)^{2 -} \left.\right) = C_{2} . V_{2} - x = 3 , 6 - x}$
+
+Tableau des mesures :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s5/img3.bmp)
+
+Variation de $n \left(\right. S_{2} \left(O_{8}\right)^{2 -} \left.\right)$ en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img4.bmp)
+
+### 2-2/ Méthode de mesure de la pression
+
+#### Expérience
+
+On introduit un ruban de magnésium de masse $m = 0 , 02 g$ dans un ballon contenant un volume $V = 50 c m^{3}$ d'une solution d'acide chlorhydrique $\left(\right. \left(H^{+}\right)_{\left(\right. a q \left.\right)} + C \left(l^{-}\right)_{\left(a q\right)} \left.\right)$ de concentration $C = 0 , 5 m o l / l$ puis on mesure la pression du gaz résultant par un manomètre.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img5.bmp)
+
+On constate que le magnésium réagit avec l'acide chlorhydrique avec dégagement d'hydrogène et cette réaction dure quelques minutes jusqu'à la disparition totale du ruban de magnésium.
+
+$\overline{\left.\right)M g_{\left(\right. s \left.\right)} + 2 \left(H^{+}\right)_{\left(\right. aq \left.\right)} \rightarrow M \left(g^{2 +}\right)_{\left(\right. aq \left.\right)} + H_{2_{\left(\right. g \left.\right)}}}$
+
+#### Exploitation
+
+Tableau d'avancement :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s5/img6.jpg)
+
+Tableau des mesures :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s5/img7.bmp)
+
+Représentation de la variation de $n \left(\right. H_{2} \left.\right)$ en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img8.bmp)
+
+### 2-3/ Méthode de mesure de la conductance
+
+#### Expérience
+
+On introduit dans un bécher un peu d'eau et d'éthanol et on ajoute au mélange $1 c m^{3}$ de 2-chloro 2-méthyle propane de formule semi-développée : $\left(\right. C H_{3} \left.\right)_{3} — C — C l$ qu'on notera simplement RCL.
+
+L'éthanol est un solvant dans lequel RCL se dissout très facilement et sans réagir avec l'éthanol.
+
+RCL réagit avec l'eau selon l'équation suivante :
+
+$\overline{\left.\right)R C L + H_{2} O_{\left(\right. l \left.\right)} \rightarrow R O H + \left(H^{+}\right)_{\left(\right. aq \left.\right)} + C \left(l^{-}\right)_{\left(\right. aq \left.\right)}}$
+
+La formation des ions $H^{+}$ et $\left(C l\right)^{-}$ entraine l'augmentation de la conductance de la solution.
+
+On mesure la conductance du mélange réactionnel chaque 200s, ce qui permet de déterminer la variation de sa conductivité en fonction du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img9.jpg)
+
+#### Exploitation
+
+Tableau d'avancement :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s5/img10.jpg)
+
+$\overline{\left.\right)\sigma = \lambda_{\left(\right. H^{+} \left.\right)} \left[\right. H^{+} \left]\right. + \lambda_{\left(\right. Cl^{-} \left.\right)} \left[\right. Cl^{-} \left]\right.}$
+
+$\overline{\left.\right)x \left(\right. t \left.\right) = x_{m a x} . \frac{\sigma \left(\right. t \left.\right)}{\sigma_{m a x}}}$
+
+Tableau des mesures :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s5/img11.bmp)
+
+Représentation de la variation de $x$ en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img12.bmp)
+
+## III- Vitesse de réaction – Temps de demi-réaction
+
+### 3-1/ Vitesse de réaction
+
+#### Définition
+
+La vitesse volumique d'une réaction correspond à la quantité de matière formée ou disparue par unité de temps et de volume.
+
+Elle est liée à la variation de l'avancement x de la réaction en fonction du temps par la relation suivante :
+
+$\overline{\left.\right)\nu = \frac{1}{V} \frac{d x}{d t}}$
+
+Elle peut être exprimer en : $m o l / m^{3} . s$ dans le SI, ou $m o l / L . m i n$ ou $m o l / L . s$
+
+En général, la vitesse de la réaction diminue lors de l'évolution d'une transformation chimique.
+
+#### Détermination graphique de la vitesse de la réaction
+
+On détermine la vitesse de la réaction à un instant t donné, en traçant la droite tangente à la courbe x=f(t) à cet instant puis on détermine le coefficient directeur de cette droite et on le divise par le volume V de la solution.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img13.bmp)
+
+#### Évolution de la vitesse de réaction au cours du temps
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img14.bmp)
+
+On remarque la diminution de l'angle $\alpha$ et par conséquent les valeurs de coefficient directeur de la tangente $t a n \left(\right. \alpha \left.\right)$ diminuent au fur et à mesure que la transformation évolue avec le temps.
+
+Et puisque la transformation se déroule dans un volume constant, alors la vitesse de réaction diminue avec le temps.
+
+### 3-2/ Temps de demi réaction
+
+#### Définition
+
+On appelle temps de demi-réaction $t_{1 / 2}$ le temps nécessaire pour que l'avancement de la réaction soit égal à la moitié de sa valeur finale
+
+$\overline{\left.\right)x \left(\right. t_{1 / 2} \left.\right) = \frac{x_{f}}{2}}$
+
+Si la réaction est totale, alors $x_{f} = x_{m a x}$, dans ce cas on a : $x \left(\right. t_{1 / 2} \left.\right) = \frac{x_{m a x}}{2}$
+
+#### Détermination graphique du temps de demi-réaction
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img15.bmp)
+
+### 3-3/ Vitesse de réaction et facteurs cinétiques
+
+Plus la température est élevée, plus les risques de collisions sont élevés et plus la réaction est rapide.
+
+Plus les concentrations initiales de réactifs sont élevées, plus la probabilité de collisions est grande et donc plus la réaction est rapide.

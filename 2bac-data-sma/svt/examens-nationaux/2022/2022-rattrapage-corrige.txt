@@ -1,0 +1,218 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2022 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية - الدورة الاستدراكية 2022
+المادة : علوم الحياة والأرض
+الشعبة والمسلك : شعبة العلوم الرياضية - مسلك العلوم الرياضية (أ) خيار فرنسية
+مدة الإنجاز : 2 — المعامل : 3
+عناصر الإجابة — RR 36F
+
+## Partie I : Restitution des connaissances (5 pts)
+
+Question | Eléments de réponse | Barème
+
+I - Accepter toute définition correcte, à titre d’exemple :
+
+- La population : l’ensemble des individus de la même espèce, vivant dans un espace géographique donné, capables de se reproduire entre eux ……..….(0.5 pt)
+
+- Le pool génique : l’ensemble des gènes possédés par les individus d’une population (génome collectif) ……………………………………….…… (0.5 pt)
+
+(1 pt)
+
+II - (1 ; c) ; (2 ; a) ; (3 ; b) ; (4 ; c) ……………………………..….......(0.5 pt x 4) — (2 pts)
+
+III - a : Vrai ; b : Vrai ; c : Faux ; d : Faux ………………………….……..(0.5 pt x4) — (2 pts)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 : (6.75 pts)
+
+I - 1. - La formule chromosomique de la plantule : 2n = 24..............................(0.25 pt)
+
+- La formule chromosomique du sac embryonnaire : n = 12.....................(0.25 pt)
+
+(0.5 pt)
+
+2. - La phase sporophyte est représentée par la plante feuillée qui porte la fleur, car elle produit des spores (microspores et macrospores)................................(0.25 pt)
+
+- La phase gamétophyte est représentée par le grain de pollen et le sac embryonnaire car ils produisent les gamètes mâles et femelles …..……...(0.25 pt)
+
+(0.5 pt)
+
+3. - Cycle de la tulipe : ....................................................................................(0.5 pt)
+
+[Figure — schéma du cycle : Diplophase, Sporophyte, Méiose, Spores, Haplophase, Gamétophyte, Gamète mâle, Gamète femelle, Fécondation, Zygote]
+
+- Type du cycle : haplodiplophasique..........................................................(0.25 pt)
+
+(0.75 pt)
+
+II - 4. Premier croisement :
+
+- le premier croisement donne une génération F1 homogène à pétales découpés et à fleurs orange. Donc les parents sont de races pures selon la première loi de Mendel………………………………………………………….(0.25 pt)
+
+- l’allèle responsable des pétales découpés est dominant (D) et l’allèle responsable des pétales entiers est récessif (d) …………………….…..(0.25 pt)
+
+- il y a codominance entre l’allèle responsable de la couleur rouge (R) et l’allèle responsable de la couleur jaune (J)………………………………….…..(0.25 pt)
+
+Deuxième croisement :
+
+- La génération F’2, issue d’un croisement-test, est composée de quatre phénotypes de proportions différentes. Donc les deux gènes sont liés ……………………………………………………………………….….(0.25 pt)
+
+(1 pt)
+
+5. ● L’interprétation chromosomique du premier croisement :
+
+P1 × P2
+
+Phénotypes (0.25 pt) : [R,d] × [J,D]
+
+Génotypes (0.25 pt) : (R d // R d) × (J D // J D)
+
+Gamètes (0.25 pt) : 100% R d — et — 100% J D
+
+F1 : 100% [RJ,D] — génotype (R d // J D)
+
+● L’interprétation chromosomique du deuxième croisement :
+
+F1 × individu double homozygote
+
+Phénotypes (0.25 pt) : [RJ,D] × [R,d]
+
+Génotypes (0.25 pt) : (R d // J D) × (R d // R d)
+
+Gamètes (0.25 pt) : R d 48.37% ; J D 47.38% ; R D 1.99% ; J d 2.24% — et — R d 100%
+
+Échiquier de croisement (0.5 pt)
+
+| γ \ γ F1 | R d 48.37% | J D 47.38% | R D 1.99% | J d 2.24% |
+| --- | --- | --- | --- | --- |
+| R d 100% | (R d // R d) [R,d] 48.37% | (J D // R d) [RJ,D] 47.38% | (R D // R d) [R,D] 1.99% | (J d // R d) [RJ,d] 2.24% |
+
+Descendance F'2 : [R,d] 48.37% ; [RJ,D] 47.38% ; [R,D] 1.99% ; [RJ,d] 2.24% …….…… (0.25 pt)
+
+(2.25 pts)
+
+6. Réalisation d’un schéma correct expliquant le brassage intrachromosomique. (0.75 pt)
+
+[Figure — schéma : Tétrade, Crossing-over, Gamètes possibles]
+
+(0.75 pt)
+
+7. On croise les individus de F’2, de phénotype [R, D] et de génotype RD//Rd, entre eux.
+
+F'2 × F'2
+
+Phénotypes : [R, D] × [R, D]
+
+Génotypes (0.25 pt) : (R D // R d) × (R D // R d)
+
+Gamètes (0.25 pt) : 50% R D ; 50% R d — et — 50% R D ; 50% R d
+
+Échiquier de croisement (0.25 pt)
+
+| γ F’2 \ γ F’2 | R D 50% | R d 50% |
+| --- | --- | --- |
+| R D 50% | (R D // R D) [R, D] 25% | (R D // R d) [R, D] 25% |
+| R d 50% | (R D // R d) [R, D] 25% | (R d // R d) [R, d] 25% |
+
+Ce croisement donne 75% [R,D]……………………………………..….(0.25 pt)
+
+(1 pt)
+
+### Exercice 2 : (3.25 pts)
+
+1 - a. Les parents I1 et I2 sont sains et ont eu deux enfants malades (II3 et II4), donc l’allèle responsable de la maladie est récessif……………………………...(0.5 pt)
+
+b. - Le gène responsable de la maladie n'est pas porté par le chromosome Y car il y a une femme malade…………………………………………….….(0.25 pt)
+
+- Le gène responsable de la maladie n'est pas porté par le chromosome X : Présence d’une fille malade (II3) dont le père est sain………….……... (0.25 pt)
+
+- Donc le gène responsable de cette maladie est porté par un autosome. . (0.25 pt)
+
+Accepter toute justification logique.
+
+(1.25 pt)
+
+2 - Génotype des individus :
+
+II1 : H//m , femme saine qui a eu un enfant malade..................................(0.25 pt)
+
+II2 : H//m homme sain qui a eu un enfant malade ......................................(0.25 pt)
+
+(0,5 pt)
+
+3 - Échiquier de croisement : …(0.5 pt)
+
+| γ II2 \ γ II1 | H/ 1/2 | m/ 1/2 |
+| --- | --- | --- |
+| H/ 1/2 | H//H [H] 1/4 | H//m [H] 1/4 |
+| m/ 1/2 | H//m [H] 1/4 | m//m [m] 1/4 |
+
+La probabilité pour que l’individu III2 soit atteint d’hémochromatose est : 25%…(0.5 pt)
+
+(1 pt)
+
+4 - Déduction : Le génotype de l’individu III2 est H//m……………… ….(0,25 pt)
+
+- Justification : L’analyse génétique révèle que l’individu III2 possède les deux allèles H et m. Donc il est hétérozygote………………………………….(0.25 pt)
+
+(0.5 pt)
+
+### Exercice 3 : (5 pts)
+
+1 - La distribution de la longueur de la corolle chez les deux souches parentales P1 et P2 est unimodale….…..………………………………………………..…(0.25 pt)
+
+La moyenne arithmétique de la longueur de la corolle de la souche parentale P1 est inférieure à celle de la souche parentale P2……………………..…(0.25 pt)
+
+L’écart-type de la souche parentale P1 est inférieure à celui de la souche parentale P2.…(0.25 pt)
+
+La distribution de la souche parentale P1 est moins dispersée que celle de la souche parentale P2………………………..……………………….…....(0.25 pt)
+
+(1 pt)
+
+2 - La population de la génération F2 est hétérogène et sa distribution est plus large (grande dispersion autour de la moyenne)……………..…………...(0.25 pt x2)
+
+Justification : l’histogramme est bimodal et l’écart-type est supérieur à celui des deux souches P1 et P2 .(0.25 pt x2)
+
+(1 pt)
+
+3 - Réalisation d’un polygone de fréquence correcte selon l’échelle proposée.
+
+(0.75 pt)
+
+4 - Tableau d’application correct du calcul des paramètres statistiques (0,25 pt pour chaque colonne excepté les deux premières colonnes)…….. (1 pt)
+
+| Centre des classes (xi) | (fi) | fi.xi | xi − X̅ | (xi − X̅)² | fi(xi − X̅)² |
+| --- | --- | --- | --- | --- | --- |
+| 69 | 4 | 276 | -17,01 | 289,3401 | 1157,3604 |
+| 74 | 8 | 592 | -12,01 | 144,2401 | 1153,9208 |
+| 79 | 12 | 948 | -7,01 | 49,1401 | 589,6812 |
+| 84 | 20 | 1680 | -2,01 | 4,0401 | 80,802 |
+| 89 | 20 | 1780 | 2,99 | 8,9401 | 178,802 |
+| 94 | 14 | 1316 | 7,99 | 63,8401 | 893,7614 |
+| 99 | 9 | 891 | 12,99 | 168,7401 | 1518,6609 |
+| Total | 87 | 7483 | | | 5572.9887 |
+
+Moyenne arithmétique : X̅ = 86.01 mm………………………..……….(0.25 pt)
+
+Ecart type : σ = 8.003 mm…………………………….…….... (0.25 pt)
+
+(1.5 pt)
+
+5 - La sélection a donné un résultat moins efficace que celle de la souche parentale P2............ (0.25 pt)
+
+Justification :
+
+- L’écart-type de la population sélectionnée est supérieur à celui de la souche parentale P2 et la distribution de la population plus large………….….... (0.25 pt)
+
+- La baisse de la moyenne arithmétique montre que la longueur de la corolle a diminué par rapport à la souche parentale P2…………………….…….. (0.25 pt)
+
+(0.75 pt)

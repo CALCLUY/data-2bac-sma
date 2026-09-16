@@ -1,0 +1,107 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: B- Aspects énergétiques (Pendule pesant et de torsion)
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 26B (Aspects énergétiques – Pendule pesant et de torsion)
+
+Professeur : Mr EL GOUFIFA Jihad
+
+## I- Pendule de torsion
+
+### 1-1/ Énergie cinétique
+
+On considère un pendule de torsion formé d'un fil métallique léger auquel est fixé une tige dense.
+
+Soit $J_{\Delta}$ le moment d'inertie de la tige par rapport à l'axe de rotation matérialisé par le fil métallique et $\overset{\cdot}{\theta}$ est la vitesse angulaire de la tige à instant $t$.
+
+On définit l'énergie cinétique du système qu'est en rotation autour de $\left(\Delta\right)$, à cet instant $t$ par l'expression suivante : $\overline{\left.\right)E_{c} = \frac{1}{2} J_{\Delta} . \left(\overset{\cdot}{\theta}\right)^{2}}$
+
+### 1-2/ Énergie potentielle de torsion
+
+L'énergie potentielle de torsion d'un pendule de torsion est définie par la relation : $E_{p t} = \frac{1}{2} C . \theta^{2} + C t e$
+
+Avec $C$ la constante de la torsion du pendule, $\theta$ angle de torsion en rad et $C t e$ une constante qui dépend du choix de l'état de référence fourni par les conditions initiales.
+
+En générale, on prend $E_{p t} = 0$ pour $\theta = \theta_{0} = 0$ ; soit $C t e = 0$ d'où $\overline{\left.\right)E_{p t} = \frac{1}{2} C . \theta^{2}}$
+
+### 1-3/ Énergie mécanique
+
+On a :
+
+$E_{m} = E_{c} + E_{p t} \\ E_{m} = \frac{1}{2} J_{\Delta} \left(\overset{\cdot}{\theta}\right)^{2} + \frac{1}{2} C \theta^{2}$
+
+Les oscillations sont non-amorties, donc on a un échange entre l'énergie potentielle et cinétique, alors que celle mécanique reste constante.
+
+On dérive $E_{m}$ par rapport au temps :
+
+$\frac{d E_{m}}{d t} = 0 \\ \\ \Rightarrow \frac{d}{d t} \left(\frac{1}{2} J_{\Delta} \left(\overset{\cdot}{\theta}\right)^{2} + \frac{1}{2} C \theta^{2}\right) = 0 \\ \\ \Rightarrow J_{\Delta} \overset{\cdot}{\theta} \overset{\cdot\cdot}{\theta} + C \theta \overset{\cdot}{\theta} = 0 \\ \\ \Rightarrow \overline{\left.\right)\overset{\cdot\cdot}{\theta} + \frac{C}{J_{\Delta}} \theta = 0}$
+
+C'est la même équation différentielle obtenue à partir de l'étude dynamique.
+
+### 1-4/ Diagramme énergétique
+
+Les frottements sont négligeables, donc on a une conservation d'énergie mécanique :
+
+$E_{m} = \frac{1}{2} J_{\Delta} \left(\overset{\cdot}{\theta}\right)^{2} + \frac{1}{2} C \theta^{2} = C t e$
+
+Lorsque la tige passe par sa position d'équilibre : $\theta = 0$ et $\overset{\cdot}{\theta} = \pm \left(\overset{\cdot}{\theta}\right)_{m}$, soit $E_{p} = 0$ et $E_{c} = \frac{1}{2} J_{\Delta} \left(\left(\overset{\cdot}{\theta}\right)_{m}\right)^{2}$
+
+Lorsque la tige passe par ses positions extrêmes : $\theta = \pm \theta_{m}$ et $\overset{\cdot}{\theta} = 0$, soit $E_{p} = \frac{1}{2} C \left(\theta_{m}\right)^{2}$ et $E_{c} = 0$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-2/img1.png)
+
+## II- Pendule pesant
+
+### 2-1/ Énergie cinétique
+
+L'énergie cinétique du pendule pesant est :
+
+$\overline{\left.\right)E_{C} = \frac{1}{2} J_{\Delta} \left(\overset{\cdot}{\theta}\right)^{2}}$
+
+### 2-2/ Énergie potentielle de pesanteur
+
+L'énergie potentielle de pesanteur du pendule pesant est : $E_{p p} = m . g . z + C t e$
+
+En considérant comme état de référence $E_{p p} = 0$ lorsque $z = 0 \left(G = G_{0} = O\right)$, la constante $C t e = 0$ et donc : $E_{p p} = m . g . z$
+
+Lorsque le pendule pesant est incliné d'un angle $\theta$, son énergie potentielle de pesanteur est :
+
+$E_{p p} = m . g . z \\ E_{p p} = m . g \left(d - O G_{0}\right) \\ E_{p p} = m . g \left(d - d cos \theta\right) \\ \overline{\left.\right)E_{p p} = m . g . d \left(1 - cos \theta\right)}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-2/img3.bmp)
+
+### 2-3/ Énergie mécanique
+
+On a :
+
+$E_{m} = E_{c} + E_{p p} \\ E_{m} = \frac{1}{2} J_{\Delta} \left(\overset{\cdot}{\theta}\right)^{2} + m g d \left(1 - cos \theta\right)$
+
+Les oscillations sont non-amorties, donc on a un échange entre l'énergie potentielle et cinétique, alors que celle mécanique reste constante.
+
+On dérive $E_{m}$ par rapport au temps :
+
+$\frac{d E_{m}}{d t} = 0 \\ \\ \Rightarrow \frac{d}{d t} \left(\frac{1}{2} J_{\Delta} \left(\overset{\cdot}{\theta}\right)^{2} + m g d \left(1 - cos \theta\right)\right) = 0 \\ \\ \Rightarrow J_{\Delta} \overset{\cdot}{\theta} \overset{\cdot\cdot}{\theta} + m g d sin \theta \overset{\cdot}{\theta} = 0 \\ \\ \Rightarrow J_{\Delta} \overset{\cdot\cdot}{\theta} + m g d \theta = 0 \left(sin \theta \approx \theta\right) \\ \\ \Rightarrow \overline{\left.\right)\overset{\cdot\cdot}{\theta} + \frac{m g d}{J_{\Delta}} \theta = 0}$
+
+C'est la même équation différentielle obtenue à partir de l'étude dynamique.
+
+### 2-4/ Diagramme énergétique
+
+Les frottements sont négligeables, donc on a une conservation d'énergie mécanique :
+
+$E_{m} = \frac{1}{2} J_{\Delta} \left(\overset{\cdot}{\theta}\right)^{2} + m g d \left(1 - cos \theta\right) = C t e$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-2/img3.bmp)
+
+Pour les petites oscillations $\left(\theta < 15 \circ\right)$, on a $1 - cos \theta = \frac{\theta^{2}}{2}$
+
+Donc on peut écrire par approximation : $E_{p p} = \frac{m g d \theta^{2}}{2}$
+
+Et on obtient le diagramme suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-2/img4.bmp)

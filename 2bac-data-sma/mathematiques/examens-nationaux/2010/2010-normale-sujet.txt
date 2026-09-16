@@ -1,0 +1,150 @@
+---
+Type: Examen National
+Année: 2010
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2010 – الموضوع - مادة : الرياضيات
+NS25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte cinq exercices indépendants deux à deux.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- Le premier exercice se rapporte aux structures algébriques.
+- Le deuxième exercice se rapporte aux nombres complexes.
+- Le troisième exercice se rapporte à l'arithmétique.
+- Le quatrième exercice se rapporte à l'analyse.
+- Le cinquième exercice se rapporte à l'analyse.
+
+Les calculatrices programmables sont strictement interdites.
+
+## Exercice 1 : (3,5 points)
+
+Les parties I et II sont indépendantes.
+
+**I** - On munit l'ensemble $I = \left]0, +\infty\right[$ de la loi de composition interne $\ast$ définie par :
+
+$$\forall (a ; b) \in I \times I , \quad a \ast b = e^{\ln a \cdot \ln b}$$
+
+0,5 — 1) Montrer que la loi $\ast$ est commutative et associative dans $I$.
+
+0,25 — 2) Montrer que la loi $\ast$ admet un élément neutre que l'on déterminera.
+
+0,75 — 3) a- Montrer que $\left(I \setminus \{1\} , \ast\right)$ est un groupe commutatif.
+($I \setminus \{1\}$ désigne l'ensemble $I$ privé de $1$).
+
+0,25 — b- Montrer que $\left(\left]1 , +\infty\right[ , \ast\right)$ est un sous-groupe de $\left(I \setminus \{1\} , \ast\right)$.
+
+4) On munit $I$ de la loi de composition interne $\times$ ($\times$ est la multiplication dans $\mathbb{R}$)
+
+0,25 — a- Montrer que la loi $\times$ est distributive par rapport à la loi $\ast$
+
+0,5 — b- Montrer que $\left(I , \ast , \times\right)$ est un corps commutatif.
+
+**II** - On considère la matrice : $A = \begin{pmatrix} 1 & 1 & -2 \\ 1 & 1 & -2 \\ 2 & 2 & 0 \end{pmatrix}$
+
+0,5 — 1) Calculer $A^{2}$ et $A^{3}$
+
+0,5 — 2) En déduire que la matrice $A$ est non inversible.
+
+## Exercice 2 : (3,5 points)
+
+Le plan complexe est muni d'un repère orthonormé direct $\left(O ; \overrightarrow{u} , \overrightarrow{v}\right)$.
+
+0,25 — 1) a- Déterminer les deux racines carrées du nombre complexe $3 - 4i$
+
+0,5 — b- Résoudre dans l'ensemble $\mathbb{C}$ l'équation : $(E) : z^{2} - 4iz - 10 - 7i = 0$
+
+2) Soient $a$ et $b$ les solutions de l'équation $(E)$ avec $\mathrm{Re}(a) > 0$ et soient $A$ et $B$ leurs points images respectifs dans le plan complexe.
+
+0,25 — a- Vérifier que : $b = ia - 1$
+
+0,75 — b- En déduire que le triangle $AOB$ est rectangle et isocèle en $A$.
+
+3) Soient $C$ un point du plan différent du point $A$ ayant pour affixe $c$ et $D$ l'image du point $B$ par la rotation de centre $C$ et d'angle $\frac{\pi}{2}$ ; et soit $L$ l'image du point $D$ par la translation de vecteur $\overrightarrow{AO}$.
+
+0,5 — a- Déterminer en fonction de $c$ le nombre complexe $d$ affixe du point $D$
+
+0,5 — b- Déterminer en fonction de $c$ le nombre complexe $\ell$ affixe du point $L$
+
+0,75 — c- Déterminer la forme algébrique du nombre complexe $\dfrac{\ell - c}{a - c}$ ; en déduire la nature du triangle $ACL$.
+
+## Exercice 3 : (3 points)
+
+1 — 1) Déterminer tous les nombres entiers naturels $m$ tels que : $m^{2} + 1 \equiv 0 \ [5]$
+
+2) Soit $p$ un nombre premier tel que $p = 4k + 3$ où $k$ est un nombre entier naturel.
+
+Soit $n$ un nombre entier naturel tel que : $n^{2} + 1 \equiv 0 \ [p]$
+
+0,25 — a- Vérifier que : $n^{(2k+1) \cdot 2} \equiv -1 \ [p]$
+
+0,5 — b- Montrer que $n$ et $p$ sont premiers entre eux.
+
+0,75 — c- En déduire que : $n^{(2k+1) \cdot 2} \equiv 1 \ [p]$
+
+0,5 — d- Déduire de ce qui précède qu'il n'existe pas d'entier naturel $n$ vérifiant : $n^{2} + 1 \equiv 0 \ [p]$
+
+## Exercice 4 : (6,25 points)
+
+**I** - On considère la fonction $f$ définie sur l'intervalle $\left[0 ; +\infty\right[$ par : $f(x) = 4 x e^{-\sqrt{x}}$
+
+Soit $(C)$ la courbe représentative de $f$ dans le plan muni d'un repère orthonormé $\left(O ; \overrightarrow{i} ; \overrightarrow{j}\right)$
+
+0,5 — 1) Calculer la limite de $f$ en $+\infty$
+
+0,75 — 2) Étudier les variations de $f$ sur l'intervalle $\left[0 ; +\infty\right[$ puis donner son tableau de variations.
+
+0,75 — 3) Déterminer l'équation de la demi-tangente à la courbe $(C)$ à l'origine du repère puis construire la courbe $(C)$. (on prend $\|\overrightarrow{i}\| = \|\overrightarrow{j}\| = 2\,cm$ et on admet que le point d'abscisse $32$ est un point d'inflexion de la courbe $(C)$)
+
+0,5 — 4) Calculer l'intégrale $a = \displaystyle\int_{0}^{1} f(x)\,dx$ puis en déduire, en centimètre carré, l'aire de la partie plane limitée par la courbe $(C)$, les deux axes du repère et la droite d'équation $x = 1$
+
+**II** - Soit $n$ un entier naturel supérieur ou égal à $2$.
+
+On considère la fonction numérique définie sur l'intervalle $\left[0 ; +\infty\right[$ par : $f_{n}(x) = 4 x^{n} e^{-\sqrt{x}}$
+
+0,25 — 1) a- Montrer que : $(\forall x \geq 0) \quad e^{\sqrt{x}} \geq \left(\frac{x}{2}\right) e^{1}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,25 — b- En déduire la limite de $f_{n}$ quand $x$ tend vers $+\infty$
+
+0,75 — 2) Étudier les variations de la fonction $f_{n}$ sur l'intervalle $\left[0 ; +\infty\right[$ puis donner son tableau de variations.
+
+0,5 — 3) Montrer qu'il existe un nombre réel unique $u_{n}$ de l'intervalle $\left]0 , 1\right[$ tel que : $f_{n}(u_{n}) = 1$
+
+0,25 — 4) a- Montrer que : $\left(\forall n \geq 2\right) \quad f_{n}(u_{n}) = u_{n}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,75 — b- Montrer que la suite $\left(u_{n}\right)_{n \geq 2}$ est strictement croissante, en déduire qu'elle est convergente.
+
+4) On pose : $\ell = \lim\limits_{n \to +\infty} u_{n}$
+
+0,25 — a- Montrer que : $0 < \ell \leq 1$
+
+0,25 — b- Montrer que : $\ln 4 + n \ln u_{n} - \sqrt{u_{n}} = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — c- En déduire que : $\ell = 1$
+
+## Exercice 5 : (3,75 points)
+
+On considère la fonction numérique $F$ définie sur $\mathbb{R}^{*}$ par : $F(x) = \displaystyle\int_{x}^{2x} \frac{1}{\ln\left(1 + t^{2}\right)}\,dt$
+
+0,25 — 1) Montrer que $F$ est impaire.
+
+0,25 — 2) Pour tout réel $x$ de l'intervalle $\left]0 , +\infty\right[$ on pose : $\varphi(x) = \displaystyle\int_{1}^{x} \frac{1}{\ln\left(1 + t^{2}\right)}\,dt$
+
+a- Vérifier que : $\left(\forall x > 0\right) \quad F(x) = \varphi(2x) - \varphi(x)$
+
+0,5 — b- Montrer que $F$ est dérivable sur l'intervalle $\left]0 , +\infty\right[$ puis calculer $F'(x)$ pour $x > 0$.
+
+0,5 — c- En déduire le sens de variations de la fonction $F$ sur l'intervalle $\left]0 , +\infty\right[$.
+
+0,5 — 3) a- En utilisant le théorème des accroissements finis, montrer que : $\left(\forall x > 0\right) \left(\exists c \in \left]x , 2x\right[\right) : F(x) = \dfrac{x}{\ln\left(1 + c^{2}\right)}$
+
+0,25 — b- En déduire que : $\left(\forall x > 0\right) \quad \dfrac{x}{\ln\left(1 + 4x^{2}\right)} \leq F(x) \leq \dfrac{x}{\ln\left(1 + x^{2}\right)}$
+
+0,75 — c- Déterminer les limites suivantes : $\lim\limits_{x \to 0^{+}} F(x)$ et $\lim\limits_{x \to +\infty} F(x)$ et $\lim\limits_{x \to +\infty} \dfrac{F(x)}{x}$
+
+0,75 — d- Montrer que : $F(1) \geq 1 - e$ et $F\left(\frac{e}{2}\right) \leq \frac{e}{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+en déduire que l'équation $F(x) = x$ admet une solution unique dans $\left]0 , +\infty\right[$.

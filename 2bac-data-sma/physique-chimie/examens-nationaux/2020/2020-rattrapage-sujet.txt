@@ -1,0 +1,281 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2020 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية
+الدورة الاستدراكية 2020 - الموضوع –
+RS 30 F
+المادة: الفيزياء والكيمياء
+الشعبة أو المسلك: شعبة العلوم الرياضية (أ) و(ب) (خيار فرنسية)
+مدة الإنجاز: 4
+المعامل: 7
+
+* L'usage de la calculatrice scientifique non programmable est autorisé.
+* La formule littérale doit être donnée avant l'application numérique et le résultat doit être accompagné de son unité.
+* Les exercices peuvent être traités séparément selon le choix du candidat.
+
+Le sujet comporte 4 exercices : un exercice de chimie et trois exercices de physique.
+
+Exercice 1 : Chimie (6,5 points)
+- Partie I : Pile diiode – zinc.
+- Partie II : Réactions acido-basiques.
+
+Exercice 2 : Ondes (2,5 points) - Transformations nucléaires (2,25 points)
+- I- Ondes mécaniques et ondes électromagnétiques.
+- II- Activité d'un échantillon radioactif.
+
+Exercice 3 : Electricité (5,5 points)
+- Partie I : Réponse d'un dipôle RC à un échelon de tension ascendant et étude d'un dipôle RLC.
+- Partie II : Etude d'un signal modulé en amplitude.
+
+Exercice 4 : Mécanique (3,25 points)
+- Partie I : Mouvement de chute verticale d'une bille dans un liquide visqueux.
+- Partie II : Mouvement d'un projectile dans le champ de pesanteur.
+
+## Exercice 1 : Chimie (6,5 points)
+
+Les parties I et II sont indépendantes
+
+### Partie I : Pile diiode-zinc
+
+On étudie la pile diiode-zinc qui fait intervenir les deux couples ox/red : Zn2+(aq) / Zn(s) et I2(aq) / I-(aq).
+
+On la constitue de deux compartiments liés par un pont salin (papier filtre imbibé d'une solution de chlorure de potassium K+(aq) + Cl-(aq)).
+
+Le premier compartiment est constitué d'une lame de zinc plongée dans un volume V = 100 mL d'une solution aqueuse de sulfate de zinc Zn2+(aq) + SO42-(aq) de concentration molaire initiale [Zn2+(aq)]i = C0 = 0,10 mol.L-1. Le deuxième compartiment est constitué d'une lame de platine (Pt) plongée dans un volume V = 100 mL d'un mélange (S) contenant une solution aqueuse du diiode I2(aq) et une solution d'iodure de potassium K+(aq) + I-(aq) dont les concentrations molaires initiales dans (S) sont : [I2(aq)]i = C1 = 0,10 mol.L-1 et [I-(aq)]i = C2 = 5,0.10-2 mol.L-1.
+
+La partie immergée de la lame de zinc est en excès et lorsque la pile fonctionne l'électrode de platine ne subit aucune réaction.
+
+Données :
+- Le faraday : 1F = 9,65.104 C.mol-1 ;
+- La constante d'équilibre associée à l'équation de la réaction :
+
+I2(aq) + Zn(s) ⇄(1)/(2) 2I-(aq) + Zn2+(aq)
+
+est K = 1046 à 25 °C.
+
+On monte en série avec la pile un conducteur ohmique (D), un ampèremètre (A) et un interrupteur K.
+
+A un instant de date t0 = 0, on ferme le circuit, l'ampèremètre indique alors le passage d'un courant électrique d'intensité considérée constante I0 = 70 mA.
+
+1- (0,5 pt) Indiquer en justifiant le sens d'évolution spontanée du système chimique.
+
+2- (0,25 pt) Ecrire l'équation de la réaction qui se produit au niveau de la cathode.
+
+3- (0,75 pt) On laisse fonctionner la pile pendant la durée Δt = t − t0. Pour déterminer la quantité de matière de diiode consommée pendant cette durée, on dose le diiode restant dans le deuxième compartiment de la pile avec une solution incolore de thiosulfate de sodium 2Na+(aq) + S2O32-(aq) de concentration molaire en soluté apporté Cr = 0,30 mol.L-1. Le volume de la solution de thiosulfate de sodium versé à l'équivalence est VE = 20,0 mL.
+
+L'équation modélisant la réaction du dosage s'écrit : I2(aq) + 2S2O32-(aq) → 2I-(aq) + S4O62-(aq).
+
+Montrer que la quantité de matière nc(I2) de diiode consommé lors du fonctionnement de la pile est : nc(I2) = 7 mmol.
+
+4- (0,75 pt) Trouver l'expression de la durée Δt = t − t0 de fonctionnement de la pile en fonction de I0, F et nc(I2). Calculer sa valeur.
+
+5- (0,5 pt) Calculer la concentration molaire des ions zinc dans le premier compartiment juste après la durée Δt = t − t0 de fonctionnement de la pile.
+
+### Partie II : Réactions acido-basiques
+
+Les acides carboxyliques sont des composés organiques, qui entrent dans la composition de beaucoup de substances utilisées dans notre vie quotidienne tels, les médicaments, les arômes, les aliments. On se propose, dans cette partie, de déterminer la formule chimique d'un acide carboxylique de formule générale CnH2n+1COOH (avec n ∈ ℕ) et d'étudier certaines réactions de cet acide avec d'autres composés.
+
+Données : M(C) = 12 g.mol-1 ; M(H) = 1 g.mol-1 ; M(O) = 16 g.mol-1.
+
+On prépare une solution aqueuse (S), de volume V = 500 mL, d'un acide carboxylique en dissolvant une quantité de cet acide pur de masse m = 2,3 g dans de l'eau distillée.
+
+On prend un volume VA = 10 mL de la solution (S) que l'on dose avec une solution aqueuse (SB) d'hydroxyde de sodium Na+(aq) + HO-(aq) de concentration molaire CB = 0,10 mol.L-1. Le volume de la solution (SB) versé à l'équivalence est VBE = 10,0 mL.
+
+1- (0,5 pt) Ecrire, en utilisant la formule générale de l'acide, l'équation modélisant la réaction du dosage.
+
+2- (0,75 pt) Déterminer la concentration CA de l'acide dans la solution (S), et en déduire que la formule chimique de cet acide est HCOOH.
+
+3- Le pH de la solution (S) est pH = 2,38.
+
+3-1- (0,5 pt) Déterminer le taux d'avancement final de la réaction. Conclure.
+
+3-2- (0,75 pt) Déterminer la valeur du rapport [HCOO-]éq/[HCOOH]éq.
+
+3-3- (0,5 pt) Vérifier que pKA(HCOOH(aq) / HCOO-(aq)) = pKA1 = 3,74.
+
+4- (0,75 pt) On mélange un volume V1 de la solution (S) avec le même volume V1 d'une solution aqueuse d'éthanoate de sodium CH3COO-(aq) + Na+(aq) de même concentration CA ; le pH du mélange est pH = 4,25. Trouver l'expression du pH du mélange réactionnel en fonction de pKA1 et de pKA2 = pKA(CH3COOH(aq) / CH3COO-(aq)) et en déduire la valeur du pKA2.
+
+## Exercice 2 : Ondes (2,5 points) - Transformations nucléaires (2,25 points)
+
+### I- Propagation des ondes mécaniques et des ondes électromagnétiques
+
+1- (0,5 pt) Donner le nombre d'affirmations justes parmi les affirmations suivantes :
+a- Les ultrasons sont des ondes longitudinales.
+b- Les ultrasons sont des ondes électromagnétiques.
+c- La fréquence d'une onde ultrasonore varie en passant de l'air à l'eau.
+d- Si on double la fréquence d'une onde sinusoïdale dans un milieu non dispersif, alors sa vitesse de propagation est divisée par 2.
+
+2- Recopier sur votre copie le numéro de la question et écrire à côté, parmi les quatre réponses proposées, la réponse juste sans ajouter aucune justification ni explication.
+
+2-1- (0,25 pt) L'affirmation juste est :
+□ Lors de la propagation d'une onde mécanique progressive, il y a transport de la matière.
+□ Une onde mécanique à la surface de l'eau peut transporter un objet flottant.
+□ Une onde sonore se propage dans le vide.
+□ Lors de la diffraction d'une onde mécanique progressive périodique, sa fréquence ne change pas.
+
+2-2- (0,25 pt) Le son émis par un haut-parleur est une onde :
+□ mécanique, longitudinale. □ électromagnétique, transversale.
+□ mécanique, transversale. □ électromagnétique, longitudinale.
+
+3- Un faisceau laser de fréquence f1 = 4,76.1014 Hz éclaire une fente verticale de largeur a. On place un écran E perpendiculairement à la direction du faisceau, à une distance D = 1,6 m de la fente. On observe une figure de diffraction dont la tache centrale a une largeur ℓ1 = 8 cm.
+
+On donne c = 3.108 m.s-1 la célérité d'une onde lumineuse dans l'air et on se limite dans le cas de faibles écarts angulaires où tan θ ≈ θ avec θ exprimé en radian.
+
+3-1- (0,5 pt) Faire le schéma du montage et de la figure de diffraction en faisant apparaître l'écart angulaire θ.
+
+3-2- (0,5 pt) Trouver la valeur de la largeur a de la fente.
+
+3-3- (0,5 pt) On change le faisceau laser par une source lumineuse émettant une lumière monochromatique de longueur d'onde λ2 = 450 nm. Comment la largeur de la tache centrale de la figure de diffraction va-t-elle varier ? Justifier la réponse.
+
+### II - Activité du polonium
+
+Le polonium 210/84 Po, découvert en 1898 par Pierre et Marie Curie, se désintègre avec émission d'une particule α.
+
+Le polonium 210 est très toxique. La dose maximale du polonium 210 que peut supporter le corps humain correspond à une activité amax = 740 Bq.
+
+Données :
+- Extrait du tableau de la classification périodique : 81 Ti | 82 Pb | 83 Bi | 85 At | 86 Rn
+- m(4/2 He) = 4,00151 u ; m(Pb) = 205,930 u ; m(Po) = 209,9374 u ;
+- 1 u = 931,5 MeV.c-2 = 1,6605.10-27 kg ;
+- 1 MeV = 1,6.10-13 J.
+
+1- (0,25 pt) Ecrire l'équation de désintégration du noyau de polonium 210.
+
+2-1- (0,5 pt) Calculer, en unité MeV, l'énergie E1 libérée par la désintégration d'un noyau de polonium 210.
+
+2-2- (0,25 pt) En déduire, en unité joule, l'énergie E2 libérée par la désintégration de masse m = 10 μg de polonium 210.
+
+3- (0,5 pt) Un laboratoire reçoit un échantillon de polonium 210. Après une durée Δt = 245 h 37 min de la date de sa réception, on mesure l'activité de l'échantillon, on trouve qu'elle a diminué de 5%.
+Déterminer, en jour, la valeur de la demi-vie t1/2 du polonium 210.
+
+4- (0,75 pt) Calculer, en gramme, la masse maximale mmax du polonium 210 que peut supporter le corps humain sans risque.
+
+## Exercice 3 : Electricité (5,5 points)
+
+Les parties I et II sont indépendantes
+
+On se propose, dans la partie I de cet exercice, de déterminer les grandeurs caractéristiques des éléments d'un circuit électrique, en étudiant la charge d'un condensateur et sa décharge à travers une bobine. Dans la partie II, on étudiera un signal modulé en amplitude.
+
+### Partie I : Réponse d'un dipôle RC à un échelon de tension ascendant et étude d'un dipôle RLC
+
+1- Réponse d'un dipôle RC à un échelon de tension ascendant
+
+On réalise le montage représenté sur la figure 1 comportant :
+- un générateur idéal de tension de f.e.m. E ;
+- un condensateur de capacité C variable initialement déchargé ;
+- un conducteur ohmique de résistance R ;
+- un conducteur ohmique de résistance R1 ;
+- une bobine (b) d'inductance L = 0,1 H et de résistance négligeable ;
+- un interrupteur K.
+
+[Figure 1 : E, K positions (1) et (2), R, C (uC), R1, bobine (b), courant i. Figure 2 : courbes (a) et (b) de i(t). Figure 3 : uR1(V) en fonction de t(ms) avec la tangente (T) à t = 0 ; repères 0,1 V, 1 ms. Figure 4 : entrées E1 (vp(t)) et E2 (vs(t)), multiplieur X, sortie S (us(t)). Figure 5 : oscillogramme us(t) en fonction de s(t) ; repères 2 V, 0,5 V.]
+
+1-1- On ajuste la capacité du condensateur sur une valeur C et on place l'interrupteur, à la date t = 0, en position (1).
+
+1-1-1- (0,25 pt) Etablir l'équation différentielle vérifiée par l'intensité du courant i(t).
+
+1-1-2- (0,5 pt) La solution de cette équation différentielle s'écrit sous la forme i(t) = A.e−t/τ avec A une constante et τ la constante de temps du dipôle RC.
+Exprimer i(t) en fonction des paramètres du circuit et de t.
+
+1-2- Les courbes (a) et (b) de la figure 2 représentent l'évolution de l'intensité i(t) du courant lorsqu'on ajuste la capacité du condensateur sur une valeur C1 puis sur une valeur C2 avec C2 < C1.
+
+1-2-1- (0,25 pt) Indiquer, en justifiant votre réponse, la courbe correspondant à la capacité C1.
+
+1-2-2- (0,25 pt) Montrer que i = 2,2 mA pour t = τ.
+
+1-2-3- (0,75 pt) La capacité du condensateur équivalent à un condensateur de capacité C1 monté en parallèle avec un condensateur de capacité C2 est Ce = 10 μF. Montrer que C1 = 4 μF.
+
+1-2-4- (0,5 pt) Déterminer la valeur de R et celle de E.
+
+2- Décharge d'un condensateur dans une bobine
+
+Après avoir chargé complètement le condensateur de capacité C1, on bascule à un instant t (qu'on prendra comme nouvelle origine des dates t = 0) l'interrupteur K en position (2). La courbe de la figure 3 représente l'évolution, au cours du temps, de la tension uR1(t) aux bornes du conducteur ohmique de résistance R1. (T) représente la tangente à la courbe à l'instant t = 0.
+
+2-1- (0,5 pt) Etablir l'équation différentielle vérifiée par uR1(t).
+
+2-2- (0,75 pt) Trouver la valeur de R1.
+
+### Partie II : Etude d'un signal modulé en amplitude
+
+Afin d'obtenir un signal modulé en amplitude, on utilise un circuit intégré multiplieur X de constante caractéristique k = 0,1 V-1 (fig. 4).
+
+On applique à l'entrée :
+- E1 : la tension vp(t) = Um.cos(2π.105.t)
+- E2 : la tension vs(t) = s(t) + U0 avec s(t) = Sm.cos(2π.103.t) et U0 la tension de décalage.
+
+La tension de sortie us(t) obtenue est : us(t) = k.(s(t) + U0).vp(t). us(t) peut s'écrire sous la forme :
+
+us(t) = A.[(m/2).cos(2πN1.t) + cos(2πF.t) + (m/2).cos(2πN2.t)]
+
+avec A = k.U0.Um, N1 < F < N2, F la fréquence de l'onde porteuse et m le taux de modulation.
+
+1- (0,5 pt) Déterminer la valeur de N1 et celle de N2.
+
+2- (0,25 pt) Donner le taux de modulation m en fonction de Sm et U0.
+
+3- On visualise la tension s(t) sur l'entrée X de l'oscilloscope et la tension de sortie us(t) sur l'entrée Y, et on élimine la base de temps (mode XY). On obtient ainsi l'oscillogramme de la figure 5 représentant us(t) en fonction de s(t).
+
+3-1- (0,5 pt) Déterminer graphiquement le taux de modulation m.
+
+3-2- (0,5 pt) Déterminer les valeurs des tensions U0 et Um.
+
+## Exercice 4 : Mécanique (3,25 points)
+
+Les parties I et II sont indépendantes
+
+### Partie I : Mouvement de chute verticale d'une bille dans un liquide visqueux
+
+Dans cette partie on étudie le mouvement du centre d'inertie G d'une bille sphérique homogène, de masse m et de rayon r, dans une huile contenue dans un tube.
+
+On étudie le mouvement du centre d'inertie G dans un repère (O, k⃗) lié à un référentiel terrestre considéré comme galiléen (figure 1).
+
+On repère la position de G à tout instant par la cote z de l'axe vertical (O, k⃗) dirigé vers le bas. L'origine de l'axe est confondue avec le point O1.
+
+A l'instant de date t0, prise comme origine des dates (t0 = 0), on lâche la bille sans vitesse initiale du point O1 (figure 1).
+
+[Figure 1 : tube vertical, point O1, axe (O, z, k⃗). Figure 2 : repère R(O, i⃗, j⃗), vitesse V⃗0, axes x et y.]
+
+Au cours de sa chute dans l'huile, la bille est soumise, en plus de son poids, à :
+- la force de frottement fluide : f⃗ = −6π.η.r.v.k⃗ où η est la viscosité de l'huile, r le rayon de la bille et v la vitesse de G à un instant t ;
+- la poussée d'Archimède : F⃗ = −ρ.VS.g⃗ où g est l'intensité de la pesanteur, VS le volume de la bille et ρ la masse volumique de l'huile.
+
+Données :
+- L'intensité de la pesanteur g = 9,81 m.s-2,
+- La masse volumique de l'huile : ρ = 860 kg.m-3 ;
+- Le rayon de la bille : r = 6,3 mm ;
+- La masse volumique de la matière constituant la bille : ρS = 4490 kg.m-3.
+
+On rappelle que le volume d'une sphère de rayon r est V = (4/3).π.r3.
+
+1- (0,5 pt) En appliquant la deuxième loi de Newton, montrer que l'équation différentielle du mouvement de G vérifiée par la vitesse v s'écrit : dv/dt + (1/τ).v = g.(1 − ρ/ρS) avec v = |v⃗| et τ le temps caractéristique du mouvement exprimé en fonction des paramètres de l'exercice.
+
+2- (0,5 pt) La vitesse limite vlim de chute de la bille est déterminée par une étude expérimentale qui consiste à filmer le mouvement de la bille dans un tube en verre vertical de hauteur h = 90 cm et rempli de l'huile utilisée. L'exploitation des résultats de l'enregistrement a donné vlim = 1,0 m.s-1.
+Exprimer la viscosité η en fonction de vlim et des données de l'exercice. Calculer sa valeur.
+
+3- (0,5 pt) Calculer la valeur de la cote z(t) = vlim.[t + τ.(e−t/τ − 1)] pour t = 7τ. Expliquer pourquoi ce tube de hauteur h = 90 cm est convenable pour la mesure expérimentale de vlim.
+
+### Partie II : Mouvement d'un projectile dans le champ de pesanteur
+
+On étudie dans cette partie le mouvement de chute libre d'un projectile, de centre d'inertie G et de masse m dans un repère orthonormé R(O, i⃗, j⃗) lié au référentiel terrestre considéré galiléen. On suppose qu'au cours du mouvement, le champ de pesanteur est uniforme.
+
+A un instant choisi comme origine des dates (t = 0), on lance le projectile depuis le point O origine du repère avec une vitesse initiale V⃗0 faisant un angle α avec l'horizontale et situé dans le plan (xOy) (figure 2).
+
+Données : g = 10 m.s-2 ; V0 = 100 m.s-1.
+
+On rappelle que : 1/cos2α = 1 + tan2α.
+
+1- (0,5 pt) En appliquant la deuxième loi de Newton, établir les équations horaires du mouvement x(t) et y(t) du centre d'inertie G en fonction de α et de t.
+
+2- (0,5 pt) Déduire l'équation de la trajectoire du projectile.
+
+3- On garde la norme de V⃗0 constante.
+
+3-1- (0,5 pt) Trouver la ou les valeur(s) qu'il faut donner à l'angle α pour atteindre une cible (A) de coordonnées (xA = 400 m ; yA = 100 m).
+
+3-2- (0,25 pt) On fait varier l'angle α. Soit (c) la courbe, dans le plan (xOy), qui limite l'ensemble des points pouvant être atteints par ce projectile. Cette courbe (c) porte le nom de parabole de sûreté.
+Montrer que l'équation de cette courbe (c) s'écrit : y = −(g/(2V02)).x2 + V02/(2g).

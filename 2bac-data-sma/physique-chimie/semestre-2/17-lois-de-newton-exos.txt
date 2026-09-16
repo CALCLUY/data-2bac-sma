@@ -1,0 +1,144 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Les lois de Newton
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 17 (Les lois de Newton)
+Professeur : Mr El GOUFIFA Jihad
+
+## VI- Exercices
+
+### 6-1/ Exercice 1
+
+Les coordonnées du vecteur position $\overset{\rightarrow}{O G}$ au cours du mouvement d'un corps solide dans un repère orthonormé $R \left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$ sont : $\left{\begin{matrix} x = t + 3 \\ y = t^{2} - t + 3 \end{matrix}\right$
+
+1. Trouver l'équation de la trajectoire $y = f \left(x\right)$. En déduire sa nature.
+
+2. Déterminer les coordonnées du vecteur vitesse $\overset{\rightarrow}{V_{G}}$ dans le repère $R$.
+
+3. Calculer la norme de la vitesse $\overset{\rightarrow}{V_{G}}$ à la date $t = 1 , 5 s$.
+
+4. Trouver les coordonnées du vecteur accélération $\overset{\rightarrow}{a_{G}}$ dans le repère $R$.
+
+5. Calculer la norme du vecteur accélération $\overset{\rightarrow}{a_{G}}$.
+
+6. Déterminer la nature du mouvement du mobile (accéléré ou retardé).
+
+### 6-2/ Exercice 2
+
+Un skieur (avec ses équipements) assimilé à un corps solide de masse $m = 70 K g$, décrit une piste formée par deux parties :
+
+- $O B$, une pente inclinée de $20 \circ$ avec le plan horizontal
+- $B C$, une voie rectiligne et horizontale.
+
+Le contact entre le skieur avec ses équipements se fait sans frottements sur la partie $O B = 2 , 4 m$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img18.bmp)
+
+L'intensité de gravitation $g = 9 , 81 m . s^{- 2}$.
+
+On étudie le mouvement du corps $\left(\right. S \left.\right)$ dans un repère galiléen $R \left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$.
+
+#### La partie $O B$
+
+1. En appliquant la 2ème loi de Newton, déterminer l'abscisse $a_{G_{x}}$ du vecteur accélération du centre d'inertie de $\left(\right. S \left.\right)$. Quelle est la nature de son mouvement ?
+
+2. Déterminer les équations horaires $v \left(\right. t \left.\right)$ et $x \left(\right. t \left.\right)$ du mouvement, on prend comme origine des dates lorsque le skieur est au point $O$ et sa vitesse initiale est nulle.
+
+3. Déterminer l'instant $t_{B}$ ou le corps $\left(\right. S \left.\right)$ atteint le point $B$.
+
+4. Calculer la vitesse du skieur au point $B$.
+
+5. Calculer l'intensité de la réaction du plan sur le skieur.
+
+#### La partie $B C$
+
+Le solide $\left(\right. S \left.\right)$ arrive au point $B$ avec la vitesse $V_{B}$.
+
+On prend comme origine des dates et d'espace lorsque le skieur atteint le point $B$.
+
+Le contact entre le plan $B C$ et $\left(\right. S \left.\right)$ se fait avec frottements équivalents à une force $\overset{\rightarrow}{f}$ constante et horizontale $f = 80 N$ et de sens opposé à celui du mouvement.
+
+1. En appliquant la 2ème loi de Newton, déterminer l'abscisse $a_{G_{x}}$ du vecteur accélération
+
+2. Déterminer les équations horaires $v \left(\right. t \left.\right)$ et $x \left(\right. t \left.\right)$ du mouvement.
+
+3. Déterminer l'instant tC sachant que $\left(\right. S \left.\right)$ arrête au point $C$.
+
+4. Calculer la distance $B C$.
+
+5. Calculer l'intensité de la réaction du plan sur le skieur.
+
+6. En déduire le coefficient de frottement $K$ et l'angle de frottement $\varphi$.
+
+### 6-3/ Exercice 3
+
+Une piste $B C D$ dans un plan vertical est constituée d'une partie $B C$ horizontale de longueur $B C = 80 c m$ et d'une partie CD circulaire de rayon $r = 10 c m$.
+
+On lance, à $t = 0$, un corps $\left(\right. S \left.\right)$ de masse $m = 200 g$ à partir du point $B$ origine de repère $\left(\right. B , x \left.\right)$ considéré galiléen avec une vitesse initiale $v_{B} = 2 m . s^{- 1}$ et le corps $\left(\right. S \left.\right)$ se déplace sur la partie $B C$ avec frottement :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img19.bmp)
+
+On prend $g = 9 , 81 m . s^{- 2}$.
+
+1. Trouver l'expression de la force de frottement $f$, calculer sa valeur sachant que l'accélération $a_{G_{x}}$ du centre d'inertie est $a_{G_{x}} = - 2 m . s^{- 2}$.
+
+2. Calculer la valeur de la réaction de la partie $B C$ sur le corps $\left(\right. S \left.\right)$. Déduire la valeur de l'angle de frottement.
+
+3. En utilisant les équations horaires $v \left(\right. t \left.\right)$ et $x \left(\right. t \left.\right)$ déterminer la vitesse $v_{C}$ au point $C$.
+
+Arrivant au point $C$, le corps $\left(\right. S \left.\right)$ continue son mouvement sur la partie circulaire $C D$ sans frottement.
+
+4. Trouver l'expression de la force de réaction $R$ appliquée par la partie $C D$ sur le corps $\left(\right. S \left.\right)$ à la position $M$ repérée par l'angle $\theta$ en fonction de $m$, $g$, $r$, $\theta$ et $v_{M}$ la vitesse au point $M$.
+
+5. Appliquer le théorème de l'énergie cinétique entre $C$ et $M$ et montrer que l'expression de $v_{M}$ s'écrit : $v_{M} = \sqrt{\left(v_{C}\right)^{2} - 2 . g . r \left(\right. 1 - cos \theta \left.\right)}$.
+
+6) Déterminer la valeur de l'angle maximal $\theta_{m a x}$ pour lequel le solide $\left(\right. S \left.\right)$ revient dans le sens inverse.
+
+7. Calculer l'intensité de la force de réaction $R$ à cet angle.
+
+#### Rappel
+
+Dans le repère de Frenet, le vecteur accélération s'écrit : $\overset{\rightarrow}{a_{G}} = \overset{\rightarrow}{a_{T}} + \overset{\rightarrow}{a_{n}} = a_{T} . \overset{\rightarrow}{u} + a_{n} . \overset{\rightarrow}{n}$ avec $a_{T} = \frac{d v}{d t}$ et $a_{n} = \frac{v^{2}}{r}$.
+
+### 6-4/ Exercice 4
+
+Cet exercice se propose d'étudier le mouvement du centre d'inertie $G$ d'un système $\left(\right. S \left.\right)$ formé d'un motard et d'une moto se déplaçant sur une piste de compétition.
+
+Cette piste est formée d'une partie rectiligne $A ' B '$ inclinée d'un angle p par rapport à l'horizontale
+
+Dans tout l'exercice, les frottements sont négligés et l'étude du mouvement du centre d'inertie $G$ est réalisée dans le référentiel terrestre considéré comme galiléen.
+
+Données :
+
+- L'angle $\beta = 10 \circ$
+- Intensité de la pesanteur : $g = 10 m . s^{- 2}$
+- Masse du système $\left(\right. S \left.\right)$ : m =190 kg.
+
+À un instant choisi connue origine des dates $\left(\right. t = 0 \left.\right)$, le système $\left(\right. S \left.\right)$ s'élance sans vitesse initiale, d'une position où le centre d'inertie $G$ est confondu avec le point $A$.
+
+Le système est soumis, au cours de son mouvement sur la partie $A ' B '$, à la réaction du plan incliné, à son poids et à une force motrice $\overset{\rightarrow}{F}$ constante, dont la ligne d'action est parallèle à la trajectoire de $G$ et le sens est celui du mouvement.
+
+Pour étudier le mouvement de $G$ au cours de cette phase, on choisit un repère d'espace $\left(\right. A , \overset{\rightarrow}{i} \left.\right)$ parallèle à $A ' B '$ et on repère la position de $G$ par son abscisse $x$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img20.bmp)
+
+1. En appliquant la deuxième loi de Newton, montrer que l'expression de l'accélération $a_{G}$ du mouvement de $G$ est $a_{G} = \frac{F}{m} + g . sin \beta$
+
+La courbe suivante représente les variations de la vitesse instantanée $V_{G}$ du centre d'inertie $G$ en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img21.bmp)
+
+2. En exploitant cette courbe, trouver la valeur de l'accélération $a_{G}$.
+
+3. Déduire l'intensité $F$ de la force motrice.
+
+4. Écrire l'expression numérique de l'équation horaire $x = f \left(\right. t \left.\right)$ du mouvement de $G$.
+
+5. Sachant que $A B = 36 m$, déterminer l'instant $t_{B}$ de passage de $G$ par le point $B$.
+
+6. Calculer la vitesse $V_{B}$ de passage de $G$ par le point $B$.

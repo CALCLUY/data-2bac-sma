@@ -1,0 +1,188 @@
+---
+Type: Examen National
+Année: 2023
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية — الدورة العادية 2023
+شعبة العلوم الرياضية (أ) و (ب) (خيار فرنسية) — المادة : الرياضيات
+الموضوع — NS 24F — المعامل : 9 — مدة الإنجاز : 4h
+
+CONSIGNES :
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte cinq exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- L'EXERCICE1 se rapporte à l'analyse ………..………..… (7.75 pts)
+- L'EXERCICE2 se rapporte à l'analyse ………..………..… (2.25 pts)
+- L'EXERCICE3 se rapporte aux nombres complexes......…. (3.5 pts)
+- L'EXERCICE4 se rapporte à l'arithmétique ………….......(3 pts)
+- L'EXERCICE5 se rapporte aux structures algébriques......(3.5 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 : (7.75 points)
+
+### Partie I
+
+0.5 — 1- a) Montrer que : $\left(\forall t \in \left[0 , +\infty\right[\right) \ ; \ \dfrac{1}{1 + t} \leq 1 - \dfrac{t}{2} + \dfrac{t^{2}}{4\left(1 + t\right)}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) En déduire que : $\left(\forall x \in \left[0 , +\infty\right[\right) \ ; \ 0 \leq \ln\left(1 + x\right) - x + \dfrac{x^{2}}{2} \leq \dfrac{x^{2}}{1 + x}$ [FORMULA_IMAGE_UNREADABLE]
+
+2- Soit $g$ la fonction numérique de la variable réelle $x$ définie sur $\left]0 , +\infty\right[$ par : $g(x) = \dfrac{\ln\left(1 + x\right)}{x}$
+
+0.5 — Montrer que : $\lim\limits_{x \to 0^{+}} \dfrac{g(x) - 1}{x} = -\dfrac{1}{2}$
+
+### Partie II
+
+Soit $f$ la fonction numérique de la variable réelle $x$ définie sur $\left[0 , +\infty\right[$ par : $f(0) = 1$
+
+et $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f(x) = g(x)e^{-x}$
+
+On note $(C)$ sa courbe représentative dans un repère orthonormé $(O , \overrightarrow{i} , \overrightarrow{j})$
+
+0.5 — 1- Calculer $\lim\limits_{x \to +\infty} f(x)$ puis interpréter graphiquement le résultat obtenu.
+
+0.25 — 2- a) Montrer que $f$ est continue à droite en $0$
+
+0.25 — b) Vérifier que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ \dfrac{f(x) - 1}{x} = g(x)\dfrac{e^{-x} - 1}{x} + \dfrac{g(x) - 1}{x}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — c) En déduire que $f$ est dérivable à droite en $0$ et déterminer $f_{d}'(0)$
+
+0.75 — 3- Montrer que $f$ est dérivable sur $\left]0 , +\infty\right[$ puis que :
+$\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f'(x) = e^{-x}\dfrac{x - \left(1 + x\right)\ln\left(1 + x\right)}{x^{2}\left(1 + x\right)}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 4- a) Montrer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ -\dfrac{3}{2} \leq \dfrac{x - \left(1 + x\right)\ln\left(1 + x\right)}{x^{2}\left(1 + x\right)} \leq 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) En déduire que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ -\dfrac{3}{2} \leq f'(x) \leq 0$
+
+0.25 — 5- a) Dresser le tableau de variations de $f$
+
+0.75 — b) Construire la courbe $(C)$ en faisant apparaître la demi-tangente à droite au point d'abscisse $0$. (On prendra $\|\overrightarrow{i}\| = 2\,cm$)
+
+### Partie III
+
+0.5 — 1- Montrer que l'équation d'inconnue $x$ : $f(x) = 3x$, admet une unique solution dans $\left]0 , +\infty\right[$
+
+2- Soient $\alpha \in \mathbb{R}^{+}$ et $\left(u_{n}\right)_{n \in \mathbb{N}}$ la suite numérique définie par : $u_{0} = \alpha$ et $\forall n \in \mathbb{N}$ ; $u_{n+1} = \dfrac{1}{3}f\left(u_{n}\right)$
+
+0.5 — a) Montrer que : $\forall n \in \mathbb{N}$ ; $u_{n} \geq 0$
+
+0.5 — b) Montrer que : $\forall n \in \mathbb{N}$ ; $\left|u_{n+1} - \alpha\right| \leq \dfrac{1}{2}\left|u_{n} - \alpha\right|$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — c) Montrer par récurrence que : $\forall n \in \mathbb{N}$ ; $\left|u_{n} - \alpha\right| \leq \left(\dfrac{1}{2}\right)^{n}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — d) En déduire que la suite $\left(u_{n}\right)_{n \in \mathbb{N}}$ converge vers $\alpha$
+
+## EXERCICE 2 : (2.25 points)
+
+On considère la fonction numérique : $x \mapsto e^{x}$ et soit $(\Gamma)$ sa courbe représentative dans un repère orthonormé $(O , \overrightarrow{i} , \overrightarrow{j})$
+
+Pour tout $n \in \mathbb{N}^{*}$ et pour tout $k \in \left\{0 ; 1 ; ... ; n\right\}$, on note $M_{k}$ le point de la courbe $(\Gamma)$ de coordonnées $\left(\dfrac{k}{n} ; e^{\frac{k}{n}}\right)$
+
+0.5 — 1- a) Montrer que : $\left(\forall k \in \left\{0 ; 1 ; ... ; n - 1\right\}\right)$ $\left(\exists c_{k} \in \left]\dfrac{k}{n} ; \dfrac{k+1}{n}\right[\right)$ tel que : $e^{\frac{k+1}{n}} - e^{\frac{k}{n}} = \dfrac{1}{n}e^{c_{k}}$
+
+0.25 — b) Montrer que : $\left(\forall k \in \left\{0 ; 1 ; ... ; n - 1\right\}\right)$ ; $M_{k}M_{k+1} = \dfrac{1}{n}\sqrt{1 + e^{2c_{k}}}$
+($M_{k}M_{k+1}$ désigne la distance de $M_{k}$ à $M_{k+1}$)
+
+0.5 — c) En déduire que : $\left(\forall k \in \left\{0 ; 1 ; ... ; n - 1\right\}\right)$ ; $\dfrac{1}{n}\sqrt{1 + e^{\frac{2k}{n}}} \leq M_{k}M_{k+1} \leq \dfrac{1}{n}\sqrt{1 + e^{\frac{2(k+1)}{n}}}$ [FORMULA_IMAGE_UNREADABLE]
+
+2- Soit $\left(S_{n}\right)_{n}$ la suite numérique définie par : $\forall n \in \mathbb{N}^{*}$ ; $S_{n} = \displaystyle\sum_{k=0}^{n-1} M_{k}M_{k+1}$
+
+0.5 — a) Vérifier que : $\forall n \in \mathbb{N}^{*}$ ; $\displaystyle\sum_{k=0}^{n-1}\dfrac{1}{n}\sqrt{1 + e^{\frac{2k}{n}}} \leq S_{n} \leq \displaystyle\sum_{k=1}^{n}\dfrac{1}{n}\sqrt{1 + e^{\frac{2k}{n}}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) En déduire que : $\lim\limits_{n \to +\infty} S_{n} = \displaystyle\int_{0}^{1}\sqrt{1 + e^{2x}}\,dx$
+
+## EXERCICE 3 : (3.5 points)
+
+On considère le nombre complexe : $u = \left(1 - i\right)\left(2 + \sqrt{3}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 1- a) Écrire sous forme exponentielle les nombres complexes : $1 - i$ et $1 + i\sqrt{3}$
+
+0.25 — b) Montrer que : $\left(1 - i\right)\left(1 + i\sqrt{3}\right) = 2\sqrt{2}\,e^{i\frac{\pi}{12}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — c) En déduire que : $\tan\left(\dfrac{\pi}{12}\right) = 2 - \sqrt{3}$
+
+0.5 — d) Montrer que : $u = \left(\sqrt{6} - \sqrt{2}\right)e^{i\frac{\pi}{12}}$ [FORMULA_IMAGE_UNREADABLE]
+
+2- On considère les deux suites numériques $\left(x_{n}\right)_{n}$ et $\left(y_{n}\right)_{n}$ définies par : $x_{0} = 1$, $y_{0} = 0$ et $\left(\forall n\right)\begin{cases} x_{n+1} = \left(2 - \sqrt{3}\right)\left(x_{n} - y_{n}\right) \\ y_{n+1} = \left(2 - \sqrt{3}\right)\left(x_{n} + y_{n}\right)\end{cases}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — a) Montrer par récurrence que pour tout $n \in \mathbb{N}$, $x_{n} + iy_{n} = u^{n}$
+
+0.5 — b) En déduire que pour tout $n \in \mathbb{N}$ : $x_{n} = \dfrac{\cos\left(\frac{n\pi}{12}\right)}{\left(\cos\frac{\pi}{12}\right)^{n}}$ et $y_{n} = \dfrac{\sin\left(\frac{n\pi}{12}\right)}{\left(\cos\frac{\pi}{12}\right)^{n}}$ [FORMULA_IMAGE_UNREADABLE]
+
+3- Le plan complexe est rapporté à un repère orthonormé direct $\left(O ; \overrightarrow{e_{1}} , \overrightarrow{e_{2}}\right)$
+Pour tout entier naturel $n$, on note $A_{n}$ le point d'affixe $u^{n}$
+
+0.5 — a) Déterminer les entiers $n$ pour lesquels les points $O$, $A_{0}$ et $A_{n}$ sont alignés.
+
+0.5 — b) Montrer que pour tout entier $n$, le triangle $OA_{n}A_{n+1}$ est rectangle en $A_{n}$
+
+## EXERCICE 4 : (3 points)
+
+Soit $p$ un nombre premier impair. On considère dans $\mathbb{Z}$ l'équation $(E) : x^{2} \equiv 2 \ [p]$
+
+0.25 — 1- a) Montrer que : $2^{p-1} \equiv 1 \ [p]$
+
+0.25 — b) En déduire que : $2^{\frac{p-1}{2}} \equiv 1 \ [p]$ ou $2^{\frac{p-1}{2}} \equiv -1 \ [p]$
+(On remarque que : $\left(2^{\frac{p-1}{2}} - 1\right)\left(2^{\frac{p-1}{2}} + 1\right) = 2^{p-1} - 1$)
+
+2- Soit $x$ une solution de l'équation $(E)$
+
+0.5 — a) Montrer que $p$ et $x$ sont premiers entre eux.
+
+0.5 — b) En déduire que : $2^{\frac{p-1}{2}} \equiv 1 \ [p]$ (On pourra utiliser le théorème de Fermat)
+
+0.25 — 3- Montrer que pour tout $k \in \left\{1 , 2 , ... , p-1\right\}$, $p$ divise $C_{p}^{k}$
+(On rappelle que : $\left(\forall k \in \left\{1 , 2 , ... , p-1\right\}\right)$ $C_{p}^{k} = \dfrac{p!}{k!\left(p - k\right)!}$ et que : $kC_{p}^{k} = pC_{p-1}^{k-1}$)
+
+0.25 — 4-a) En utilisant la formule de Moivre, montrer que : $\left(1 + i\right)^{p} = 2^{\frac{p}{2}}\left(\cos\left(\dfrac{p\pi}{4}\right) + i\sin\left(\dfrac{p\pi}{4}\right)\right)$
+($i$ étant le nombre complexe tel que : $i^{2} = -1$)
+
+0.5 — b) On admet que : $\left(1 + i\right)^{p} = \displaystyle\sum_{k=0}^{\frac{p-1}{2}}\left(-1\right)^{k}C_{p}^{2k} + i\displaystyle\sum_{k=0}^{\frac{p-1}{2}}\left(-1\right)^{k}C_{p}^{2k+1}$ [FORMULA_IMAGE_UNREADABLE]
+
+Montrer que : $2^{\frac{p}{2}}\cos\left(\dfrac{p\pi}{4}\right) \in \mathbb{Z}$ et $2^{\frac{p}{2}}\cos\left(\dfrac{p\pi}{4}\right) \equiv 1 \ [p]$ (on pourra utiliser la question 3-)
+
+0.5 — 5- En déduire que si $p \equiv 5 \ [8]$ alors l'équation $(E)$ n'admet pas de solution dans $\mathbb{Z}$
+
+## EXERCICE 5 : (3.5 points)
+
+On rappelle que $\left(M_{2}(\mathbb{R}) , + , \times\right)$ est un anneau non commutatif de zéro la matrice $O = \begin{pmatrix} 0 & 0 \\ 0 & 0 \end{pmatrix}$ et d'unité la matrice $I = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$, et que $\left(M_{2}(\mathbb{R}) , + , .\right)$ est un espace vectoriel réel.
+
+On considère l'ensemble $E = \left\{ M(x , y) = \begin{pmatrix} x + y & 2y \\ y & x - y \end{pmatrix} \ / \ (x , y) \in \mathbb{Q}^{2} \right\}$ [FORMULA_IMAGE_UNREADABLE]
+
+### Partie I :
+
+0.5 — 1- Montrer que $E$ est un sous-groupe de $\left(M_{2}(\mathbb{R}) , +\right)$
+
+0.25 — 2- Montrer que $E$ est un sous-espace vectoriel de $\left(M_{2}(\mathbb{R}) , + , .\right)$
+
+0.25 — 3- a) Vérifier que : $\left(\forall (x , y , x' , y') \in \mathbb{Q}^{4}\right)$ ; $M(x , y) \times M(x' , y') = M\left(xx' + 3yy' , xy' + yx'\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) En déduire que $\left(E , + , \times\right)$ est un anneau commutatif et unitaire.
+
+0.25 — 4- a) Vérifier que : $M\left(\sqrt{3} , 1\right) \times M\left(-\sqrt{3} , 1\right) = O$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — b) En déduire que $\left(E , + , \times\right)$ n'est pas un corps.
+
+### Partie II :
+
+Soient $F = \left\{ x + y\sqrt{3} \ / \ (x , y) \in \mathbb{Q}^{2} \right\}$ et $G = \left\{ M(x , y) = \begin{pmatrix} x + y & 2y \\ y & x - y \end{pmatrix} \ / \ (x , y) \in \mathbb{Q}^{2} \right\}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — 1- Montrer que : $\left(\forall (x , y) \in \mathbb{Q}^{2}\right)$ ; $x + y\sqrt{3} = 0$ si et seulement si ($x = 0$ et $y = 0$)
+
+0.25 — 2- Montrer que $F - \left\{0\right\}$ est un sous-groupe de $\left(\mathbb{R}^{*} , \times\right)$
+
+3- Soit $\psi$ l'application définie de $F - \left\{0\right\}$ vers $E$ par : $\left(\forall (x , y) \in \mathbb{Q}^{2} - \left\{(0,0)\right\}\right)$ ; $\psi\left(x + y\sqrt{3}\right) = M(x , y)$
+
+0.25 — a) Vérifier que : $\psi\left(F - \left\{0\right\}\right) = G - \left\{O\right\}$
+
+0.25 — b) Montrer que $\psi$ est un homomorphisme de $\left(F - \left\{0\right\} , \times\right)$ vers $\left(E , \times\right)$
+
+0.25 — c) En déduire que $\left(G - \left\{O\right\} , \times\right)$ est un groupe commutatif.
+
+0.25 — 4- Montrer que $\left(G , + , \times\right)$ est un corps commutatif.
+
+FIN

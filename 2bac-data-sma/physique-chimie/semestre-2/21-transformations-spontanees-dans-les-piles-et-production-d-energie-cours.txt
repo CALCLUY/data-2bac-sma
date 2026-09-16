@@ -1,0 +1,156 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Transformations spontanées dans les piles et production d'énergie
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 21 (Transformations spontanées dans les piles et production d'énergie)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Pile électrochimique
+
+### 1-1/ Transfert des électrons
+
+#### Transfert spontané direct
+
+Lorsque les espèces chimiques participants à une réaction d'oxydoréduction en solution aqueuse mélangées, il se produit un transfert spontané et direct d'électrons du réducteur vers l'oxydant.
+
+#### Transfert spontané indirect
+
+Lorsque les espèces chimiques participants à une réaction d'oxydoréduction sont séparées, on peut réaliser un transfert d'électrons spontané et indirect du réducteur vers l'oxydant, par l'intermédiaire d'un conducteur métallique.
+
+Les piles fonctionnent sur ce principe.
+
+### 1-2/ Définition d'une pile électrochimique
+
+Un dispositif qui permet d'obtenir du courant électrique grâce à une réaction chimique spontanée est une "pile électrochimique".
+
+Une pile électrochimique est constituée de deux compartiments distincts contenant chacun un couple oxydant / réducteur qui sont reliés par un pont salin (ou séparée par une paroi poreuse).
+
+Chaque compartiment d'une pile constitue une demi-pile.
+
+Une demi-pile est constituée d'une plaque de métal $M \left(\right. s \left.\right)$, appelée électrode, qui plonge dans une solution électrolytique contenant l'ion métallique $M_{\left(a q\right)}^{n +}$ associé au métal $M \left(\right. s \left.\right)$.
+
+Autrement dit chaque demi-pile contient l'oxydant et le réducteur d'un couple.
+
+Remarque : le cas où l'oxydant et le réducteur du couple sont sous forme ionique, l'électrode est inerte et ne sert qu'au transfert des électrons.
+
+Le pont salin fait le lien entre les deux demi-piles, il est constitué d'un électrolyte (solution de chlorure de potassium ou nitrate d'ammonium).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s21/img1.PNG)
+
+## II- La pile Daniell
+
+### 2-1/ Description
+
+La pile Daniell est constituée de deux compartiments liés par un pont salin.
+
+Le premier compartiment se compose d'une plaque de cuivre plongée dans une solution de sulfate de cuivre $\left(\right. C u^{2 +} + S \left(O_{4}\right)^{2 -} \left.\right)$, ce qui constitue la 1ère demi-pile qu'on appelle électrode.
+
+Le deuxième compartiment se compose d'une plaque de zinc plongée dans une solution de sulfate de zinc $\left(\right. Z n^{2 +} + S \left(O_{4}\right)^{2 -} \left.\right)$, c'est l'autre demi-pile qu'on appelle aussi électrode.
+
+Le pont salin (ou ionique) qui relie les deux solutions il est constitué d'une solution de chlorure de potassium $\left(\right. K^{+} + C l^{-} \left.\right)$ qui est un conducteur électrolytique.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s21/img2.bmp)
+
+### 2-2/ Fonctionnement
+
+Dès la fermeture de l'interrupteur, l'ampèremètre indique le passage d'un courant de la borne correspondant au cuivre vers la borne correspondant au zinc.
+
+L'apparition d'un dépôt de cuivre sur l'électrode de cuivre et la diminution progressive de la masse de l'électrode de zinc témoigne d'une réaction chimique qui se déroule dans la pile.
+
+Les électrons qui circulent à travers le circuit extérieur sont libérés, au niveau de l'électrode de la demi-pile renfermant le couple redox $Z n^{2 +} / Z n$, par les atomes de zinc qui s'oxydent en ions $Z n^{2 +}$ et sont captés par les ions cuivre $C u^{2 +}$ qui se réduisent en Cu atomique au niveau de l'électrode de la demi-pile renfermant le couple redox $C u^{2 +} / C u$.
+
+Les transformations qui se produisent effectivement dans chaque demi-pile sont :
+
+- au niveau de la lame de cuivre : $C u^{2 +} + 2 e^{-} \rightarrow C u$ (réduction).
+- au niveau de la lame de zinc : $Z n \rightarrow Z n^{2 +} + 2 e^{-}$ (oxydation).
+
+La réaction spontanée qui se produit quand la pile débite du courant est représentée par l'équation :
+
+$Z n + C u^{2 +} \rightarrow Z n^{2 +} + C u$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s21/img3.PNG)
+
+### 2-3/ Réaction aux électrodes
+
+Dans chaque demi-pile, un processus d'oxydation ou de réduction a lieu sur l'électrode.
+
+Il est nommé réaction d'électrode.
+
+L'électrode qui est le siège d'une réduction est appelée cathode.
+
+L'électrode qui est le siège d'une oxydation est appelée anode.
+
+On dit qu'il y a réduction cathodique et oxydation anodique.
+
+### 2-4/ Rôle du pont salin
+
+Le pont salin (solution ionique (K+, Cl-) gélifiée) assure la neutralité électrique des deux solutions grâce à la migration des ions.
+
+Si on enlève le pont salin il est normal que le courant ne passe plus dans le circuit extérieur puisque le circuit est ouvert.
+
+Le rôle du pont salin est donc d'assurer la continuité électrique du circuit entre les deux compartiments de la pile sans introduire de nouveaux couples redox et d'empêcher le mélange des solutions se trouvant dans les deux compartiments.
+
+### 2-5/ Schéma conventionnel
+
+On peut symboliser une pile par la chaîne conductrice qui la constitue.
+
+Un Slash symbolise l'interface entre l'électrode solide conductrice et la solution électrolytique dans une demi-pile.
+
+Deux Slash symbolisent le pont salin entre les deux piles.
+
+Le pôle (+) de la pile est placé à droite, et le pôle (-) à gauche :
+
+$\overline{\left.\right) \\ \left(-\right) M_{1_{\left(s\right)}} / \left(M_{1}^{n +}\right)_{\left(a q\right)} / / \left(M_{2}^{n +}\right)_{\left(a q\right)} / M_{2_{\left(s\right)}} \left(+\right) \\ }$
+
+Dans le cas de la pile Daniell :
+
+$\overline{\left.\right) \\ \left(-\right) Z n_{\left(s\right)} / \left(Z n_{}^{2 +}\right)_{\left(a q\right)} / / \left(C u_{}^{2 +}\right)_{\left(a q\right)} / C u_{\left(s\right)} \left(+\right) \\ }$
+
+## III- Étude quantitative d'une pile
+
+### 3-1/ Quantité d'électricité débitée par une pile pendant une durée $\Delta t$
+
+Pendant une durée $\Delta t$, $N$ électrons de charge élémentaire $e = 1 , 6 . 10^{- 19} C$ circulent à travers une section $S$ de conducteur.
+
+La charge totale qui a traversé la section $S$ est : $Q = N . e$
+
+La quantité de matière d'électrons $n \left(\right. e^{-} \left.\right)$ transférés lorsque la pile débite $n \left(\right. e^{-} \left.\right) = \frac{N}{N_{A}}$ avec $N_{A}$ est la constante d'Avogadro.
+
+Donc :
+
+$\left{\begin{matrix} n \left(\right. e^{-} \left.\right) = \frac{N}{N_{A}} \\ Q = N . e \end{matrix}\right \Rightarrow Q = n \left(\right. e^{-} \left.\right) . N_{A} . e$
+
+Le produit $N_{A} . e$ est une constante appelée le Faraday, notée $F$.
+
+Un faraday correspond à la valeur absolue de la charge d'une mole d'électrons : $F = N_{A} . e = 9 , 65 \times 10^{4} C / m o l$.
+
+Et d'après la définition du courant électrique qui est débité par la pile pendant une durée $\Delta t$ : $Q = I . \Delta t$
+
+$\overline{\left.\right)Q = n \left(e^{-}\right) . F = I . \Delta t}$
+
+### 3-2/ Capacité d'une pile
+
+La capacité $Q_{m a x}$ d'une pile est la quantité d'électricité maximale qu'elle peut fournir avant d'être usée.
+
+De façon générale, une pile est usée lorsque le réactif limitant a été complètement consommé :
+
+$\overline{\left.\right)Q_{m a x} = I . \Delta t_{m a x}}$
+
+## IV- Exemples de piles usuelles
+
+| | Pile saline | Pile alcaline |
+| --- | --- | --- |
+| Anode | Récipient de zinc | Poudre de zinc (collecteur : Tige métallique) |
+| Cathode | Dioxyde de manganèse MnO2 + poudre de carbone (collecteur : Graphite) | Dioxyde de manganèse MnO2 + poudre de carbone (collecteur : Récipient en acier) |
+| Électrolyte | Chlorures d'ammonium et de zinc gélifiés (composé ionique appelé autrefois sel d'où le nom de Saline) | Solution aqueuse d'hydroxyde de potassium (Potasse) (le potassium étant un Métal Alcalin d'où le nom d'Alcaline) |
+| Milieu | Acide | Basique |
+| Espèces chimiques présentes | $C , Z n , H_{2} O , C l^{-} , N H_{4}^{+} , H_{3} O^{+} , M n O_{2}$ | $F e , Z n , H_{2} O , K^{+} , O H^{-} , M n O_{2}$ |
+| FEM | 1,5 V | 1,5 V |
+| Schéma | [FORMULA_IMAGE_UNREADABLE] (figure : s21/img4.PNG) | [FORMULA_IMAGE_UNREADABLE] (figure : s21/img5.PNG) |

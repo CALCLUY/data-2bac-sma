@@ -1,0 +1,148 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: B- Chute verticale avec frottement
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Bac SM-SPC
+Séance 18-B (Chute verticale avec frottement)
+Professeur : Mr EL GOUFIFA Jihad
+
+## III- Exercices
+
+### 3-1/ Exercice 1
+
+La grêle se forme dans les cumulo-nimbus situés entre $1000 m$ et $10 000 m$ d'altitude où la température est très basse, avoisinant les $- 40 \circ C$.
+
+Le grêlon tombe lorsqu'il n'est plus maintenu au sein du nuage. Au sol sa vitesse peut atteindre $160 k m / h$.
+
+On étudie un grêlon de masse $13 g$ qui tombe d'un point $O$ d'altitude $1500 m$ sans vitesse initiale, il peut être assimilé à une sphère de diamètre $3 , 0 c m$.
+
+Le point $O$ sera pris comme origine d'un axe $O z$ orienté positivement vers le bas.
+
+L'intensité de la pesanteur sera considérée comme constante et de valeur $g = 9 , 80 m . s^{- 2}$.
+
+Données :
+
+- Volume d'une sphère $V = \frac{4}{3} \pi . r^{3}$
+- Masse volumique de l'air $\rho = 1 , 3 k g . m^{- 3}$
+
+#### Chute libre
+
+On admettra que le grêlon tombe en chute libre.
+
+1. En appliquant la deuxième loi de Newton, déterminer les équations horaires donnant la vitesse et la position du centre d'inertie $G$ du grêlon en fonction de la durée $t$ de la chute.
+
+2. Calculer la valeur de la vitesse lorsqu'il atteint le sol, ce résultat est-il vraisemblable ? Justifier.
+
+#### Chute réelle
+
+En réalité le grêlon est soumis à deux autres forces, la poussée d'Archimède $\overset{\rightarrow}{F_{a}}$ et la force de frottement fluide $\overset{\rightarrow}{f}$ proportionnelle au carré de la vitesse telle que $f = K . v^{2}$.
+
+1. Par une analyse dimensionnelle, déterminer l'unité du coefficient $K$ dans le Système International.
+
+2. Donner l'expression de la valeur de la poussée d'Archimède, la calculer et la comparer à celle du poids. Conclure.
+
+On néglige la poussée d'Archimède.
+
+3. Montrer que l'équation différentielle peut s'écrire sous la forme $\frac{d v}{d t} = A - B v^{2}$
+
+On veut résoudre cette équation différentielle par une méthode numérique : la méthode d'Euler.
+
+Le tableau suivant est un extrait d'une feuille de calcul des valeurs de la vitesse $v$ et de l'accélération $a$ en fonction du temps $t$, il correspond aux valeurs $A = 9 , 80 m . s^{- 2}$ et $B = 1 , 56 \times 10^{- 2} m^{- 1}$, avec un pas de variation $\Delta t = 0 , 5 s$.
+
+$t \left(\right. s \left.\right)$ 0,00 0,50 1,00 1,50 2,00 2,50 3,00
+$v \left(\right. m . s^{- 1} \left.\right)$ 0,00 4,90 9,61 13,8 17,2 $v_{5}$ 21,6
+$a \left(\right. m . s^{- 2} \left.\right)$ 9,80 9,43 8,36 6,83 $a_{4}$ 3,69 2,49
+
+4. Déterminer $a_{4}$ et $v_{5}$ en détaillant les calculs.
+
+5. Exprimer littéralement la vitesse limite atteinte par le grêlon en fonction de $A$ et $B$ puis calculer sa valeur numérique.
+
+La courbe d'évolution de la vitesse en fonction du temps est donnée ci-dessous :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img4.bmp)
+
+6. Retrouver graphiquement la valeur de la vitesse calculée au paragraphe précédent.
+
+### 3-2/ Exercice 2
+
+Une bille, de masse $m = 7 , 1 g$ et de volume $V = 0 , 91 c m^{3}$, est abandonnée sans vitesse initiale dans une huile de masse volumique $\rho = 920 K g . m^{- 3}$ et de viscosité $\eta$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img5.bmp)
+
+L'huile exerce sur la bille en mouvement une force de frottement $f = k v^{2}$.
+
+L'étude d'un enregistrement de la chute (verticale) de cette bille permet d'obtenir la courbe expérimentale donnant l'évolution de la vitesse de la bille au cours du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img6.bmp)
+
+1. Faire l'inventaire des forces agissant sur la bille en mouvement dans l'huile.
+
+2. En appliquant deuxième loi de newton monter que l'équation différentielle satisfaite par la vitesse de la bille s'écrit sous la forme $\frac{d v}{d t} = A - B v^{2}$,
+
+3. Détermine l'expression de $A$ et $B$.
+
+4. En déduire l'expression de la vitesse limite de la bille.
+
+5. Déterminer graphiquement la valeur de la vitesse limite $V_{l i m}$ et la constante de temps $\tau$ ; en déduire la valeur de $k$.
+
+Pour une bille le coefficient de frottement est $k = 6 \pi \eta r$.
+
+6. En déduire la valeur de la viscosité $\eta$ de l'huile utilisée.
+
+### 3-3/ Exercice 3
+
+Pour ne pas abîmer les produits alimentaires suite au choc avec le sol, la caisse est attachée à un parachute lui permettant de descendre lentement.
+
+L'hélicoptère reste immobile à la hauteur précédente $H$ au point $O$.
+
+La caisse tombe verticalement sans vitesse initiale à l'instant $t_{0} = 0$.
+
+L'air exerce sur la caisse des forces de frottement dont l'expression est $\overset{\rightarrow}{f} = - 100 \overset{\rightarrow}{V}$. Avec $V$ la vitesse de la caisse à l'instant $t$.
+
+On néglige la poussée d'Archimède pendant la chute.
+
+On donne la masse du système (caisse et le parachute) : $m = 150 k g$.
+
+1. Trouver dans le référentiel $R \left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$ l'équation différentielle vérifiée par le centre d'inertie $G$ du système.
+
+La courbe suivante représente la variation de la vitesse de $G$ en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img8.bmp)
+
+2. Déterminer la vitesse limite $V_{l i m}$ et le temps caractéristique $\tau$ de la chute.
+
+3. Donner une valeur approximative de la durée du régime initial.
+
+4. En utilisant la méthode d'Euler et le tableau suivant, déterminer la valeur de la vitesse $V_{4}$ et celle de l'accélération $a_{4}$.
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s18/img7.bmp)
+
+### 3-4/ Exercice 4
+
+La charge s'arrête à une hauteur donnée.
+
+À un instant $t = 0$, une partie $\left(\right. S \left.\right)$ de masse $m_{S} = 30 k g$ de la charge tombe sans vitesse initiale.
+
+On étudie le mouvement du centre d'inertie $G_{S}$ de la partie $\left(\right. S \left.\right)$ dans le repère $R \left(O , \overset{\rightarrow}{j}\right)$, avec l'axe $O y$ orienté vers le bas :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s18/img9.bmp)
+
+La position de $G_{S}$ est confondue avec l'origine de l'axe $O y$ à l'origine des dates.
+
+On modélise l'action de l'air sur la partie $\left(\right. S \left.\right)$ au cours de son mouvement par la force $\overset{\rightarrow}{f} = - k . v^{2} . \overset{\rightarrow}{j}$, avec $v$ le vecteur vitesse de $G_{S}$ à l'instant $t$, et $k = 2 , 7$ dans le système international des unités.
+
+On néglige l'action de la poussée d'Archimède devant les autres forces exercées sur $\left(\right. S \left.\right)$.
+
+1. En se basant sur l'équation au dimensions, déterminer l'unité de $k$ dans le système international des unités.
+
+2. Montrer que l'équation différentielle vérifiée par la vitesse $v$ s'écrit comme suit : $\frac{d v}{d t} + 9 . 10^{- 2} v^{2} = 9 , 8$
+
+3. Déterminer la vitesse limite $V_{l i m}$ du mouvement.
+
+La vitesse du centre d'inertie $G_{S}$ à l'instant $t_{1}$ est $v_{1} = 2 , 75 m . s^{- 1}$.
+
+4. Trouver en utilisant la méthode d'Euler sa vitesse $v_{2}$ à l'instant $t_{2} = t_{1} + \Delta t$, où $\Delta t$ est le pas du calcul et $\Delta t = 2 , 4 . 10^{- 2} s$.

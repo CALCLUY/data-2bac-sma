@@ -1,0 +1,138 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2016 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - المسالك الدولية – خيار فرنسية - الدورة العادية 2016 - عناصر الإجابة - مادة : الفيزياء والكيمياء - مسلك العلوم الرياضية (أ) و (ب) – المسالك الدولية (خيار فرنسية)
+NR 13 F - الصفحة 1/4
+
+المعامل : 7
+مدة الإنجاز : 4
+
+[NOTE : document officiel d'éléments de réponse ; tableau d'origine : Question / Eléments de réponse / Barème / Référence de la question dans le cadre de référence.]
+
+## Chimie (7 points)
+
+### Partie I
+
+1-1-1 : Equation de la réaction — 0,25
+Référence : Ecrire l'équation de la réaction modélisant une transformation acido-basique et identifier les deux couples intervenants.
+
+1-1-2 : Aboutir à τ1 = (Ke/C1).10^pH1 — 0,5 ; vérification de la valeur de τ1 — 0,25
+Référence : Définir le taux d'avancement final d'une réaction et le déterminer à partir de données expérimentales. Savoir que le produit ionique de l'eau, Ke, est la constante d'équilibre associée à l'équation de la réaction d'autoprotolyse de l'eau.
+
+1-1-3 : Aboutir à K = C1.τ1²/(1 − τ1) — 0,5 ; K = 1,67.10-5 — 0,25
+Référence : Savoir que le quotient de réaction Qr,éq, associé à l'équation de la réaction, à l'état d'équilibre d'un système, prend une valeur, indépendante des concentrations, nommée constante d'équilibre K. Calculer la valeur du quotient de réaction Qr d'un système chimique dans un état donné.
+
+1-2-1 : Courbe (2) — 0,25 ; Justification — 0,25
+Référence : Exploiter le diagramme de prédominance et de distribution des espèces acides et basiques présentes en solution aqueuse.
+
+1-2-2 : a- pKA1 = 9,2 — 0,25 ; b- τ2 = 6% — 0,25
+
+1-2-3 : Déduction — 0,25
+Référence : Savoir que, pour une transformation donnée, le taux d'avancement final dépend de la constante d'équilibre et de l'état initial du système.
+
+2-1 : Equation de la réaction — 0,25
+Référence : Ecrire l'équation de la réaction modélisant une transformation acido-basique et identifier les deux couples intervenants.
+
+2-2 : Etapes de résolution — 0,25 ; K' = 3,16.10^2 — 0,25
+Référence : Déterminer la constante d'équilibre associée à l'équation d'une réaction acido-basique à l'aide des constantes d'acidité des couples en présence.
+
+2-3 : Démonstration — 0,75
+Référence : Donner et utiliser l'expression littérale du quotient de réaction Qr à partir de l'équation de la réaction. Calculer la valeur du quotient de réaction Qr d'un système chimique dans un état donné.
+
+2-4 : Démarche — 0,25 ; pH = 9,95 — 0,25
+Référence : Ecrire et utiliser l'expression de la constante d'acidité KA associée à l'équation de la réaction d'un acide avec l'eau.
+
+### Partie II
+
+1 : Equation de la réaction à l'anode — 0,5
+Référence : Ecrire les équations des réactions aux électrodes (avec double flèche) et l'équation bilan (simple flèche) lors d'une électrolyse.
+
+2 : Etapes de résolution — 0,75
+Référence : Dresser le tableau d'avancement d'une réaction et l'exploiter. Etablir la relation entre les quantités de matière des espèces formées ou consommées, l'intensité du courant et la durée de l'électrolyse. Utiliser cette relation pour déterminer d'autres grandeurs (l'avancement de réaction, variation de masse, volume d'un gaz…).
+
+3 : Démarche — 0,5 ; t1 = 4,44.10^3 s — 0,25
+
+## Physique (13 points)
+
+### Exercice 1 : Transformations nucléaires (2,25 points)
+
+1 : Equation de la transformation — 0,25 ; Z = 82 — 0,25
+Référence : Définir les radioactivités α, β-, β+ et l'émission γ. Ecrire l'équation d'une réaction nucléaire en appliquant les deux lois de conservation.
+
+2 : ΔE = ... — 0,25 ; |ΔE| = 5,3989 MeV — 0,25
+Référence : Faire le bilan énergétique ΔE d'une réaction nucléaire en utilisant : les énergies de masse ; les énergies de liaison ; le diagramme d'énergie. Calculer l'énergie libérée (produite) par une réaction nucléaire : Elibérée = |ΔE|.
+
+3-1 : d — 0,25
+Référence : Connaître et exploiter la loi de décroissance radioactive et exploiter sa courbe correspondante. Exploiter les relations entre λ et t1/2.
+
+3-2 : Démarche — 0,25 ; t1/2 = 138 jours — 0,25
+
+3-3 : Etapes de résolution — 0,25 ; t1 = 67 jours — 0,25
+
+### Exercice 2 : Electricité (5,25 points)
+
+1-1 : Equation différentielle — 0,25
+Référence : Etablir l'équation différentielle et vérifier sa solution lorsque le dipôle RL est soumis à un échelon de tension.
+
+1-2 : E = 12 V — 0,25
+Référence : Déterminer les deux caractéristiques d'une bobine (l'inductance L, la résistance r) à partir des résultats expérimentaux. Déterminer l'expression de l'intensité du courant i(t) lorsque le dipôle RL est soumis à un échelon de tension et en déduire l'expression de la tension aux bornes de la bobine et aux bornes du conducteur ohmique. Exploiter des documents expérimentaux pour : …
+
+1-3 : r = 10 Ω — 0,5 ; aboutir à la valeur de r0 — 0,5
+
+1-4 : Vérification de la valeur de L0 — 0,5
+
+2-1 : Régime pseudopériodique — 0,25
+Référence : Définir et reconnaître les régimes périodique, pseudopériodique et apériodique.
+
+2-2 : Etablir l'équation différentielle — 0,5
+Référence : Etablir l'équation différentielle vérifiée par la tension aux bornes du condensateur ou par sa charge dans le cas d'amortissement.
+
+2-3 : Ej = (1/2).C.[uc²(t1) − uc²(t2)] + (L0/(2R²)).uR²(t1) — 0,75 ; Ej = 8,87.10-4 J — 0,25
+Référence : Connaître et exploiter l'expression de l'énergie électrique emmagasinée dans un condensateur. Connaître et exploiter l'expression de l'énergie magnétique emmagasinée dans une bobine. Connaître et exploiter l'expression de l'énergie totale du circuit.
+
+3-1 : N0 = Q.ΔN ; N0 = 100 Hz — 2×0,25
+Référence : Connaître et exploiter l'expression du facteur de qualité Q = N0/ΔN. Reconnaître le phénomène de résonance électrique et ses caractéristiques.
+
+3-2 : R1 = 11,2 Ω ; C1 = 14,1 μF — 2×0,25
+
+3-3 : Démarche ; P = 0,28 W — 2×0,25
+
+### Exercice 3 : Mécanique (5,5 points)
+
+#### Partie I
+
+1 : Démonstration — 0,5
+Référence : Appliquer la deuxième loi de Newton pour établir l'équation différentielle du mouvement du centre d'inertie d'un solide en chute verticale avec frottement. Appliquer la deuxième loi de Newton pour déterminer les grandeurs cinématiques vG et aG et les grandeurs dynamiques et les exploiter. Connaître et exploiter les caractéristiques du mouvement rectiligne uniformément varié et ses équations horaires. Exploiter le diagramme de la vitesse vG = f(t).
+
+2 : Déduction de vℓ = √(R.ρi.g/(0,165.ρair)) — 0,5
+
+3-1 : Démonstration — 0,25
+
+3-2 : Explication — 0,25
+
+4 : Mouvement rectiligne uniformément varié — 0,25 ; z(t) = −4,84 t² + 69 — 0,5
+
+5 : Aboutir à d = 26 m — 0,25
+
+6 : azn = −4,79 m.s-2 — 0,25 ; vz(n+1) = −12,07 m.s-1 — 0,5
+Référence : Connaître et appliquer la méthode d'Euler pour la résolution approchée d'une équation différentielle.
+
+#### Partie II
+
+1 : Equation différentielle — 0,25
+Référence : Appliquer la relation fondamentale de la dynamique à un pendule de torsion pour établir l'équation différentielle du mouvement dans le cas des frottements négligeables.
+
+2-1 : Aboutir à l'expression : amplitude — 0,25 ; période propre — 0,25 ; phase à t = 0 — 0,25
+Référence : Déterminer la nature du mouvement du pendule de torsion, écrire et exploiter les équations du mouvement : θ(t), θ̇(t) et θ̈(t). Exploiter les diagrammes θ(t), θ̇(t) et θ̈(t) pour déterminer les grandeurs qui caractérisent le mouvement du pendule de torsion.
+
+2-2 : C = 1,024.10-2 N.m.rad-1 — 0,5
+Référence : Connaître et exploiter l'expression de la période propre et la fréquence propre du pendule de torsion.
+
+3 : Aboutir à Em = 3,2 mJ — 0,25 ; Ep = 2,4 mJ — 0,5
+Référence : Connaître et exploiter l'expression de l'énergie mécanique du pendule de torsion. Connaître et exploiter l'expression de l'énergie potentielle de torsion. Exploiter la conservation et la non-conservation de l'énergie mécanique du pendule de torsion.

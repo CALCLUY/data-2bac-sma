@@ -1,0 +1,107 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Dosage acido-basique
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 16 (Dosage acido-basique)
+Professeur : Mr El GOUFIFA Jihad
+
+## IV- Exercices
+
+### 4-1/ Exercice 1
+
+L'acide propanoïque est utilisé comme conservateur des aliments, son code est E280, on le trouve dans les fromages, les boissons et les conserves ; il entre également dans la préparation de certains parfums, produits cosmétiques et pharmaceutiques.
+
+On se propose d'étudier en premier lieu, la réaction de l'acide propanoïque avec l'hydroxyde de sodium.
+
+On dose le volume $V_{A} = 5 m L$ d'une solution aqueuse $\left(S_{A}\right)$ de l'acide propanoïque $A H$ de concentration molaire $C_{A}$ par une solution aqueuse $\left(S_{B}\right)$ d'hydroxyde de sodium de concentration molaire $C_{B} = 5 . 10^{- 2} m o l / L$, en suivant les variations du pH du mélange réactionnel en fonction du volume $V_{B}$ versé de la solution $\left(S_{B}\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img12.bmp)
+
+La courbe suivante représente les variations du pH en fonction du volume au cours du dosage :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img13.bmp)
+
+1. Nommer le montage expérimentale de dosage.
+2. Déterminer les coordonnées $V_{B E}$ et $p H_{E}$ du point d'équivalence.
+3. En calculant la constante d'équilibre K associée à la réaction du dosage, montrer que cette réaction est totale.
+4. Calculer la concentration $C_{A}$.
+5. Choisir, en justifiant la réponse, l'indicateur coloré adéquat pour repérer l'équivalence.
+6. Préciser, en justifiant la réponse, l'espèce chimique prédominante $A H$ ou $A^{-}$ après l'ajout du volume $V_{B} = 7 m L$
+
+Données :
+
+- Toutes les mesures sont effectuées à $25 \circ C$
+- Le produit ionique de l'eau : $K_{e} = 10^{- 14}$
+- On représente l'acide propanoïque $C_{2} H_{5} C O O H$ par $A H$ et sa base conjuguée $C_{2} H_{5} C O O^{-}$ par $A^{-}$.
+- La constante d'acidité du couple $C_{2} H_{5} C O O H / C_{2} H_{5} C O O^{-}$ est $K_{A} = 10^{- 4 , 9}$
+- Zone de virage de quelques indicateurs colorés :
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s17/img11.bmp)
+
+### 4-2/ Exercice 2
+
+Dosage d'une solution d'acide acétylsalicylique $A H_{\left(a q\right)}$ :
+
+On dissout un comprimé d'aspirine dans l'eau distillée. On obtient ainsi une solution aqueuse $\left(S\right)$ d'acide acétylsalicylique de concentration $C_{A}$, de volume $V = 278 m L$ et contenant une quantité de masse $m$ de cette acide
+
+On prélève un volume $V_{A} = 10 m L$ de la solution $\left(S\right)$ et on le dose par une solution aqueuse $\left(S_{B}\right)$ d'hydroxyde de sodium $\left(N a_{\left(a q\right)}^{+} ; H O_{\left(a q\right)}^{-}\right)$ de concentration $C_{B} = 10^{- 2} m o l / L$, en utilisant un indicateur coloré convenable.
+
+1. Écrire l'équation de la réaction de dosage.
+
+Pour obtenir l'équivalence, on doit verser le volume $V_{e} = 10 m L$ de la solution $\left(S\right)$.
+
+1. Déterminer la concentration $C_{A}$ de la solution $\left(S\right)$.
+
+1. Montrer que $m = 0 , 5 g$ (On donne $M \left(A H\right) = 180 g / m o l$).
+
+1. Choisir parmi les indicateurs colorés dans le tableau suivant, l'indicateur convenable à ce dosage. Justifier.
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s17/img14.bmp)
+
+### 4-3/ Exercice 3
+
+L'étiquette d'un flacon d'une solution commerciale $\left(S_{0}\right)$ d'acide méthanoïque porte les informations suivantes :
+
+- Masse molaire : $M \left(H C O O H\right) = 46 g / m o l$
+- Densité : $d = 1 , 15$
+- Pourcentage massique : $p = 80 \%$
+- Masse volumique de l'eau : $\rho_{e} = 1 K g / L$
+
+On prépare une solution aqueuse $\left(S\right)$ d'acide méthanoïque de concentration molaire $C$ et de volume $V_{s} = 1 L$ en ajoutant le volume $V_{0} = 2 m L$ de la solution commerciale $\left(S_{0}\right)$, de concentration molaire $C_{0}$, à l'eau distillée.
+
+On dose le volume $V_{A} = 50 m L$ de la solution $\left(S\right)$ par une solution aqueuse $\left(S_{B}\right)$ d'hydroxyde de Sodium $\left(N a_{\left(a q\right)}^{+} ; H O_{\left(a q\right)}^{-}\right)$ de concentration molaire $C_{B} = 0 , 1 m o l / L$, en suivant les variations du pH du mélange réactionnel en fonction du volume $V_{B}$ versé de la solution $\left(S_{B}\right)$.
+
+À partir des mesures obtenues, on a tracé la courbe $\left(C_{1}\right)$ représentant $p h = f \left(V_{B}\right)$ et la courbe $\left(C_{2}\right)$ représentant $\frac{d p h}{d V_{B}} = g \left(V_{B}\right)$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img15.bmp)
+
+1. Écrire l'équation chimique modélisant la transformation ayant lieu lors du dosage.
+2. Déterminer le volume $V_{B E}$ versé à l'équivalence et calculer la concentration $C$ de la solution $\left(S\right)$.
+3. Vérifier que la valeur de $p$ est celle indiquée sur l'étiquette.
+4. En se basant sur le tableau d'avancement, déterminer l'espèce prédominante parmi les deux espèces $H C O O H$ et $H C O O^{-}$ dans le mélange réactionnel après l'ajout du volume $V_{B} = 16 m L$ de la solution $\left(S_{B}\right)$.
+5. Déduire la valeur du $p K_{A} \left(H C O O H / H C O O^{-}\right)$
+
+### 4-4/ Exercice 4
+
+On effectue le dosage ph métrique du volume $V_{B} = 30 m L$ d'une solution aqueuse d'ammoniaque $\left(S_{B}\right)$ de concentration $C_{B}$, à l'aide d'une solution aqueuse $\left(S_{A}\right)$ d'acide chlorhydrique de concentration $C_{A} = 2 . 10^{- 2} m o l / L$.
+
+1. Écrire l'équation chimique modélisant ce dosage
+
+La courbe suivante représente les variations du pH du mélange en fonction du volume $V_{A}$ de la solution $\left(S_{A}\right)$ d'acide chlorhydrique ajouté.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s17/img17.bmp)
+
+1. Déterminer les coordonnées $V_{A E}$ et $p H_{E}$ du point d'équivalence.
+
+1. Calculer $C_{B}$.
+
+1. Déterminer en justifiant votre réponse l'indicateur coloré convenable pour effectuer ce dosage en l'absence du pH mètre.
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : s17/img16.bmp)
+
+1. Déterminer le volume $V_{A 1}$ de la solution d'acide chlorhydrique qu'il faut ajouter pour que la relation $\left[N H_{4}^{+}\right] = 15 . \left[N H_{3}\right]$ soit vérifiée dans le mélange réactionnel. on donne : $P K_{A} \left(\left(N H_{4}^{+}\right)/\left(N H_{3}\right)\right) = 9 . 2$

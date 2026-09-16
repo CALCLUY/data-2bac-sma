@@ -1,0 +1,151 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvement de rotation d'un solide autour d'un axe fixe
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 23 (Mouvement de rotation d'un solide autour d'un axe fixe)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Introduction
+
+Sous l'action d'un ensemble de forces, la grande roue est animée d'un mouvement de rotation autour d'un axe fixe.
+
+Un tel mouvement est caractérisé, à chaque instant, par son accélération angulaire.
+
+- Qu'est ce que l'accélération angulaire ?
+- Quelle relation la relie aux moments des forces appliquées à la grande roue ?
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s23/img1.bmp)
+
+## II- Abscisse angulaire, vitesse angulaire et accélération angulaire
+
+### 2-1/ Définition
+
+Un mouvement de rotation est tout mouvement qu'effectue un corps autours d'un axe fixe $\left(\right. \Delta \left.\right)$ selon une trajectoire circulaire de rayon $R$ autour de cet axe.
+
+### 2-2/ Abscisse angulaire et abscisse curviligne
+
+On peut déterminer la position d'un point $M$ en mouvement le long d'un trajet circulaire de rayon $R$ soit par :
+
+- Les coordonnées cartésiennes $\left(\right. x , y \left.\right)$ dans un référentiel $\left(\right. O x y \left.\right)$ : $\left{\begin{matrix} x = R . cos \left(\right. \theta \left.\right) \\ y = R . sin \left(\right. \theta \left.\right) \end{matrix}\right R = O M$
+- L'abscisse angulaire $\theta$ tel que $\theta = \left(\right. \hat{\overset{\rightarrow}{O x} , \overset{\rightarrow}{O M}} \left.\right)$
+- L'abscisse curvilignes $S \left(\right. t \left.\right)$, et c'est l'arc $A M$ avec $S = \overbrace{A M} = R . \theta$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s23/img2.bmp)
+
+### 2-3/ Vitesse angulaire et vitesse linéaire
+
+On définit la vitesse angulaire comme la dérivée de l'abscisse angulaire par rapport au temps : $\omega = \overset{\cdot}{\theta} = \frac{d \theta}{d t}$
+
+Son unité $r a d . s^{- 1}$.
+
+La relation entre la vitesse angulaire et la vitesse linéaire est : $\overset{\cdot}{\theta} = \frac{v}{R}$
+
+$S = R . \theta \\ \Rightarrow \frac{d S}{d t} = R . \frac{d \theta}{d t} \\ \Rightarrow v = R . \omega$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s23/img3.jpg)
+
+### 2-4/ Accélération angulaire et accélération linéaire
+
+On définit l'accélération angulaire comme la dérivée de la vitesse par rapport au temps :
+
+$\overset{\cdot\cdot}{\theta} = \frac{d \overset{\cdot}{\theta}}{d t} = \frac{d^{2} \theta}{d t^{2}}$
+
+Son unité est $r a d . s^{- 2}$.
+
+D'après la relation de Frenet on a : $\overset{\rightarrow}{a} = a_{t} \overset{\rightarrow}{u} + a_{n} \overset{\rightarrow}{n}$
+
+On a :
+
+$a_{t} = \frac{d v}{d t} = \frac{d R \overset{\cdot}{\theta}}{d t} \overline{\left.\right)a_{t} = R \overset{\cdot\cdot}{\theta}} \\ \\ a_{n} = \frac{v^{2}}{R} = \frac{R^{2} \left(\overset{\cdot}{\theta}\right)^{2}}{R} \overline{\left.\right)a_{n} = R \left(\overset{\cdot}{\theta}\right)^{2}}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s23/img4.jpg)
+
+## III- Mouvement de rotation
+
+### 3-1/ Mouvement de rotation uniforme
+
+Le mouvement de rotation uniforme est un mouvement dans lequel l'accélération angulaire est nulle, et la vitesse est constante.
+
+Son équation horaire est : $\theta = \omega t + \theta_{0}$
+
+$\theta_{0}$ est l'abscisse angulaire à l'origine des dates.
+
+### 3-2/ Mouvement de rotation uniformément varié
+
+Le mouvement de rotation varié est un mouvement dans lequel l'accélération est constante, son équation horaire est : $\theta = \frac{1}{2} \overset{\cdot\cdot}{\theta} t^{2} + \left(\overset{\cdot}{\theta}\right)_{0} t + \theta_{0}$
+
+$\left(\overset{\cdot}{\theta}\right)_{0}$ est la vitesse angulaire à l'origine des dates.
+
+L'équation de la vitesse angulaire est : $\overset{\cdot}{\theta} = \overset{\cdot\cdot}{\theta} t + \left(\overset{\cdot}{\theta}\right)_{0}$
+
+De cette équation on peut déduire que $t = \frac{\overset{\cdot}{\theta} - \left(\overset{\cdot}{\theta}\right)_{0}}{\overset{\cdot\cdot}{\theta}}$
+
+En remplaçant dans l'équation horaire :
+
+$\theta = \frac{1}{2} \overset{\cdot\cdot}{\theta} \left(\frac{\overset{\cdot}{\theta} - \left(\overset{\cdot}{\theta}\right)_{0}}{\overset{\cdot\cdot}{\theta}}\right)^{2} + \left(\overset{\cdot}{\theta}\right)_{0} \frac{\overset{\cdot}{\theta} - \left(\overset{\cdot}{\theta}\right)_{0}}{\overset{\cdot\cdot}{\theta}} + \theta_{0} \\ \Rightarrow \theta - \theta_{0} = \frac{1}{2} \overset{\cdot\cdot}{\theta} \left(\frac{\overset{\cdot}{\theta} - \left(\overset{\cdot}{\theta}\right)_{0}}{\overset{\cdot\cdot}{\theta}}\right)^{2} + \frac{2 \left(\overset{\cdot}{\theta}\right)_{0}}{2} \frac{\overset{\cdot}{\theta} - \left(\overset{\cdot}{\theta}\right)_{0}}{\overset{\cdot\cdot}{\theta}} \\ \\ \Rightarrow 2 \overset{\cdot\cdot}{\theta} \left(\theta - \theta_{0}\right) = \left(\overset{\cdot}{\theta} - \left(\overset{\cdot}{\theta}\right)_{0}\right)^{2} + 2 \left(\overset{\cdot}{\theta}\right)_{0} \left(\overset{\cdot}{\theta} - \left(\overset{\cdot}{\theta}\right)_{0}\right) \\ \\ \Rightarrow \overline{\left.\right)2 \overset{\cdot\cdot}{\theta} \left(\theta - \theta_{0}\right) = \left(\overset{\cdot}{\theta}\right)^{2} - \left(\left(\overset{\cdot}{\theta}\right)_{0}\right)^{2}}$
+
+C'est la relation caractéristique du mouvement de rotation uniformément varié.
+
+## IV- Le Principe Fondamentale de la Dynamique (PFD)
+
+### 4-1/ Énonce du principe fondamentale de la dynamique
+
+La somme des moments des forces extérieures qui s'exercent sur un solide en rotation autour d'un axe fixe est égale au moment d'inertie du solide multiplié par son accélération angulaire.
+
+$\overline{\left.\right) \sum_{}^{} \mathcal{M}_{\Delta} \left(\overset{\rightarrow}{F}\right) = J_{\Delta} \overset{\cdot\cdot}{\theta} }$
+
+- $J_{\Delta}$ : Moment d'inertie du corps solide en $\left(\right. k g . m^{2} \left.\right)$
+- $\overset{\cdot\cdot}{\theta}$ : Accélération angulaire en $\left(\right. r a d . s^{- 2} \left.\right)$
+
+Si $\overset{\cdot\cdot}{\theta} = 0$, le solide est en mouvement de rotation uniforme.
+
+Si $\overset{\cdot\cdot}{\theta} = C t e$, le solide est en mouvement de rotation uniformément varié.
+
+### 4-2/ Comment exploiter la relation fondamentale de la dynamique
+
+Pour résoudre un problème de dynamique en utilisant la PFD, la méthode est toujours la même :
+
+1. Préciser le système à étudier.
+2. Faire le bilan de toutes les forces qui agissent sur le point matériel étudié (ou le centre d'inertie de l'objet étudié).
+3. Faire un schéma précis et suffisamment grand pour pouvoir y représenter (tant que c'est possible) toutes les forces dont les caractéristiques bien connues.
+4. Choisir un sens positif de rotation (Souvent identique au sens de mouvement).
+5. Déterminer l'expression du moment de chacune des forces du bilan.
+6. Appliquer la PFD.
+7. Répondre.
+
+### 4-3/ Moment d'une force par rapport à un axe fixe
+
+Le moment d'une force $\overset{\rightarrow}{F}$ par rapport à un axe fixe $\left(\Delta\right)$, est le produit de l'intensité de cette force par la distance qui sépare la droite d'action de la force et l'axe de rotation.
+
+$\mathcal{M}_{\Delta} \left(\right. \overset{\rightarrow}{F} \left.\right) = \pm F . d$
+
+Le signe dépend du sens de rotation, si la force tourne le solide dans le sens positif alors le signe est positif, sinon le signe du $\mathcal{M}_{\Delta}$ est négatif.
+
+Son unité est $N . m$.
+
+Physiquement, c'est la grandeur qui traduit l'aptitude de cette force de faire tourner un système mécanique autour d'un axe.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s23/img5.jpg)
+
+### 4-4/ Expression du moment d'inertie de quelques corps solides
+
+Le moment d'inertie d'un corps est l'analogue de la masse $m$, c'est une quantité physique caractérisant chaque corps, elle dépend de la masse, la longueur, la forme...
+
+Son unité est $K g . m^{2}$
+
+Le moment d'inertie d'un corps varie si :
+
+- On ajoute des masses au système.
+- On modifie la position d'au corps du système.
+- La position de l'axe $\left(\right. \Delta \left.\right)$ change.
+
+#### Exemples
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s23/img6.jpg)

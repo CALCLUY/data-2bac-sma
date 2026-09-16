@@ -1,0 +1,273 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2012 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2012 - الموضوع - مادة : الفيزياء والكيمياء - شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+RS31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+Les calculatrices non programmables sont autorisées
+
+Ce sujet comporte quatre exercices :
+Un exercice de chimie (7 points)
+Trois exercices de physique (13 points)
+
+Exercice de chimie (7 points)
+Première partie : Etude de l'hydrolyse d'un ester ……… (5 points)
+Deuxième partie : Le nickelage d'une lame de fer ……… (2 points)
+
+Exercices de physique (13 points)
+Exercice 1 : Détermination de la vitesse d'écoulement d'un liquide ……… (2 points)
+Exercice 2 : Effet d'une bobine dans un circuit électrique ……… (5,25 points)
+Exercice 3 :
+Première partie : Séparation des ions 35Cl- et 37Cl- ……… (2,75 points)
+Deuxième partie : Pendule de torsion ……… (3 points)
+
+## Chimie : (7 points) Les deux parties sont indépendantes
+
+### Première partie : (5 points) Etude de l'hydrolyse d'un ester
+
+Les fruits contiennent des espèces chimiques organiques ayant un arôme caractéristique des esters. On peut préparer un ester de formule brute CnH2nO2 à partir d'un acide carboxylique CxH2xO2 et d'un alcool CyH(2y+2)O. Dans des conditions précises on peut regénérer ces deux composés par l'hydrolyse de l'ester. L'objectif de cette partie est la détermination de la formule semi développée d'un ester E à partir de l'étude de l'hydrolyse de l'ester.
+
+Données :
+- Le produit ionique de l'eau à 25°C : Ke = 1,0.10-14.
+- La masse molaire de l'eau : M(H2O) = 18 g.mol-1.
+- La densité de l'ester E par rapport à l'eau : d = 0,9.
+- La masse volumique de l'eau : ρe = 1 g.mL-1.
+- les masses molaires atomiques : M(H) = 1 g.mol-1 ; M(C) = 12 g.mol-1 ; M(O) = 16 g.mol-1 ;
+
+Pour étudier l'hydrolyse d'un ester E à l'état liquide, de formule brute C4H8O2, on réalise l'expérience suivante :
+
+- On répartit à égalité la quantité de matière n1 = 0,05 mol de l'ester E dans dix tubes à essai et on ajoute dans chaque tube à essais une quantité d'eau froide et une goutte d'acide sulfurique concentré de telle façon que chaque tube à essai contient V1 = 5 mL du mélange.
+
+- On met dans un bécher n2 = n1 = 0,05 mol de l'ester E et une quantité d'eau froide et quelques gouttes d'acide sulfurique concentré pour avoir dans le bécher le volume V2 = 50 mL du mélange.
+
+- A l'instant t = 0, on place les tubes à essai et le bécher dans un bain marie maintenu à une température constante θ = 80°C.
+
+On modélise la transformation de l'hydrolyse de l'ester E par une réaction chimique dont l'équation est : C4H8O2 + H2O ⇄ CxH2xO2 + CyH2y+2O
+
+1- On fait sortir un des tubes à essai à une date t et on le met dans de l'eau glacée, puis on dose l'acide formé dans le tube à essais à l'aide d'une solution S d'hydroxyde de sodium de concentration molaire CB = 5,0.10-1 mol.L-1 en présence d'un indicateur coloré convenable. La constante d'équilibre associée à l'équation de la réaction du dosage de l'acide produit par l'hydrolyse de l'ester E vaut K = 1,6.10^9 à 25°C.
+
+1.1- Ecrire l'équation de la réaction du dosage. (0,5)
+
+1.2- Calculer la constante d'acidité KA du couple CxH2xO2/CxH2x-1O2- à 25°C. (0,5)
+
+1.3- Préciser parmis les indicateurs colorés suivants l'indicateur coloré convenable à ce dosage. Justifier la réponse. (0,5)
+
+| Indicateur coloré | Zone de virage |
+| --- | --- |
+| Héliantine | 3,1 - 4,4 |
+| Rouge de méthyle | 4,4 - 6,2 |
+| phénolphtaléine | 8,2 - 10 |
+
+2- Les résultats obtenus à l'aide du dosage permettent de tracer la courbe représentée dans la figure ci contre traduisant la variation de la quantité de matière nE de l'ester restant dans un tube à essai en fonction du temps. La droite (T) représente la tangente à la courbe à l'instant t = 50 min.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : nE(mmol) en fonction de t(min) ; graduations 0, 50, 150, 250 min et 0,7 ; 2,1 ; 3,5 mmol ; tangente (T))
+
+2.1- Calculer la constante d'équilibre K' associée à l'équation de la réaction de l'hydrolyse de l'ester E. (1)
+
+2.2- Calculer le rendement de la réaction de l'hydrolyse de l'ester E. (1)
+
+3/ 3.1- Exprimer la vitesse volumique v de la réaction d'hydrolyse dans le tube à essai en fonction de V1 et dnE/dt. (0,5)
+
+3.2- Choisir la bonne réponse et justifier : La vitesse volumique de la réaction d'hydrolyse de l'ester dans le bécher à la date t = 50 min est :
+
+a- Supérieure à la vitesse volumique v de la réaction de l'hydrolyse de l'ester E dans le tube à essai à la date 50 min ;
+
+b- inférieure à la vitesse volumique v de la réaction de l'hydrolyse de l'ester E dans le tube à essai à la date 50 min ;
+
+c- égale à la vitesse volumique v de la réaction de l'hydrolyse de l'ester E dans le tube à essai à la date 50 min ; (0,5)
+
+4- A la fin de la réaction de l'hydrolyse de l'ester E, et après avoir refroidit le mélange obtenu dans le bécher, on extrait l'alcool formé dont la masse est m = 2,139 g. Déterminer la formule semi développée de l'ester E. (0,5)
+
+### Deuxième partie : (2 point) Le nickelage d'une lame de fer
+
+On fait déposer une couche métallique sur des métaux tels que le fer, le cuivre, l'acier…. pour les protéger contre les corrosions ou les rendre plus résistant ou améliorer leur aspect. L'objectif de cette partie consiste à étudier le recouvrement d'une lame de fer par une couche de nickel à l'aide de l'électrolyse.
+
+Données :
+
+La masse volumique du nickel : μ = 8,9.10^3 kg.m-3
+
+Les masses molaires : M(Ni) = 58,7 g.mol-1 ; M(O) = 16 g.mol-1 ; M(S) = 32 g.mol-1
+
+Le Faraday : 1F = 96500 C.mol-1
+
+On réalise une électrolyse pour recouvrir une lame rectangulaire mince de fer dont l'épaisseur est négligeable, de longueur L = 10 cm et de largeur l = 5 cm par une couche de nickel d'épaisseur e sur chacune des deux faces de la lame. Pour cela, on immerge totalement la lame de fer et une tige en platine dans un récipient contenant une solution de sulfate de nickel II (Ni2+ + SO42-) de concentration massique Cm = 11 g.L-1 et de volume V = 1,0 L. On relie le pôle négatif d'un générateur à la lame de fer et son pôle positif à la tige de platine. Un courant électrique d'intensité constante I = 8,0 A passe alors dans le circuit. Cet électrolyse dure 25 min.
+
+1- Ecrire l'équation de la réaction qui a eu lieu au niveau de la cathode. (0,25)
+
+2- Calculer la quantité de matière du nickel nécessaire pour ce recouvrement. En déduire la valeur de l'épaisseur e. (0,75)
+
+3- Quelle est la concentration molaire effective des ions nickel II dans la solution à la fin de ce recouvrement ? (1)
+
+## Physique : (13 points)
+
+### Exercice 1 : (2 points) Détermination de la vitesse d'écoulement d'un liquide
+
+Les ondes ultrasonores sont des ondes mécaniques qui peuvent se propager dans les liquides avec une vitesse qui dépend de la nature du liquide et de la vitesse de son écoulement. L'objectif de cet exercice est de déterminer la vitesse d'écoulement de l'eau dans une conduite.
+
+#### 1- Propagation d'une onde ultrasonore
+
+une onde ultrasonore de fréquence N = 50 Hz se propagent dans une eau calme avec une vitesse v0 = 1500 m.s-1.
+
+1.1- Calculer la longueur d'onde λ de cette onde ultrasonore se propageant dans une eau calme. (0,5)
+
+1.2- La valeur de λ varie-t-elle si cette onde se propage dans l'air ? Justifier la réponse. (0,25)
+
+#### 2- Mesure de la vitesse d'écoulement de l'eau dans une conduite
+
+Une onde ultrasonore se propage à la vitesse v dans une eau qui coule à la vitesse ve dans une conduite tel que v⃗ = v⃗0 + v⃗e avec v⃗0 vecteur vitesse de propagation de cette onde dans une eau calme.
+
+Pour déterminer la vitesse ve d'écoulement de l'eau dans une conduite horizontale, on y place un émetteur E et un récepteur R d'ondes ultrasonores. L'émetteur E et le récepteur R sont situés sur la même droite horizontale et parallèle à la direction du mouvement de l'eau et sont séparés d'une distance d = 1,0 m. L'émetteur E émet une onde ultrasonore de faible durée qui est reçue par le récepteur R. Un dispositif adéquat permet d'enregistrer le signal u(t) reçu par le récepteur R. On enregistre le signal u(t) dans les deux cas suivants :
+
+- 1er cas : L'émetteur E est à la position A, et le récepteur R est à la position B (figure 1).
+- 2eme cas : L'émetteur E est à la position B, et le récepteur R est à la position A (figure 2).
+
+On considère, pour chaque cas, l'instant de l'émission de l'onde ultrasonore par l'émetteur E comme origine des dates.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : conduite, émetteur E en A, récepteur R en B, distance d, sens d'écoulement de l'eau)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : conduite, récepteur R en A, émetteur E en B, distance d, sens d'écoulement de l'eau)
+
+La figure 3 représente les deux enregistrements obtenus (a) et (b).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : Enregistrement (a) avec impulsion à t1 ; Enregistrement (b) avec impulsion à t1 + τ ; amplitude u0)
+
+2.1- Indiquer l'enregistrement correspondant au 2ème cas. Justifier la réponse. (0,25)
+
+2.2- τ représente la différence des deux durées de propagation de l'onde ultrasonore de l'émetteur E au récepteur R dans les deux cas.
+
+a- Déterminer l'expression de τ en fonction de ve, v0 et d. (0,5)
+
+b- En négligeant la vitesse ve devant v0, déterminer la vitesse ve d'écoulement de l'eau dans la conduite sachant que τ = 2,0 μs. (0,5)
+
+### Exercice 2 : (5,25 points) Effet d'une bobine dans un circuit électrique
+
+Les bobines sont des dipôles électriques qui se caractérisent par leur inductance qui rend leur comportement dans les circuits électriques différent de celui des conducteurs ohmiques. Le but de cet exercice est d'étudier la réponse d'une bobine dans un circuit électrique libre puis forcé.
+
+On réalise le montage électrique représenté dans la figure 1 qui est constitué d'un générateur idéal de tension continue de force électromotrice E = 12V, d'un condensateur de capacité C non chargé, d'une bobine d'inductance L et de résistance négligeable, de deux conducteurs ohmiques (D1) et (D2) de résistance respective R1 et R2 = 30 Ω et d'un interrupteur K.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : générateur E, interrupteur K positions 1 et 2, condensateur C (uC), bobine L (uL), conducteurs (D1) et (D2), tension uR2, courant i)
+
+#### 1- Réponse du dipôle RC à un échelon de tension ascendant
+
+A la date t = 0, on met l'interrupteur à la position 1, un courant électrique passe alors dans le circuit, son intensité i varie au cours du temps comme le montre la figure 2.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : i(mA) en fonction de t(ms) ; graduations 0,5 mA et 38 ms)
+
+1.1- Montrer que l'équation différentielle que vérifie l'intensité du courant i s'écrit sous la forme : di/dt + (1/(R1.C)).i = 0. (0,5)
+
+1.2- la solution de cette équation différentielle s'écrit sous la forme i(t) = A.e^(−λ.t). Déterminer l'expression de chacune des deux constantes A et λ en fonction des paramètres du circuit. (0,5)
+
+1.3- Déterminer la valeur de la résistance R1. Vérifier que C = 6,3μF. (0,5)
+
+#### 2- Etude des oscillations électriques libres amorties
+
+Après avoir chargé complètement le condensateur, on bascule l'interrupteur K à l'instant t = 0 à la position 2 (figure 1). On visualise sur l'écran d'un oscilloscope à mémoire la variation de la tension uR2 entre les bornes du conducteur ohmique (D2) en fonction du temps, on obtient alors la courbe représentée sur la figure 3. La droite T représentée sur le graphe est la tangente à la courbe uR2(t) à la date t = 0.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : uR2(V) en fonction de t(ms) ; graduations 1,5 V et 1,5 ms ; tangente (T))
+
+2.1- Trouver l'équation différentielle que vérifie la tension uR2. (0,5)
+
+2.2- Quelle est à t = 0 la valeur de la tension uL entre les bornes de la bobine ? (0,5)
+
+2.3- Déterminer graphiquement la valeur de di/dt à t = 0. Déduire la valeur de l'inductance L. (0,5)
+
+#### 3- Les oscillations forcées
+
+On monte en série, avec le condensateur précédent et la bobine précédente, un conducteur ohmique (D) de résistance R réglable et un générateur de basse fréquence GBF. Le générateur applique une tension alternative sinusoïdale de valeur efficace U variable et de fréquence N variable également (figure 4). La courbe (a), sur la figure 5, représente la variation de l'intensité efficace I du courant parcouru dans le circuit en fonction de la fréquence N quand la tension efficace du générateur est réglée sur la valeur U1 = 10V, et la courbe (b) sur la figure 5 représente les variations de I en fonction de N et ce, quand on change la valeur de l'une des deux grandeurs R ou U.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : GBF (N, U), conducteur (D) R, bobine L, condensateur C en série)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 5 : I(A) en fonction de N(Hz) ; courbes (a) et (b) ; valeurs 95,25 Hz et 0,1 A)
+
+3.1- Calculer la valeur de la résistance R du conducteur ohmique (D) correspondante à la courbe (a). (0,5)
+
+3.2- Trouver l'expression de l'impédance Z du dipôle RLC en fonction de R quand la valeur de l'intensité efficace du courant vaut I = I0/√2 avec I0 l'intensité efficace du courant à la résonance. (0,5)
+
+3.3- Calculer le facteur de qualité du circuit pour chacune des deux courbes. (0,75)
+
+3.4- Indiquer parmi les deux grandeurs R et U, celui qui a été modifié pour obtenir la courbe (b). Justifier la réponse. (0,5)
+
+### Exercice 3 : (5,75 points) Les deux parties sont indépendantes
+
+#### Première partie : (2,75 points) Séparation des ions 35Cl- et 37Cl-
+
+Pour séparer des ions différents, on peut utiliser le dispositif schématisé sur la figure ci-contre qui comprend :
+
+- Une chambre d'ionisation dans laquelle les ions sont produits ;
+- Une chambre accélératrice dans laquelle les ions sont accélérés ;
+- Une chambre de déviation où les ions sont déviés.
+
+Le but de cette partie est de séparer les ions 35Cl- et 37Cl- par action simultanée d'un champ électrique et d'un champ magnétique.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : chambre d'ionisation (S), chambre accélératrice (plaques (P) et (Q), distance d0, tension U0), chambre de déviation (plaques (M) et (N), tension U, champ B⃗), trous T1 et T2)
+
+Données :
+
+On considère que les ions se déplacent dans le vide et que leur poids est négligeable devant les autres forces.
+Masse d'un ion 35Cl- : m1 = 5,81.10-26 kg
+Masse d'un ion 37Cl- : m2 = 6,15.10-26 kg
+La charge élémentaire : e = 1,6.10-19 C.
+
+1- Les ions 35Cl- et 37Cl- quittent la chambre d'ionisation au point S avec une vitesse initiale négligeable et sont accélérés par une tension électrique U0 = VP − VQ = 100V appliquée entre deux plaques métalliques verticales (P) et (Q) séparées par une distance d0.
+
+1.1- En appliquant la deuxième loi de Newton :
+
+a- Déterminer la nature du mouvement des ions 35Cl- dans la chambre accélératrice. (0,5)
+
+b- En déduire l'expression de la vitesse v1 des ions 35Cl- à leur arrivée à la plaque (P) en fonction de m1, e et U0. (0,5)
+
+1.2- Les ions 37Cl- arrivent à la plaque (P) avec une vitesse v2. Déterminer l'expression de v2 en fonction de v1, m1 et m2. (0,5)
+
+2- Après la sortie des ions 35Cl- et 37Cl- par le trou T1 avec les vitesses respectives v⃗1 et v⃗2, ils entrent dans la chambre de déviation dans laquelle règne un champ magnétique uniforme B⃗ perpendiculaire aux deux vitesses initiales v⃗1 et v⃗2, et un champ électrique E⃗ uniforme crée par l'application d'une tension électrique U = VM − VN = 200V entre les deux plaques métalliques horizontales (M) et (N) séparées d'une distance d = 5 cm, ce qui donne aux ions 35Cl- un mouvement rectiligne uniforme et sortent du trou T2.
+
+2.1- En appliquant la deuxième loi de Newton aux ions 35Cl-, préciser le sens du vecteur champ magnétique B⃗ et déterminer l'expression de son module en fonction de U0, U, e, m1 et d. Calculer B. (0,75)
+
+2.2- déterminer le sens de déviation des ions 37Cl- à l'intérieur de la chambre de déviation. (0,5)
+
+#### Deuxième partie : (3 points) Pendule de torsion
+
+Le système mécanique oscillatoire est un système qui effectue un mouvement périodique autours de sa position d'équilibre stable. Parmi ces oscillateurs on cite le pendule de torsion. L'objectif de cette partie est l'étude du mouvement d'un pendule de torsion.
+
+Le pendule de torsion représenté sur la figure 1 est constitué d'un fil de torsion de constante de torsion C0 et de longueur ℓ, et d'une tige homogène AB.
+
+On fixe la tige AB par son milieu au fil de torsion en un point O qui divise le fil en deux parties :
+- Une partie OM de longueur z et de constante de torsion C1 ;
+- Une partie ON de longueur ℓ−z et de constante de torsion C2.
+
+Lorsque le fil est tordu d'un angle θ, la partie OM exerce sur la tige un couple de torsion de moment M1 = −C1θ, et la partie ON exerce sur la tige un couple de torsion de moment M2 = −C2θ.
+
+On exprime la constante de torsion C d'un fil de torsion de longueur L par la relation C = k/L avec k une constante qui dépend du matériau constituant le fil de torsion et du diamètre de ce fil.
+
+JΔ représente le moment d'inertie de la tige par rapport à l'axe de rotation (Δ) confondu avec le fil de torsion
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : fil de torsion M-O-N, longueurs z et ℓ−z, tige AB, axe (Δ))
+
+Au début le fil de torsion est non tordu et la tige AB est horizontale. On fait tourner la tige AB autours de l'axe (Δ) d'un angle θm de sa position d'équilibre stable et on l'abandonne sans vitesse initiale, elle effectue alors des oscillations dans le plan horizontal.
+
+On repère la position de la tige AB à une date t par l'abscisse angulaire θ que fait la tige à cet instant avec la droite horizontale confondue avec la position d'équilibre de la tige.
+
+On néglige tous les frottements.
+
+1- En appliquant la relation fondamentale de la dynamique relative à la rotation, montrer que l'équation différentielle du mouvement de ce pendule s'écrit : θ̈ + (C0.ℓ²/(JΔ.z.(ℓ−z))).θ = 0. (0,5)
+
+2- Trouver l'expression littérale de la période propre T0 de l'oscillateur pour que la solution de l'équation différentielle soit : θ = θm.cos((2π/T0).t). (0,75)
+
+3- La courbe de la figure 2 représente la variation de l'accélération angulaire de la tige en fonction de l'abscisse angulaire θ dans le cas où z = ℓ/2.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : θ̈ (rad.s-2) en fonction de θ (rad) ; valeurs 16 et π/8)
+
+3.1- Déterminer la valeur de T0 dans ce cas. (0,5)
+
+3.2- On choisit le plan horizontal qui contient la tige AB comme état de référence de l'énergie potentielle de pesanteur et on choisit comme état de référence de l'énergie potentielle de torsion la position d'équilibre de la tige où θ = 0.
+
+a- Déterminer dans le cas où z = ℓ/2, l'expression de l'énergie mécanique Em de l'oscillateur à un instant t en fonction de JΔ, C0, θ et la vitesse angulaire θ̇ de la tige AB. (0,75)
+
+b- Sachant que Em = 4.10-3 J, Calculer C0. On prend π² = 10. (0,5)

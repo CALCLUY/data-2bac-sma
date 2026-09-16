@@ -1,0 +1,184 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2022 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية
+الدورة الاستدراكية 2022 – الموضوع –
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية - مسلك العلوم الرياضية (أ) خيار فرنسية
+مدة الإنجاز : 2h — المعامل : 3
+RS 36F
+
+L’utilisation d’une calculatrice non programmable est autorisée
+
+## Partie I : Restitution des connaissances (5 points)
+
+I. Définissez, sur votre feuille de rédaction, les notions suivantes : - La population - Le pool génique. (1 pt)
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte.
+
+Recopiez, sur votre feuille de rédaction, les couples ci-dessous et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts) (1,…..) (2,…..) (3,…..) (4,…..)
+
+1- La population théorique idéale d’une espèce diploïde se caractérise par :
+
+a- des croisements aléatoires entres des individus d’une population à effectif limité ;
+
+b- des croisements dirigés entre les individus d’une population à effectif illimité ;
+
+c- l’absence des flux migratoires ;
+
+d- des variations des fréquences alléliques d’une génération à une autre.
+
+2- Dans le cas de dérive génétique, et au cours du temps, le pool génique de la population devient :
+
+a – de plus en plus petit, ce qui réduit la variabilité génétique ;
+
+b - de plus en plus grand, ce qui augmente la variabilité génétique ;
+
+c- de plus en plus petit, ce qui augmente la variabilité génétique ;
+
+d- de plus en plus grand, ce qui réduit la variabilité génétique.
+
+3- La migration unidirectionnelle selon le modèle insulaire conduit à :
+
+a- un changement de la structure génétique de la population "continent" (de grand effectif) ;
+
+b - un changement de la structure génétique de la population "île" (de petit effectif) ;
+
+c- des fréquences alléliques homogènes entre la population "île" et la population "continent" ;
+
+d- une stabilité des structures génétiques de la population "île" et de la population "continent".
+
+4- L’effet fondateur est un phénomène de :
+
+a- migration qui conduit à la formation d’une nouvelle population à partir d’un petit groupe de migrants ;
+
+b- migration qui conduit à la formation d’une nouvelle population à partir d’un grand groupe de migrants ;
+
+c- dérive génétique qui conduit à la formation d’une nouvelle population à partir d’un petit groupe de migrants ;
+
+d- dérive génétique qui conduit à la formation d’une nouvelle population à partir d’un grand groupe de migrants.
+
+III - Recopiez sur votre feuille de rédaction la lettre correspondante à chaque proposition parmi les propositions suivantes (a, b, c et d), puis écrivez devant chaque lettre « vrai » ou « faux ». (2 pts)
+
+a. Selon la loi de Hardy-Weinberg, chez les mâles, la fréquence des phénotypes est égale à la fréquence des génotypes dans le cas d’un gène lié au chromosome X.
+
+b. Selon la loi de Hardy-Weinberg, dans le cas de la codominance, la fréquence des phénotypes est égale à la fréquence des génotypes.
+
+c. Au cours de la variation génétique de la population, la mutation n’a aucune relation avec la sélection naturelle.
+
+d. La population est formée par tous les individus capables de se reproduire entre eux pour donner une descendance fertile.
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 : (6.75 points)
+
+Afin de mette en évidence le rôle de la méiose et de la fécondation dans le maintien de la stabilité du nombre de chromosomes et dans la diversité génétique chez la tulipe (plante à fleurs), on propose les données suivantes :
+
+I- La reproduction sexuée chez la tulipe est assurée par la rencontre du gamétophyte mâle (grain de pollen) avec le gamétophyte femelle (sac embryonnaire). Après la fécondation le sac embryonnaire donne la graine et l’ovaire se transforme en fruit. Dans les conditions favorables, la graine germe et donne une nouvelle plantule. Le document suivant représente le cycle de développement de cette plante.
+
+[Figure — Document, image : cycle de développement de la tulipe — Fleur de tulipe, Anthère, Méiose, Microspore, Tétrade, Grain de pollen (Cellule végétative, Cellule reproductrice), Germination du grain de pollen, Tube pollinique, Anthérozoïdes (Gamètes mâles), Ovule, Méiose, Macrospore, Mitoses, Sac embryonnaire (n), Oosphère, Fécondation, Zygote (2n), Albumen, Graine, Plantule, Grains de pollen]
+
+1. En exploitant les données précédentes et sachant que la tulipe possède 24 chromosomes, donnez la formule chromosomique de la plantule et du sac embryonnaire. (0.5 pt)
+
+2. Le cycle de développement de la tulipe est formé par la succession de deux phases : la phase du sporophyte et la phase du gamétophyte. Dégagez de ce cycle chacune de ces deux phases. Justifiez votre réponse. (0.5 pt)
+
+3. Réalisez le cycle chromosomique de cette plante et déterminez son type. (0,75 pt)
+
+II. Afin d’étudier le mode de transmission de deux caractères héréditaires chez la tulipe, on propose les croisements suivants :
+
+● Croisement 1 : Réalisé entre des plantes à fleurs rouges et à pétales entiers et des plantes à fleurs jaunes et à des pétales découpés. Les graines issues de ce croisement sont semées et elles ont donné une génération F1 constituée de plantes à fleurs orange et à pétales découpés.
+
+● Croisement 2 : Réalisé entre une plante de la génération F1 et une plante à fleurs rouges et à pétales entiers. Ce croisement a permis d’avoir une génération F’2 constituée des phénotypes suivants :
+
+- 194 plantes à fleurs rouges et à pétales entiers.
+
+- 190 plantes à fleurs orange et à pétales découpés.
+
+- 8 plantes à fleurs rouges et à pétales découpés.
+
+- 9 plantes à fleurs orange et à pétales entiers.
+
+4. Á partir de l’exploitation des résultats des deux croisements, déduisez le mode de transmission des deux caractères étudiés. (1 pt)
+
+- Pour les allèles du gène responsable de la couleur de la fleur utilisez : (J et R) dans le cas de codominance ou (R et r) dans le cas de dominance ;
+
+- Pour les allèles du gène responsable de la forme des pétales utilisez : (D et E) dans le cas de codominance ou (D et d) dans le cas de dominance.
+
+5. Donnez l’interprétation chromosomique des résultats des croisements 1 et 2. (2.25 pts)
+
+6. En utilisant des schémas convenables, expliquez le phénomène à l’origine de la diversité des gamètes de la génération F1. (0.75 pt)
+
+Un horticulteur cherche à obtenir une nouvelle variété de tulipe à fleur rouge et à pétales découpés.
+
+7. En vous basant sur les génotypes des individus de la génération F’2, proposez, en justifiant votre réponse à l’aide d’un échiquier de croisement, le croisement qui permet d’obtenir la plus grande proportion du phénotype désiré. (1 pt)
+
+### Exercice 2 : (3.25 points)
+
+L’hémochromatose est une maladie génétique liée à une mutation du gène HFE, qui code pour une protéine responsable de la régulation de l’absorption intestinale du fer. Les symptômes apparaissent à partir de 30 ans : une fatigue générale, un risque de cirrhose du foie et d’atteinte par le diabète ou le cancer. Le document 1 présente l’arbre généalogique d’une famille dont certains membres sont atteints d’hémochromatose.
+
+[Figure — Document 1, image : arbre généalogique — légende : homme sain, homme atteint, femme saine, femme atteinte, Garçon à phénotype inconnu (?) ; générations I (1, 2), II (1 à 6), III (1, 2, 3)]
+
+1. En vous basant sur l’arbre généalogique figurant dans le document 1, montrez :
+
+a. que l’allèle responsable de la maladie est récessif. (0.5 pt)
+
+b. si le gène étudié est porté par un autosome ou un chromosome sexuel. (0.75 pt)
+
+2. Donnez, en justifiant votre réponse, les génotypes des individus II1 et II2. (0,5 pt)
+
+Utilisez le symbole (H) ou (h) pour l’allèle responsable du phénotype normal et le symbole (M) ou (m) pour l’allèle responsable de la maladie.
+
+3. Déterminez, à l’aide d’un échiquier de croisement, la probabilité pour que l’individu III2 soit atteint d’hémochromatose. (1 pt)
+
+L’analyse de l’ADN par la technique d’électrophorèse, permet de détecter les formes alléliques du gène étudié et de déduire le génotype de l’individu testé.
+
+Le document 2 présente le résultat obtenu.
+
+[Figure — Document 2, image : électrophorèse — Dépôt d’ADN, Sens de migration, Allèle, Allèle, Individu malade, Individu sain, Individu III2]
+
+4. En vous basant sur les résultats de l’analyse génétique, déduisez le génotype de l’individu III2. Justifiez votre réponse. (0.5 pt)
+
+### Exercice 3 : (5 points)
+
+Le tabac d'ornement (Nicotiana affinis) est une plante proche du tabac utilisé pour la fabrication de cigarettes. Ses fleurs ont de 3 à 10 cm de longueur, tubulées, en forme de trompette, réunies en grappes et très parfumées notamment le soir.
+
+Pour étudier la variation de la longueur des corolles chez une population de tabac d’ornement on a réalisé les croisements suivants :
+
+- 1er Croisement entre deux souches parentales de lignées pures P1 et P2. Ce croisement a donné une génération F1 ;
+
+- 2e Croisement entre les individus de F1 (F1 × F1). Ce croisement a donné une génération F2.
+
+Le document suivant présente la distribution de la longueur de la corolle chez les deux souches parentales P1 et P2 (figures 1 et 2) et chez la génération F2 (figure 3).
+
+[Figure — Document, image : figures 1, 2 et 3 — distribution de la longueur de la corolle chez P1, P2 et F2] [CONTENT_IMAGE_UNREADABLE]
+
+1. Comparez les données de la distribution de la longueur de la corolle de la souche P1 à celle de la souche P2. (1 pt)
+
+2. Déduisez les caractéristiques de la distribution de F2. Justifiez votre réponse. (1 pt)
+
+Pour sélectionner, de nouveau, une race pure ayant de longues corolles à partir de la génération F2 on a réalisé des croisements entre les individus dont le centre de la classe est de 89 mm et on a obtenu une génération F3. Le tableau suivant présente les résultats obtenus.
+
+| Centre des classes de longueur de la corolle (mm) | 69 | 74 | 79 | 84 | 89 | 94 | 99 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Fréquence | 4 | 8 | 12 | 20 | 20 | 14 | 9 |
+
+3. Réalisez, sur votre feuille de rédaction le polygone de fréquence de la distribution « longueur de la corolle ». (0.75 pt)
+
+(Utilisez 1 cm pour un effectif de 5 individus et séparez entre les centres de classes par 1 cm).
+
+4. Calculez la moyenne arithmétique et l’écart type de cette distribution, en se basant sur un tableau d’application du calcul des paramètres statistiques. (1.5 pt)
+
+On donne :
+
+$$\bar{X}=\frac{\sum_{i}^{1}\left(f_{i}x_{i}\right)}{n}\qquad et \qquad \sigma=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(x_{i}-\bar{X}\right)^{2}}{n}}$$
+
+5. Est-ce que la sélection réalisée à partir de la génération F2 a donné une souche plus homogène que la souche parentale P2 ? Justifiez votre réponse. (0.75 pt)
+
+# Fin

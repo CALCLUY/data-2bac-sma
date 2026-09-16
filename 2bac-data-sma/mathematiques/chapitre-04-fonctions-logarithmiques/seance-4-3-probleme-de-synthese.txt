@@ -1,0 +1,42 @@
+---
+Chapitre: Chapitre 4 : Fonctions logarithmiques
+Séance: Séance 4-3 : Fonctions logarithmiques - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 4-3 : Fonctions logarithmiques - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+V- Problème de synthèse
+5-1/ Partie 1 : Existence et unicité d'une racine positive $x$ de $\left(E_{n}\right)$
+5-2/ Partie 2 : Étude de la fonction auxiliaire $f$
+5-3/ Partie 3 : Étude de la suite $\left(x_{n}\right)_{n \geq 1}$
+
+#### 5-1/ Partie 1 : Existence et unicité d'une racine positive $x$ de $\left(E_{n}\right)$
+
+Pour tout $n \in \mathbb{N} \star$, on considère l'équation sur $\mathbb{R} \star$ : $\left(E_{n}\right) : x^{n} + x - 1 = 0$
+
+On étudiera $\left(E_{n}\right)$ à l'aide de la fonction auxiliaire $f$ : $f \left(x\right) = \frac{ln \left(1 - x\right)}{ln x}$
+
+1. Résoudre l'équation pour $n = 1$ et $n = 2$.
+
+2. Étudier les variations de la fonction numérique $x \rightarrowtail x^{n} + x - 1$ sur $\left[\right. 0 ; + \infty \left[\right.$ pour $n \geq 1$.
+
+3. En déduire que l'équation $\left(E_{n}\right)$ admet une et une seule racine positive qu'on notera $x_{n}$, et montrer que $0 < x_{n} < 1$.
+
+#### 5-2/ Partie 2 : Étude de la fonction auxiliaire $f$
+
+1. Déterminer le domaine de définition de $f$ et les limites de $f$ aux extrémités de celui-ci.
+2. Calculer alors $f ' \left(\right. x \left.\right)$ et en déduire le tableau de variations de $f$.
+
+#### 5-3/ Partie 3 : Étude de la suite $\left(x_{n}\right)_{n \geq 1}$
+
+1. Montrer que $f \left(x_{n}\right) = n$ pour tout $n \geq 1$.
+2. Montrer que la suite $\left(x_{n}\right)_{n \geq 1}$ est strictement croissante.
+3. En déduire la convergence de la suite $\left(x_{n}\right)_{n \geq 1}$.
+4. Préciser la valeur de la limite de la suite $\left(x_{n}\right)_{n \geq 1}$.

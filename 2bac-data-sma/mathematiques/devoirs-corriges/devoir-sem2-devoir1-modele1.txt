@@ -1,0 +1,93 @@
+---
+Chapitre: Devoirs Corrigés
+Séance: Semestre 2 - Devoir 1 - Modèle 1
+Type: Devoir corrigé
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Semestre 2 Devoir 1 Modèle 1
+Professeur : Mr CHEDDADI Haitam
+
+### I- Exercice 1
+
+On considère dans $\mathbb{Z}^{2}$ l'équation : $\left(E\right) 143 x - 195 y = 52$.
+
+1. Déterminer le plus grand commun diviseur de $143$ et $195$, puis en déduire que l'équation $\left(E\right)$ admet des solutions dans $\mathbb{Z}^{2}$.
+
+2. Sachant que $\left(- 1 ; - 1\right)$ est une solution particulière de l'équation $\left(E\right)$, résoudre dans $\mathbb{Z}^{2}$ l'équation $\left(E\right)$ en précisant les étapes de la résolution.
+
+Soit $n$ un entier naturel non nul premier avec $5$.
+
+3. Montrer que pour tout $k$ de $\mathbb{Z}$, on a : $n^{4 k} \equiv 1 \left[5\right]$.
+
+Soient $x$ et $y$ deux entiers naturels non nuls tel que $x \equiv y \left[4\right]$.
+
+4. Montrer que pour tout $n \in \mathbb{N} \star$, on a : $n^{x} \equiv n^{y} \left[5\right]$.
+
+5. En déduire que pour tout $n \in \mathbb{N} \star$, on a : $n^{x} \equiv n^{y} \left[10\right]$.
+
+Soient $x$ et $y$ deux entiers naturels tel que $\left(x , y\right)$ est solution de l'équation $\left(E\right)$.
+
+6. Montrer que pour tout $n \in \mathbb{N} \star$, les deux nombres $n^{x}$ et $n^{y}$ ont le même chiffre des unités dans l'écriture dans le système décimal.
+
+### II- Exercice 2
+
+On considère la fonction $G$ définie sur $\mathbb{R}$ par : $G \left(x\right) = \int_{0}^{x} \frac{2}{\sqrt{1 + 4 t^{2}}} d t$
+
+1. Montrer que $G$ est dérivable sur $\mathbb{R}$ et calculer sa dérivée $G ' \left(x\right)$
+
+2. Montrer que $G$ est impaire
+
+3. Montrer que $\left(\forall t \geq 0\right) \frac{1}{1 + 2 t} \leq \frac{1}{\sqrt{1 + 4 t^{2}}}$
+
+4. Déduire $\underset{x \rightarrow + \infty}{lim} G \left(x\right)$
+
+5. Montrer que $\left(\forall t \geq 1\right) 1 + 4 t^{2} \geq \left(1 + t\right)^{2}$
+
+6. Déduire que $\left(\forall x > 1\right) G \left(x\right) \leq G \left(1\right) - \ln 4 + 2 \ln \left(x + 1\right)$
+
+7. Étudier la branche infinie de la courbe $\left(\mathcal{C}_{G}\right)$ au voisinage de $+ \infty$
+
+8. Montrer que $G$ est bijective de $\mathbb{R}$ vers $\mathbb{R}$
+
+Soit $F$ la réciproque de $G$.
+
+9. Montrer que $F$ est dérivable sur $\mathbb{R}$ et $\left(\forall x \in \mathbb{R}\right) F ' \left(x\right) = \frac{1}{2} \sqrt{1 + 4 F^{2} \left(x\right)}$
+
+10. Montrer que $F$ est deux fois dérivable sur $\mathbb{R}$ et que $F " \left(x\right) - F \left(x\right) = 0$
+
+11. Calculer $F ' \left(0\right)$ et $F \left(0\right)$, puis déterminer $F \left(x\right)$ et $G \left(x\right)$ en fonction de $x$
+
+### III- Exercice 3
+
+Pour tout entier naturel $n \geq 2$, on définie la fonction $f_{n}$ sur $\left] 1 , + \infty \right[$ par $f_{n} \left(x\right) = \ln \left(x - 1\right) + P_{n} \left(x\right)$ avec $P_{n} \left(x\right) = \sum_{k = 1}^{n} \frac{x^{k}}{k}$
+
+1. Étudier le sens de variation de $P_{n}$ sur $\left] 1 , + \infty \right[$
+
+2. Étudier le signe de $f_{n + 1} \left(x\right) - f_{n} \left(x\right)$ sur $\left] 1 , + \infty \right[$
+
+3. Montrer que $\left(\forall x \in \left] 1 , + \infty \right[\right) f '_{n} \left(x\right) = \frac{x^{n}}{x - 1}$, et donner le tableau de variation de $f_{n}$
+
+4. Montrer que l'équation $f_{n} \left(x\right) = 0$ admet une seul solution $b_{n}$
+
+5. Montrer que la suite $\left(b_{n}\right)_{n}$ est décroissante et qu'elle est convergente
+
+6. Tracer la courbe $\left(\mathcal{C}_{2}\right)$, on donne $1 < b_{2} < 1 , 2$
+
+Soit $p$ un entier de $\mathbb{N} \star$.
+
+7. Montrer que $\left(\forall p \in \mathbb{N} \star\right) \int_{p}^{p + 1} \frac{1}{x} d x \leq \frac{1}{p}$
+
+8. Montrer que $\left(\forall n \geq 2\right) \ln \left(n + 1\right) \leq P_{n} \left(1\right)$
+
+9. Déduire que $\left(\forall n \geq 2\right) f_{n} \left(1 + \frac{1}{n + 1}\right) > 0$, puis montrer que $\underset{n \rightarrow + \infty}{lim} b_{n} = 1$
+
+10. Étudier le sens de variation de $f '_{n + 1}$ sur l'intervalle $\left] 1 , 1 + \frac{1}{n + 1} \right[$
+
+11. En utilisant le théorème des accroissements finies à $f_{n + 1}$ sur $\left[b_{n + 1} , b_{n}\right]$, montrer que :
+
+$$b_{n + 1} - 1 \leq \left(n + 1\right) \left(b_{n} - b_{n + 1}\right) \leq b_{n} - 1$$
+
+12. Déduire un encadrement du nombre $b_{3}$

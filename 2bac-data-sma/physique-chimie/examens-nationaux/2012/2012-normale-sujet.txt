@@ -1,0 +1,242 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2012 - Session Normale - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2012 - الموضوع - مادة : الفيزياء والكيمياء - شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+NS31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+Les calculatrices non programmables sont autorisées
+
+Le sujet comporte quatre exercices :
+- Un exercice de chimie (7 points)
+- Trois exercices de physique (13 points)
+
+Exercice de chimie (7 points)
+Première partie : Réactivité des ions éthanoate ……… (4,75 points)
+Deuxième partie : Etude de la pile Cuivre – Aluminium ……… (2,25 points)
+
+Exercices de physique (13 points)
+Exercice 1 : Les réactions nucléaires des isotopes d'hydrogène ……… (2 points)
+Exercice 2 : Détermination des caractéristiques d'une bobine utilisée pour la sélection d'une onde modulée ……… (5,25 points)
+Exercice 3 : (5,75 points)
+Première partie : Mouvement de chute d'un parachutiste ……… (2,5 points)
+Deuxième partie : Pendule pesant ……… (3,25 points)
+
+## Chimie : (7 points) Les deux parties sont indépendantes
+
+### 1ère partie : (4,75 points) Réactivité des ions éthanoate
+
+L'éthanoate de sodium est un composé chimique de formule CH3COONa, soluble dans l'eau, il est considéré comme une source des ions éthanoate CH3COO-. L'objectif de cette partie est l'étude de la réaction des ions éthanoate avec l'eau d'une part et avec l'acide méthanoïque d'autre part.
+
+Données :
+
+- La masse molaire de l'éthanoate de sodium M(CH3COONa) = 82 g.mol-1
+- Le produit ionique de l'eau à 25°C est : Ke = 1,0.10-14
+- La constante d'acidité du couple CH3COOH/CH3COO- à 25°C est KA1 = 1,6.10-5
+- Toutes les mesures sont faites à la température 25°C.
+
+#### 1- Etude de la réaction des ions éthanoate avec l'eau.
+
+On dissout dans l'eau distillée des cristaux d'éthanoate de sodium de masse m = 410 mg pour obtenir une solution S1 non saturée de volume V = 500 mL et de concentration C1. On mesure le pH de la solution S1, on trouve pH = 8,4.
+
+1.1- Ecrire l'équation de la réaction entre les ions éthanoate et l'eau. (0,25)
+
+1.2- En utilisant le tableau d'avancement de la réaction, exprimer le taux d'avancement final τ1 de cette réaction en fonction de Ke, C1 et pH. Calculer τ1. (0,75)
+
+1.3- Exprimer la constante d'équilibre K, associée à l'équation de cette réaction, en fonction de C1 et τ1, puis vérifier que K = 6,3.10-10. (0,75)
+
+1.4- On prend un volume de la solution S1 et on y ajoute une quantité d'eau distillée pour obtenir une solution S2 de concentration C2 = 10-3 mol.L-1. Calculer dans ce cas le taux d'avancement final τ2 de la réaction entre les ions éthanoate et l'eau. Conclure. (0,75)
+
+#### 2- Etude de la réaction des ions éthanoate avec l'acide méthanoïque.
+
+On mélange un volume V1 = 90,0 mL d'une solution aqueuse d'éthanoate de sodium de concentration C = 1,00.10-2 mol.L-1 et un volume V2 = 10,0 mL d'une solution aqueuse d'acide méthanoïque HCOOH de même concentration C. On modélise la transformation qui a eu lieu par une réaction chimique d'équation :
+
+CH3COO-(aq) + HCOOH(aq) ⇄ CH3COOH(aq) + HCOO-(aq)
+
+On exprime la conductivité σ du mélange réactionnel à un instant t en fonction de l'avancement x de la réaction par la relation :
+
+σ = 81,9 + 1,37.10^4.x avec σ en mS.m-1 et x en mol.
+
+2.1- On mesure la conductivité du mélange réactionnel à l'équilibre, on trouve : σeq = 83,254 mS.m-1.
+
+a- Vérifier que la valeur de la constante d'équilibre K associée à l'équation de la réaction est K ≈ 10. (0,75)
+
+b- En déduire la valeur de la constante d'acidité KA2 du couple HCOOH/HCOO-. (0,5)
+
+2.2- Calculer le pH du mélange à l'équilibre. En déduire les deux espèces chimiques prédominants dans le mélange à l'équilibre parmi les espèces chimiques suivants CH3COOH, CH3COO-, HCOOH, HCOO-. (1)
+
+### 2ème partie : (2,25 points) Etude de la pile Cuivre-Aluminium
+
+On avait découvert la pile qui met en œuvre les couples de type "Ion métal/Métal" à une époque où l'évolution du télégraphe nécessitait un besoin de sources de courant électrique continu. L'objectif de cette partie est l'étude de la pile Cuivre-Aluminium.
+
+Données :
+
+- Constante de Faraday : F = 96500 C.mol-1
+- Masse molaire atomique de l'élément aluminium : M = 27 g.mol-1.
+- Constante d'équilibre associée à l'équation de la réaction entre le métal cuivre et les ions aluminium
+3Cu(s) + 2Al3+(aq) ⇄ 3Cu2+(aq) + 2Al(s) est K = 10-20.
+
+On réalise la pile Cuivre – Aluminium en reliant deux demi-piles par un pont salin de chlorure d'ammonium (NH4+ + Cl-). La première demi-pile est constituée d'une lame de cuivre partiellement immergée dans une solution aqueuse de sulfate de cuivre II (Cu2+ + SO42-) de concentration C0 et de volume V = 50 mL. La deuxième demi-pile est constituée d'une lame d'aluminium partiellement immergée dans une solution aqueuse de chlorure d'aluminium (Al3+ + 3Cl-) de même concentration C0 et de même volume V. On branche entre les pôles de la pile un conducteur Ohmique (D), un ampèremètre et un interrupteur K (figure 1). A l'instant t = 0 on ferme le circuit, un courant électrique d'intensité constante I circule alors dans le circuit. La courbe de la figure 2 représente la variation de la concentration [Cu2+] des ions cuivre II existant dans la première demi-pile en fonction du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : pile Cu / Al, pont salin, conducteur ohmique (D), ampèremètre A, interrupteur K, solutions de sulfate de cuivre II et de chlorure d'aluminium)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : [Cu2+](mol.L-1) en fonction de t(s) ; graduation 500 s et 1,0.10-2 mol.L-1)
+
+1- 1.1- En utilisant le critère d'évolution spontanée, déterminer le sens d'évolution du système chimique constituant la pile. (0,25)
+
+1.2- Donner la représentation conventionnelle de la pile étudiée. (0,5)
+
+2- 2.1- Exprimer la concentration [Cu2+] à un instant t en fonction de t, C0, I, V et F. (0,5)
+
+2.2- En déduire la valeur de l'intensité I du courant électrique qui passe dans le circuit. (0,5)
+
+3- La pile est entièrement usée à une date tc. Déterminer, en fonction de tc, F, I et M, la variation Δm de la masse de la lame d'aluminium lorsque la pile est entièrement usée. Calculer Δm. (0,5)
+
+## Physique : (13 points)
+
+### Exercice 1 : (2 points) Les réactions nucléaires des isotopes d'hydrogène
+
+L'énergie solaire provient de la réaction de fusion des noyaux d'hydrogène. Les physiciens s'intéressent à produire l'énergie nucléaire à partir de la réaction de fusion des isotopes d'hydrogène : deutérium 2/1 H et tritium 3/1 H.
+
+Données : Les masses en unité u : m(3/1 H) = 3,01550 u ; m(2/1 H) = 2,01355 u ; m(4/2 He) = 4,00150 u ; m(1/0 n) = 1,00866 u ; 1u = 1,66.10-27 kg = 931,5 MeV.c-2
+
+#### 1- la radioactivité β- du tritium
+
+Le nucléide tritium 3/1 H est radioactif β-, sa désintégration donne lieu à un isotope de l'élément Hélium.
+
+1.1- Ecrire l'équation de cette désintégration. (0,25)
+
+1.2- On dispose d'un échantillon radioactif du nucléide tritium 3/1 H contenant N0 nucléides à l'instant t = 0. Soit N le nombre de nucléides tritium dans l'échantillon à l'instant t. Le graphe de la figure 1 représente les variations de ln(N) en fonction du temps t. Déterminer la demi-vie t1/2 du tritium. (0,5)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : ln N en fonction de t (ans) ; graduations 22 et 48,75 ; 0 et 50)
+
+#### 2- Fusion nucléaire
+
+2.1- La courbe de la figure 2 représente les variations de l'opposé de l'énergie de liaison par nucléon en fonction du nombre de nucléons A. Déterminer, parmi les intervalles ①, ② et ③ indiqués sur la figure 2, celui dans lequel les nucléides sont susceptibles de subir des réactions de fusion. Justifier la réponse. (0,5)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : −El/A (MeV/nucléon) en fonction de A ; graduations 50, 100, 150, 200, 250 ; valeur -4 ; intervalles ①, ②, ③)
+
+2.2- L'équation de la réaction de fusion des noyaux de deutérium 2/1 H et de tritium 3/1 H s'écrit : 2/1 H + 3/1 H → 4/2 He + 1/0 n. On peut extraire 33 mg de deutérium à partir de 1,0 L de l'eau de mer. Calculer, en MeV, la valeur absolue de l'énergie que l'on peut obtenir à partir de la réaction de fusion du tritium et du deutérium extrait de 1 m3 de l'eau de mer. (0,75)
+
+### Exercice 2 : (5,25 pts) Détermination des caractéristiques d'une bobine utilisée pour la sélection d'une onde modulée
+
+Les bobines sont utilisées dans des montages électriques pour sélectionner des signaux modulés. Cet exercice a pour but de déterminer entre deux bobines (b) et (b') celle que l'on doit utiliser pour la sélection d'un signal donné modulé en amplitude.
+
+#### 1- Détermination de l'inductance L et de la résistance r de la bobine (b).
+
+On réalise le montage expérimental représenté sur la figure 1 comprenant :
+- Une bobine (b) d'inductance L et de résistance r ;
+- Un conducteur ohmique (D) de résistance R ;
+- Un générateur de tension (G) de force électromotrice E ;
+- Un ampèremètre (A) de résistance négligeable ;
+- Un interrupteur K.
+
+A l'instant t = 0, on ferme l'interrupteur K, et on visualise à l'aide d'un oscilloscope à mémoire les variations de la tension uPQ(t) entre les pôles du générateur (G) et de la tension uR(t) entre les bornes du conducteur ohmique (D). On obtient les courbes ① et ② représentées sur la figure 2. La droite (T) représente la tangente à la courbe ② à l'instant t = 0. Dans le régime permanent, l'ampèremètre (A) indique la valeur I = 0,1 A.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : générateur (G) E, conducteur ohmique (D), bobine (b), ampèremètre A, interrupteur K, bornes P et Q, tension uR)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : uPQ ; uR(V) en fonction de t(ms) ; courbes ① et ②, tangente (T) ; graduations 10, 20 ms et 4, 8 V)
+
+1.1- a- Montrer que l'équation différentielle que vérifie la tension uR s'écrit sous la forme : L.(duR/dt) + (R + r).uR − E.R = 0. (0,5)
+
+b- Sachant que la solution de l'équation différentielle s'écrit sous la forme uR = U0(1 − e^(−λ.t)), trouver l'expression des constantes U0 et λ en fonction des paramètres du circuit. (0,75)
+
+1.2- a- Trouver l'expression de la résistance r de la bobine (b) en fonction de E, I et U0. Calculer la valeur de r. (0,75)
+
+b- Exprimer (duR/dt)0, dérivée de la tension uR par rapport au temps à l'instant t = 0, en fonction de E, U0, I, et L. En déduire la valeur de L. (0,5)
+
+#### 2- Détermination de l'inductance L' et la résistance r' de la bobine (b')
+
+On réalise le montage représenté sur la figure 3 qui comprend une bobine (b') d'inductance L' et de résistance r', le générateur (G) de force électromotrice E, un condensateur de capacité C = 20μF, un conducteur ohmique de résistance R' = 32 Ω et un interrupteur K. Après avoir chargé totalement le condensateur, on bascule l'interrupteur K à la position 2 à l'instant t = 0 et on visualise à l'aide d'un oscilloscope à mémoire les variations de la tension uc aux bornes du condensateur en fonction du temps. On obtient l'oscillogramme représenté sur la figure 4.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : générateur E, interrupteur K positions 1 et 2, condensateur C, bobine (b'), résistance R', tension uc)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : uc(V) en fonction de t(ms) ; valeurs 2,5 et 7,91)
+
+2.1- a- Justifier, du point de vu énergétique, l'allure de la courbe représentée sur la figure 4. (0,25)
+
+b- En considérant la pseudo-période étant égale à la période propre de l'oscillateur LC, vérifier que L' = 0,317 H. (0,5)
+
+2.2- On exprime la tension uc par la relation : uc(t) = E.e^(−((r' + R')/(2L'))t).cos((2π/T) t). Montrer que r' ≈ 0. (0,5)
+
+#### 3- Emission et réception d'un signal modulé
+
+Pour transmettre un signal sinusoïdal s(t) on utilise un multiplieur. On applique à l'entré E1 du multiplieur un signal de tension u(t) = s(t) + V0 avec V0 la tension continue de décalage, et on applique à l'entrée E2 une tension p(t) d'une onde porteuse (figure 5). On obtient à la sortie S du multiplieur la tension modulée en amplitude uS(t) telle que : uS(t) = A[1 + 0,6cos(10^4 π.t)].cos(2.10^5 π.t).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 5 : multiplieur, entrées E1 (s(t) + V0) et E2 (p(t)), sortie S uS)
+
+3.1- Montrer que la modulation d'amplitude obtenue est bonne. (0,5)
+
+3.2- La démodulation d'amplitude est réalisée à l'aide du montage de la figure 6. La partie 1 du montage comprend la bobine (b') et un condensateur de capacité C0 réglable entre les deux valeurs 6.10-12 F et 12.10-12 F. Le conducteur ohmique utilisé dans la partie 2 du montage a une résistance R1 = 30 kΩ.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 6 : Partie 1 (bobine (b'), condensateur C0), Partie 2 (C1, R1), Partie 3 (C2, R2))
+
+a- Montrer que l'utilisation de la bobine (b') dans le montage permet à la partie 1 du montage de sélectionner le signal uS(t). (0,5)
+
+b- On veut obtenir une bonne détection d'enveloppe en utilisant l'un des condensateurs de capacités : 10 nF ; 5 nF ; 0,5 nF ; 0,1 nF. Déterminer la capacité du condensateur qui convient. (0,5)
+
+### Exercice 3 : (5,75 points) Les deux parties 1 et 2 sont indépendantes
+
+#### Première partie : (2,5 points) Mouvement de chute d'un parachutiste
+
+Après un cours moment de son saut d'un avion, le parachutiste ouvre son parachute pour freiner son mouvement, ce qui lui permet d'arriver au sol en toute sécurité. L'objectif de cette partie est l'étude du mouvement vertical d'un parachutiste après l'ouverture de son parachute.
+
+Données :
+- Masse du parachutiste et ses accessoires : m = 100 kg
+- On considère que l'accélération de la pesanteur est constante : g = 9,8 m.s-2.
+
+Un parachutiste accompagné de ses accessoires saute avec une vitesse initiale négligeable d'un hélicoptère immobile se trouvant à une hauteur h du sol. Le parachutiste ouvre son parachute au moment où sa vitesse atteint 52 m.s-1 à un instant considéré comme origine des dates. Le système (S) formé par le parachutiste et ses accessoires prend alors un mouvement de translation vertical. On étudie le mouvement du système (S) dans un repère galiléen (O, k⃗) lié à la terre, vertical et orienté vers le bas (figure 1). L'air exerce sur le système (S) une force que l'on modélise, par une force de frottement d'intensité f = k.v² avec k une constante et v la vitesse du parachutiste. On néglige la poussée d'Archimède exercée par l'air. La courbe de la figure 2 représente la variation de la vitesse v en fonction du temps après l'ouverture du parachute.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : parachute, parachutiste, repère (O, k⃗) vertical orienté vers le bas)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : v(m.s-1) en fonction de t ; valeurs 52 et 5)
+
+1- Montrer que l'équation différentielle que vérifie la vitesse v s'écrit sous la forme dv/dt = g.(1 − v²/α²) en précisant l'expression de α en fonction de m, g et k. (0,5)
+
+2- Choisir la bonne réponse et justifier :
+
+La grandeur α représente :
+
+a- la vitesse du système (S) à l'instant t = 0.
+b- l'accélération du mouvement du système (S) à l'instant t = 0.
+c- la vitesse limite du système (S).
+d- l'accélération du mouvement du système (S) dans le régime permanent. (0,5)
+
+3- Déterminer la valeur de α. En déduire la valeur de k en précisant son unité dans le système international. (0,75)
+
+4- Pour tracer la courbe v(t) de la figure 2 on peut utiliser la méthode d'Euler avec un pas de calcul Δt. Soient vn la vitesse du parachutiste à l'instant tn, et vn+1 sa vitesse à l'instant tn+1 = tn + Δt telles que vn+1 = −7,84.10-2.vn² + vn + 1,96 avec vn et vn+1 en m.s-1. Déterminer le pas Δt. (0,75)
+
+#### Deuxième partie : (3,25 points) Pendule pesant
+
+Le pendule pesant est un système mécanique qui peut effectuer un mouvement de rotation oscillatoire autour d'un axe fixe horizontal ne passant pas par son centre d'inertie ; sa période propre dépend de l'accélération de la pesanteur. L'objectif de cette partie est l'étude de l'effet de l'accélération de la pesanteur sur la période propre d'un pendule pesant dans le cas de faibles oscillations.
+
+Le pendule pesant représenté sur la figure 1 est constitué d'un disque de masse m1, fixé à l'extrémité inferieur A d'une tige OA de masse m2 avec m1 + m2 = 200 g. Le pendule pesant peut effectuer un mouvement de rotation oscillatoire autour d'un axe fixe (Δ) horizontal passant par l'extremité O de la tige. Le centre d'inertie G du pendule pesant est situé sur la tige à une distance OG = d = 50 cm de O. Le moment d'inertie du pendule pesant par rapport à l'axe (Δ) est JΔ = 9,8.10-2 kg.m². On néglige tous les frottements. On prend pour les petits angles : cos θ ≈ 1 − θ²/2 et sin θ ≈ θ avec θ en radian. Et on prend π² = 10
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : pendule pesant, axe (Δ) en O, tige OA, disque en A, centre d'inertie G, angle θ)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : base de Freinet (G, u⃗, n⃗), axe (Δ) en O)
+
+1- Au niveau de la mer où l'accélération de la pesanteur est g0 = 9,8 m.s-2, on écarte le pendule pesant de sa position d'équilibre stable d'un angle θ0 = π/18 rad et on le libère sans vitesse initiale à l'instant t = 0. On repère à chaque instant la position du pendule pesant par l'abscisse angulaire θ mesurée à partir de sa position d'équilibre stable (figure 1).
+
+1.1- En appliquant la relation fondamentale de la dynamique relative à la rotation du pendule pesant, déterminer l'équation différentielle que vérifie l'angle θ dans le cas de faibles oscillations. (0,25)
+
+1.2- Trouver, en fonction de JΔ, d, m1, m2 et g0 l'expression de la période propre T0 du pendule pour que la solution de l'équation différentielle soit θ = θ0 cos((2π/T0) t). Calculer T0. (0,5)
+
+1.3- En appliquant la deuxième loi de Newton et en utilisant la base de Freinet (G, u⃗, n⃗) (figure 2), trouver l'expression de l'intensité R de la force exercée par l'axe (Δ) sur le pendule pesant au moment de passage du pendule par sa position d'équilibre stable en fonction de m1, m2, d, g0, θ0, et T0. Calculer R. (0,75)
+
+2- Dans une région montagneuse où l'accélération de la pesanteur est g = 9,78 m.s-2, la période propre du pendule pesant augmente de ΔT. Pour corriger le décalage temporel Δt, on utilise un ressort spiral équivalent à un fil de torsion dont la constante de torsion est C. On relie l'une des extrémités du ressort spiral à l'extrémité O de la tige et on fixe l'autre extrémité du ressort à un support fixe de telle façon que le ressort spiral soit non déformé lorsque le pendule pesant est dans sa position d'équilibre stable (figure 3). On choisit le niveau horizontal passant par G0 centre d'inertie du pendule pesant dans sa position d'équilibre stable, comme référence de l'énergie potentielle de pesanteur et la position dans laquelle le ressort spiral est non déformé, comme référence de l'énergie potentielle de torsion. le point G0 correspond à l'origine du repère O'z orienté vers le haut (figure 3).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 3 : pendule avec ressort spiral, axe (Δ), point G0, repère O'z orienté vers le haut)
+
+2.1- Montrer dans le cas de petites oscillations et à une date t, que l'énergie mécanique de l'oscillateur ainsi constitué s'écrit sous la forme : Em = a.θ² + b.θ̇² en précisant les expressions de a et de b en fonction des données utiles de l'exercice. (0,5)
+
+2.2- En déduire l'équation différentielle du mouvement que vérifie l'angle θ en fonction de a et b. (0,5)
+
+2.3- Trouver l'expression de la constante de torsion C qui convient à la correction du décalage temporel ΔT en fonction de m1, m2, d, g, et g0. Calculer C. (0,75)

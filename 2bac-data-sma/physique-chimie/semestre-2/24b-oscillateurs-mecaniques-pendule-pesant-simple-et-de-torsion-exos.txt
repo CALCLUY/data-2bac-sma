@@ -1,0 +1,95 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: B- Oscillateurs mécaniques (Pendule pesant, simple et de torsion)
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac SM-SPC
+Séance 24B (Oscillateurs mécaniques – Pendule pesant, simple et de torsion)
+Professeur : Mr EL GOUFIFA Jihad
+
+## V- Exercices
+
+### 5-1/ Exercice 1
+
+Un pendule de torsion est constitué par un fil métallique vertical, fixé à l'une des extrémités un disque horizontal, homogène de masse $M = 5 , 60 k g$ et de diamètre $d = 24 c m$, l'autre extrémité du fil est étant fixé à un support.
+
+Le système (disque+fil) peut tourner autour d'un axe fixe $\left(\right. \Delta \left.\right)$ matérialisé par le fil métallique.
+
+Lorsqu'on applique une force d'intensité $4 , 23 N$ et de direction tangente à la gante du disque, ce dernier tourne d'un angle $\theta = 3 , 34 \circ$ de sa position d'équilibre stable.
+
+Puis on enlève cette force et on lâche le système sans vitesse initiale.
+
+1. Calculer la constante de torsion $C$ du fil métallique
+
+2. En appliquant la relation fondamentale de la dynamique, établir l'équation différentielle du mouvement du système.
+
+La solution de l'équation différentielle s'écrit de la forme suivante : $\theta \left(\right. t \left.\right) = \theta_{m} cos \left(\right. \frac{2 \pi}{T_{0}} t + \varphi_{0} \left.\right)$
+
+3. Déterminer l'expression de la période propre $T_{0}$ des oscillations et la fréquence $f_{0}$ et les calculer.
+
+4. Écrire l'équation horaire du mouvement $\theta \left(\right. t \left.\right)$.
+
+5. Quelle est la nature de ce mouvement ?
+
+### 5-2/ Exercice 2
+
+Une barre horizontale $A B$ est supportée par un fil vertical de constante de torsion $C$ dont une des extrémité est fixée au centre de gravité $G$ de $A B$, et l'autre extrémité est attachée à un point fixe $O$.
+
+Deux masse ponctuelles de même masse sont placées sur l'axe $A B$ de la barre.
+
+Le moment d'inertie du système (tige + deux masses) par rapport à un axe $\left(\Delta\right)$ matérialisé par le fil vertical est $J_{\Delta} = 1 , 46 k g . m^{2}$.
+
+La période propre du pendule de torsion en absence de frottement est $T_{0} = 7 m i n$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-2/img8.jpg)
+
+#### Étude du pendule de torsion
+
+On néglige tous les frottement et l'angle de torsion sera noté par $\theta$, la vitesse angulaire par $\frac{d \theta}{d t}$ et l'accélération angulaire par $\frac{d^{2} \theta}{d t^{2}}$.
+
+1. Établir l'équation différentielle vérifiée par l'angle de torsion $\theta$ au cours des oscillations du pendule de torsion.
+
+La solution de cette équation différentielle s'écrit sous la forme : $\theta \left(\right. t \left.\right) = \theta_{m} cos \left(\right. \frac{2 \pi}{T_{0}} t + \varphi \left.\right)$.
+
+2. En utilisant l'équation différentielle et sa solution, trouver l'expression de la période propre $T_{0}$ du pendule en fonction de $C$ et $J_{\Delta}$.
+
+3. En déduire la valeur de la constante de torsion $C$ du fil utilisé dans cette expérience.
+
+#### Exploitation de la représentation $\theta = f \left(\right. t \left.\right)$
+
+On réalise deux expériences pour mesurer la période propre du pendule, l'une avec frottements, l'autre en absence de frottements.
+
+Les deux courbes (a) et (b) de la figure suivante représentent la variation de $\theta$ en fonction de $t$ dans chaque cas :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-2/img9.jpg)
+
+4. Indiquer, en justifiant votre réponse, la courbe correspond au régime pseudopériodique
+
+5. Déterminer, en utilisant la figure ci-dessus en absence des frottements, la valeur de la vitesse angulaire du mouvement du pendule de torsion à l'instant $t = 0$.
+
+### 5-3/ Exercice 3
+
+Un pendule pesant est constitué d'une boule homogène de rayon $r = 2 , 5 c m$ et de masse $m = 200 g$ et d'une tige homogène de même masse que la boule et de longueur $L = 10 r$, l'une des extrémités est soudée à la boule au point $A$.
+
+Le système (Tige+boule) peut tourner autour d'un axe fixe $\left(\right. \Delta \left.\right)$ passant par le point $O$ de l'autre extrémité de la tige :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s24-2/img11.jpg)
+
+On néglige tous les frottements et on prend $g = 10 m . s^{- 2}$
+
+Le moment d'inertie du système par rapport à l'axe $\left(\right. \Delta \left.\right)$ est $J_{\Delta} = 10^{- 2} k g . m^{2}$.
+
+On écarte le système de sa position d'équilibre stable d'un angle de $\theta_{m} = 10 \circ$, puis on le lâche sans vitesse initiale à la date $t = 0$.
+
+1) En appliquant la relation fondamentale de la dynamique au système, montrer que l'équation différentielle du mouvement du système s'écrit sous la forme suivante :
+
+$\overset{\cdot\cdot}{\theta} + \left(\right. \frac{16 m . g . r}{J_{\Delta}} \left.\right) . \theta = 0$
+
+2. Quelle est la nature du mouvement du système.
+
+3. Calculer la période propre du mouvement.
+
+4. Déterminer l'équation horaire du mouvement de système.

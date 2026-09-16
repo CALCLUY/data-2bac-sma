@@ -1,0 +1,70 @@
+---
+Chapitre: Chapitre 12 : Calcul de probabilités
+Séance: Séance 12-1-2 : Calcul de probabilités - Partie 1 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 12-1-2 : Calcul de probabilités - Partie 1 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 4-1/ Exercice 1-1
+
+Dans une urne sont placées 15 boules verts et 10 boules blanches.
+
+On tire successivement et sans remise 5 boules de l'urne.
+
+1. Calculer les probabilités suivantes :
+
+a) On obtient 5 boules vertes.
+b) On obtient une première boule verte, les deux suivantes blanches et les deux dernières vertes.
+c) On obtient au plus une boule blanche.
+d) On obtient trois boules vertes et deux boules blanches.
+
+2. Reprendre les questions a), b), c) et d) de 1) avec des tirages successifs avec remise.
+
+3. Reprendre les questions a), c) et d) de 1) avec des tirages simultanés.
+
+#### 4-2/ Exercice 1-2
+
+Soient $A$ et $B$ deux évènements tels que $P \left(A\right) = 0,2$, $P \left(B\right) = 0,3$ et $P \left(A \cup B\right) = 0,5$
+
+1. Calculer $P_{B} \left(A\right)$ et $P_{A} \left(B\right)$.
+
+Soient $E$ et $F$ deux évènements tels que $P_{F} \left(E\right) = \frac{1}{2}$, $P_{E} \left(F\right) = \frac{2}{3}$ et $P \left(E \cup F\right) = 0,2$
+
+2. Calculer $P \left(E\right)$ et $P \left(F\right)$.
+
+#### 4-3/ Exercice 1-3
+
+Une usine fabrique des pièces dont 1,8% sont défectueuses.
+
+Le contrôle des pièces s'effectue selon les probabilités conditionnelles suivantes :
+
+- Sachant qu'une pièce est bonne, elle est acceptée avec une probabilité de 0,97.
+
+- Sachant qu'une pièce est mauvaise, elle est refusée avec une probabilité de 0,99.
+
+1. Quelle est la probabilité pour qu'une pièce soit défectueuse ?
+
+2. Montrer que la probabilité pour qu'une pièce soit défectueuse et acceptée est 0,00018.
+
+3. Montrer que la probabilité pour qu'une pièce soit bonne et refusée est 0,02946.
+
+4. Calculer la probabilité pour qu'il y ait une erreur dans le contrôle.
+
+5. Si on effectue cinq contrôles de suite, quelle est la probabilité pour qu'il y ait exactement deux erreurs de contrôle ?
+
+#### 4-4/ Exercice 1-4
+
+Soit $A$ et $B$ deux évènements tels que $P \left(A\right) = 0,8$ et $P \left(B\right) = 0,4$
+
+1. Peut-on avoir $P \left(A \cap B\right) = 0,1$ ? Justifier.
+
+2. Si $P \left(A \cap B\right) = 0,2$, que peut-on en déduire ?
+
+3. Si $P \left(A \cap B\right) = 0,4$, que peut-on en déduire ?
+
+4. Déterminer $P \left(A \cap B\right)$ sachant que les évènements $A$ et $B$ sont indépendants.

@@ -1,0 +1,222 @@
+---
+Chapitre: Chapitre 3 : Dérivation et étude des fonctions
+Séance: Séance 3-1-1 : Dérivation et étude des fonctions - Partie 1 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 3-1-1 : Dérivation et étude des fonctions - Partie 1 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+I- Dérivabilité d'une fonction numérique (rappels)
+1-1/ Dérivabilité d'une fonction en un point
+1-2/ Dérivabilité à droite - dérivabilité à gauche
+1-3/ Dérivabilité d'une fonction sur un intervalle
+1-4/ Opérations sur les fonctions dérivables
+II- Compléments sur la dérivation
+2-1/ Dérivabilité et continuité
+2-2/ Dérivée de la fonction composée
+2-3/ Dérivée de la fonction réciproque
+2-4/ Dérivée de la fonction arctangente
+2-5/ Dérivée de la fonction racine $n^{i \grave{e} m e}$
+
+### I- Dérivabilité d'une fonction numérique (rappels)
+
+#### 1-1/ Dérivabilité d'une fonction en un point
+
+Définition 1
+
+Soit $f$ une fonction numérique définie sur un intervalle ouvert $I$ et $x_{0}$ un élément de $I$.
+
+On dit que $f$ est dérivable en $x_{0}$ s'il existe un réel $\mathcal{l}$ tel que : $\underset{x \rightarrow x_{0}}{lim} \frac{f \left(x\right) - f \left(x_{0}\right)}{x - x_{0}} = \mathcal{l}$
+
+Le nombre $\mathcal{l}$ est appelé le nombre dérivé de la fonction $f$ en $x_{0}$. Il est noté $f '$.
+
+Remarques
+
+On trouve parfois, notamment en physique, la notation $\frac{d f}{d x} \left(x_{0}\right)$ pour le nombre dérivé de $f$ en $x_{0}$.
+
+On trouve également, la notation $\overset{\cdot}{f} \left(x_{0}\right)$, lorsque la variable désigne le temps.
+
+Un simple changement d'écriture montre, en s'appuyant sur la composition des limites, que $f$ est dérivable en $x_{0}$ si la fonction $h \rightarrowtail \frac{f \left(x_{0} + h\right) - f \left(x_{0}\right)}{h}$ a une limite finie en $0$, et alors :
+
+$$f ' \left(x_{0}\right) = \underset{h \rightarrow 0}{lim} \frac{f \left(x_{0} + h\right) - f \left(x_{0}\right)}{h}$$
+
+La notion de dérivabilité, étant définie à l'aide d'une limite, est une notion locale.
+
+Définition 2
+
+Soit $f$ une fonction dérivable en $x_{0}$.
+
+La droite $\left(\right. T \left.\right)$ d'équation $y = f ' \left(x_{0}\right) \left(x - x_{0}\right) + f \left(x_{0}\right)$ est appelée la tangente à la courbe $\mathcal{C}_{f}$ de la fonction $f$ au point d'abscisse $x_{0}$.
+
+La fonction $x \rightarrowtail f ' \left(x_{0}\right) \left(x - x_{0}\right) + f \left(x_{0}\right)$ s'appelle l'approximation affine de $f$ au voisinage de $x_{0}$.
+
+On écrit alors : $f \left(x\right) = f ' \left(x_{0}\right) \left(x - x_{0}\right) + f \left(x_{0}\right)$ au voisinage de $x_{0}$ ou $f \left(x_{0} + h\right) = h f ' \left(x_{0}\right) + f \left(x_{0}\right)$ au voisinage de $0$.
+
+Proposition 1
+
+Soit $f$ une fonction numérique définie sur un intervalle ouvert $I$ et $x_{0}$ un élément de $I$.
+
+La fonction $f$ est dérivable en $x_{0}$ si et seulement s'il existe $\mathcal{l} \in \mathbb{R}$ et une fonction $\varphi : I \rightarrow \mathbb{R}$ tels que :
+
+$\left(\forall x \in I\right) f \left(x\right) = f \left(x_{0}\right) + \mathcal{l} \left(x - x_{0}\right) + \left(x - x_{0}\right) \varphi \left(x\right)$ et $\underset{x \rightarrow x_{0}}{lim} \varphi \left(x\right) = 0$
+
+Dans ces conditions : $f ' \left(x_{0}\right) = \mathcal{l}$
+
+#### 1-2/ Dérivabilité à droite - dérivabilité à gauche
+
+Définition 3
+
+1- Soit $f$ une fonction définie sur un intervalle du type $\left[\right. x_{0} , x_{0} + r \left[\right.$ où $r \in \mathbb{R}_{+}^{\star}$.
+
+On dit que $f$ est dérivable à droite de $x_{0}$ s'il existe un réel $\mathcal{l}_{1}$ tel que :
+
+$$\underset{x \rightarrow \left(x_{0}\right)^{+}}{lim} \frac{f \left(x\right) - f \left(x_{0}\right)}{x - x_{0}} = \mathcal{l}_{1}$$
+
+Le nombre $\mathcal{l}_{1}$ est appelé le nombre dérivé de la fonction $f$ à droite en $x_{0}$. Il est noté $f '_{d} \left(x_{0}\right)$.
+
+2- Soit $f$ une fonction définie sur un intervalle du type $\left]\right. x_{0} - r , x_{0} \left]\right.$ où $r \in \mathbb{R}_{+}^{\star}$.
+
+On dit que est dérivable à gauche de $x_{0}$ s'il existe un réel $\mathcal{l}_{2}$ tel que :
+
+$$\underset{x \rightarrow \left(x_{0}\right)^{-}}{lim} \frac{f \left(x\right) - f \left(x_{0}\right)}{x - x_{0}} = \mathcal{l}_{2}$$
+
+Le nombre $\mathcal{l}_{2}$ est appelé le nombre dérivé de la fonction $f$ à gauche en $x_{0}$. Il est noté $f '_{g} \left(x_{0}\right)$.
+
+Proposition 2
+
+Soit $f$ une fonction numérique définie sur un intervalle ouvert $I$ et $x_{0}$ un élément de $I$.
+
+La fonction $f$ est dérivable en $x_{0}$ si et seulement si elle est dérivable à droite et à gauche en $x_{0}$, avec $f '_{d} \left(x_{0}\right) = f '_{g} \left(x_{0}\right)$, et alors : $f ' \left(x_{0}\right) = f '_{d} \left(x_{0}\right) = f '_{g} \left(x_{0}\right)$
+
+#### 1-3/ Dérivabilité d'une fonction sur un intervalle
+
+Définition 4
+
+Soit $f$ une fonction numérique définie sur un intervalle $I$.
+
+On dit que $f$ est dérivable sur $I$ si elle est dérivable en tout point $x$ de $I$.
+
+On note $f '$ la fonction qui à $x \in I$ associe le nombre dérivée de $f$ en $x$.
+
+On l'appelle la fonction dérivée de $f$, ou plus simplement la dérivée de $f$.
+
+On écrit aussi : $f ' = \frac{d f}{d x}$
+
+Tableau des dérivées usuelles
+
+[FORMULA_IMAGE_UNREADABLE] (tableau : https://www.alloschool.com/files/premium/maths/2bac-sm/s3/img1.jpg)
+
+#### 1-4/ Opérations sur les fonctions dérivables
+
+Proposition 3
+
+Soit $f$ et $g$ deux fonctions dérivables sur un intervalle $I$ et $\alpha \in \mathbb{R}$. Alors :
+
+$$\left(f + g\right) ' = f ' + g ' \\ \\ \left(\alpha f\right) ' = \alpha f ' \\ \\ \left(f . g\right) ' = f ' . g + f . g ' \\ \\ \left(f^{n}\right) ' = n . f ' . f^{n - 1}$$
+
+Si la fonction $g$ ne s'annule pas sur $I$, alors :
+
+$$\left(\frac{1}{g}\right)^{'} = - \frac{g '}{g^{2}} ; \left(\frac{f}{g}\right)^{'} = \frac{f ' . g - f . g '}{g^{2}}$$
+
+Enfin, si $f$ est strictement positive sur $I$, alors :
+
+$$\left(\sqrt{f}\right)^{'} = \frac{f '}{2 \sqrt{f}}$$
+
+### II- Compléments sur la dérivation
+
+#### 2-1/ Dérivabilité et continuité
+
+Proposition 4
+
+Soit $f$ une fonction numérique définie sur un intervalle $I$ et $x_{0}$ un élément de $I$.
+
+Si $f$ est dérivable en $x_{0}$, alors $f$ est continue en $x_{0}$.
+
+Remarques
+
+Une conséquence immédiate de la proposition 4 est la suivante :
+
+Toute fonction dérivable sur un intervalle est continue sur cet intervalle.
+
+La réciproque de la proposition 4 est fausse. Par exemple, la fonction $x \rightarrowtail \left|x\right|$ est continue en 0 mais n'est pas dérivable en 0.
+
+#### 2-2/ Dérivée de la fonction composée
+
+Proposition 5
+
+Soit $I$ et $J$ deux intervalles ouverts, et $f : I \rightarrow \mathbb{R}$ et $g : J \rightarrow \mathbb{R}$ deux fonctions numériques, avec $f \left(I\right) \subset J$.
+
+Soit $x_{0}$ un élément de $I$.
+
+Si :
+
+* la fonction $f$ est dérivable en $x_{0}$.
+* la fonction $g$ est dérivable en $y_{0} = f \left(x_{0}\right)$.
+
+alors la fonction $g \circ f$ est dérivable en $x_{0}$, et de plus :
+
+$$\left(g \circ f\right) ' \left(x_{0}\right) = g ' \left(f \left(x_{0}\right)\right) \times f ' \left(x_{0}\right)$$
+
+Corollaire
+
+Si $f$ est dérivable sur un intervalle $I$ et $g$ est dérivable sur un intervalle $J$ tel que $f \left(I\right) \subset J$, alors $g \circ f$ est dérivable sur $I$ et de plus, pour tout $x \in I$ : $\left(g \circ f\right) ' \left(x\right) = f ' \left(x\right) \times g ' \left(f \left(x\right)\right)$.
+
+#### 2-3/ Dérivée de la fonction réciproque
+
+Proposition 6
+
+Soit $f$ une fonction continue et strictement monotone sur un intervalle $I$ de $\mathbb{R}$, et $x_{0} \in I$.
+
+Si $f$ est dérivable en $x_{0}$ avec $f ' \left(x_{0}\right) \neq 0$, alors la fonction $f^{- 1}$ est dérivable en $y_{0} = f \left(x_{0}\right)$, et de plus :
+
+$$\left(f^{- 1}\right)^{'} \left(y_{0}\right) = \frac{1}{f ' \left(x_{0}\right)}$$
+
+Corollaire
+
+Soit $f$ une fonction continue et strictement monotone sur un intervalle $I$ de $\mathbb{R}$.
+
+Si $f$ est dérivable sur $I$ telle que la fonction $f '$ ne s'annule pas sur $I$, alors la fonction $f^{- 1}$ est dérivable sur $J = f \left(I\right)$.
+
+De plus, on a pour tout $x \in J$ :
+
+$$\left(f^{- 1}\right)^{'} \left(x\right) = \frac{1}{f ' \left(f^{- 1} \left(x\right)\right)}$$
+
+#### 2-4/ Dérivée de la fonction arctangente
+
+Proposition 7
+
+La fonction Arctan est dérivable sur $\mathbb{R}$, et on a pour tout $x \in \mathbb{R}$ : $A r c tan ' \left(\right. x \left.\right) = \frac{1}{1 + x^{2}}$
+
+Si $u$ est une fonction dérivable sur un intervalle $I$, alors la fonction $x \rightarrowtail A r c tan \left(\right. u \left(\right. x \left.\right) \left.\right)$ est dérivable sur $I$ et sa fonction dérivée est donnée par :
+
+$$x \rightarrowtail \frac{u ' \left(\right. x \left.\right)}{1 + u^{2} \left(\right. x \left.\right)}$$
+
+#### 2-5/ Dérivée de la fonction racine $n^{i \grave{e} m e}$
+
+Proposition 8
+
+Soit $n$ un entier naturel supérieur ou égal à 2.
+
+La fonction $x \rightarrowtail \sqrt[n]{x}$ est dérivable sur $\mathbb{R}_{+}^{\star}$ et on a pour tout $x \in \mathbb{R}_{+}^{\star}$ :
+
+$$\left(\sqrt[n]{x}\right)^{'} = \left(x^{\frac{1}{n}}\right)^{'} = \frac{1}{n} x^{\frac{1}{n} - 1} = \frac{1}{n . \sqrt[n]{x^{n - 1}}}$$
+
+Si $u$ est une fonction dérivable et strictement positive sur un intervalle $I$ de $\mathbb{R}$, alors la fonction $x \rightarrowtail \sqrt[n]{u \left(\right. x \left.\right)}$ est dérivable sur $I$ et sa fonction dérivée est donnée par :
+
+$$\left(\sqrt[n]{u \left(x\right)}\right)^{'} = \frac{1}{n} u ' \left(x\right) u \left(x\right)^{\frac{1}{n} - 1} = \frac{u ' \left(x\right)}{n . \left(\sqrt[n]{u \left(x\right)}\right)^{n - 1}}$$
+
+Proposition 9
+
+Soit $r$ un nombre rationnel non nul.
+
+La fonction $x \rightarrowtail x^{r}$ est dérivable sur $\mathbb{R}_{+}^{\star}$, et sa dérivée est la fonction $x \rightarrowtail r . x^{r - 1}$.
+
+Si $u$ est une fonction dérivable et strictement positive sur un intervalle $I$ de $\mathbb{R}$, alors la fonction $x \rightarrowtail \left(u \left(\right. x \left.\right)\right)^{r}$ est dérivable sur $I$ et sa fonction dérivée est donnée par :
+
+$$\left(\left(u \left(\right. x \left.\right)\right)^{r}\right)^{'} = r . u ' \left(\right. x \left.\right) . \left(u \left(\right. x \left.\right)\right)^{r - 1}$$

@@ -1,0 +1,305 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2024 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2024 - الموضوع
+RS 31
+المادة: الفيزياء والكيمياء
+شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+مدة الإنجاز: 4h
+المعامل: 7
+
+* L'usage de la calculatrice scientifique non programmable est autorisé.
+* La formule littérale doit être donnée avant l'application numérique et le résultat accompagné de son unité.
+* Les exercices peuvent être traités séparément selon le choix du candidat(e).
+
+Le sujet comporte quatre exercices : un exercice de chimie et trois exercices de physique.
+
+Exercice 1 : Chimie (7 points)
+- Partie 1 : Etude d'une solution aqueuse d'acide éthanoïque ;
+- Partie 2 : Suivi temporel de l'évolution de la réaction de dismutation de l'eau oxygénée.
+
+Exercice 2 : Ondes + Transformations nucléaires (4 points)
+- Partie 1 : Ondes à la surface de l'eau ;
+- Partie 2 : Le plutonium 238 dans le domaine médical.
+
+Exercice 3 : Electricité (4 points)
+- Dipôles RL, RC et circuit RLC.
+
+Exercice 4 : Mécanique (5 points)
+- Partie 1 : Chute verticale ;
+- Partie 2 : Mouvement d'un pendule pesant.
+
+## Exercice 1 : Chimie (7 points)
+
+Les deux parties 1 et 2 sont indépendantes
+
+### Partie 1 : Etude d'une solution aqueuse d'acide éthanoïque
+
+Dans cette partie on se propose d'étudier :
+- une solution aqueuse d'acide éthanoïque ;
+- le dosage d'une solution aqueuse d'acide éthanoïque.
+
+1- On prépare une solution aqueuse (SA) d'acide éthanoïque CH3COOH de volume V et de concentration molaire CA = 10-2 mol.L-1. Le pH de cette solution est : pH = 3,4.
+
+1-1- (0,25 pt) Ecrire l'équation chimique modélisant la réaction de l'acide éthanoïque avec l'eau.
+
+1-2- (0,25 pt) Montrer que la réaction de l'acide éthanoïque avec l'eau est une réaction limitée.
+
+1-3- (0,75 pt) Vérifier, dans le cas où [H3O+] << CA, que le pKA du couple CH3COOH/CH3COO- peut s'écrire : pKA = 2pH + log(CA). Calculer pKA.
+
+2- On se propose de vérifier la valeur de CA et celle de pKA par dosage pH-métrique, pour cela on introduit dans un bécher un volume Ve d'eau pure et un volume VA = 20 mL de la solution (SA). On dose la solution obtenue par une solution aqueuse (SB) d'hydroxyde de sodium Na+(aq) + HO-(aq) de concentration molaire CB = 2.10-2 mol.L-1.
+
+2-1- (0,25 pt) Ecrire l'équation de la réaction qui se produit au cours de ce dosage.
+
+2-2- Le suivi pH-métrique a permis d'obtenir la courbe représentant l'évolution du pH du mélange réactionnel en fonction du volume VB de la solution d'hydroxyde de sodium versé pH = f(VB) (figure 1).
+
+[Figure 1 : pH en fonction de VB(mL) ; repères 2, 4 et 2, 4.]
+
+2-2-1- Pour un volume VB = 7,2 mL versé :
+
+a- (0,5 pt) Etablir l'expression : KA = VB.10-pH/(VBE − VB) puis vérifier la valeur du pKA.
+
+b- (1 pt) Etablir l'expression du taux d'avancement final de la réaction : τ = VBE/(VB.(1 + 10^(pKA − pH))). Calculer sa valeur et conclure.
+
+2-2-2- (0,25 pt) Vérifier la valeur de CA.
+
+2-2-3- (0,5 pt) Déterminer Ve.
+
+2-2-4- (0,5 pt) On donne le tableau suivant :
+
+| Indicateur coloré | Teinte de la forme acide | Teinte de la forme basique | Zone de virage |
+| --- | --- | --- | --- |
+| Thymolphtaléine | Incolore | Bleu | 9,4 - 10,6 |
+| Rouge de crésol | Jaune | Rouge | 7,4 - 9 |
+
+Choisir l'indicateur qui convient le mieux pour la réalisation de ce dosage et déduire la couleur qu'aurait la solution au début du dosage.
+
+### Partie 2 : Suivi temporel de l'évolution de la réaction de dismutation de l'eau oxygénée
+
+L'eau oxygénée commerciale est une solution aqueuse de peroxyde d'hydrogène H2O2 utilisée comme désinfectant des plaies, ou comme agent de blanchiment…
+
+En présence d'un fil de platine, le peroxyde d'hydrogène H2O2 réagit avec lui-même, selon une réaction lente et totale dite « réaction de dismutation » d'équation chimique :
+2 H2O2(aq) → O2(g) + 2 H2O(ℓ)
+
+Pour étudier le suivi temporel de cette réaction, on introduit, à un instant considéré comme origine de temps t = 0, dans un ballon bi-col relié à un manomètre un fil de platine et un volume V0 = 10 mL de solution d'eau oxygénée H2O2 de concentration molaire C0 = 1,2.10-1 mol.L-1.
+
+Le ballon est hermétiquement fermé et on suppose que le volume de la solution et la température restent constants au cours de la transformation.
+
+Le graphe de la figure 2 représente l'évolution de la pression du dioxygène produit dans le ballon en fonction du temps : PO2 = f(t). La droite (T) est la tangente à la courbe au point d'abscisse t = 10 min.
+
+[Figure 2 : PO2 (10² Pa) en fonction de t(min) ; repères 5, 10 et 10, 20 ; tangente (T).]
+
+Données :
+- la capacité du ballon V = 250 mL ;
+- on suppose que le gaz produit est parfait ;
+- l'équation d'état des gaz parfaits : P.V = n.R.T ;
+- constante des gaz parfaits : R = 8,31 (S.I.) ;
+- température : T = 293 K.
+
+1- (0,5 pt) Ecrire les demi-équations électroniques de la réaction de dismutation de H2O2.
+
+2- (0,25 pt) Calculer l'avancement maximal de la réaction.
+
+3- (0,5 pt) Montrer que l'avancement de la réaction x(t) est donné par la relation : x(t) = ((V − V0)/(R.T)).PO2(t).
+
+4- (0,75 pt) Trouver à l'instant de date t = 10 min, la valeur de la vitesse volumique de réaction en mol.L-1.min-1.
+
+5- (0,75 pt) Déterminer le temps de demi-réaction t1/2.
+
+## Exercice 2 : Ondes + Transformations nucléaires (4 points)
+
+Les parties 1 et 2 sont indépendantes
+
+### Partie 1 : Propagation d'une onde à la surface de l'eau
+
+Dans une cuve à onde, on crée à la surface libre de l'eau, au moyen d'une règle vibrante de fréquence N réglable, une onde progressive rectiligne sinusoïdale.
+
+L'éclairage de la surface de l'eau avec un dispositif adéquat a permis d'obtenir sur l'écran de la cuve à onde une image agrandie de l'aspect de la surface de l'eau, constituée d'une succession de zones sombres et claires traduisant les creux et les crêtes de l'onde (figure ci-contre).
+
+[Figure : aspect de la surface de l'eau, direction de propagation.]
+
+Donnée : Lorsqu'on dépose, au milieu de la cuve un objet de longueur ℓ = 10 mm, on obtient sur l'écran une image agrandie de longueur L = 20 mm.
+
+1- On fixe la fréquence de l'onde sur la valeur N1 = 20 Hz. On observe, dans la direction de propagation de l'onde, que deux points A et B séparés d'une distance D = 40 mm sur l'écran, se trouvent respectivement sur la première et la troisième crête.
+
+1-1- (0,5 pt) Calculer la longueur d'onde λ1 de l'onde à la surface de l'eau.
+
+1-2- (0,25 pt) Vérifier que la célérité de cette onde est : V1 = 0,2 m.s-1.
+
+2- (0,5 pt) On dépose au milieu de la cuve un obstacle constitué de deux plaques verticales parallèles à la règle vibrante et séparées d'une petite ouverture de largeur a, telle que a < λ1. Quelle est la forme de l'onde au-delà de l'ouverture ? Justifier.
+
+3- On retire les deux plaques verticales de la cuve et on fixe la fréquence de l'onde sur la valeur N2 = 30 Hz. On remarque, cette fois-ci, que les deux points A et B vibrent en opposition de phase. La distance séparant deux points M et N qui vibrent en opposition de phase est : MN = (2k + 1).λ/2 avec k un entier naturel.
+
+3-1- (0,75 pt) On admet que la célérité de l'onde V2 appartient à l'intervalle [2.10-1 m.s-1 ; 3.10-1 m.s-1]. Montrer que : V2 = 2.N2.ℓ.D/(5L). Calculer V2.
+
+3-2- (0,5 pt) Déduire, en justifiant, si l'eau est un milieu dispersif ou non dispersif.
+
+### Partie 2 : Le plutonium 238 dans le domaine médical
+
+Un stimulateur cardiaque est un petit dispositif que l'on implante dans la poitrine d'un patient. Ce dispositif génère de faibles impulsions électriques qui excitent le muscle cardiaque et régule les battements du cœur.
+
+Les premiers stimulateurs cardiaques fonctionnaient avec une pile dont la durée de vie était trop limitée. Pour pallier ce défaut, l'une des solutions est l'exploitation de l'énergie libérée par la désintégration des noyaux du plutonium 238.
+
+Le but de cette partie est d'étudier le fonctionnement normal d'un stimulateur cardiaque alimenté par l'énergie libérée par la désintégration des noyaux du plutonium 238.
+
+Le plutonium 238/94 Pu est radioactif, il se désintègre spontanément en donnant l'uranium 234/92 U avec émission d'une particule A/Z X.
+
+Données :
+- masse de quelques noyaux ou particules :
+
+| Noyau ou particule | 238/94 Pu | 234/92 U | A/Z X |
+| --- | --- | --- | --- |
+| Masse en u | 237,99799 | 233,99048 | 4,00153 |
+
+- unité de masse atomique : 1 u = 931,5 MeV.c-2 ;
+- masse molaire atomique du plutonium 238 : M = 238 g.mol-1 ;
+- constante d'Avogadro : NA = 6,02.10²³ mol-1 ;
+- la demi-vie du plutonium 238 : t1/2 = 87,8 ans ;
+- 1 an = 3,1536.10⁷ s.
+
+1- (0,25 pt) Ecrire l'équation de désintégration d'un noyau de plutonium 238 en identifiant le type de cette désintégration.
+
+2- (0,25 pt) Calculer, en MeV, l'énergie libérée ΔE par cette désintégration.
+
+3- Un stimulateur cardiaque contient un échantillon de plutonium 238, de masse m0 = 130 mg. Ce dispositif fonctionne normalement tant que l'activité radioactive de l'échantillon reste supérieure ou égale à ac = 5,76.10¹⁰ Bq. On considère que l'activité radioactive du dispositif est due uniquement à la désintégration du plutonium 238.
+
+3-1- (0,5 pt) Calculer, en Becquerel, l'activité radioactive initiale a0 du dispositif.
+
+3-2- (0,5 pt) Calculer, en an, la durée Δt du fonctionnement normal du dispositif.
+
+## Exercice 3 : Electricité (4 points)
+
+Cet exercice vise :
+- la détermination de la capacité d'un condensateur ;
+- la détermination des grandeurs caractérisant une bobine ;
+- l'étude des oscillations forcées dans un circuit RLC série.
+
+1- Détermination de la capacité d'un condensateur
+
+On réalise le montage expérimental représenté sur la figure 1 comportant :
+- un générateur de courant débitant un courant d'intensité I constante ;
+- un conducteur ohmique de résistance R ;
+- un condensateur de capacité C, dont la tension initiale à ses bornes est U0 ;
+- un interrupteur K.
+
+A un instant choisi comme origine des dates (t = 0), on ferme l'interrupteur K. Un courant d'intensité I = 2 μA circule alors dans le circuit.
+
+La courbe de la figure 2 représente l'évolution de la tension uC aux bornes du condensateur en fonction du temps.
+
+[Figure 1 : générateur de courant G, R, C (tension uC), K, courant I. Figure 2 : UC(V) en fonction de t(s) ; repères 4, 8 et 4.]
+
+1-1- (0,25 pt) Trouver l'expression de la tension uC en fonction de C, U0, I et t.
+
+1-2- (0,5 pt) Déterminer la valeur de C et celle de U0.
+
+1-3- (0,25 pt) Calculer Ee l'énergie électrique emmagasinée dans le condensateur à l'instant t1 = 20 s.
+
+2- Détermination des grandeurs caractérisant une bobine
+
+On réalise le circuit de la figure 3 qui comporte :
+- un générateur de tension de force électromotrice E ;
+- un conducteur ohmique de résistance R = 30 Ω ;
+- une bobine (b) d'inductance L et de résistance r ;
+- un interrupteur K.
+
+[Figure 3 : E, K, R (tension uR), bobine (b) (tension ub), courant i. Figure 4 : ub(V) en fonction de t(ms) ; repères 0,5 ; 1 et 3 ; 6 ; tangente (T).]
+
+2-1- (0,5 pt) L'équation différentielle vérifiée par la tension uR aux bornes du conducteur ohmique s'écrit sous la forme : duR/dt + α.uR = β. Trouver l'expression de α et celle de β en fonction des paramètres du circuit.
+
+2-2- (0,5 pt) La solution de l'équation différentielle s'écrit sous la forme : uR(t) = A.(1 − e−α.t), trouver l'expression de A en fonction des paramètres du circuit.
+
+2-3- (0,5 pt) Montrer que l'expression de la tension ub(t) entre les bornes de la bobine s'écrit :
+ub(t) = (E/(R + r)).(r + R.e−α.t)
+
+2-4- (0,5 pt) La courbe de la figure 4 représente l'évolution de la tension ub en fonction du temps. (T) étant la tangente à la courbe au point d'abscisse t = 0. Montrer que r = 10 Ω et L = 10 mH.
+
+3- Etude des oscillations forcées dans un circuit RLC série
+
+On réalise le montage schématisé sur la figure 5 comportant :
+- un générateur de basse fréquence (GBF) ;
+- la bobine (b) précédente ;
+- le conducteur ohmique de résistance R = 30 Ω ;
+- le condensateur précédent de capacité C.
+
+Le générateur délivre une tension alternative sinusoïdale u(t) = U.√2.cos(2π.N.t) de fréquence N réglable et de tension efficace U constante.
+
+L'étude expérimentale de ce circuit a permis d'obtenir la courbe Z = f(N) en maintenant U constante, Z étant l'impédance du circuit (figure 6).
+
+[Figure 5 : GBF, R, (b), C. Figure 6 : Z(Ω) en fonction de N(Hz) ; repères 400, 600 et 20, 40.]
+
+3-1- (0,25 pt) Montrer, en utilisant la courbe de la figure 6, que le circuit est à l'état de résonance électrique.
+
+3-2- (0,25 pt) Pour certaines fréquences, l'intensité du courant est : I = I0/√2, avec I0 l'intensité efficace du courant à la résonance. Vérifier dans ce cas que Z = 56,5 Ω.
+
+3-3- (0,5 pt) Déterminer graphiquement ΔN la largeur de la bande passante à −3 dB et déduire le facteur de qualité Q.
+
+## Exercice 4 : Mécanique (5 points)
+
+Les deux parties 1 et 2 sont indépendantes
+
+### Partie 1 : La chute verticale
+
+Tout corps en mouvement dans un fluide est soumis à la poussée d'Archimède, et à des forces de frottements fluides.
+
+Le but de cette partie est d'étudier le mouvement vertical d'une balle homogène dans une huile de moteur et dans l'air.
+
+Données :
+- masse volumique de la matière constituant la balle homogène : ρB = 680 kg.m-3 ;
+- le rayon de la balle : R = 2,5 cm ;
+- masse volumique de l'huile : ρH = 900 kg.m-3 ;
+- l'intensité du champ de pesanteur : g = 9,8 N.kg-1 ;
+- le volume de la balle : V = (4/3).π.R³.
+
+[Figure 1 : tube rempli d'huile, point O, centre G, axe z. Figure 2 : dv/dt (m.s-2) en fonction de v(m.s-1) ; repères 1,22 ; 2,44 et 1,06 ; 2,12. Figure 3 : z(m) en fonction de t(s) — repères 0,65 ; 1,3 et 1, 2 ; v(m.s-1) en fonction de t(s) — repères 1,3 ; 2,6 et 1, 2.]
+
+1- La balle est maintenue au fond d'un tube rempli d'huile (figure 1). On libère la balle d'un point O à un instant t = 0 et on étudie le mouvement de son centre d'inertie G dans un repère R(O; k⃗) orienté vers le haut et lié à un référentiel terrestre supposé galiléen.
+
+Au cours de son mouvement dans l'huile, la balle est soumise, en plus de son poids, à :
+- la force de frottement fluide modélisée par : f⃗ = −6.π.η.R.v.k⃗, avec η la viscosité de l'huile et v la vitesse de G à un instant t ;
+- la poussée d'Archimède : F⃗ = ρH.V.g⃗ (en norme F = ρH.V.g) où V est le volume de la balle.
+
+1-1- (0,5 pt) Justifier le sens du mouvement de la balle.
+
+1-2- (0,5 pt) Montrer que l'équation différentielle vérifiée par la vitesse v de G dans l'huile s'écrit :
+dv/dt + (9.η/(2.ρB.R²)).v = g.((ρH/ρB) − 1)
+
+1-3- (0,5 pt) La courbe de la figure 2 représente la variation de l'accélération dv/dt de G en fonction de v. Déterminer Vℓ la valeur de la vitesse limite que la balle pourrait atteindre. Déduire la valeur de η.
+
+1-4- (0,5 pt) La solution de l'équation différentielle a permis de tracer les courbes de la figure 3 représentant la variation de la vitesse v et celle de la cote z en fonction du temps tant que la balle est dans l'huile. Sachant que G se trouve à l'instant (t = 0) à une profondeur H = 2 m dans l'huile, déterminer la vitesse de G à l'instant de sa sortie de l'huile, en supposant que les perturbations dues au changement de milieu n'affectent pas le mouvement de la balle lors de sa sortie de l'huile.
+
+2- (0,5 pt) Après la sortie de G de l'huile, on suppose que la balle est soumise uniquement à son poids. On prend l'instant de la sortie de G de l'huile comme nouvelle origine des dates (t = 0) et on étudie son mouvement dans le repère R(O; k⃗). Déterminer, en appliquant la deuxième loi de Newton, la hauteur maximale hm par rapport à la surface libre de l'huile, que G pourrait atteindre.
+
+### Partie 2 : Etude du mouvement d'un pendule pesant
+
+On considère un pendule pesant de centre d'inertie G et de masse m, constitué d'une tige et d'un corps solide (S). Ce pendule peut effectuer un mouvement de rotation autour d'un axe horizontal (Δ) fixe passant par l'extrémité O de la tige (figure 1).
+
+On désigne par J le moment d'inertie du pendule pesant par rapport à l'axe (Δ) et par L la distance séparant G de l'axe (Δ).
+
+Données :
+- g = 9,8 m.s-2 ; m = 400 g ; L = 50 cm ;
+- pour les oscillations de faible amplitude on prendra : sin θ ≈ θ et cos θ ≈ 1 − θ²/2 avec θ exprimé en radian.
+
+On considère le plan horizontal contenant G à l'équilibre comme plan de référence de l'énergie potentielle de pesanteur (Epp = 0). Les frottements sont négligeables.
+
+On écarte le pendule de sa position d'équilibre stable, dans le sens positif, d'un angle θm très petit, puis on le lâche sans vitesse initiale à l'instant t = 0. On repère, à chaque instant, la position du pendule par l'abscisse angulaire θ (figure 1).
+
+L'étude expérimentale ainsi que le traitement des données avec un logiciel approprié, ont permis d'obtenir la courbe représentant l'évolution de l'abscisse angulaire θ en fonction du temps (figure 2).
+
+[Figure 1 : pendule pesant, axe (Δ), point O, tige de longueur L, solide (S), angle θ, sens positif. Figure 2 : θ en fonction du temps.]
+
+1- (0,5 pt) Etablir, en appliquant la relation fondamentale de la dynamique dans le cas de la rotation, l'équation différentielle vérifiée par l'abscisse angulaire θ.
+
+2- (0,5 pt) Déterminer l'expression de la période propre T0 du pendule en fonction de m, g, L et J sachant que θ(t) = θm.cos((2π/T0).t) est solution de l'équation différentielle.
+
+3- (0,25 pt) Déterminer la valeur de J (on prend π² = 10).
+
+4- (0,5 pt) Calculer la valeur de la vitesse linéaire vG et l'accélération aG de G lors de son passage par la position d'équilibre.
+
+5- (0,75 pt) Trouver l'expression de l'énergie cinétique de l'oscillateur en fonction de θ, m, L, g et θm. Déduire sa valeur lors du passage de l'oscillateur par sa position d'équilibre.

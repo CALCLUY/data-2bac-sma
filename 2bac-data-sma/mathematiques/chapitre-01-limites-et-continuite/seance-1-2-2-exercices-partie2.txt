@@ -1,0 +1,87 @@
+---
+Chapitre: Chapitre 1 : Limites et continuité
+Séance: Séance 1-2-2 : Limites et continuité - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 1-2-2 : Limites et continuité - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 5-1/ Exercice 2-1
+
+Dans chacun des cas suivants, étudier la continuité de la fonction f au point x 0 :
+
+$$\\ \overline{\left.\right)1} \left\{\begin{matrix} f \left(x\right) = \frac{x^{3} - 8}{\sqrt{x^{2} + 5} - 3} \left(x \neq 2\right) \\ f \left(2\right) = 18 \end{matrix}\right ; x_{0} = 2 \\ \\ \overline{\left.\right)2} \left\{\begin{matrix} f \left(x\right) = \left(x^{2} - 9\right) sin \left(\frac{1}{x - 3}\right) \left(x \neq 3\right) \\ f \left(3\right) = 0 \end{matrix}\right ; x_{0} = 3 \\ \\ \overline{\left.\right)3} \left\{\begin{matrix} f \left(x\right) = \frac{\left(1 - tan x\right)^{2}}{1 + cos 4 x} \left(x \neq \frac{\pi}{4}\right) \\ f \left(\frac{\pi}{4}\right) = - \frac{1}{2} \end{matrix}\right ; x_{0} = \frac{\pi}{4}$$
+
+#### 5-2/ Exercice 2-2
+
+On considère la fonction numérique $g$ définie par :
+
+$$\begin{bmatrix} g \left(x\right) = \left(2 x + \pi\right) tan x s i x \in \left]\right. - \pi ; - \frac{\pi}{2} \left[\right. \\ g \left(x\right) = \frac{1 - cos^{3} x}{x . tan x . cos^{2} x} s i x \in \left]\right. - \frac{\pi}{2} ; 0 \left[\right. \\ g \left(x\right) = \frac{3 \sqrt{1 + x^{4}} - x}{2 + x} s i x \in \left[\right. 0 ; + \infty \left[\right. \end{bmatrix}$$
+
+1. Calculer les limites suivantes :
+
+$$\underset{x \rightarrow + \infty}{lim} g \left(x\right) ; \underset{x \rightarrow - \left(\frac{\pi}{2}\right)^{+}}{lim} g \left(x\right) ; \underset{x \rightarrow - \left(\frac{\pi}{2}\right)^{-}}{lim} g \left(x\right)$$
+
+2. Établir la continuité de la fonction $g$ en $0$.
+
+#### 5-3/ Exercice 2-3
+
+Pour chacun des cas suivants, montrer que la fonction $f$ admet un prolongement par continuité en $x_{0}$ puis donner ce prolongement :
+
+$$\overline{\left.\right)1} f \left(x\right) = \frac{2 x^{17} - 17 x + 15}{x - 1} ; x_{0} = 1 \\ \\ \overline{\left.\right)2} f \left(x\right) = \frac{x^{n} - a^{n}}{x - a} ; x_{0} = a \left(a \in \mathbb{R} , n \in \mathbb{N}\right) \\ \\ \overline{\left.\right)3} f \left(x\right) = \frac{sin \left(\pi \sqrt{cosx}\right)}{x} ; x_{0} = 0 \\ \\ \overline{\left.\right)4} f \left(x\right) = \frac{x^{p + 1} - \left(p + 1\right) x + p}{\left(x - 1\right)^{2}} ; x_{0} = 1 \left(p \in \mathbb{N} \star\right) \\ \\ \overline{\left.\right)5} f \left(x\right) = \frac{tan x - 1}{\sqrt{2} cos x - 1} ; x_{0} = \frac{\pi}{4}$$
+
+#### 5-4/ Exercice 2-4
+
+On considère la fonction $f$ définie sur $\mathbb{R}$ par :
+
+$$\begin{bmatrix} f \left(x\right) = \frac{x^{3} + 6}{2 x - 3} s i x \leq - 1 \\ f \left(x\right) = cos \left(πx\right) s i - 1 < x < 1 \\ f \left(x\right) = - \frac{1}{2} \sqrt{x^{2} + 3} s i x \geq 1 \end{bmatrix}$$
+
+1. Montrer que $f$ est continue sur $\mathbb{R}$.
+
+#### 5-5/ Exercice 2-5
+
+1. Montrer que l'équation $x^{5} + x^{3} - x^{2} + x + 1 = 0$ admet une unique solution dans $\left]\right. - \infty ; \frac{1}{2} \left]\right.$.
+
+2. Montrer que la courbe de la fonction $f$, telle que $f \left(x\right) = 2 x^{3} + 3 x + 4$ coupe l'axe des abscisses en un seul point dont l'abscisse $\alpha$ est tel que $- 1 < \alpha < 0$.
+
+Soit $g$ la fonction définie sur $\mathbb{R}$ par : $g \left(x\right) = x^{3} - 6 x^{2} + 11$
+
+3. Montrer que l'équation $g \left(\right. x \left.\right) = 0$ admet trois solutions distinctes dans $\mathbb{R}$, notées $x_{1}$, $x_{2}$ et $x_{3}$. (On adoptera l'ordre suivant $x_{1} < x_{2} < x_{3}$).
+
+4. En déduire le signe de $g \left(\right. x \left.\right)$ sur $\mathbb{R}$.
+
+#### 5-6/ Exercice 2-6
+
+On considère la fonction $f$ définie sur $\left[\right. 0 ; \frac{\pi}{2} \left[\right.$ par :
+
+$$\left\{\begin{matrix} f \left(x\right) = \frac{1}{sin x} - \frac{1}{x} s i 0 < x < \frac{\pi}{2} \\ f \left(0\right) = 0 \end{matrix}\right$$
+
+1. Montrer que : $\left(\forall x \in \left]\right. 0 ; \frac{\pi}{2} \left[\right.\right) sin x \leq x \leq tan x$
+
+2. En déduire que pour tout $x \in \left]\right. 0 ; \frac{\pi}{2} \left[\right.$ : $0 < f \left(x\right) < \frac{1 - cos x}{sin x}$
+
+3. Étudier la continuité de $f$ à droite de $0$.
+
+#### 5-7/ Exercice 2-7
+
+Soit $f$ une fonction définie de $\left[0 ; 1\right]$ dans $\left[0 ; 1\right]$ et continue sur $\left[0 ; 1\right]$.
+
+1. Établir que $\left(\exists c \in \left[0 ; 1\right]\right) f \left(c\right) + f \left(1 - c\right) = 2 c$
+
+#### 5-8/ Exercice 2-8
+
+Soit $n \in \mathbb{N} \star - \left\{1\right\}$.
+
+On considère la fonction numérique $f$ définie sur $\mathbb{R}$ par : $f \left(x\right) = x^{n + 1} - 2 x^{n} + 1$
+
+1. Montrer que $f$ est strictement décroissante sur l'intervalle $\left[0 ; \frac{2 n}{n + 1}\right]$.
+
+2. En déduire que $f \left(\frac{2 n}{n + 1}\right) < 0$.
+
+3. Montrer qu'il existe au moins un réel $\alpha \in \left]\right. \frac{2 n}{n + 1} ; 2 \left[\right.$ tel que $f \left(\alpha\right) = 0$.
+
+4. Vérifier que $\alpha^{n} = \frac{1}{2 - \alpha}$.

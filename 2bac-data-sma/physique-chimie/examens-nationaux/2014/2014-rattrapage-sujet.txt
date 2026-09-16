@@ -1,0 +1,255 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2014 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2014 - الموضوع - مادة : الفيزياء والكيمياء - شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+RS 31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+Il est strictement interdit d'utiliser les calculatrices programmables ou les ordinateurs portables
+
+Le sujet est constitué d'un exercice de chimie et de 3 exercices de physique
+
+| CHIMIE (7 points) | Le thème | barème |
+| --- | --- | --- |
+| Première partie | Etude de la réaction de l'acide benzoïque | 4,25 |
+| Deuxième partie | Etude de la réaction de saponification | 2,75 |
+
+| PHYSIQUE (13 points) | | |
+| --- | --- | --- |
+| Exercice 1 | Ondes ultrasonores | 2,25 |
+| Exercice 2 Partie 1 | Etude d'un circuit oscillant LC | 3 |
+| Exercice 2 Partie 2 | Etude d'un dipôle RLC | 2,25 |
+| Exercice 3 Partie 1 | Etude du mouvement d'une bille dans un fluide visqueux | 2,75 |
+| Exercice 3 Partie 2 | Etude énergétique d'un oscillateur libre amorti | 2,75 |
+
+## Chimie (7 points) : les deux parties sont indépendantes
+
+### PREMIERE PARTIE (4,25 points) Etude de la réaction de l'acide benzoïque
+
+Le benzoate de méthyle est un composé organique ayant l'odeur du girofle est utilisé dans l'industrie des parfums, il est obtenu par la réaction d'un alcool avec l'acide benzoïque C6H5COOH.
+
+l'acide benzoïque se trouve sous forme de poudre blanche, est utilisé dans l'industrie alimentaire en tant qu'élément conservateur.
+
+Données :
+
+- La masse molaire de l'acide benzoïque : M = 122 g.mol-1.
+- La conductivité molaire ionique à 25°C : λ1(H3O+) = 35 mS.m².mol-1 et λ2(C6H5COO-) = 3,25 mS.m².mol-1.
+
+#### 1- Etude de la réaction de l'acide benzoïque avec l'eau
+
+On dissout une masse m d'acide benzoïque dans l'eau distillée, on obtient une solution S de volume V = 200 mL et de concentration C = 1,0.10-2 mol.L-1. Lorsqu'on mesure la conductivité de la solution S, on trouve σ = 29,0 mS.m-1.
+
+1.1- Calculer la valeur de la masse m. (0,5)
+
+1.2- Etablir le tableau d'avancement et calculer le taux d'avancement final τ de la réaction qui a lieu. (0,75)
+
+1.3- Trouver l'expression du pH de la solution S en fonction de C et τ. Calculer sa valeur. (0,75)
+
+1.4- En déduire la valeur de la constante d'acidité KA du couple C6H5COOH / C6H5COO-. (0,5)
+
+#### 2. Dosage acide-base
+
+Pour déterminer le degré de pureté de la poudre de l'acide benzoïque, On réalise l'expérience suivante :
+
+2.1- On dissout une masse m' = 1,00 g d'une poudre d'acide benzoïque dans un volume VB = 20,0 mL d'une solution d'hydroxyde de sodium (Na+ + HO-) de concentration CB = 1,00 mol.L-1 de façon à ce que les ions hydroxyde soient majoritaires par rapport aux molécules C6H5COOH. On note n0 la quantité de matière initiale d'acide benzoïque ;
+
+Exprimer, à la fin de la réaction, la quantité de matière des ions HO- restant en fonction de CB, VB et n0. (0,25)
+
+2.2- On dose l'excès des ions HO- avec une solution d'acide chlorhydrique (H3O+ + Cl-) de concentration CA = 1,00 mol.L-1. On atteint l'équivalence lorsqu'on verse un volume VAE = 12,0 mL de la solution d'acide chlorhydrique. On note xE l'avancement de la réaction du dosage à l'équivalence. Trouver l'expression de n0 en fonction de xE, CB et VB. (0,25)
+
+2.3- Calculer n0. (0,75)
+
+2.4- En déduire le rapport massique de l'acide benzoïque pur dans la poudre étudiée. (0,5)
+
+### DEUXIEME PARTIE (2,75 points) : Etude de la réaction de saponification
+
+L'oléine est un corps gras constituant majoritaire de l'huile d'olive, c'est un triglycéride qui peut être obtenu par la réaction du glycérol avec l'acide oléique.
+
+Pour préparer le savon, on chauffe à reflux, une fiole contenant une masse m = 10,0 g d'huile d'olive (oléine) et un volume V = 20 mL d'une solution d'hydroxyde de sodium de concentration C = 7,5 mol.L-1 et un volume V' = 10 mL de l'éthanol et des pierres ponces. On chauffe le mélange réactionnel pendant 30 min puis on le verse dans une solution saturée de chlorure de sodium. Après agitation et refroidissement du mélange, on sèche le solide obtenu et on mesure sa masse, on trouve alors m' = 8,0 g.
+
+Données : glycérol : CH2OH-CHOH-CH2OH ; Acide oléique : C17H33COOH
+
+| Composé | oléine | savon |
+| --- | --- | --- |
+| Masse molaire en g.mol-1 | M(O) = 884 | M(S) = 304 |
+
+1- Expliquer pourquoi on verse le mélange réactionnel dans une solution saturée de chlorure de sodium. (0,5)
+
+2- Ecrire l'équation de la réaction du glycérol avec l'acide oléique. Préciser la formule semi-développée de l'oléine. (0,75)
+
+3- Ecrire l'équation de la réaction de saponification et déterminer la formule chimique du savon en précisant la partie hydrophile de ce produit. (0,75)
+
+4- On suppose que l'huile d'olive n'est constituée que d'oléine. Montrer que l'expression du rendement de la réaction de saponification s'écrit sous la forme r = m'.M(O)/(3.m.M(S)). Calculer r. (0,75)
+
+## PHYSIQUE (13 points)
+
+### EXERCICE 1 (2,25 points) : Ondes ultrasonores
+
+On place dans un récipient contenant de l'eau, une plaque de plexiglas d'épaisseur e, on plonge dans l'eau une sonde constituée d'un émetteur et d'un récepteur d'onde ultrasonore (figure 1)
+
+On visualise à l'aide d'un dispositif approprié chacun des signaux émis et reçu par la sonde.
+
+La durée du signal ultrasonore est très petite ; on le représente par une raie verticale.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig1 : récipient d'eau, sonde d'onde ultrason, plaque de plexiglas d'épaisseur e à distance d, surface réfléchissante (P) à distance D, faces (a) et (b) de la plaque)
+
+1- En l'absence de la plaque du plexiglas, on obtient l'oscillogramme représenté dans la figure 2.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig2 : oscillogramme, balayage 20 μs.div-1, raies à t = 0 et tR)
+
+Etablir que l'instant tR auquel a été capté le signal réfléchi par la surface réfléchissante (P) s'écrit sous la forme tR = 2D/v, où v est la vitesse de propagation de l'onde ultrasonore dans l'eau. (0,25)
+
+2- En présence de la plaque de plexiglas ; on obtient l'oscillogramme de la figure 3.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig3 : oscillogramme, balayage 20 μs.div-1, raies à t = 0, tA, tB et t'R)
+
+On représente par tA et tB les instants auxquels sont captés les signaux réfléchis successivement par la première surface (a) et la deuxième surface (b) de la plaque de plexiglas.
+
+On représente par t'R l'instant auquel a été captée l'onde réfléchie sur la surface réfléchissante (P).
+
+On représente la vitesse de propagation de l'onde ultrasonore dans le plexiglas par v'.
+
+2.1- Dans quel milieu (eau ou plexiglas), la vitesse de propagation de l'onde est la plus grande ? justifier la réponse. (0,5)
+
+2.2- Exprimer t'R en fonction de D, e, v et v'. (0,5)
+
+2.3- Trouver l'expression de l'épaisseur e en fonction de v, tR, t'R, tA et tB.
+
+Calculer la valeur de e sachant que la vitesse de propagation des ondes ultrasonores dans l'eau est v = 1,42.10^3 m.s-1. (1)
+
+### Exercice 2 (5,25 points) Les deux parties sont indépendantes
+
+#### PREMIERE PARTIE (3 points) : Etude d'un circuit oscillant LC
+
+On réalise le montage électrique représenté dans la figure 1, formé de :
+
+- Un générateur G idéal de tension de force électromotrice E = 12 V ;
+- Deux condensateurs (C1) et (C2) de capacités respectives C1 = 3 μF et C2 = 0,5 C1 ;
+- Une bobine d'inductance L et de résistance négligeable.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig1 : générateur, interrupteur K positions (1) et (2), condensateurs C1 (u1) et C2 (u2), bobine L)
+
+1- On place l'interrupteur K dans la position (1), alors les deux condensateurs se chargent instantanément.
+
+Soit U1 la tension aux bornes du condensateur (C1) et U2 la tension aux bornes du condensateur (C2).
+
+1.1- Calculer U1 et U2. (0,5)
+
+1.2- Soit E1 l'énergie électrique emmagasinée dans le condensateur (C1) et E2 l'énergie électrique emmagasinée dans le condensateur (C2). Montrer que E2 = 2E1. (0,5)
+
+2- On bascule à l'instant t = 0 l'interrupteur K dans la position (2), alors les deux condensateurs se déchargent à travers la bobine.
+
+La figure (2) représente l'évolution temporelle de l'énergie magnétique Em emmagasinée dans la bobine.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig2 : Em(μJ) en fonction de t(ms) ; abscisses 0 à 6 ms ; ordonnées 18, 36, 54, 72)
+
+2.1- Montrer que la tension uc aux bornes du condensateur équivalent aux condensateurs (C1) et (C2) vérifie l'équation : d²uc/dt² + (3/(2.L.C1)).uc = 0. (0,5)
+
+2.2- Trouver l'expression de la période propre T0 en fonction de L et C1 pour que la solution de l'équation différentielle soit : uc(t) = E.cos(2πt/T0). En déduire la valeur de L en prenant π² = 10. (0,75)
+
+2.3- Montrer que l'énergie totale ET emmagasinée dans le circuit reste constante au cours du temps. Déterminer à l'aide du graphe (fig2) la valeur de l'énergie emmagasinée dans le condensateur équivalent à l'instant t = 2 ms. (0,75)
+
+#### DEUXIEME PARTIE (2,25 points) : Etude du dipôle RLC
+
+On obtient un dipôle AB en montant en série une bobine d'inductance L = 0,32 H de résistance négligeable, un condensateur de capacité C = 5,0 μF et un conducteur ohmique de résistance R.
+
+On applique entre les bornes du dipôle AB une tension alternative sinusoïdale de fréquence N réglable : u(t) = 30√2.cos(2πNt) ; Il passe alors dans le circuit un courant d'intensité i(t) = I√2.cos(2πNt + φ). Avec u(t) en Volt et i(t) en Ampère.
+
+- Pour une valeur N0 de la fréquence N, l'intensité efficace du courant prend une valeur maximale I0 = 0,3 A et la puissance électrique moyenne consommée par le dipôle AB prend la valeur P0.
+
+- Pour une valeur N1 de la fréquence N, (N1 > N0) l'intensité efficace du courant prend la valeur I = I0/√2 et la phase prend la valeur φ = −π/4. On note P la puissance électrique moyenne consommée par le dipôle AB aux limites de la bande passante et Pext à l'extérieur de la bande passante.
+
+1- Calculer la valeur de R. (0,75)
+
+2- Calculer la valeur de N0. (0,5)
+
+3- Comparer P avec P0 ; Conclure. (0,5)
+
+4- Comparer Pext avec P ; Conclure. (0,5)
+
+### EXERCICE 3 (5,5 points)
+
+#### PREMIERE PARTIE (2,75 points) : Etude du mouvement d'une bille dans un fluide visqueux
+
+On étudie le mouvement d'une bille en acier dans un fluide visqueux contenu dans une éprouvette graduée (fig1).
+
+La figure (1) donne une idée sur le montage utilisé sans tenir compte de l'échelle.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig1 : éprouvette, axe Ox vertical orienté vers le bas, vecteur unitaire i⃗, position initiale G0)
+
+On libère la bille sans vitesse initiale à un instant t = 0 et au même instant commence la saisie des images par une webcam reliée à un ordinateur. La position instantanée du centre d'inertie G est repérée sur un axe vertical Ox orienté vers le bas et de vecteur unitaire i⃗ ; fig (1). A t = 0, le centre d'inertie G est au point G0 d'abscisse x = 0.
+
+On représente à chaque instant le vecteur vitesse du centre d'inertie de la bille par v⃗ = v.i⃗.
+
+L'analyse de la vidéo obtenue à l'aide d'un logiciel approprié permet de calculer à chaque instant t la vitesse v du centre d'inertie de la bille. La courbe de la figure 2 représente l'évolution de v au cours du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (fig (2) : v(m.s-1) en fonction de t(s) ; abscisses 0,05 à 0,5 s ; ordonnées 0,1 à 0,6 m.s-1)
+
+On représente par V et m respectivement le volume et la masse de la bille et par ρa et ρs respectivement la masse volumique de la bille et celle du liquide visqueux et par g l'intensité de pesanteur.
+
+Au cours de sa chute, la bille est soumise à :
+
+- La force de frottement fluide : f⃗ = −h.v.i⃗ ; h est le coefficient de frottement visqueux.
+- La poussée d'Archimède : F⃗ = −ρs.V.g⃗ ;
+- Son poids : m.g⃗ = ρa.V.g⃗.
+
+1- A l'aide de la courbe de la figure (2), montrer l'existence d'une vitesse limite et déterminer sa valeur expérimentale. (0,5)
+
+2- Représenter, sur un schéma sans échelle, les vecteurs forces appliqués sur la bille en mouvement dans le fluide. (0,25)
+
+3- Etablir l'équation différentielle vérifiée par la vitesse v(t) et montrer qu'elle s'écrit sous la forme dv/dt + (h/m).v = β.g en précisant l'expression de β. (0,5)
+
+4- Vérifier que la fonction v(t) = (m.β.g/h).(1 − e^(−h.t/m)) est solution de cette équation différentielle. (0,25)
+
+5- Montrer, à partir de l'équation différentielle ou à partir de sa solution, l'existence d'une vitesse limite et calculer sa valeur et la comparer avec la valeur trouvée expérimentalement. (0,75)
+
+On donne : m = 5,0 g ; g = 9,81 m.s-2 ; h = 7,60.10-2 kg.s-1 ; β = 0,92.
+
+6- Déterminer à l'aide de l'analyse dimensionnelle l'unité de m/h et déterminer sa valeur à partir de l'enregistrement. (0,5)
+
+#### DEUXIEME PARTIE (2,75 points) : Etude énergétique d'un oscillateur libre amorti
+
+L'objectif de cet exercice est l'étude d'un oscillateur mécanique constitué d'un ressort à spires non jointives, de masse négligeable et de constante de raideur k = 20 N.m-1 et un solide de masse m = 200 g.
+
+On néglige les frottements et on prend g = 9,81 N.kg-1.
+
+1- Oscillations libres non amorties
+
+On repère la position du solide par l'abscisse x sur l'axe vertical (O, i⃗) orienté vers le bas (fig1). L'origine de l'axe est confondue avec G0 position du centre d'inertie G à l'équilibre. A l'instant t = 0, on lance le solide avec une vitesse initiale vers le bas v⃗0 = v0.i⃗ de norme v0 = 0,50 m.s-1.
+
+[FORMULA_IMAGE_UNREADABLE] (Fig1 : ressort vertical, solide, axe Ox orienté vers le bas, vecteur i⃗)
+
+1.1- Trouver l'allongement Δℓe du ressort à l'équilibre. (0,25)
+
+1.2- Etablir l'équation différentielle vérifiée par l'abscisse x au cours du temps. (0,5)
+
+1.3- La solution de l'équation différentielle s'écrit sous la forme x(t) = xm.cos(2πt/T0 + φ). Déterminer la valeur des constantes φ et xm. (0,5)
+
+2- Energie de l'oscillateur
+
+Les états de référence de l'énergie :
+
+- Energie potentielle de pesanteur : Epp = 0 dans le plan horizontal contenant G0 ;
+- Energie potentielle élastique : Epe = 0 quand le ressort n'est pas déformé.
+
+2.1- Trouver l'expression de l'énergie potentielle de l'oscillateur en fonction de k, Δℓe, x, g et m. (0,5)
+
+2.2- Trouver, à partir de l'énergie mécanique, l'expression de la vitesse du centre d'inertie G au passage par la position d'équilibre dans le sens positif en fonction de k, xm et m. (0,25)
+
+3- Oscillations libres amorties
+
+L'enregistrement du mouvement de l'oscillateur (fig2) à l'aide d'un dispositif approprié montre que l'amplitude des oscillations varie au cours du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (fig2 : x(m) en fonction de t(s) ; abscisses 0,2 à 2,4 s ; ordonnées −0,05 à 0,05 m)
+
+3.1- Justifier la diminution de l'amplitude des oscillations. (0,25)
+
+3.2- La pseudo-période T dans le cas d'amortissement faible s'exprime par la relation T = T0/√(1 − λ²T0²/(4π²m²)) [FORMULA_IMAGE_UNREADABLE] (relation donnée en image, faisant intervenir T0, λ et m). Déterminer, à l'aide du graphe, le coefficient d'amortissement λ. (0,75)

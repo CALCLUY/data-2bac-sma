@@ -1,0 +1,189 @@
+---
+Type: Examen National
+Année: 2020
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا - الدورة العادية 2020 – الموضوع - مادة : الرياضيات
+شعبة العلوم الرياضية (أ) و (ب) — الترجمة بالفرنسية
+NS 25 — المعامل : 9 — مدة الإنجاز : 4
+
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte (5) pages numérotées de 1/5 à 5/5
+- L'épreuve est composée de quatre exercices indépendants entre eux.
+- Le candidat doit traiter EXERCICE 3 et EXERCICE 4 et choisir de traiter EXERCICE 1 ou bien EXERCICE 2.
+- Le candidat doit traiter au total trois (3) exercices :
+  - EXERCICE 1 qui concerne l'arithmétique (au choix) ...................................................... 3.5 points
+  - ou bien EXERCICE 2 qui concerne les structures algébriques (au choix)………………………… .. 3.5 points
+  - EXERCICE 3 qui concerne les nombres complexes (obligatoire) …………………………….. 3.5 points
+  - EXERCICE 4 qui concerne l'analyse (obligatoire) ……………...................................……..… 13 points
+
+L'usage de la calculatrice est strictement interdit
+
+Tu choisis de traiter EXERCICE 1 ou bien EXERCICE 2
+Tu traites obligatoirement EXERCICE 3 et EXERCICE 4
+
+## EXERCICE 1 : (3,5 points / au choix)
+
+(Si tu choisis de traiter EXERCICE 1, il ne faut pas traiter EXERCICE 2)
+
+On considère dans $\mathbb{Z} \times \mathbb{Z}$ l'équation $(D) : x^{3} - 13y = 5$ [FORMULA_IMAGE_UNREADABLE]
+
+1- Soit $(x , y) \in \mathbb{Z} \times \mathbb{Z}$ une solution de l'équation $(D)$
+
+0,5 — a) Montrer que $x$ et $13$ sont premiers entre eux.
+
+0,5 — b) En déduire que : $x^{12} \equiv 1 \ [13]$
+
+1 — c) Montrer que : $x^{3} \equiv 10 \ [13]$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — d) En déduire que : $x^{12} \equiv 3 \ [13]$ [FORMULA_IMAGE_UNREADABLE]
+
+1 — 2- Déduire des questions précédentes, que l'équation $(D)$ n'admet pas de solution dans $\mathbb{Z} \times \mathbb{Z}$
+
+## EXERCICE 2 : (3,5 points / au choix)
+
+(Si tu choisis de traiter EXERCICE 2, il ne faut pas traiter EXERCICE 1)
+
+On note par $M_{2}(\mathbb{R})$ l'ensemble des matrices carrées d'ordre deux.
+
+On rappelle que $\left(M_{2}(\mathbb{R}) , + , \times\right)$ est un anneau non commutatif unitaire d'unité $I = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$ et que $\left(\mathbb{R}^{*} , \times\right)$ est un groupe commutatif.
+
+On considère le sous-ensemble $E$ de $M_{2}(\mathbb{R})$ défini par : $E = \left\{ \begin{pmatrix} x & \frac{1}{y} \\ 0 & y \end{pmatrix} \ / \ x \in \mathbb{R}^{*} \text{ et } y \in \mathbb{R}^{*} \right\}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- a) Montrer que $E$ est une partie stable de $\left(M_{2}(\mathbb{R}) , \times\right)$
+
+0,5 — b) Montrer que la multiplication n'est pas commutative dans $E$
+
+0,5 — c) Vérifier que : $\left(\forall x \in \mathbb{R}^{*}\right)\left(\forall y \in \mathbb{R}^{*}\right) \quad \begin{pmatrix} x & \frac{1}{y} \\ 0 & y \end{pmatrix} \times \begin{pmatrix} x^{-1} & \ldots \\ 0 & y^{-1} \end{pmatrix} = \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 2- Montrer que $\left(E , \times\right)$ est un groupe non commutatif.
+
+3- On considère le sous-ensemble $F$ de $E$ défini par : $F = \left\{ M(x) = \begin{pmatrix} x & \frac{1}{x} \\ 0 & x \end{pmatrix} \ / \ x \in \mathbb{R}^{*} \right\}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a) Montrer que l'application $\varphi$ définie par : $\left(\forall x \in \mathbb{R}^{*}\right) \ ; \ \varphi(x) = M(x)$ est un homomorphisme de $\left(\mathbb{R}^{*} , \times\right)$ vers $\left(E , \times\right)$.
+
+1 — b) En déduire que $\left(F , \times\right)$ est un groupe commutatif dont on précisera l'élément neutre.
+
+## EXERCICE 3 : (3,5 points / obligatoire)
+
+Soit $m$ un nombre complexe non nul.
+
+### Première partie :
+
+On considère dans $\mathbb{C}$ l'équation d'inconnue $z$, $(E) : z^{3} - 2m z^{2} + 2m^{2} z - m^{3} = 0$
+
+0,5 — 1- Résoudre dans $\mathbb{C}$ l'équation $(E)$ (On remarque que $m$ est une solution de l'équation $(E)$)
+
+2- On note $z_{1}$ et $z_{2}$ les deux autres solutions de l'équation $(E)$ autre que $m$
+
+0,25 — a) Vérifier que : $\dfrac{1}{z_{1}} + \dfrac{1}{z_{2}} = \dfrac{1}{m}$
+
+0,5 — b) Dans le cas où $m = 1 + e^{i\frac{\pi}{3}}$, écrire sous la forme algébrique $z_{1}$ et $z_{2}$
+
+### Deuxième partie :
+
+Le plan complexe est rapporté à un repère orthonormé direct $\left(O ; \overrightarrow{u} , \overrightarrow{v}\right)$
+
+On considère les points $A$ et $B$ d'affixes respectives $a = m e^{i\frac{\pi}{3}}$ et $b = m e^{-i\frac{\pi}{3}}$
+
+On note $P$ le centre de la rotation d'angle $\left(\dfrac{\pi}{2}\right)$ qui transforme $O$ en $A$, $Q$ le centre de la rotation d'angle $\left(\dfrac{\pi}{2}\right)$ qui transforme $A$ en $B$
+
+et $R$ le centre de la rotation d'angle $\left(\dfrac{\pi}{2}\right)$ qui transforme $B$ en $O$
+
+0,25 — 1- Montrer que les points $O$, $A$ et $B$ ne sont pas alignés.
+
+1 — 2- a) Montrer que l'affixe de $P$ est $p = \dfrac{\sqrt{2}}{2} m e^{i\frac{7\pi}{12}}$ [FORMULA_IMAGE_UNREADABLE] et que l'affixe de $R$ est $r = \dfrac{\sqrt{2}}{2} m e^{-i\frac{7\pi}{12}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Montrer que l'affixe de $Q$ est $q = 2m \sin\left(\dfrac{7\pi}{12}\right) \ldots$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 3- Montrer que $OQ = PR$ et que les deux droites $(OQ)$ et $(PR)$ sont perpendiculaires.
+
+## EXERCICE 4 : (13 points / obligatoire)
+
+### Première partie :
+
+On considère la fonction $f$ définie sur l'intervalle $I = \left[0 , +\infty\right[$ par : $f(0) = 0$
+
+et $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f(x) = x^{3} \ln\left(1 + \dfrac{1}{x}\right)$
+
+et soit $(C)$ sa courbe représentative dans un repère orthonormé $\left(O ; \overrightarrow{i} , \overrightarrow{j}\right)$.
+(On prendra $\|\overrightarrow{i}\| = \|\overrightarrow{j}\| = 1\,cm$)
+
+0,5 — 1- En appliquant le théorème des accroissements finis à la fonction $t \mapsto \ln t$ sur l'intervalle $\left[x , x + 1\right]$, montrer que : $(P) \quad \left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ \dfrac{1}{x + 1} < \ln\left(1 + \dfrac{1}{x}\right) < \dfrac{1}{x}$
+
+0,5 — 2- a) En utilisant la proposition $(P)$, montrer que la fonction $f$ est dérivable à droite en $0$
+
+0,5 — b) En utilisant la proposition $(P)$, montrer que la courbe $(C)$ admet une branche parabolique dont on précisera la direction.
+
+0,75 — 3- a) Montrer que la fonction $f$ est dérivable sur $\left]0 , +\infty\right[$ et que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ f'(x) = 3x^{2}\left(\ln\left(1 + \dfrac{1}{x}\right) - \dfrac{1}{3\left(x + 1\right)}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) En déduire que la fonction $f$ est strictement croissante sur $I$
+(On pourra utiliser la proposition $(P)$)
+
+0,25 — c) Dresser le tableau de variations de $f$
+
+4- Pour tout $x \in \left]0 , +\infty\right[$, on pose : $g(x) = \dfrac{f(x)}{x}$
+
+0,75 — a) Vérifier que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ g'(x) = 2x\left(\ln\left(1 + \dfrac{1}{x}\right) - \dfrac{1}{2\left(x + 1\right)}\right)$ [FORMULA_IMAGE_UNREADABLE], en déduire que la fonction $g$ est strictement croissante sur $\mathbb{R}^{*}_{+}$
+
+0,5 — b) Montrer que l'équation $g(x) = 1$ admet sur $\mathbb{R}^{*}_{+}$, une solution unique notée $\alpha$ puis vérifier que $\alpha \in \left]1 , 2\right[$ (On prendra $\ln 2 = 0,7$ et $\ln\left(\dfrac{3}{2}\right) = \dfrac{1,5}{\ldots}$ [FORMULA_IMAGE_UNREADABLE])
+
+0,5 — c) En déduire que les seules solutions de l'équation $f(x) = x$ sont $0$ et $\alpha$
+
+0,5 — 5- a) Représenter graphiquement la courbe $(C)$.
+(On précisera la demi-tangente à droite en $O$ et la branche parabolique de $(C)$)
+
+0,25 — b) Montrer que $f$ est une bijection de $I$ vers $I$ (On note $f^{-1}$ sa bijection réciproque)
+
+### Deuxième partie :
+
+On considère la suite $\left(u_{n}\right)_{n \geq 0}$ définie par : $0 < u_{0} < \alpha$ et $\left(\forall n \in \mathbb{N}\right) \ ; \ u_{n+1} = f^{-1}\left(u_{n}\right)$
+
+0,5 — 1- Montrer par récurrence que : $\left(\forall n \in \mathbb{N}\right) \ ; \ 0 < u_{n} < \alpha$
+
+0,5 — 2- a) Montrer que : $g\left(\left]0 , \alpha\right[\right) = \left]0 , 1\right[$
+
+0,5 — b) En déduire que la suite $\left(u_{n}\right)_{n \geq 0}$ est strictement croissante.
+
+0,25 — c) Montrer que la suite $\left(u_{n}\right)_{n \geq 0}$ est convergente.
+
+0,5 — 3- Déterminer $\lim\limits_{n \to +\infty} u_{n}$
+
+### Troisième partie :
+
+On considère la fonction $F$ définie sur l'intervalle $I$ par : $\left(\forall x \in I\right) \ ; \ F(x) = \displaystyle\int_{x}^{1} f(t)\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — 1- a) Étudier suivant les valeurs de $x$, le signe de $F(x)$
+
+0,5 — b) Montrer que la fonction $F$ est dérivable sur $I$ et déterminer sa dérivée première $F'$
+
+0,25 — c) En déduire que $F$ est strictement décroissante sur $I$
+
+0,5 — 2- a) Montrer que : $\left(\forall x \in \left[1 , +\infty\right[\right) \ ; \ F(x) \leq \left(1 - x\right) \ln 2$
+
+0,25 — b) En déduire $\lim\limits_{x \to +\infty} F(x)$
+
+0,5 — 3- a) En utilisant la méthode d'intégration par parties, montrer que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ F(x) = -\dfrac{x^{4}}{4} \ln\left(1 + \dfrac{1}{x}\right) + \dfrac{1}{4} \ln 2 + \dfrac{1}{4} \displaystyle\int_{x}^{1} \frac{t^{3}}{t + 1}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) Calculer $\displaystyle\int_{1}^{x} \frac{t^{3}}{t + 1}\,dt$ pour tout $x \in \left]0 , +\infty\right[$ (On remarque que : $\dfrac{t^{3}}{t + 1} = t^{2} - t + 1 - \dfrac{1}{t + 1}$)
+
+0,5 — c) En déduire que : $\left(\forall x \in \left]0 , +\infty\right[\right) \ ; \ F(x) = \dfrac{5}{24} - \dfrac{x^{3}}{12} + \dfrac{x^{2}}{8} - \dfrac{x}{4} + \dfrac{1}{4}\ln 2 + \dfrac{1}{4}\ln\left(x + 1\right) - \dfrac{x^{4}}{4}\ln\left(1 + \dfrac{1}{x}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — d) Calculer $\lim\limits_{x \to 0^{+}} F(x)$, en déduire la valeur de $\displaystyle\int_{0}^{1} f(t)\,dt$
+
+4- Pour tout entier naturel non nul $n$, on pose : $v_{n} = \displaystyle\sum_{k=0}^{k=n-1} \left(F\left(\frac{k}{n}\right) - F\left(\frac{2k + 1}{2n}\right)\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — a) Montrer que pour tout $n \in \mathbb{N}^{*}$ et pour tout $k \in \left\{0 , 1 , \ldots\ldots , n - 1\right\}$ :
+
+$$\frac{1}{2n} f\left(\frac{2k + 1}{2n}\right) \leq F\left(\frac{k}{n}\right) - F\left(\frac{2k + 1}{2n}\right) \leq \frac{1}{2n} f\left(\frac{k}{n}\right)$$ [FORMULA_IMAGE_UNREADABLE]
+
+0,5 — b) En déduire que : $\left(\forall n \in \mathbb{N}^{*}\right) \ ; \ \dfrac{1}{2n} \displaystyle\sum_{k=1}^{k=n} f\left(\frac{k}{n}\right) \leq v_{n} \leq \frac{1}{2n} \sum_{k=0}^{k=n-1} f\left(\frac{k}{n}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+(On remarque que : $\dfrac{2k + 1}{2n} < \dfrac{k + 1}{n}$)
+
+0,25 — c) Montrer que la suite numérique $\left(v_{n}\right)_{n \in \mathbb{N}^{*}}$ est convergente et déterminer sa limite.
+
+FIN

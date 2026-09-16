@@ -1,0 +1,45 @@
+---
+Chapitre: Chapitre 3 : Dérivation et étude des fonctions
+Séance: Séance 3-2-1 : Dérivation et étude des fonctions - Partie 2 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 3-2-1 : Dérivation et étude des fonctions - Partie 2 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+#### 4-1/ Théorèmes de Rolle
+
+Théorème 1
+
+Soit $a$ et $b$ deux réels, avec $a < b$, et $f : \left[a , b\right] \rightarrow \mathbb{R}$ une fonction continue sur $\left[a , b\right]$, dérivable sur $\left]\right. a , b \left[\right.$, telle que $f \left(a\right) = f \left(b\right)$.
+
+Alors il existe au moins un réel $c \in \left]\right. a , b \left[\right.$ tel que $f ' \left(c\right) = 0$.
+
+#### 4-2/ Théorèmes des accroissements finis
+
+Théorème 2
+
+Soit $a$ et $b$ deux réels, avec $a < b$, et $f : \left[a , b\right] \rightarrow \mathbb{R}$ une fonction continue sur $\left[a , b\right]$, dérivable sur $\left]\right. a , b \left[\right.$.
+
+Il existe alors au moins un réel $c \in \left]\right. a , b \left[\right.$ tel que $f \left(b\right) - f \left(a\right) = \left(b - a\right) f ' \left(c\right)$
+
+#### 4-3/ Inégalité des accroissements finis
+
+Théorème 3
+
+Soit $a$ et $b$ deux réels, avec $a < b$, et $f : \left[a , b\right] \rightarrow \mathbb{R}$ une fonction continue sur $\left[a , b\right]$, dérivable sur $\left]\right. a , b \left[\right.$.
+
+On suppose qu'il existe deux réels $m$ et $M$ tels que pour tout $x \in \left]\right. a , b \left[\right.$ : $m \leq f ' \left(x\right) \leq M$
+
+Alors : $m \left(b - a\right) \leq f \left(b\right) - f \left(a\right) \leq M \left(b - a\right)$
+
+Corollaire
+
+Soit $a$ et $b$ deux réels, avec $a < b$, et $f : \left[a , b\right] \rightarrow \mathbb{R}$ une fonction continue sur $\left[a , b\right]$, dérivable sur $\left]\right. a , b \left[\right.$.
+
+On suppose qu'il existe $k \in \mathbb{R} \star$ tel que pour tout $x \in \left]\right. a , b \left[\right.$ : $\left|f ' \left(x\right)\right| \leq k$
+
+Alors pour tout $\left(x , y\right) \in \left[a , b\right]^{2}$, on a : $\left|f \left(x\right) - f \left(y\right)\right| \leq k \left|x - y\right|$

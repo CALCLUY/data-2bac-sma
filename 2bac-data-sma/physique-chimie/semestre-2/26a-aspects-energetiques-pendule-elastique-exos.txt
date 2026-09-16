@@ -1,0 +1,127 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: A- Aspects énergétiques (Pendule élastique)
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 26A (Aspects énergétiques des oscillateurs mécaniques – Pendule élastique)
+Professeur : Mr EL GOUFIFA Jihad
+
+## IV- Exercices
+
+### 4-1/ Exercice 1
+
+On relie un corps solide $S_{2}$, de masse $m_{2} = 182 g$, à un ressort à spires non jointive, de masse négligeable et de raideur $K$, et on fixe l'autre bout du ressort à un support fixe :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img7.bmp)
+
+Le corps $S_{2}$ peut glisser sans frottement sur un plan horizontal.
+
+On écarte le corps $S_{2}$ de sa position d'équilibre de la distance $X_{m}$, et on le libère sans vitesse initiale.
+
+Pour étudier le mouvement de $G_{2}$, on choisie le référentiel galiléen $\left(\right. O , \overset{\rightarrow}{i} \left.\right)$ tel que la position de $G_{2}$ à l'origine des dates est confondue avec l'origine $O$.
+
+On repère la position de $G_{2}$ à l'instant $t$ par l'abscisse $x$ dans le repère $\left(\right. O , \overset{\rightarrow}{i} \left.\right)$.
+
+L'équation différentielle du mouvement de $G_{2}$ s'écrit $\overset{\cdot\cdot}{x} + \frac{K}{m^{2}} x = 0$, et sa solution est de la forme $x \left(t\right) = X_{m} . cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right)$.
+
+L'étude expérimentale du mouvement de $G_{2}$ a permis d'obtenir le graphe représenté sur la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img8.bmp)
+
+1. Déterminer en exploitant le graphe les grandeurs suivantes : l'amplitude $X_{m}$, la période $T_{0}$ et $\varphi$ la phase à l'origine des dates.
+
+2. En déduire la raideur $K$ du ressort.
+
+On choisi le plan horizontal passant par la position de $G_{2}$ à l'équilibre comme origine de l'énergie potentielle de pesanteur et l'état où le ressort n'est pas déformé comme origine de l'énergie potentielle élastique.
+
+3. Montrer que l'énergie cinétique $E_{C}$ du corps $S_{2}$ s'écrit : $E_{C} = \frac{K}{2} \left(\left(X_{m}\right)^{2} - x^{2}\right)$
+
+4. Trouver l'expression de l'énergie mécanique du système {corps $S_{2}$ - ressort} en fonction de $X_{m}$ et $K$ et en déduire la vitesse $v_{G_{2}}$ lorsque $G_{2}$ passe par la position d'équilibre dans le sens positif.
+
+### 4-2/ Exercice 2
+
+Les ressorts se trouvent dans plusieurs appareils mécaniques, comme les voitures et les bicyclettes... et produisent des oscillations mécaniques.
+
+Cette exercice a pour objectif l'étude énergétique d'un système oscillant {corps solide - ressort} dans une position horizontale.
+
+Soit un oscillateur mécanique horizontal composé d'un corps solide $\left(S\right)$ de masse m et de centre d'inertie $G$ fixé à l'extrémité d'un ressort à spires non jointives et de masse négligeable et de raideur $K = 10 N . m^{- 1}$.
+
+L'autre extrémité du ressort est fixée à un support fixe.
+
+Le corps $\left(S\right)$ glisse sans frottement sur le plan horizontal.
+
+On étudie le mouvement de l'oscillateur dans le repère $\left(\right. O , \overset{\rightarrow}{i} \left.\right)$ lié à la Terre et dont l'origine est confondue avec la position de G à l'équilibre de $\left(S\right)$.
+
+On repère la position de $G$ à l'instant $t$ par son abscisse $x$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img9.bmp)
+
+On écarte le corps $\left(S\right)$ horizontalement de sa position d'équilibre dans le sens positif d'une distance $X_{0}$ et on le libère sans vitesse initiale à l'instant pris comme origine des dates.
+
+On choisie le plan horizontal passant par $G$ comme référence de l'énergie potentielle de pesanteur, et l'état dans lequel le ressort n'est pas déformé comme référence de l'énergie potentielle élastique.
+
+À l'aide d'un dispositif informatique adéquat, on obtient les deux courbes représentant les variations de l'énergie $E_{C}$ cinétique et l'énergie potentielle élastique $E_{P e}$ du système oscillant en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img10.jpg)
+
+1. Indiquer parmi les courbes (a) et (b) celle qui représente les variations de l'énergie cinétique $E_{C}$. Justifier votre réponse.
+
+2. Déterminer la valeur de l'énergie mécanique $E_{m}$ du système oscillant.
+
+3. En déduire la valeur de la distance $X_{0}$.
+
+4. En considérant la variation de l'énergie potentielle élastique du système oscillant, trouver le travail $W_{A \rightarrow O} \left(\overset{\rightarrow}{T}\right)$ de la force de rappel $\overset{\rightarrow}{T}$ exercée par le ressort sur $\left(S\right)$ lors du déplacement de $G$ de la position $A$ d'abscisse $x_{A} = X_{0}$ vers la position $O$.
+
+### 4-3/ Exercice 3
+
+Un oscillateur mécanique vertical est constitué d'un corps solide $S$ de masse $m = 200 g$ et d'un ressort à spires non jointives de masse négligeable et de raideur $K$.
+
+L'une des extrémités du ressort est fixée à un support fixe et l'autre extrémité est liée au solide $S$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img11.jpg)
+
+On se propose d'étudier le mouvement du centre d'inertie $G$ du solide $S$ dans un repère $R \left(\right. O , \overset{\rightarrow}{k} \left.\right)$ lié à un référentiel terrestre supposé galiléen.
+
+On repère la position de $G$ à un instant $t$ par la côte $z$ sur l'axe $\left(\right. O , \overset{\rightarrow}{k} \left.\right)$.
+
+À l'équilibre, $G$ est confondu avec l'origine $O$ du repère $R \left(\right. O , \overset{\rightarrow}{k} \left.\right)$.
+
+On prendra $\pi^{2} = 10$.
+
+#### Frottements négligeables
+
+On écarte verticalement le solide $S$ de sa position d'équilibre et on l'envoie à l'instant de date $t = 0$, avec une vitesse initiale $\overset{\rightarrow}{V_{0}} = V_{0 z} \overset{\rightarrow}{k}$.
+
+La courbe suivante représente l'évolution de la côte $z \left(\right. t \left.\right)$ du centre d'inertie $G$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img12.jpg)
+
+1. Déterminer, à l'équilibre, l'allongement $\Delta \mathcal{l}_{0}$ du ressort en fonction de $m$, $K$ et de l'intensité de la pesanteur $g$.
+
+2. Établir l'équation différentielle vérifiée par la côte $z$ du centre d'inertie $G$.
+
+La solution de cette équation différentielle s'écrit $z = z_{m} cos \left(\frac{2 \pi}{T_{0}} t + \varphi\right)$, avec $T_{0}$ la période propre de l'oscillateur.
+
+3. Déterminer la valeur de $K$ et celle de $V_{0 z}$.
+
+#### Frottements non négligeables
+
+On réalise deux expériences en plongeant l'oscillateur dans deux liquides différents.
+
+Dans chaque expérience, on écarte verticalement le solide $S$ de sa position d'équilibre d'une distance $z_{0}$ et on l'abandonne sans vitesse initiale à l'instant $t = 0$, le solide $S$ oscille alors à l'intérieur du liquide.
+
+Les courbes (1) et (2) de la figure suivante représentent l'évolution de la côte z du centre d'inertie G au cours du temps dans chaque liquide :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s26-1/img13.jpg)
+
+4. Associer à chaque courbe le régime d'amortissement correspondant.
+
+On choisit le plan horizontal auquel appartient le point $O$, origine du repère $R \left(\right. O , \overset{\rightarrow}{k} \left.\right)$, comme état de référence de l'énergie potentielle de pesanteur $E_{p p} \left(\right. E_{p p} = 0 \left.\right)$, et l'état où le ressort est non déformé comme état de référence de l'énergie potentielle élastique $E_{p e} \left(\right. E_{p e} = 0 \left.\right)$.
+
+5. Pour les oscillations correspondant à la courbe (1), trouver à un instant de date $t$, l'expression de l'énergie potentielle $E_{p} = E_{p p} + E_{p e}$ en fonction de $K$, $z$ et $\Delta \mathcal{l} '_{0}$ l'allongement du ressort à l'équilibre dans le liquide.
+
+6. Pour les oscillations correspondant à la courbe (1), calculer la variation de l'énergie mécanique de l'oscillateur entre les instants $t_{1} = 0$ et $t_{2} = 0 , 4 s$.

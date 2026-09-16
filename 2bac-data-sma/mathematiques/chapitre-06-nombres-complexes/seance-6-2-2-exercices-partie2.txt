@@ -1,0 +1,119 @@
+---
+Chapitre: Chapitre 6 : Nombres complexes
+Séance: Séance 6-2-2 : Nombres complexes - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 6-2-2 : Nombres complexes - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 11-1/ Exercice 2-1
+
+On considère dans $\mathbb{C}$ l'équation $\left(E\right)$ suivante :
+
+$$\left(E\right) : \frac{1}{2} z^{3} - \left(1 + i\right) z^{2} + 2 \left(1 + i\right) z - 4 i = 0$$
+
+1. Montrer que l'équation $\left(E\right)$ admet une solution imaginaire pure $z_{0}$ à déterminer.
+
+2. Résoudre dans $\mathbb{C}$ l'équation $\left(E\right)$.
+
+Dans le plan complexe muni d'un repère orthonormé direct $\left(O ; \overset{\rightarrow}{u} ; \overset{\rightarrow}{v}\right)$, on considère les points :
+
+$$A \left(1 + i \sqrt{3}\right) ; B \left(1 - i \sqrt{3}\right) ; C \left(2 i\right)$$
+
+3. Montrer que $O A = O B$.
+
+Soit $D$ le milieu du segment $\left[A C\right]$.
+
+4. Déterminer l'affixe du point $D$ et une mesure de l'angle $\left(\hat{\overset{\rightarrow}{u} ; \overset{\rightarrow}{O D}}\right)$.
+
+5. En déduire les valeurs de $cos \left(\frac{5 \pi}{12}\right)$ et $sin \left(\frac{5 \pi}{12}\right)$.
+
+Soit $O '$ l'image de point $O$ par la rotation $R_{1}$ de centre $A$ et d'angle $- \frac{\pi}{2}$, et $B '$ l'image de point $B$ par la rotation $R_{2}$ de centre $A$ et d'angle $\frac{\pi}{2}$.
+
+6. Déterminer les affixes des points $O '$ et $B '$.
+
+Soit $I$ le milieu du segment $\left[O B\right]$.
+
+7. Montrer que $\left(A I\right)$ est une hauteur du triangle $A O ' B '$.
+
+#### 11-2/ Exercice 2-2
+
+Le plan complexe est muni d'un repère orthonormé direct $\left(O ; \overset{\rightarrow}{u} ; \overset{\rightarrow}{v}\right)$.
+
+On considère dans $\mathbb{C}$ l'équation suivante :
+
+$$\left(E\right) : z^{2} - 4 i z - 2 + 2 i \sqrt{3} = 0$$
+
+1. Vérifier que le nombre $a = 1 + i \left(2 - \sqrt{3}\right)$ est une solution de l'équation $\left(E\right)$.
+
+2. En déduire $b$ la deuxième solution de $\left(E\right)$.
+
+3. Montrer que $a^{2} = 4 \left(2 - \sqrt{3}\right) e^{i \frac{\pi}{6}}$.
+
+4. Écrire $a$ sous forme trigonométrique.
+
+On considère les points $A$, $B$ et $C$ d'affixes respectives $a$, $b$ et $c = 2 i + 2 e^{i \frac{\pi}{7}}$.
+
+Soit $T$ le cercle de diamètre $\left[A B\right]$.
+
+5. Déterminer $\omega$ l'affixe de $\Omega$ centre du cercle $T$.
+
+6. Montrer que les points $O$ et $C$ appartiennent à $T$.
+
+7. Montrer que le nombre $\frac{c - a}{c - b}$ est imaginaire pur.
+
+#### 11-3/ Exercice 2-3
+
+On considère dans $\mathbb{C}$ l'équation suivante :
+
+$$\left(E\right) : z^{2} - \left(5 + i \sqrt{3}\right) z + 4 + 4 i \sqrt{3} = 0$$
+
+1. Vérifier que $\left(3 - i \sqrt{3}\right)^{2}$ est le discriminant de $\left(E\right)$.
+
+2. Déterminer $a$ et $b$ solutions de l'équation $\left(E\right)$ (sachant que $b \in \mathbb{R}$).
+
+3. Vérifier que $b = \left(1 - i \sqrt{3}\right) a$.
+
+Le plan complexe est muni d'un repère orthonormé direct $\left(O ; \overset{\rightarrow}{u} ; \overset{\rightarrow}{v}\right)$.
+
+Soit $A$ le point d'affixe $a$, et $B$ le point d'affixe $b$.
+
+4. Déterminer le nombre complexe $b_{1}$, affixe du point $B_{1}$, image du point $O$ par la rotation de centre $A$ et d'angle $\frac{\pi}{2}$.
+
+5. Montrer que $B$ est l'image de $B_{1}$ par l'homothétie de centre $A$ et de rapport $\sqrt{3}$.
+
+6. Vérifier que $a r g \left(\frac{b}{b - a}\right) \equiv \frac{\pi}{6} \left[2 \pi\right]$.
+
+Soit $C$ le point, d'affixe $c$, appartenant au cercle circonscrit du triangle $O A B$ et différent de $O$ et $A$.
+
+7. Déterminer un argument du nombre $\frac{c}{c - a}$.
+
+#### 11-4/ Exercice 2-4
+
+On considère dans $\mathbb{C}$ l'équation suivante :
+
+$$\left(E\right) : z^{2} - \left(1 + i\right) z + 2 + 2 i = 0$$
+
+1. Vérifier que $\left(1 - 3 i\right)^{2}$ est le discriminant de $\left(E\right)$.
+
+2. Déterminer $z_{1}$ et $z_{2}$, les racines de l'équation $\left(E\right)$. (On prend $z_{1}$ imaginaire pur).
+
+3. Montrer que $\frac{z_{1}}{z_{2}} = \sqrt{2} . e^{i \frac{3 \pi}{4}}$.
+
+Dans le plan complexe muni d'un repère orthonormé direct $\left(O ; \overset{\rightarrow}{u} ; \overset{\rightarrow}{v}\right)$, on considère les points $A \left(z_{1}\right)$ et $B \left(z_{2}\right)$.
+
+4. Déterminer le nombre complexes $f$, affixe du point $F$, milieu du segment $\left[A B\right]$.
+
+Soit $r$ la rotation de centre $A$ et d'angle $\left(- \frac{\pi}{2}\right)$.
+
+Et soit $c$ l'affixe du point $C$, image du point $F$ par la rotation $r$.
+
+5. Montrer que $c = - \frac{3}{2} + \frac{3}{2} i$
+
+Soit $D$ le point d'affixe $d = 1 + \frac{3}{2} i$.
+
+6. Montrer que le nombre $\left(\frac{z_{2} - d}{c - d}\right) \times \left(\frac{c - z_{1}}{z_{2} - z_{1}}\right)$ est réel, puis interpréter géométriquement le résultat obtenu.

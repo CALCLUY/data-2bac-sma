@@ -1,0 +1,233 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Dipôle RC
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 10 (Dipôle RC)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Le condensateur
+
+### 1-1/ Définition
+
+Un condensateur est un composant électrique, formé de deux armatures métalliques en face l'une de l'autre et séparées par un isolant appelé le diélectrique (air, papier, céramiques...).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img1.jpg)
+
+### 1-2/ Charge d'un condensateur
+
+#### Expérience
+
+On utilise un générateur de tension continue de tension E et on réalise le montage suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img2.jpg)
+
+#### Observation
+
+On ferme l'interrupteur K.
+
+On observe que l'ampèremètre indique le passage d'un courant électrique durant un temps très court et que le voltmètre indique que la tension aux bornes du condensateur $U_{A B} = E$.
+
+On dit que le condensateur est chargé et le courant électrique qui passe dans le circuit s'appelle courant de charge.
+
+#### Interprétation :
+
+Le courant de charge résulte d'un déplacement des électrons de l'armature A vers l'armature B du condensateur, et à cause de l'existence du diélectrique entre les armatures, les électrons s'accumulent sur l'armature B.
+
+L'armature A perd le même nombre d'électrons gagnés par l'armature B et condensateur devient chargé.
+
+On appelle charge "q" du condensateur, la valeur absolue de la quantité d'électricité que porte chaque armature : $q = q_{A} = - q_{B}$
+
+Une fois chargé, le condensateur conserve la charge électrique "q" sur ses armatures et la tension $U_{A B} = E$ entre ses bornes, même lorsqu'on le débranche.
+
+### 1-3/ Décharge d'un condensateur
+
+#### Expérience
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img3.bmp)
+
+#### Observation
+
+On bascule l'interrupteur K à la position (2).
+
+Le voltmètre indique une annulation rapide de la tension aux bornes du condensateur.
+
+#### Interprétation
+
+En déplaçant l'interrupteur à la position (2) on relie les armatures entre elles.
+
+Les électrons accumulés sur l'armature B reviennent à l'armature A et un courant de décharge apparaît dans le circuit dans le sens inverse du courant de charge.
+
+### 1-4/ Relation entre charge q(t) et intensité du courant i(t)
+
+Par définition, l'intensité i du courant correspond au débit de charges transportées, c'est-à-dire à la charge électrique transportée par unité de temps :
+
+$\overline{\left.\right)i \left(\right. t \left.\right) = \frac{d q \left(\right. t \left.\right)}{d t}}$
+
+La charge électrique q(t) est une fonction du temps dont i(t) est la dérivée.
+
+Cette relation est valable aussi bien lors de la charge que lors de la décharge.
+
+### 1-5/ Relation entre charge q(t) et tension U(t) (Capacité du condensateur)
+
+On réalise le montage de la figure ci-dessous en utilisant un générateur de courant (qui débite un courant électrique constant quelle que soit la tension entre ses bornes) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img4.jpg)
+
+On obtient la courbe suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img5.bmp)
+
+La charge q d'un condensateur est proportionnelle à la tension U entre ses armatures : q = a x U.
+
+Ce coefficient de proportionnalité a, toujours positif, est appelé capacité du condensateur et on le note C.
+
+$\overline{\left.\right)q \left(\right. t \left.\right) = C . U \left(\right. t \left.\right)}$
+
+La capacité C d'un condensateur dépend de :
+
+- Surface des armatures
+- son épaisseur
+- nature de l'isolant
+- Distance entre les armatures
+- Matière de l'armature
+
+### 1-6/ Relation entre i, C et U
+
+$\left{\right. q = C \times U \\ i = \frac{d q}{d t} \Rightarrow \overline{\left.\right)i \left(t\right) = C \times \frac{d U \left(t\right)}{d t}}$
+
+## II- L'association des condensateurs
+
+### 2-1/ Association en série
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img6.jpg)
+
+Puisque le montage est en série alors :
+
+$\begin{cases} U = U_{1} + U_{2} + . . . + U_{n} \\ i = i_{1} = i_{2} = . . . = i_{n} \end{cases} \\ \Rightarrow U_{e q} = \sum_{}^{} U_{i} \\ \Rightarrow \frac{q}{C_{e q}} = \sum_{}^{} \frac{q}{C_{i}} \\ \Rightarrow \overline{\left.\right)\frac{1}{C_{e q}} = \sum_{}^{} \frac{1}{C_{i}}} \\$
+
+### 2-2/ Association en parallèle
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img7.jpg)
+
+Puisque le montage est en parallèle alors :
+
+$\left{\right. U = U_{1} = U_{2} = . . . = U_{n} \\ i = i_{1} + i_{2} + . . . + i_{n} \\ \Rightarrow q_{eq} = \sum_{}^{} q_{i} \\ \Rightarrow C_{eq} . U = \sum_{}^{} C_{i} . U \\ \Rightarrow \overline{\left.\right)C_{eq} = \sum_{}^{} C_{i}} \\$
+
+## III- Dipôle RC
+
+### 3-1/ définition
+
+Un dipôle RC est l'association en série d'un conducteur ohmique de résistance R et d'un condensateur de capacité C.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img8.bmp)
+
+### 3-2/ réponse d'un Dipôle RC à un échelon montant de tension (Charge du condensateur)
+
+#### Échelon de tension
+
+On dit qu'un dipôle est soumis à un échelon montant de tension, si la tension entre ses bornes varie instantanément d'une valeur nulle à une valeur constante E.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img9.bmp)
+
+#### Étude expérimentale
+
+Soit le circuit suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img10.jpg)
+
+Sur l'oscilloscope on obtient la courbe qui comporte deux régimes :
+
+1. Régime transitoire : dans lequel la tension aux bornes du condensateur croît depuis la valeur 0.
+2. Régime permanent : dans lequel la tension reste pratiquement constante. Lorsque $t \rightarrow \infty$, $u_{c}$ tend vers E.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img11.jpg)
+
+#### Équation différentielle
+
+D'après la loi d'additivité des tensions on a :
+
+$E = u_{c} + u_{R} \\ E = u_{c} + R . i \\ E = u_{c} + R \frac{d q}{d t} \\ E = u_{c} + R C \frac{d u_{c}}{d t} \\$
+
+Donc on en déduit l'équation suivante :
+
+$\overline{\left.\right)u_{c} + \tau \frac{d u_{c}}{d t} = E}$
+
+$\tau = RC$ : Constante du temps
+
+C'est une équation différentielle d'inconnue uc, dont la solution s'écrit sous la forme suivante :
+
+$\overline{\left.\right)u_{c} \left(\right. t \left.\right) = A . e^{- \lambda t} + B}$
+
+$\lambda = \frac{1}{R C} = \frac{1}{\tau} ; B = E ; A = - E$
+
+Donc la solution de l'équation différentielle est :
+
+$\overline{\left.\right)u_{c} \left(\right. t \left.\right) = E . \left(\right. 1 - e^{- \frac{t}{\tau}} \left.\right)}$
+
+#### Détermination graphique de la valeur de $\tau$
+
+$t = \tau \\ \Rightarrow u_{c} = E \left(1 - e^{- 1}\right) \approx 0 , 63 E$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img12.jpg)
+
+#### Expression de l'intensité du courant dans le circuit
+
+$i \left(t\right) = C \frac{d u_{c}}{d t} \\ i \left(t\right) = C \frac{d}{d t} \left(E \left(1 - e^{- \frac{t}{\tau}}\right)\right) \\ i \left(t\right) = C \frac{E}{\tau} e^{- \frac{t}{\tau}} \\ i \left(t\right) = \frac{E}{R} e^{- \frac{t}{\tau}} \\ \overline{\left.\right)i \left(t\right) = I_{0} e^{- \frac{t}{\tau}} \left(I_{0} = \frac{E}{R}\right)}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img13.jpg)
+
+### 3-3/ Réponse d'un Dipôle RC à un échelon descendant de tension (Décharge du condensateur)
+
+Soit le circuit suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img14.jpg)
+
+Sur un oscilloscope on obtient la courbe qui comporte deux régimes :
+
+- Régime transitoire : dans lequel la tension uc décroît depuis sa valeur initiale.
+- Régime permanent : dans lequel la tension uc reste pratiquement nulle, lorsque $t \rightarrow \infty$ alors $u_{c} \rightarrow \infty$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img15.jpg)
+
+#### Équation différentielle
+
+$\overline{\left.\right)u_{c} + \tau \frac{d u_{c}}{d t} = 0}$
+
+C'est une équation différentielle d'inconnue $u_{c}$, dont la solution s'écrit sous la forme suivante :
+
+$\overline{\left.\right)u_{c} \left(\right. t \left.\right) = E . e^{- \frac{t}{\tau}}}$
+
+#### Détermination graphique de la valeur de $\tau$
+
+$t = \tau \\ \Rightarrow u_{c} = E . e^{- 1} \approx 0 , 37 E$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img16.jpg)
+
+#### Expression de l'intensité du courant dans le circuit
+
+$i \left(t\right) = C \frac{d u_{c}}{d t} \\ i \left(t\right) = C \frac{d}{d t} \left(E . e^{- \frac{t}{\tau}}\right) \\ i \left(t\right) = - C . \frac{E}{\tau} e^{- \frac{t}{\tau}} \\ i \left(t\right) = - \frac{E}{R} e^{- \frac{t}{\tau}} \\ \overline{\left.\right)i \left(t\right) = - I_{0} e^{- \frac{t}{\tau}} \left(I_{0} = \frac{E}{R}\right)}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img17.jpg)
+
+### 3-4/ Charge et décharge périodiques
+
+#### Courbe de la tension
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img19.jpg)
+
+#### Courbe du courant
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s10/img20.jpg)
+
+## IV- Énergie emmagasinée dans un condensateur
+
+Soit $E_{c}$ l'énergie électrique emmagasinée dans un condensateur.
+
+$\overline{\left.\right)E_{c} = \frac{1}{2} . C . \left(u_{c}\right)^{2} = \frac{1}{2} . \frac{q^{2}}{C}}$

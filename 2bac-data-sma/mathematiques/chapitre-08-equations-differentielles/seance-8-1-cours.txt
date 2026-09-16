@@ -1,0 +1,88 @@
+---
+Chapitre: Chapitre 8 : Équations différentielles
+Séance: Séance 8-1 : Équations différentielles (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 8-1 : Équations différentielles (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+I- Équations différentielles du premier ordre
+1-1/ L'équation différentielle $y ' = a y \left(a \in \mathbb{R} \star\right)$
+1-2/ L'équation différentielle $y ' = a y + b \left(a \in \mathbb{R} \star , b \in \mathbb{R}\right)$
+
+II- Équations différentielles du second ordre
+2-1/ L'équation différentielle $y ' ' + a y ' + b y = 0 \left(\left(a , b\right) \in \mathbb{R}^{2}\right)$
+
+### I- Équations différentielles du premier ordre
+
+#### 1-1/ L'équation différentielle $y ' = a y \left(a \in \mathbb{R} \star\right)$
+
+Proposition 1
+
+La solution générale de l'équation différentielle $y ' = a y$ est $y = \lambda e^{a x} \left(\lambda \in \mathbb{R}\right)$
+
+Remarque
+
+Pour tout $\left(x_{0} , y_{0}\right) \in \mathbb{R}^{2}$, il existe une solution unique $f$ de l'équation différentielle $y ' = a y$ vérifiant la condition $f \left(x_{0}\right) = y_{0}$.
+
+#### 1-2/ L'équation différentielle $y ' = a y + b \left(a \in \mathbb{R} \star , b \in \mathbb{R}\right)$
+
+Proposition 2
+
+La solution générale de l'équation différentielle $y ' = a y + b$ est $y = \lambda e^{a x} - \frac{b}{a} \left(\lambda \in \mathbb{R}\right)$
+
+### II- Équations différentielles du second ordre
+
+#### 2-1/ L'équation différentielle $y ' ' + a y ' + b y = 0 \left(\left(a , b\right) \in \mathbb{R}^{2}\right)$
+
+Proposition 3
+
+Soit $a$ et $b$ deux réels quelconques.
+
+On considère l'équation différentielle : $\left(E\right) : y " + a y ' + b y = 0$
+
+L'équation caractéristique de $\left(E\right)$ est : $r^{2} + a r + b = 0$
+
+Son discriminant est : $\Delta = a^{2} - 4 b$
+
+1) Si $\Delta > 0$, alors l'équation caractéristique admet deux racines réelles distinctes $r_{1}$ et $r_{2}$, et la solution générale de $\left(E\right)$ est donnée par :
+
+$$y = \alpha e^{r_{1} x} + \beta e^{r_{2} x} ; \left(\alpha , \beta\right) \in \mathbb{R}^{2}$$
+
+2) Si $\Delta = 0$, alors l'équation caractéristique admet une racine double $r$, et la solution générale de $\left(E\right)$ est donnée par :
+
+$$y = \left(\alpha x + \beta\right) e^{r x} ; \left(\alpha , \beta\right) \in \mathbb{R}^{2}$$
+
+3) Si $\Delta < 0$, alors l'équation caractéristique admet deux racines complexes conjuguées.
+
+En posant $r_{1} = p + i q$ et $r_{2} = p - i q$ avec $\left(p , q\right) \in \mathbb{R}^{2}$, la solution générale de $\left(E\right)$ est donnée par :
+
+$$y = \left(\alpha cos \left(q x\right) + \beta sin \left(q x\right)\right) e^{p x} ; \left(\alpha , \beta\right) \in \mathbb{R}^{2}$$
+
+Remarques
+
+1) Pour tout $\left(x_{0} , y_{0} , z_{0}\right) \in \mathbb{R}^{3}$, il existe une unique solution de l'équation $\left(E\right) : y ' ' + a y ' + b y = 0$ vérifiant les conditions initiales : $y \left(x_{0}\right) = y_{0}$ et $y ' \left(x_{0}\right) = z_{0}$.
+
+2) L'équation $y " + \omega^{2} y = 0$ est un cas particulier de l'équation différentielle $\left(E\right) : y ' ' + a y ' + b y = 0$ :
+
+La solution générale de l'équation différentielle $y " + \omega^{2} y = 0$ est :
+
+$y = \alpha cos \left(\omega x\right) + \beta sin \left(\omega x\right) ; \left(\alpha , \beta\right) \in \mathbb{R}^{2}$.
+
+La solution générale de l'équation différentielle $y " - \omega^{2} y = 0$ est :
+
+$y = \alpha e^{\omega x} + \beta e^{- \omega x} ; \left(\alpha , \beta\right) \in \mathbb{R}^{2}$.
+
+3) En gros, on peut exprimer les conditions initiales d'une équation différentielle par diverses formules, par exemple :
+
+* Le point $A \left(x_{0} , y_{0}\right)$ appartient à la courbe de $f$, ce qui se traduit par : $y_{0} = f \left(x_{0}\right)$
+* La fonction $f$ prend la valeur $y_{0}$ en $x_{0}$ ce qui se traduit par : $y_{0} = f \left(x_{0}\right)$
+* La courbe $\mathcal{C}_{f}$ de $f$ admet au point $A \left(x_{0} , y_{0}\right)$ une tangente de pente $y_{1}$ : $y_{0} = f \left(x_{0}\right)$ et $y_{1} = f ' \left(x_{0}\right)$.
+
+4) Dans les sciences physiques, on rencontre souvent les équations différentielles $a y " + b y ' + c y = 0$ sous la forme à titre d'exemple : $a \frac{d^{2} x}{d t^{2}} + b \frac{d x}{d t} + c x = 0$ ou sous la forme : $a \overset{\cdot\cdot}{x} + b \overset{\cdot}{x} + c x = 0$.

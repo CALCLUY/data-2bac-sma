@@ -1,0 +1,127 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Devoirs SPC
+Sujet: PC 2Bac SPC - Semestre 1 Devoir 3 Modèle 1
+Type: Sujet
+Source: 
+---
+
+Physique et Chimie : 2ème Bac SPC
+Semestre 1 Devoir 3 Modèle 1
+Professeur : Mr El GOUFIFA Jihad
+
+## Exercice 1 (7 pts)
+
+Les condensateurs sont caractérisés par le fait d'emmagasiner de l'énergie électrique pour l'utiliser au cas de besoin. Cette propriété permet d'utiliser les condensateurs dans beaucoup d'appareils.
+
+On réalise le montage de la figure 1 formé de :
+
+- Un générateur idéal du courant qui alimente le circuit par un courant d'intensité $I_{0} = 1 m A$.
+- Un condensateur de capacité $C$ initialement déchargé.
+- Un conducteur ohmique de résistance $R$.
+- Un interrupteur $K$ à deux positions $1$ et $2$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : spc-s1d3m1/img1.bmp)
+
+A $t = 0$ on bascule l'interrupteur à la position $1$ et on suit les variations de la tension en fonction du temps et on obtient la courbe de la figure 2 :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : spc-s1d3m1/img2.bmp)
+
+1. Déterminer l'armature négative.
+
+2. Montrer que l'expression de la tension aux bornes du condensateur s'écrit : $u_{C} = \frac{I_{0}}{C} t$.
+
+3. Vérifie que $C = 1 , 5 . 10^{- 3} F$.
+
+Lorsque la tension aux bornes du condensateur est égale à $E$, on bascule l'interrupteur à la position $2$ et on obtient la courbe de la figure 3 ci-dessus.
+
+On considère que $u_{C} \left(t = 0\right) = E = 10 V$
+
+4. Déterminer l'équation différentielle vérifié par $u_{C} \left(t\right)$.
+
+5. Vérifier que $u_{C} = E . e^{- t/\left(\tau\right)}$ est solution de l'équation différentielle
+
+6. Par l'analyse dimensionnelle montrer que $\tau$ a une dimension du temps.
+
+7. Déterminer la valeur de $\tau$ et déduire la valeur de la résistance $R$
+
+8. Montrer que l'expression de l'intensité du courant est : $i = - 0 , 03 . e^{- 2 t}$
+
+9. Déterminer à l'instant $t '$ où $70 \%$ de l'énergie maximale stockée dans le condensateur est dissipée par effet joule.
+
+## Exercice 2 (6 pts)
+
+Pour étudier expérimentalement la réponse d'un dipôle $R L$ à un échelon de tension, on réalise un circuit électrique en associant en série :
+
+- Une bobine d'inductance $L$ et de résistance $r$.
+- Un résistor de résistance $R$.
+- Un générateur de force électromotrice $E = 6 V$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : spc-s1d3m1/img3.jpg)
+
+On enregistre à l'aide d'un système d'acquisition informatisé, l'intensité $i$ du courant qui traverse la bobine lorsqu'on ferme l'interrupteur $K$.
+
+Le résultat de l'enregistrement est donné par la courbe suivante où $\left(\Delta\right)$ est la tangente à $t = 0$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : spc-s1d3m1/img4.jpg)
+
+1. Par application de la loi d'additivité des tensions, établir l'expression de l'intensité $I_{p}$ du courant en régime permanent en fonction des grandeurs $E$, $R$ et $r$.
+
+2. Déduire la valeur de la résistance totale du circuit $R_{T} = R + r$.
+
+3. Montrer que l'équation différentielle vérifiée par l'intensité $i \left(\right. t \left.\right)$ s'écrit sous forme $i \left(\right. t \left.\right) + \tau \frac{d i \left(\right. t \left.\right)}{d t} = I_{p}$.
+
+4. Déterminer l'expression de $\tau$.
+
+5. Vérifier que $i \left(\right. t \left.\right) = I_{p} \left(1 - e^{- t/\left(\tau\right)}\right)$ est une solution de cette équation différentielle.
+
+6. Justifier le nom « constante de temps » donné à $\tau$ et déterminer graphiquement sa valeur.
+
+7. Déduire la valeur du coefficient d'induction $L$ de la bobine.
+
+L'évolution de la tension $u_{b}$ aux bornes de la bobine ainsi que celle de la tension $u_{R}$ aux bornes du conducteur ohmique au cours du temps est donnée par le graphe suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : spc-s1d3m1/img5.jpg)
+
+8. Identifier les deux courbes.
+
+9. Déterminer les valeurs des résistances $R$ et $r$.
+
+## Exercice 3 (7 pts)
+
+### Partie 1 : Réaction d'une base avec l'eau
+
+On considère deux solutions basiques $\left(\right. S_{1} \left.\right)$ et $\left(\right. S_{2} \left.\right)$ de même concentration $C = 1 , 0 . 10^{- 2} m o l . L^{- 1}$ à $25 \circ C$.
+
+- $\left(\right. S_{1} \left.\right)$ : Solution d'ammoniac $N H_{3 \left(\right. a q \left.\right)}$ de $p k_{A 1} = 9 , 2$.
+- $\left(\right. S_{2} \left.\right)$ : Solution de méthyle-amine $C H_{3} N H_{2 \left(\right. a q \left.\right)}$ de $p k_{A 2} = 10 , 7$ et $p H_{1} = 11 , 4$.
+
+1. Écrire l'équation de réaction entre méthyle amine $C H_{3} N H_{2}$ et l'eau
+
+2. Déterminer le taux d'avancement final en fonction de $C$, $p H$ et $K_{e}$. Calculer sa valeur. Que peut-on conclure ?
+
+3. A votre avis quelle est la base la plus soluble dans l'eau $N H_{3}$ ou $C H_{3} N H_{2}$ ? justifier
+
+4. Exprimer le quotient de la réaction $Q_{r , \acute{e} q}$ à l'équilibre en fonction de $K_{e}$ et $K_{A 2}$. Puis calculer sa valeur.
+
+5. Quelle est l'espèce prédominante $C H_{3} N H_{2}$ ou $C H_{3} N H_{3}^{+}$ dans la solution $\left(\right. S_{1} \left.\right)$,
+
+6. Calculer le pourcentage de l'espèce prédominante.
+
+7. Déterminer la valeur de $p H$ lorsque $\left[N H_{3}^{+}\right] = 15 \left[N H_{3}\right]$.
+
+### Partie 2 : Diagramme de réparation
+
+Le document suivant représente le diagramme de distribution d'un mélange d'acide benzoïque $C_{6} H_{5} C O O H_{\left(\right. a q \left.\right)}$, noté $H A$ et d'ion benzoate $C_{6} H_{5} C O O_{\left(\right. a q \left.\right)}^{-}$ noté $A^{-}$ à $25 \circ C$. il indique les pourcentages d'acide benzoïque et d'ion benzoate en solution en fonction du $p H$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : spc-s1d3m1/img6.bmp)
+
+La concentration molaire totale apportée en acide et base conjugué est $C_{T} = 10 m m o l / L$.
+
+1. À partir du diagramme déterminer la valeur du $p k_{A}$ du couple.
+
+2. À partir du diagramme déterminer la concentration molaire en acide dans une solution de $p H = 5 , 0$.
+
+### Données
+
+$25 \circ C ; K_{e} = 10^{- 14} ; \left(N H_{4}^{+} / N H_{3}\right) ; \left(C H_{3} N H_{3}^{+} / C H_{3} N H_{2}\right)$

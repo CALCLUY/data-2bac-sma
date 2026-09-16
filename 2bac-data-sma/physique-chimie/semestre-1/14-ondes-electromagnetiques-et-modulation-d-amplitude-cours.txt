@@ -1,0 +1,275 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Ondes électromagnétiques et modulation d'amplitude
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 14 (Ondes électromagnétiques et modulation d'amplitude)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Ondes électromagnétiques
+
+### 1-1/ Définition
+
+Les ondes électromagnétiques correspondent aux oscillations couplées d'un champ électrique et d'un champ magnétique, dont les amplitudes varient de façon sinusoïdale au cours du temps. Elles se propagent dans l'air et dans le vide ainsi que dans certains milieux matériels.
+
+La vitesse de propagation des ondes électromagnétiques dans le vide et dans l'air est d'environ $3 . 10^{8} m . s^{- 1}$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img14.bmp)
+
+### 1-2/ Classification des ondes électromagnétiques
+
+On rencontre différents types des ondes électromagnétiques, ayant des propriétés très différentes.
+
+Elles comprennent un vaste domaine de longueur d'onde, elles sont classées en fonction de leurs fréquences dans ce qu'on appelle le spectre électromagnétique, par leurs longueur d'onde croissantes, nous avons les rayons gamma, les rayons X, les ultraviolets, la lumière visible, les infrarouges, les micro-ondes et les ondes radio.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img15.jpg)
+
+La lumière visible est une onde électromagnétique ainsi que ondes hertziennes qui sont utilisées dans le domaine de la radio, la télévision et la télécommunication.
+
+Les ondes électromagnétiques pendant leur propagation ne transportent pas la matière, mais elles transportent l'énergie, et elles sont capables de transporter les informations.
+
+### 1-3/ Intérêt des ondes électromagnétiques
+
+Il réside dans leur mode de propagation : rectiligne, avec une vitesse égale à celle de la lumière, pouvant subir les phénomènes de réflexion et de réfraction.
+
+Les ondes hertziennes se propagent dans le vide. Elles traversent plus ou moins bien les milieux matériels, mais ne se propagent pas à travers les métaux.
+
+Selon les milieux de propagation et leur fréquence, les ondes se propagent sur plus ou moins grandes distances soit directement en ligne droite soit en se réfléchissant sur l'ionosphère (couches ionisées de l'atmosphère 80 à 400 km d'altitude) et sur le sol. Elles sont en outre diffractées par certains obstacles.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img17.bmp)
+
+Une autre façon de parcourir de grandes distances à la surface de la Terre est obtenue au moyen de satellites qui sont en orbite au-delà de l'ionosphère : l'onde traverse l'ionosphère en subissant une réfraction et est captée par un satellite qui la renvoie sur Terre.
+
+Pour cela, il faut utiliser des ondes de haute fréquence, capables de franchir l'ionosphère. C'est le cas des ondes utilisées en radio FM, par la télévision par satellite, pour les téléphones cellulaires.
+
+#### Mise en évidence de la méthode d'envoi et de réception d'une onde électromagnétique
+
+Dans le montage suivant E et R sont deux fils électriques conducteurs qui jouent le rôle d'émetteur et de récepteur.
+
+On visualise sur l'entrée $Y_{A}$ de l'oscilloscope un signal sinusoïdal émis par le générateur GBF et on obtient sur l'entrée $Y_{B}$ un signal reçu par le récepteur R qui la même fréquence et la même forme que le signal émis par E :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img16.bmp)
+
+L'antenne émettrice E émet une onde électromagnétique de même fréquence que le signal électrique du circuit.
+
+Cette onde se propage dans tout l'espace et provoque dans l'antenne réceptrice R un signal de même fréquence.
+
+L'onde électromagnétique peut transporter le signal qui contient l'information à des grandes distances sans aucun transport de la matière et avec une vitesse égale à la célérité de lumière dans le vide.
+
+## II- Nécessité d'une modulation
+
+Pour transmettre un signal de basse fréquence BF à une distance de plusieurs millions de kilomètres, il serait rapidement atténué, et en plus la réception de ce signal nécessitera des antennes de très grandes dimensions, car la longueur de l'antenne est en général de l'ordre de la moitié de la longueur d'onde du signal de réception $\mathcal{l} = \frac{\lambda}{2}$.
+
+Pour un signal BF, $f = 200 H z$ par exemple, sa longueur d'onde est $\lambda = \frac{c}{f} = \frac{3 . 10^{8}}{200} = 1500 K m$, pour le capter on a besoin d'une antenne de longueur $\mathcal{l} = 750 K m$.
+
+Un signal haute fréquence HF sera facilement transmissible [HF correspond à des fréquences $f > 100 M H z$], de longueurs d'ondes $\lambda = \frac{c}{f} < 3 m$, et pour le capter l'antenne utilisée sera de longueur inférieure à $1 , 5 m$.
+
+Pour cette raison on doit utiliser une technique pour transmettre les informations, cette technique s'appelle la modulation.
+
+La modulation est un processus qui consiste à transmettre le signal de sa forme original en une forme adaptée au canal de transmission en faisant varier son amplitude ou sa fréquence ou bien sa phase.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img42.jpg)
+
+## III- Les différents types de modulations
+
+### 3-1/ Principe
+
+Généralement on "greffe" sur un signal haute fréquence appelé "onde porteuse" le signal basse fréquence à transmette appelé "signal modulant" :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img18.jpg)
+
+On obtient ainsi un signal modulé.
+
+L'onde porteuse est une onde sinusoïdale qui s'écrit :
+
+$u \left(t\right) = U_{m} cos \left(2 πft + \varphi\right)$
+
+- $U_{m}$ : Amplitude
+- $f$ : Fréquence
+- $\varphi$ : Phase à l'origine
+
+La modulation consiste à transmettre le signal en faisant varier son amplitude ou sa fréquence ou bien sa phase.
+
+### 3-2/ La modulation d'amplitude
+
+Elle correspond à la modulation de l'amplitude de l'onde porteuse selon le signal modulant contenant l'information :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img19.jpg)
+
+### 3-3/ La modulation de fréquence
+
+Elle correspond à une variation de la fréquence de l'onde porteuse par celle de l'information :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img20.jpg)
+
+### 3-4/ La modulation de phase
+
+Elle correspond à une variation de la phase de l'onde porteuse par celle de l'information :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img21.jpg)
+
+## IV- La modulation d'amplitude
+
+### 4-1/ Principe
+
+La modulation est obtenue par combinaison de deux ondes.
+
+La première onde est liée à l'information à transmettre. Elle est supposée sinusoïdale, d'amplitude $U_{s m}$ et de fréquence $f_{s}$, la tension correspondante s'écrit alors :
+
+$u_{s} \left(t\right) = U_{s m} cos \left(2 πf_{s} t\right)$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img22.jpg)
+
+Dans le cas de la modulation d'amplitude, on ajoute à cette tension $u_{s}$ une tension continue $U_{0}$ appelée tension de décalage (ou offset).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img23.jpg)
+
+La seconde est la porteuse, onde sinusoïdale de haute fréquence et d'amplitude constante. Elle est produite par l'oscillateur de l'émetteur qui délivre une tension de la forme :
+
+$u_{p} \left(t\right) = U_{p m} cos \left(2 πf_{p} t\right)$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img24.jpg)
+
+### 4-2/ Le montage multiplieur
+
+Un circuit électronique, appelé multiplieur, donne en sortie une tension modulée s(t) proportionnelle au produit des tensions d'entrée avec un coefficient multiplicateur k exprimé généralement en V−1 :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img25.jpg)
+
+Le multiplieur donne en sortie la tension :
+
+$s \left(t\right) = K . u_{p} \left(t\right) . \left(u_{s} \left(t\right) + U_{0}\right) \\ \\ s \left(t\right) = A cos \left(2 πf_{p} t\right) \left[1 + m cos \left(2 πf_{s} t\right)\right] \\ \\ \left{\begin{matrix} A = K U_{p m} U_{0} \\ m = \frac{U_{s m}}{U_{0}} \end{matrix}\right \\ \\$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img26.jpg)
+
+### 4-3/ Le signal modulé
+
+L'enveloppe du signal modulé a la même forme et la même fréquence que le signal modulant.
+
+L'amplitude du signal modulé varie entre deux valeurs $U_{M}$ et $U_{m}$.
+
+La modulation est bonne qualité si l'enveloppe du signal modulé correspond au signal modulant.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img27.jpg)
+
+Le taux de modulation : $m = \frac{U_{M} - U_{m}}{U_{M} + U_{m}}$
+
+Les conditions d'avoir une modulation de bonne qualité sont :
+
+- Le taux de modulation doit être : $m < 1$
+- La fréquence de l'onde porteuse doit être : $f_{p} > 10 . f_{s}$
+
+### 4-4/ Analyse fréquentielle
+
+$s \left(t\right) = A cos \left(2 πf_{p} t\right) \left[1 + m cos \left(2 πf_{s} t\right)\right] \\ s \left(t\right) = A m cos \left(2 πf_{p} t\right) cos \left(2 πf_{s} t\right) + A cos \left(2 πf_{p} t\right) \\ s \left(t\right) = \frac{A m}{2} cos \left(2 \pi \left(f_{p} - f_{s}\right) t\right) + \frac{A m}{2} cos \left(2 \pi \left(f_{p} + f_{s}\right) t\right) + A cos \left(2 πf_{p} t\right) \\ \\ \\$
+
+Cela correspond à la somme de trois tensions sinusoïdales des fréquences respectives, leurs valeurs se situent dans le domaine des fréquences qui correspondent aux ondes hertziennes à grande portée.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img28.jpg)
+
+### 4-5/ La surmodulation
+
+Lorsque la valeur de $U_{0}$ varie on obtient les courbes suivantes :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img29.jpg)
+
+La modulation est de bonne qualité sur la figure 1 et mauvaise sur les figures 2 et 3.
+
+On constate alors que pour avoir une modulation de bonne qualité, la tension de décalage doit être supérieure à l'amplitude de l'onde transmise. Autrement dit :
+
+$U_{0} > U_{s} \Leftrightarrow m = \frac{U_{s}}{U_{0}} < 1$
+
+On parle de la surmodulation dans les deux autres figures.
+
+Lorsque la valeur de $f_{p}$ la fréquence de l'onde porteuse varie on obtient les courbes suivantes :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img30.jpg)
+
+La modulation est de bonne qualité sur la figure 4 et mauvaise sur les figures 5 et 6.
+
+On constate alors que pour avoir une modulation de bonne qualité, la fréquence de l'onde porteuse doit être très supérieure à la fréquence de l'onde transmise :
+
+$f_{p} > > f_{s}$
+
+Pour s'assurer que la modulation est de bonne qualité on utilise la méthode du trapèze qui représente $u_{s} \left(\right. t \left.\right)$ en fonction de $s \left(\right. t \left.\right)$.
+
+Pratiquement on suit la démarche suivante :
+
+- Relier la tension $s \left(\right. t \left.\right) + U_{0}$ à l'entrée X de l'oscilloscope
+- Relier la tension $u_{s} \left(\right. t \left.\right)$ à l'entrée Y.
+- Éliminer le balayage de l'oscilloscope (mod XY)
+
+On obtient un signal en forme trapèze :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img43.jpg)
+
+## V- La démodulation
+
+### 5-1/ Principe
+
+La démodulation consiste à détecter l'enveloppe de l'onde modulée et la séparer de la tension de décalage, pour retrouver à la réception l'onde transmise.
+
+Elle s'opère en deux étapes :
+
+- La détection d'enveloppe.
+- L'élimination de la tension continue par filtrage.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img31.bmp)
+
+### 5-2/ Les étapes de démodulation
+
+#### Étape 1 : Suppression des alternances négatives et élimination de l'enveloppe
+
+On utilise un montage détecteur d'enveloppe appelé encore (filtre passe-bas) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img32.jpg)
+
+Ce montage nous permet de trouver l'onde émise, il comporte une diode associée à un dipôle $R C$.
+
+À l'entrée du montage on applique directement la tension $s \left(\right. t \left.\right)$ représentant l'onde modulée délivrée par le multiplieur, et on observe à la sortie une tension $s ' \left(\right. t \left.\right)$ semblable à l'onde modulante.
+
+Une condition est toutefois nécessaire pour obtenir une bonne démodulation est la vérification de la condition $f_{s} < \frac{1}{\tau} < < f_{p}$.
+
+La diode bloque les alternances négatives et donne la tension suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img33.jpg)
+
+Et le dipôle RC élimine les hautes fréquences, et on obtient l'enveloppe $s ' \left(\right. t \left.\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img34.jpg)
+
+#### Étape 2 : Élimination de la tension de décalage
+
+On utilise un filtre $R ' C '$ passe-haut.
+
+L'onde $s ' \left(\right. t \left.\right)$ est appliquée à l'entrée de ce montage, et à la sortie on observe la tension $u_{s} \left(\right. t \left.\right)$ émise.
+
+On élimine la tension constante $U_{0}$ par le condensateur $C '$, et on obtient le signal original $u_{s} \left(\right. t \left.\right)$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img35.jpg)
+
+## VI- Réalisation d'un récepteur d'émission radio
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img36.bmp)
+
+La partie (1) du montage d'un récepteur radio comporte une antenne qui reçoit une multitude d'ondes hertziennes que le circuit d'accord filtre afin de sélectionner le signal modulé en amplitude de fonde radio désirée. On obtient le signal suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img37.bmp)
+
+Dans la partie (2) le signal modulé en amplitude est amplifié. On obtient le signal suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img38.bmp)
+
+La partie (3) est le montage détecteur d'enveloppe. À sa sortie, la tension $u_{D M}$ a la même allure et même fréquence que le signal informatif :
+
+Le condensateur de la partie (4) enlève la composante continue de la tension $u_{D M}$, on obtient $u_{E M}$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s14/img41.bmp)
+
+La tension $u_{E M}$ est trop faible pour alimenter le haut-parleur. La partie (5) amplifie le signal, on obtient $u_{E ' M}$ qui alimente le haut-parleur.

@@ -1,0 +1,169 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvement des satellites et des planètes
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 22 (Mouvement des satellites et des planètes)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Référentiel héliocentrique et géocentrique
+
+#### Le repère héliocentrique
+
+Un repère dont l'origine est confondue avec le centre d'inertie du système solaire, c'est-à-dire le centre du soleil, ses trois axes sont dirigés vers 3 étoiles fixes.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img2.png)
+
+#### Le repère géocentrique
+
+Un repère dont l'origine est confondue avec le centre d'inertie de la terre, ses trois axes dont deux sont dans le plan de l'équateur dirigés vers 2 étoiles fixes, et le troisième est dirigé vers l'étoile polaire.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img3.png)
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img1.jpg)
+
+## II- L'ellipse
+
+En géométrie, une ellipse est une courbe plane fermée obtenue par l'intersection d'un cône de révolution avec un plan, à condition que celui-ci coupe l'axe de rotation du cône ou du cylindre :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img4.PNG)
+
+On peut également la définir comme le lieu des points dont la somme des distances à deux points fixes, dits foyers, est constante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img5.gif)
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img6.jpg)
+
+$P F + P F ' = 2 a$
+
+Le cercle est une ellipse dont les deux foyers sont confondus en un point appelé le centre, d'où : $a = r$ et $A A ' = B B ' = 2 r$
+
+## III- Les lois de Kepler
+
+### 3-1/ Loi des orbites
+
+Dans un référentiel héliocentrique, la trajectoire du centre d'une planète est une ellipse dont le centre du Soleil est l'un des foyers.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img7.bmp)
+
+### 3-2/ Loi des aires
+
+Le segment de la droite reliant le soleil à une planète balaie des aires égales pendant des durées égales.
+
+Les planètes se déplacent plus rapidement lorsqu'elles sont proches du soleil et plus lentement lorsqu'elles sont plus éloignés.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img8.bmp)
+
+$\overline{\left.\right) \mathcal{A}_{1} = \mathcal{A}_{2} }$
+
+### 3-3/ Loi des périodes
+
+Pour toute planète du système solaire, le rapport entre le carré de la période de révolution et le cube du demi grand axe est constant :
+
+$\overline{\left.\right) \frac{T^{2}}{a^{3}} = C t e }$
+
+Cette valeur dépend que du soleil, on remplace $r$ par $a$ lorsque la trajectoire est circulaire.
+
+## IV- Étude du mouvement d'une planète et d'un satellite
+
+### 4-1/ Rappel sur la loi d'attraction universelle
+
+La loi universelle de la gravitation ou loi de l'attraction universelle, découverte par Isaac Newton, est la loi décrivant la gravitation comme une force responsable de la chute des corps et du mouvement des corps célestes, et de façon générale, de l'attraction entre des corps ayant une masse, par exemple les planètes, les satellites naturels ou artificiels.
+
+Lorsqu'il y a une interaction entre deux corps $A$ et $B$, le corps $A$ exerce une force sur le corps $B$, on la note $\left(\overset{\rightarrow}{F}\right)_{A / B}$, et le corps $B$ exerce une force de même intensité $\left(\overset{\rightarrow}{F}\right)_{B / A}$, ces deux vecteurs sont liés vectoriellement par la relation suivante :
+
+$\overline{\left.\right)\left(\overset{\rightarrow}{ F}\right)_{A / B} = - \left(\overset{\rightarrow}{F}\right)_{B / A} = - G \frac{m_{A} m_{B}}{d^{2}} \overset{\rightarrow}{u} \overset{\rightarrow}{_{A B}} }$
+
+$G$ est la constante de gravitation universelle elle vaut $6 , 67 \times 10^{- 11} N . m^{2} . k g^{- 2}$
+
+$d = A B$ est la distance qui les sépare.
+
+### 4-2/ Étude du mouvement d'une planète autour du soleil
+
+La planète de masse $m$, est soumise qu'à la force d'attraction appliquée par le soleil :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img9.jpg)
+
+D'après la 2ème loi de Newton :
+
+$\sum_{}^{} \overset{\rightarrow}{F} = m \overset{\rightarrow}{a} \\ \\ \Rightarrow G \frac{M_{s} . m}{r^{2}} \overset{\rightarrow}{n} = m \overset{\rightarrow}{a} \\ \\ \Rightarrow \overline{\left.\right)\overset{\rightarrow}{a} = \frac{G . M_{s}}{r^{2}} \overset{\rightarrow}{n}}$
+
+Puisque le trajectoire est curviligne, alors d'après la relation de Frenet on aura :
+
+$\overset{\rightarrow}{a} = \frac{G . M_{s}}{r^{2}} \overset{\rightarrow}{n} = \frac{d v}{d t} \overset{\rightarrow}{u} + \frac{v^{2}}{r} \overset{\rightarrow}{n} \\ \\ \Rightarrow \left{\begin{matrix} \frac{d v}{d t} = 0 \\ \frac{v^{2}}{r} = \frac{G . M_{s}}{r^{2}} \overset{\rightarrow}{n} \end{matrix}\right \\ \\ \Rightarrow \overline{\left.\right)v = \sqrt{\frac{G . M_{s}}{r}}}$
+
+Par suite le mouvement est circulaire uniforme, sa période est :
+
+$T = \frac{2 \pi}{\omega} = \frac{2 πr}{v} = \frac{2 πr}{\sqrt{\frac{G . M_{s}}{r}}} \\ \\ T^{2} = \frac{4 \pi^{2} r^{2}}{\frac{G . M_{s}}{r}} = \frac{4 \pi^{2} r^{3}}{G . M_{s}} \\ \\ \overline{\left.\right)\frac{T^{2}}{r^{3}} = \frac{4 \pi^{2}}{G . M_{s}} = C t e}$
+
+D'où la constance du rapport $\frac{T^{2}}{r^{3}}$ d'après la loi de Kepler.
+
+### 4-3/ Étude du mouvement d'un satellite en orbite
+
+Dans le référentiel géocentrique, étudions le mouvement, du centre d'inertie $G$ d'un satellite de la Terre, animé d'un mouvement circulaire de rayon $R$ (distance du satellite au centre de la Terre) :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img10.bmp)
+
+Le système (le satellite de masse $m$) est soumis à la force gravitationnelle centripète $\overset{\rightarrow}{F}$ exercée par la Terre de masse $M_{T}$ :
+
+Le référentiel géocentrique est galiléen, donc :
+
+$\sum_{}^{} \overset{\rightarrow}{F} = m \overset{\rightarrow}{a_{G}} \\ \\ \Rightarrow G \frac{M_{T} . m}{R^{2}} \overset{\rightarrow}{n} = m \overset{\rightarrow}{a_{G}} \\ \\ \Rightarrow \overline{\left.\right)\overset{\rightarrow}{a_{G}} = \frac{G . M_{T}}{R^{2}} \overset{\rightarrow}{n}}$
+
+Le vecteur accélération est centripète et sa valeur constante : le mouvement circulaire est donc uniforme de vitesse $v_{G}$ telle que :
+
+$a_{G} = \frac{\left(v_{G}\right)^{2}}{R} = G . \frac{M_{T}}{R^{2}}$
+
+Nous déduisons de cette égalité l'expression de la valeur de la vitesse :
+
+$v_{G} = \sqrt{\frac{G . M_{T}}{R}} = \sqrt{\frac{G . M_{T}}{R_{T} + h}}$
+
+où $R_{T}$ est le rayon terrestre et $h$ l'altitude du satellite.
+
+La durée $T$ pour effectuer un tour, ou période de révolution, est égale à la longueur de la circonférence divisée par la valeur de la vitesse :
+
+$T = \frac{2 \pi R}{v_{G}} = 2 \pi \sqrt{\frac{R^{3}}{G . M_{T}}} ; \left(R = R_{T} + h\right)$
+
+En élevant cette expression au carré, on retrouve la troisième loi de KEPLER :
+
+$\overline{\left.\right)\frac{T^{2}}{R^{3}} = \frac{4 \pi^{2}}{G . M_{T}} = C t e}$
+
+### 4-4/ Les satellites géostationnaires
+
+Considérons un satellite qui gravite, dans le référentiel géocentrique, sur une orbite circulaire, dans le plan de l'équateur terrestre et dans le même sens de rotation que la Terre autour de son axe :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img11.bmp)
+
+Ce satellite est immobile par rapport à la Terre si sa période de révolution est égale à la période de rotation de la Terre autour de son axe.
+
+Dans ce cas, il reste continuellement sur la verticale du même lieu de l'équateur (sur le rayon passant par ce lieu) : il est géostationnaire.
+
+Calculons son altitude :
+
+$T = 2 \pi \sqrt{\frac{R^{3}}{G . M_{T}}} = 86 164 s \\ \\ T^{2} = \frac{4 \pi^{2} R^{3}}{G . M_{T}} \\ \\ R = \sqrt[3]{\frac{T^{2} G . M_{T}}{4 \pi^{2}}} = 42 000 K m \\ \\ h = R - R_{T} \approx 36 000 K m$
+
+#### Conclusion
+
+Dans le référentiel terrestre, les satellites géostationnaires évoluent sur une trajectoire circulaire, située dans le plan de l'équateur, à une altitude voisine de $36 000 K m$.
+
+Ils tournent dans le même sens que la Terre.
+
+Ils ont une période de révolution d'un jour sidéral, soit $86 164 s$.
+
+## V- L'impesanteur
+
+Un objet ou une personne en état d'impesanteur paraissent ne plus être soumis aux effets de la pesanteur.
+
+L'impesanteur se produit dans les véhicules spatiaux satellisés autour de la Terre :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s22/img12.bmp)
+
+Le centre d'inertie du véhicule spatial et le centre d'inertie du cosmonaute ont la même accélération : $\overset{\rightarrow}{a} = \frac{G . M_{T}}{R^{2}} \overset{\rightarrow}{n}$
+
+Le cosmonaute ne ressent plus la pesanteur, car il a le même mouvement que sa cabine. Il semble « flotter ».

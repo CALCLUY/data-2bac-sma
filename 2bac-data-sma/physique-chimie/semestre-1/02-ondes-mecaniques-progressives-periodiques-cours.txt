@@ -1,0 +1,124 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Ondes mécaniques progressives périodiques
+Type: Cours
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+
+Séance 2 (Les ondes mécaniques progressives périodiques)
+
+Professeur : Mr El GOUFIFA Jihad
+
+## I- Ondes mécaniques progressives périodiques
+
+### 1-1/ Définition
+
+Une onde est périodique si elle se répète identiquement à elle-même pendant des mêmes intervalles de temps appelés période T.
+
+Elle est dite sinusoïdale si sa variation est une sinusoïde en fonction du temps et l'élongation d'un point du milieu de propagation s'écrit de la manière suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img1.jpg)
+
+$\overline{\left.\right)x \left(\right. t \left.\right) = A c o s \left(\right. \frac{2 \pi}{T} t + \varphi \left.\right)}$
+
+- $x(t)$ : L'élongation à un instant $t$. (m)
+- $A$ : L'amplitude (élongation maximale). (m)
+- $T$ : La période (périodicité temporaire). (s)
+- $\varphi$ : La phase à l'origine, elle se détermine à partir des conditions initiales. (rad)
+
+### 1-2/ Exemples
+
+## II- Exemples d'ondes mécaniques progressives périodiques
+
+### 2-1/ Onde progressive le long d'une corde
+
+#### Expérience
+
+On utilise une corde élastique tendue horizontalement par un corps suspendu comme l'indique la figure suivante.
+
+La corde est attachée en S au bout d'une lame vibrante dont le mouvement est entretenu par un électro-aimant alimenté par un courant alternatif.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : j2-3.gif)
+
+#### Définition de la longueur d'onde
+
+$\overline{\left.\right)\lambda = \nu T = \frac{\nu}{\upsilon}}$
+
+### 2-2/ Onde progressive à la surface de l'eau
+
+#### Onde circulaire
+
+[FORMULA_IMAGE_UNREADABLE] (figures : s2/img5.jpg, s2/img6.jpg)
+
+#### Onde rectiligne
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img7.jpg)
+
+### 2-3/ Ondes sonores et ultrasonores
+
+#### Ondes sonores
+
+Les ondes sonores sont des ondes mécaniques longitudinales qui se produisent lorsque la vibration d'un corps se propage dans un milieu environnant.
+
+La célérité d'une onde sonore est d'autant plus grande que la densité du milieu est élevée
+
+$\overline{\left.\right)\nu_{g a z} < \nu_{l i q u i d e} < \nu_{s o l i d e}}$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img8.png)
+
+#### Ondes ultrasonores
+
+Les ondes ultrasonores sont des ondes sonores dont la fréquence est supérieure à 20kHz, ils sont inaudibles et ils se réfléchissent partiellement sur un obstacle.
+
+## III- Détermination expérimentale de la vitesse de propagation
+
+### 3-1/ Comparaison du mouvement de deux points du milieu de propagation
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img9.bmp)
+
+- On a $M_{1} M_{3} = 2 \lambda$ donc $M_{1}$ et $M_{3}$ vibrent en phase
+- On a $M_{1} M_{4} = 3 \lambda$ donc $M_{1}$ et $M_{4}$ vibrent en phase
+
+En général, deux points M et M' du milieu de propagation vibrent en phase si la distance qui les sépare est un multiple de la longueur d'onde : $\overline{\left.\right)M M ' = k . \lambda \left(\right. k \in \mathbb{N} \star \left.\right)}$
+
+- On a $M_{1} M_{1} ' = \left(\lambda\right)/2$ donc $M_{1}$ et $M_{1} '$ vibrent en opposition de phase
+- On a $M_{1} M_{3} ' = 5 . \left(\lambda\right)/2$ donc $M_{1}$ et $M_{3} '$ vibrent en opposition de phase
+
+En général, deux points M et M' du milieu de propagation vibrent en opposition de phase si la distance qui les sépare est un nombre impair de la demi-longueur d'onde : $\overline{\left.\right)MM ' = \left(\right. 2 k + 1 \left.\right) . \left(\lambda\right)/2 \left(\right. k \in \mathbb{N} \star \left.\right)}$
+
+### 3-2/ Expérience des deux microphones
+
+Pour déterminer la vitesse de propagation du son émis par un haut-parleur dans l'air on utilise le montage suivant :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img10.png)
+
+Après avoir activé le haut parleur on visualise sur l'écran de l'oscilloscope le signal correspondant à chacun des microphones M1 et M2.
+
+Lorsque les deux microphones sont placés côte à côte face au haut parleur et à la même distance de lui, les deux signaux correspondant à M1 et à M2 sont en phase.
+
+Pour un son de fréquence de 103Hz émis, on laisse le microphone M1 à sa place et on déplace le microphone M2 lentement et parallèlement à l'axe du haut-parleur.
+
+On indique la distance d chaque fois que les deux signaux sont en phase et on obtient les résultats suivants : 34cm – 68cm – 102cm – 136cm.
+
+Or deux points du milieu de propagation vibrent en phase si la distance qui les sépare est un multiple de la longueur d'onde : $\overline{\left.\right)d = k . \lambda}$
+
+Donc la longueur de l'onde sonore émise par le haut-parleur est : $\overline{\left.\right)\lambda = 34 cm}$
+
+## IV- Phénomène de diffraction
+
+### 4-1/ Définition
+
+Le phénomène de diffraction est caractéristique des ondes. Il se manifeste lorsque les dimensions d'une ouverture ou d'un obstacle sont inférieures ou de l'ordre de grandeur de la longueur d'onde : $\left(a \approx \lambda\right)$.
+
+C'est la modification de la forme d'une onde passant par une ouverture de largeur $a \leq \lambda$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img11.jpg)
+
+### 4-2/ Onde diffractée à la surface de l'eau
+
+On utilise une cuve à onde munie d'une plaque vibrante devant laquelle on place un diaphragme comportant une ouverture de largeur $a$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s2/img12.jpg)

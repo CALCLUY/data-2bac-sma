@@ -1,0 +1,90 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2018 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية – خيار فرنسية
+الدورة الاستدراكية 2018 - عناصر الإجابة -
+RR 30 F
+المادة: الفيزياء والكيمياء
+الشعبة أو المسلك: شعبة العلوم الرياضية "أ" و"ب" – خيار فرنسية
+مدة الإنجاز: 4
+المعامل: 7
+
+[NOTE : document officiel « عناصر الإجابة » — tableau de barème et éléments de réponse, et non une correction rédigée.]
+
+## Chimie (7 points)
+
+| Question | Eléments de réponse | Barème | Référence de la question dans le cadre de référence |
+| --- | --- | --- | --- |
+| Partie I | | | |
+| 1-1 | Tableau d'avancement | 0,5 | Dresser le tableau d'avancement d'une réaction et l'exploiter. |
+| 1-2 | Aboutir à C0/2 ; t1/2 = 4 semaines | 0,5 / 0,25 | Définir le temps de demi-réaction t1/2. Déterminer le temps de demi-réaction graphiquement ou en exploitant des résultats expérimentaux. |
+| 1-3 | Démarche ; v = 2,1.10-2 mol.L-1.semaine-1 | 0,25 / 0,25 | Connaître l'expression de la vitesse volumique de réaction. Déterminer graphiquement la valeur de la vitesse volumique de réaction. |
+| 1-4 | θ2 > θ1 | 0,25 | Connaître l'influence de la concentration des réactifs et de la température sur la vitesse volumique de réaction. |
+| 2-1 | Equation de la réaction. | 0,5 | Ecrire l'équation de la réaction modélisant une transformation acido-basique et identifier les deux couples intervenants. |
+| 2-2 | C = 10-pH.(1 + 10-pH/KA) ; C = 2.10-4 mol.L-1 | 0,5 / 0,25 | Ecrire et utiliser l'expression de la constante d'acidité KA associée à l'équation de la réaction d'un acide avec l'eau. |
+| 2-3 | Aboutir à l'expression. | 0,5 | |
+| 2-4-1 | La courbe est associée à la forme acide. | 0,25 | Exploiter le diagramme de prédominance et de distribution des espèces acides et basiques présentes en solution aqueuse. |
+| 2-4-2 | HClO qui prédomine ; justification | 0,25 / 0,25 | Indiquer l'espèce prédominante connaissant le pH d'une solution aqueuse et le pKA du couple acide/base. |
+| 2-5-1 | Méthode ; K = 5.106 | 0,25 + 0,25 | Déterminer la constante d'équilibre associée à l'équation d'une réaction acido-basique à l'aide des constantes d'acidité des couples en présence. |
+| 2-5-2 | [HClO]éq/[ClO-]éq = 1 ; conclusion. | 0,25 + 0,25 | |
+
+## Physique (13 points)
+
+### Exercice 1 — Ondes (2,25 points)
+
+| Question | Eléments de réponse | Barème | Référence de la question dans le cadre de référence |
+| --- | --- | --- | --- |
+| 1-1 | Définition. | 0,25 | Définir une onde progressive sinusoïdale, la période, la fréquence et la longueur d'onde. |
+| 1-2 | b | 0,25 | Connaître et exploiter la relation λ = v.T. Connaître les limites des longueurs d'onde dans le vide, du spectre visible et les couleurs correspondantes. |
+| 1-3 | Démarche ; v = 340 m.s-1 | 0,25 + 0,25 | Exploiter des documents expérimentaux et des données pour déterminer : une distance, un retard temporel, une célérité. |
+| 2 | ℓ2 = vc.(t2 − t1)/2 ; ℓ2 = 38,5 mm. | 0,25 / 0,25 | |
+| 3-1 | Même longueur d'onde. | 0,25 | Connaître les caractéristiques de l'onde diffractée. |
+| 3-2 | S = λ.r/a ; S = 13,1 cm. | 0,25 + 0,25 | Connaître et exploiter la relation θ = λ/a et connaître l'unité et la signification de θ et λ. |
+
+### Chimie — Partie II : Accumulateur Argent / Fer
+
+| Question | Eléments de réponse | Barème | Référence de la question dans le cadre de référence |
+| --- | --- | --- | --- |
+| 1 | 2Ag+(aq) + Fe(s) → 2Ag(s) + Fe2+(aq). | 0,5 | Ecrire les équations des réactions aux électrodes (avec double flèche) et l'équation bilan lors du fonctionnement de la pile (avec une seule flèche). |
+| 2 | Aboutir à l'expression. | 0,5 | Etablir la relation entre les quantités de matière des espèces formées ou consommées, l'intensité du courant et la durée de fonctionnement de la pile. |
+| 3 | td = 1,29.104 s ; [Fe2+(aq)]f = 0,3 mol.L-1. | 0,25 / 0,25 | Utiliser cette relation pour déterminer d'autres grandeurs (quantité d'électricité, avancement de la réaction, variation de masse…). |
+
+### Exercice 2 — Electricité (5,25 points)
+
+| Question | Eléments de réponse | Barème | Référence de la question dans le cadre de référence |
+| --- | --- | --- | --- |
+| I-1-1 | Equation différentielle. | 0,25 | Connaître et exploiter l'expression de la tension u = r.i + L.di/dt aux bornes d'une bobine en convention récepteur. Etablir l'équation différentielle et vérifier sa solution lorsque le dipôle RL est soumis à un échelon de tension. |
+| 1-2 | i(t) = (E/(R + r)).[1 − e−((R+r)/L).t] | 0,5 | Déterminer l'expression de l'intensité du courant i(t) lorsque le dipôle RL est soumis à un échelon de tension et en déduire l'expression de la tension aux bornes de la bobine et aux bornes du conducteur ohmique. |
+| 1-3-1 | R1 = 8 Ω, r = 4 Ω. | 0,25 / 0,25 | Reconnaître et représenter les courbes de variation, en fonction du temps, de l'intensité du courant i(t) passant dans la bobine et les grandeurs qui lui sont liées et les exploiter. |
+| 1-3-2 | Démarche | 0,5 | Connaître et exploiter l'expression de la constante de temps. |
+| 2-1 | Démarche | 0,25 | Connaître et exploiter l'expression de l'énergie électrique emmagasinée dans un condensateur, de l'énergie magnétique emmagasinée dans une bobine et de l'énergie totale du circuit. |
+| 2-2 | Démarche ; C = 2 μF, U0 = 20 V. | 0,25 / 0,25 / 0,25 | Connaître et exploiter les diagrammes d'énergie. Connaître et exploiter l'expression de la période propre. |
+| II-1 | Np = 2.105 Hz | 0,25 | Savoir qu'une modulation d'amplitude est de rendre l'amplitude du signal modulé fonction affine de la tension modulante. |
+| 2 | b | 0,5 | Connaître les conditions à remplir pour éviter la surmodulation. |
+| 3 | Les conditions sont vérifiées ; justification | 0,25 + 0,25 | Connaître les conditions permettant d'obtenir une modulation d'amplitude et une détection d'enveloppe de bonne qualité. |
+| 4 | us(t) = 3.cos(4.105.t) + 0,6.cos(4,08.105.t) + 0,6.cos(3,92.105.t) ; spectre | 0,25 / 0,5 | Connaître et exploiter le spectre de fréquences. |
+| 5 | Ne peut pas la détecter ; justification | 0,25 + 0,25 | Connaître le rôle sélectif du circuit bouchon LC pour la tension modulée. |
+
+### Exercice 3 — Mécanique (5,5 points)
+
+| Question | Eléments de réponse | Barème | Référence de la question dans le cadre de référence |
+| --- | --- | --- | --- |
+| Partie I 1-1 | Aboutir à l'équation différentielle | 0,5 | Appliquer la deuxième loi de Newton pour établir l'équation différentielle du mouvement du centre d'inertie d'un système sur un plan horizontal ou incliné et déterminer les grandeurs cinématiques et dynamiques caractéristiques du mouvement. |
+| 1-2-1 | aG = 0,5 m.s-2. | 0,25 | Exploiter le diagramme de la vitesse vG = f(t). |
+| 1-2-2 | F = 4,25.102 N | 0,25 | |
+| 1-3 | k = (f − m.g.cos β)/(F.sin(α − β)) … ; k = 0,28. | 0,25 / 0,25 | |
+| 2-1 | x(t) = 9,2.t ; y(t) = −4,9.t2 − 3,9.t | 0,25 / 0,25 | Appliquer la deuxième loi de Newton dans le cas d'un projectile pour établir les équations différentielles du mouvement, en déduire les équations horaires et les exploiter. |
+| 2-2 | Déduction de l'équation de la trajectoire. | 0,5 | Trouver l'équation de la trajectoire et établir les expressions de la portée et la flèche et les exploiter. |
+| 2-3 | Méthode ; SB = 34,6 m. | 0,25 / 0,25 | |
+| Partie II 1-1 | Aboutir à Epp = m.g.ℓ.θ2/2 | 0,5 | Exploiter les diagrammes d'énergie. Exploiter l'expression de l'énergie potentielle de pesanteur et l'expression de l'énergie cinétique pour déterminer l'énergie mécanique du pendule pesant dans le cas de faibles oscillations. |
+| 1-2 | Em = 4,7.10-4 J. | 0,25 | |
+| 1-3 | Démarche ; θ̈ + (g/ℓ).θ = 0. | 0,25 / 0,25 | Exploiter la conservation de l'énergie mécanique du pendule pesant dans le cas de faibles oscillations. |
+| 2-1 | T0 = 2π.√(ℓ/g) ; vérification. | 0,25 / 0,25 | Connaître l'expression de la période propre d'un pendule simple. |
+| 2-2 | T0 = 1 s ; n = 20. | 0,25 / 0,25 | |
+| 3 | Aboutir à l'expression. | 0,25 | |

@@ -1,0 +1,74 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes - Cours (Partie 5)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes  Cours (Partie 5)
+Professeur : Mr BAHSINA Najib
+
+1/4
+
+## Sommaire
+
+### IV- L’importance du Crossing-over dans l’établissement de la carte factorielle
+
+#### 4-1/ Relation entre le taux de recombinaison et la distance entre deux gènes
+
+#### 4-2/ Carte factorielle
+
+* * *
+
+2/4
+
+### IV- L’importance du Crossing-over dans l’établissement de la carte factorielle
+
+#### 4-1/ Relation entre le taux de recombinaison et la distance entre deux gènes
+
+##### Mesure de la distance entre deux gènes et réalisation de la carte factorielle
+
+Morgan et ses collaborateurs ont pu supposer que plus deux gènes sont éloignés l'un de l'autre, plus le taux de recombinaison qu'ils présentent est élevé et plus ils sont rapprochés, plus ce taux est faible.
+
+Ainsi, le pourcentage de recombinaison existant entre deux gènes liés reflète exactement la distance qui les sépare.
+
+Morgan a pu mesurer la distance relative entre deux gènes liés et établir des cartes factorielles ou génétiques.
+
+II a utilisé une unité de mesure de cette distance qu’il nomma centimorgan (cMg) :
+
+1 cMg = 1% de recombinaisons.
+
+3/4
+
+### IV- L’importance du Crossing-over dans l’établissement de la carte factorielle
+
+#### 4- 2/ La carte factorielle
+
+##### Mesure de la distance entre deux gènes et réalisation de la carte factorielle
+
+Prenons le cas d'un individu de génotype N/t et R/b (forme des ailes  et la couleur des yeux). dont ces deux gènes sont portés par la même paire de chromosomes homologues, l'un des chromosomes portant les allèles N et R (dominants), l'autre les allèles t et b (récessifs).
+
+Cet individu présente donc le phénotype double dominant :ailes normales et aux yeux rouges [N, R] :
+
+Back cross : croisement entre  une drosophile femelle de la génération F1 ailes normales et aux yeux rouges avec un mâle double homozygote récessive (ailes tronqués et yeux bruns).
+
+Ce croisement donne une descendance (F2) composée de:
+
+- Les phénotypes  parentaux :
+
+                  –  39.81% drosophiles à ailes normales et aux yeux rouges.
+
+               –  38.83% drosophiles à ailes tronques et aux yeux bruns.
+
+- Les phénotypes recombinés :
+
+              –  10.58%  drosophiles à ailes normales et aux yeux bruns.
+
+              –  10.78%  drosophiles à ailes tronques et aux yeux rouges
+
+[Figure — image : carte factorielle / calcul de la distance entre les deux gènes]
+
+4/4

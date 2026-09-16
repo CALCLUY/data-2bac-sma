@@ -1,0 +1,189 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Examens Nationaux
+Sujet: 2025 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+المركز الوطني للامتحانات المدرسية وتقييم التعلمات
+الامتحان الوطني الموحد للبكالوريا
+المسالك الدولية
+الدورة العادية 2025
+– عناصر الإجابة –
+
+NR - 36F
+المادة : علوم الحياة والأرض
+الشعبة أو المسلك : شعبة العلوم الرياضية مسلك العلوم الرياضية (أ) (خيار فرنسية)
+مدة الإنجاز : 2h
+المعامل : 3
+
+| Question | Eléments de réponse | Barème |
+|---|---|---|
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I - 1 - Accepter toute définition correcte, à titre d'exemple : (1 pt)
+
+a. Fréquence : le nombre d'individus qui ont le même phénotype du caractère quantitatif mesuré dans un échantillon. (0.5 pt)
+
+b. Variation continue : variation quantitative où la variable peut prendre n'importe quelle valeur de son intervalle de variation. (0.5 pt)
+
+2 - Accepter deux exemples corrects de : (1 pt)
+
+a. Variation discontinue : (0.5 pt)
+- Nombre de graines par épi de maïs ;
+- Nombre d'œufs pondus par une poule par mois.
+
+b. Paramètres de position en biométrie : (0.5 pt)
+- Le mode ;
+- La moyenne arithmétique.
+
+II - (1 : b) ; (2 : b) ; (3 : d) ; (4 : c) (0.5 pt × 4) — 2 pts
+
+III - (a : faux) ; (b : faux) ; (c : faux) ; (d : vrai) (0.25 pt × 4) — 1 pt
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 : (7 pts)
+
+1 - La génération que représente chacun des deux mycéliums "B" et "D" dans le cycle de vie du parasite avec justification : (1 pt)
+
+- Mycélium "B" : génération sporogène car il produit les spores (d) qui germent pour donner la génération gamétogène. (0.5 pt)
+- Mycélium "D" : génération gamétogène car il produit les gamètes (a) et (a') qui fusionnent pour donner le zygote (b). (0.5 pt)
+
+2 - Schéma du cycle de développement du parasite : (0.75 pt)
+
+[Figure — schéma du cycle : Mycélium B (2n) → Méiose → d (spores) → A → Mycélium D (n) → gamètes a et a' → Fécondation → b (zygote) → C → Mycélium B]
+
+3 - Cycle chromosomique du parasite : (0.75 pt)
+
+[Figure — schéma : Mycélium B (2n) — Diplophase ; Méiose → d ; Mycélium D (n) — Haplophase ; gamètes a et a' ; Fécondation → b]
+
+Type de cycle : cycle haplodiplophasique. (0.25 pt) — 1 pt
+
+4 - a. Mode de transmission des deux caractères étudiés : (2.25 pts)
+
++ Relation de dominance entre les allèles des deux gènes :
+
+- Pour le gène bent : La génération F2 se compose de 3/4 d'individus avec des ailes le long du corps, donc l'allèle responsable des ailes le long du corps est dominant et l'allèle responsable des ailes écartées est récessif. (0.25 pt)
+
+- Pour le gène Aristaless : La génération F2 se compose de 3/4 d'individus avec des antennes longues, donc l'allèle responsable des antennes longues est dominant et l'allèle responsable des antennes courtes est récessif. (0.25 pt)
+
++ Emplacement relatif des deux gènes :
+
+La troisième série de croisements est un ensemble de test-cross qui a donné une génération F2' dont la moitié des individus ont des phénotypes parentaux et l'autre moitié ont des phénotypes recombinés, donc les deux gènes sont indépendants. (0.5 pt)
+
++ Chromosomes portant les gènes :
+
+La génération F1 est toujours uniforme (quel que soit le sexe des parents) donc les deux gènes étudiés sont autosomaux. (0.5 pt)
+
+b. Déduction des génotypes des individus :
+
+P1 : B//B a//a ; P2 : b//b A//A ; F1 : B//b A//a. (0.25 pt × 3)
+
+5 - Interprétation chromosomique des résultats des croisements : (2 pts)
+
+- Troisième série de croisements : Les individus [B, A] sont des hybrides.
+
+Phénotypes : [B, A] × [b, a]
+Génotypes : B//b A//a × b//b a//a
+Gamètes : ¼ B/A/ ; ¼ B/a/ ; ¼ b/A/ ; ¼ b/a/ × 1 b/a/ (0.25 pt)
+
+Échiquier de croisement : (0.25 pt)
+
+| Gamètes | ¼ B/A/ | ¼ B/a/ | ¼ b/A/ | ¼ b/a/ |
+|---|---|---|---|---|
+| 1 b/a/ | ¼ B//b A//a [B, A] | ¼ B//b a//a [B, a] | ¼ b//b A//a [b, A] | ¼ b//b a//a [b, a] |
+
+F2' : ¼ [B, a] ; ¼ [b, A] ; ¼ [B, A] ; ¼ [b, a] (0.25 pt)
+
+- Quatrième série de croisements : Les individus [B, A] sont hétérozygotes pour la forme des ailes seulement.
+
+Phénotypes : [B, A] × [b, a]
+Génotypes : B//b A//A × b//b a//a
+Gamètes : ½ B/A/ ; ½ b/A/ × 1 b/a/ (0.25 pt)
+
+Échiquier de croisement : (0.25 pt)
+
+| Gamètes | ½ B/A/ | ½ b/A/ |
+|---|---|---|
+| 1 b/a/ | ½ B//b A//a [B, A] | ½ b//b A//a [b, A] |
+
+F2" : ½ [B, A] ; ½ [b, A] (0.25 pt)
+
+### Exercice 2 : (3 pts)
+
+1 - L'allèle morbide est récessif (Accepter tout raisonnement correct, à titre d'exemple) :
+
+Le couple II 1, II 2 est sain et il a un garçon III 1 atteint. (0.25 pt) — 0.25 pt
+
+2 - Le chromosome qui porte le gène étudié : le chromosome X. (0.25 pt)
+
+Justification (Accepter toute justification correcte, à titre d'exemple) : Les individus II 1, III 1 et III 2 sont des hommes (doc 1) et portent un seul allèle du gène étudié (doc 2) alors que l'individu II 6 est une femme (doc 1) qui porte deux allèles du même gène (doc 2). (0.25 pt) — 0.5 pt
+
+3 - Les génotypes des individus I 2 et III 3 : — 0.5 pt
+
+- I 2 : $X^A X^a$ femme saine qui a un fils atteint. (0.25 pt)
+- III 3 : $X^A X^A$ ou $X^A X^a$ femme saine qui a un frère atteint (sa mère est porteuse). (0.25 pt)
+
+4 - L'apparition de la maladie est inattendue chez l'individu III 7 car : — 1 pt
+
+- le père II 5 est atteint, son génotype est $X^a Y$. (0.25 pt)
+- la mère II 6 a un génotype $X^A X^A$ d'après les résultats de l'analyse de l'ADN. (0.25 pt)
+- Échiquier de croisement : (0.25 pt)
+
+| Gamètes II 6 \ Gamètes II 5 | ½ $X^a$ | ½ Y |
+|---|---|---|
+| 1 $X^A$ | ½ $X^A X^a$ [A] | ½ $X^A Y$ [A] |
+
+- Le pourcentage d'avoir des descendants atteints pour ce couple est nul. (0.25 pt)
+
+5 - Schéma explicatif de l'apparition de la maladie chez l'individu III 7 (Accepter tout schéma explicatif correct) : (0.75 pt)
+
+[Figure — schéma : Père II 5 ($X^a Y$) → Méiose normale → gamète $X^a$ ; Mère II 6 ($X^A X^A$) → Méiose anormale (non-disjonction) → gamète sans chromosome X ; Fécondation → Fille III 7 de génotype $X^a$O, atteinte]
+
+### Exercice 3 : (5 pts)
+
+1 - Description : — 1 pt
+
+- Dans la zone A la fréquence de l'allèle R est égale à 0.75 et celle de l'allèle S est égale à 0.25. (0.25 pt)
+- Dans la zone B la fréquence de l'allèle R est égale à 0.05 et celle de l'allèle S est égale à 0.95. (0.25 pt)
+
+Déduction : il s'agit de deux populations différentes de Choquemort. (0.25 pt)
+
+Justification : les fréquences alléliques sont différentes entre les deux échantillons. (0.25 pt)
+
+2 - Calcul des fréquences des allèles R et S : (0.25 pt × 2) — 1 pt
+
+| Allèles | Au début de la culture | Après plusieurs générations |
+|---|---|---|
+| R | 0.02 | 0.98 |
+| S | 0.98 | 0.02 |
+
+- Effet du milieu sur la structure génétique de la population de Choquemort :
+
+Au début de la culture, la fréquence de l'allèle R était trop faible par rapport à celle de l'allèle S. Au fil des générations la fréquence de l'allèle S a diminué et celle de l'allèle R a augmenté. Donc la présence des polluants dans le milieu agit sur la structure génétique de la population. (0.5 pt)
+
+3 - Comparaison : — 0.75 pt
+
++ L'échantillon de la zone A : le taux de survie des alevins, en présence des hydrocarbures (90 %) est proche de leur taux de survie en absence des polluants (100 %). (0.25 pt)
+
++ L'échantillon de la zone B : le taux de survie des alevins en présence des hydrocarbures (10 %) est très faible par rapport à leur taux de survie en absence des polluants (100 %). (0.25 pt)
+
+Déduction : Les individus de l'échantillon A sont faiblement sensibles aux hydrocarbures et les individus de l'échantillon B sont fortement sensibles aux hydrocarbures. (0.25 pt)
+
+4 - Relation entre les allèles du gène AHR et la mort ou la survie des alevins dans le milieu pollué : — 1 pt
+
+- Les cellules portant l'allèle R ne synthétisent pas la protéine AHR dans le cytoplasme → Absence des complexes "protéines AHR-Polluants" dans ces cellules → Expression normale des gènes des cellules → Survie des alevins. (0.5 pt)
+
+- Les cellules portant l'allèle S synthétisent la protéine AHR dans le cytoplasme → Formation des complexes "protéines AHR-Polluants" dans ces cellules → Expression anormale des gènes des cellules → Mort des alevins. (0.5 pt)
+
+5 - Explication de la variation de la structure génétique des populations de Choquemort du littoral Est de l'Amérique du Nord et le facteur responsable : — 1.25 pt
+
+- Dans les zones littorales non polluées par les hydrocarbures → Conditions favorables à la survie des individus sensibles à ces polluants → Fréquence élevée des génotypes S//S → Fréquence élevée de l'allèle S par rapport à celle de l'allèle R. (0.5 pt)
+
+- Dans les zones littorales polluées par les hydrocarbures → Conditions défavorables à la survie des individus sensibles et sans effet sur les individus résistants à la pollution → Diminution de la fréquence du génotype S//S et augmentation de la fréquence du génotype R//R → diminution de la fréquence de l'allèle S et augmentation de la fréquence de l'allèle R. (0.5 pt)
+
+- Le facteur responsable de cette variation génétique est la sélection naturelle. (0.25 pt)

@@ -1,0 +1,166 @@
+---
+Type: Examen National
+Année: 2024
+Session: Normale
+Nature: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا — الدورة العادية 2024 — المركز الوطني للتقويم والامتحانات
+- الموضوع -
+شعبة العلوم الرياضية (أ) و (ب) (خيار فرنسية) — المادة : الرياضيات
+NS 24F — المعامل : 9 — مدة الإنجاز : 4h
+
+CONSIGNES :
+- La durée de l'épreuve est de 4 heures.
+- L'épreuve comporte cinq exercices indépendants.
+- Les exercices peuvent être traités selon l'ordre choisi par le candidat.
+- L'EXERCICE1 se rapporte à l'analyse ………..………..… (7.5 pts)
+- L'EXERCICE2 se rapporte à l'analyse ………..………..… (2.5 pts)
+- L'EXERCICE3 se rapporte aux nombres complexes......…. (3.5 pts)
+- L'EXERCICE5 se rapporte aux structures algébriques......(3.5 pts)
+- L'EXERCICE4 se rapporte à l'arithmétique ………….......(3 pts)
+
+L'usage de la calculatrice n'est pas autorisé
+L'usage de la couleur rouge n'est pas autorisé
+
+## EXERCICE 1 : (7.5 points)
+
+Soit $f$ la fonction numérique définie sur l'intervalle $\left[1 , +\infty\right[$ par :
+$f(1) = \dfrac{1}{2}$ et pour tout $x \in \left]1 , +\infty\right[$, $f(x) = \dfrac{\ln(x)}{x^{2} - 1}$ [FORMULA_IMAGE_UNREADABLE]
+
+Soit $(C)$ la courbe représentative de la fonction $f$ dans un repère orthogonal $\left(O , \overrightarrow{i} , \overrightarrow{j}\right)$
+
+0.5 — 1- Montrer que $f$ est continue à droite en $1$
+
+0.5 — 2- Calculer $\lim\limits_{x \to +\infty} f(x)$ puis interpréter graphiquement le résultat obtenu.
+
+0.25 — 3- a) Soit $x \in \left]1 , +\infty\right[$
+En posant : $t = (x - 1)^{2}$ [FORMULA_IMAGE_UNREADABLE], vérifier que : $\dfrac{x - 1 - \ln(x)}{(x - 1)^{2}} = \dfrac{t - \ln(1 + t)}{t^{2}}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) Montrer que $\left(\forall t \in \left]0 , +\infty\right[\right)$, $\dfrac{-1}{2} < \dfrac{t - \ln\left(1 + t\right)}{t} - 1 < \dfrac{-1}{2(1 + t)}$ [FORMULA_IMAGE_UNREADABLE]
+(On pourra utiliser le théorème des accroissements finis sur l'intervalle $\left[0 ; t\right]$)
+
+0.25 — c) En déduire que : $\lim\limits_{x \to 1^{+}} \dfrac{x - 1 - \ln(x)}{(x - 1)^{2}} = \dfrac{-1}{2}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — 4- a) Montrer que : $\forall x \in \left]1 , +\infty\right[$,
+$\dfrac{f(x) - \frac{1}{2}}{x - 1} = -\dfrac{\ln(x) - x + 1}{(x - 1)^{2}} \times \dfrac{1}{x + 1} + \dfrac{\ln(x) - \frac{1}{2}}{2(x - 1)}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) En déduire que $f$ est dérivable à droite en $1$ puis interpréter graphiquement le résultat obtenu.
+
+5- Pour tout $x \in \left[1 , +\infty\right[$ on pose $I(x) = \displaystyle\int_{1}^{x} \frac{t - 1}{t^{3}}\,dt$ [FORMULA_IMAGE_UNREADABLE] et $J(x) = \displaystyle\int_{1}^{x} \frac{t - 1}{t^{2}}\,dt$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — a) Montrer que : $\forall x \in \left[1 , +\infty\right[$, $0 \leq I(x) \leq J(x)$
+
+0.5 — b) Montrer que pour tout $x \in \left]1 , +\infty\right[$, $I(x) = \ln(x) - \dfrac{x^{2} - 1}{2x^{2}}$ [FORMULA_IMAGE_UNREADABLE] et $J(x) = \dfrac{(x - 1)^{2}}{x}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — c) Montrer que : $\forall x \in \left]1 , +\infty\right[$, $f'(x) = \dfrac{-2}{\left(x^{2} - 1\right)^{2}} \times \dfrac{I(x)}{J(x)}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — d) En déduire que : $\forall x \in \left]1 , +\infty\right[$, $-\dfrac{1}{2} \leq f'(x) \leq 0$
+
+0.25 — 6- a) Dresser le tableau de variations de la fonction $f$
+
+0.5 — b) Tracer la courbe $(C)$ (On prendra $\|\overrightarrow{i}\| = 1\,cm$ et $\|\overrightarrow{j}\| = 2\,cm$)
+
+0.5 — 7- Montrer que l'équation $f(x) = x - 1$ admet une unique solution $a$ dans $\left]1 , 2\right[$
+
+8- Soit $\left(a_{n}\right)_{n \in \mathbb{N}}$ la suite numérique définie par :
+$a_{0} \in \left[1 , +\infty\right[$ et pour tout $n \in \mathbb{N}$, $a_{n+1} = 1 + f\left(a_{n}\right)$
+
+0.5 — a) Montrer que : $\forall n \in \mathbb{N}$, $\left|a_{n+1} - a\right| \leq \dfrac{1}{2}\left|a_{n} - a\right|$
+
+0.5 — b) Montrer par récurrence que : $\left(\forall n \in \mathbb{N}\right)$, $\left|a_{n} - a\right| \leq \left(\dfrac{1}{2}\right)^{n}\left|a_{0} - a\right|$
+
+0.25 — c) En déduire que la suite $\left(a_{n}\right)_{n \in \mathbb{N}}$ est convergente.
+
+## EXERCICE 2 : (2.5 points)
+
+Soit $F$ la fonction numérique définie sur l'intervalle $\left[0 ; 1\right]$ par : $F(x) = \displaystyle\int_{0}^{x} e^{t^{2}}\,dt$
+
+0.5 — 1-a) Montrer que $F$ est continue, strictement croissante sur $\left[0 ; 1\right]$
+
+0.5 — b) En déduire que $F$ est une bijection de $\left[0 ; 1\right]$ vers $\left[0 ; \beta\right]$ avec $\beta = \displaystyle\int_{0}^{1} e^{t^{2}}\,dt$
+
+2- On note $F^{-1}$ la bijection réciproque de $F$
+
+Pour tout $n \in \mathbb{N}^{*}$, on pose : $S_{n} = \dfrac{1}{n}\displaystyle\sum_{k=0}^{k=n-1} F^{-1}\left(\dfrac{k}{n}\beta\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — a) Montrer que la suite $\left(S_{n}\right)_{n \in \mathbb{N}^{*}}$ est convergente de limite $\ell = \dfrac{1}{\beta}\displaystyle\int_{0}^{\beta} F^{-1}(t)\,dt$
+
+0.5 — b) Montrer que $\ell = \dfrac{1}{\beta}\displaystyle\int_{0}^{1} u\,e^{u^{2}}\,du$
+(On pourra effectuer le changement de variable $u = F^{-1}(t)$)
+
+0.5 — c) En déduire que : $\ell = \dfrac{e - 1}{2\beta}$
+
+## EXERCICE 3 : (3.5 points)
+
+Le plan complexe est rapporté à un repère orthonormé direct $\left(O , \overrightarrow{u} , \overrightarrow{v}\right)$
+
+On considère dans $\mathbb{C}$ l'équation d'inconnue $z$
+$\left(E_{\alpha}\right) : z^{2} - 2iz + \alpha = 0$ où $\alpha \in \mathbb{C}$ [FORMULA_IMAGE_UNREADABLE]
+
+### Partie I :
+
+0.25 — 1-a) Montrer que le discriminant de l'équation $\left(E_{\alpha}\right)$ est $\Delta = -4\left(1 + \alpha\right)$
+
+0.25 — b) Déterminer l'ensemble des valeurs $\alpha$ pour lesquelles l'équation $\left(E_{\alpha}\right)$ admette dans l'ensemble $\mathbb{C}$ deux solutions distinctes.
+
+0.5 — 2- On note $z_{1}$ et $z_{2}$ les deux solutions de l'équation $\left(E_{\alpha}\right)$. Déterminer $z_{1} + z_{2}$ et $z_{1}z_{2}$
+
+### Partie II :
+
+Soient $\Omega$, $M_{1}$ et $M_{2}$ les points d'affixes respectivement $\alpha$, $z_{1}$ et $z_{2}$
+
+1- On suppose que $\alpha = m^{2} - 2m$ avec $m \in \mathbb{R}$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — a) Déterminer $z_{1}$ et $z_{2}$ en fonction de $m$
+
+0.25 — b) En déduire que les points $O$, $M_{1}$ et $M_{2}$ sont alignés.
+
+2- On suppose que les points $O$, $M_{1}$ et $M_{2}$ ne sont pas alignés.
+
+0.25 — a) Montrer que $\dfrac{z_{1}}{z_{2}}$ est un imaginaire pur si et seulement si $\mathrm{Re}\left(\dfrac{z_{1}}{z_{2}}\right) = 0$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) Montrer que : $\left|z_{1} - z_{2}\right|^{2} = \left|z_{1}\right|^{2} + \left|z_{2}\right|^{2} - 4\,\mathrm{Re}\left(\dfrac{z_{1}}{z_{2}}\right)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.25 — c) En déduire que $\dfrac{z_{1}}{z_{2}}$ est un imaginaire pur si et seulement si $\left|z_{1} - z_{2}\right| = 2$
+
+0.25 — 3-a) Montrer que : $\left|z_{1}\right|\left|z_{2}\right| = \left|\alpha\right|$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) Déterminer l'ensemble $\Gamma$ des points $\Omega$ pour que le triangle $OM_{1}M_{2}$ soit rectangle en $O$
+
+## EXERCICE 4 : (3.5 points)
+
+On considère dans $\mathbb{C} \times \mathbb{C}$ la loi de composition interne $T$ définie par :
+$\left(\forall\left((a , b) , (c , d)\right) \in \left(\mathbb{C} \times \mathbb{C}\right)^{2}\right)$ ; $(a , b)\,T\,(c , d) = \left(ad + c , bd\right)$ [FORMULA_IMAGE_UNREADABLE]
+($\overline{d}$ étant le conjugué du nombre complexe $d$)
+
+0.5 — 1-a) Vérifier que $\left(i , 2\right)\,T\,\left(1 , i\right) = \left(2 , 2i\right)$ [FORMULA_IMAGE_UNREADABLE], puis calculer $\left(1 , i\right)\,T\,\left(i , 2\right)$
+
+0.25 — b) En déduire que la loi $T$ n'est pas commutative dans $\mathbb{C} \times \mathbb{C}$
+
+0.5 — 2- Montrer que la loi $T$ est associative dans $\mathbb{C} \times \mathbb{C}$
+
+0.25 — 3- Vérifier que $(0 , 1)$ est l'élément neutre pour $T$ dans $\mathbb{C} \times \mathbb{C}$
+
+0.5 — 4-a) Vérifier que $\left(\forall (a , b) \in \mathbb{C} \times \mathbb{C}\right)$ ; $(a , b)\,T\,\left(-\dfrac{a}{b} , \dfrac{1}{b}\right) = (0 , 1)$ [FORMULA_IMAGE_UNREADABLE]
+
+0.5 — b) Montrer que $\left(\mathbb{C} \times \mathbb{C}^{*} , T\right)$ est un groupe non commutatif.
+
+0.5 — 5-a) Montrer que $\mathbb{R} \times \mathbb{R}^{*}$ est stable par la loi de composition interne $T$
+
+0.5 — b) Montrer que $\mathbb{R} \times \mathbb{R}^{*}$ est un sous-groupe du groupe $\left(\mathbb{C} \times \mathbb{C}^{*} , T\right)$
+
+## EXERCICE 5 : (3 points)
+
+Soient $p$ et $q$ deux nombres premiers distincts et $r$ un entier naturel premier avec $p$ et avec $q$
+
+1 — 1- a) Montrer que $p$ divise $r^{p-1} - 1$ et que $q$ divise $r^{q-1} - 1$
+
+0.5 — b) En déduire que $p$ et $q$ divisent $r^{(p-1)(q-1)} - 1$
+
+0.5 — c) Montrer que $pq$ divise $r^{(p-1)(q-1)} - 1$
+
+1 — 2- Résoudre dans $\mathbb{Z}$ l'équation $x^{192} \equiv 2024 \ [221]$ [FORMULA_IMAGE_UNREADABLE] (On donne : $221 = 13 \times 17$)
+
+FIN

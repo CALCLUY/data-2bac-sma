@@ -1,0 +1,77 @@
+---
+Chapitre: Devoirs Corrigés
+Séance: Semestre 1 - Devoir 1 - Modèle 1
+Type: Devoir corrigé
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Semestre 1 Devoir 1 Modèle 1
+Professeur : Mr CHEDDADI Haitam
+
+### I- Exercice 1 (9 pts)
+
+##### Partie 1
+
+Considérons la fonction $g$ définie sur $\mathbb{R}$ par $g \left(x\right) = A r c \tan x + \frac{x}{1 + x^{2}}$
+
+1. Calculer $\underset{x \rightarrow + \infty}{lim} g \left(x\right)$ et $\underset{x \rightarrow - \infty}{lim} g \left(x\right)$
+
+2. Montrer que $g$ est dérivable en $0$ et donner la valeur de $g ' \left(0\right)$.
+
+3. Montrer que $g$ est une bijection de $\mathbb{R}$ vers un intervalle $J$ qu'on doit déterminer.
+
+4. Donner le signe de $g \left(x\right)$ pour tout $x \in \mathbb{R}$.
+
+##### Partie 2
+
+Considérons la fonction $f$ définie sur $\mathbb{R}$ par $f \left(x\right) = \left(x^{2} - 1\right) A r c \tan x + x$
+
+1. Calculer $\underset{x \rightarrow + \infty}{lim} f \left(x\right)$ et $\underset{x \rightarrow - \infty}{lim} f \left(x\right)$
+
+2. Montrer que $\left(\forall x \in \mathbb{R}\right) f ' \left(x\right) = 2 x g \left(x\right)$
+
+3. Déduire le signe de $f ' \left(x\right)$ pour tout $x \in \mathbb{R}$.
+
+4. Donner le tableau de variations de $f$.
+
+5. Étudier le signe de $f \left(x\right) - x$ pour tout $x \in \mathbb{R}$.
+
+##### Partie 3
+
+Considérons la suite $\left(u_{n}\right)$ définie par $u_{0} = a$ et $u_{n + 1} = f \left(u_{n}\right)$ avec $a \in \left] 0 ; 1 \right[$
+
+1. Montrer que $\left(\forall n \in \mathbb{N}\right) 0 < u_{n} < 1$
+
+2. Étudier la monotonie de $\left(u_{n}\right)$, puis déduire qu'elle est convergente.
+
+3. Déterminer la valeur de $\underset{n \rightarrow + \infty}{lim} u_{n}$
+
+### II- Exercice 2 (6 pts)
+
+Pour tout $n \in \mathbb{N} \star$, considérons la fonction $f_{n}$ définie sur $\left[0 ; 1\right]$ par $f_{n} \left(x\right) = x^{n} - 1 + A r c \tan x$.
+
+1. Montrer que $\left(\forall n \in \mathbb{N} \star\right) \left(\exists ! x_{n} \in \left] 0 ; 1 \right[\right) : f_{n} \left(x_{n}\right) = 0$
+
+2. Montrer que $x_{1} > \frac{1}{2}$
+
+Considérons la suite $\left(x_{n}\right)_{n \geq 1}$ définie tel que pour tout $n \in \mathbb{N} \star$ le terme $x_{n}$ désigne l'unique solution de l'équation $f_{n} \left(x\right) = 0$ dans l'intervalle $\left] 0 ; 1 \right[$.
+
+3. Étudier la monotonie de $\left(x_{n}\right)_{n \geq 1}$, puis déduire qu'elle est convergente.
+
+4. Montrer que la suite $\left(\left(x_{n}\right)^{n}\right)_{n \geq 1}$ est strictement décroissante, puis déduire qu'elle est convergente.
+
+5. Montrer que $\left(\forall n \in \mathbb{N} \star\right) 1 - \frac{\pi}{4} < \left(x_{n}\right)^{n} < 1$
+
+6. En admettant que $\underset{n \rightarrow + \infty}{lim} \left(x_{n}\right)^{n} = 1 - \frac{\pi}{4}$, déduire que $\underset{n \rightarrow + \infty}{lim} x_{n} = 1$.
+
+### III- Exercice 3 (5 pts)
+
+Soit $\left(s_{n}\right)_{n \geq 1}$ une suite définie par $s_{n} = \sum_{k = 1}^{n} \left(- 1\right)^{k} u_{k}$, avec $\left(u_{n}\right)_{n \geq 1}$ est une suite décroissante convergente vers $0$.
+
+1. Montrer que les deux suites extraites $\left(v_{n}\right)_{n \geq 1}$ et $\left(w_{n}\right)_{n \geq 1}$ tels que $v_{n} = s_{2 n}$ et $w_{n} = s_{2 n + 1}$ sont adjacentes.
+
+2. Déduire que la suite $\left(s_{n}\right)_{n \geq 1}$ est convergente.
+
+3. Déduire que la suite $\left(s_{n}\right)_{n \geq 1}$ définie par $s_{n} = \sum_{k = 1}^{n} \frac{\left(- 1\right)^{k}}{\sqrt[3]{k}}$ est convergente.

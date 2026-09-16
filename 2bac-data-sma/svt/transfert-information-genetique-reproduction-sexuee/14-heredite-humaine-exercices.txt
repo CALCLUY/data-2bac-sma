@@ -1,0 +1,125 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: L’hérédité humaine - Exercices
+Type: Exercices
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+L’hérédité humaine - Exercices
+Professeur : Mr BAHSINA Najib
+
+1/6
+
+### I- Exercice 1
+
+1. Définissez :
+
+Arbre généalogique :
+
+Carte chromosomique (Caryotype) :
+
+2. Citez deux moyens du diagnostic prénatal des anomalies chromosomiques.
+
+Moyen 1 :
+
+Moyen 2 :
+
+3. L’étude de la génétique humaine est confrontée à des difficultés. Donnez deux exemples de ces difficultés :
+
+Exemple 1 :
+
+Exemple 2 :
+
+2/6
+
+### II- Exercice 2
+
+Répondez par "Vrai" ou "Faux":
+
+- Le syndrome de Down résulte d’une perte d’un chromosome 21 : ___________
+- L’anomalie chromosomique est une modification du nombre ou de la structure des chromosomes : ___________
+- La formule chromosomique d une personne atteinte du syndrome de klinefelter est 2n+1=44A+XXX : ___________
+- La translocation simple est le transfert d’un fragment de chromosome sur un autre chromosome : ___________
+
+3/6
+
+### III- Exercice 3
+
+Pour chacune des données suivantes, il n’y a qu’une seule suggestion correcte.
+
+Adressez à chaque lettre le numéro qui correspond à la suggestion correcte :
+
+(A,);(B,);(C,);(D,)
+
+A- Dans le cas d'une maladie héréditaire récessive non liée au sexe :
+
+1. Toute personne atteinte de la maladie est homozygote pour l’allèle normal.
+2. Les hétérozygotes sont sains (non atteints de la maladie).
+3. Des hétérozygotes sont atteints de la maladie.
+4. Toute personne malade produit des gamètes ne portant jamais l’allèle responsable de la maladie.
+
+B- Dans le cas d'une maladie héréditaire récessive portée par le chromosome X :
+
+1. Une femme atteinte de la maladie est toujours homozygote.
+2. Le père atteint de la maladie porte obligatoirement l’allèle normal.
+3. Une femme malade donne naissance à un garçon sain
+4. Un père sain (non malade) donne naissance à une fille malade.
+
+C- Dans le cas d'une maladie héréditaire dominante non liée au sexe :
+
+1. Les hétérozygotes ne sont pas atteints de la maladie.
+2. Les hétérozygotes sont atteints de la maladie.
+3. Deux parents sains donnent naissance à des enfants malades.
+4. Une femme malade homozygote donne naissance à des enfants sains.
+
+D- Dans le cas d'une maladie héréditaire dominante portée par le chromosome X :
+
+1. Un père atteint de la maladie donne naissance à une fille malade.
+2. Une femme saine donne naissance à un garçon malade.
+3. Un père atteint de la maladie donne naissance à une fille saine.
+4. Le père atteint de la maladie est hétérozygote.
+
+4/6
+
+### IV- Exercice 4
+
+Pour mettre en évidence le mode de transmission d'une maladie héréditaire chez l'Homme et expliquer les conséquences d’une anomalie chromosomique sur le phénotype, on propose ce qui suit:
+
+Le diabète de type 1 ou diabète insulinodépendant représente 5 à 10 % de tous les cas de diabète. Cette maladie apparaît le plus souvent au cours de l'enfance ou de l’adolescence.
+
+Le document 1 représente l'arbre généalogique d’une famille dont quelques membres sont atteints de cette maladie :
+
+[Figure — document 1, image : arbre généalogique d’une famille avec des cas de diabète de type 1]
+
+1. Démontrez en justifiant votre réponse que l'allèle responsable de la maladie est récessif.
+
+2. Montrez si le gène est porté par un autosome ou un chromosome sexuel.
+
+3. Déterminez le génotype des individus I1, II3 et IV1.
+
+Utilisez le symbole (N) ou (n) pour l'allèle responsable du phénotype normal et le symbole (D) ou (d) pour l'allèle responsable de la maladie.
+
+5/6
+
+### IV- Exercice 4
+
+Des proches de la famille représentée dans le document 1 ont eu un bébé atteint d’une maladie héréditaire.
+
+Le couple (IV2, IV3) non atteint de cette maladie attend un nouveau né. Un médecin lui a conseillé de faire un diagnostic prénatal, en réalisant des caryotypes des individus de la famille.
+
+Le document 2 représente les paires de chromosomes homologues 5 et 12 chez les trois membres de cette famille :
+
+[Figure — document 2, image : paires de chromosomes homologues 5 et 12 chez trois membres de la famille]
+
+Remarque: Les autres paires de chromosomes homologues chez ces individus sont normales.
+
+En vous basant sur le document 2 et vos connaissances :
+
+4. Dégagez en justifiant votre réponse les individus porteurs d’une anomalie chromosomique.
+
+5. Établissez la relation entre chaque anomalie chromosomique observée et le phénotype des individus qui la portent.
+
+6/6

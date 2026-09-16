@@ -1,0 +1,305 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2015 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا - الدورة الاستدراكية 2015 - الموضوع - مادة : الفيزياء والكيمياء - شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+RS 31 - الصفحة 1/8
+
+المعامل : 7
+مدة الإنجاز : 4
+
+L'usage de la calculatrice scientifique non programmable est autorisé.
+
+Le sujet comporte 4 exercices : un exercice de chimie et trois exercices de physique.
+
+Chimie : (7 points)
+- Etude d'une solution aqueuse d'acide éthanoïque et synthèse d'un ester.
+- Synthèse industrielle du gaz dichlore.
+
+Physique : (13 points)
+Les ondes (2,25 points) :
+- Les ondes lumineuses.
+L'électricité (5,25 points)
+- Etude du dipôle RC et du circuit idéal LC
+- Les oscillations forcées dans un circuit RLC série.
+La mécanique : (5,5 points)
+- Mouvement d'une balle de tennis dans le champ de pesanteur uniforme.
+- Etude du mouvement d'un pendule pesant.
+
+## Chimie : (7 points) Les parties I et II sont indépendantes
+
+### Partie I : Etude d'une solution d'acide éthanoïque et synthèse d'un ester
+
+La menthe poivrée est une plante dont les bienfaits sont nombreux et connus depuis des siècles. Son huile essentielle contient un ester (l'éthanoate de menthyle) que l'on peut synthétiser au laboratoire à partir de l'acide éthanoïque CH3COOH et du menthol de formule brute C10H20O.
+
+#### 1- Etude d'une solution aqueuse d'acide éthanoïque
+
+On dispose d'une solution aqueuse (SA) d'acide éthanoïque de concentration molaire CA = 10-2 mol.L-1.
+
+La mesure de la conductivité de la solution (SA) donne la valeur σ = 1,6.10-2 S.m-1.
+
+Données :
+
+- Toutes les mesures sont effectuées à 25 °C.
+- L'expression de la conductivité σ d'une solution aqueuse est σ = Σ λXi.[Xi] ; où [Xi] est la concentration molaire effective de l'espèce ionique Xi dissoute et λXi sa conductivité molaire ionique.
+- λ(H3O+) = 3,49.10-2 S.m².mol-1
+- λ(CH3COO-) = 4,09.10-3 S.m².mol-1
+- On néglige l'influence des ions HO- sur la conductivité de la solution.
+
+1-1- Ecrire l'équation modélisant la réaction de l'acide éthanoïque avec l'eau. (0,25)
+
+1-2- Montrer que la valeur du pH de la solution (SA) est pH = 3,4. (0,5)
+
+1-3- Calculer le taux d'avancement final de la réaction. (0,5)
+
+1-4- Trouver l'expression de pKA du couple CH3COOH / CH3COO- en fonction du pH de la solution (SA) et de CA. Calculer sa valeur. (0,5)
+
+#### 2- Synthèse d'un ester
+
+On introduit dans un erlenmeyer, maintenu dans la glace, n1 = 0,2 mol d'acide éthanoïque et n2 = 0,2 mol de menthol et quelques gouttes d'acide sulfurique concentré. Le mélange ainsi obtenu a un volume V = 46 mL.
+
+On répartit à volumes égaux le mélange dans des tubes à essais, qu'on scelle hermétiquement. On plonge simultanément les tubes dans un bain marie à la température θ et on déclenche le chronomètre. A intervalles de temps réguliers, on ressort un tube à essai du bain marie et on le place dans de l'eau glacée puis on dose l'acide restant par une solution d'hydroxyde de sodium (Na+(aq) + HO-(aq)).
+
+Les résultats obtenus permettent de tracer la courbe d'évolution de la quantité de matière de l'acide éthanoïque restant dans l'erlenmeyer en fonction du temps : nr = f(t). la droite (T) représente la tangente à la courbe à t = 0. (figure page 3/8).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : nr(mol) en fonction de t(min) ; graduations 0,02 ; 0,40 mol et 4 min ; tangente (T))
+
+2-1- Quel est le rôle de l'acide sulfurique et de l'eau glacée dans cette réaction ? (0,5)
+
+2-2- Ecrire l'équation chimique modélisant la réaction de l'acide éthanoïque restant avec la solution d'hydroxyde de sodium. (0,25)
+
+2-3- Choisir la réponse juste parmi les propositions suivantes : (0,25)
+
+a- L'élévation de la température conduit à l'augmentation du rendement de la réaction d'estérification.
+
+b- Sous une température donnée, la vitesse volumique de la réaction d'estérification diminue avec le temps.
+
+c- La constante d'équilibre dépend de la composition initiale du mélange réactionnel.
+
+d- L'estérification est une réaction rapide et totale.
+
+2-4- Ecrire l'équation chimique modélisant la réaction d'estérification (On symbolise le menthol par R-OH). (0,5)
+
+2-5- Déterminer en mol.L-1.min-1 la valeur de la vitesse volumique de la réaction à l'instant t = 0. (0,5)
+
+2-6- Déterminer la valeur de t1/2 le temps de demi-réaction. (0,25)
+
+2-7- Calculer le rendement de la réaction d'estérification. (0,75)
+
+2-8- On refait l'expérience précédente, dans les mêmes conditions expérimentales, en utilisant un mélange contenant nac = 0,3 mol d'acide éthanoïque et nal = 0,2 mol de menthol.
+
+Déterminer, à l'équilibre, les quantités de matière de l'ester formé et de l'acide éthanoïque restant dans le mélange. (0,75)
+
+### Partie II : Synthèse industrielle du dichlore gazeux
+
+Le gaz dichlore est utilisé dans la synthèse de plusieurs substances chimiques. On peut le synthétiser industriellement par électrolyse d'une solution aqueuse concentrée de chlorure de sodium (Na+(aq) + Cl-(aq)) en utilisant deux électrodes spéciales.
+
+Données :
+- Le volume molaire : Vm = 24 L.mol-1
+- Constante de Faraday : 1F = 9,65.10^4 C.mol-1
+- Les couples ox/red : Cl2(g)/Cl-(aq), H2O(l)/H2(g), O2(g)/H2O(l)
+
+L'équation globale modélisant cette transformation s'écrit comme suit :
+
+2 H2O(l) + 2(Na+(aq) + Cl-(aq)) → H2(g) + 2(Na+(aq) + HO-(aq)) + Cl2(g)
+
+1- Ecrire l'équation de la réaction qui se produit à la cathode. Expliquer comment varie le pH de la solution à proximité de cette électrode. (0,5)
+
+2- La cellule de cette électrolyse fonctionne pendant une durée Δt = 10 h avec un courant d'intensité I = 50 kA. Déterminer le volume de dichlore produit pendant cette durée. (1)
+
+## Physique (13 points)
+
+### Les ondes lumineuses : (2,25 points)
+
+Le but de cet exercice est d'étudier la propagation d'une onde lumineuse émise par une source laser à travers un prisme (P) en verre d'indice de réfraction n pour cette radiation. La longueur d'onde de cette radiation dans l'air est λ0.
+
+Données :
+
+- Célérité de la lumière dans l'air : c = 3.10^8 m.s-1 ;
+- 1 MeV = 1,6.10-13 J
+- Constante de Planck : h = 6,63.10-34 J.s ;
+- Indice de réfraction du prisme n = 1,61 ;
+- λ0 = 633 nm
+
+1- Choisir la réponse juste parmi les propositions suivantes : (0,25)
+
+a- La lumière a la même célérité dans tous les milieux transparents.
+
+b- La fréquence d'une onde lumineuse varie lorsqu'elle passe d'un milieu transparent à un autre.
+
+c- La longueur d'onde d'une onde lumineuse ne dépend pas de la nature du milieu de propagation.
+
+d- L'indice de réfraction d'un milieu transparent dépend de la longueur d'onde de la radiation monochromatique qui le traverse.
+
+e- Les ultrasons sont des ondes électromagnétiques.
+
+2- La radiation émise par cette source laser correspond à la transition des atomes du néon d'un état d'énergie E2 à un état d'énergie E1 (E2 > E1). Calculer en MeV la variation d'énergie ΔE = E2 − E1. (0,25)
+
+3- Un faisceau de lumière monochromatique de longueur d'onde λ0 émis de la source laser est envoyé sur l'une des faces du prisme (P) (voir figure ci-dessous).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : prisme (P) et écran (E), faisceau laser incident)
+
+3-1- Cette radiation appartient-elle au domaine du spectre visible ? justifier. (0,25)
+
+3-2- Calculer la fréquence ν de cette radiation. (0,25)
+
+3-3- Déterminer pour cette radiation, la vitesse de propagation et la longueur d'onde λ dans le prisme. (0,5)
+
+3-4- On remplace la source laser par une source de lumière blanche. Qu'observe-t-on sur l'écran (E) après que la lumière blanche ait traversé le prisme ? Quel est le phénomène mis en évidence par cette expérience ? (0,5)
+
+### Electricité (5,25 points)
+
+L'objectif de cet exercice est d'étudier la réponse d'un dipôle RC à un échelon de tension, les oscillations non amorties dans un circuit LC et les oscillations forcées dans un dipôle RLC série.
+
+#### I- Etude du dipôle RC et du circuit LC idéal
+
+On réalise le circuit électrique schématisé sur la figure 1. Ce circuit comporte :
+
+- Un générateur de f.e.m. E et de résistance interne négligeable ;
+- Une bobine (b) d'inductance L0 et de résistance négligeable ;
+- Deux conducteurs ohmiques de résistance r et R = 20 Ω ;
+- Un condensateur de capacité C réglable, initialement déchargé ;
+- Un interrupteur K.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : générateur E, interrupteur K positions (1) et (2), résistances r et R, condensateur C (uC(t)), bobine (b), voies YA et YB, courant i)
+
+1- Etude du dipôle RC
+
+On fixe la capacité du condensateur sur la valeur C0. A un instant de date t = 0, on place l'interrupteur K en position (1). Un système d'acquisition informatisé permet de tracer les courbes (α1) et (α2) de la figure 2 représentant les tensions obtenues en utilisant les voies YA et YB (fig.1). La droite (T) représente la tangente à la courbe (α1) à t = 0.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : U(V) en fonction de t(ms) ; graduations 0,15 ; 0,3 ms ; courbes (α1), (α2) et tangente (T))
+
+1-1- Identifier parmi les courbes (α1) et (α2) celle qui représente la tension uC(t). (0,5)
+
+1-2- Etablir l'équation différentielle vérifiée par la tension uC(t). (0,25)
+
+1-3- Montrer que l'expression de l'intensité du courant juste après avoir placé l'interrupteur en position (1) est i0 = E/(R + r). (0,25)
+
+1-4- A l'aide des deux courbes :
+
+1-4-1- Déterminer la valeur de r (0,25)
+
+1-4-2- Montrer que C0 = 5 μF. (0,5)
+
+2- Etude du circuit LC idéal
+
+Une fois le régime permanent établi, on bascule l'interrupteur K en position (2) à un instant que l'on choisira comme nouvelle origine des dates (t = 0). On obtient ainsi un circuit LC.
+
+2-1- Etablir l'équation différentielle vérifiée par l'intensité du courant i(t). (0,5)
+
+2-2- La solution de l'équation différentielle s'écrit sous la forme i(t) = Im.cos((2π/T0).t + φ) ; T0 représente la période propre de l'oscillateur et φ la phase à t = 0 et Im l'intensité maximale du courant électrique. Déterminer la valeur de φ. (0,25)
+
+2-3- Etablir, à partir de l'expression de la puissance électrique, l'expression de l'énergie Ee(t) emmagasinée dans le condensateur en fonction de la charge q(t) et de la capacité C du condensateur. (0,25)
+
+2-4- La courbe représentée sur la figure 3 donne l'évolution de l'énergie électrique Ee(t) emmagasinée dans le condensateur en fonction du temps.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure3 : Ee en fonction de t(ms) ; graduations 1,25 ; 2,5 ms ; valeur Eemax)
+
+2-4-1- Calculer l'énergie électrique maximale Eemax. (0,25)
+
+2-4-2- A l'aide d'une étude énergétique, trouver la valeur de Im. (0,25)
+
+#### II- Les oscillations électriques forcées dans un circuit RLC série
+
+On réalise le circuit électrique schématisé sur la figure 4 qui comporte :
+
+- Un générateur basse fréquence (GBF) qui délivre une tension sinusoïdale uAB(t) = Um.cos(2πNt) ;
+- Un conducteur ohmique de résistance R = 20 Ω ;
+- Un condensateur de capacité C réglable ;
+- Une bobine d'inductance L et de résistance rb = 8,3 Ω ;
+- Un voltmètre.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 4 : GBF entre A et B, résistance R, bobine (rb, L), condensateur C, voltmètre V entre D et B, voies Y1 et Y2)
+
+1- On fixe la capacité du condensateur sur la valeur C1 et on visualise, à l'aide d'un oscilloscope, la tension uR(t) entre les bornes du conducteur ohmique sur la voie Y1 et la tension uAB(t) sur la voie Y2. On obtient l'oscillogramme représenté sur la figure 5.
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 5 : oscillogramme, sensibilités 3 V et 1,25 ms ; courbes (1) et (2))
+
+1-1- Identifier, parmi les courbes (1) et (2), celle représentant uR(t). (0,25)
+
+1-2- Déterminer la valeur de l'impédance Z du circuit. (0,25)
+
+1-3- Ecrire l'expression numérique de l'intensité i(t) du courant circulant dans le circuit. (0,75)
+
+2- On fixe la capacité C du condensateur sur la valeur C2 = 10 μF, tout en gardant les mêmes valeurs de Um et de N. Le voltmètre indique alors la valeur UDB = 3 V.
+
+2-1- Montrer que le circuit est dans un état de résonance électrique. (0,5)
+
+2-2- Déterminer la valeur de L. (0,25)
+
+### Mécanique (5,5 points) Les parties I et II sont indépendantes
+
+#### Partie I : Mouvement d'une balle de tennis dans un champ de pesanteur uniforme
+
+Le tennis est un sport qui a des règles codifiées. En simple messieurs, il est pratiqué par deux joueurs dont l'un se trouve dans une zone (A) et l'autre dans une zone (B). Les deux zones ont chacune une longueur L et sont séparées par un filet. Au cours du match, chaque joueur tente de faire tomber la balle de tennis dans la zone de l'adversaire.
+
+On étudie le mouvement du centre d'inertie G d'une balle de tennis dans le repère orthonormé (O, i⃗, k⃗) lié à un référentiel terrestre que l'on considérera comme galiléen.
+
+Le joueur se trouvant dans la zone (A) tente de faire passer la balle au dessus de son adversaire se trouvant dans la zone (B), à une distance d du filet. Pour cela il renvoie la balle, à un instant choisi comme origine des dates (t = 0), du point O avec une vitesse initiale V⃗0 qui forme un angle α avec l'horizontale. Le point O se trouve à une distance D du filet et à une hauteur h de la surface du sol (figure ci-dessous).
+
+[FORMULA_IMAGE_UNREADABLE] (figure : Zone A et Zone B de longueur L, le filet, distances D, d, hauteurs h et H, repère (O, i⃗, k⃗), vitesse V⃗0)
+
+Données :
+
+- On néglige les frottements et les dimensions de la balle, et on prend g = 9,8 m.s-2.
+- d = 1 m ; D = 13 m ; h = 0,7 m ; L = 12 m.
+- V0 = 13 m.s-1 ; α = 45°.
+
+1- Etablir l'expression numérique z = f(x) de l'équation de la trajectoire du centre d'inertie G. (0,5)
+
+2- Sachant que le joueur se trouvant dans la zone (B) tient sa raquette dans une position verticale et que l'extrémité supérieure de la raquette se trouve dans le plan du mouvement à une hauteur H = 3 m de la surface du sol. Est-ce que le joueur peut intercepter la balle dans cette situation ? (0,5)
+
+3- Montrer que la balle tombe dans la zone (B). (0,5)
+
+4- Déterminer les coordonnées du vecteur vitesse de G à l'instant où la balle frappe le sol. En déduire sa direction par rapport à l'horizontale. (0,5)
+
+5- Déterminer, pour le même angle α = 45°, les deux valeurs limites de la vitesse initiale V0, avec laquelle le joueur doit renvoyer la balle du point O pour que la balle frappe le sol dans la zone (B) en passant au dessus de l'adversaire situé dans la même position indiquée dans la question 2. (0,75)
+
+#### Partie II : Etude du mouvement d'un pendule pesant
+
+On réalise une étude expérimentale en utilisant un pendule pesant, de centre d'inertie G et de masse m, constitué d'une tige et d'un corps solide (S). Ce pendule peut effectuer un mouvement de rotation autour d'un axe horizontal (Δ) fixe passant par l'extrémité O de la tige (figure 1 page 8/8).
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 1 : axe (Δ) en O, tige, solide (S), centre d'inertie G, distance L, abscisse angulaire θ, sens positif)
+
+On désigne par J le moment d'inertie du pendule pesant par rapport à l'axe (Δ) et par L la distance séparant G de l'axe (Δ).
+
+Pour créer un amortissement, on utilise des plaques légères de masse négligeable et de surfaces différentes.
+
+Données : g = 9,8 m.s-2 ; m = 400 g ; L = 50 cm
+
+- Pour les oscillations de faible amplitude on prendra : sin θ ≈ θ et cos θ ≈ 1 − θ²/2 avec θ en radian.
+
+On réalise trois expériences :
+
+- Dans une première expérience, on fixe sur la tige une plaque de surface S1.
+- Dans une seconde expérience, on fixe sur la tige une plaque de surface S2 supérieure à S1.
+- Dans une troisième expérience, aucune plaque n'est fixée sur la tige.
+
+Pour chacune des trois expériences, on écarte le pendule de sa position d'équilibre stable, dans le sens positif, d'un angle θm très petit, puis on le lâche sans vitesse initiale à l'instant t = 0.
+
+On repère à chaque instant la position du pendule par l'abscisse angulaire θ (fig.1).
+
+L'étude expérimentale ainsi que le traitement des données avec un logiciel approprié, ont permis d'obtenir les courbes représentant l'évolution de l'abscisse angulaire θ en fonction du temps. (figure 2)
+
+[FORMULA_IMAGE_UNREADABLE] (Figure 2 : θ(rad) en fonction de t(s) ; graduations 0,1 ; 0,3 ; 1 s et −0,1 ; −0,05 ; 0,05 ; 0,1 rad ; instant t1)
+
+1- Cas du régime périodique :
+
+1-1- Etablir dans ce cas, en appliquant la relation fondamentale de la dynamique dans le cas de la rotation, l'équation différentielle vérifiée par l'abscisse angulaire θ. (0,5)
+
+1-2- Déterminer l'expression de la période propre T0 du pendule en fonction de m, g, L et J en considérant que l'expression θ = θm.cos((2π/T0).t) est solution de l'équation différentielle. (0,25)
+
+1-3- Vérifier par une analyse dimensionnelle que l'expression de T0 a la dimension du temps. (0,5)
+
+1-4- Déterminer la valeur de J. (0,25)
+
+1-5- Déterminer l'expression de l'énergie cinétique de l'oscillateur en fonction de θ, m, L, g et θm. Calculer sa valeur lors du passage de l'oscillateur par sa position d'équilibre. (0,75)
+
+2- Cas du régime pseudopériodique :
+
+Déterminer dans ce cas la variation de l'énergie mécanique de l'oscillateur entre l'instant t = 0 et l'instant t = t1 (fig. 2). (0,75)

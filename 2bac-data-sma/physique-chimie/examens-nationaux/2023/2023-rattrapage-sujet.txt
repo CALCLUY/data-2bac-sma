@@ -1,0 +1,267 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2023 - Session Rattrapage - Sujet
+Type: Sujet
+Source: 
+---
+
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2023 - الموضوع
+RS 31
+المادة: الفيزياء والكيمياء
+شعبة العلوم الرياضية (أ) و (ب) (الترجمة الفرنسية)
+مدة الإنجاز: 4h
+المعامل: 7
+
+* L'usage de la calculatrice scientifique non programmable est autorisé.
+* La formule littérale doit être donnée avant l'application numérique et le résultat accompagné de son unité.
+* Les exercices peuvent être traités séparément selon le choix du candidat.
+
+Le sujet comporte quatre exercices : un exercice de chimie et trois exercices de physique.
+
+Exercice 1 : Chimie (7 points)
+- Partie 1 : Etude d'une solution aqueuse d'acide méthanoïque ;
+- Partie 2 : Synthèse d'un ester.
+
+Exercice 2 : Transformations nucléaires (2,5 points) - Datation par le couple rubidium-strontium.
+
+Exercice 3 : Electricité (5 points)
+- Partie 1 : Réponse d'un dipôle RL à un échelon de tension ;
+- Partie 2 : Oscillations dans un circuit RLC série.
+
+Exercice 4 : Mécanique (5,5 points)
+- Partie 1 : Etude du mouvement d'un skieur ;
+- Partie 2 : Séparation isotopique.
+
+## Exercice 1 : Chimie (7 points)
+
+Les deux parties 1 et 2 sont indépendantes
+
+### Partie 1 : Etude d'une solution aqueuse d'acide méthanoïque
+
+L'acide méthanoïque ou acide formique est une substance naturelle sécrétée par les fourmis et les abeilles pour se défendre contre les prédateurs ; sa première isolation a été réalisée par distillation des corps de fourmis.
+
+Le but de cette partie est de vérifier par dosage le pourcentage massique de l'acide méthanoïque dans une solution commerciale, et d'étudier sa solution aqueuse. Dans les conditions ordinaires, l'acide méthanoïque est à l'état liquide. L'étiquette du flacon d'une solution commerciale (S0) de cet acide porte les informations suivantes :
+- Formule chimique : HCOOH ;
+- Densité : d = 1,15 ;
+- Le pourcentage massique : p = 80 %.
+
+Données :
+- p = 80 % signifie que 100 g de solution commerciale contient 80 g d'acide pur ;
+- La masse molaire de l'acide méthanoïque : M(HCOOH) = 46 g.mol-1 ;
+- Masse volumique de l'eau : ρe = 1 kg.L-1.
+
+1- Vérification par dosage du pourcentage massique
+
+On prépare une solution aqueuse (SA) d'acide méthanoïque de concentration molaire CA et de volume VS = 1,0 L en ajoutant à l'eau distillée un volume V0 = 2,0 mL de la solution commerciale d'acide méthanoïque (S0) de concentration molaire C0. On verse dans un bécher un volume VA = 50 mL de la solution (SA), et on dose l'acide méthanoïque par une solution aqueuse (SB) d'hydroxyde de sodium Na+(aq) + HO-(aq) de concentration molaire CB = 0,10 mol.L-1. Les résultats de mesure du pH en fonction du volume VB d'hydroxyde de sodium versé ont permis de tracer la courbe exprimant la variation de la concentration des ions oxonium dans le mélange réactionnel en fonction de 1/VB (figure 1).
+
+[Figure 1 : [H3O+] (10-4 mol.L-1) en fonction de 1/VB (L-1) ; repères 1 et 50.]
+
+1-1- (0,25 pt) Ecrire l'équation chimique modélisant la réaction de ce dosage.
+
+1-2- (0,75 pt) Montrer que la concentration des ions oxonium dans le bécher après l'ajout d'un volume VB, tel que 0 < VB < VBE avec VBE le volume de la solution (SB) versé à l'équivalence, s'écrit :
+[H3O+] = a.(1/VB) + b
+avec a = KA.VBE et b = −KA. KA représente la constante d'acidité du couple HCOOH/HCOO-.
+
+1-3- (0,5 pt) En exploitant la courbe de la figure 1, déterminer VBE et KA.
+
+1-4- (0,5 pt) Calculer la concentration CA de la solution (SA), et déduire la concentration C0 de la solution commerciale.
+
+1-5- (0,5 pt) Vérifier si la valeur du pourcentage massique p est correcte.
+
+2- Etude de la solution (SA) d'acide méthanoïque
+
+2-1- (0,25 pt) Ecrire l'équation de la réaction de l'acide méthanoïque avec l'eau.
+
+2-2- (0,5 pt) Etablir l'expression de la constante d'acidité KA du couple HCOOH/HCOO- en fonction de CA et τ le taux d'avancement final de la réaction.
+
+2-3- (0,75 pt) Calculer τ. Conclure.
+
+### Partie 2 : Synthèse d'un ester
+
+On réalise une estérification par chauffage à reflux d'un mélange de n0 = 0,20 mol d'acide méthanoïque et de n'0 = 0,20 mol de propan-2-ol, et quelques gouttes d'acide sulfurique concentré. Le suivi temporel de l'évolution de la quantité de matière nA de l'acide méthanoïque restant dans le mélange a permis de tracer la courbe de la figure 2.
+
+[Figure 2 : nA(mol) en fonction de t(min) ; repères 0,05 et 5.]
+
+1- (0,5 pt) Ecrire, en utilisant les formules semi-développées, l'équation de la réaction d'estérification, et nommer le produit organique formé.
+
+2/2-1- (0,5 pt) Montrer que la quantité de matière de l'acide méthanoïque restant au temps de demi-réaction t1/2 s'écrit : nA(t1/2) = (n0 + nAf)/2 avec nAf la quantité de matière de l'acide méthanoïque restant à la fin de la réaction. Déduire t1/2.
+
+2-2- (0,25 pt) Soit t'1/2 le temps de demi-réaction de la réaction en l'absence de l'acide sulfurique. Comparer, en justifiant, t1/2 à t'1/2.
+
+3/3-1- (0,5 pt) Etablir l'expression de la constante d'équilibre K de cette réaction d'estérification en fonction de son rendement r.
+
+3-2- (0,5 pt) Calculer r et vérifier que K = 2,25.
+
+4- (0,75 pt) Calculer la quantité de matière n1 de l'acide méthanoïque qu'il faut ajouter au mélange précédent à l'équilibre pour atteindre un rendement r1 = 80 %.
+
+## Exercice 2 : Datation par le couple rubidium-strontium (2,5 points)
+
+La méthode de datation par le couple rubidium-strontium est une technique de datation de formation des roches, basée sur la mesure des proportions des éléments rubidium et strontium dans différents minéraux (feldspath, mica…) de ces roches, sans avoir besoin de connaître les quantités de matière initiales des éléments rubidium et strontium. Le rubidium 87/37 Rb est un isotope radioactif, qui se désintègre en strontium 87/38 Sr avec émission d'une particule A/Z X.
+
+Données :
+- La constante radioactive du rubidium 87 : λ = 1,42.10-11 an-1 ;
+- Les masses : m(87/37 Rb) = 86,8888823 u ; m(87/38 Sr) = 86,8880307 u ; m(A/Z X) = 0,0005486 u ;
+- 1 u = 931,5 MeV/c².
+
+1- (0,5 pt) Ecrire l'équation de désintégration de 87/37 Rb et déduire son type.
+
+2- (0,5 pt) Calculer, en MeV, ΔE l'énergie libérée par la désintégration d'un noyau de 87/37 Rb.
+
+3- Le minéral d'une roche granitique emprisonne lors de sa formation une quantité de rubidium radioactif 87/37 Rb et une quantité de strontium constituée des isotopes stables 87/38 Sr et 86/38 Sr. On désigne par :
+- t0 = 0 : l'instant de formation de la roche et de ses minéraux ;
+- N0(87/37 Rb) le nombre de noyaux de rubidium 87 et N0(87/38 Sr) le nombre de noyaux de strontium 87 présents dans le minéral de la roche à l'instant t0 ;
+- N(87/37 Rb) le nombre de noyaux de rubidium 87 et N(87/38 Sr) le nombre de noyaux de strontium 87 présents dans le même minéral à l'instant t ;
+- N(86/38 Sr) le nombre de noyaux de strontium 86 présents dans ce minéral.
+On note u et v les rapports à un instant t : u = N(87/37 Rb)/N(86/38 Sr) et v = N(87/38 Sr)/N(86/38 Sr).
+
+3-1- (0,5 pt) Montrer que le nombre de noyaux de strontium 87 présents dans le minéral à l'instant t s'écrit :
+N(87/38 Sr) = N(87/37 Rb).(eλt − 1) + N0(87/38 Sr)
+
+3-2- (0,25 pt) Déduire que v = a.u + b, avec a = (eλt − 1) et b = N0(87/38 Sr)/N(86/38 Sr).
+
+4- La mesure expérimentale des rapports u et v à la même date ta pour trois minéraux différents emprisonnés dans la roche a permis d'obtenir la courbe de la figure ci-contre.
+
+[Figure : v en fonction de u ; repères 0,7 ; 0,75 et 5 ; points Minéral 1, Minéral 2, Minéral 3.]
+
+4-1- (0,5 pt) Déterminer ta l'âge approximatif de la roche.
+
+4-2- (0,25 pt) Pourquoi n'a-t-on pas utilisé le carbone 14 de demi-vie 5730 ans pour dater cette roche ?
+
+## Exercice 3 : Electricité (5 points)
+
+Les deux parties 1 et 2 sont indépendantes
+
+Cet exercice a pour but d'étudier :
+- La réponse d'un dipôle RL à un échelon de tension ;
+- Les oscillations dans un circuit RLC série.
+
+### Partie 1 : Réponse d'un dipôle RL à un échelon de tension
+
+On réalise le montage du circuit électrique représenté dans la figure 1 comportant :
+- Un générateur de tension de force électromotrice E0 ;
+- Un conducteur ohmique de résistance R0 ;
+- Une bobine (b) d'inductance L et de résistance r ;
+- Un interrupteur K.
+
+On ferme l'interrupteur K à un instant pris comme origine des dates (t = 0). Un système informatique adéquat a permis de tracer les courbes de la figure 2 représentant l'évolution temporelle de l'intensité du courant i(t) circulant dans le circuit et de la tension u(t) aux bornes de la bobine. La droite (T) représente la tangente à la courbe représentant i(t) à t = 0.
+
+[Figure 1 : E0, R0, bobine (b), K. Figure 2 : i(mA) en fonction de t(ms) — repères 10, 40 ; u(V) en fonction de t(ms) — repères 2, 10 ; tangente (T).]
+
+1- (0,5 pt) Etablir l'équation différentielle vérifiée par i(t).
+
+2- (0,25 pt) Déterminer graphiquement la valeur de E0.
+
+3- (0,25 pt) Montrer que L = 0,5 H.
+
+4- (0,5 pt) Déterminer la valeur de r et celle de R0.
+
+### Partie 2 : Etude des oscillations dans un circuit RLC série
+
+1- Oscillations libres dans le circuit RLC
+
+On monte en série, à la date t = 0 (figure 3) :
+- Un condensateur de capacité C initialement chargé ;
+- Une bobine (b1) d'inductance L1 = 0,5 H et de résistance négligeable ;
+- Un conducteur ohmique de résistance R = 150 Ω.
+
+Un système informatique adéquat a permis d'obtenir les courbes représentant l'évolution au cours du temps de l'intensité du courant i(t) circulant dans le circuit et de Ee(t) l'énergie emmagasinée dans le condensateur (figure 4).
+
+[Figure 3 : circuit C, (b1), R, i. Figure 4 : i(mA) en fonction de t(ms) — repères 1, 5, 10 ; Ee(mJ) en fonction de t(ms) — repères 0,06 ; 5.]
+
+1-1- (0,25 pt) En considérant la pseudo-période égale à la période propre de l'oscillateur, trouver la valeur de la capacité C du condensateur. On prend π² = 10.
+
+1-2- (0,75 pt) Soit Et l'énergie totale du circuit à un instant t. Exprimer dEt/dt en fonction de R et i. Conclure.
+
+1-3- (1 pt) Trouver ΔEt l'énergie dissipée par effet Joule dans le circuit entre les instants t = 0 et t = 4 ms.
+
+2- Oscillations forcées dans le circuit RLC
+
+On réalise un circuit série comportant :
+- Un générateur (GBF) délivrant une tension alternative sinusoïdale u(t) = Um.cos(2πN.t) de fréquence N ;
+- Le conducteur ohmique de résistance R = 150 Ω ;
+- La bobine (b1) ;
+- Un condensateur de capacité C0.
+
+On visualise à l'aide d'un oscilloscope bicourbe :
+- la tension u(t) sur la voie YA ;
+- la tension uR(t) aux bornes du conducteur ohmique sur la voie YB.
+On obtient les courbes de la figure 5. La sensibilité verticale pour les deux voies est 1 V.div-1.
+
+[Figure 5 : oscillogramme des tensions u(t) et uR(t).]
+
+2-1- (0,5 pt) Schématiser le montage expérimental permettant de visualiser les tensions u(t) et uR(t) en indiquant les connexions à l'oscilloscope.
+
+2-2- (0,5 pt) Déterminer l'impédance Z du circuit.
+
+2-3- (0,5 pt) Calculer le facteur de puissance du circuit et déduire la valeur de la puissance électrique moyenne.
+
+## Exercice 4 : Mécanique (5,5 points)
+
+Les deux parties 1 et 2 sont indépendantes
+
+### Partie 1 : Etude du mouvement d'un skieur
+
+On se propose, dans cette partie, de déterminer quelques grandeurs caractéristiques du mouvement d'un skieur sur un plan incliné.
+
+Données :
+- La masse du skieur et ses accessoires : m = 60 kg ;
+- L'accélération de la pesanteur : g = 10 m.s-2.
+
+Un skieur glisse sur une piste plane inclinée d'un angle α = 30° par rapport au plan horizontal, selon la ligne de plus grande pente. On modélise le skieur et ses accessoires par un solide indéformable de masse m et de centre d'inertie G (figure 1).
+
+On étudie le mouvement de G dans un repère orthonormé (O, i⃗, j⃗) lié à un référentiel terrestre supposé galiléen. A l'instant t = 0 le centre G du skieur coïncide avec l'origine O et part sans vitesse initiale.
+
+[Figure 1 : plan incliné, repère (O, x, y).]
+
+1- Au cours du mouvement, le skieur est soumis, en plus de son poids, à l'action du plan incliné et à une force de frottement fluide exercée par l'air : F⃗ = −μ.v.i⃗ où v est la vitesse de G à un instant t et μ une constante positive de valeur μ = 1 dans le système d'unités international. On note RT et RN respectivement les composantes tangentielle et normale de l'action du plan incliné sur (S) avec RT = tanφ.RN. φ étant l'angle de frottement solide : φ = 26,6°.
+
+1-1- En utilisant la deuxième loi de Newton :
+
+1-1-1- (0,5 pt) Déterminer l'intensité de RT.
+
+1-1-2- (0,5 pt) Montrer que l'équation différentielle du mouvement de G s'écrit : 60.dv/dt + v = 39,8.
+
+1-2- (0,5 pt) Calculer vℓ la valeur de la vitesse limite et a0 l'accélération initiale du mouvement de G.
+
+2- (0,75 pt) Le skieur perd son équilibre et tombe à l'instant où sa vitesse est v = vℓ/2, et poursuit ainsi son mouvement selon la ligne de plus grande pente. A partir de cet instant l'action de l'air devient négligeable et l'angle de frottement solide prend la valeur φ = 78,7°. Trouver l'expression numérique de l'équation horaire de la vitesse du skieur à partir de cet instant qu'on prendra comme nouvelle origine des dates (t = 0) et déduire la distance qu'il a parcourue depuis sa perte d'équilibre jusqu'à son arrêt.
+
+### Partie 2 : Séparation isotopique de masse
+
+On se propose dans cet exercice de déterminer le nombre de nucléons A d'un isotope de chlore par un spectrographe de masse (figure 2) constitué de :
+- Une chambre d'ionisation, dans laquelle sont produits les ions 35/17 Cl- et A/17 Cl- ;
+- Une chambre d'accélération dans laquelle règne un champ électrique uniforme E⃗ créé par une tension U0 appliquée entre deux plaques verticales et parallèles (P1) et (P2) ;
+- Une chambre de déviation dans laquelle règne un champ magnétique uniforme B⃗ perpendiculaire au plan de la figure.
+
+On néglige le poids de l'ion devant les autres forces et on admet que la masse d'un ion est égale à la masse de son noyau m(A/Z X) = A.mn, avec mn la masse d'un nucléon et A le nombre de nucléons.
+
+Données : e = 1,6.10-19 C ; mn = 1,67.10-27 kg ; U0 = 10³ V ; B = 0,1 T.
+
+[Figure 2 : chambre d'ionisation, chambre d'accélération (plaques P1, P2, points O1 et O2), chambre de déviation, écran de réception, points M et N.]
+
+On étudie le mouvement des ions dans un référentiel terrestre supposé galiléen.
+
+1- Accélération des ions
+
+Les ions sont introduits sans vitesse initiale dans la chambre d'accélération en O1, puis ils sont accélérés, sous l'action du champ électrique E⃗, vers le point O2. On repère la position de l'ion à un instant t par son abscisse x dans le repère (O1; i⃗).
+
+1-1- (0,5 pt) Trouver, en appliquant la deuxième loi de Newton, les équations horaires v(t) et x(t) du mouvement d'un ion de chlore de masse m en fonction de e, U0, m et la distance d = O1O2.
+
+1-2- (0,5 pt) Déduire que l'énergie cinétique de l'ion au point O2 est indépendante de la masse de l'isotope et s'écrit : EC = e.U0.
+
+1-3- (0,5 pt) Vérifier que la relation entre v1 et v2, respectivement les vitesses des ions 35/17 Cl- et A/17 Cl- au point O2, s'écrit : v2 = v1.√(35/A).
+
+2- Séparation des ions
+
+Les ions 35/17 Cl- et A/17 Cl- pénètrent en O2 dans la chambre de déviation avec les vitesses v1 et v2.
+
+2-1- (0,25 pt) Déterminer le sens de B⃗ dans la chambre de déviation pour que les ions atteignent l'écran de réception (figure 2).
+
+2-2- (0,5 pt) Montrer, en appliquant la deuxième loi de Newton, que le mouvement des ions dans la chambre de déviation est circulaire uniforme.
+
+2-3- Soient R1 et R2 respectivement les rayons des trajectoires des ions 35/17 Cl- et A/17 Cl-.
+
+2-3-1- (0,25 pt) Vérifier que : R2 = R1.√(A/35).
+
+2-3-2- (0,75 pt) Les isotopes 35/17 Cl- et A/17 Cl- décrivent des demi-cercles pour atteindre l'écran de réception, respectivement en M et N (figure 2). Trouver la valeur de A sachant que la distance MN = 1,53 cm.

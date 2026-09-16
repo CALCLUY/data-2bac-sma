@@ -1,0 +1,180 @@
+---
+Chapitre: Chapitre 7 : Calcul intégral
+Séance: Séance 7-2-1 : Calcul intégral - Partie 2 (Cours)
+Type: Cours
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 7-2-1 : Calcul intégral - Partie 2 (Cours)
+Professeur : Mr CHEDDADI Haitam
+
+### IV- Intégration et ordre
+
+#### 4-1/ Positivité et croissance
+
+Proposition 6
+
+Soit $f$ et $g$ deux fonctions continues sur un segment $\left[a ; b\right] \left(a < b\right)$.
+
+Si $f$ est positive sur $\left[a ; b\right]$ alors : $\int_{a}^{b} f \left(x\right) d x \geq 0$
+
+Si $f \left(x\right) \leq g \left(x\right)$ pour tout $x \in \left[a ; b\right]$, alors : $\int_{a}^{b} f \left(x\right) d x \leq \int_{a}^{b} g \left(x\right) d x$
+
+Applications
+
+1. Montrer que $0 \leq \int_{1}^{\frac{\pi}{2}} \frac{sin t}{t} d t \leq \frac{\pi}{2} - 1$ et $\frac{\pi}{3} \leq \int_{0}^{\frac{\pi}{3}} \frac{1 + t}{cos t} d t \leq \frac{2 \pi^{2}}{9} + \frac{2 \pi}{3}$.
+
+2. Montrer que pour tout $x \in \mathbb{R}_{+}^{\star}$ : $0 \leq \int_{x}^{2 x} \frac{d t}{\sqrt{t^{4} + t^{2} + 1}} \leq \frac{1}{x}$
+
+Pour tout $n \in \mathbb{N}$, on pose $I_{n} = \int_{0}^{\frac{\pi}{6}} x^{n} cos \left(3 x\right) d x$
+
+3. Montrer que la suite $\left(I_{n}\right)$ est décroissante.
+
+4. Montrer que pour tout $n \in \mathbb{N}$ : $0 \leq I_{n} \leq \left(\frac{\pi}{6}\right)^{n + 1}$
+
+5. En déduire $\underset{n \rightarrow \infty}{lim} I_{n}$
+
+#### 4-2/ Intégrale et valeur absolue
+
+Proposition 7
+
+Soit $f$ une fonction continue sur un intervalle $I$, et soit $\left(a ; b\right) \in I^{2}$ tel que $a \leq b$.
+
+On a alors : $\left|\int_{a}^{b} f \left(x\right) d x\right| \leq \int_{a}^{b} \left|f \left(x\right)\right| d x$
+
+#### 4-3/ Valeur moyenne d'une fonction continue sur un segment
+
+Proposition 8
+
+Soit $f$ une fonction continue sur un intervalle $I$, et soit $\left(a ; b\right) \in I^{2}$ tel que $a \leq b$.
+
+S'il existe deux réels $m$ et $M$ tels que pour tout $x \in \left[a ; b\right]$ : $m \leq f \left(x\right) \leq M$, alors :
+
+$$m \left(b - a\right) \leq \int_{a}^{b} f \left(x\right) d x \leq M \left(b - a\right)$$
+
+S'il existe un réel $M$ tels que pour tout $x \in \left[a ; b\right]$ : $\left|f \left(x\right)\right| \leq M$, alors :
+
+$$\left|\int_{a}^{b} f \left(x\right) d x\right| \leq M \left(b - a\right)$$
+
+Définition 1
+
+Soit $f$ une fonction continue sur un segment $\left[a ; b\right] \left(a < b\right)$
+
+La valeur moyenne de la fonction $f$ sur $\left[a ; b\right]$ est le nombre réel $\mu = \frac{1}{b - a} \int_{a}^{b} f \left(x\right) d x$.
+
+Proposition 9
+
+Soit $f$ une fonction continue sur un segment $\left[a ; b\right] \left(a < b\right)$.
+
+Il existe au moins un réel $c \in \left[a ; b\right]$ tel que : $\int_{a}^{b} f \left(x\right) d x = \left(b - a\right) f \left(c\right)$
+
+Ce résultat porte le nom de « Théorème de la moyenne »
+
+Remarques
+
+Si $f \left(\left[a ; b\right] \right) = \left[m ; M\right]$ et $F$ désigne une primitive de la fonction $f$ sur $\left[a ; b\right]$, alors la formule $\int_{a}^{b} f \left(x\right) d x = \left(b - a\right) f \left(c\right)$ est équivalente à $F \left(b\right) - F \left(A\right) = \left(b - a\right) F ' \left(c\right)$, et cette formule n'est qu'une copie de la formule du théorème des accroissements finis appliquée à la fonction $F$.
+
+Graphiquement, une interprétation de ce théorème est que l'aire algébrique sous la courbe $\mathcal{C}_{f}$ est égale à celle d'un rectangle de base $\left[a ; b\right]$, et de hauteur l'ordonnée d'un point moyen de la courbe.
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s7/img2.jpg)
+
+### V- Applications du calcul intégral
+
+#### 5-1/ Calcul des aires
+
+Proposition 10
+
+Soit $f$ une fonction continue sur un segment $\left[a ; b\right] \left(a < b\right)$, et $\mathcal{C}_{f}$ sa courbe représentative dans un repère orthogonal.
+
+L'aire du domaine délimité par , l'axe des abscisses et les droites d'équations $x = a$ et $x = b$ est égale à $\int_{a}^{b} \left|f \left(x\right)\right| d x$ (en unité d'aire).
+
+Proposition 11
+
+Le plan est rapporté à un repère orthogonal.
+
+Soit $f$ et $g$ deux fonctions continues sur un segment $\left[a ; b\right]$.
+
+Soit $\mathcal{C}_{f}$ et $\mathcal{C}_{g}$ les courbes représentatives de $f$ et $g$.
+
+Soit $\left(\Delta\right)$ le domaine délimité par les courbes $\mathcal{C}_{f}$ et $\mathcal{C}_{g}$ et les droites d'équations $x = a$ et $x = b$.
+
+Alors : L'aire du domaine $\left(\Delta\right)$ en unités d'aire est donnée par : $\sigma \left(\Delta\right) = \int_{a}^{b} \left|f \left(x\right) - g \left(x\right)\right| d x$
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s7/img3.jpg)
+
+#### 5-2/ Calcul des volumes
+
+Proposition 12
+
+L'espace est rapporté à un repère orthonormé $\left(O ; \overset{\rightarrow}{i} ; \overset{\rightarrow}{j} ; \overset{\rightarrow}{k}\right)$.
+
+Soit $\left(a ; b\right) \in \mathbb{R}^{2}$ tel que $a < b$.
+
+On considère un solide $\left(S\right)$ limité par deux plans parallèles au plan $\left(O ; \overset{\rightarrow}{i} ; \overset{\rightarrow}{j}\right)$ :
+
+* le plan de cote $a$ d'équation $z = a$
+* le plan de cote $b$ d'équation $z = b$
+
+Si $S \left(t\right)$ est l'aire de l'intersection du solide $\left(\right. S \left.\right)$ avec tout plan parallèle $\left(O ; \overset{\rightarrow}{i} ; \overset{\rightarrow}{j}\right)$ de cote $t$, alors le volume de ce solide est (en unités de volume) : $v \left(\right. S \left.\right) = \int_{a}^{b} S \left(t\right) d t$
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s7/img4.jpg)
+
+Proposition 13
+
+L'espace est rapporté à un repère orthonormé $\left(O ; \overset{\rightarrow}{i} ; \overset{\rightarrow}{j} ; \overset{\rightarrow}{k}\right)$.
+
+Soit $f$ une fonction continue sur un segment $\left[a , b\right] \left(a < b\right)$, et $\mathcal{C}_{f}$ sa courbe représentative dans le repère $\left(O ; \overset{\rightarrow}{i} ; \overset{\rightarrow}{j}\right)$.
+
+Le volume du solide engendré par la rotation de la courbe $\mathcal{C}_{f}$ autour de l'axe des abscisses un tour complet est donné par la formule : $V = \pi \int_{a}^{b} \left(f \left(x\right)\right)^{2} d x$ (en unités de volume)
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s7/img5.jpg)
+
+Proposition 14
+
+Soit $f$ une fonction continue et strictement monotone sur un segment $\left[a , b\right] \left(a < b\right)$, et $\mathcal{C}_{f}$ sa courbe représentative dans un repère orthonormé $\left(O ; \overset{\rightarrow}{i} ; \overset{\rightarrow}{j}\right)$.
+
+Le volume du solide engendré par la rotation de la courbe $\mathcal{C}_{f}$ autour de l'axe des ordonnées un tour complet est donné la formule : $V = \pi \left|\int_{f \left(a\right)}^{f \left(b\right)} \left(f^{- 1} \left(x\right)\right)^{2} d x\right|$ (en unité de volume)
+
+Si de plus, $f$ est dérivable sur $\left[a , b\right]$ alors : $V = \pi \left|\int_{a}^{b} x^{2} \left|f ' \left(x\right)\right| d x\right|$ (en unité de volume)
+
+#### 5-3/ Encadrement d'une intégrale par deux suites (méthode des rectangles)
+
+Proposition 15
+
+Soit $f$ une fonction continue sur un segment $\left[a , b\right] \left(a < b\right)$.
+
+Pour tout entier $n \geq 2$ on pose :
+
+$$x_{0} = a ; x_{1} = a + \frac{b - a}{n} ; . . . ; x_{k} = a + k \frac{b - a}{n} ; . . . ; x_{n} = a + n \frac{b - a}{n} = b$$
+
+Pour tout $k \in \left\{0 , 1 , . . . , n - 1\right\}$, on note $M_{k}$ la valeur maximale et $m_{k}$ la valeur minimale de $f$ sur le segment $\left[x_{k} ; x_{k + 1}\right]$.
+
+On pose enfin $\lambda_{n} = \frac{b - a}{n} \sum_{k = 0}^{n - 1} M_{k}$ et $\mu_{n} = \frac{b - a}{n} \sum_{k = 0}^{n - 1} m_{k}$
+
+On a alors pour tout entier $n \geq 2$ :
+
+$$\lambda_{n} \leq \int_{a}^{b} f \left(x\right) d x \leq \mu_{n}$$
+
+[FORMULA_IMAGE_UNREADABLE] (https://www.alloschool.com/files/premium/maths/2bac-sm/s7/img6.jpg)
+
+Proposition 16
+
+Soit $f$ une fonction continue sur un segment $\left[a , b\right] \left(a < b\right)$.
+
+Pour tout entier $n \in \mathbb{N} \star$ on pose :
+
+$s_{n} = \frac{b - a}{n} \sum_{k = 0}^{n - 1} f \left(a + k \frac{b - a}{n}\right)$ et $S_{n} = \frac{b - a}{n} \sum_{k = 1}^{n} f \left(a + k \frac{b - a}{n}\right)$
+
+Alors les deux suites $\left(s_{n}\right)_{n \geq 1}$ et $\left(S_{n}\right)_{n \geq 1}$ convergent et admettent $\int_{a}^{b} f \left(x\right) d x$ comme limite commune.
+
+Autrement dit :
+
+$$\underset{n \rightarrow + \infty}{lim} \frac{b - a}{n} \sum_{k = 0}^{n - 1} f \left(a + k \frac{b - a}{n}\right) = \underset{n \rightarrow + \infty}{lim} \frac{b - a}{n} \sum_{k = 1}^{n} f \left(a + k \frac{b - a}{n}\right) = \int_{a}^{b} f \left(x\right) d x$$
+
+Applications
+
+Calculer la limite :
+
+$$\underset{n \rightarrow + \infty}{lim} n \sum_{k = 0}^{n - 1} \frac{1}{n^{2} + k^{2}} \\ \\ \\ \\$$

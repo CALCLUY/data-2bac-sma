@@ -1,0 +1,104 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 2
+Sujet: Mouvements plans : Projectile dans le champ de pesanteur
+Type: Exercices
+Source: 
+---
+
+Séance 19A - Mouvements plans : Projectile dans le champ de pesanteur
+
+## II- Exercices
+
+### 2-1/ Exercice 1
+
+On étudie la trajectoire du centre d'inertie G d'un ballon de basket-ball lancé vers le cercle du panier de l'équipe adverse par un joueur attaquant. On ne tiendra pas compte des forces exercées par l'air sur le ballon.
+
+Le lancer est effectué vers le haut, le ballon est lancé lorsque son centre d'inertie est en $A$, aa vitesse initiale est représentée par un vecteur $\overset{\rightarrow}{V_{0}}$ situé dans un plan $\left(O , \overset{\rightarrow}{j} , \overset{\rightarrow}{k}\right)$ et faisant un angle $\alpha$ avec l'horizontale :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img14.bmp)
+
+Données :
+
+- $g = 9 , 8 m . s^{- 2}$
+- $\alpha = 40$
+- diamètre du ballon $d = 25 c m$
+
+1. Établir les équations horaires paramétriques du mouvement de $G$.
+
+2. Établir l'équation de la trajectoire.
+
+3. Calculer la valeur de la vitesse initiale $V_{0}$ du ballon pour que celui-ci passe exactement au centre $C$ du cercle constituant le panier.
+
+4. Pour une vitesse initiale $V_{0} = 7 m . s^{- 1}$, déterminer la hauteur maximale par rapport au sol du ballon durant sa trajectoire.
+
+Un défenseur $B D$, placé entre l'attaquant et le panneau de basket saute verticalement pour intercepter le ballon, l'extrémité de sa main se trouve en $B$ à l'altitude $h_{B} = 3 , 1 m$.
+
+5. Peut-il intercepter le ballon quelle que soit la distance horizontale à laquelle il se trouve de l'attaquant ? Si non, à quelle distance horizontale maximale de l'attaquant doit-il se trouver pour toucher le ballon du bout des doigts ?
+
+### 2-2/ Exercice 2
+
+Un projectile considéré comme ponctuel est lancé, dans le champ de pesanteur, à partir d'un point $A$ situé à la distance $h = 1 m$ du sol, avec une vitesse faisant un angle $\alpha$ avec l'horizontale et de valeur $V_{0} = 16 m . s^{- 1}$.
+
+Un mur de hauteur $H = 5 m$ est disposé à la distance $L = 8 m$ du lanceur :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img15.bmp)
+
+Données : $g = 9 , 8 m . s^{- 2}$
+
+1. Établir l'équation du mouvement du projectile dans le repère $\left(O , \overset{\rightarrow}{i} , \overset{\rightarrow}{j}\right)$.
+
+2. Établir l'équation cartésienne de la trajectoire du projectile. Quelle est sa nature ?
+
+3. Entre quelles valeurs doit être compris l'angle $\alpha$ pour que le projectile passe au-dessus du mur ?
+
+On fixe la valeur de $\alpha$ à $45 \circ$.
+
+Soit $B$ le point de passage du projectile au-dessus du mur.
+
+4. Calculer la distance $d$ séparant le sommet du mur au point $B$.
+
+Soit $V_{B}$ la vitesse du projectile au point $B$.
+
+Notons $\beta$ l'angle formé par la vitesse $\overset{\rightarrow}{V_{B}}$ et l'horizontale $\beta = \left(O x , \overset{\rightarrow}{V_{B}}\right)$
+
+5. Calculer $\beta$.
+
+6. Calculer l'altitude maximale $Y_{m a x}$ atteinte par le projectile. Déterminer la portée $X$ du tir.
+
+### 2-3/ Exercice 3
+
+Un enfant de masse $m = 35 k g$ glisse le long d'un toboggan de plage dans le référentiel terrestre supposé galiléen.
+
+Pour l'exercice, l'enfant sera assimilé à un point matériel $G$ et on négligera tout type de frottement ainsi que toutes les actions dues à l'air.
+
+Un toboggan de plage est constitué par :
+
+- une piste $D O$ qui permet à un enfant d'atteindre le point $O$ avec un vecteur vitesse $\overset{\rightarrow}{v_{0}}$ de valeur $v_{0} = 5 , 0 m . s^{- 1}$ faisant un angle = 30° avec l'horizontale 5,0 m.s-1 ;
+- une piscine de réception : la surface de l'eau se trouve à une distance $H$ au-dessous de $O$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s19/img16.bmp)
+
+Données :
+
+- Intensité de la pesanteur : $g = 10 m . s^{- 2}$
+- Dénivellation $h = 5 , 0 m$
+- Hauteur $H = 0 , 50 m$
+
+On prendra comme origine du temps le passage de l'enfant en $O$.
+
+1. Énoncer la deuxième loi de Newton.
+
+2. Appliquer la deuxième loi de Newton à l'enfant une fois qu'il a quitté le point $O$.
+
+3. Déterminer l'expression des composantes $a_{x} \left(\right. t \left.\right)$ et $a_{y} \left(\right. t \left.\right)$ du vecteur accélération dans le repère $\left(O x y\right)$.
+
+4. Déterminer l'expression des composantes $v_{x} \left(\right. t \left.\right)$ et $v_{y} \left(\right. t \left.\right)$ du vecteur vitesse dans le repère $\left(O x y\right)$.
+
+5. Déterminer l'expression des composantes $x \left(\right. t \left.\right)$ et $y \left(\right. t \left.\right)$ du vecteur position dans le repère $\left(O x y\right)$.
+
+6. Montrer que l'expression de la trajectoire de l'enfant notée $y \left(\right. x \left.\right)$ a pour expression :
+
+$y \left(x\right) = - \frac{1}{2} g \frac{x^{2}}{\left(v_{0}\right)^{2} . cos^{2} \alpha} + x . t g \alpha$
+
+7. En déduire la valeur de l'abscisse $x_{P}$ du point d'impact $P$ de l'enfant dans l'eau.

@@ -1,0 +1,64 @@
+---
+Chapitre: Chapitre 9 : Arithmétique dans Z
+Séance: Séance 9-3 : Arithmétique dans Z - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 9-3 : Arithmétique dans $\mathbb{Z}$ - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+## Sommaire
+
+### VII- Problème de synthèse
+
+#### 7-1/ Partie 1
+#### 7-2/ Partie 2
+
+* * *
+
+### VII- Problème de synthèse
+
+#### 7-1/ Partie 1
+
+On considère dans $\mathbb{N}^{3}$ l'équation : $\left(E\right) : x^{2} + y^{2} = z^{2}$
+
+1. Vérifier que $\left(0 ; 0 ; 0\right)$, $\left(3 ; 4 ; 5\right)$ et $\left(5 ; 12 ; 13\right)$ sont solutions de l'équation $\left(E\right)$.
+
+Soit $\left(u ; v\right) \in \mathbb{N}^{2}$ tel que $u < v$
+
+2. Montrer que $\left(u^{2} - v^{2} ; 2 u v ; u^{2} + v^{2}\right)$ est une solution de l'équation $\left(E\right)$.
+
+3. Montrer que si $\left(x ; y ; z\right)$ est solution de $\left(E\right)$ alors $\left(n x ; n y ; n z\right)$ est aussi solution de $\left(E\right)$ où $n \in \mathbb{N}$.
+
+#### 7-2/ Partie 2
+
+Dans cette partie, on veut résoudre l'équation $\left(E\right)$ dans l'ensemble $\left(\mathbb{N} \star\right)^{3}$.
+
+Soit $\left(\right. x ; y ; z \left.\right)$ une solution de l'équation $\left(E\right)$.
+
+On pose : $x \land y \land z = d$
+
+1. Montrer qu'on peut restreindre l'étude à $d = 1$.
+
+Dans tout ce qui suit, $\left(\right. x ; y ; z \left.\right)$ est une solution de $\left(E\right)$ telle que : $x \land y \land z = 1$
+
+2. Montrer que : $x \land y = y \land z = z \land x = 1$
+
+3. Montrer que $x$ et $y$ ont des parités distinctes et que le nombre $z$ est impair.
+
+On suppose dans ce qui suit que $z$ et $x$ sont impairs, $y$ est pair et on pose : $\delta = \left(z - x\right) \land \left(z + x\right)$
+
+4. Montrer que si $c^{2} = a b$ et $a \land b = 1$, alors :
+
+$$\left(\exists \left(\alpha ; \beta\right) \in \mathbb{N}^{2}\right) \left[a = \alpha^{2} e t b = \beta^{2} e t \alpha \land \beta = 1\right]$$
+
+5. a- Montrer que : $\delta = 2$
+
+5. b- En déduire qu'il existe $\left(u ; v\right) \in \mathbb{N}^{2}$ tel que : $\left{\begin{matrix} \begin{matrix}z + x = 2 u^{2} \\ z - x = 2 v^{2} \\ u \land v = 1\end{matrix} \end{matrix}\right$ puis que $y = 2 u v$
+
+5. c- En déduire que : $\left(\right. x ; y ; z \left.\right) = \left(u^{2} - v^{2} ; 2 u v ; u^{2} + v^{2}\right)$
+
+6. Donner les solutions de l'équation $\left(E\right)$.

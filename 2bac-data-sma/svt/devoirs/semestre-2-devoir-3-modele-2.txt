@@ -1,0 +1,172 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Devoirs
+Sujet: SVT 2Bac SM - Semestre 2 Devoir 3 Modèle 2
+Type: Devoir
+Source: 
+---
+
+SVT : 2 Bac SM
+Semestre 2 Devoir 3 Modèle 2
+Professeur : Mr BAHSINA Najib
+
+1/8
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-1/ Exercie 1 (5 pts)
+
+1. Donner l'énoncé de la loi de Hardy-Weinberg.
+
+2. Citer quatre caractéristiques de la population théorique idéale.
+
+- Une population à effectif infiniment grand ;
+-  Une population d’organismes diploïdes à reproduction sexuée ;
+- Croisement aléatoire entre individus : rencontre au hasard des gamètes ;
+- Une population à générations non chevauchantes (aucun croisement entre individus de générations différentes) ;
+- Absence de flux dû aux migrations : Population génétiquement isolée;
+- Absence de mutations (pas de changement d’un état allélique vers un autre).
+- Absence de sélection : Les individus ont la même capacité à se reproduire et donner une descendance capable de survivre
+
+3. Relier chaque mutation chromosomique du groupe 1 à ses caractéristiques dans le groupe 2 :
+
+| Groupe 1 | Groupe 2 |
+| --- | --- |
+| 1. Duplication<br>2. Translocation<br>3. Inversion<br>4. Délétion | - a- perte d’un fragment de chromosome.<br>- b- échange de morceaux entre deux chromosomes non homologues.<br>- c- présence en double exemplaire d’un fragment de chromosome.<br>- d- cassure sur le même chromosome et recollement après inversion du fragment. |
+
+2/8
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-2/ Exercie 2 (3 pts)
+
+Pour chacune des données suivantes, il y a une seule suggestion correcte :
+
+A- Selon la loi de Hardy-Weinberg, la stabilité des fréquences des deux allèles d’un caractère héréditaire quantitatif, dans une population naturelle, implique que :
+
+1. la population est en déséquilibre, d’une génération à l’autre, pour ce caractère ;
+2. la population est idéale en équilibre, d’une génération à l’autre, pour ce caractère ;
+3. les croisements entre les individus de la population sont réalisés d'une façon préférentielle ;
+4. les croisements sont réalisés entre des individus appartenant à des générations différentes.
+
+B- Au sein d’une population soumise à la loi de Hardy-Weinberg et dans le cas d’un gène porté par le chromosome X, la fréquence des génotypes est:
+
+1. égale à la fréquence des allèles chez le mâle et chez la femelle ;
+2. égale à la fréquence des allèles chez le mâle ;
+3. égale à la fréquence des allèles chez la femelle ;
+4. indépendante de la fréquence des allèles chez le mâle et chez la femelle.
+
+C- Le pool génétique d’une population est l’ensemble des allèles :
+
+1. qui occupent les locus des différents gènes de ses individus ;
+2. dominants qui occupent les locus des différents gènes de ses individus ;
+3. mutés qui occupent les locus des différents gènes de ses individus ;
+4. létaux qui occupent les locus des différents gènes de ses individus.
+
+D- La sélection naturelle est un mécanisme qui :
+
+1. conduit à une transmission d’allèles de façon préférentielle d’une génération à l’autre ;
+2. est indépendant des conditions de survie et de fécondité des individus d’une population;
+3. s’applique à l’individu et non à l’ensemble des individus d’une population;
+4. produit un brassage héréditaire à l’origine de l’homogénéité des individus de la population.
+
+3/8
+
+SVT : 2 Bac SM
+Semestre 2 Devoir 3 Modèle 2
+Professeur : Mr BAHSINA Najib
+
+4/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-1/ Exercice 3 (6 pts)
+
+Pour mettre en évidence l'action de l’un des facteurs de la variation génétique de la population sur sa structure génétique on propose l'exploitation des données suivantes :
+
+##### Donnée 1
+
+On a constaté à l’ échelle mondiale, que des concentrations d insecticides initialement très efficaces contre les moustiques, dans une zone donnée, perdaient cette efficacité au cours du temps, ce qui a conduit à utiliser des doses croissantes d insecticides.
+
+Ceci est dû à l’apparition d’une résistance aux insecticides chez les moustiques.
+
+Le gène de résistance aux insecticides nommé (Ace), chez le moustique, possède deux allèles :
+
+l’allèle R responsable de la résistance aux insecticides
+
+l’allèle S responsable de la sensibilité aux insecticides.
+
+Dans une région non traitée par les insecticides, on a recensé, chez une population donnée, les nombres des différents génotypes liés à ce gène.
+
+Le tableau suivant résume les résultats obtenus :
+
+[Figure — image : tableau des effectifs des différents génotypes du gène Ace]
+
+1. Calculez la fréquence p de l’allèle S et la fréquence q de l’allèle R.
+
+2. Déterminez les nombres théoriques des trois génotypes en considérant que cette population est en équilibre selon la loi de Hardy-Weinberg.
+
+5/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-1/ Exercice 3 (6 pts)
+
+##### Donnée 2
+
+Afin de déterminer l’action de l’utilisation excessive des insecticides sur les populations des moustiques dans la région côtière de Montpellier en France, qui a connu un traitement continu par les insecticides entre 1968 et 2002, on a recensé puis déterminé la fréquence des moustiques résistants, dans cette région et dans ses environs, avant traitement par les insecticides (en 1968) et après traitement (en 2002).
+
+Le document suivant résume les résultats obtenus :
+
+[Figure — image : fréquence des moustiques résistants avant (1968) et après (2002) traitement]
+
+On signale qu’en 1993, on a constaté, dans la région côtière de Montpellier, l apparition d une nouvelle souche de moustiques résistante aux insecticides.
+
+3. Décrivez l’évolution de la fréquence des moustiques résistants aux insecticides avant et après le traitement.
+
+4. Expliquez la relation entre l’utilisation excessive des insecticides et la variation de la fréquence des moustiques résistants aux insecticides.
+
+6/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-2/ Exercice 4 (6 pts)
+
+Afin de favoriser l'amélioration de la longueur du tube de la corolle chez Longiflora (plante angiosperme), on a eu recours à la technique de la sélection artificielle, qui consiste à isoler les individus caractérisés par des tubes de corolle longs et les soumettre à des croisements aléatoires entre eux.
+
+Pour mettre en évidence l'efficacité de cette sélection, on propose l'étude des données expérimentales suivantes :
+
+L'étude statistique de la distribution de la longueur du tube de la corolle dans la population mère (P1) de Longifiora, a permis l'établissement de l'histogramme de fréquence, du polygone de fréquence et le calcul des paramètres statistiques $\bar{X}$ et $\sigma$ :
+
+[Figure — image : histogramme et polygone de fréquence de la longueur du tube de la corolle chez P1]
+
+1. Déterminez le type de variation étudiée.
+
+2. Décrivez la distribution de fréquence dans cette population. Qu'en déduisez- vous ?
+
+7/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-2/ Exercice 4 (6 pts)
+
+Les individus caractérisés par des tubes de corolle dont la longueur est égale ou supérieure à 79mm sont isolés et croisés entre eux au hasard.
+
+On a obtenu de ces croisements une population fille (P2).
+
+Le tableau suivant représente la distribution des fréquences de la longueur du tube de la corolle chez la population P2 :
+
+[Figure — image : tableau de distribution des fréquences chez la population P2]
+
+On donne : $$\sigma=\sqrt{\frac{\sum_{1}^{n}f_{i}\left(x_{i}-X\right)^{2}}{n}}\ ;\quad X=\frac{\sum_{1}^{n}\left(f_{i}x_{i}\right)}{n}$$
+
+3. Calculer la moyenne arithmétique et l’écart-type de cette distribution. Utilisez un tableau d'application pour calculer ces paramètres.
+
+[Figure — image : tableau d'application vierge]
+
+4. Comparer les paramètres statistiques $\bar{X}$ et $\sigma$ des deux populations P1 et P2.
+
+5. Qu'en déduisez-vous à propos de l'efficacité de la sélection  artificielle effectuée ?
+
+8/8

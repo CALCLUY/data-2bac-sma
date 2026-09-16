@@ -1,0 +1,177 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Devoirs
+Sujet: SVT 2Bac SM - Semestre 2 Devoir 3 Modèle 1
+Type: Devoir
+Source: 
+---
+
+SVT : 2 Bac SM
+Semestre 2 Devoir 3 Modèle 1
+Professeur : Mr BAHSINA Najib
+
+1/9
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-1/ Exercie 1 (2 pts)
+
+Définissez :
+
+- Le variable continu :
+
+- L’écart type  :
+
+2/9
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-2/ Exercie 2 (3 pts)
+
+Répondre par « Vrai » ou « Faux » :
+
+- Une lignée pure est un ensemble d’individus hétérozygotes pour les gènes étudiés : _________
+
+- Une population homogène est une population qui donne après sélection plus d’une lignée pure : _________
+
+- La biométrie constitue un moyen d’étude de la variation des caractères héréditaires qualitatifs : _________
+
+- La courbe de fréquence unimodale indique que la population est homoogène pour le caractère étudié : _________
+
+3/9
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-3/ Exercie 3 (3 pts)
+
+Pour chacune des données suivantes, il y a une seule suggestion correcte :
+
+A- Les paramètres de disperssin sont :
+
+1. le mode, la moyenne arithmétique et la variance.
+2. l’écart type et la variance.
+3. la moyenne arithmétique et le mode.
+4. la moyenne arithmétique et la variance.
+
+B- La sélection artificielle :
+
+1. est efficace chez les populations homogènes.
+2. constitue un résultat de l'effet du milieu sur un caractère héréditaire donné.
+3. permet d'obtenir des lignées qui ont les caractères désirés.
+4. est efficace lorsqu'il s’agit de populations de faible variabilité génétique.
+
+C- Le mode :
+
+1. représente la valeur de la variable la plus fréquente.
+2. est utilisé avec le mode pour calculer l'intervalle de confiance.
+3. est l'un des paramètres de dispersion.
+4. est l'un des paramètres de position.
+
+D- La variation discontinue est une variation :
+
+1. où les variables prennent toutes les valeurs de l'intervalle de variation.
+2. où les variables prennent les valeurs en nombres entiers naturels.
+3. qui permet de déterminer le mode de la transmission des caractères héréditaires.
+4. qui permet de mesurer la variation des caractères héréditaires qualitatifs.
+
+4/9
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-1/ Exercice 4 (7 pts)
+
+Pour mettre en évidence le degré d'efficacité de la sélection artificielle dans la sélection des races pures, on propose les données suivantes :
+
+##### Donnée 1
+
+Un agriculteur veut se spécialiser dans la production d’une espèce de plantes à fleurs à bulbes qui se vend bien chez les fleuristes.
+
+Après avoir semé les graines de cette espèce, il obtient une population (P1) dont 1/3 des fleurs sont difficiles à vendre car leur tige florale est trop courte.
+
+Ceci l'a poussé à étudier la variation de la longueur de la tige florale chez les individus de cette population.
+
+La courbe (1)  représente le polygone de fréquence de la longueur de la tige florale chez les individus de la population (P1) :
+
+[Figure — image : polygones de fréquence de la longueur de la tige florale, courbes (1), (2) et (3)]
+
+1. Décrivez la distribution des fréquences de la longueur des tiges florales chez la population (P1). Que déduisez-vous concernant cette distribution ?
+
+5/9
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-1/ Exercice 4 (7 pts)
+
+##### Donnée 2
+
+Pour obtenir une variété de plantes ayant des fleurs à tige longue, il réalise une autofécondation des fleurs de la population (P1) dont la longueur de la tige florale est comprise entre 65cm et 70cm, il obtient ainsi des graines dont la germination donne une population (P2).
+
+La courbe (2)  représente le polygone de fréquence de la longueur de la tige florale chez les individus de la population (P2) :
+
+[Figure — image : polygones de fréquence (rappel)]
+
+2. Décrivez la distribution des fréquences de la longueur des tiges florales chez la population (P2). Que déduisez-vous en ce qui concerne la sélection pratiquée par l'agriculteur ?
+
+3. Déterminez si les résultats obtenus après la sélection sont en accord avec votre déduction en réponse à la question 1.
+
+6/9
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-1/ Exercice 4 (7 pts)
+
+##### Donnée 3
+
+En opérant de la même manière l'agriculteur réalise une autofécondation des fleurs de la population (P2) dont la longueur de la tige florale est comprise entre 75cm et 80cm. Il obtient des graines dont la germination donne une population (P3).
+
+La courbe (3)  représente le polygone de fréquence de la longueur de la tige florale chez les individus de la population (P3) :
+
+[Figure — image : polygones de fréquence (rappel)]
+
+4. D’après votre réponse à la question 2 et en exploitant la courbe (3) , montrez, en justifiant votre réponse, les limites de la sélection pratiquée par l'agriculteur pour augmenter la taille des tiges des fleurs.
+
+7/9
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-2/ Exercice 5 (5 pts)
+
+La mouche Drosophila pseudoobscura est une espèce très répandue en Amérique et s’y rencontre dans des régions de climats fort différents. Cette mouche présente deux phénotypes [ST] et [AR].
+
+Afin d’expliquer la répartition géographique de ces deux phénotypes chez les populations de cette espèce, on présente les observations et les expériences suivantes :
+
+##### Donnée 1
+
+Le tableau suivant donne la répartition des deux phénotypes [ST] et [AR] chez les populations de Drosophila pseudoobscura, dans la région de la Sierra Nevada, en fonction de l’altitude :
+
+[Figure — image : tableau de répartition des phénotypes [ST] et [AR] en fonction de l’altitude]
+
+1. En vous basant sur les données du tableau, comparez l’évolution du pourcentage des deux phénotypes [ST] et [AR] en fonction de l’altitude.
+
+8/9
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-2/ Exercice 5 (5 pts)
+
+##### Donnée 2
+
+L’observation des populations vivant à basse altitude montre que l’été est marqué par une prédominance du phénotype [ST], tandis que [AR] domine en hiver, ce qui a poussé les chercheurs à émettre une hypothèse sur l’existence d’une relation entre la variation des pourcentages de ces deux phénotypes et la variation de la température du milieu.
+
+Pour vérifier cette hypothèse on a réalisé les expériences suivantes :
+
+On constitue expérimentalement deux populations de drosophila pseudoobscura, puis on suit l’évolution des proportions des phénotypes [ST] et [AR] pendant 23 générations selon les conditions expérimentales suivantes :
+
+- La population 1 : composée de 90% [AR] et 10% [ST] est maintenue à 25°C.
+- La population 2 : composée de 10% [AR] et 90% [ST] est maintenue à 16°C.
+
+A partir des résultats du suivi de la fréquence de chaque phénotype chez les deux populations, on a déterminé l’évolution de la fréquence de l’allèle ST qui contrôle le phénotype [ST].
+
+Le document suivant présente les résultats obtenus :
+
+[Figure — image : évolution de la fréquence de l’allèle ST au cours des 23 générations dans les deux populations]
+
+2. Décrivez l’évolution de la fréquence de l’allèle ST au cours des générations, dans chaque population, et montrez comment la sélection naturelle influence la structure génétique de la population de la drosophile.
+
+9/9

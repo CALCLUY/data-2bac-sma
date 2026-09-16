@@ -1,0 +1,176 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Oscillations libres d'un circuit RLC série
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 12 (Les oscillations libres dans un circuit RLC série)
+Professeur : Mr El GOUFIFA Jihad
+
+## VI- Exercices
+
+### 6-1/ Exercice 1
+
+On considère le montage de la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img15.jpg)
+
+On charge le condensateur de capacité $C$ à l'aide d'un générateur de force électromotrice $E$ puis on bascule l'interrupteur $K$ à la position (2) en prenant cet instant comme origine des temps.
+
+On donne : $E = 12 V$, $L$ : inductance de la bobine est variable, $C = 1 \mu F$.
+
+Lorsque le condensateur est totalement chargé, on bascule l'interrupteur $K$ à la position (2) à un instant $t = 0$.
+
+La courbe de la figure suivante donne l'évolution temporelle de la charge du condensateur $q \left(\right. t \left.\right)$ :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img16.png)
+
+1. Nommer le régime oscillatoire correspondant.
+
+1. En considérant que la pseudo-période est égale à la période propre, déterminer la valeur de l'inductance $L$ (On prend $\pi^{2} = 10$).
+
+1. Calculer la variation de l'énergie totale du circuit entre les instants $t_{1} = 0$ et $t_{2} = 18 m s$. Interpréter le résultat obtenue.
+
+Pour entretenir les oscillations, on monte en série avec le condensateur et la bobine précédente un générateur $G$ qui délivre une tension électrique $u_{G} = K . i$.
+
+1. Établir l'équation différentielle vérifiée par la charge $q \left(\right. t \left.\right)$.
+
+Lorsque la constante $K$ prend la valeur $K = 11$, on obtient des oscillations électriques sinusoïdales.
+
+1. En déduire la valeur de la résistance $" r "$ de la bobine.
+
+### 6-2/ Exercice 2
+
+On réalise le montage représenté dans la suivante qui comprend en série :
+
+- Un condensateur de capacité $C = 95 \mu F$ chargé sous la tension $E = 10 V$
+- Une bobine d'inductance $L = 9 , 6 m H$ et de résistance négligeable.
+- Un conducteur ohmique de résistance $R = 2 \Omega$
+- Un interrupteur $K$
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img13.jpg)
+
+On ferme l'interrupteur $K$ à $t = 0$.
+
+La figure 2 représente les variations de la tension uc aux bornes du condensateur :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img14.jpg)
+
+1. Montrer que l'équation différentielle vérifiée par $u_{C} \left(t\right)$ s'écrit ($\alpha$ une constante à exprimer) :
+
+$\frac{d^{2} u_{C}}{d t^{2}} + 2 \alpha \frac{d u_{C}}{d t} + \frac{1}{L C} u_{C} = 0$
+
+La solution de l'équation différentielle s'écrit sous la forme :
+
+$u_{C} = U_{0} e^{- \alpha t} cos \left(\frac{2 \pi}{T} t\right)$
+
+1. Exprimer la tension $U_{1}$ aux bornes du condensateur à $t = T$ en fonction de $U_{0}$, $\alpha$ et $T$. Calculer sa valeur.
+
+1. Montrer que $u_{C} \left(n T\right) = U_{0} e^{- \alpha . n . T}$ ou $n$ est un entier naturel non nul.
+
+1. Déduire que $u_{C} \left(n T\right) = \frac{\left(U_{1}\right)^{n}}{\left(U_{0}\right)^{n - 1}}$.
+
+1. En déduire l'énergie dissipée par effet joule au bout des trois premières pseudo-périodes.
+
+### 6-3/ Exercice 3
+
+On charge un condensateur de capacité C à l'aide d'un générateur de force électromotrice E, puis on bascule l'interrupteur K à la position (2) en prenant cet instant comme origine des temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img11.jpg)
+
+On donne : $E = 12 V$, L : inductance de la bobine est variable (sa résistance est négligeable), $C = 1 \mu F$ et $R = 1 K \Omega$.
+
+La tension aux bornes du condensateur évolue en fonction du temps comme le montre la figure suivante :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img12.png)
+
+1. Les oscillations électriques observées sont amorties. Quel est le dipôle responsable de cet amortissement ?
+
+1. Qualifier ce régime d'oscillations par un terme approprié.
+
+1. Sur la courbe de la figure précédente sont indiqués deux points A et B. Comment appelle-t-on la durée entre ces deux points ? Déterminer graphiquement sa valeur.
+
+1. Établir l'équation différentielle vérifiée par la tension aux bornes du condensateur.
+
+Pour entretenir les oscillions on ajoute dans le circuit précédent un dispositif.
+
+1. Expliquer dans une phrase, le rôle de ce dispositif du point de vue énergétique.
+
+1. Donner l'expression de la période propre $T_{0}$ du circuit oscillant et calculer sa valeur. On donne : $C = 1 \mu F$ et $L = 0 , 1 H$.
+
+1. En déduire la fréquence $f_{0}$ de la tension obtenue.
+
+Le circuit oscillant est ensuite relié à un haut parleur convertissant cette onde électrique en une onde sonore de fréquence $f_{0}$.
+
+On souhaite que notre instrument émet la note $l a_{3}$ à l'aide du circuit précédent.
+
+On donne les fréquences de l'octave 3 de la gamme tempérée :
+
+| Note | do | Ré | mi | fa | sol | $l a_{3}$ | si |
+|---|---|---|---|---|---|---|---|
+| Fréquence (en Hz) | 262 | 294 | 330 | 349 | 392 | 440 | 494 |
+
+1. La fréquence précédente obtenue est-elle un son de l'octave 3 de la gamme ?
+
+1. Quels paramètre peut-on changer pour modifier la valeur de la fréquence émise ?
+
+1. Sachant qu'on ne dispose pas d'autres condensateurs que celui du circuit précédent, calculer la valeur de l'autre paramètre qui permettra d'obtenir la note $l a_{3}$.
+
+On règle ce paramètre sur $232 m H$.
+
+1. Déterminer la nature de la note émise par le diapason.
+
+### 6-4/ Exercice 4
+
+On considère le montage suivant qui se compose d'un générateur de force électromotrice, d'un condensateur de capacité $C$, d'une bobine de coefficient d'induction $L$ et de résistance négligeable et d'un conducteur ohmique de résistance $R$ variable :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img17.jpg)
+
+On ferme l'interrupteur $K$ à la position (1) à l'instant $t = 0$.
+
+1. Établir l'équation différentielle vérifiée par la tension $u_{C}$ aux bornes du condensateur. (On pose $\tau = R C$).
+
+1. Montrer que $u_{C} \left(t\right) = A \left(1 - e^{- \alpha . t}\right)$ est solution de l'équation différentielle précédente puis déduire l'expression de $A$ et de $\alpha$.
+
+1. En utilisant l'analyse dimensionnelle déterminer l'unité de $\alpha$.
+
+1. Montrer que l'énergie électrique maximale emmagasinée dans le condensateur est $E_{e . m a x} = \frac{1}{2} C . E^{2}$.
+
+1. Montrer que l'énergie électrique emmagasinée dans le condensateur est $E_{e} = E_{e . m a x} \left(1 - e^{- \frac{t}{\tau}}\right)^{2}$.
+
+On donne dans la figure suivante la courbe qui représente les variations de l'énergie électrique emmagasinée dans le condensateur en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img18.jpg)
+
+1. Déterminer graphiquement la valeur de $\tau$.
+
+1. Déduire la valeur de la capacité $C$ du condensateur sachant que la force électromotrice du générateur est $E = 10 V$.
+
+1. Montrer que $R = 12 , 5 K \Omega$.
+
+Lorsque le régime permanent est établit on décale l'interrupteur vers la position (2) à un instant $t = 0$.
+
+On obtient La courbe (1) qui représente les variations de la tension uc aux bornes du condensateur en fonction du temps :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s12/img19.bmp)
+
+1. Nommer le régime que représente chacune des courbes.
+
+1. Déterminer la charge du condensateur à l'instant $t = 0$.
+
+On fait diminuer la valeur de la résistance $R$ et on obtient la courbe (2).
+
+1. Déterminer graphiquement la valeur de la pseudo-période $T$ de l'oscillateur.
+
+1. Sachant que la pseudo-période est égale à la période propre, déterminer la valeur du coefficient d'induction $L$ de la bobine (On prend $\pi^{2} = 10$).
+
+1. Monter que l'énergie totale du circuit diminue. Interpréter cette diminution.
+
+Lorsque le condensateur est totalement chargé, on fait varier la valeur de la résistance $R$ jusqu'à ce qu'elle s'annule ($R = 0$), puis on décale l'interrupteur $K$ vers la position (2) à un instant $t = 0$.
+
+1. Déterminer l'équation différentielle vérifiée par la tension $u_{C}$ aux bornes du condensateur.
+
+1. Montrer que $u_{C} = A . cos \left(\frac{1}{\sqrt{L C}} . t\right)$ est solution de l'équation différentielle précédente, puis déterminer l'expression de $A$ en fonction des paramètres du circuit et déterminer sa valeur.

@@ -1,0 +1,115 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: Suivi temporel d'une transformation chimique - Vitesse de réaction
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 5 (Suivi temporel d'une transformation chimique – Vitesse de réaction)
+Professeur : Mr El GOUFIFA Jihad
+
+## IV- Exercices
+
+### 4-1/ Exercice 1
+
+Deux groupes d'élèves veulent étudier l'évolution dans le temps de la réaction d'oxydation des ions iodure $I^{-}$ par les ions peroxodisulfate $S_{2} \left(O_{8}\right)^{2 -}$ dans deux conditions expérimentales différentes.
+
+L'équation de cette réaction est :
+
+$\overline{\left.\right)2 I^{-} + S_{2} \left(O_{8}\right)^{2 -} \rightarrowtail I_{2} + 2 S \left(O_{4}\right)^{2 -}}$
+
+Cette réaction est lente et pratiquement totale.
+
+Ils sont partis à $t = 0$ du même mélange : $50 m l$ d'une solution aqueuse de $K I$ et de concentration $C_{1} = 0 , 5 m o l . L^{- 1}$ et $50 m l$ d'une solution aqueuse de $N a_{2} S_{2} O_{8}$ de concentration $C_{2}$.
+
+Le groupe A suit l'évolution de la réaction à la température ambiante, par contre le groupe B suit l'évolution de la réaction dans un bain marie dont la température est maintenue à $T = 80 \circ C$.
+
+À l'aide d'un protocole bien approprié qui n'est pas décrit ici les deux groupes ont tracé les deux courbes qui traduisent l'évolution de l'avancement $x$ au cours du temps sur le même graphique ci-dessous :
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img18.png)
+
+1. Identifier la courbe tracée par le groupe B. Justifier la réponse.
+
+1. Préciser l'effet de la température sur le déroulement de la réaction chimique étudiée. Que peut-ton dire de la température ?
+
+1. Dresser le tableau d'avancement descriptif qui décrit l'évolution de la réaction.
+
+1. Déterminer l'avancement maximal $x_{f}$.
+
+1. Montrer que $S_{2} \left(O_{8}\right)^{2 -}$ est le réactif limitant. Et déduire la valeur de la concentration $C_{2}$.
+
+1. Déterminer la composition de chaque système chimique après un quart d'heure du départ de la réaction.
+
+1. Déterminer la vitesse de la réaction dans chaque condition à la même date $t = 15 m i n$.
+
+### 4-2/ Exercice 2
+
+On attaque 2g de limaille de zinc $Z n_{\left(\right. s \left.\right)}$ par un volume V = 15 mL d'une solution aqueuse de chlorure d'hydrogène $\left(\right. \left(H^{+}\right)_{\left(\right. a q \left.\right)} + C \left(l^{-}\right)_{\left(\right. a q \left.\right)} \left.\right)$ de concentration molaire $C = 0 , 12 m o l . L^{- 1}$.
+
+On suit l'évolution du système au cours du temps en mesurant le volume de dihydrogène dégagé à température et pression constantes pour lesquelles le volume molaire $V_{m}$ des gaz est de $24 L . m o l^{- 1}$.
+
+Les résultats obtenus sont consignés dans le tableau suivant
+
+| $T e m p s \left(\right. s \left.\right)$ | 0 | 5 | 10 | 15 | 20 | 30 | 40 | 60 | 90 | 120 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| $V \left(\right. H_{2} \left.\right) \left(\right. m L \left.\right)$ | 0,0 | 2,0 | 4,2 | 5,5 | 7,7 | 10,5 | 13,0 | 16,0 | 18,0 | 19,5 |
+
+1. Écrire l'équation chimique qui symbolise cette réaction. $H^{+} / H_{2} ; Z n^{2 +} / Z n$
+
+1. Dresser le tableau descriptif d'évolution du système.
+
+1. Donner l'expression de sa vitesse volumique instantanée en fonction de $V \left(\right. H_{2} \left.\right)$.
+
+1. Tracer la courbe représentant la variation de $V \left(\right. H_{2} \left.\right)$ en fonction du temps.
+
+1. Calculer la vitesse volumique de la réaction à l'instant de date $t = 50 s$.
+
+### 4-3/ Exercice 3
+
+Lors d'une séance de travaux pratiques, on mélange un volume $V_{1} = 10 m L$ de solution de peroxodisulfate de sodium $N a_{2} S_{2} O_{8}$ de concentration $C_{1} = 0 , 10 m o l . L^{- 1}$ avec un volume $V_{2} = 90 m L$ de solution d'iodure de potassium $K I$ de concentration $C_{2} = 0 , 10 m o l . L^{- 1}$.
+
+Par une méthode convenable, on détermine, à différents instants, la concentration $\left[\right. I_{2} \left]\right.$ du diiode et on trace la courbe $\left[\right. I_{2} \left]\right. = f \left(t\right)$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img17.bmp)
+
+1. Écrire l'équation chimique de la réaction qui modélise cette transformation, les couples rédox mis en jeu $I_{2} / I^{-}$ et $S_{2} \left(O_{8}\right)^{2 -} / S \left(O_{4}\right)^{2 -}$
+
+1. S'agit-il d'une transformation lente ou rapide ?
+
+1. Montrer que l'un des réactifs est en excès.
+
+1. Calculer la concentration du diiode à l'état final.
+
+1. Déduire l'avancement final $x_{f}$ de la réaction ainsi que le temps de demi-réaction.
+
+1. Calculer la concentration finale du réactif en excès.
+
+### 4-4/ Exercice 4
+
+Dans un ballon, on verse un volume $V_{A} = 75 , 0 m l$ d'une solution concentrée d'acide sulfurique $\left(\right. 2 H_{3} O^{+} + S \left(O_{4}\right)^{2 -} \left.\right)$ de concentration en ions oxonium $\left[\right. H_{3} O^{+} \left]\right. = 0 , 4 m o l / L$.
+
+À l'instant initial, on introduit une masse de $m = 0 , 6 g$ de zinc en poudre.
+
+Très rapidement, on ferme ce ballon avec un bouchon percé qui permet de relier par un tuyau le contenu du ballon avec un manomètre.
+
+On note, régulièrement, la valeur de la pression indiquée sur le manomètre.
+
+Données : La masse molaire du zinc : $M \left(\right. Z n \left.\right) = 65 , 4 g / m o l$
+
+1. Calculer $n_{i} \left(\right. H_{3} O^{+} \left.\right)$ la quantité de matière initiale des ions oxonium et $n_{i} \left(\right. Zn \left.\right)$ la quantité de matière initiale de zinc.
+
+1. Dresser le tableau d'avancement de cette transformation, en considérant $x$ comme l'avancement de cette transformation et $x_{m a x}$ son avancement maximal.
+
+1. En appliquant l'équation d'état d'un gaz parfait et en utilisant le tableau d'avancement, trouver l'expression de l'avancement x à l'instant t en fonction de R, T, V et $\Delta P$ avec $\Delta P = P \left(\right. t \left.\right) - P_{0}$ tel que $P_{0}$ la pression initiale mesuré à l'instant t=0 et $P$ la pression à l'instant t.
+
+Soit $\Delta P_{m a x} = P_{max} - P_{0}$ la variation de pression maximale.
+
+1. Montrer que : $x \left(\right. t \left.\right) = x_{m a x} \frac{\Delta P \left(\right. t \left.\right)}{\Delta P_{m a x}}$
+
+Cette expérience nous a permis de tracer la courbe dans la figure ci-dessous qui représente la variation de $ΔP \left(\right. t \left.\right)$ en fonction du temps t.
+
+1. Déterminer graphiquement la valeur du temps de demi-réaction $t_{1 / 2}$.
+
+[FORMULA_IMAGE_UNREADABLE] (figure : s5/img16.bmp)

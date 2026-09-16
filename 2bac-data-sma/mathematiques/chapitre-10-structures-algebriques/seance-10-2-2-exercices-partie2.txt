@@ -1,0 +1,107 @@
+---
+Chapitre: Chapitre 10 : Structures algébriques
+Séance: Séance 10-2-2 : Structures algébriques - Partie 2 (Exercices)
+Type: Exercices
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 10-2-2 : Structures algébriques - Partie 2 (Exercices)
+Professeur : Mr CHEDDADI Haitam
+
+#### 8-1/ Exercice 2-1
+
+On rappelle que $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \times\right)$ est un anneau de zéro $O = \begin{bmatrix} 0 & 0 \\ 0 & 0 \end{bmatrix}$ et d'unité $I = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$, et que $\left(\mathbb{C} ; + ; \times\right)$ est un corps commutatif.
+
+Pour tous $a$ et $b$ de $\mathbb{R}$, on pose : $M \left(a ; b\right) = \begin{bmatrix} a & a - b \\ b & a + b \end{bmatrix}$
+
+On considère l'ensemble : $E = \left{M \left(a ; b\right) / \left(a ; b\right) \in \mathbb{R}^{2}\right}$
+
+1. Montrer que $E$ est un sous-groupe de $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; +\right)$.
+
+2. Calculer $J^{2} = J \times J$ où $J = \begin{bmatrix} 1 & 1 \\ 0 & 1 \end{bmatrix}$, puis en déduire que $E$ n'est pas une partie stable de $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; \times\right)$.
+
+On définit sur l'ensemble $\mathbb{M}_{2} \left(\mathbb{R}\right)$ une loi de composition interne $\star$ par $A \star B = A \times N \times B$ avec $N = \begin{bmatrix} 1 & - 1 \\ 0 & 1 \end{bmatrix}$
+
+On considère l'application $\varphi$ de $\mathbb{C} \star$ dans $\mathbb{M}_{2} \left(\mathbb{R}\right)$ et qui, à chaque nombre complexe non nul $a + i b$ ($a$ et $b$ deux réels), la matrice $M \left(a ; b\right)$.
+
+3. Montrer que $\varphi$ est un morphisme de $\left(\mathbb{C} \star ; \times\right)$ dans $\left(\right. E , \star \left.\right)$
+
+On pose : $E \star = E - \left{O\right}$
+
+4. Montrer que $\varphi \left(\mathbb{C} \star\right) = E \star$
+
+5. Montrer que $\left(E \star ; \star\right)$ est un groupe commutatif.
+
+6. Montrer que pour tout $\left(A ; B ; C\right) \in E^{3}$ : $A \star \left(B + C\right) = A \star B + A \star C$
+
+7. En déduire de ce qui précède que $\left(E ; + ; \star\right)$ est un corps commutatif.
+
+#### 8-2/ Exercice 2-2
+
+On rappelle que $\left(\mathbb{M}_{3} \left(\mathbb{R}\right) ; + ; \times\right)$ est un anneau non commutatif.
+
+On considère l'ensemble :
+
+$$E = \begin{Bmatrix} M \left(x\right) = \begin{bmatrix} 1 & 0 & 0 \\ x & 1 & 0 \\ x^{2} & 2 x & 1 \end{bmatrix} / x \in \mathbb{R} \end{Bmatrix}$$
+
+1. Montrer que $E$ est une partie stable de $\left(\mathbb{M}_{3} \left(\mathbb{R}\right) ; \times\right)$
+
+2. Montre que l'application $\varphi$ qui, à tout réel $x$, associe la matrice $M \left(x\right)$ de $E$, est un isomorphisme de $\left(\mathbb{R} ; +\right)$ dans $\left(E ; \times\right)$.
+
+3. En déduire que $\left(E ; \times\right)$ est un groupe commutatif.
+
+4. Déterminer $\left(M \left(x\right)\right)^{- 1}$, la matrice inverse de $M \left(x\right)$
+
+5. Résoudre dans $E$ l'équation $A^{5} X = B$ où $A = M \left(2\right)$, $B = M \left(12\right)$ et $A^{5} = A \times A \times A \times A \times A$
+
+6. Montrer que l'ensemble $F = \left{M \left(ln x\right) / x \in \mathbb{R}_{+}^{\star}\right}$ est un sous-groupe du groupe $\left(E ; \times\right)$
+
+#### 8-3/ Exercice 2-3
+
+On rappelle que $\left(\mathbb{M}_{3} \left(\mathbb{R}\right) ; + ; \times\right)$ est un anneau d'unité $I = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}$, et que $\left(\mathbb{R} ; +\right)$ est un groupe commutatif.
+
+Soit $a$ un réel strictement positif.
+
+Soit $E$ le sous-ensemble de $\left(\mathbb{M}_{3} \left(\mathbb{R}\right) ; + ; \times\right)$ définie par :
+
+$$E = \begin{Bmatrix} M \left(x\right) = \begin{bmatrix} a^{x} & 0 & 0 \\ 0 & 1 & x \\ 0 & 0 & 1 \end{bmatrix} / x \in \mathbb{R} \end{Bmatrix}$$
+
+1. Montrer que $E$ est stable dans $\left(\mathbb{M}_{3} \left(\mathbb{R}\right) ; \times\right)$
+
+2. Montrer que l'application $\varphi$ définie par $\varphi \left(x\right) = M \left(x\right)$ est un isomorphisme de $\left(\mathbb{R} ; +\right)$ dans $\left(E ; \times\right)$.
+
+3. Montrer de deux façons différentes que $\left(E ; \times\right)$ est un groupe commutatif.
+
+#### 8-4/ Exercice 2-4
+
+On rappelle que $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; + ; \times\right)$ est un anneau d'unité $I = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$, et que $\left(\mathbb{R} ; +\right)$ est un groupe commutatif.
+
+Pour tout réel $x$, on pose : $M \left(x\right) = \begin{bmatrix} 1 - x & x \\ - 2 x & 1 + 2 x \end{bmatrix}$
+
+On considère l'ensemble : $E = \left{M \left(x\right) / x \in \mathbb{R}\right}$
+
+On munit $E$ d'une loi de composition interne $T$ donnée par :
+
+$$\left(\forall \left(x ; y\right) \in \mathbb{R}^{2}\right) M \left(x\right) T M \left(y\right) = M \left(x + y + 1\right)$$
+
+Soit $\varphi$ l'application définie de $\mathbb{R}$ dans $E$ par :
+
+$$\left(\forall x \in \mathbb{R}\right) \varphi \left(x\right) = M \left(x - 1\right)$$
+
+1. Montrer que $\varphi$ est un morphisme de $\left(\mathbb{R} ; +\right)$ dans $\left(E ; T\right)$.
+
+2. Montrer que $\left(E ; T\right)$ est un groupe commutatif.
+
+3. Montrer que pour tout $\left(x ; y\right) \in \mathbb{R}^{2}$ : $M \left(x\right) \times M \left(y\right) = M \left(x + y + x y\right)$
+
+4. En déduire que $E$ est stable dans ( $\left(\mathbb{M}_{2} \left(\mathbb{R}\right) ; \times\right)$, et que la loi $\ll \times \gg$ est commutative dans $E$.
+
+5. Montrer que la loi $\ll \times \gg$ est distributive par rapport à la loi $\ll T \gg$ dans $E$.
+
+6. Vérifier que $M \left(- 1\right)$ est l'élément neutre dans $\left(E ; T\right)$, et que $I$ est l'élément neutre dans $\left(E ; \times\right)$.
+
+7. Vérifier que pour tout $x \in \mathbb{R} - \left{- 1\right}$ : $M \left(x\right) \times M \left(\frac{- x}{1 + x}\right) = I$
+
+8. Montrer que $\left(E ; T ; \times\right)$ est un corps commutatif.

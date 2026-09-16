@@ -1,0 +1,85 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Semestre 1
+Sujet: État d'équilibre d'un système chimique
+Type: Exercices
+Source: 
+---
+
+Physique et Chimie : 2ème Année Bac
+Séance 9 (État d'équilibre d'un système chimique)
+Professeur : Mr El GOUFIFA Jihad
+
+## V- Exercice
+
+### 5-1/ Exercice 1
+
+On dissout un comprimé d'aspirine (notée AH dans la suite) de masse $m = 500 m g$ dans un volume $V = 100 m L$ d'eau distillée.
+
+La mesure du pH de la solution obtenue donne $p H = 2 , 6$.
+
+1. Ecrire l'équation de la réaction acido-basique entre l'aspirine et l'eau.
+2. Déterminer la concentration finale des ions oxonium $H_{3} O^{+}$ dans la solution.
+3. Déterminer la quantité de matière d'aspirine initiale contenue dans un comprimé, sachant que $M = 180 g / m o l$.
+4. Dresser le tableau d'avancement de la réaction de l'aspirine avec l'eau.
+5. Déterminer l'avancement final de la transformation.
+6. Déterminer la concentration molaire de l'aspirine à l'équilibre.
+
+### 5-2/ Exercice 2
+
+Le pH de la solution d'acide méthanoïque $H C O O H$ de concentration $C = 1 . 0 x 10^{- 1} m o L / L$ est $p H = 2 , 4$
+
+1. Écrire l'équation de la réaction chimique d'acide méthanoïque avec l'eau.
+2. Dresser le tableau d'avancement de la réaction chimique.
+3. Montrer que la réaction chimique n'est pas totale.
+4. Calculer les concentrations molaires finales des ions de la solution à l'état final de la réaction chimique. (on néglige les ions $H O^{-}$)
+
+### 5-3/ Exercice 3
+
+On considère une solution d'acide benzoïque $C_{6} H_{5} C O O H$ de concentration $C = 5 . 10^{- 3} m o L / L$ et de conductance G=2.03 x 10-4S.
+
+Les dimensions de la cellule conductimétrique sont $S = 1 c m^{2}$ et $L = 1 c m$
+
+1. Écrire l'équation de la réaction chimique.
+2. Dresser le tableau d'avancement de la réaction chimique.
+3. Calculer les concentrations des ions de la réaction chimique.
+4. Calculer le taux d'avancement final de la réaction.
+5. Calculer la constante d'équilibre de la réaction chimique.
+
+$\lambda_{C_{6} H_{5} O O} = 3 , 23 . 10^{- 3} S . m^{2} . m o l$ et $\lambda_{H_{3} O^{+}} = 35 . 10^{- 3} S . m^{2} . m o l$
+
+### 5-4/ Exercice 4
+
+On prépare $V = 400 m L$ d'une solution aqueuse obtenue en dissolvant dans l'eau $m_{1} = 0 , 124 g$ de méthylamine $C H_{3} N H_{2}$ et $m_{2} = 0 , 321 g$ de chlorure d'ammonium
+
+#### 1- Équation de réaction
+
+1. 1- Rappeler la définition d'un acide, d'une base, d'un couple acide-base.
+
+1. 2- Écrire l'équation de la réaction entre les molécules basiques de méthylamine et les ions ammonium acides $N \left(H_{4}\right)^{+}$. Préciser les deux couples acide-base qui interviennent.
+
+#### 2- Tableau d'avancement de la réaction
+
+1. 1- Calculer, en mole, les quantités initiales de réactifs.
+
+1. 2- Construire le tableau d'avancement de la réaction.
+
+#### 3- Avancement de la réaction à l'équilibre
+
+1. Calculer l'avancement final $x_{e q}$ de la réaction à l'équilibre sachant que la conductivité de la solution vaut alors $\sigma = 210 , 6 m S / m$ (voir les conductivités molaires ioniques dans le tableau ci-dessous)
+
+#### 4- Concentrations molaires volumiques des espèces chimiques en solution à l'équilibre
+
+1. Calculer, en mole /L, les concentrations molaires volumiques des espèces chimiques en solution à l'équilibre.
+
+#### 5- Constante d'équilibre K associée à l'équation de la réaction étudiée
+
+1. Définir et calculer la constante d'équilibre K associée à l'équation de la réaction étudiée.
+
+Masses molaires atomiques :
+
+$C : 12 g / m o l ; H : 1 g / m o l ; N : 14 g / m o l ; C l : 35 , 5 g / m o l$
+
+| | $C l^{-}$ | $N \left(H_{4}\right)^{+}$ | $C H_{3} N \left(H_{3}\right)^{+}$ |
+|---|---|---|---|
+| $\lambda e n m S . m^{2} . m o l^{- 1}$ | 7,63 | 7,34 | 5,87 |

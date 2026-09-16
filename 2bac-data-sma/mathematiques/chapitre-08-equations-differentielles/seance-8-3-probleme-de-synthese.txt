@@ -1,0 +1,29 @@
+---
+Chapitre: Chapitre 8 : Équations différentielles
+Séance: Séance 8-3 : Équations différentielles - Problème de synthèse
+Type: Problème de synthèse
+Professeur: Mr CHEDDADI Haitam
+Source: 
+---
+
+Mathématiques : 2Bac SMA-SMB
+Séance 8-3 : Équations différentielles - Problème de synthèse
+Professeur : Mr CHEDDADI Haitam
+
+Soit $S$ l'ensemble des fonctions $f$ définies et dérivables sur $\mathbb{R}$ et qui vérifient la condition suivante :
+
+$$\left(\forall x \in \mathbb{R}\right) : f \left(x\right) - x \int_{0}^{x} f \left(t\right) d t + \int_{0}^{x} t f \left(t\right) d t = x$$
+
+On considère l'équation : $\left(E\right) : y " - y = 0$
+
+1. Déterminer la fonction $h$ solution de $\left(E\right)$ et dont la courbe passe par le point $A \left(ln 2 ; \frac{3}{4}\right)$ et admet une tangente de pente $\frac{5}{4}$ en ce point.
+
+Soit $x \in \mathbb{R}$
+
+2. Calculer $I = \int_{0}^{x} t \left(e^{t} - e^{- t}\right) d t$ en fonction de $x$ puis conclure que $h \in S$.
+
+Soit $f$ un élément de $S$.
+
+3. Montrer que : $\left(\forall x \in \mathbb{R}\right) : f ' \left(x\right) = 1 + \int_{0}^{x} f \left(t\right) d t$
+
+4. Montrer que $f$ est une solution de $\left(E\right)$.
