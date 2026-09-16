@@ -1,0 +1,158 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Devoirs
+Sujet: SVT 2Bac SM - Semestre 1 Devoir 1 Modèle 1
+Type: Devoir
+Source: 
+---
+
+SVT : 2 Bac SM
+Semestre 1 Devoir 1 Modèle 1
+Professeur : Mr BAHSINA Najib
+
+1/7
+
+### I- Restitution des connaissances (7 pts)
+
+#### 1-1/ Exercie 1 (3 pts)
+
+1. Répondez par "Vrai" ou "Faux" :
+
+La métaphase I se caractérise par l’apparition des chromosomes et du fuseau de division avec disparition de la membrane plasmique : ___________
+
+Chaque méiose est suivie par une interphase : ___________
+
+Le taux des gamètes recombinés dépend de la distance entre les gènes : ___________
+
+Un cycle de développement diploïde ne contient pas de spores méiotiques : ___________
+
+2. Définissez la fécondation :
+
+3. Citez deux caractéristiques d’un cycle haplodiplophasique.
+
+Caractéristique 1 :
+
+Caractéristique 2 :
+
+2/7
+
+### I- Restitution des connaissances (7 pts)
+
+#### 1-2/ Exercie 2 (2 pts)
+
+Pour chacune des données suivantes, il y a une seule suggestion correcte :
+
+A- Au cours de l’anaphase II :
+
+1. la membrane nucléaire disparaît.
+2. le fuseau de division réapparaît.
+3. les chromosomes homologues se séparent.
+4. les chromatides sœurs se séparent.
+
+B- Le cycle haplo-diplophasique se caractérise par :
+
+1. la présence de mitose.
+2. la fécondation qui se place juste avant la méiose.
+3. le  sporophyte obligatoirement haploïde.
+4. des gamètes diploïdes.
+
+C- Le brassage interchromosomique permet :
+
+1. la ressemblance des générations.
+2. le brassage des gènes liés.
+3. peut avoir lieu par la fécondation.
+4. a lieu en anaphase I.
+
+D- Pendant la méiose :
+
+1. les chromosomes homologues se séparent en télophase.
+2. il y a brassage des chromatides sœurs.
+3. on assiste à un dédoublement de l’ADN.
+4. se forme des spores haploïdes.
+
+3/7
+
+### I- Restitution des connaissances (7 pts)
+
+#### 1-3/ Exercie 3 (2 pts)
+
+La figure suivante présente l’une des phases de la méiose :
+
+[Figure — image : une phase de la méiose avec numéros 1 à 5 à identifier]
+
+Donnez le nom convenable à chacun des numéros de cette figure:
+
+1 :
+
+2 :
+
+3 :
+
+4 :
+
+5 :
+
+4/7
+
+### II- Raisonnement scientifique et communication écrite et graphique (13 pts)
+
+#### 2-1/ Exercice 4 (6 pts)
+
+Le charbon du Maïs est une maladie fongique due à un champignon microscopique (Ustilago zeae) qui infecte les pieds de maïs.
+
+Le document 1 présente le cycle de développement de ce champignon :
+
+[Figure — document 1, image : cycle de développement d’Ustilago zeae]
+
+La cellule $A^{+}$ se développe pour former le mycélium $a^{+}$ (champignon $a^{+}$) et la cellule $A^{-}$ donne à son tour un mycélium $a^{-}$ ( champignon $a^{-}$). Les deux mycéliums $a^{+}$ et $a^{-}$ parasitent les épis du maïs et les tissus avoisinants.
+
+L’union des cellules des deux mycéliums forme la structure X. Cette dernière subit une division dont le document 2 présente deux de ses étapes :
+
+[Figure — document 2, image : deux étapes de la division de la structure X]
+
+1. Identifiez les deux étapes représentées sur le document 2 et schématisez la phase qui précède l’étape 1 en supposant 2n=6.
+
+2. Nommez en justifiant votre réponse, les cellules A et la structure X puis et précisez l’emplacement de la méiose et la fécondation.
+
+3. Tracez le cycle chromosomique de ce champignon en précisant sa nature.
+
+5/7
+
+### II- Raisonnement scientifique et communication écrite et graphique (13 pts)
+
+#### 2-2/ Exercice 5 (7 pts)
+
+Afin de mettre en évidence quelques phénomènes biologiques responsables de la transmission de l’information génétique pendant la formation des gamètes chez les espèces diploïdes, on exploite les données suivantes :
+
+##### donnée 1
+
+Le document 1 représente un caryotype d’une spermatogonie (cellule mère des gamètes mâles) :
+
+[Figure — document 1, image : caryotype d’une spermatogonie]
+
+1. À partir de l’exploitation du document 1, donnez la ou les formules chromosomiques détaillées de la spermatogonie et des spermatozoïdes produits.
+
+6/7
+
+### II- Raisonnement scientifique et communication écrite et graphique (13 pts)
+
+#### 2-2/ Exercice 5 (7 pts)
+
+##### donnée 2
+
+Le document 2 résume quelques étapes de la méiose au niveau de la spermatogonie (on simplifie à 2n=4) :
+
+[Figure — document 2, image : quelques étapes de la méiose dans la spermatogonie (2n=4)]
+
+Le document 3 présente l’évolution de la quantité d’ADN chez la même cellule :
+
+[Figure — document 3, image : évolution de la quantité d’ADN au cours de la méiose]
+
+2. Décrivez à partir du document3 l’évolution de la quantité d’ADN au niveau de la spermatogonie.
+
+3. En se basant sur les schémas du document2, expliquez l’évolution de la quantité d’ADN en $t_{1}$ et $t_{2}$.
+
+4. À partir des informations représentées sur le document2, vos connaissances et à l’aide des schémas convenable, montrez comment la méiose constitue une source de diversité chez l’Homme.
+
+7/7

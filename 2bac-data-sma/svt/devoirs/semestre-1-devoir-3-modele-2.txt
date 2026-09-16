@@ -1,0 +1,122 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Devoirs
+Sujet: SVT 2Bac SMA - Semestre 1 Devoir 3 Modèle 2
+Type: Devoir
+Source: 
+---
+
+SVT : 2 Bac SMA
+Semestre 1 Devoir 3 Modèle 2
+Professeur : Mr BAHSINA Najib
+
+1/8
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-1/ Exercie 1 (2 pts)
+
+1. Définir l’arbre génealogique.
+
+2. Citer deux diffucultés qui entravent l’étude de l’héridité humaine
+
+2/8
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-2/ Exercie 2 (3 pts)
+
+Répondre par "Vrai" ou "faux" :
+
+- L’anomalie chromosomique est une modification du nombre ou de la structure des chromosomes : _______
+- La translocation réciproque est le transfert d’un fragment de chromosome sur un autre chromosome : _______
+- La translocation chromosomique équilibrée modifie le nombre des chromosomes chez l’individu porteur de cette anomalie : _______
+- Les maladies héréditaires récessives liées au chromosome sexuel X affectent les femelles plus que les mâles : _______
+
+3/8
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-3/ Exercie 3 (3 pts)
+
+Reliez les anomalies chromosomiques du groupe 1 à leurs caractéristiques dans le groupe 2 :
+
+| Groupe 1 | Groupe 2 |
+| --- | --- |
+| 1. Syndrome de Down<br>2. Syndrome de Klinfelter<br>3. Syndrome de Turner<br>4. Syndrome de Lejeune (cri du chat) | - a. délétion d’une partie du chromosome 5.<br>- b. présence d’un chromosome 21supplémentaire.<br>- c. présence de 44 autosomes et un seul chromosome sexuel X.<br>- d. présence de 44 autosomes et trois chromosomes sexuels 2X et Y. |
+
+4/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-1/ Exercice 4 (6 pts)
+
+La drépanocytose est une maladie héréditaire qui touche l’Homme.
+
+Une des mutations au niveau du gène qui gouverne la synthèse de l’hémoglobine provoque la déformation des globules rouges du sang et par la suite un appauvrissement en dioxygène au niveau des cellules du corps d’où l’apparition de la maladie.
+
+Ce gène se trouve sous forme de deux allèles (H/h). L’un de ces allèles est responsable de la synthèse de l’hémoglobine normale et l’autre est responsable de la synthèse de l’hémoglobine anormale.
+
+Afin d’étudier le mode de transmission de cette maladie chez une famille, on propose les données suivantes :
+
+Le document 1 présente l’arbre généalogique de la famille étudiée dont certains membres sont atteints par la drépanocytose :
+
+[Figure — document 1, image : arbre généalogique de la famille atteinte de drépanocytose]
+
+1. Déterminez le mode de transmission de la maladie. Justifiez votre réponse.
+
+2. Donnez les génotypes des individus $II_{2}$, $II_{5}$, $III_{2}$ et $III_{3}$ (Utilisez le symbole H pour l’allèle dominant, et le symbole h pour l’allèle récessif).
+
+[Figure — document 1, image : arbre généalogique (rappel)]
+
+3. Déterminez la probabilité pour que le couple $III_{2}$ et $III_{3}$ donne naissance à un enfant malade. Justifiez votre réponse en utilisant l’échiquier de croisement.
+
+5/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-1/ Exercice 4 (6 pts)
+
+Pour déterminer les génotypes de quelques individus de cette famille, on procède à la technique d’électrophorèse qui vise à séparer les deux types d’allèles H et h, dans un champ électrique, comme le montre la figure (a) du document 2.
+
+Les résultats de cette électrophorèse, réalisés chez les individus $II_{2}$, $II_{5}$, $III_{2}$ et le fœtus sont indiqués sur la figure (b) du même document :
+
+[Figure — document 2, image : principe de l’électrophorèse (a) et résultats obtenus (b)]
+
+4. En vous basant sur le document 2, déterminez le génotype et le phénotype du fœtus et précisez les conséquences sur la descendance de l’individu III3. Justifiez votre réponse.
+
+6/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-2/ Exercice 5 (6 pts)
+
+La femme $III_{4}$ est enceinte et s’inquiète que son futur enfant soit atteint de deux anomalies héréditaires car elle est naît d’une famille de daltoniens et son marie $III_{5}$ est issu d’une famille de sourds-muets.
+
+Le document suivant présente l’arbre généalogique des deux familles :
+
+[Figure — image : arbre généalogique des deux familles]
+
+1. Sachant que le daltonisme est lié au sexe et en se basant sur l’arbre généalogique, déterminez le mode de transmission de chacune de ces deux anomalies.
+
+7/8
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-2/ Exercice 5 (6 pts)
+
+Le patrimoine héréditaire de chacun des deux conjoints $III_{4}$ et $III_{5}$ ne portent pas l’allèle morbide (responsable de l’anomalie) de l’autre famille.
+
+2. Donnez les génotypes de III4 et III5 en prenant en considération les deux gènes.
+
+Utilisez :
+
+- Pour le daltonisme les symboles D et d pour représenter les allèles.
+- Pour le sourd-muet les symboles S et s pour représenter les allèles.
+
+[Figure — image : arbre généalogique des deux familles (rappel)]
+
+3. Démontrez, en utilisant l’échiquier de croisement, que le future enfant de cette femme ne peut pas être à la fois daltonien et sourd muet.
+
+8/8

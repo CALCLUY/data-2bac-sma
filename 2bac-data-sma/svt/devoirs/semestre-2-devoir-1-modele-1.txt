@@ -1,0 +1,127 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Devoirs
+Sujet: Semestre 2 Devoir 1 Modèle 1 - SVT 2Bac SM
+Type: Devoir
+Source: 
+---
+
+SVT : 2 Bac SM
+Semestre 2 Devoir 1 Modèle 1
+Professeur : Mr BAHSINA Najib
+
+1/5
+
+### I- Restitution des connaissances (9 pts)
+
+#### 1-1/ Exercie 1 (2 pts)
+
+Définissez :
+
+- Le mode (M):
+
+- La moyenne arithmétique ($\bar{X}$) :
+
+2/5
+
+### I- Restitution des connaissances (9 pts)
+
+#### 1-2/ Exercie 2 (3 pts)
+
+Répondre par « Vrai » ou « Faux » :
+
+- Une lignée pure est un ensemble d’individus homozygotes pour les gènes étudiés : _________
+
+- Une population hétérogène est une population qui donne après sélection plus d’une lignée pure : _________
+
+- La biométrie constitue un moyen d’étude de la variation des caractères héréditaires quantitatifs : _________
+
+- La courbe de fréquence plurimodale indique que la population est homoogène pour le caractère étudié : _________
+
+3/5
+
+### I- Restitution des connaissances (9 pts)
+
+#### 1-3/ Exercie 3 (4 pts)
+
+Four chacune des données suivantes, il y a une seule suggestion correcte :
+
+A- Les paramètres de position sont :
+
+1. le mode, la moyenne arithmétique et la variance.
+2. le mode et la variance.
+3. la moyenne arithmétique et le mode.
+4. la moyenne arithmétique et la variance.
+
+B- La sélection artificielle :
+
+1. est efficace chez les populations homogènes.
+2. constitue un résultat de l'effet du milieu sur un caractère héréditaire donné.
+3. permet d'obtenir des lignées qui ont les caractères désirés.
+4. est efficace lorsqu'il s’agit de populations de faible variabilité génétique.
+
+C- L’écart - type :
+
+1. représente la valeur de la variable la plus fréquente.
+2. est utilisé avec le mode pour calculer l'intervalle de confiance.
+3. est l'un des paramètres de dispersion.
+4. est l'un des paramètres de position.
+
+D- La variation continue est une variation :
+
+1. où les variables prennent toutes les valeurs de l'intervalle de variation.
+2. où les variables prennent les valeurs en nombres entiers naturels.
+3. qui permet de déterminer le mode de la transmission des caractères héréditaires.
+4. qui permet de mesurer la variation des caractères héréditaires qualitatifs.
+
+4/5
+
+### II- Raisonnement scientifique et communication écrite et graphique (11 pts)
+
+#### 2-1/ Exercice 4 (11 pts)
+
+Pour mettre en évidence l’action des facteurs de variation sur la structure génétique d’une population donnée, on a réalisé, à l’état de Floride (États Unis d’Amérique), des études génétiques sur des populations de la punaise du savonnier.
+
+Cet insecte se nourrie des graines d’une espèce d'arbre nommé la «liane ballon », mais il peut coloniser facilement une autre espèce d’arbre nommée le «savonnier élégant ».
+
+les femelles de cet insecte se nourrissent des graines des fruits n’ayant pas atteint la maturité en utilisant leur rostre long et fin comme une aiguille pour transpercer l'enveloppe de la graine :
+
+[Figure — image : la punaise du savonnier et son rostre]
+
+Chez les femelles de la punaise du savonnier, la distribution de la longueur du rostre varie en fonction de l’espèce d’arbre qui constitue leur source de nourriture.
+
+En 1988, dans l'état de Floride, on a relevé la présence de deux populations de ces punaises (P1 et P2) :
+
+- La P1 au centre et au nord de la Floride. Cette population se nourrit sur les graines du « savonnier élégant » car la « liane ballon » est absente dans ces régions.
+- La P2 au sud de la Floride. Cette population se nourrit sur les graines de la « liane ballon » car le « savonnier élégant » est absent dans cette région.
+
+Le tableau ci-dessous montre la distribution de la fréquence de la longueur du rostre chez les femelles de la population (P1):
+
+[Figure — image : tableau de la distribution de la longueur du rostre chez les femelles de P1]
+
+Le document 3 présente l'histogramme de fréquence de la distribution de la longueur du rostre et les paramètres statistiques (X et a) chez les femelles de la population (P2) :
+
+[Figure — document 3, image : histogramme de fréquence et paramètres statistiques chez les femelles de P2]
+
+1. Réalisez l’histogramme de fréquence et le polygone de fréquence de la distribution de la longueur du rostre en mm chez les femelles de la population (Pi). _(Utilisez 1cm pour chaque classe et lcm pour deux femelles)._
+
+[Figure — image : tableau de la distribution chez P1 (rappel)]
+
+[Figure — image : papier millimétré pour le tracé]
+
+2. Calculez la moyenne arithmétique et l’écart-type chez les femelles de (P1).
+
+                  Utilisez un tableau d'application pour calculer ces paramètres statistiques.
+
+                   On donne:
+
+$$\sigma=\sqrt{\frac{\sum_{i}^{1}f_{i}\left(\chi_{i}-\bar{X}\right)^{2}}{n}}\quad et\quad \bar{X}=\frac{\sum_{i}^{1}\left(f_{i}\chi_{i}\right)}{n}$$
+
+[Figure — image : exercice issu de l'examen national rattrapage 2017]
+
+3. En exploitant le document 3 et la représentation graphique réalisée en réponse à la question 1, comparez la distribution de la longueur du rostre chez les femelles des deux populations (P1) et (P2).
+
+4. Qu’en déduisez- vous à propos de la longueur du rostre chez les femelles de ces deux populations ?
+
+5/5

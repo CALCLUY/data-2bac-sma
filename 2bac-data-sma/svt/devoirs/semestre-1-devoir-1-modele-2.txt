@@ -1,0 +1,144 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Devoirs
+Sujet: SVT 2Bac SMA - Semestre 1 Devoir 1 Modèle 2
+Type: Devoir
+Source: 
+---
+
+SVT : 2 Bac SM
+Semestre 1 Devoir 1 Modèle 2
+Professeur : Mr BAHSINA Najib
+
+1/6
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-1/ Exercie 1 (4 pts)
+
+1. Définissez :
+
+Division réductionnelle :
+
+Gamétophyte  :
+
+2. Cochez la suggestion correcte :
+
+A- Le chromosome de la prophase I est formé :
+
+- de deux chromatides en condensation.
+- d’une seule chromatide condensée.
+- de deux chromatides décondensées.
+- d’une seule chromatide décondensée.
+
+B- Le crossing-over est un phénomène qui se déroule au cours de :
+
+- la métaphase I.
+- la métaphase II.
+- la prophase I.
+- la prophase II.
+
+C- A partir d’une cellule mère à 2n chromosomes et suite à la division équationnelle, les cellules filles :
+
+- conservent 2n chromosomes suite à la séparation des chromatides de chaque chromosome.
+- reçoivent n chromosomes suite à la séparation des chromatides de chaque chromosome.
+- conservent 2n chromosomes suite à la séparation des chromosomes homologues.
+- reçoivent 2n chromosomes suite à la séparation des chromosomes homologues.
+
+D- Le cycle de développement diplophasique est caractérisé par :
+
+- une phase à n chromosomes qui se limit aux gamètes.
+- une phase à 2n chromosomes qui se limite à l’œuf.
+- une méiose qui conduit à la formation des spores.
+- une cellule œuf qui subit directement la méiose pour donner des gamètes.
+
+2/6
+
+### I- Restitution des connaissances (8 pts)
+
+#### 1-2/ Exercie 2 (4 pts)
+
+1. Répondez par "Vrai" ou "Faux" :
+
+La méiose donne des cellules haploïdes dont le nombre de chromosomes varie d’une cellule a fille à l’autre : _________
+
+La méiose permet de conserver la formule chromosomique de la cellule mère : _________
+
+La fécondation permet la diversité génétique des cellules œufs : _________
+
+Les cellules somatiques chez les individus diploïdes sont caractérisées par un nombre stable de 2n chromosomes : _________
+
+2. Adressez à chaque phase de la méiose du groupe 1, la lettre du schéma correspondant du groupe 2 :
+
+[Figure — image : groupe 1 (phases de la méiose) et groupe 2 (schémas à associer)]
+
+3/6
+
+SVT : 2 Bac SM
+Semestre 1 Devoir 1 Modèle 2
+Professeur : Mr BAHSINA Najib
+
+4/6
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-1/ Exercice 3 (6 pts)
+
+Dans le cadre de l’étude de la transmission de l’information génétique par la reproduction sexuée chez les moustiques ,on propose les données suivantes :
+
+Le cycle de vie des moustiques comprend un stade immature aquatique et un stade adulte aérien.
+
+Ces insectes se développent en 4 étapes : œuf, larve, nymphe et adulte (imagos : mâles et femelles).
+
+Cette métamorphose complète dure de 5 à 90 jours en fonction des conditions environnementales.
+
+Le document 1 représente les étapes du cycle de vie des moustiques :
+
+[Figure — document 1, image : étapes du cycle de vie des moustiques]
+
+Le document 2 présente, la garniture chromosomique d’une cellule germinale d’un moustique mâle (a) et d’une cellule germinale d’un moustique femelle (b) avec des schémas illustratifs :
+
+[Figure — document 2, image : garnitures chromosomiques des cellules germinales mâle (a) et femelle (b)]
+
+1. À quelle phase de la division cellulaire a-t-on pu obtenir les deux photos du document 2 ? Justifiez votre réponse.
+
+2. Donnez la formule chromosomique du moustique mâle et celle du moustique femelle.
+
+3. En vous basant sur les données des deux documents, réalisez le cycle chromosomique du moustique et déduisez son type.
+
+5/6
+
+### II- Raisonnement scientifique et communication écrite et graphique (12 pts)
+
+#### 2-2/ Exercice 4 (6 pts)
+
+Afin de mettre en évidence le rôle de la méiose et de la fécondation dans le maintien de la stabilité du caryotype, on propose les données suivantes :
+
+L’appareil végétatif chez une algue rouge (Antithamnion plumata) est connu sous forme de trois types de thalles :
+
+1- le thalle I porte des organes qui produisent plusieurs cellules (a) haploïdes de petites tailles ;
+
+2- le thalle II produit des cellules (b) haploïdes de formes allongées.
+
+[Figure — image : les trois types de thalles de l’algue rouge Antithamnion plumata]
+
+Après sa libération dans l’eau, la cellule (a) germe sur la cellule (b) puis les deux cellules s’unissent pour donner la cellule (c).
+
+Après plusieurs mitoses cette cellule (c) dorme l’organe (d). Ce dernier reste fixé sur le thalle II et produit des cellules (e) qui se libèrent dans l’eau de mer et se développent par des mitoses pour donner un nouvel individu représenté par le thalle III.
+
+3- Le thalle III produit les éléments (I). Chacun de ces éléments libère 4 cellules (g).
+
+Chacune de ces cellules se développe pour donner le thalle I ou le thalle II
+
+Le document suivant montre les stades de développement de cette algue rouge (Antithamnion plumata) :
+
+[Figure — image : stades de développement de l’algue rouge Antithamnion plumata]
+
+1. Déterminez le thalle où se déroule la méiose et le thalle où se déroule la fécondation.
+
+2. Donnez le type de chaque thalle I, II et III. Justifiez votre réponse en utilisant les structures (a), (b), (c) et (g).
+
+3. Représentez schématiquement le cycle chromosomique de cette algue et déduisez son type.
+
+6/6
