@@ -1,0 +1,200 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes - Cours (Partie 3)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes  Cours (Partie 3)
+Professeur : Mr BAHSINA Najib
+
+1/11
+
+## Sommaire
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-1/ Définition
+
+#### 3-2/ Cas des gènes indépendants
+
+* * *
+
+2/11
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-1/ Définition
+
+Le dihybridisme est l’étude de la transmission de deux caractères déterminés par deux couples d’allèles.
+
+Ces deux couples d’allèles peuvent être soit :
+
+- Indépendants: c’est-à-dire portés par deux paires différentes de chromosomes homologues.
+- Liés: c’est-à-dire situés dans des locus appartenant au même chromosome.
+
+[Figure — image : gènes indépendants et gènes liés]
+
+3/11
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-2/ Cas des gènes indépendants
+
+##### Dihybridisme chez le pois
+
+Mendel croise deux variétés de lignées pures de pois qui différent par deux caractères: l’aspect des graines (lisse ou ride) et la couleur des graines (jaune ou verte).
+
+II croisa une variété de pois à graines lisses et jaunes avec une variété de pois à graines ridées et verts.
+
+À la première génération F1, toutes les graines étaient lisses et jaunes.
+
+Mendel croisa ensuite deux individus de la génération F1 (Autofécondation: F1 x F1).
+
+II obtient une deuxième génération (F2), composée de:
+
+- 315 graines jaunes et lisses.
+- 101 graines vertes et lisses.
+- 108 graines jaunes et rides.
+- 32 graines verts et rides.
+
+Analyse 1er croisement :
+
+- On étudie deux caractères (la forme et la couleur des graines) donc il s’agit d’un dihybridisme.
+- La génération F1 est homogène, donc les parents sont de race pure selon la première loi de Mendel, et les deux caractères sont portés sur des chromosomes autosomes.
+- Puisque les individus de F1 sont hétérozygotes et leur phénotype (graines lisses et jaunes) alors :
+
+- L’allèle responsable de couleur jaune est dominant (on le note J).
+- L’allèle responsable de couleur vert est récessif (on le note v).
+- L’allèle responsable de forme lisse est dominant (on le note L).
+- L’allèle responsable de forme ridée est récessif (on le note r).
+
+Analyse 2eme croisement :
+
+- La génération F2 est constituée de 4 phénotypes en pourcentages  suivants :
+
+_–  56 %   graines jaunes et lisses._
+
+_–  18%    graines vertes et lisses._
+
+_– 18%    graines jaunes et rides._
+
+_–  6%       graines verts et rides._
+
+- ​Les individus de F1 ont produit chacun 4 sortes de gamètes en quantités égales.
+- Les gènes sont donc situés sur des chromosomes différents : ils sont indépendants ainsi qu’il y a un brassage interchromosomique
+
+4/11
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-2/ Cas des gènes indépendants
+
+##### Interprétation chromosomique du 1  croisement ;
+
+5/11
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-2/ Cas des gènes indépendants
+
+##### Modèle explicatif de la ségrégation indépendante des allèles
+
+[Figure — image : modèle explicatif de la ségrégation indépendante des allèles]
+
+6/11
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-2/ Cas des gènes indépendants
+
+##### Interprétation chromosomique 2 ème croisement
+
+Échiquier des croisements :
+
+[Figure — image : échiquier des croisements]
+
+7/11
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-2/ Cas des gènes indépendants
+
+##### La 3ème loi de Mendel : Loi de ségrégation indépendante des allèles
+
+| |
+| --- |
+| Pendant la gamétogenèse et au cours de la prophase I, chaque individu d'une paire de chromosomes particulière peut s’associer a l'un des deux individus de l'autre paire de chromosomes.<br>Il en résulte que chaque élément d'un couple d’allèles aura autant de chance de se retrouver avec l'une des deux éléments de l’autre couple d’allèles, c’est ce que l'on appelle ségrégation indépendante des allèles. |
+
+8/11
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-2/ Cas des gènes indépendants
+
+##### Dihybridisme chez la drosophile
+
+Chez la Drosophile, On cherche à valider si deux gènes sont localisés sur la même paire de chromosomes ou sur deux paires de chromosomes différentes.
+
+Pour cela on réalise les croisements dont les résultats sont présentés par la figure suivante :
+
+| | |
+| --- | --- |
+| Premier croisement :<br>On croise deux drosophiles de race pure,<br>l’une à ailes longues et corps gris, l’autre à ailes vestigiales et corps ébène.<br>Deuxième croisement :<br>On croise une drosophile de la génération F1 avec une drosophile double homozygote récessive. | [Figure — image : résultats des croisements chez la drosophile] |
+
+Analyse 1er croisement :
+
+- On étudie deux caractères (la forme des ailes  la couleur du corps ) donc il s’agit d’un dihybridisme.
+
+- La génération F1 est homogène, donc les parents sont de race pure selon la première loi de Mendel, et les deux caractères sont portés sur des chromosomes autosomes.
+
+- Puisque les individus de F1 sont hétérozygotes et leur phénotype (ailes longues et corps gris ) alors :
+
+- L’allèle responsable de ailes longues est dominant (on le note L).
+
+- L’allèle responsable de ailes vestigiales  est récessif (on le note v).
+
+- L’allèle responsable de corps gris est dominant (on le note G).
+
+- L’allèle responsable de corps ébène est récessif (on le note e).
+
+Analyse 2 eme croisement :
+
+- le 2 croisement entre un individu de F1 et un autre récessif est appelé : « test-cross » ou bien « back-cross »,
+
+-  La génération F2 est constituée de 4 phénotypes en proportions égales : 1/4
+
+                        –    Les phénotype parentaux   :  ailes longues et corps gris, et  ailes vestigiales et corps ébène
+
+                        –    Les phénotypes recombinés : ailes longues et corps ébène, et  ailes vestigiales et corps gris
+
+- Les individus de F1 ont produit  4 sortes de gamètes en quantités égales.
+
+- Les gènes sont donc situés sur des chromosomes différents : ils sont indépendants ainsi qu’il y a un brassage interchromosomique
+
+9/11
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-2/ Cas des gènes indépendants
+
+##### Interprétation chromosomique des résultats du croisement
+
+1er croisement chez les parents P
+
+[Figure — image : interprétation chromosomique du 1er croisement chez les parents P]
+
+10/11
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-2/ Cas des gènes indépendants
+
+##### 2ème croisement (Back cross) : Échiquier de croisement
+
+[Figure — image : échiquier de croisement du back cross]
+
+11/11

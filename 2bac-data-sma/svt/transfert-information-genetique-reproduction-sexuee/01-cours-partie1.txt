@@ -1,0 +1,106 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: Transfert de l’information génétique au cours de la reproduction sexuée - Cours (Partie 1)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Transfert de l’information génétique au cours de la reproduction sexuée
+Cours (Partie 1)
+Professeur : Mr BAHSINA Najib
+
+1/7
+
+## Sommaire
+
+### I- Introduction
+
+### II- Les étapes de la méiose
+
+#### 2-1/ Mise en évidence de la réduction chromatique
+
+#### 2-2/ Observation microscopique des cellules au cours de la méiose
+
+#### 2-3/ Les principales étapes de la méiose
+
+* * *
+
+2/7
+
+### I- Introduction
+
+Au cours de la reproduction sexuée, la fécondation aboutit à la formation d’une cellule œuf diploïde à partir de laquelle seront formées toutes les cellules des différents organes.
+
+Les gamètes sont donc des cellules haploïdes, issus de cellules diploïdes par méiose.
+
+3/7
+
+### II- Les étapes de la méiose
+
+#### 2-1/ Mise en évidence de la réduction chromatique
+
+##### Réalisation du caryotype (Carte chromosomique)
+
+Pour réaliser un caryotype on suit les étapes suivantes :
+
+On dispose de cellules dans un milieu qui favorise la division.
+
+On traite les cellules avec la colchicine; une substance qui empêche la formation du fuseau de division. Ainsi les chromosomes restent éparpillés dans le cytoplasme.
+
+On fait éclater les cellules avec un choc osmotique.
+
+Les chromosomes sont alors photographiés, découpés et rangés selon des critères déterminés (Taille, morphologie, emplacement du centromère...).
+
+On attribue à chaque paire de chromosome un numéro conventionnel.
+
+Les documents obtenus sont des caryotypes.
+
+La figure 1 présente des caryotypes effectués chez I’Homme :
+
+1. cellule somatique femelle.
+2. cellule somatique mâle.
+3. gamète mâle et femelle.
+4. gamète mâle.
+
+[Figure 1 — image : caryotypes effectués chez l’Homme]
+
+4/7
+
+### II- Les étapes de la méiose
+
+#### 2-1/ Mise en évidence de la réduction chromatique
+
+##### Réalisation du caryotype (Carte chromosomique)
+
+La figure 2 présente le nombre de chromosomes de quelques espèces vivantes (animales et végétales) :
+
+[Figure 2 — image : nombre de chromosomes de quelques espèces vivantes]
+
+5/7
+
+### II- Les étapes de la méiose
+
+#### 2-1/ Mise en évidence de la réduction chromatique
+
+##### Évolution de la quantité d’ADN dans une cellule au cours de la méiose
+
+On effectue le dosage de la quantité d’ADN contenue dans le noyau d’une cellule mère des gamètes au cours de la méiose.
+
+Les résultats obtenus sont représentés par le graphique suivant :
+
+[Figure 3 — image : graphique de l’évolution de la quantité d’ADN au cours de la méiose]
+
+6/7
+
+### II- Les étapes de la méiose
+
+#### 2-2/ Les principales étapes de la méiose
+
+Le tableau suivant illustre les étapes de la méiose (Pour simplifier, deux paires de chromosomes uniquement ont été représentés) :
+
+[Figure 6 — image : tableau illustrant les étapes de la méiose]
+
+7/7

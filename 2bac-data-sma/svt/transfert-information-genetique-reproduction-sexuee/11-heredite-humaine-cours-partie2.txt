@@ -1,0 +1,124 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: L’hérédité humaine - Cours (Partie 2)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+L’hérédité humaine - Cours (Partie 2)
+Professeur : Mr BAHSINA Najib
+
+1/8
+
+## Sommaire
+
+### III- Modes de transmission des maladies héréditaires
+
+### IV- Transmission de maladies héréditaires non liées sexe (Maladies autosomiques)
+
+#### 4-1/ Transmission de la mucoviscidose
+
+#### 4-2/ Transmission de l’anémie méditerranéenne ou Thalassémie
+
+#### 4-3/ Transmission de la chorée de Huntington
+
+* * *
+
+2/8
+
+### III- Modes de transmission des maladies héréditaires
+
+[Figure — image : modes de transmission des maladies héréditaires]
+
+3/8
+
+### IV- Transmission de maladies héréditaires non liées sexe (Maladies autosomiques)
+
+#### 4-1/ Transmission de la mucoviscidose
+
+La mucoviscidose est une maladie monogénique (due à un seul gène), autosomique, récessive.
+
+C'est une maladie grave associant des troubles digestifs et respiratoires qui s'accentuent au fil des années.
+
+Ces manifestations sont dues à une viscosité exagérée du mucus qui obstrue les canaux pancréatiques et les bronches.
+
+II n'existe toujours pas de traitement assurant la guérison mais le suivi thérapeutique a permis d'augmenter l’espérance de vie des malades.
+
+La figure 1 présente l’arbre généalogique d’une famille dont certains individus en sont atteints :
+
+[Figure 1 — image : arbre généalogique d’une famille atteinte de mucoviscidose]
+
+4/8
+
+### IV- Transmission de maladies héréditaires non liées sexe (Maladies autosomiques)
+
+#### 4-1/ Transmission de la mucoviscidose
+
+Le couple 6,7 de la génération II attend un enfant (Ill5), mais craint de lui avoir transmis la mucoviscidose.
+
+[Figure 1 — image : arbre généalogique d’une famille atteinte de mucoviscidose]
+
+Ils consultent alors un médecin qui va évaluer le risque d'apparition de la maladie en procédant à l’analyse de l’ADN chez quelques membres de la familiale en s’appuyant sur la technique de Southern Blot (transfert d’ADN).
+
+La figure 2 présente les résultats de cette analyse :
+
+[Figure 2 — image : résultats de l’analyse de l’ADN par Southern Blot]
+
+5/8
+
+### IV- Transmission de maladies héréditaires non liées sexe (Maladies autosomiques)
+
+#### 4-2/ Transmission de l’anémie méditerranéenne ou Thalassémie
+
+##### Données sur la thalassémie
+
+L’anémie méditerranéenne (ou thalassémie) est une maladie héréditaire qui se rencontre essentiellement dans les populations du bassin méditerranéen.
+
+Elle est due à un défaut de synthèse de l’hémoglobine.
+
+Ce défaut provoque une carence en hématies (globules rouges).
+
+C’est une maladie génétique à transmission autosomique.
+
+Elle se transmet des parents porteurs sains aux enfants.
+
+Le gène en cause, doit être reçu du père et de la mère pour que1'enfant développe la maladie.
+
+La figure suivante présente l’arbre généalogique d’une famille dont certains individus sont atteints de thalassémie :
+
+[Figure — image : arbre généalogique d’une famille atteinte de thalassémie]
+
+6/8
+
+### IV- Transmission de maladies héréditaires non liées sexe (Maladies autosomiques)
+
+#### 4-3/ Transmission de la chorée de Huntington
+
+##### Données sur la maladie de Huntington
+
+La chorée de Huntington est une maladie monogénique autosomique dominante.
+
+Elle agit de manière dégénérative sur les cellules du système nerveux central et apparaît le plus souvent à l’age adulte, entre 35 et 45 ans, et elle évolue progressivement.
+
+Les personnes malades ont des mouvements involontaires, imprévisibles, brefs, irréguliers..., ils perdent peu à peu leurs fonctions motrices et intellectuelles.
+
+La première description détaillée de la maladie à été faite par le docteur américain George Huntington en 1872.
+
+La figure suivante présente l’arbre généalogique d’une famille dont certains individus sont atteints :
+
+[Figure — image : arbre généalogique d’une famille atteinte de la chorée de Huntington]
+
+7/8
+
+### IV- Transmission de maladies héréditaires non liées sexe (Maladies autosomiques)
+
+#### 4-3/ Transmission de la chorée de Huntington
+
+##### Interprétation chromosomique
+
+[Figure — image : interprétation chromosomique de la transmission de la chorée de Huntington]
+
+8/8

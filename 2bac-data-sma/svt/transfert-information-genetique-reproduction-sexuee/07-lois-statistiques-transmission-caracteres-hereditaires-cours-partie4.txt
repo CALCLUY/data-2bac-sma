@@ -1,0 +1,148 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes - Cours (Partie 4)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes  Cours (Partie 4)
+Professeur : Mr BAHSINA Najib
+
+1/7
+
+## Sommaire
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-3/ Cas des gènes liés
+
+* * *
+
+2/7
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-3/ Cas des gènes liés
+
+##### Transmission de deux caractères chez la drosophile
+
+On cherche à savoir si les gènes sont indépendants ou sont liés. Pour cela on réalise les croisements suivants:
+
+Premier croisement:
+
+On croise deux drosophiles de race pure, l’une à ailes normales et yeux rouges, l’autre à ailes tronqués et yeux bruns. La première génération (F1) donne des hybrides qui portent tous des ailes normales et des yeux rouges.
+
+Deuxième croisement:
+
+On croise une drosophile femelle de la génération F1 avec un mâle double homozygote récessive (ailes tronqués et yeux bruns).
+
+Ce croisement donne une descendance (F2) composée de:
+
+- 410 drosophiles à ailes normales et aux yeux rouges.
+- 400 drosophiles à ailes tronques et aux yeux bruns.
+- 109 drosophiles à ailes normales et aux yeux bruns.
+- 111 drosophiles à ailes tronques et aux yeux rouges.
+
+Troisième croisement: Test cross
+
+On croise un mâle de la génération F2 avec une femelle double homozygote récessive (ailes tronqués et yeux bruns).
+
+Ce croisement donne une descendance (F2) composée de:
+
+- 170 drosophiles à ailes normales et aux yeux rouges.
+- 175 drosophiles à ailes tronques et aux yeux bruns.
+
+Analyse 1er croisement :
+
+- On étudie deux caractères (la forme des aile  et la couleur des yeux) donc il s’agit d’un dihybridisme.
+
+- La génération F1 est homogène, donc les parents sont de race pure selon la première loi de Mendel, et les deux caractères sont portés sur des chromosomes autosomes.
+
+Puisque les individus de F1 sont hétérozygotes et leur phénotype (graines lisses et jaunes) alors :
+
+- L’allèle responsable de forme normale  est dominant (on le note N).
+
+- L’allèle responsable de formetronquée est récessif (on le note t).
+
+- L’allèle responsable de couleur rouge est dominant (on le note R).
+
+- L’allèle responsable de couleur bruns est récessif (on le note b).
+
+Analyse 2eme croisement : Back cross
+
+- Le deuxième croisement est un croisement-test (Back cross), entre une drosophile female de F1 double hétérozygote et une drosophile mâle double homozygote récessive.
+
+- La génération F2 est constituée de 4 phénotypes en pourcentages  suivants :
+
+-   Les phénotypes  parentaux :
+
+–  39.81% drosophiles à ailes normales et aux yeux rouges.
+
+–  38.83% drosophiles à ailes tronques et aux yeux bruns.
+
+- Les phénotypes recombinés :
+
+–  10.58%  drosophiles à ailes normales et aux yeux bruns.
+
+–  10.78%  drosophiles à ailes tronques et aux yeux rouges
+
+-   Le % des phénotypes  parentaux est superieur à celui du %  des phénotypes recombinés
+- Les gènes sont donc situés sur le même  chromosome : ils sont relativement liés ainsi qu’il y a un brassage intrachromosomique lors du gamêtogénése female
+
+Analyse 3 éme croisement : Back cross
+
+- Le troisième croisement est un croisement-test (Back cross), entre une drosophile mâle de F1 double hétérozygote et une drosophile femelle double homozygote récessive.
+
+- La génération F2 est constituée de 2 phénotypes  parentaux en meme pourcentage   :
+
+–  50% drosophiles à ailes normales et aux yeux rouges.
+
+–  50% drosophiles à ailes tronques et aux yeux bruns.
+
+- Les phénotypes recombinés  sont abscents :
+- Les 2  gènes sont donc situés sur le même  chromosome : ils sont totalement liés ainsi qu’il n y a pas de  brassage intrachromosomique lors du gamêtogénése mâle.
+
+3/7
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-3/ Cas des gènes liés
+
+##### Interprétation chromosomique des résultats de ces croisements
+
+1er croisement chez les parents P
+
+4/7
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-3/ Cas des gènes liés
+
+##### Brassage interchromosomique lors de la gamétogenèse chez l'hybride F1
+
+[Figure — image : brassage lors de la gamétogenèse chez l'hybride F1]
+
+5/7
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-3/ Cas des gènes liés
+
+##### Échiquier de croisement
+
+[Figure — image : échiquier de croisement]
+
+6/7
+
+### III- La transmission de deux couples d’allèles: Dihybridisme
+
+#### 3-3/ Cas des gènes liés
+
+##### 3ème croisement (Back cross)
+
+[Figure — image : 3ème croisement (Back cross)]
+
+7/7

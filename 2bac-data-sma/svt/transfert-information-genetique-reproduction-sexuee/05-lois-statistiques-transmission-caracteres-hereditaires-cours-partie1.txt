@@ -1,0 +1,138 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes - Cours (Partie 1)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes  Cours (Partie 1)
+Professeur : Mr BAHSINA Najib
+
+1/8
+
+## Sommaire
+
+### I- Introduction
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-1/ Les travaux de Mendel et leurs interprétations chromosomiques
+
+#### 2-2/ Les lois de Mendel
+
+#### 2-3/ La transmission du caractère «Couleur de pelage» des souris
+
+* * *
+
+2/8
+
+### I- Introduction
+
+La génétique, ou science de l’hérédité, étudie et permet de prévoir la transmission des caractères entre individus de différentes générations.
+
+Les premières lois de l’hérédité ont été formulées au milieu du XIXeme siècle par l’autrichien Johann Mendel (1822-1884).
+
+C’est le premier qui a proposé des lois régissant la transmission des caractères héréditaires chez les individus.
+
+- _Quels sont les travaux de Mendel et leurs interprétations chromosomiques ?_
+- _Comment se transmettent les caractères héréditaires d’une génération à une autre ?_
+- _Quelles sont les lois de la transmission des caractères héréditaires ?_
+
+3/8
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-1/ Les travaux de Mendel et leurs interprétations chromosomiques
+
+##### Les travaux de Mendel
+
+Les travaux de Mendel ont été réalisés sur des végétaux, et en particulier sur des pois.
+
+Mendel choisit des caractères qui présentent deux formes faciles à distinguer.
+
+En croisant de nombreux plants, Mendel observe la répartition statistique de différents caractères chez les plantes issues de ces croisements.
+
+Mendel croise une plante qui donne des graines lisses avec une plante qui donne des graines ridées.
+
+Afin d'assurer une fécondation croisée entre ces deux races, Mendel a enlevé les étamines d’une plante avant que le pollen soit mûr et a fécondé le pistil avec du pollen prélevé sur l’autre plante (Figure 1) :
+
+[Figure 1 — image : dispositif de fécondation croisée réalisé par Mendel]
+
+4/8
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-1/ Les travaux de Mendel et leurs interprétations chromosomiques
+
+##### Les travaux de Mendel
+
+La première génération obtenue (F1) donne des plantes qui forment des graines lisses.
+
+Mendel croise deux individus de la génération Fi (Autofécondation: F1 x F1 ,II obtient une
+
+deuxième génération (F2), composée de 75% de plantes à graines lisses et 25% de plantes à graines ridées .
+
+[Figure 2 — image : résultats des croisements F1 et F2 de Mendel]
+
+Analyse du premier croisement :
+
+- On étudie un seul caractère                                        , donc il s’agit d’un  monohybridisme
+
+- Les individus de F1 ont un phénotype qui ressemble à l’un des parents                                           , donc il y a une dominance absolue c.à.d. l’allèle qui détermine la                                 est dominant (on le note           ) et l’allèle responsable de                               est récessif (on le note                )          .
+
+- La génération F1 est homogène, donc les parents sont de race pure selon la première loi de Mendel, et le caractère est porté sur un chromosome autosome.
+
+5/8
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-2/ Les lois de Mendel
+
+##### La première loi de Mendel : Loi d’uniformité des hybrides
+
+| |
+| --- |
+| Tous les individus de la 1ère génération F1 (hybrides) sont semblables les uns aux autres (phénotypiquement identiques) et semblable à l’un des parents ayant le caractère dominant. |
+
+##### La deuxième loi de Mendel: Loi de disjonction (ou ségrégation) des caractères ou loi de pureté des gamètes
+
+| |
+| --- |
+| Lors de la formation des gamètes, les facteurs héréditaires portant les deux formes du caractère étudié se séparent (ségrègent) dans les gamètes. Un gamète ne contient qu'un facteur de chaque caractère. On dit que les gamètes sont purs. |
+
+6/8
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-3/ La transmission du caractère «Couleur de pelage» des souris
+
+##### Transmission du caractère « couleur de pelage » des souris
+
+C'est Lucien Cuenot en 1902, qui va étendre les lois de Mendel aux animaux, en travaillant sur les souris, rongeurs d’élevage facile et à génération rapide.
+
+II a choisi deux lignées pures de souris qui différent par le caractère du pelage : l’une de couleur blanche et l’autre de couleur grise.
+
+Les résultats des travaux de L. Cuenot sont présentés par la figure suivante :
+
+[Figure — image : résultats des travaux de L. Cuenot sur la couleur du pelage des souris]
+
+7/8
+
+### II- La transmission d’un couple d’allèles: Monohybridisme
+
+#### 2-3/ La transmission du caractère «Couleur de pelage» des souris
+
+##### Transmission du caractère « couleur de pelage » des souris
+
+La difficulté, au niveau du croisement de F2 est de pouvoir reconnaître les souris grises F2 qui sont homozygotes et ceux qui sont hétérozygotes.
+
+Afin de résoudre ce problème, on propose, un type de croisement appelé test cross: On croise des animaux de phénotype dominant par un récessif.
+
+On obtient les résultats présentés par la figure 2 :
+
+[Figure 2 — image : résultats du test cross]
+
+8/8

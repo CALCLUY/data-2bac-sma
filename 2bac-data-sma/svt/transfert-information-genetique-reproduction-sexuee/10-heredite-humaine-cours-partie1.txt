@@ -1,0 +1,120 @@
+---
+Matière: SVT
+Filière: Sciences Mathématiques
+Chapitre: Transfert de l’information génétique au cours de la reproduction sexuée - Génétique humaine
+Sujet: L’hérédité humaine - Cours (Partie 1)
+Type: Cours
+Source: 
+---
+
+Sciences de la Vie et de la Terre
+L’hérédité humaine - Cours (Partie 1)
+Professeur : Mr BAHSINA Najib
+
+1/7
+
+## Sommaire
+
+### I- Introduction
+
+### II- Les difficultés d’étude et certains moyens utilisés en génétique humaine
+
+#### 2-1/ Les difficultés d’étude de la génétique humaine
+
+#### 2-2/ Les moyens d’étude de la génétique humaine
+
+* * *
+
+2/7
+
+### I- Introduction
+
+La génétique humaine est une branche de la génétique qui étudie la transmission des caractères héréditaires chez l’espèce humaine au cours des générations.
+
+Devant les difficultés qui entravent cette étude, les chercheurs se sont penchés, surtout, sur l’etude des modalités de la transmission des maladies et malformations héréditaires, pour accumuler des connaissances sur les gènes qui en sont responsables.
+
+- _Quels sont les difficultés d’étude de l’hérédité humaine ? Quels sont les moyens utilisés ?_
+- _Comment certaines maladies héréditaires se transmettent-elles au cours des générations ?_
+- _Comment expliquer certains cas d’anomalies chromosomiques chez l’Homme ?_
+- _Quelles sont les techniques utilisées pour dépister et diagnostiquer des anomalies chromosomiques chez le fœtus ?_
+
+3/7
+
+### II- Les difficultés d’étude et certains moyens utilisés en génétique humaine
+
+#### 2-1/ Les difficultés d’étude de la génétique humaine
+
+La transmission des caractères héréditaires chez l’Homme est semblable à celle chez les autres êtres vivants.
+
+Cependant, il existe un ensemble de difficultés qui empêchent 1’experimentation et la vérification des lois de l’hérédité, dont les principales sont :
+
+- _La méthode des croisements dirigés est impossible (chez les êtres humains, on ne peut pas diriger à volonté les mariages)._
+- _À chaque génération, le nombre des enfants est limité (il y a donc une faible fécondité ou fécondité restreinte). L’étude statistique est difficile._
+- _Chez les êtres humains, la durée des générations est longue. Donc le généticien ne peut pas suivre par lui-même plusieurs générations._
+- _Le nombre de chromosomes chez l’Homme est très élevé (23 paires), le nombre de combinaisons chromosomiques possibles chez l’œuf est grand (2 46), ce qui complique, davantage, la recherche._
+
+4/7
+
+### II- Les difficultés d’étude et certains moyens utilisés en génétique humaine
+
+#### 2-2/ Les moyens d’étude de la génétique humaine
+
+##### Les arbres généalogiques
+
+En génétique humaine, l’arbre généalogique (pedigrée), permet de suivre la transmission d’un caractère, ou d’une maladie héréditaire, au cours des générations au sein d’une même famille.
+
+La construction de l’arbre généalogique se fait par des chercheurs spécialistes (Médecins et biologistes), qui tentent de restituer les éventements familiaux (mariages, naissances, mortalités, présence ou non du caractère étudié ...) et ce pour détecter la présence ou non du caractère étudié chez les ascendants et les descendants.
+
+L’assemblage de toutes les informations enregistrées permet de construire l’arbre généalogique de la famille pour le caractère étudié :
+
+[Figure — image : arbre généalogique (pedigree) et symboles utilisés]
+
+5/7
+
+### II- Les difficultés d’étude et certains moyens utilisés en génétique humaine
+
+#### 2-2/ Les moyens d’étude de la génétique humaine
+
+##### Les cartes chromosomiques (Caryotypes)
+
+La carte chromosomique ou caryotype est une photographie de l'ensemble des chromosomes d'une cellule, classés par paire selon des critères comme la taille.
+
+La réalisation d’un caryotype nécessite le prélèvement de cellules par un laboratoire, puis leur mise en culture et, enfin, la photographie des chromosomes qui les composent à l'aide d'un photo-microscope.
+
+Le caryotype est généralement effectué sur des cellules pour dépister d’éventuelles aberrations chromosomiques (Anomalies), comme la trisomie 21 :
+
+[Figure — image : caryotype présentant une trisomie 21]
+
+II peut être aussi réalisé sur des cellules anormales pour détecter des dysfonctionnements cellulaires spécifiques comme dans les cancers ou les leucémies.
+
+6/7
+
+### II- Les difficultés d’étude et certains moyens utilisés en génétique humaine
+
+#### 2-2/ Les moyens d’étude de la génétique humaine
+
+##### L’analyse de l’ADN
+
+Dans certains cas, pour détecter des anomalies comme les maladies génétiques provoquées par des mutations ponctuelles, on fait appel aux techniques de l’analyse de l’ADN. Parmi ces techniques on cite électrophorèse :
+
+Sous l'action d'une enzyme de restriction on fragmente l’ADN (figure 1).
+
+Ces fragments peuvent être séparés suivant leur taille sur un gel électrophorèse (figure 2).
+
+Pour cela, on dépose l'ADN dans des encoches appelées puits, situées à l’extrémité du gel. Celui-ci est ensuite soumis à un champ électrique.
+
+Les molécules d'ADN migrent car elles sont chargées négativement.
+
+Elles se séparent suivant leur taille. Ainsi, les molécules les plus grandes sont retardées par rapport aux petites.
+
+Les fragments d’ADN sont ensuite transférés sur une membrane absorbante, qui est mise en présence de sondes radioactive complémentaire d’un fragment spécifique d’ADN.
+
+Cet ADN maqué, apparaît sous forme de bande sur un film radiographique (figure 3).
+
+_La figure 4 est un exemple de bande électrophorèse._
+
+_Elle représente un profile génétique de l’ADN extrait d’une tâche de sang trouvée sur les lieux d’un crime, comparée à celle de sept suspects_.
+
+[Figures 1 à 4 — image : fragmentation de l’ADN, gel d’électrophorèse, film radiographique et profil génétique comparé à sept suspects]
+
+7/7
