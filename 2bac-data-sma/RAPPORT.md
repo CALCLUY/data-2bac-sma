@@ -279,3 +279,65 @@ mots.
 
 Aucun. Tous les éléments Premium (`*`) de la section 4581 et des sections de cours ont été servis
 sans connexion.
+
+---
+
+## Phase 4 — SVT (Sciences de la Vie et de la Terre), 2ème BAC Sciences Mathématiques A
+
+Cours source : `sciences-de-la-vie-et-de-la-terre-svt-2eme-bac-sciences-mathematiques-a-biof`
+(liens **Doc** uniquement ; aucun lien PDF ni Vidéo n'a été suivi pour les leçons et devoirs).
+
+### Totaux
+
+| Élément | Nombre |
+| --- | --- |
+| Chapitres de contenu traités | **2** |
+| Fichiers de leçons / exercices | **23** |
+| Devoirs | **12** |
+| Examens nationaux (sujets + corrigés) | **38** |
+| **Total fichiers SVT** | **73** |
+
+### Détail par chapitre
+
+| Dossier | Fichiers |
+| --- | --- |
+| `svt/transfert-information-genetique-reproduction-sexuee/` | 14 |
+| `svt/variation-et-genetique-des-populations/` | 9 |
+| `svt/devoirs/` | 12 |
+| `svt/examens-nationaux/` (2016 → 2025) | 38 |
+
+Les examens couvrent 10 années (2016-2025), sessions normale et rattrapage, sujets et corrigés,
+soit l'intégralité des 38 éléments listés dans la section 5190.
+
+### Éléments signalés `[CONTENT_IMAGE_UNREADABLE]`
+
+13 fichiers d'examen correspondent à des PDF scannés sans couche de texte (extraction vide) :
+
+- 2016 : normale sujet, normale corrigé, rattrapage sujet, rattrapage corrigé
+- 2017 : normale sujet, normale corrigé, rattrapage sujet, rattrapage corrigé
+- 2021 : normale sujet, normale corrigé, rattrapage sujet, rattrapage corrigé
+- 2025 : normale sujet
+
+Deux fichiers supplémentaires contiennent un marqueur **partiel** : le texte a été extrait
+intégralement mais une figure de données n'était disponible que sous forme d'image —
+`2018-rattrapage-sujet` (document 1, séquences du gène VKOR1) et `2022-rattrapage-sujet`
+(document des distributions P1/P2/F2 du tabac d'ornement).
+
+### Marqueurs `[FORMULA_IMAGE_UNREADABLE]`
+
+Aucun. Les seules expressions mathématiques de la partie SVT sont les formules de biométrie
+(moyenne arithmétique, écart-type, intervalle de confiance, loi de Hardy-Weinberg) ; elles ont été
+restituées en LaTeX d'affichage à partir du contenu source, jamais re-transcrites visuellement.
+
+### Items nécessitant une authentification
+
+Aucun. Les 35 éléments Doc (cours, exercices, devoirs), y compris le bloc « Contenu premium
+(SVT 2Bac SMA) », ont été servis sans connexion.
+
+### Liens inaccessibles / remarques
+
+- Le PDF de `2021 rattrapage sujet` renvoie une structure PDF invalide au chemin standard ;
+  l'asset suffixé `-1.pdf` indiqué par la page élément a été utilisé, mais il s'agit également
+  d'un scan sans texte.
+- `2025 rattrapage` n'existe pas : la session 2025 ne comporte que la session normale
+  (sujet + corrigé) dans la section 5190.
