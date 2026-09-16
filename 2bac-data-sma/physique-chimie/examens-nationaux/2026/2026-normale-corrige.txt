@@ -1,0 +1,357 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2026 - Session Normale - Corrigé
+Type: Corrigé
+Source: 
+---
+
+Correction de l'examen national de Physique Chimie
+Filière Sciences Mathématiques – Session normale 2026
+Direction provinciale : Mohammedia
+
+Question | Réponse | Barème
+
+## Exercice 1 : Chimie
+
+Partie 1 : Étude d'une solution aqueuse d'acide éthanoïque et sa réaction avec l'ammoniac
+
+1- $CH_3COOH_{(aq)} + H_2O_{(l)} \rightleftarrows CH_3COO^-_{(aq)} + H_3O^+_{(aq)}$ — 0,25
+
+2-
+
+| Équation chimique | $CH_3COOH_{(aq)} + H_2O_{(l)} \rightleftarrows CH_3COO^-_{(aq)} + H_3O^+_{(aq)}$ | | | |
+|---|---|---|---|---|
+| État | Avancement | Quantités de matière en mol | | |
+| Initial | 0 | $C_1.V$ | En excès | 0 / 0 |
+| Final | $x_{éq}$ | $C_1.V - x_{éq}$ | En excès | $x_{éq}$ / $x_{éq}$ |
+
+On a : $K_A = \dfrac{[CH_3COO^-]_{éq}.[H_3O^+]_{éq}}{[CH_3COOH]_{éq}}$ ; D'autre part : $\tau_1 = \dfrac{x_{éq}}{x_{max}}$
+
+D'après (T.A) : $[H_3O^+]_{éq} = \dfrac{x_{éq}}{V}$ ; Donc : $x_{éq} = [H_3O^+]_{éq}.V$ ;
+
+D'autre part, puisque $CH_3COOH$ est le réactif limitant et en considérant la réaction totale, on a $C_1V - x_{max} = 0$ ; Donc : $x_{max} = C_1V$ ;
+
+Par suite : $\tau_1 = \dfrac{[H_3O^+]_{éq}.V}{C_1V}$ ; Donc : $[H_3O^+]_{éq} = \tau_1.C_1$
+
+D'après (T.A) : $[H_3O^+]_{éq} = [CH_3COO^-]_{éq} = \tau_1.C_1$
+
+Et $[CH_3COOH]_{éq} = \dfrac{C_1.V - x_{éq}}{V} = C_1 - \dfrac{x_{éq}}{V} = C_1 - [H_3O^+]_{éq} = C_1.(1 - \tau_1)$
+
+Donc : $K_A = \dfrac{(\tau_1.C_1)^2}{C_1.(1 - \tau_1)}$ ; Alors : $K_A = \dfrac{C_1.\tau_1^2}{(1 - \tau_1)}$ — 0,5
+
+3-1 On a $\tau \ll 1$ ; Donc : $K_A = C_2.\tau^2$ ; Et on a : $C_2 = \dfrac{C_1.V_1}{V_1 + V_e}$
+
+Donc : $K_A = \dfrac{C_1.V_1}{V_1 + V_e}.\tau^2$ ; D'où : $\tau^2 = \dfrac{K_A}{C_1.V_1}.(V_1 + V_e) = \dfrac{K_A}{C_1.V_1}.V_e + \dfrac{K_A.V_1}{C_1.V_1}$
+
+On pose : $\alpha = \dfrac{K_A}{C_1.V_1}$ et $\beta = \dfrac{K_A}{C_1}$ ; Alors : $\tau^2 = \alpha.V_e + \beta$ — 0,5
+
+3-2-1 Graphiquement, pour $V_e = 0\ mL$ ; $\tau_1^2 = 1,59.10^{-3}$
+
+On a : $[H_3O^+]_{éq} = \tau_1.C_1$ et $pH_1 = -\log([H_3O^+]_{éq})$
+
+Donc : $pH_1 = -\log(\tau_1.C_1)$ ; A.N : $pH_1 = -\log\left(\sqrt{1,59.10^{-3}} \times 10^{-2}\right)$ ;
+
+Alors : $pH_1 = 3,4$ — 0,5
+
+3-2-2 On a : $\tau^2 = f(V_e)$ est une fonction affine et on a $\tau^2 = \alpha.V_e + \beta$ avec $\beta = \dfrac{K_A}{C_1}$
+
+Donc : $K_A = \beta.C_1$ ; graphiquement : $\beta = 1,59.10^{-3}$
+
+D'où : $K_A = 1,59.10^{-3} \times 10^{-2}$ ; Alors : $K_A = 1,59.10^{-5}$
+
+Et on a : $\alpha = \dfrac{K_A}{C_1.V_1}$ ; Donc : $V_1 = \dfrac{K_A}{C_1.\alpha}$
+
+Graphiquement : $\alpha = \dfrac{\Delta\tau^2}{\Delta V_e}$ ; A.N : $\alpha = \dfrac{(3,18 - 1,59) \times 10^{-3}}{(10 - 0) \times 10^{-3}} = 0,159\ L^{-1}$
+
+D'où : $V_1 = \dfrac{1,59.10^{-5}}{10^{-2} \times 0,159}$ ; $V_1 = 10^{-2}\ L$ ; Soit : $V_1 = 10\ mL$ — 0,25 / 0,5
+
+4-1- On a : $K_A = \dfrac{[CH_3COO^-]_{éq}.[H_3O^+]_{éq}}{[CH_3COOH]_{éq}}$ ; Donc : $K_A = \dfrac{[H_3O^+]^2_{éq}}{C_3 - [H_3O^+]_{éq}}$
+
+On a : $[H_3O^+]_{éq} = 10^{-pH_3}$ ; Donc : $K_A = \dfrac{10^{-2pH_3}}{C_3 - 10^{-pH_3}}$ ;
+
+D'où : $C_3 - 10^{-pH_3} = \dfrac{10^{-2pH_3}}{K_A}$ ; par suite : $C_3 = \dfrac{10^{-2pH_3}}{K_A} + 10^{-pH_3}$
+
+$C_3 = \dfrac{10^{-2pH_3} + 10^{-pH_3}.K_A}{K_A}$ ; Alors : $C_3 = \dfrac{1 + 10^{pH_3}.K_A}{10^{2pH_3}K_A}$
+
+On a : $n = \dfrac{C_1}{C_3}$ ; Donc : $n = \dfrac{C_1.10^{2pH_3}K_A}{1 + 10^{pH_3}.K_A}$ ; $n = \dfrac{10^{-2} \times 10^{2 \times 3,85} \times 1,59.10^{-3}}{1 + 10^{3,85} \times 1,59.10^{-3}}$ ; $n = 7,16$ — 0,25 / 0,25
+
+4-2- On a : $n = \dfrac{C_1}{C_3}$ ; Donc : $C_3 = \dfrac{C_1}{n}$ ; $C_3 = \dfrac{10^{-2}}{7,16}$ ;
+
+Alors : $C_3 = 1,4.10^{-3}\ mol.L^{-1}$
+
+On a : $C_3 = \dfrac{C_1.V_2}{V_2 + V_e}$ ; Donc : $V_2 + V_e = \dfrac{C_1}{C_3}.V_2$ ; D'où : $V_e = \left(\dfrac{C_1}{C_3} - 1\right).V_2$
+
+A.N : $V_e = \left(\dfrac{10^{-2}}{1,4.10^{-3}} - 1\right) \times 15$ ; Alors : $V_e = 92,1\ mL$ — 0,25 / 0,25
+
+5-1- $CH_3COOH_{(aq)} + NH_{3(aq)} \rightarrow CH_3COO^-_{(aq)} + NH_{4(aq)}^+$ ; $K > 10^4$ — 0,25
+
+5-2-
+
+| Équation chimique | $CH_3COOH_{(aq)} + NH_{3(aq)} \rightarrow CH_3COO^-_{(aq)} + NH_{4(aq)}^+$ | | | |
+|---|---|---|---|---|
+| État | Avancement | Quantités de matière en mol | | |
+| Initial | 0 | $C_1.V$ | $C_1.V$ | 0 / 0 |
+| Final | $x_f$ | $C_1.V - x_f$ | $C_1.V - x_f$ | $x_f$ / $x_f$ |
+
+On a : $pH = pK_A + \log\left(\dfrac{[CH_3COO^-]}{[CH_3COOH]}\right)$ et $pH = pK_{A1} + \log\left(\dfrac{[NH_3]}{[NH_4^+]}\right)$
+
+Donc : $2.pH = pK_A + pK_{A1} + \log\left(\dfrac{[CH_3COO^-]}{[CH_3COOH]}.\dfrac{[NH_3]}{[NH_4^+]}\right)$
+
+D'après (T.A), à l'état final : $[CH_3COOH]_f = [NH_3]_f$ et $[CH_3COO^-]_f = [NH_4^+]_f$
+
+D'où : $2.pH = pK_A + pK_{A1}$ ; Alors : $pH = \dfrac{1}{2}(pK_A + pK_{A1})$ — 0,5
+
+5-3- On a : $pH = \dfrac{1}{2}(pK_A + pK_{A1})$ ; $pH = \dfrac{1}{2} \times (-\log(1,59.10^{-5}) + 9,2)$ ; $pH = 7$
+
+On a : $pK_A = 4,8$ ; Donc : $pK_A < pH$ ; Alors $CH_3COO^-$ prédomine
+
+Et on a : $pK_{A1} > pH$, Alors $NH_3$ prédomine — 0,25 / 0,25
+
+Partie 2 : Synthèse du dihydrogène gazeux
+
+1- $E_1$ est lié au pôle positif du générateur, donc à son voisinage on a oxydation, d'où $E_1$ représente l'anode. — 0,5
+
+2- Au niveau de la cathode : $2H_2O_{(\ell)} + 2e^- \rightleftarrows H_{2(g)} + 2HO^-_{(aq)}$ — 0,5
+
+3-1-
+
+| Équation chimique | $2H_2O_{(\ell)} + 2e^- \rightleftarrows H_{2(g)} + 2HO^-_{(aq)}$ | | | |
+|---|---|---|---|---|
+| État | Avancement | Quantité de matière en mol | | |
+| Initial | 0 | $n$ | 0 | 0 / 0 |
+| En cours | $x$ | $n - 2x$ | $2x$ | $x$ / $2x$ |
+| Final | $x_f$ | $n - 2x_f$ | $2x_f$ | $x_f$ / $2x_f$ |
+
+On a : $n(H_2) = \dfrac{V(H_2)}{V_m} = x$ ; Donc : $V(H_2) = x.V_m$
+
+Et on a $I.\Delta t = n(e^-).F$ ; Donc : $I.t = 2x.F$ ; d'où : $x = \dfrac{I.\Delta t}{2.F}$
+
+Alors : $V(H_2) = \dfrac{I.\Delta t.V_m}{2.F}$ ; A.N : $V(H_2) = \dfrac{1 \times (10 \times 60) \times 24,8}{2 \times 9,65.10^4}$ ; $V(H_2) = 7,71.10^{-2}\ L$
+
+Soit : $V(H_2) = 77,1\ mL$ — 0,5 / 0,25
+
+3-2- D'après (T.A) : $[HO^-] = \dfrac{2x}{V}$ ; Donc : $[HO^-] = \dfrac{I.\Delta t}{F.V} = \dfrac{K_e}{[H_3O^+]}$ ;
+
+D'où : $[H_3O^+] = \dfrac{K_e.F.V}{I.\Delta t}$ ; Par suite : $pH = -\log\left(\dfrac{K_e.F.V}{I.\Delta t}\right)$
+
+$pH = -\log\left(\dfrac{10^{-14} \times 9,65.10^4 \times 0,5}{1 \times (10 \times 60)}\right)$ ; Alors : $pH = 12,09$ — 0,5
+
+## Exercice 2 : La radioactivité du potassium
+
+1- $^{40}_{19}K \rightarrow\ ^{40}_{20}Ca + ^A_Z X$ ; D'après les lois de Soddy :
+
+$\begin{cases} 40 = 40 + A \\ 19 = 20 + Z \end{cases}$ ; d'où : $\begin{cases} A = 0 \\ Z = -1 \end{cases}$ Alors : $^{40}_{19}K \rightarrow\ ^{40}_{20}Ca + ^0_{-1}e$ — 0,25
+
+2-1- On a : $\xi(^{40}_{19}K) = \dfrac{E_\ell(^{40}_{19}K)}{40} = \dfrac{E_1}{40}$ ; $\xi(^{40}_{19}K) = \dfrac{331,614}{40}$ ;
+
+Donc : $\xi(^{40}_{19}K) = 8,29\ MeV/nucléon$
+
+On a : $\xi(^{40}_{20}Ca) = \dfrac{E_\ell(^{40}_{20}Ca)}{40} = \dfrac{E_2}{40}$ ; $\xi(^{40}_{20}Ca) = \dfrac{332,441}{40}$ ;
+
+Donc : $\xi(^{40}_{20}Ca) = 8,31\ MeV/nucléon$
+
+D'où : $\xi(^{40}_{20}Ca) > \xi(^{40}_{19}K)$ ; Alors $^{40}_{20}Ca$ est plus stable que $^{40}_{19}K$ — 0,5
+
+2-2- $E_3$ correspond à la transformation d'un neutron en un proton avec émission d'un électron : $^1_0n \rightarrow\ ^1_1p + ^0_{-1}e$ — 0,25
+
+4- L'énergie libérée par une désintégration est : $|\Delta E| = E_2 - E_1 - E_3$
+
+Le nombre de noyaux $^{40}_{19}K$ désintégrés dans le corps d'une personne de masse $70\ kg$ : $N = \dfrac{0,89 \times m.N_A}{M(^{40}_{19}K)}$
+
+L'énergie libérée par seconde : $E = a(t).|\Delta E|$ ; Donc : $E = \lambda.N.|\Delta E|$
+
+D'autre part : $\lambda = \dfrac{Ln(2)}{t_{1/2}}$ ; D'où : $E = \dfrac{0,89.Ln(2).m.N_A.(E_2 - E_1 - E_3)}{M(^{40}_{19}K).t_{1/2}}$
+
+$E = \dfrac{0,89 \times Ln(2) \times 16 \times 10^{-3} \times 6,02.10^{23}.(332,441 - 331,614 + 0,782)}{40 \times 1,25.10^9 \times 365,25 \times 24 \times 3600}$
+
+$E = 6059\ MeV/s$ — 0,5 / 0,25
+
+## Exercice 3 : Utilisation des ultrasons pour vérifier la qualité d'une huile d'olive
+
+1- Proposition juste : d- On peut réaliser le phénomène de diffraction avec des ondes ultrasonores — 0,5
+
+2- On a : $v_a = \dfrac{2d}{t_1 - 0}$ ; $v_a = \dfrac{2 \times 20 \times 10^{-2}}{1168,79 \times 10^{-6}}$ ; Alors : $v_a = 342\ m.s^{-1}$ — 0,5
+
+3- On a : $v_h = \dfrac{2h}{t_2 - t_1}$ ; $v_h = \dfrac{2 \times 10 \times 10^{-2}}{(1293,90 - 1168,79) \times 10^{-6}}$ ; Alors : $v_h = 1599\ m.s^{-1}$
+
+On remarque que : $1595\ m.s^{-1} < v_h < 1600\ m.s^{-1}$ Alors l'huile d'olive étudiée est de bonne qualité. — 0,5 / 0,25
+
+## Exercice 4 : Electricité
+
+Partie 1 : Détermination des caractéristiques d'une bobine et d'un condensateur
+
+1- Détermination des caractéristiques de la bobine
+
+1-1- D'après la loi d'additivité des tensions : $u_L + u_R = E$ ;
+
+Donc $r.i + L\dfrac{di}{dt} + u_R = E$ ;
+
+D'où : $r.u_R + L\dfrac{du_R}{dt} + R.u_R = R.E$
+
+$\dfrac{du_R}{dt} + \dfrac{R + r}{L}u_R = \dfrac{R.E}{L}$
+
+Finalement : $\dfrac{du_R}{dt} = -\dfrac{R+r}{L}u_R + \dfrac{R.E}{L}$ — 0,5
+
+1-2- On a : $\dfrac{du_R}{dt} = f(u_R)$ est une fonction affine d'équation : $\dfrac{du_R}{dt} = \alpha.u_R + \beta$ ;
+
+Par identification avec : $\dfrac{du_R}{dt} = -\dfrac{R+r}{L}u_R + \dfrac{R.E}{L}$ ; $\beta = \dfrac{R.E}{L}$ ; Donc : $L = \dfrac{R.E}{\beta}$ ;
+
+$L = \dfrac{50 \times 6}{5.10^3}$ ; Alors : $L = 6.10^{-2}\ H$ ; Soit : $L = 60\ mH$
+
+De même : $\alpha = -\dfrac{R+r}{L}$ ; Donc : $r = -\alpha.L - R$
+
+Graphiquement : $\alpha = \dfrac{(5 - 0) \times 10^3}{0 - 5} = -10^3\ s^{-1}$ ; D'où : $r = 10^3 \times 6.10^{-2} - 50$
+
+Alors : $r = 10\ \Omega$ — 0,25 / 0,25
+
+2- Les oscillations électriques libres dans le circuit RLC série
+
+2-1 D'après la loi d'additivité des tensions :
+
+$u_c + u_R + u_L = 0$ ;
+
+Donc : $u_c + R.i + r.i + L\dfrac{di}{dt} = 0$ ;
+
+D'où : $u_c + (R + r).C.\dfrac{du_c}{dt} + LC\dfrac{d^2u_c}{dt^2} = 0$
+
+Alors : $\dfrac{d^2u_c}{dt^2} + \dfrac{R+r}{L}\dfrac{du_c}{dt} + \dfrac{1}{LC}u_c = 0$ — 0,5
+
+2-2- On a : $T = T_0 = 2\pi\sqrt{LC}$ ; Donc : $C = \dfrac{T^2}{4\pi^2.L}$ ; $C = \dfrac{(2.10^{-3})^2}{4\pi^2 \times 2.10^{-2}}$ ; $C = 1,69\ \mu F$ — 0,25
+
+2-3- On a : $E_T(t) = \dfrac{1}{2}Cu_c^2 + \dfrac{1}{2}Li^2$ ; et on a : $i = C\dfrac{du_c}{dt}$
+
+Alors : $E_T(t) = \dfrac{1}{2}C.\left[u_c^2 + LC\left(\dfrac{du_c}{dt}\right)^2\right]$ — 0,25
+
+2-4 On a : $\Delta E_T = \dfrac{1}{2}C.\left[\left(u_c^2(t_1) - u_c^2(0)\right) + LC\left[\left(\dfrac{du_c}{dt}\right)^2_{t_1} - \left(\dfrac{du_c}{dt}\right)^2_0\right]\right]$
+
+$\Delta E_T = \dfrac{1}{2} \times 1,69.10^{-6}.\left[\left((-0,4)^2 - 6^2\right) + 6.10^{-2} \times 1,69.10^{-6}\left[\left(\dfrac{-0,4 - 0,4}{4,8 - 4}\right)^2 - 0^2\right]\right]$
+
+$\Delta E_T = -3,03.10^{-5}\ J$
+
+La diminution de l'énergie totale du circuit est due à la dissipation de l'énergie par effet Joule dans les résistances du circuit — 0,5 / 0,25
+
+2-5 Proposition juste : c – l'énergie totale emmagasinée dans le dipôle RLC est constante au cours du temps — 0,5
+
+Partie 2 : Oscillateur RLC en régime sinusoïdal forcé
+
+1- On a : $N_0 = \dfrac{1}{2\pi\sqrt{LC}}$ ; $N_0 = \dfrac{1}{2\pi\sqrt{2,5.10^{-3} \times 120 \times 10^{-9}}}$ ; Alors : $N_0 = 9189\ Hz$ — 0,25
+
+2- On a : $\dfrac{I_0}{\sqrt{2}} = \dfrac{1,41}{\sqrt{2}} \approx 1A$ ; Donc : $\dfrac{I_0}{\sqrt{2}} = I_{eff}$
+
+Alors $N_1$ et $N_2$ délimitent la bande passante — 0,25
+
+3- On a : $Q = \dfrac{N_0}{\Delta N}$ ; Donc : $Q = \dfrac{N_0}{N_2 - N_1}$ ; D'où : $N_2 = \dfrac{N_0}{Q} + N_1$
+
+$N_2 = \dfrac{9189}{1,44} + 6540$ ; Alors : $N_2 = 12,92\ kHz$ — 0,25
+
+4- On a : $I_0 = \dfrac{U_{eff}}{R}$ ; Donc : $I_0 = \dfrac{U_m}{\sqrt{2}R}$ ; Alors : $R = \dfrac{U_m}{\sqrt{2}.I_0}$ ; $R = \dfrac{100}{\sqrt{2} \times 1,41}$ ; $R = 50\ \Omega$ — 0,25
+
+## Exercice 5 : Mécanique
+
+Partie 1 : Mouvement d'un ballon de basket-ball
+
+1- Système étudié : {le ballon} ; $\vec{P}$ : Le poids
+
+Dans un référentiel terrestre, considéré galiléen, on applique la $2^{ème}$ loi de Newton : $\vec{P} = m.\vec{a}_G$ ; Donc : $m.\vec{g} = m.\vec{a}_G$ ; D'où : $\vec{a}_G = \vec{g}$
+
+Projection suivant $(OX)$ et $(OZ)$
+
+$\vec{a}_G \begin{cases} a_x = \dfrac{dv_x}{dt} = 0 \\ a_z = \dfrac{dv_z}{dt} = -g \end{cases}$ ; $\vec{v}_G \begin{cases} v_x(t) = \dfrac{dx}{dt} = v_0.\cos(\alpha) \\ v_z(t) = \dfrac{dz}{dt} = -g.t + v_0.\sin(\alpha) \end{cases}$
+
+$\overrightarrow{OG} \begin{cases} x(t) = v_0.\cos(\alpha).t \\ z(t) = -\dfrac{1}{2}g.t^2 + v_0.\sin(\alpha).t + H \end{cases}$
+
+Donc : $t = \dfrac{x}{v_0.\cos(\alpha)}$ ; Alors : $z(x) = -\dfrac{g}{v_0^2\cos^2(\alpha)}.x^2 + \tan(\alpha).x + H$ — 0,5
+
+2- Pour que le panier soit réussi, il faut que : $z(D) = h$
+
+Donc : $-\dfrac{g}{v_0^2\cos^2(\alpha)}.D^2 + \tan(\alpha).D + H = h$
+
+D'où : $\dfrac{g.D^2}{v_0^2\cos^2(\alpha)} = \tan(\alpha).D + H - h$ ; $v_0 = \sqrt{\dfrac{g.D^2}{(\tan(\alpha).D + H - h).\cos^2(\alpha)}}$
+
+Alors : $v_0 = \dfrac{D}{\cos(\alpha)}\sqrt{\dfrac{g}{(\tan(\alpha).D + H - h)}}$ ; $v_0 = \dfrac{6,75}{\cos(45)}\sqrt{\dfrac{9,8}{(\tan(45) \times 6,75 + 2 - 3,05)}}$ ;
+
+$v_0 = 8,85\ m.s^{-1}$ — 0,25 / 0,25
+
+3- Lorsque $G$ arrive au point $C$, on a : $D = v_0.\cos(\alpha).t_D$ ; Donc : $t_D = \dfrac{D}{v_0.\cos(\alpha)}$
+
+D'où : $\Delta t = t_D - t_0 = \dfrac{D}{v_0.\cos(\alpha)}$ ; $\Delta t = \dfrac{6,75}{8,85 \times \cos(45)}$ ; $\Delta t = 1,08\ s$ — 0,5
+
+4- La hauteur du ballon lorsqu'il arrive au-dessus de l'adversaire :
+
+$z(d) = -\dfrac{g}{v_0^2\cos^2(\alpha)}.d^2 + \tan(\alpha).d + H$ ;
+
+$z(d) = -\dfrac{9,8}{8,85^2 \times \cos^2(45)}.0,9^2 + \tan(45) \times 0,9 + 2$ ; $z(d) \approx 2,80\ m$
+
+Le bas du ballon se trouve à la hauteur $z_{bas} = z(d) - R$ ; $z_{bas} = 2,80 - 0,124$ — 0,25
+
+Donc : $z_{bas} = 2,67\ m$ ; On remarque que : $z_{bas} < H'$
+
+Alors l'adversaire peut dévier le ballon et le panier n'est pas réussi. — 0,25
+
+Partie 2 : Mouvement d'un système mécanique
+
+1-1- Système étudié : $\{solide\ (S)\}$
+
+$\vec{P}$ : Le poids ;
+$\vec{R}$ : réaction du plan horizontal
+$\vec{T}$ : force de rappel
+
+Dans un référentiel terrestre, considéré galiléen, on applique la $2^{ème}$ loi de Newton : $\vec{P} + \vec{R} + \vec{T} = m.\vec{a}_G$
+
+la projection sur (Ox) donne : $0 + 0 - Kx = m\ddot{x}$ ; Donc : $\ddot{x} + \dfrac{K}{m}x = 0$ — 0,25
+
+1-2- On a : $x(t) = X_m\cos(2\pi N_0 t + \varphi)$ Donc : $\dot{x}(t) = -X_m 2\pi N_0\sin(2\pi N_0 t + \varphi)$
+
+D'où : $\ddot{x}(t) = -X_m(2\pi N_0)^2\cos(2\pi N_0 t + \varphi)$ ; $\ddot{x}(t) = -(2\pi N_0)^2 x$
+
+Alors : $\ddot{x}(t) + (2\pi N_0)^2 x = 0$
+
+Par identification avec l'équation différentielle : $(2\pi N_0)^2 = \dfrac{K}{m}$
+
+Finalement : $N_0 = \dfrac{1}{2\pi}\sqrt{\dfrac{K}{m}}$ ; $N_0 = \dfrac{1}{2\pi}\sqrt{\dfrac{400}{0,1}}$ ; $N_0 = 10,07\ Hz$
+
+On a : $x(0) = a\cos(\varphi) = -a$ ; $\cos(\varphi) = -1$ ; D'où : $\varphi = \pi\ rad$ — 0,25 / 0,25
+
+1-3- On a : $\dot{x}(t) = -a.2\pi N_0\sin(2\pi N_0 t + \pi)$
+
+(S) passe par sa position d'équilibre pour la première fois à l'instant : $t_1 = \dfrac{1}{4N_0}$
+
+Donc : $v(t_1) = \dot{x}(t_1) = -a.2\pi N_0\sin\left(2\pi N_0.\dfrac{1}{4N_0} + \pi\right)$ ;
+
+D'où : $v(t_1) = -a.2\pi N_0\sin\left(\dfrac{3\pi}{2}\right)$ ; $v(t_1) = -5.10^{-2} \times 2\pi \times 10,07\sin\left(\dfrac{3\pi}{2}\right)$
+
+$v(t_1) = 3,16\ m.s^{-1}$ — 0,25
+
+2-1- Les corps $(S)$ et $(S')$ restent solidaires tant que le ressort exerce une force de rappel $\vec{T}$. Lorsque $(S)$ passe par sa position d'équilibre ($x = 0$), ($T = 0$). $(S')$ n'est plus entraîné par $(S)$, se détache et poursuit son mouvement avec la vitesse acquise à cet instant. — 0,25
+
+2-2- En absence du frottement : $E_{pe,max} = E_{C,max}$ ; Donc : $\dfrac{1}{2}K.a^2 = \dfrac{1}{2}(m + m')v_0'^2$
+
+D'où : $v'_0 = a.\sqrt{\dfrac{K}{m + m'}}$ — 0,25
+
+2-3-1 Système étudié : $\{solide\ (S')\}$ ; $\vec{P'}$ : Le poids ; $\vec{R}$ : réaction du plan horizontal
+
+Dans un référentiel terrestre, considéré galiléen, on applique la $2^{ème}$ loi de Newton : $\vec{P'} + \vec{R} = m'.\vec{a}_{G'}$
+
+(S') se déplace suivant $(OX)$, Donc : $P' - R_N = 0$
+
+D'où : $m'g - \dfrac{R_T}{\mu} = 0$ ; Alors : $R_T = \mu.m'.g$ ;
+
+$R_T = 0,5 \times 0,2 \times 10$ ; $R_T = 1\ N$ — 0,5
+
+2-3-2 On a : $\vec{P'} + \vec{R} = m'.\vec{a}_{G'}$ ; projection suivant $(OX)$ : $-R_T + 0 = m'.a_{G'}$
+
+$a_{G'} = -\dfrac{R_T}{m'}$ ; D'où : $v_{G'}(t) = -\dfrac{R_T}{m'}t + v'_0$ ; Alors : $x_{G'}(t) = -\dfrac{R_T}{2m'}t^2 + v'_0 t$ — 0,5
+
+2-3-3 Au point D : $-\dfrac{R_T}{m'}t_D + v'_0 = 0$ ; Donc : $t_D = \dfrac{m'.v'_0}{R_T}$ ;
+
+Donc : $d = -\dfrac{R_T}{2m'}t_D^2 + v'_0 t_D$ ;
+
+$d = -\dfrac{R_T.m'^2.v_0'^2}{2m'R_T^2} + \dfrac{m'.v_0'^2}{R_T}$ ; $d = \dfrac{m'.v_0'^2}{2.R_T}$ ; On a : $v'_0 = a'.\sqrt{\dfrac{K}{m + m'}}$
+
+Donc : $d = \dfrac{m'.a'^2K}{2.R_T(m + m')}$ ; Alors : $a' = \sqrt{\dfrac{2.R_T.d(m + m')}{K.m'}}$ ; $a' = \sqrt{\dfrac{2 \times 1 \times 0,45 \times (0,1 + 0,2)}{400 \times 0,2}}$
+
+$a' = 5,8.10^{-2}\ m$ ; Soit : $a' = 5,8\ cm$ — 0,5 / 0,25
+
+Réalisé par : Pr. M. BNOUMARZOUK
+Www.AdrarPhysic.Fr

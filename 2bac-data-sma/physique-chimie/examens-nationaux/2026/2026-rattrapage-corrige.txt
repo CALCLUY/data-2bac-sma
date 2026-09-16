@@ -1,0 +1,1022 @@
+---
+Matière: Physique-Chimie
+Semestre / Section: Examen National
+Sujet: 2026 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: 
+---
+
+Correction détaillée du sujet PC SM R2026
+
+Physique–Chimie – Sciences Mathématiques – Session de rattrapage 2026
+
+Corrigé avec barème et tableaux récapitulatifs
+
+Remarque importante. Certaines valeurs numériques sont obtenues par lecture graphique. Elles peuvent donc varier légèrement selon la précision de lecture du graphe scanné. Dans ce corrigé, on adopte les lectures suivantes : $V_{BE}(t_0) \simeq 25\ mL$, $V_{BE}(t_f) \simeq 10\ mL$, $t_{1/2} \simeq 7\ h$, $p(HIn)_{pH=6} \simeq 0,90$, $pK_A(HIn/In^-) \simeq 6,8$, $T_0 \simeq 0,40\ s$.
+
+# Table des matières
+
+1 Exercice 1 : Chimie — 7 points
+1.1 Partie 1 : Détermination de la classe d'un alcool
+1.2 Partie 2 : Étude d'une solution aqueuse d'un indicateur coloré
+2 Exercice 2 : Transformations nucléaires — 2,75 points
+3 Exercice 3 : Électricité — 5 points
+3.1 Partie 1 : Étude énergétique de la charge d'un condensateur
+3.2 Partie 2 : Décharge du condensateur
+3.3 Partie 3 : Modulation d'amplitude et réception
+4 Exercice 4 : Mécanique — 5,25 points
+Tableau global du barème
+
+# 1 Exercice 1 : Chimie — 7 points
+
+## 1.1 Partie 1 : Détermination de la classe d'un alcool
+
+Question 1 : Équation de la réaction du dosage [0,25 pt]
+
+On dose l'acide éthanoïque restant par une solution d'hydroxyde de sodium. L'espèce réactive de la base est l'ion hydroxyde $HO^-$. La réaction de dosage est une réaction acido-basique totale entre l'acide éthanoïque et l'ion hydroxyde :
+
+$$CH_3COOH_{(aq)} + HO^-_{(aq)} \longrightarrow CH_3COO^-_{(aq)} + H_2O_{(l)}$$
+
+Barème conseillé : 0,25 pt pour l'équation correcte et équilibrée.
+
+Question 2 : Expression de la quantité d'ester formée $n_E(t)$ [0,5 pt]
+
+La réaction d'estérification consomme l'acide éthanoïque. La quantité d'ester formée à l'instant t est égale à la quantité d'acide éthanoïque qui a disparu entre l'état initial et l'instant t.
+
+La quantité initiale totale d'acide éthanoïque dans le mélange S est :
+
+$$n_0(CH_3COOH) = \frac{m(CH_3COOH)}{M(C_2H_4O_2)}.$$
+
+Or la masse de l'acide éthanoïque introduit est :
+
+$$m(CH_3COOH) = d_1\rho_e V_1.$$
+
+Donc :
+
+$$n_0(CH_3COOH) = \frac{d_1\rho_e V_1}{M(C_2H_4O_2)}.$$
+
+Le mélange total est réparti en 10 tubes identiques. À l'instant t, on dose l'acide restant dans un tube. À l'équivalence :
+
+$$n(CH_3COOH)_{tube} = n(HO^-) = C_B V_{BE}(t).$$
+
+Dans les dix tubes, la quantité totale d'acide restant est donc :
+
+$$n(CH_3COOH)_{restant} = 10\ C_B V_{BE}(t).$$
+
+Ainsi, la quantité d'ester formée est :
+
+$$n_E(t) = n_0(CH_3COOH) - n(CH_3COOH)_{restant}$$
+
+$$n_E(t) = \frac{d_1\rho_e V_1}{M(C_2H_4O_2)} - 10\ C_B V_{BE}(t)$$
+
+Barème conseillé : 0,25 pt pour $n_0 = \frac{d_1\rho_e V_1}{M}$ ; 0,25 pt pour l'utilisation du dosage dans les 10 tubes.
+
+Question 3 : Quantité d'ester formée à l'état final [0,5 pt]
+
+Données :
+
+$$d_1 = 1,05,\quad \rho_e = 1\ g.mL^{-1},\quad V_1 = 14,3\ mL,\quad M(C_2H_4O_2) = 60\ g.mol^{-1},\quad C_B = 1\ mol.L^{-1}.$$
+
+Calcul de la quantité initiale d'acide éthanoïque :
+
+$$n_0 = \frac{1,05 \times 1 \times 14,3}{60} = 2,50 \times 10^{-1}\ mol.$$
+
+D'après la courbe de la figure 1 :
+
+$$V_{BE}(t_f) \simeq 10\ mL = 10 \times 10^{-3}\ L.$$
+
+Alors :
+
+$$n_E(t_f) = 0,250 - 10 \times 1 \times 10 \times 10^{-3}.$$
+
+$$n_E(t_f) = 0,250 - 0,100 = 0,150\ mol.$$
+
+$$n_E(t_f) = 1,50 \times 10^{-1}\ mol$$
+
+Barème conseillé : 0,25 pt pour le calcul de $n_0$ ; 0,25 pt pour l'exploitation correcte de $V_{BE}(t_f)$.
+
+Question 4 : Temps de demi-réaction $t_{1/2}$ [0,75 pt]
+
+Le temps de demi-réaction est la durée nécessaire pour que la quantité d'ester formée atteigne la moitié de sa valeur finale :
+
+$$n_E(t_{1/2}) = \frac{n_E(t_f)}{2}.$$
+
+Comme :
+
+$$n_E(t) = n_0 - 10\ C_B V_{BE}(t),$$
+
+la condition de demi-réaction donne :
+
+$$n_0 - 10\ C_B V_{BE}(t_{1/2}) = \frac{n_0 - 10\ C_B V_{BE}(t_f)}{2}.$$
+
+À t = 0, on a $n_E(t_0) = 0$, donc :
+
+$$n_0 = 10\ C_B V_{BE}(t_0).$$
+
+En remplaçant, on obtient :
+
+$$V_{BE}(t_{1/2}) = \frac{V_{BE}(t_0) + V_{BE}(t_f)}{2}.$$
+
+Par lecture graphique :
+
+$$V_{BE}(t_0) \simeq 25\ mL,\quad V_{BE}(t_f) \simeq 10\ mL.$$
+
+Donc :
+
+$$V_{BE}(t_{1/2}) = \frac{25 + 10}{2} = 17,5\ mL.$$
+
+La lecture graphique de l'abscisse correspondant à $V_{BE} = 17,5\ mL$ donne :
+
+$$t_{1/2} \simeq 7\ h.$$
+
+$$V_{BE}(t_{1/2}) = 17,5\ mL \qquad t_{1/2} \simeq 7\ h$$
+
+Barème conseillé : 0,25 pt pour la définition de $t_{1/2}$ ; 0,25 pt pour la démonstration de la relation ; 0,25 pt pour la lecture graphique.
+
+Question 5 : Classe de l'alcool A utilisé [0,5 pt]
+
+La réaction d'estérification s'écrit :
+
+$$CH_3COOH + A \rightleftharpoons Ester + H_2O.$$
+
+Le mélange est équimolaire, donc :
+
+$$n_0(CH_3COOH) = n_0(A) = 0,250\ mol.$$
+
+À l'état final :
+
+$$x_f = n_E(t_f) = 0,150\ mol.$$
+
+Les quantités restantes d'acide et d'alcool sont :
+
+$$n_f(CH_3COOH) = n_f(A) = n_0 - x_f = 0,250 - 0,150 = 0,100\ mol.$$
+
+La constante d'équilibre vaut :
+
+$$K = \frac{[Ester]_{eq}[H_2O]_{eq}}{[CH_3COOH]_{eq}[A]_{eq}}.$$
+
+Comme toutes les espèces sont dans le même milieu réactionnel, les volumes se simplifient :
+
+$$K = \frac{x_f^2}{(n_0 - x_f)^2}.\qquad K = \frac{(0,150)^2}{(0,100)^2} = 2,25.$$
+
+Le sujet donne :
+
+$$K = 4 \text{ pour un alcool primaire},\quad K = 2,25 \text{ pour un alcool secondaire}.$$
+
+Donc l'alcool utilisé est secondaire. Parmi les deux isomères proposés de formule brute $C_3H_8O$, l'alcool secondaire est le propan-2-ol.
+
+$$K = 2,25 \qquad A \text{ est un alcool secondaire : le propan-2-ol}$$
+
+Barème conseillé : 0,25 pt pour le calcul de K ; 0,25 pt pour l'identification de la classe de l'alcool.
+
+Question 6 : Équation de l'estérification en formules semi-développées [0,5 pt]
+
+L'acide utilisé est l'acide éthanoïque : $CH_3 - COOH$.
+
+L'alcool utilisé est le propan-2-ol : $CH_3 - CH(OH) - CH_3$.
+
+L'ester formé est l'éthanoate d'isopropyle : $CH_3 - COO - CH(CH_3)_2$.
+
+$$CH_3COOH + CH_3 - CH(OH) - CH_3 \rightleftharpoons CH_3COO - CH(CH_3)_2 + H_2O$$
+
+Question 7 : Procédé permettant d'améliorer le rendement [0,25 pt]
+
+Une estérification est une réaction limitée. Pour améliorer le rendement, il faut déplacer l'équilibre dans le sens direct. L'élimination d'un produit, ici l'eau, favorise la formation de l'ester.
+
+Réponse b : on élimine l'eau au fur et à mesure de sa formation.
+
+## 1.2 Partie 2 : Étude d'une solution aqueuse d'un indicateur coloré
+
+Question 1 : Réaction entre HIn et l'eau [0,25 pt]
+
+Le bleu de bromothymol est modélisé par un acide de Brønsted $HIn$. Il cède un proton à l'eau :
+
+$$HIn_{(aq)} + H_2O_{(l)} \rightleftharpoons In^-_{(aq)} + H_3O^+_{(aq)}$$
+
+Question 2-1 : Montrer que $\tau = 1 - p(HIn)$ et déterminer sa valeur [0,75 pt]
+
+Pour la réaction : $HIn + H_2O \rightleftharpoons In^- + H_3O^+$, le taux d'avancement final est :
+
+$$\tau = \frac{x_f}{x_{max}}.$$
+
+Si C désigne la concentration analytique de l'indicateur, alors :
+
+$$C = [HIn]_{eq} + [In^-]_{eq}.$$
+
+La forme basique $In^-$ est formée avec l'avancement final :
+
+$$[In^-]_{eq} = \frac{x_f}{V}.$$
+
+Donc :
+
+$$\tau = \frac{[In^-]_{eq}}{[HIn]_{eq} + [In^-]_{eq}}.$$
+
+Or la proportion de la forme acide est :
+
+$$p(HIn) = \frac{[HIn]_{eq}}{[HIn]_{eq} + [In^-]_{eq}}.$$
+
+Comme la somme des proportions vaut 1 :
+
+$$\frac{[HIn]_{eq}}{[HIn]_{eq} + [In^-]_{eq}} + \frac{[In^-]_{eq}}{[HIn]_{eq} + [In^-]_{eq}} = 1.$$
+
+Donc :
+
+$$\tau = 1 - p(HIn).$$
+
+Pour la solution S, on donne : $pH = 6$.
+
+Par lecture graphique de la figure 2 : $p(HIn) \simeq 0,90$.
+
+Donc :
+
+$$\tau = 1 - 0,90 = 0,10.$$
+
+$$\tau = 1 - p(HIn) \qquad \tau \simeq 0,10 = 10\%$$
+
+Question 2-2 : Détermination graphique de $pK_A$ [0,5 pt]
+
+Pour un couple acide-base :
+
+$$pH = pK_A \iff [HIn]_{eq} = [In^-]_{eq}.$$
+
+Dans ce cas :
+
+$$p(HIn) = \frac{[HIn]_{eq}}{[HIn]_{eq} + [In^-]_{eq}} = \frac{1}{2} = 0,5.$$
+
+Par lecture graphique, lorsque $p(HIn) = 0,5$, on trouve environ : $pH \simeq 6,8$.
+
+$$pK_A(HIn/In^-) \simeq 6,8$$
+
+Question 2-3 : Proportion maximale de la forme acide pour la teinte basique [0,5 pt]
+
+La solution prend la teinte basique, bleue, lorsque : $pH \ge 7,6$.
+
+À partir de la courbe de distribution, pour $pH = 7,6$, on lit environ : $p(HIn) \simeq 0,20$.
+
+La proportion maximale de forme acide compatible avec la teinte basique est donc :
+
+$$p_{max}(HIn) \simeq 0,20 = 20\%$$
+
+Question 3-1 : Taux d'avancement final de la réaction de l'ammoniac avec l'eau [0,5 pt]
+
+La réaction de l'ammoniac avec l'eau est :
+
+$$NH_3 + H_2O \rightleftharpoons NH_4^+ + HO^-.$$
+
+On néglige l'influence des ions $H_3O^+$ et $In^-$ sur la conductivité. Donc :
+
+$$\sigma = \lambda(NH_4^+)[NH_4^+] + \lambda(HO^-)[HO^-].$$
+
+D'après la stœchiométrie : $[NH_4^+] = [HO^-]$.
+
+Alors :
+
+$$\sigma = \left(\lambda(NH_4^+) + \lambda(HO^-)\right)[HO^-].$$
+
+Donc :
+
+$$[HO^-] = \frac{\sigma}{\lambda(NH_4^+) + \lambda(HO^-)}.$$
+
+Application numérique :
+
+$$[HO^-] = \frac{11,36}{7,35 + 19,83} = 0,418\ mol.m^{-3}.$$
+
+Conversion : $0,418\ mol.m^{-3} = 4,18 \times 10^{-4}\ mol.L^{-1}$.
+
+Le taux d'avancement final est :
+
+$$\tau' = \frac{[HO^-]}{C_B}.\qquad \tau' = \frac{4,18 \times 10^{-4}}{10^{-2}} = 4,18 \times 10^{-2}.$$
+
+$$\tau' = 4,18 \times 10^{-2} \simeq 4,2\%$$
+
+Question 3-2 : Expression de $K_A$ et vérification de $pK_A \simeq 9,25$ [0,75 pt]
+
+Pour la réaction basique : $NH_3 + H_2O \rightleftharpoons NH_4^+ + HO^-$, la constante basique est :
+
+$$K_B = \frac{[NH_4^+][HO^-]}{[NH_3]}.$$
+
+À l'équilibre :
+
+$$[NH_4^+] = [HO^-] = C_B\tau',\qquad [NH_3] = C_B(1 - \tau').$$
+
+Donc :
+
+$$K_B = \frac{(C_B\tau')^2}{C_B(1 - \tau')} = \frac{C_B\tau'^2}{1 - \tau'}.$$
+
+Pour deux couples conjugués : $K_A K_B = K_e$.
+
+Donc :
+
+$$K_A = \frac{K_e}{K_B} = \frac{K_e(1 - \tau')}{C_B\tau'^2}.$$
+
+Application numérique :
+
+$$K_A = \frac{10^{-14}(1 - 4,18 \times 10^{-2})}{10^{-2}(4,18 \times 10^{-2})^2}.\qquad K_A \simeq 5,5 \times 10^{-10}.\qquad pK_A = -\log K_A \simeq 9,25.$$
+
+$$K_A = \frac{K_e(1 - \tau')}{C_B\tau'^2} \qquad pK_A \simeq 9,25$$
+
+Question 3-3 : Teinte de la solution obtenue [0,5 pt]
+
+On a :
+
+$$[HO^-] = 4,18 \times 10^{-4}\ mol.L^{-1}.$$
+
+$$pOH = -\log[HO^-] = -\log(4,18 \times 10^{-4}) \simeq 3,38.$$
+
+$$pH = 14 - pOH = 14 - 3,38 = 10,62.$$
+
+Comme : $pH > 7,6$, la solution est bleue.
+
+$$pH \simeq 10,62 \qquad \text{teinte bleue}$$
+
+Tableau récapitulatif de l'exercice 1
+
+| Question | Résultat final | Barème |
+|---|---|---|
+| Partie 1 Q1 | $CH_3COOH + HO^- \rightarrow CH_3COO^- + H_2O$ | 0,25 |
+| Partie 1 Q2 | $n_E(t) = \frac{d_1\rho_eV_1}{M} - 10C_BV_{BE}(t)$ | 0,50 |
+| Partie 1 Q3 | $n_E(t_f) = 0,150\ mol$ | 0,50 |
+| Partie 1 Q4 | $V_{BE}(t_{1/2}) = 17,5\ mL$, $t_{1/2} \simeq 7\ h$ | 0,75 |
+| Partie 1 Q5 | $K = 2,25$ ; alcool secondaire ; propan-2-ol | 0,50 |
+| Partie 1 Q6 | $CH_3COOH + CH_3CH(OH)CH_3 \rightleftharpoons CH_3COOCH(CH_3)_2 + H_2O$ | 0,50 |
+| Partie 1 Q7 | Réponse b : éliminer l'eau | 0,25 |
+| Partie 2 Q1 | $HIn + H_2O \rightleftharpoons In^- + H_3O^+$ | 0,25 |
+| Partie 2 Q2-1 | $\tau = 1 - p(HIn)$ ; $\tau \simeq 0,10$ | 0,75 |
+| Partie 2 Q2-2 | $pK_A \simeq 6,8$ | 0,50 |
+| Partie 2 Q2-3 | $p_{max}(HIn) \simeq 0,20$ | 0,50 |
+| Partie 2 Q3-1 | $\tau' \simeq 4,2\%$ | 0,50 |
+| Partie 2 Q3-2 | $pK_A \simeq 9,25$ | 0,75 |
+| Partie 2 Q3-3 | $pH \simeq 10,62$ ; teinte bleue | 0,50 |
+
+# 2 Exercice 2 : Transformations nucléaires — 2,75 points
+
+Question 1 : Énergie de liaison de $^{238}_{92}U$ et stabilité [0,5 pt]
+
+Pour le noyau $^{238}_{92}U$ :
+
+$$Z = 92,\quad A = 238,\quad N = A - Z = 146.$$
+
+La masse des nucléons séparés est :
+
+$$m_{nucléons} = Zm_p + Nm_n.$$
+
+$$m_{nucléons} = 92 \times 1,0073 + 146 \times 1,0087 = 239,9418\ u.$$
+
+Le défaut de masse est :
+
+$$\Delta m = m_{nucléons} - m(^{238}U) = 239,9418 - 238,0508 = 1,8910\ u.$$
+
+L'énergie de liaison est :
+
+$$E_{\ell 1} = \Delta m c^2 = \Delta m \times 931,5.$$
+
+$$E_{\ell 1} = 1,8910 \times 931,5 \simeq 1761,5\ MeV.$$
+
+Pour comparer la stabilité de deux noyaux, on compare l'énergie de liaison par nucléon :
+
+$$\frac{E_{\ell 1}}{238} = \frac{1761,5}{238} \simeq 7,40\ MeV/nucléon.$$
+
+Pour le plomb 206 :
+
+$$\frac{E_{\ell 2}}{206} = \frac{1600,4}{206} \simeq 7,77\ MeV/nucléon.$$
+
+Comme $7,77 > 7,40$, le plomb 206 est plus stable que l'uranium 238.
+
+$$E_\ell(^{238}U) \simeq 1761,5\ MeV \qquad ^{206}_{82}Pb \text{ est plus stable}$$
+
+Question 2 : Détermination de x et y [0,5 pt]
+
+L'équation donnée est :
+
+$$^{235}_{92}U \longrightarrow\ ^{207}_{82}Pb + x\ ^4_2He + y\ ^0_{-1}e.$$
+
+Conservation du nombre de masse : $235 = 207 + 4x \implies x = 7$.
+
+Conservation de la charge électrique : $92 = 82 + 2x - y$.
+
+En remplaçant $x = 7$ : $92 = 82 + 14 - y = 96 - y \implies y = 4$.
+
+$$x = 7 \qquad y = 4$$
+
+Question 3 : Identification de la courbe correspondant à $^{238}U$ [0,5 pt]
+
+L'uranium 238 a une constante radioactive plus faible que l'uranium 235. Il se désintègre donc plus lentement. Sa courbe doit décroître moins rapidement. La courbe décroissante lente est la courbe (a).
+
+La courbe (a) correspond à $N(^{238}_{92}U)$.
+
+Question 4 : Constante radioactive de l'uranium 235 [0,5 pt]
+
+D'après la courbe (b), on lit approximativement la demi-vie de l'uranium 235 :
+
+$$T_{1/2}(^{235}U) \simeq 0,7 \times 10^9\ ans.$$
+
+Or :
+
+$$\lambda_2 = \frac{\ln 2}{T_{1/2}}.$$
+
+Donc :
+
+$$\lambda_2 = \frac{0,693}{0,7 \times 10^9} \simeq 9,9 \times 10^{-10}\ ans^{-1}.$$
+
+$$\lambda_2 \simeq 9,9 \times 10^{-10}\ ans^{-1}$$
+
+Question 5 : Expression du rapport $\frac{N(^{238}U)}{N(^{235}U)}$ [0,25 pt]
+
+Pour chaque isotope :
+
+$$N_1(t) = N_0e^{-\lambda_1 t},\qquad N_2(t) = N_0e^{-\lambda_2 t}.$$
+
+L'hypothèse du chercheur donne le même nombre initial $N_0$ pour les deux isotopes. Ainsi :
+
+$$\frac{N(^{238}U)}{N(^{235}U)} = \frac{N_0e^{-\lambda_1 t}}{N_0e^{-\lambda_2 t}}.$$
+
+$$\frac{N(^{238}U)}{N(^{235}U)} = e^{(\lambda_2 - \lambda_1)t}$$
+
+Question 6 : Âge de la Terre selon l'hypothèse du chercheur [0,5 pt]
+
+Les proportions massiques actuelles sont :
+
+$$m_1 = 99,29\%\ \text{pour}\ ^{238}U,\qquad m_2 = 0,71\%\ \text{pour}\ ^{235}U.$$
+
+Le rapport des nombres de noyaux actuels est :
+
+$$\frac{N(^{238}U)}{N(^{235}U)} = \frac{m_1/M_1}{m_2/M_2}.$$
+
+$$\frac{N(^{238}U)}{N(^{235}U)} = \frac{99,29/238}{0,71/235} \simeq 138.$$
+
+Donc :
+
+$$138 = e^{(\lambda_2 - \lambda_1)t_T}.\qquad t_T = \frac{\ln(138)}{\lambda_2 - \lambda_1}.$$
+
+$$t_T = \frac{4,927}{9,9 \times 10^{-10} - 1,55 \times 10^{-10}}.\qquad t_T \simeq 5,9 \times 10^9\ ans.$$
+
+L'âge donné de la Terre est : $4,5 \times 10^9\ ans$.
+
+Donc l'âge estimé par l'hypothèse du chercheur est différent de l'âge admis. L'hypothèse n'est pas satisfaisante.
+
+$$t_T \simeq 5,9 \times 10^9\ ans \qquad \text{hypothèse non vérifiée}$$
+
+Tableau récapitulatif de l'exercice 2
+
+| Question | Résultat final | Barème |
+|---|---|---|
+| Q1 | $E_\ell(^{238}U) \simeq 1761,5\ MeV$ ; $^{206}Pb$ plus stable | 0,50 |
+| Q2 | $x = 7$, $y = 4$ | 0,50 |
+| Q3 | Courbe (a) : uranium 238 | 0,50 |
+| Q4 | $\lambda_2 \simeq 9,9 \times 10^{-10}\ ans^{-1}$ | 0,50 |
+| Q5 | $\frac{N_{238}}{N_{235}} = e^{(\lambda_2-\lambda_1)t}$ | 0,25 |
+| Q6 | $t_T \simeq 5,9 \times 10^9\ ans$ ; hypothèse non vérifiée | 0,50 |
+
+# 3 Exercice 3 : Électricité — 5 points
+
+## 3.1 Partie 1 : Étude énergétique de la charge d'un condensateur
+
+Question 1-1 : Montrer que $C = 0,5\ F$ [0,5 pt]
+
+Le générateur débite un courant constant : $I = 200\ mA = 0,200\ A$.
+
+Pour un condensateur initialement déchargé chargé par un courant constant : $q(t) = It$.
+
+Or : $q(t) = Cu_C(t)$. Donc :
+
+$$u_C(t) = \frac{It}{C}.$$
+
+L'énergie électrique stockée dans le condensateur est :
+
+$$E_e(t) = \frac{1}{2}Cu_C^2(t).$$
+
+En remplaçant $u_C(t)$ :
+
+$$E_e(t) = \frac{1}{2}C\left(\frac{It}{C}\right)^2 = \frac{I^2}{2C}t^2.$$
+
+La courbe $E_e = f(t^2)$ est une droite de coefficient directeur :
+
+$$a = \frac{I^2}{2C}.$$
+
+D'après la figure 2, la pente vaut approximativement : $a \simeq 4,0 \times 10^{-2}\ J.s^{-2}$.
+
+Donc :
+
+$$C = \frac{I^2}{2a} = \frac{(0,200)^2}{2 \times 4,0 \times 10^{-2}} = 0,5\ F.$$
+
+$$C = 0,5\ F$$
+
+Question 1-2 : Durée pour atteindre $U_0 = 20\ V$ [0,5 pt]
+
+On a :
+
+$$u_C(t) = \frac{It}{C}.$$
+
+La durée nécessaire pour atteindre $U_0$ est :
+
+$$\Delta t = \frac{CU_0}{I}.$$
+
+Application numérique :
+
+$$\Delta t = \frac{0,5 \times 20}{0,200} = 50\ s.$$
+
+$$\Delta t = 50\ s$$
+
+## 3.2 Partie 2 : Décharge du condensateur
+
+Question 2-1 : Équation différentielle de $u_C(t)$ [0,25 pt]
+
+Pendant la décharge dans un conducteur ohmique de résistance R, la loi des mailles donne :
+
+$$u_R + u_C = 0.$$
+
+Avec :
+
+$$u_R = Ri,\qquad i = C\frac{du_C}{dt}.$$
+
+Alors :
+
+$$RC\frac{du_C}{dt} + u_C = 0.$$
+
+$$\frac{du_C}{dt} + \frac{1}{RC}u_C = 0$$
+
+Question 2-2 : Équation différentielle de $E_e(t)$ [0,25 pt]
+
+On sait que :
+
+$$E_e(t) = \frac{1}{2}Cu_C^2(t).$$
+
+Donc :
+
+$$\frac{dE_e}{dt} = Cu_C\frac{du_C}{dt}.$$
+
+D'après l'équation différentielle précédente :
+
+$$\frac{du_C}{dt} = -\frac{1}{RC}u_C.$$
+
+Alors :
+
+$$\frac{dE_e}{dt} = -\frac{1}{RC}Cu_C^2.$$
+
+Or : $Cu_C^2 = 2E_e$. Donc :
+
+$$\frac{dE_e}{dt} = -\frac{2}{RC}E_e.$$
+
+Avec $\tau = RC$ :
+
+$$\frac{dE_e}{dt} + \frac{2}{\tau}E_e = 0$$
+
+Question 2-3 : Expressions de A et de $\alpha$ [0,5 pt]
+
+La solution proposée est : $E_e(t) = Ae^{-\alpha t}$.
+
+À $t = 0$, le condensateur est chargé sous la tension $U_0$, donc :
+
+$$E_e(0) = \frac{1}{2}CU_0^2.$$
+
+Ainsi :
+
+$$A = \frac{1}{2}CU_0^2.$$
+
+D'après l'équation différentielle :
+
+$$\frac{dE_e}{dt} + \frac{2}{\tau}E_e = 0,$$
+
+la constante de décroissance vaut : $\alpha = \frac{2}{\tau}$.
+
+$$A = \frac{1}{2}CU_0^2 \qquad \alpha = \frac{2}{\tau}$$
+
+Question 2-4 : Calcul de $E_e(\tau)$ et de R [0,5 pt]
+
+On a :
+
+$$E_e(t) = E_e(0)e^{-\frac{2t}{\tau}}.$$
+
+À $t = \tau$ : $E_e(\tau) = E_e(0)e^{-2}$.
+
+Or :
+
+$$E_e(0) = \frac{1}{2}CU_0^2 = \frac{1}{2} \times 0,5 \times 20^2 = 100\ J.$$
+
+Donc :
+
+$$E_e(\tau) = 100e^{-2} \simeq 13,5\ J.$$
+
+Par lecture graphique de la figure 3, pour $E_e = 13,5\ J$, on obtient : $\tau \simeq 4\ s$.
+
+Comme $\tau = RC$ :
+
+$$R = \frac{\tau}{C} = \frac{4}{0,5} = 8\ \Omega.$$
+
+$$E_e(\tau) \simeq 13,5\ J \qquad R \simeq 8\ \Omega$$
+
+Question 2-5 : Durée de fonctionnement normal du dipôle D [0,5 pt]
+
+Le dipôle D fonctionne normalement lorsque : $u_D = u_C \ge U_f = 8,95\ V$.
+
+L'énergie minimale correspondant à $U_f$ est :
+
+$$E_f = \frac{1}{2}CU_f^2.\qquad E_f = \frac{1}{2} \times 0,5 \times (8,95)^2 \simeq 20\ J.$$
+
+La loi de décroissance est :
+
+$$E_e(t) = 100e^{-\frac{2t}{\tau}},\qquad \tau = 4\ s.$$
+
+On cherche t tel que $E_e(t) = 20\ J$ :
+
+$$20 = 100e^{-\frac{2t}{4}}.$$
+
+$$0,20 = e^{-\frac{t}{2}}.\qquad t = -2\ln(0,20) \simeq 3,2\ s.$$
+
+$$\Delta t \simeq 3,2\ s$$
+
+## 3.3 Partie 3 : Modulation d'amplitude et réception
+
+Question 1 : Expression de l'amplitude du signal modulé [0,5 pt]
+
+On a :
+
+$$u_s(t) = Ku_1(t)u_2(t),$$
+
+avec :
+
+$$u_1(t) = 6\cos(2\pi \times 10^4 t),\qquad u_2(t) = s(t) + U_0.$$
+
+Donc :
+
+$$u_s(t) = 6K[s(t) + U_0]\cos(2\pi \times 10^4 t).$$
+
+L'amplitude du signal modulé est :
+
+$$u_{sm}(t) = 6K[s(t) + U_0].\qquad u_{sm}(t) = 6Ks(t) + 6KU_0.$$
+
+En comparant avec : $u_{sm}(t) = \alpha s(t) + \beta$, on obtient :
+
+$$\alpha = 6K \qquad \beta = 6KU_0$$
+
+Question 2-1 : Valeurs de K et de $U_0$ [0,5 pt]
+
+D'après la droite de la figure 5, on lit approximativement :
+
+$$\alpha \simeq \frac{2}{3},\qquad \beta \simeq 3\ V.$$
+
+Comme $\alpha = 6K$ :
+
+$$K = \frac{\alpha}{6} = \frac{2/3}{6} \simeq 0,11\ V^{-1}.$$
+
+De plus : $\beta = \alpha U_0$. Donc :
+
+$$U_0 = \frac{\beta}{\alpha} = \frac{3}{2/3} = 4,5\ V.$$
+
+$$K \simeq 0,11\ V^{-1} \qquad U_0 \simeq 4,5\ V$$
+
+Question 2-2 : Taux de modulation [0,5 pt]
+
+Le taux de modulation est :
+
+$$m = \frac{S_m}{U_0}.$$
+
+D'après la figure 5, le signal modulant prend environ les valeurs extrêmes :
+
+$$-S_m \simeq -3\ V,\qquad S_m \simeq 3\ V.$$
+
+Donc :
+
+$$m = \frac{3}{4,5} \simeq 0,67.$$
+
+Comme $m < 1$, la modulation est correcte et il n'y a pas de surmodulation.
+
+$$m \simeq 0,67 < 1 \qquad \text{modulation de bonne qualité}$$
+
+Question 3 : Détermination de $C_1$ [0,5 pt]
+
+Le circuit sélectif doit être accordé à la fréquence de la porteuse : $f_0 = 10^4\ Hz$.
+
+La fréquence propre d'un circuit LC est :
+
+$$f_0 = \frac{1}{2\pi\sqrt{L_0C_{eq}}}.$$
+
+Donc :
+
+$$C_{eq} = \frac{1}{4\pi^2L_0f_0^2}.$$
+
+Données :
+
+$$L_0 = 60\ mH = 60 \times 10^{-3}\ H,\qquad f_0 = 10^4\ Hz,$$
+
+et on prend : $\pi^2 \simeq 10$.
+
+$$C_{eq} = \frac{1}{4 \times 10 \times 60 \times 10^{-3} \times (10^4)^2}.\qquad C_{eq} \simeq 4,17 \times 10^{-9}\ F = 4,17\ nF.$$
+
+Les condensateurs $C_0$ et $C_1$ sont montés en série, donc :
+
+$$\frac{1}{C_{eq}} = \frac{1}{C_0} + \frac{1}{C_1}.$$
+
+D'où :
+
+$$C_1 = \frac{C_0C_{eq}}{C_0 - C_{eq}}.$$
+
+Avec $C_0 = 10\ nF$ :
+
+$$C_1 = \frac{10 \times 4,17}{10 - 4,17} \simeq 7,1\ nF.$$
+
+$$C_1 \simeq 7,1\ nF$$
+
+Tableau récapitulatif de l'exercice 3
+
+| Question | Résultat final | Barème |
+|---|---|---|
+| 1-1 | $C = 0,5\ F$ | 0,50 |
+| 1-2 | $\Delta t = 50\ s$ | 0,50 |
+| 2-1 | $\frac{du_C}{dt} + \frac{1}{RC}u_C = 0$ | 0,25 |
+| 2-2 | $\frac{dE_e}{dt} + \frac{2}{\tau}E_e = 0$ | 0,25 |
+| 2-3 | $A = \frac{1}{2}CU_0^2$, $\alpha = \frac{2}{\tau}$ | 0,50 |
+| 2-4 | $E_e(\tau) \simeq 13,5\ J$, $R \simeq 8\ \Omega$ | 0,50 |
+| 2-5 | $\Delta t \simeq 3,2\ s$ | 0,50 |
+| Modulation Q1 | $\alpha = 6K$, $\beta = 6KU_0$ | 0,50 |
+| Modulation Q2-1 | $K \simeq 0,11\ V^{-1}$, $U_0 \simeq 4,5\ V$ | 0,50 |
+| Modulation Q2-2 | $m \simeq 0,67 < 1$ ; modulation correcte | 0,50 |
+| Réception Q3 | $C_1 \simeq 7,1\ nF$ | 0,50 |
+
+# 4 Exercice 4 : Mécanique — 5,25 points
+
+Question 1 : Allongement du ressort à l'équilibre [0,5 pt]
+
+À l'équilibre, le solide S est immobile. Les forces appliquées au solide sont :
+– son poids $\vec{P}$ d'intensité $P = mg$ ;
+– la tension du fil $\vec{T}$.
+
+À l'équilibre : $T = mg$.
+
+Le ressort est allongé de $\Delta\ell_0$, donc la force exercée par le ressort est : $T = K\Delta\ell_0$.
+
+Ainsi : $K\Delta\ell_0 = mg$.
+
+$$\Delta\ell_0 = \frac{mg}{K}$$
+
+Question 2-1 : Équation différentielle du mouvement [0,75 pt]
+
+On étudie le mouvement autour de la position d'équilibre. La coordonnée du centre d'inertie G est z.
+
+Pour le solide S, la deuxième loi de Newton suivant l'axe vertical donne :
+
+$$mg - T = m\ddot{z}.$$
+
+Pour la poulie, le théorème du moment cinétique autour de son axe donne :
+
+$$(T - T_s)R = J_\Delta\ddot{\theta},$$
+
+avec $T_s$ la force exercée par le ressort sur le fil. Comme le fil ne glisse pas sur la poulie :
+
+$$z = R\theta \implies \ddot{z} = R\ddot{\theta}.$$
+
+Donc : $\ddot{\theta} = \frac{\ddot{z}}{R}$.
+
+La tension du ressort vaut : $T_s = K(\Delta\ell_0 + z)$.
+
+On remplace dans l'équation de la poulie :
+
+$$[T - K(\Delta\ell_0 + z)]R = J_\Delta\frac{\ddot{z}}{R}.$$
+
+Donc :
+
+$$T = K(\Delta\ell_0 + z) + \frac{J_\Delta}{R^2}\ddot{z}.$$
+
+On remplace T dans l'équation du solide :
+
+$$mg - \left[K(\Delta\ell_0 + z) + \frac{J_\Delta}{R^2}\ddot{z}\right] = m\ddot{z}.$$
+
+Or, à l'équilibre : $mg = K\Delta\ell_0$. Donc :
+
+$$-Kz - \frac{J_\Delta}{R^2}\ddot{z} = m\ddot{z}.$$
+
+$$\left(m + \frac{J_\Delta}{R^2}\right)\ddot{z} + Kz = 0.$$
+
+En multipliant par $R^2$ :
+
+$$(J_\Delta + mR^2)\ddot{z} + KR^2z = 0.$$
+
+$$\ddot{z} + \frac{KR^2}{J_\Delta + mR^2}z = 0$$
+
+Question 2-2-1 : Détermination de A et $\varphi$ [0,5 pt]
+
+La solution s'écrit :
+
+$$z(t) = A\cos\left(\frac{2\pi}{T_0}t + \varphi\right).$$
+
+À $t = 0$, on écarte le solide vers le bas d'une distance : $d = 2\ cm$.
+
+On le lâche sans vitesse initiale. Donc :
+
+$$z(0) = d = 2\ cm,\qquad \dot{z}(0) = 0.$$
+
+Cela correspond à une position extrême positive. Alors :
+
+$$A = d = 2\ cm,\qquad \varphi = 0.$$
+
+$$A = 2\ cm \qquad \varphi = 0$$
+
+Question 2-2-2 : Expression de la période propre $T_0$ [0,5 pt]
+
+L'équation différentielle est de la forme : $\ddot{z} + \omega_0^2 z = 0$.
+
+Par identification :
+
+$$\omega_0^2 = \frac{KR^2}{J_\Delta + mR^2}.$$
+
+Donc :
+
+$$\omega_0 = \sqrt{\frac{KR^2}{J_\Delta + mR^2}}.$$
+
+Or : $T_0 = \frac{2\pi}{\omega_0}$.
+
+$$T_0 = 2\pi\sqrt{\frac{J_\Delta + mR^2}{KR^2}}$$
+
+Question 3 : Tension maximale du fil [0,5 pt]
+
+La relation de Newton appliquée au solide est : $mg - T = m\ddot{z}$.
+
+Donc : $T = m(g - \ddot{z})$.
+
+La solution est :
+
+$$z(t) = d\cos\left(\frac{2\pi}{T_0}t\right).$$
+
+Alors :
+
+$$\ddot{z} = -\left(\frac{2\pi}{T_0}\right)^2 z.$$
+
+Donc :
+
+$$T = m\left(g + \left(\frac{2\pi}{T_0}\right)^2 z\right).$$
+
+La tension est maximale lorsque $z = d$ :
+
+$$T_{max} = m\left(g + \left(\frac{2\pi}{T_0}\right)^2 d\right).\qquad T_{max} = m\left(g + \frac{4\pi^2 d}{T_0^2}\right).$$
+
+D'après la figure 2 : $T_0 \simeq 0,40\ s$.
+
+Données :
+
+$$m = 100\ g = 0,100\ kg,\quad g = 10\ m.s^{-2},\quad d = 2\ cm = 2,0 \times 10^{-2}\ m.$$
+
+En prenant $\pi^2 \simeq 10$ :
+
+$$T_{max} = 0,100\left(10 + \frac{4 \times 10 \times 2,0 \times 10^{-2}}{(0,40)^2}\right).$$
+
+$$T_{max} = 0,100(10 + 5) = 1,5\ N.$$
+
+$$T_{max} = m\left(g + \frac{4\pi^2 d}{T_0^2}\right) \qquad T_{max} \simeq 1,5\ N$$
+
+Question 4-1 : Expression de l'énergie potentielle du système [0,75 pt]
+
+L'énergie potentielle élastique du ressort est :
+
+$$E_{pe} = \frac{1}{2}K(\Delta\ell_0 + z)^2.$$
+
+Le plan horizontal passant par O est choisi comme référence de l'énergie potentielle de pesanteur. Comme l'axe z est orienté vers le bas, l'énergie potentielle de pesanteur du solide est :
+
+$$E_{pp} = -mgz.$$
+
+L'énergie potentielle de la poulie est constante : $E_{p0} = cte$.
+
+Donc :
+
+$$E_p = \frac{1}{2}K(\Delta\ell_0 + z)^2 - mgz + E_{p0}.$$
+
+Développons :
+
+$$E_p = \frac{1}{2}K(\Delta\ell_0^2 + 2\Delta\ell_0 z + z^2) - mgz + E_{p0}.$$
+
+$$E_p = \frac{1}{2}K\Delta\ell_0^2 + K\Delta\ell_0 z + \frac{1}{2}Kz^2 - mgz + E_{p0}.$$
+
+À l'équilibre : $K\Delta\ell_0 = mg$. Donc : $K\Delta\ell_0 z - mgz = 0$.
+
+Il reste :
+
+$$E_p = \frac{1}{2}K\Delta\ell_0^2 + \frac{1}{2}Kz^2 + E_{p0}.$$
+
+$$E_p = \frac{1}{2}K(z^2 + \Delta\ell_0^2) + E_{p0}$$
+
+Question 4-2 : Détermination de K et vérification de $J_\Delta$ [0,5 pt]
+
+D'après la figure 3 :
+
+$$E_p(0) \simeq 108\ mJ,\qquad E_p(2\ cm) \simeq 116\ mJ.$$
+
+Donc :
+
+$$\Delta E_p = 116 - 108 = 8\ mJ = 8 \times 10^{-3}\ J.$$
+
+Or : $\Delta E_p = \frac{1}{2}Kz^2$.
+
+Avec $z = 2\ cm = 2 \times 10^{-2}\ m$ :
+
+$$K = \frac{2\Delta E_p}{z^2} = \frac{2 \times 8 \times 10^{-3}}{(2 \times 10^{-2})^2} = 40\ N.m^{-1}.$$
+
+Pour vérifier $J_\Delta$, on utilise :
+
+$$T_0 = 2\pi\sqrt{\frac{J_\Delta + mR^2}{KR^2}}.$$
+
+Donc :
+
+$$J_\Delta = \frac{KR^2T_0^2}{4\pi^2} - mR^2.$$
+
+Données :
+
+$$K = 40\ N.m^{-1},\quad R = 2 \times 10^{-2}\ m,\quad T_0 \simeq 0,40\ s,\quad m = 0,100\ kg,\quad \pi^2 \simeq 10.$$
+
+$$J_\Delta = \frac{40(2 \times 10^{-2})^2(0,40)^2}{4 \times 10} - 0,100(2 \times 10^{-2})^2.$$
+
+$$J_\Delta \simeq 2,4 \times 10^{-5}\ kg.m^2.$$
+
+$$K \simeq 40\ N.m^{-1} \qquad J_\Delta \simeq 2,5 \times 10^{-5}\ kg.m^2$$
+
+Question 4-3 : Vitesse de G à l'instant $t_1 = 0,3\ s$ [0,75 pt]
+
+D'après la figure 2 : $T_0 \simeq 0,40\ s$.
+
+À l'instant :
+
+$$t_1 = 0,3\ s = \frac{3T_0}{4},$$
+
+le solide passe par la position d'équilibre : $z = 0$.
+
+À $t = 0$, le solide est à l'extrémité $z = d$ et sa vitesse est nulle. L'énergie mécanique se conserve.
+
+La variation d'énergie potentielle entre $z = d$ et $z = 0$ est :
+
+$$\Delta E_p = E_p(d) - E_p(0) = 8\ mJ = 8 \times 10^{-3}\ J.$$
+
+Cette énergie devient énergie cinétique du solide et de la poulie :
+
+$$E_c = \frac{1}{2}mv^2 + \frac{1}{2}J_\Delta\dot{\theta}^2.$$
+
+Comme le fil ne glisse pas :
+
+$$v = R\dot{\theta} \implies \dot{\theta} = \frac{v}{R}.$$
+
+Donc :
+
+$$E_c = \frac{1}{2}\left(m + \frac{J_\Delta}{R^2}\right)v^2.$$
+
+Ainsi :
+
+$$v = \sqrt{\frac{2E_c}{m + \frac{J_\Delta}{R^2}}}.$$
+
+Application numérique :
+
+$$m + \frac{J_\Delta}{R^2} = 0,100 + \frac{2,5 \times 10^{-5}}{(2 \times 10^{-2})^2} = 0,1625\ kg.$$
+
+$$v = \sqrt{\frac{2 \times 8 \times 10^{-3}}{0,1625}} \simeq 0,31\ m.s^{-1}.$$
+
+À $t_1 = 0,3\ s$, le mouvement est dans le sens positif de l'axe z.
+
+$$v_1 \simeq +0,31\ m.s^{-1}$$
+
+Question 5 : Masse $m'$ pour la résonance mécanique [0,5 pt]
+
+La résonance mécanique se produit lorsque la fréquence propre du système devient égale à la fréquence de l'excitateur :
+
+$$f'_0 = F_E = 3\ Hz.$$
+
+Donc :
+
+$$T'_0 = \frac{1}{F_E} = \frac{1}{3}\ s.$$
+
+La période propre avec la masse $m'$ est :
+
+$$T'_0 = 2\pi\sqrt{\frac{J_\Delta + m'R^2}{KR^2}}.$$
+
+On isole $m'$ :
+
+$$(T'_0)^2 = 4\pi^2\frac{J_\Delta + m'R^2}{KR^2}.\qquad J_\Delta + m'R^2 = \frac{KR^2(T'_0)^2}{4\pi^2}.$$
+
+$$m' = \frac{\frac{KR^2(T'_0)^2}{4\pi^2} - J_\Delta}{R^2}.$$
+
+Application numérique :
+
+$$m' = \frac{\frac{40(2 \times 10^{-2})^2(1/3)^2}{4 \times 10} - 2,5 \times 10^{-5}}{(2 \times 10^{-2})^2}.\qquad m' \simeq 4,9 \times 10^{-2}\ kg.$$
+
+$$m' \simeq 0,05\ kg \qquad m' \simeq 50\ g$$
+
+Tableau récapitulatif de l'exercice 4
+
+| Question | Résultat final | Barème |
+|---|---|---|
+| Q1 | $\Delta\ell_0 = \frac{mg}{K}$ | 0,50 |
+| Q2-1 | $\ddot{z} + \frac{KR^2}{J_\Delta + mR^2}z = 0$ | 0,75 |
+| Q2-2-1 | $A = 2\ cm$, $\varphi = 0$ | 0,50 |
+| Q2-2-2 | $T_0 = 2\pi\sqrt{\frac{J_\Delta + mR^2}{KR^2}}$ | 0,50 |
+| Q3 | $T_{max} \simeq 1,5\ N$ | 0,50 |
+| Q4-1 | $E_p = \frac{1}{2}K(z^2 + \Delta\ell_0^2) + E_{p0}$ | 0,75 |
+| Q4-2 | $K \simeq 40\ N.m^{-1}$ ; $J_\Delta \simeq 2,5 \times 10^{-5}\ kg.m^2$ | 0,50 |
+| Q4-3 | $v_1 \simeq +0,31\ m.s^{-1}$ | 0,75 |
+| Q5 | $m' \simeq 0,05\ kg = 50\ g$ | 0,50 |
+
+Tableau global du barème
+
+| Exercice | Thème | Total |
+|---|---|---|
+| Exercice 1 | Chimie : estérification, indicateur coloré, équilibre acide-base | 7 pts |
+| Exercice 2 | Transformations nucléaires et datation de la Terre | 2,75 pts |
+| Exercice 3 | Électricité : condensateur, décharge, modulation et réception | 5 pts |
+| Exercice 4 | Mécanique : système oscillant avec poulie | 5,25 pts |
+| Total général | | 20 pts |
+
+Www.AdrarPhysic.Fr
